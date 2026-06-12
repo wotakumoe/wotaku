@@ -10,7 +10,9 @@ Information about various types of publishers for manga and manhwa. Image qualit
 
 ## Volumes
 
-### General Platforms
+::: tabs
+
+== General Platforms
 
 | Store                                       | Resolution | DRM Removal | SFW | Recommended { class="compact" }  |
 |---------------------------------------------|------------|-------------|-----|----------------------------------|
@@ -32,8 +34,7 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 4. Unless they have exclusives or discounts, as other platforms are easier
 :::
 
-
-### Publishers
+== Publishers
 | Store                                         | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 |-----------------------------------------------|------------|----------|-----|-------------------------------------|
 | [Ablaze](https://www.ablaze.net/)<sup>1</sup>  | ~x1800 | :no: | :yes: | Humble Bundle |
@@ -73,9 +74,13 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 11. Amazon Viz books are generally upscaled, especially older books (pre-HD-demise as mentioned up above). Some books can still be much lower res natively (e.g. x1500 for certain Viz Select volumes) than what's mentioned here.
 :::
 
+:::
+
 ## Chapters
----
-### Manga
+
+::: tabs
+
+== Manga
 | Platform                                          | Resolution          | SFW   |
 |---------------------------------------------------|---------------------|-------|
 | [Alpha Manga](https://www.alpha-manga.com/)       | x1536               | :yes: |
@@ -93,15 +98,13 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 
 
 ::: tip Notes {open}
-
 1. Every manga is cross-licensed. So whatever the original publisher's standard resolution release is.
 2. For Non-VIZ imports. Kaiju No. 8 is an exception despite being also simulpubbed by Viz, MangaPlus started simulpubbing it a few weeks earlier.
 3. Own licenses are x3072 or higher (lowest is x2560) [Yen Press imports are Yen Press resolution. Rare Crunchyroll imports are usually Crunchyroll resolution, so x1600]
 4. Region-locked to the US, extremely rare random simulpub/backfill chapters are HD (2000x). Kodansha USA-licensed volume chapters imported into K Manga are Kodansha USA's standard-res (so 1600x -> x227x/x2400 based on the trim size).
-
 :::
 
-### Long-strip
+== Long-strip
 These websites focus on Manhwa, Manhua and OEL.
 
 | Platform                                         | Resolution { class="compact" } |  SFW |
@@ -124,4 +127,6 @@ These websites focus on Manhwa, Manhua and OEL.
 4. Most of the titles are 1000x. Some are 800x or 720x.
 5. Manta, Tapas and Tappytoon have some mature (non-porn) titles.
 6. Does have SFW titles, even if they're primarily known for their NSFW titles.
+:::
+
 :::

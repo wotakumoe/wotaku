@@ -21,7 +21,9 @@ Audio can't be legitimately transcoded to higher quality since you can't generat
 - Lossy -> lossless since it will be just a waste of space & no audio quality improvement.
 :::
 
-### fre:ac
+::: tabs
+
+== fre:ac
 
 :::steps
 1. Download and install [**fre:ac**](https://www.freac.org/)
@@ -37,7 +39,7 @@ Audio can't be legitimately transcoded to higher quality since you can't generat
   ![](/ss/freac.png)
 :::
 
-### Foobar2000
+== Foobar2000
 
 :::steps
 1. Download and install [**Foobar2000**](https://www.foobar2000.org/) & [**encoder pack**](https://www.foobar2000.org/encoderpack).
@@ -46,6 +48,8 @@ Audio can't be legitimately transcoded to higher quality since you can't generat
 :::
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/VjPCHhot_k8" frameborder="0" allowfullscreen></iframe></div>
+
+:::
 
 ::: tip Standard Quality for Common Codecs
 | Codec | Quality |

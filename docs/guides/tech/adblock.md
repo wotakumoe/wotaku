@@ -15,26 +15,31 @@ og:
 | ^^        | [LibreWolf](https://librewolf.net/) [:src:](https://codeberg.org/librewolf/source) | :win::app::lin: |
 
 ## General 
-| Category | Solution |
-| :--- | :--- |
-| Extension | [uBlock Origin](https://github.com/gorhill/uBlock) [:s:](https://github.com/gorhill/uBlock) |
-| ^^ | [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) |
-| ^^ | [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) |
-| Filters | [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) |
-| ^^ | [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) |
-| ^^ | [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists) [:s:](https://github.com/hagezi/dns-blocklists) |
-| ^^ | [Yokoffing Filterlists](https://github.com/yokoffing/filterlists) |
-| Apps | [Adguard](https://adguard.com/en/welcome.html) :cs: |
-| ^^ | [Adaway](https://adaway.org/) [:src:](https://github.com/AdAway/AdAway) |
-| ^^ | [RethinkDNS](https://rethinkdns.com/) [:src:](https://github.com/celzero/rethink-app) |
-| Cloud DNS | [NextDNS](https://nextdns.io/) [:s:](https://nextdns.io/) |
-| ^^ | [Adguard](https://adguard-dns.io/en/welcome.html) |
-| ^^ | [Control D](https://controld.com/) |
-| ^^ | [dnswarden](https://dnswarden.com/index.html) |
-| ^^ | [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) |
-| ^^ | [RethinkDNS](https://rethinkdns.com/) |
-| Self-Hosted DNS | [Pi-hole](https://pi-hole.net/) |
-| ^^ | [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) |
+::: tabs
+
+== Extension
+- [uBlock Origin](https://github.com/gorhill/uBlock) [:s:](https://github.com/gorhill/uBlock)
+- [uBO Lite](https://github.com/uBlockOrigin/uBOL-home)
+- [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html)
+
+== Filters
+- [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
+- [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist)
+- [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists) [:s:](https://github.com/hagezi/dns-blocklists)
+- [Yokoffing Filterlists](https://github.com/yokoffing/filterlists)
+
+== Apps
+- [Adguard](https://adguard.com/en/welcome.html) :cs:
+- [Adaway](https://adaway.org/) [:src:](https://github.com/AdAway/AdAway)
+- [RethinkDNS](https://rethinkdns.com/) [:src:](https://github.com/celzero/rethink-app)
+
+== Cloud DNS
+- [NextDNS](https://nextdns.io/) :s:
+- [Adguard](https://adguard-dns.io/en/welcome.html)
+- [Control D](https://controld.com/)
+- [dnswarden](https://dnswarden.com/index.html)
+- [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
+- [RethinkDNS](https://rethinkdns.com/)
 
 <collapsible title="Extra DNS info">
 
@@ -49,6 +54,13 @@ og:
 | [Quad9](https://quad9.net/) | :cswi: | :no: | N/A |
 
 </collapsible>
+
+== Self-Hosted DNS
+- [Pi-hole](https://pi-hole.net/)
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+
+:::
+
 
 ::: warning Before adding filters
 Adding a lot of filters to your adblocker (that you don't specifically need) can impact the performance of your browser and cause slowdowns. It may also break the normal capabilities of UBO, so try to stick with the default filters.

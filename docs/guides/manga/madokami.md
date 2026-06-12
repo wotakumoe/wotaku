@@ -18,8 +18,9 @@ og:
 Install an IRC client, like [**HexChat**](https://hexchat.github.io/) for PC and [**Revolution IRC**](https://f-droid.org/packages/io.mrarm.irc/) for Android. You can't use web clients, more options [**here**](https://ircv3.net/software/clients).
 :::
 
+::: tabs
 
-### Step 1
+== Step 1
 
 Connect to **Rizon IRC network**.
 
@@ -37,9 +38,7 @@ Connect to **Rizon IRC network**.
 
 <Collapsible title="For Revolution IRC">
 
-
-![](/ss/mado/rirc.png)
-
+::: steps
 By default, Revolution IRC doesn't list any networks, so you will need to add Rizon manually by following these steps:
 1. Tap the :mdi-plus-circle: button in the bottom right corner of the screen
 2. Set network name as `Rizon`
@@ -49,12 +48,14 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 6. Set your desired nickname
 7. Save the configuration
 8. You will now see the Rizon network on the main screen. Click on it to start the joining process
+:::
+
+![](/ss/mado/rirc.png)
 
 
 </Collapsible>
 
-
-### Step 2
+== Step 2
 
 ::: warning Important
 - Use a real e-mail address. Temporary and throw-away e-mail addresses are not acceptable.
@@ -73,7 +74,7 @@ By default, Revolution IRC doesn't list any networks, so you will need to add Ri
 Now, your nickname is registered, and you've automatically been identified. You are eligible to join Madokami.
 Upon your next visit to Rizon IRC network, use the same nickname, and identify using the following command: `/msg NickServ IDENTIFY yourPassword`
 
-### Step 3
+== Step 3
 
 :::steps
 1. Type `/join #madokami` at the bottom command bar to join Madokami channel.
@@ -92,13 +93,28 @@ If everything worked, you will now see a **sola** tab on the left (or at the top
 If you've followed this guide perfectly, but still aren't getting a reply from sola in the side tab, try the following:
 - Remove any special symbols from your nick, leaving only letters and numbers, or use a more unique nick (in case someone else already registered it).
 - If you're using mobile data, switch to wi-fi.
+- Your IP is banned.
 :::
 
+:::
 
-<Collapsible title="Auto-join Madokami Channel">
+::: tip Changing password
+To change your password, run this command in the `#madokami` channel
+
+```
+/msg sola CHANGEPASSWORD username oldpass newpass
+```
+:::
+
+## Auto-join Madokami Channel
 
 You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
-#### Hexchat
+
+::: tabs
+
+== Hexchat
+
+::: steps
 1. Press `Ctrl + S` to open Network List & select **Rizon** in the network list
 2. Click **Edit**
 3. In **Connection Command**, click on **Add**
@@ -109,23 +125,28 @@ You can also set up your client to do this automatically by adding it to the **C
 8. **Uncheck** "Use global user information"
 9. In **Nick name** add your registered nickname
 10. In **Second choice** add your registered nickname with "_" at the end
+:::
 
 ![](/ss/mado/autohex.png)
 
-#### Revolution IRC
+== Revolution IRC
+
+::: steps
 1. Long press on the rizon network
 2. Click on **Edit**
 3. Add `#madokami` in **Auto-join channels**
 4. Add `/msg NickServ IDENTIFY yourPassword` in **Auto-run commands**
+:::
 
 ![](/ss/mado/autorev.png)
 
-</Collapsible>
-
+:::
 
 ## Downloading Files
 
-### Free Manga Downloader 2
+::: tabs
+
+== Free Manga Downloader 2
 
 :::steps
 1. Download and install FMD2 from [**here**](https://github.com/dazedcat19/FMD2)
@@ -138,10 +159,7 @@ You can also set up your client to do this automatically by adding it to the **C
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/BR3GR8S_Oqo" frameborder="0" allowfullscreen></iframe></div>
 
-<Collapsible title="More FMD2 Settings">
-
-
-#### Auto Scan
+<Collapsible title="Auto Scan">
 
 You can scan a Madokami folder automatically.
 1. Go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
@@ -155,10 +173,11 @@ You can scan a Madokami folder automatically.
     - Auto check for new chapter in an interval. Default 60 should be good enough
     - Automatically download after finish checking
 
-#### Save as
+</Collapsible>
+
+<Collapsible title="Save as">
 
 By default, FMD2 will save it as folder. Go to `Options > Save to > Save download chapter as` and choose your format.
-
 
 </Collapsible>
 
@@ -166,7 +185,7 @@ By default, FMD2 will save it as folder. Go to `Options > Save to > Save downloa
 Note that FMD2's module uses Madokami's web reader, which can't read `.webp` files, thus resulting in errors.
 :::
 
-### Gallery-dl
+== Gallery-dl
 
 :::steps
 1. Download and install [gallery-dl](https://codeberg.org/mikf/gallery-dl) and [aria2](https://github.com/aria2/aria2).
@@ -204,7 +223,7 @@ gallery-dl "Madokami URL"
 ```
 :::
 
-### JDownloader 2
+== JDownloader 2
 
 :::steps
 1. Download and install JDL2 from [**here**](/guides/tech/jdl)
@@ -225,7 +244,7 @@ gallery-dl "Madokami URL"
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/Ar2ZMXjMRDQ" frameborder="0" allowfullscreen></iframe></div>
 
 
-### Mihon forks
+== Mihon forks
 
 :::steps
 1. Add the [Keiyoushi repo](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) in your Mihon forks.
@@ -239,5 +258,5 @@ gallery-dl "Madokami URL"
 The Madokami extension by Keiyoushi uses Madokami's web reader instead of downloading the files like other downloaders (so that you can load the manga page by page). Madokami's web reader can't read `.webp` files, resulting in errors in Mihon and its forks as well.
 :::
 
-### iOS
+== iOS
 You can access Madokami on [Aidoku](https://aidoku.app/) with the [Community repo](https://aidoku-community.github.io/sources/) and [Suwatte](https://www.suwatte.app/) using the [Seb repo](https://sebzzzzzzzzzzzzzzzz.github.io/sources/).

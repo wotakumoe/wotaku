@@ -9,7 +9,9 @@ This guide is for PC (specifically Windows) using [FMD 2](https://github.com/daz
 
 ## FMD 2
 
-### Installation
+::: tabs
+
+== Installation
 
 :::steps
 1. Download the software from [**here**](https://github.com/dazedcat19/FMD2/releases).
@@ -27,7 +29,7 @@ This guide is for PC (specifically Windows) using [FMD 2](https://github.com/daz
 7. After the download is complete, it will ask you to restart the software. **Restart**.
 :::
 
-### Settings
+== Settings
 
 | Category     | Details                                                                                                                                |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,7 +40,7 @@ This guide is for PC (specifically Windows) using [FMD 2](https://github.com/daz
 | ^^               | Options will show settings specific to each module.                                                                                |
 | ^^               | Advanced is for module-specific proxy and connection settings.                                                                     |
 
-### Downloading
+== Downloading
 
 :::steps
 1. Go to "Manga info".
@@ -48,4 +50,6 @@ This guide is for PC (specifically Windows) using [FMD 2](https://github.com/daz
 4. Select the entries you want to download and click **Download**.
 
     ![FMD2](/ss/fmd/fmd.png)
+:::
+
 :::

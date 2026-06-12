@@ -45,7 +45,9 @@ After this is done, your MKV file is ready! You can convert it to an MP4 or othe
 
 ## Making ISO
 
-### MakeMKV + ImgBurn
+::: tabs
+
+== MakeMKV + ImgBurn
 
 :::steps
 1. Get a USB player, open up MakeMKV, and insert the disc. [**Patch**](#setting-up-uhd-rips) your USB player if you're doing UHD
@@ -65,7 +67,7 @@ After this is done, your MKV file is ready! You can convert it to an MP4 or othe
 
 You now have a full digital copy of your disc. This allows you to do a variety of things, such as watch with disc menus on VLC or make a full backup onto a physical disc (essentially making an identical copy). As mentioned previously, you can also use this ISO file to get an MKV on MakeMKV.
 
-### Xreveal
+== Xreveal
 
 ::: info Note
 You are **not required** to use the Pro version. It offers extra protection removal and some extra features (like a dark theme) but it is not needed to use the software.
@@ -96,6 +98,8 @@ If you want to verify the ISO's file, you can use Xreveal's ["Content Hash Verif
 6. Run the following:
     - `./contenthashverifier.exe X:\`
     - Replace X: with what drive it's in.
+:::
+
 :::
 
 The instructions are somewhat similar on Mac and Linux. (Plus if you're on Linux, it's expected that you know how to use a terminal.) It's also worth noting that, unless you get any read errors during ripping, you *should not need to verify* the disc's hash, especially right away.
