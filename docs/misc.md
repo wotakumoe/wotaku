@@ -139,12 +139,15 @@ outline: 2
 == Others
 | Section | Websites |
 |-|-|
-| Cons    | [alley.moe](https://alley.moe/) |
-| ^^      | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
-| ^^      | [UpcomingCons](https://upcomingcons.com/) |
 | Drama / Live action | [LAMA - Live Action Manga Adaptations](https://lama.watch/) | 
 | ^^      | [MyDramaList](https://mydramalist.com/) |
 | ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
+| Events  | [alley.moe](https://alley.moe/) |
+| ^^      | [Circle.ms](https://portal.circle.ms/) :ljp: |
+| ^^      | [Doujin Event Navi](https://shimeken.com/events) :ljp: |
+| ^^      | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
+| ^^      | [Kettokomu](https://ketto.com/) :ljp: |
+| ^^      | [UpcomingCons](https://upcomingcons.com/) |
 | Games / VN | [VNDB](https://vndb.org/) :s: |
 | ^^      | [Nepchan](https://nepchan.org/) |
 | ^^      | [EroGamescape](https://erogamescape.org/) :ljp::ero: [:alt:](https://erogamescape.dyndns.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
