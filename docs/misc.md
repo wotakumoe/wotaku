@@ -80,40 +80,32 @@ outline: 2
 </Collapsible>
 
 == Anime
-- [aniDB](https://anidb.net/) :s:
-- [AnimeSongs.org](https://animesongs.org/)
-- [Aniplaylist](https://aniplaylist.com/)
-- [AnimeDB](https://animedb.jp/) :ljp:
-- [NeoApo](https://neoapo.com/) :ljp:
-
-<Collapsible title="More">
 
 | Category | Websites |
 | --- | --- |
-| **Landmarks** | [anitabi](https://anitabi.cn/) :s::lcn: [:src:](https://github.com/anitabi/anitabi.cn-document) |
-| ^^ | [Flubber’s Fluttering Anime Pilgrimage](https://furaba-animeseichi.blog.jp/) :ljp: |
-| ^^ | [Anime Tourism](https://anime-tourism.jp/) :ded::ljp: |
+| **Dedicated** | [aniDB](https://anidb.net/) :s: |
+| ^^ | [AnimeDB](https://animedb.jp/) :ljp: |
+| ^^ | [NeoApo](https://neoapo.com/) :ljp: |
 | **General** | [SIMKL](https://simkl.com/) |
 | ^^ | [The Movie Database](https://www.themoviedb.org/) |
 | ^^ | [TheTVDB.com](https://www.thetvdb.com/) |
+| **OST** | [AnimeSongs.org](https://animesongs.org/) |
+| ^^ | [Aniplaylist](https://aniplaylist.com/) |
+| **Landmarks** | [anitabi](https://anitabi.cn/) :s::lcn: [:src:](https://github.com/anitabi/anitabi.cn-document) |
+| ^^ | [Flubber’s Fluttering Anime Pilgrimage](https://furaba-animeseichi.blog.jp/) :ljp: |
+| ^^ | [Anime Tourism](https://anime-tourism.jp/) :ded::ljp: |
 | **Others** | [Anime Filler Guide](https://www.animefillerguide.com/) |
 
-</Collapsible>
 
 == Manga
 - [MangaUpdates](https://www.mangaupdates.com/) :s:
 - [Manba](https://manba.co.jp/) :s::ljp:
 - [Manga Properties](https://manga.properties/)
-
-<Collapsible title="More">
-
 - [Chill Chill](https://www.chil-chil.net/) :ljp::ero:
 - [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
 - [Comic Vine](https://comicvine.gamespot.com/)
 - [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) :ljp:
 - [Shounen Manga Encyclopedia](https://allcomic.noor.jp/)
-
-</Collapsible>
 
 == Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
