@@ -711,10 +711,24 @@ onMounted(() => {
     const tabFromHash = raw.startsWith('#' + TAB_LINK_MARKER)
       ? raw.slice(1 + TAB_LINK_MARKER.length)
       : null
-    const tabFromQuery =
-      !tabFromHash && raw.includes(`?${TAB_QUERY_PARAM}=`) && !raw.includes('#')
-        ? new URLSearchParams(raw.split('?')[1]).get(TAB_QUERY_PARAM)
-        : null
+    let tabFromQuery: string | null = null
+    if (
+      !e.defaultPrevented &&
+      !tabFromHash &&
+      raw.includes(`?${TAB_QUERY_PARAM}=`) &&
+      !raw.includes('#')
+    ) {
+      try {
+        const url = new URL(raw, window.location.href)
+        const samePage = url.origin === window.location.origin &&
+          url.pathname === window.location.pathname
+        tabFromQuery = samePage
+          ? url.searchParams.get(TAB_QUERY_PARAM)
+          : null
+      } catch {
+        tabFromQuery = null
+      }
+    }
     const tabName = tabFromHash ?? tabFromQuery
 
     if (tabName) {
