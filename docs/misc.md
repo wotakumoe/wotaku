@@ -55,23 +55,23 @@ outline: 2
 
 | Section      | Database     | Rules |
 | :---         | :---         | :--- |
-| Anime        | AniList      | Only adds professionally produced animation where a Japanese studio has significant control. Example: Star Wars: Visions. |
-| Manga        | Anime-Planet | Does not add lolicon, shotacon, or ero manga. |
-| OEL          | MyAnimeList  | Does not add OEL. |
+| **Anime**        | AniList      | Only adds professionally produced animation where a Japanese studio has significant control. Example: Star Wars: Visions. |
+| **Manga**        | Anime-Planet | Does not add lolicon, shotacon, or ero manga. |
+| **OEL**          | MyAnimeList  | Does not add OEL. |
 | ^^           | AniList      | Adds OEL but has a lot of criteria. |
-| Doujinshi    | MyAnimeList  | Only adds Japanese doujinshi published physically, sold via events, online retailers, or mailing. |
+| **Doujinshi**    | MyAnimeList  | Only adds Japanese doujinshi published physically, sold via events, online retailers, or mailing. |
 | ^^           | ^^           | Staff has to have professional background. |
 | ^^           | AniList      | Only adds Japanese doujinshi if staff has a professional background or has published via a publisher. |
 | ^^           | ^^           | Must be original work with a proper story. |
 | ^^           |              | Adds doujin webcomics that were later serialized without much modification. |
 | ^^           | ^^           | Does not add any other types of doujinshi. |
 | ^^           | Anime-Planet | Only Japanese doujinshi; no parodies, no webtoon doujinshi, and staff must have a professional background. |
-| Novels       | MyAnimeList  | Adds direct adaptations / prequels / sequels / spin-offs of existing database entries (1980+ only); no interpretations. |
+| **Novels**       | MyAnimeList  | Adds direct adaptations / prequels / sequels / spin-offs of existing database entries (1980+ only); no interpretations. |
 | ^^           | AniList      | Does not add novels with manga-style aesthetics except for Light Novels. |
 | ^^           | Anime-Planet | Does not add Japanese web novels until picked up by a publisher as Light Novels. |
 | ^^           | ^^           | Adds Korean web novels (official or unofficial translations). |
 | ^^           | ^^           | Adds Chinese web novels only if officially licensed. |
-| Light Novels | MyAnimeList  | Adds Light Novels and Korean / Chinese novels only if they have an adaptation. |
+| **Light Novels** | MyAnimeList  | Adds Light Novels and Korean / Chinese novels only if they have an adaptation. |
 | ^^           | ^^           | Must be published in volumes/magazines under a recognized Light Novel label. |
 | ^^           | ^^           | Unlabeled series considered if they meet regular novel criteria and have sufficient illustrations for Art credits. |
 | ^^           | AniList      | Only adds Japanese light novels from reputed publishers. |
@@ -98,14 +98,16 @@ outline: 2
 
 
 == Manga
-- [MangaUpdates](https://www.mangaupdates.com/) :s:
-- [Manba](https://manba.co.jp/) :s::ljp:
-- [Manga Properties](https://manga.properties/)
-- [Chill Chill](https://www.chil-chil.net/) :ljp::ero:
-- [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
-- [Comic Vine](https://comicvine.gamespot.com/)
-- [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) :ljp:
-- [Shounen Manga Encyclopedia](https://allcomic.noor.jp/)
+
+| Category | Websites |
+| --- | --- |
+| **General** | [MangaUpdates](https://www.mangaupdates.com/) :s: |
+| ^^ | [Manba](https://manba.co.jp/) :s::ljp: |
+| ^^ | [Comic Vine](https://comicvine.gamespot.com/) |
+| **Magazine** | [Manga Properties](https://manga.properties/) |
+| ^^ | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) |
+| **Themed** | [Chill Chill](https://www.chil-chil.net/) :ljp::ero: !||BL|| |
+| ^^ | [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) :ljp: |
 
 == Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
@@ -114,13 +116,14 @@ outline: 2
 - [Goodreads](https://www.goodreads.com/)
 
 == Production
-| Category | Resource |
-| :--- | :--- |
-| General | [Anisil](https://www.anisil.com/) :ljp: |
-| Animation | [Anime Production Company Database](https://animeco.link/) :ljp: |
+
+| Category | Websites |
+| --- | --- |
+| **General** | [Anisil](https://www.anisil.com/) :ljp: |
+| **Animation** | [Anime Production Company Database](https://animeco.link/) :ljp: |
 | ^^ | [Anime Staff Matcher](https://staff.iklone.org/) :mal: [:src:](https://github.com/iklone/anime-staff-matcher) |
 | ^^ | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
-| Seiyuu / Voice Actor | [Maumau ☆ Anime Viewing Record](https://www.mau2.com/) :s::ljp: |
+| **Seiyuu / Voice Actor** | [Maumau ☆ Anime Viewing Record](https://www.mau2.com/) :s::ljp: |
 | ^^ | [Anime Hack](https://anime.eiga.com/person/) :ljp: |
 | ^^ | [AVAC.moe](https://avac.moe/index.php) :mal: |
 | ^^ | [Seiyuu.moe](https://seiyuu.moe/) :mal: |
@@ -129,19 +132,20 @@ outline: 2
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
 
 == Others
-| Section | Websites |
-|-|-|
-| Drama / Live action | [LAMA - Live Action Manga Adaptations](https://lama.watch/) | 
+
+| Category | Websites |
+| --- | --- |
+| **Drama / Live action** | [LAMA - Live Action Manga Adaptations](https://lama.watch/) | 
 | ^^      | [MyDramaList](https://mydramalist.com/) |
 | ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
-| Events  | [alley.moe](https://alley.moe/) |
+| **Events**  | [alley.moe](https://alley.moe/) |
 | ^^      | [Circle.ms](https://portal.circle.ms/) :ljp: |
 | ^^      | [Doujin Event Navi](https://shimeken.com/events) :ljp: |
 | ^^      | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
 | ^^      | [Kettokomu](https://ketto.com/) :ljp: |
 | ^^      | [UpcomingCons](https://upcomingcons.com/) |
-| Games / VN | [VNDB](https://vndb.org/) :s: |
-| ^^      | [Nepchan](https://nepchan.org/) |
+| **Games / VN** | [The Visual Novel Database](https://vndb.org/) :s: |
+| ^^      | [The Doujin RPG Database](https://nepchan.org/) |
 | ^^      | [EroGamescape](https://erogamescape.org/) :ljp::ero: [:alt:](https://erogamescape.dyndns.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
 
 :::
@@ -180,13 +184,13 @@ outline: 2
 
 | Type | Website |
 |-|-|
-| General | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/Butterstroke/Myneworm) |
+| **General** | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/Butterstroke/Myneworm) |
 | ^^      | [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss) |
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
-| Manga   | [Otaku Calendar](https://otakucalendar.com/) |
+| **Manga**   | [Otaku Calendar](https://otakucalendar.com/) |
 | ^^      | [Whakoom](https://en.whakoom.com/) :fm: |
 | ^^      | [Sumikko Comic](https://comic.sumikko.info/) :s::ljp: [:rss:](https://comic.sumikko.info/rss.xml) |
-| Light Novel | [RanobeDB](https://ranobedb.org/releases/calendar) :s: [:src:](https://github.com/Blastose/ranobedb) |
+| **Light Novel** | [RanobeDB](https://ranobedb.org/releases/calendar) :s: [:src:](https://github.com/Blastose/ranobedb) |
 | ^^      | [Light Novel Releases](https://lnrelease.github.io/) [:src:](https://github.com/LNRelease/lnrelease.github.io) |
 | ^^      | [Sumikko Novel](https://novel.sumikko.info/) :ljp: [:rss:](https://novel.sumikko.info/rss.xml) |
 | ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :ljp: [:rss:](https://bunko.sumikko.info/rss.xml) |
@@ -313,6 +317,7 @@ outline: 2
 | ^^ | [Anime World by Tim Eldred](https://timeldred.com/category/anime-world/) |
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |
 | ^^ | :prev: [**More in Arts**](/art#official-art) |
+| **Manga** | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: |
 | **Games** | [Old Game Mags](https://oldgamemags.tumblr.com/) [:x:](https://x.com/OldGameMags) |
 | ^^ | [Forgotten Worlds](https://www.forgottenworlds.net/) [:x:](https://x.com/american80s) |
 | ^^ | [Gaming Alexandria](https://www.gamingalexandria.com/wp/) [:x:](https://x.com/dushubz) |
@@ -388,12 +393,12 @@ outline: 2
 
 | Type | Resource |
 | :--- | :--- |
-| Anime | [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/) |
+| **Anime** | [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/) |
 | ^^ | [/r/anime Awards](https://animeawards.moe/) [:src:](https://github.com/r-anime/awards-web) |
 | ^^ | [The Ultimate Anime Recommendation Flowchart](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/) [:alt:](https://rentry.org/ultimatebackup) |
 | ^^ | [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al: |
-| Manga | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al: |
-| Visual Novel | [VNDB](https://vndb.org/v?f=022gja3gja&s=34w) |
+| **Manga** | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al: |
+| **Visual Novel** | [VNDB](https://vndb.org/v?f=022gja3gja&s=34w) |
 | ^^ | [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home) |
 | ^^ | [r/VN's 2018](https://vnrecs.github.io/) |
 | ^^ | [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations) |
@@ -426,17 +431,17 @@ Only use this if you know what you're getting yourselves into. Recommended board
 
 | Category | URL | Platform |
 | :--- | :--- | :--- |
-| Clients | [Anychans](https://anychans.github.io/4chan/) [:src:](https://github.com/catamphetamine/anychan) | :web: |
+| **Clients** | [Anychans](https://anychans.github.io/4chan/) [:src:](https://github.com/catamphetamine/anychan) | :web: |
 | ^^ | [DashchanFork](https://github.com/TrixiEther/DashchanFork) | :and: |
 | ^^ | [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :cs: | :and: |
 | ^^ | [TUI-Chan](https://github.com/tuqqu/tui-chan) | :win: |
-| Extension / Script | [4chan X](https://github.com/ccd0/4chan-x) | :cr::js: |
+| **Extension** / Script | [4chan X](https://github.com/ccd0/4chan-x) | :cr::js: |
 | ^^ | [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) | :js: |
 | ^^ | [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) | :ff::js: |
-| 4chan X themeing | [OneeChan](https://github.com/KevinParnell/OneeChan) | :js: |
+| **4chan X themeing** | [OneeChan](https://github.com/KevinParnell/OneeChan) | :js: |
 | ^^ | [StyleChan](https://github.com/3nly/StyleChan) | :js: |
 | ^^ | [SS21](https://github.com/saxamaphone69/ss21) | :js::mdi-format-paint: |
-| Others | [4stats.io](https://4stats.io/) | :web: |
+| **Others** | [4stats.io](https://4stats.io/) | :web: |
 
 </collapsible>
 
@@ -481,14 +486,14 @@ Only use this if you know what you're getting yourselves into. Recommended board
 
 | Category  | Website |
 |-----------|---------|
-| General   | [AniGuessr](https://aniguessr.com/) |
-| Song      | [Anime Music Quiz](https://animemusicquiz.com/) [:pin:](https://github.com/Shaykaden/AMQ-tabify-anime-selection) |
+| **General**   | [AniGuessr](https://aniguessr.com/) |
+| **Song**      | [Anime Music Quiz](https://animemusicquiz.com/) [:pin:](https://github.com/Shaykaden/AMQ-tabify-anime-selection) |
 | ^^        | [AnimeSongs Quiz](https://quiz.animesongs.org/) |
 | ^^        | [Eroge Music Quiz](https://erogemusicquiz.com/) :ero: |
 | ^^        | [Guess The Anime Opening](https://guesstheopening.com/anime) |
-| Character | [Chiaki Anime Quiz](https://chiaki.site/?/quiz) |
-| Scene     | [AnimeGuess](https://www.animeguess.moe/) |
-| Others    | [Animerdle](https://www.animerdle.com/) |
+| **Character** | [Chiaki Anime Quiz](https://chiaki.site/?/quiz) |
+| **Scene**     | [AnimeGuess](https://www.animeguess.moe/) |
+| **Others**    | [Animerdle](https://www.animerdle.com/) |
 | ^^        | [Rule34dle](https://rule34dle.vercel.app/) |
 
 == Miscellaneous
