@@ -75,10 +75,10 @@ og:
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
 | [AB Download Manager](https://abdownloadmanager.com/) [:src:](https://github.com/amir1376/ab-download-manager) | :win::lin: | :yes: | :no: | :yes: |
-| [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) | :win::app::lin::cmd: | :yes: | :yes: | :yes: |
 | [Deluge](https://www.deluge-torrent.org/) [:src:](https://github.com/deluge-torrent/deluge) | :win::app::lin: | :no: | :yes: | :yes: |
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) | :win: | :yes: | :no: | :no: |
 | [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
+| [Motrix Next](https://motrix-next.pages.dev/) [:src:](https://github.com/AnInsomniacy/motrix-next) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [qBittorrent](https://www.qbittorrent.org/) [:alt:](https://qbittorrent.github.io/qBittorrent-website/) [:src:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
 | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | :win::app::lin::cmd: | :yes: | :no: | :yes: |
@@ -87,9 +87,9 @@ og:
 
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
+| [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) | :win::app::lin::cmd: | :yes: | :yes: | :yes: |
 | [BiglyBT](https://www.biglybt.com/) [:src:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
-| [ImFile](https://github.com/imfile-io/imfile-desktop/) | :win::app: | :yes: | :yes: | :yes: |
 | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :yes: | :no: | :yes: |
 | [Persepolis](https://persepolisdm.github.io/) [:src:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
