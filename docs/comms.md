@@ -58,6 +58,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Anime Soul](https://discord.gg/animesoul)
 - [Ass Anime Community](https://discord.gg/RD72pNRYFu)
 - [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
+- [Miruro Community](https://discord.gg/pjsdJp96mY)
 - [Re:ANIME Community](https://discord.gg/QsqcnsryyK)
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
 - [SubsPlease](https://discord.gg/33Hxdas)
