@@ -483,7 +483,7 @@ table tr:nth-child(odd) {
 .vp-doc table tr,
 .vp-doc table td,
 .vp-doc table th {
-  border-color: #525252;
+  border-color: #3d3d3d;
 }
 
 .tip.custom-block table tr,
@@ -1693,7 +1693,7 @@ html.reduce-blur-effects {
 .plugin-tabs {
   margin: 16px 0;
   background-color: var(--vp-plugin-tabs-tab-bg);
-  border: 2px solid #525252;
+  border: 2px solid #3d3d3d;
   border-radius: 8px;
 }
 
