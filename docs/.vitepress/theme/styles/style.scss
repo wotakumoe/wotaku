@@ -422,6 +422,7 @@ main figure figcaption {
 .vp-doc h2 {
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
+  border-top-color: #525252;
 }
 
 .vp-doc h1 + .vp-nolebase-page-properties {
@@ -452,6 +453,12 @@ main figure figcaption {
 table tr:nth-child(even),
 table tr:nth-child(odd) {
   background-color: transparent !important;
+}
+
+.vp-doc table tr,
+.vp-doc table td,
+.vp-doc table th {
+  border-color: #525252;
 }
 
 .tip.custom-block table tr,
@@ -1661,6 +1668,7 @@ html.reduce-blur-effects {
 .plugin-tabs {
   margin: 16px 0;
   background-color: var(--vp-plugin-tabs-tab-bg);
+  border: 2px solid #525252;
   border-radius: 8px;
 }
 
