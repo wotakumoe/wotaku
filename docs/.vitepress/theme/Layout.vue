@@ -192,7 +192,7 @@ const rewriteAnchorLinks = () => {
   const pathname = window.location.pathname
 
   document
-    .querySelectorAll<HTMLAnchorElement>('.VPDoc a[href]')
+    .querySelectorAll<HTMLAnchorElement>('.VPDoc .vp-doc a[href]')
     .forEach((link) => {
       // Accept either the original `#…` form or a previously-rewritten absolute URL.
       const raw = link.getAttribute('href') ?? ''
@@ -206,8 +206,12 @@ const rewriteAnchorLinks = () => {
         const qs = raw.slice((origin + pathname + '?').length).split('#')[0]
         const tabName = new URLSearchParams(qs).get(TAB_QUERY_PARAM)
         if (tabName) {
-          const href = `${origin}${pathname}?${TAB_QUERY_PARAM}=${encodeURIComponent(tabName)}`
-          if (link.getAttribute('href') !== href) link.setAttribute('href', href)
+          const href = `${origin}${pathname}?${TAB_QUERY_PARAM}=${
+            encodeURIComponent(tabName)
+          }`
+          if (link.getAttribute('href') !== href) {
+            link.setAttribute('href', href)
+          }
         }
         return
       } else {
@@ -404,8 +408,7 @@ const tryOpenAnchoredContent = async () => {
     return
   }
 
-  const isTabRelatedTarget =
-    target.classList.contains('tab-search-heading') ||
+  const isTabRelatedTarget = target.classList.contains('tab-search-heading') ||
     Boolean(target.closest('.plugin-tabs'))
 
   if (
@@ -438,14 +441,68 @@ const tryOpenAnchoredContent = async () => {
   }
 }
 
-const rewriteAnchorLinksDeferred = () =>
-  nextTick(() => rewriteAnchorLinks())
+const rewriteAnchorLinksDeferred = () => nextTick(() => rewriteAnchorLinks())
+
+let outlineFollowObserver: MutationObserver | null = null
+let outlineFollowRaf = 0
+
+const followActiveOutlineLink = () => {
+  cancelAnimationFrame(outlineFollowRaf)
+
+  outlineFollowRaf = requestAnimationFrame(() => {
+    const activeLink = document.querySelector<HTMLElement>(
+      '.VPDocAsideOutline a.outline-link.active'
+    )
+    const scroller = activeLink?.closest<HTMLElement>('.aside-container')
+    if (!activeLink || !scroller) return
+
+    const linkRect = activeLink.getBoundingClientRect()
+    const scrollerRect = scroller.getBoundingClientRect()
+    const margin = 32
+
+    if (linkRect.top < scrollerRect.top + margin) {
+      scroller.scrollTop += linkRect.top - scrollerRect.top - margin
+    } else if (linkRect.bottom > scrollerRect.bottom - margin) {
+      scroller.scrollTop += linkRect.bottom - scrollerRect.bottom + margin
+    }
+  })
+}
+
+const setupOutlineFollow = () => {
+  outlineFollowObserver?.disconnect()
+  outlineFollowObserver = null
+
+  const outline = document.querySelector('.VPDocAsideOutline')
+  if (!outline) return
+
+  outlineFollowObserver = new MutationObserver((mutations) => {
+    if (
+      mutations.some((mutation) =>
+        mutation.type === 'childList' ||
+        (mutation.target instanceof HTMLElement &&
+          mutation.target.matches('a.outline-link'))
+      )
+    ) {
+      followActiveOutlineLink()
+    }
+  })
+
+  outlineFollowObserver.observe(outline, {
+    attributes: true,
+    attributeFilter: ['class'],
+    childList: true,
+    subtree: true
+  })
+  followActiveOutlineLink()
+}
 
 onMounted(tryOpenAnchoredContent)
 onMounted(rewriteAnchorLinksDeferred)
+onMounted(() => nextTick(setupOutlineFollow))
 watch(() => route.data, () => {
   void tryOpenAnchoredContent()
   rewriteAnchorLinksDeferred()
+  nextTick(setupOutlineFollow)
 }, { flush: 'post' })
 watch(() => route.query, () => {
   void tryOpenAnchoredContent()
@@ -674,7 +731,9 @@ onMounted(() => {
 
     // ── Plain heading link: #name or already-rewritten /path#name ─────────
     // Only intercept when ?tabs= is present — otherwise let the router handle normally.
-    if (!new URLSearchParams(window.location.search).has(TAB_QUERY_PARAM)) return
+    if (!new URLSearchParams(window.location.search).has(TAB_QUERY_PARAM)) {
+      return
+    }
 
     let hash: string | null = null
     if (raw.startsWith('#') && raw.length > 1) {
@@ -793,6 +852,8 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
+  outlineFollowObserver?.disconnect()
+  cancelAnimationFrame(outlineFollowRaf)
   takodachiDisable.value && takodachiDisable.value()
 })
 </script>
