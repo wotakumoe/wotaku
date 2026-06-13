@@ -290,6 +290,7 @@ outline: 2
 | ^^ | [Anime Stats](https://anime-stats.net/) :s::mal::al::k: | 
 | **Manga & Novels** | [CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
 | ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
+| ^^ | [JMPA](https://www.j-magazine.or.jp/) :ljp: |
 | ^^ | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== | 
 | ^^ | [Mandy](https://note.com/daisakku) :ljp: [:x:](https://x.com/daisakku) |
 | ^^ | [Manga Industry News Roundup](https://note.com/lovebeer73/m/mfa620c29e68a) :ljp: |
@@ -337,7 +338,6 @@ outline: 2
 |-----------|----------|------------|  
 | **General** | [Anime Bingo](https://anime-bingo.aikats.us/) [:src:](https://github.com/walfie/anime-bingo) | :al: |  
 | ^^        | [due.moe](https://due.moe/) | :al: |  
-| ^^        | [GomiTier](https://www.gomitier.tech/) | :mal::al: |
 | ^^        | [Konsumr](https://www.konsumr.com/) | :al::tmdb: |
 | ^^        | [Related Anime](https://relatedanime.com/) | :mal: |
 | ^^        | [WikiTimeline](https://wiki-timeline.com/) [:src:](https://github.com/wenzhenl/wikitimeline) | :wikip: |
@@ -372,10 +372,11 @@ outline: 2
 | ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
 
 
-== 3x3
+== Tierlist
 | Category | Websites | Customizable | Max RxC |
 | :--- | :--- | :---: | :---: |
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :no: | 5x5 |
+| ^^ | [GomiTier](https://www.gomitier.tech/) | :yes: | - |
 | ^^ | [lists.fun](https://lists.fun/) | :no: | 5x10 |
 | ^^ | :prev: [grids.fun](https://grids.fun/) | :yes: | 6x6 |
 | ^^ | :prev: [placeit.fun](https://placeit.fun/) | - | - |
@@ -385,6 +386,7 @@ outline: 2
 
 ::: scrapetable {Topics}
 - 3x3 Generator : (Anime, AniList & MyAnimeList & Kitsu), (Manga, AniList & MyAnimeList & Kitsu), (Music, LastFM), (Game, RAWG & IGDB), (Visual Novel, VNDB);
+- GomiTier: (Anime, AniList & MyAnimeList), (Manga, AniList & MyAnimeList);
 - Lists.fun : (Anime, MyAnimeList), (Music, MusicBrainZ), (Live Action, TMDB), (Game, IGDB), (Tabletop, BoardGameGeek & Scryfall & Pokeapi);
 - Topsters 3 : (Live Action, TMDB), (Music, LastFM), (Book, Internet Archive), (Game, IGDB);
 - My 9 Games : (Game, IGDB);
