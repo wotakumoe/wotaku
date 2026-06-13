@@ -13,10 +13,12 @@ Due to DMCA takedown notices, [Tachiyomi](https://github.com/tachiyomiorg) (now 
 ## Repositories
 
 ::: warning README
-Some apps might not support **Auto Install method**. That doesn't mean the guide doesn't work. Try [**manual method**](#adding-repo). We have added [**video guides**](#video-guides) too. If your app still isn't getting any extensions, try redoing the process again using VPN.
+Some apps might not support **Auto Install method**. That doesn't mean the guide doesn't work. Try [**manual method**](#adding-repo). If your app still isn't getting any extensions, try redoing the process again using VPN.
 :::
 
-### Anime
+::: tabs
+
+== Anime
 
 | Name | Region | Auto | Manual |
 | - | - | - | - |
@@ -25,8 +27,7 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 | [Claudemirovsky](https://github.com/Claudemirovsky/cursedyomi-extensions) | :cbr::ctur: | [Install](aniyomi://add-repo?url=https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json) |
 | [hollow](https://codeberg.org/hollow/aniyomi-extensions-fr) | :cfr: | [Install](aniyomi://add-repo?url=https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) | [URL](https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json) |
 
-
-### Manga
+== Manga
 | Name | Region | Auto | Manual |
 | - | - | - | - |
 | [Keiyoushi](https://keiyoushi.github.io/) [:src:](https://github.com/keiyoushi/extensions-source) ==kei== | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) | [URL](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json) |
@@ -36,10 +37,13 @@ Some apps might not support **Auto Install method**. That doesn't mean the guide
 | [Suwayomi](https://github.com/Suwayomi/tachiyomi-extension) | :global: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) | [URL](https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json) |
 | [copymanga-copy20](https://github.com/LittleSurvival/copymanga-copy20) | :ccn: | [Install](tachiyomi://add-repo?url=https://raw.githubusercontent.com/LittleSurvival/copymanga-copy20/repo/index.min.json) | [URL](https://raw.githubusercontent.com/LittleSurvival/copymanga-copy20/repo/index.min.json) |
 
+:::
 
-## Sideloading Methods
+## How-to
 
-### Mihon & forks
+::: tabs
+
+== Mihon & forks
 
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
@@ -54,7 +58,9 @@ ___
 4. The extension is disabled by default, so click on the :mdi-shield-check-outline: icon to enable it.
 :::
 
-### Dantotsu & forks
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/wemPCkUCyxo" frameborder="0" allowfullscreen></iframe></div>
+
+== Dantotsu & forks
 
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
@@ -64,23 +70,6 @@ ___
 To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mag:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.
 :::
 
-
-### Video guides
-
-___
-
-::: center
-#### **Mihon & the forks**
-:::
-___
-
-<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/wemPCkUCyxo" frameborder="0" allowfullscreen></iframe></div>
-
-___
-
-::: center
-#### **Dantotsu & the forks**
-:::
-___
-
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/dubXV-R9lUM" frameborder="0" allowfullscreen></iframe></div>
+
+:::

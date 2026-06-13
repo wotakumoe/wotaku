@@ -15,7 +15,9 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 
 ## Repositories
 
-### All-in-One
+::: tabs
+
+== All-in-One
 
 | Name | Region | Auto | Anime | Manga | Novel |
 |------|--------|------|-------|-------|-------|
@@ -25,7 +27,7 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?repo_name=kegareta-sauces&repo_url=https://github.com/gato404/kegareta-sauces&manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json&anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | :yes: | :yes: | :no: |
 
 
-### Anime
+== Anime
 
 | Name | Region | Auto | Manual |
 |------|--------|------|--------|
@@ -35,7 +37,7 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) |
 
 
-### Manga
+== Manga
 
 | Name | Region | Auto | Manual |
 |------|--------|------|--------|
@@ -45,7 +47,7 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 | [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) |
 
 
-### Novels
+== Novels
 
 | Name | Region | Auto | Manual |
 |------|--------|------|--------|
@@ -53,9 +55,10 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 | [Schnitzel5](https://github.com/Schnitzel5/sugoi-modules) | :global: | [Install](mangayomi://add-repo?novel_url=https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/Schnitzel5/sugoi-modules/refs/heads/main/novel_index.json) |
 | [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&novel_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json) |
 
+:::
 
 
-## Sideloading Methods
+## How-to
 
 ### Auto Install
 
@@ -70,7 +73,9 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 
 ### Manual Install
 
-#### Mangayomi
+::: tabs
+
+== Mangayomi
 
 :::steps
 1. Copy the **Manual URL**
@@ -79,10 +84,7 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 4. Paste the URL and click **Add**
 :::
 
-<hr>
-
-#### AnymeX
-
+== AnymeX
 :::steps
 1. Copy the **Manual URL**
 2. Go to AnymeX app
@@ -90,13 +92,13 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
 4. Paste the URL based on repo type and click **Confirm**
 :::
 
-<hr>
-
-#### Dartotsu
+== Dartotsu
 
 :::steps
 1. Copy the **Manual URL**
 2. Go to Dartotsu app
 3. Click :material-symbols-settings: -> :mdi-puzzle: **Extensions** -> **Available Anime / Manga / Novel** -> Click :src:
 4. Paste the URL and click **OK**
+:::
+
 :::

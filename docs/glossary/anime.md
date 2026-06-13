@@ -60,7 +60,9 @@ og:
 
 ## Anime Production
 
-### Anime Production Process
+::: tabs
+
+== Overview
 
 ![Edited version of flowchart by Dong Chang](/diagram/anipro.svg)
 
@@ -70,7 +72,7 @@ og:
 Mentioned [Kikakusho / Pitch package](https://wiki.evageeks.org/Resources:Neon_Genesis_Evangelion_Proposal_(Translation)#Page_2_(Synopsis_and_Staff)) of Neon Genesis Evangelion.
 :::
 
-### Settai
+== Settai
 Settai is collection of model sheets and important places (can be a house, place or anything important). The designs go through multiple stages, so they can change over time. The final drawings are used by staff as the character standard. Depending on the budget, settai can have very high details.
 
 ![Akebi-chan no Sailor-fuku](/glossary/anime/akb.webp)
@@ -79,7 +81,7 @@ Settai is collection of model sheets and important places (can be a house, place
 [Settai Dreams](https://setteidreams.net/) & [Character Design References](https://characterdesignreferences.com/) have a lot of model sheets. Visit these sites for more examples.
 :::
 
-### E-Konte
+== E-Konte
 E-Konte / storyboard shows all the sequences in rough sketches so the director can show the vision to the animators and organize accordingly. It generally has 5 columns:
 1. Scene & cut number
 2. Scene rough drawing
@@ -97,7 +99,7 @@ Formatting of a storyboard can change depending on the studio and director.
 [rinri](https://x.com/guyayaHime) posts a lot of stuff regarding storyboard. You can check out her posts there.
 :::
 
-### Genga
+== Genga
 
 ![Genga workflow](/diagram/genga.svg)
 
@@ -108,7 +110,6 @@ Genga generally goes for important details of a scene. It can be just the charac
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/JM-AFeBtvA4" frameborder="0" allowfullscreen></iframe></div>
 
 <Collapsible title="Short note">
-
 
 If you look at the sakuga, we can see a few numbers.
 - **160** -> Scene number
@@ -123,7 +124,7 @@ If you look at the sakuga, we can see a few numbers.
 We tried to really simplify the process. For more details, check out [**Dong Chang**](https://www.youtube.com/@DongChang), [**Sakuga Foundry**](https://www.youtube.com/@SakugaFoundry) & [Iwane Masaaki’s Animating Channel](https://www.youtube.com/@animator).
 :::
 
-### Timesheet
+== Timesheet
 
 ![Satsuma! by Miyakawa (Unofficial TL by Liss)](/glossary/anime/time.webp)
 
@@ -131,5 +132,7 @@ We tried to really simplify the process. For more details, check out [**Dong Cha
 [**Free PDF book**](https://satuma.grupo.jp/free838189) by [**Miyakawa**](https://x.com/satuma_info) contains a lot of info about timesheets / exposure sheets. [**Liss**](https://x.com/LissBevs) has been doing an unofficial English translation of the book. You can find a partial compiled version [**here**](https://drive.google.com/file/d/1yB2U-OONyAHhFnWsNJhU-R-5-t26YwlY/view) and for the latest updates, [**click here**](https://x.com/hashtag/satsuma_pdf?f=live).
 :::
 
-### Douga
+== Douga
 More cleaned up frames, done by key animators. Dougas are way more completed and have more shading in general. The final animation looks pretty close to douga. In-betweens are also added in this step. Sometime, genga and douga can look pretty close depending on the artist.
+
+:::

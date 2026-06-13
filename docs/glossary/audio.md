@@ -112,8 +112,9 @@ In order to process the analogous signals digitally, we need to perform a proces
 - Discretization of time -> Sampling
 - Discretization of amplitude -> Quantization
 
+::: tabs
 
-### Sampling
+== Sampling
 Sampling is the process of taking a signal and splitting it based on an algorithm. Sampling can be done in the frequency, amplitude, or time domains. Each process involves processing the data differently, but allows for accurate reproduction of an analog signal in the digital realm. 
 
 When referring to audio signals, sampling is the process of splitting signals by time (Hz). This allows for every single frequency in the audible spectrum to accurately be recorded. Learn more about this in [**sample rate :mdi-arrow-top-right:**](#sample-rate).
@@ -121,12 +122,13 @@ When referring to audio signals, sampling is the process of splitting signals by
 
 ![](/glossary/audio/sampling.jpg)
 
-### Quantization
+== Quantization
 Quantization is the process of sampling an analog audio signal and converting it into a digital format. This is performed by taking periodic samples of the audio waveform and recording the amplitude of the analog signal at each sample. This process is done through an approximate measurement. As such, an inherent error exists for every single amplitude recording. This error will manifest as a “noise floor”, or noise that exists below a decibel threshold. Higher bit depths can be utilized in order to reduce this error, but the noise will always exist in the signal chain. 
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b8/Quantization_error.png)
 
+:::
 
 ## Sample Rate
 The amount of samples taken from the analog audio signal per cycle is known as the sample rate. As it's a per-second measurement, the unit is Hz (Hertz). Hertz are a measurement of frequency, or how many periods of a wave exist per second.
@@ -226,18 +228,19 @@ A codec is a standard used to encode and decode a data stream. Using codecs, dat
 | Compressed Lossless | FLAC, ALAC, APE, WavPack |
 | Compressed Lossy | MP3, Vorbis, Opus, AAC |
 
+::: tabs
 
-### Uncompressed Lossless
+== Uncompressed Lossless
 Uncompressed lossless codecs are pretty old. They use CBR/Constant Bitrate encoding. CBR encoding ensures no data is lost, but the resulting file size is very large. WAVs consist of only a header, metadata, and raw quantization metrics. Devices can easily perceive this sort of encoding, leading to its relevance even today. As such, it's still widely used in music studios. As a consumer, they remain a bloated and unwanted format.
 
 
-### Compressed Lossless
+== Compressed Lossless
 Lossless refers to lossless compression, which is compression that preserves all data from the source file. In terms of music, lossless compression is completely indistinguishable from the source file, while also reducing space and increasing efficiency of playback when compared to its uncompressed counterpart. Common lossless encoding formats include FLAC or ALAC. They are usually sourced from WAV files. They generally use VBR/Variable Bitrate encoding. The resulting file sizes are much smaller when compared to uncompressed lossless formats.
 
-### Lossy
+== Lossy
 Lossy compression, also known simply as lossy, is a data compression technique that reduces file size by selectively removing or approximating some of the original data from the source file. While this process discards certain information, modern algorithms are designed to do so in a way that minimizes perceptible differences from the original, making it nearly indistinguishable in quality for most users at certain bitrates. Common formats utilizing lossy compression include MP3, AAC, and OPUS.
-___
-#### Transparency Threshold
+
+::: tip Transparency Threshold
 Transparency means that the compression of the original file is accurate to a degree such that a listener can't distinguish between the compressed and original files. The level or threshold of transparency depends on the listeners hearing ability, hardware, and the compression method. Since it's based on hearing ability, transparency is very subjective. The more efficient the codec is, the better it will sound **below its perceptually transparent bitrate**. In general, encoding quality follows the trend Opus > AAC ≈ Vorbis > MP3. The bit rates at which lossy audio files become transparent are subjective but the following are common choices of bitrates:
 
 
@@ -249,6 +252,8 @@ Transparency means that the compression of the original file is accurate to a de
 | MP3 (CBR) | 256kbps (Joint Stereo Encoding) - 320kbps (Full Stereo Encoding)         |
 | MP3 (VBR) | Between -V3 and -V0 |
 
+:::
+:::
 
 ## Spectrogram
 
@@ -458,7 +463,10 @@ Transcoding is the process of converting audio files from one codec (or format) 
 - Lossy (L)
 
 Transcoding audio to higher [bit rate](#bit-rate), [bit depth](#bit-depth) or [sample rate](#sample-rate) is a pointless conversion. New data is not created in the process, however, data is reserved for the increased resolution. This process only serves to increase the file size. 
-::: tip Dos
+
+::: tabs
+
+== Dos
 
 | Input | Output | Description |
 |:-:|:-:|-|
@@ -466,15 +474,14 @@ Transcoding audio to higher [bit rate](#bit-rate), [bit depth](#bit-depth) or [s
 | CL | CL | This sort of conversion is usually only performed for compatibility reasons. It’s also common to perform a transcode like this if the user wanted to decrease the sample rate/bit depth of a file. Converting from one sample rate/bit depth to another will induce a slight detail loss. For more information on why this happens, see [**Spectrogram**](#spectrogram). The section under FLAC 16/44.1 expands on this phenomenon.|
 | UL/CL | L | Transcoding from a lossless source to a lossy format is done to save space. To ensure quality, it's best to keep your audio above your [transparency threshold](#transparency-threshold) or standard bit rates, such as MP3 320, MP3 V0, or Opus 256. |
 
-:::
-
-::: danger Don'ts
+== Don'ts
 
 | Input | Output | Description |
 |:-:|:-:|-|
 | CL | UL | This will bloat your files. CBR UL files won't add any extra detail to the audio. |
 | L | UL/CL | Once a file has been converted into a lossy format, data has been removed or distorted. Transcoding back to a lossless format will not restore the data, and will only serve to increase the file size. |
 | L | L | Again, once a file has been converted into a lossy format, data has been removed or distorted. Performing a lossy compression a second time will further distort the file, reducing the audio quality to a larger degree. |
+
 :::
 
 ::: tip The process
@@ -483,13 +490,15 @@ To learn how to transcode using Foobar2000, [**read this guide :mdi-arrow-top-ri
 
 ## Other File types
 
-### .log
+::: tabs
+
+== .log
 Log files are generated during the ripping process. It contains necessary information to show the integrity of the hardware, errors, as well as the ripping process etc. Users should never modify a log file. [**Example**](https://rentry.org/wlogx) of a log file.
 
-### .cue
+== .cue
 Cues contains metadata about the tracks, including their start and end points, titles, and performers. It can also include additional details such as gaps between tracks and pre-gap data. Cue files are used by media players and burning software to accurately recreate the original CD's structure. This ensures the correct track order and gaps are maintained, enabling a faithful reproduction of the CD's layout when played back or burned to a new disc. cue files are used to make one singular audio file act like it has tracks, as opposed to applying to a list of files. [**Example**](https://rentry.org/wotacue) of a cue file.
 
-### .m3u8
+== .m3u8
 m3u8 files are used for playlists of audio. It contains a list of paths to your local audio files (like songs or podcasts) in order. The difference between a m3u and a m3u8 is that m3u uses ASCII (which only supports English characters) and m3u8 uses UTF-8 (which supports characters of other languages too).
 
 ```plaintext
@@ -510,6 +519,7 @@ C:\Music\canción2.mp3
 #EXTINF:180,歌曲 3
 C:\Music\歌曲3.mp3
 ```
+:::
 
 ![](/banner/hw.webp)
 
@@ -548,8 +558,9 @@ The primary difference in amplifiers is how much wattage they can output. Amplif
 
 Playback devices come in many forms, but only the most common will be covered. Specifically the headphone, IEM, and speaker.
 
-###	Headphone
+::: tabs
 
+==	Headphone
 
 A headphone is 2 speaker drivers held together by a headband. They can be wired, bluetooth, or wireless with a dongle. To briefly explain the differences: 
 
@@ -563,7 +574,7 @@ Headphones can have two distinct varieties. Closed back & Open back headphones.
 
 - **Open back** headphones, alternatively, utilize a perforated backplate. This backplate allows sound to be shot outside of the headphone, yielding a less restrictive physical design. There are other benefits, such as open backs generally producing a wider soundstage, which is how far away a sound is perceived from the listener. Open backs are regarded as being easier to tune than closed backs, and some believe the sound of an open back is “more natural.” Even with these benefits, open backs remain a less commonly owned variant. Open back headphones project sound outside of the headphone. Most users seek privacy in the content they listen to, making a closed back a more private and desirable option.
 
-### In Ear Monitor
+== In Ear Monitor
 
 In ear monitors, or IEMs for short, are devices intended to be inserted into the ear for audio playback. This allows them to be a more private option for listening to music while retaining an even frequency response. IEMs are built similarly to earbuds, however, they are designed with nozzles that the music is shot out of. These nozzles are fitted with eartips, which are then inserted into the ear and suspended by the tip. This allows the tip to seal within the ear, decreasing the sound that leaks out while increasing the depth at which sound can travel. This process especially enhances the bass response.
 
@@ -573,7 +584,7 @@ IEM configurations can be very complex. They commonly utilize multiple different
 
 </Collapsible>
 
-### Speaker
+== Speaker
 
 Speakers are drivers within enclosures a set distance away from the listener. The sound travels, bounces, and fills up the room until it reaches the listener, creating the effect of a vast wall of sound. Configurations vary more widely than their headphone and IEM counterparts, but their fundamental concepts of sound reproduction are the same. The primary advantage of speakers is their lack of size restrictions, allowing for larger and more complex designs to exist.
 
@@ -618,6 +629,7 @@ These 3 number configurations usually imply a Dolby Atmos enabled system.
 
 </Collapsible>
 
+:::
 
 ## Frequency Response
 
