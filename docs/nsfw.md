@@ -244,7 +244,7 @@ og:
 - [Gravure Princess](https://idol.gravureprincess.date/)
 - [Mabui Onna](https://mabui-onna.com/)
 - [X-IDOL](https://xidol.net/) [:prx:](https://rentry.org/wotaxy#x-idol)
-- :more: [Japanese DDL](/nonen#direct)
+- :rd: [Japanese DDL](/nonen#direct)
 
 :::
 

@@ -316,7 +316,7 @@ outline: 2
 | ^^ | [Animétudes](https://animetudes.com/) :ded: |   
 | ^^ | [Anime World by Tim Eldred](https://timeldred.com/category/anime-world/) |
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |
-| ^^ | :prev: [**More in Arts**](/art#official-art) |
+| ^^ | :rd: [**More in Arts**](/art#official-art) |
 | **Manga** | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: |
 | **Games** | [Old Game Mags](https://oldgamemags.tumblr.com/) [:x:](https://x.com/OldGameMags) |
 | ^^ | [Forgotten Worlds](https://www.forgottenworlds.net/) [:x:](https://x.com/american80s) |
@@ -455,7 +455,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yuki Subs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
-- :more: [Fansubbing tools](/tools?tabs=video-2)
+- :rd: [Fansubbing tools](/tools?tabs=video-2)
 
 == Scanlation
 
