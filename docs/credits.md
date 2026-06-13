@@ -40,6 +40,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | Feel. | [Akane Mizuno](https://myanimelist.net/anime/34822/Tsuki_ga_Kirei/episode/4) | Extension Repos default link embed |
 | **frakon98** | [Kaiji - Rolling the dice](https://www.deviantart.com/frakon98/art/Kaiji-Rolling-the-dice-860584411) | Madokami link embed |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/) | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
+| **Holocure**                | [Bubba](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)        | Searchbox loading image             |
 | **Huu** | [Rem](https://www.pixiv.net/en/artworks/79939625) | [Music banner](/music#radio) |
 | **あきふゆはるか (Ibushi Roun)** | [Reimu vs Patchouli](https://www.pixiv.net/en/artworks/109967460) | Game link embed |
 | **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Default link embed |

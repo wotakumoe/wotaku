@@ -466,6 +466,11 @@ const results: Ref<(SearchResult & Result)[]> = shallowRef([])
 const currentTerms = shallowRef(new Set<string>())
 
 const enableNoResults = ref(false)
+const textSearchLoading = ref(false)
+const urlSearchLoading = ref(false)
+const searchLoading = computed(() =>
+  urlSearchMode.value ? urlSearchLoading.value : textSearchLoading.value
+)
 
 const pageMeta = (() => {
   const map = new Map<string, { label: string; order: number }>()
@@ -670,10 +675,15 @@ watch(
     if (!active || !isOpen || !query.trim()) {
       urlMatches.value = []
       urlPageGroupCounts.value = []
+      urlSearchLoading.value = false
       return
     }
-    if (!ready) return
+    if (!ready) {
+      urlSearchLoading.value = false
+      return
+    }
 
+    urlSearchLoading.value = true
     try {
       const payload = await postSearchWorker<UrlSearchWorkerPayload>({
         type: 'url-search',
@@ -683,11 +693,13 @@ watch(
       if (canceled) return
       urlMatches.value = payload.matches
       urlPageGroupCounts.value = payload.pageGroups
+      urlSearchLoading.value = false
     } catch (error) {
       if (!canceled) {
         console.error('[search] URL search worker request failed', error)
         urlMatches.value = []
         urlPageGroupCounts.value = []
+        urlSearchLoading.value = false
       }
     }
   },
@@ -1064,13 +1076,17 @@ watchDebounced(
       canceled = true
     })
 
-    if (!ready || !isOpen) return
+    if (!ready || !isOpen) {
+      textSearchLoading.value = false
+      return
+    }
 
     // In URL search mode, skip normal text search
     if (mode === 'url') {
       results.value = []
       currentTerms.value = new Set()
       enableNoResults.value = Boolean(filterTextValue.trim())
+      textSearchLoading.value = false
       return
     }
 
@@ -1079,9 +1095,11 @@ watchDebounced(
       results.value = []
       currentTerms.value = new Set()
       enableNoResults.value = false
+      textSearchLoading.value = false
       return
     }
 
+    textSearchLoading.value = true
     let workerPayload: TextSearchWorkerPayload
     try {
       const workerIndexKey =
@@ -1113,6 +1131,7 @@ watchDebounced(
         results.value = []
         currentTerms.value = new Set()
         enableNoResults.value = true
+        textSearchLoading.value = false
       }
       return
     }
@@ -1125,6 +1144,7 @@ watchDebounced(
 
     if (!_result.length) {
       results.value = []
+      textSearchLoading.value = false
       return
     }
 
@@ -1213,6 +1233,7 @@ watchDebounced(
         centerExcerptsUntilSettled()
       }
     }
+    textSearchLoading.value = false
   },
   { debounce: 80, immediate: true }
 )
@@ -1680,6 +1701,13 @@ function onMouseMove(e: MouseEvent) {
               type="search"
             />
             <div class="search-actions">
+              <img
+                v-if="searchLoading"
+                class="search-loading-bubba"
+                src="/bubba.webp"
+                alt=""
+                aria-hidden="true"
+              />
               <div
                 v-if="!disableDetailedView && searchMode !== 'url'"
                 class="view-group toolbar-group"
@@ -2374,6 +2402,8 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .search-input {
+  flex: 1 1 auto;
+  min-width: 0;
   padding: 6px 12px;
   font-size: inherit;
   width: 100%;
@@ -2390,8 +2420,20 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .search-actions {
+  flex: 0 0 auto;
   display: flex;
+  align-items: center;
   gap: 4px;
+}
+
+.search-loading-bubba {
+  width: 32px;
+  height: 28px;
+  margin-inline-end: 6px;
+  object-fit: contain;
+  image-rendering: pixelated;
+  pointer-events: none;
+  user-select: none;
 }
 
 @media (any-pointer: coarse) {
