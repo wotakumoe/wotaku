@@ -36,7 +36,10 @@ import { AnimatePresence, motion } from 'motion-v'
 import localSearchIndex from '@localSearchIndex'
 
 import {
+  ArrowLeft,
+  ArrowLeftToLine,
   ArrowRight,
+  ArrowRightToLine,
   ChevronRight,
   Delete,
   File,
@@ -62,6 +65,10 @@ export interface FooterTranslations {
   navigateText?: string
   navigateUpKeyAriaLabel?: string
   navigateDownKeyAriaLabel?: string
+  switchTabsText?: string
+  switchTabsKeyAriaLabel?: string
+  switchPagesText?: string
+  switchPagesKeyAriaLabel?: string
   closeText?: string
   closeKeyAriaLabel?: string
 }
@@ -1557,12 +1564,16 @@ const defaultTranslations = {
     backButtonTitle: 'Close search',
     noResultsText: 'No results for',
     footer: {
-      selectText: 'to select',
+      selectText: 'select',
       selectKeyAriaLabel: 'enter',
-      navigateText: 'to navigate',
+      navigateText: 'navigate',
       navigateUpKeyAriaLabel: 'up arrow',
       navigateDownKeyAriaLabel: 'down arrow',
-      closeText: 'to close',
+      switchTabsText: 'switch tabs',
+      switchTabsKeyAriaLabel: 'shift tab and tab',
+      switchPagesText: 'switch pages',
+      switchPagesKeyAriaLabel: 'left and right arrow',
+      closeText: 'close',
       closeKeyAriaLabel: 'escape'
     }
   }
@@ -2168,6 +2179,24 @@ function onMouseMove(e: MouseEvent) {
                 <span class="vpi-arrow-down navigate-icon" />
               </kbd>
               {{ translate('modal.footer.navigateText') }}
+            </span>
+            <span>
+              <kbd :aria-label="translate('modal.footer.switchTabsKeyAriaLabel')">
+                <ArrowLeftToLine class="navigate-icon" :size="14" stroke-width="2" />
+              </kbd>
+              <kbd :aria-label="translate('modal.footer.switchTabsKeyAriaLabel')">
+                <ArrowRightToLine class="navigate-icon" :size="14" stroke-width="2" />
+              </kbd>
+              {{ translate('modal.footer.switchTabsText') }}
+            </span>
+            <span>
+              <kbd :aria-label="translate('modal.footer.switchPagesKeyAriaLabel')">
+                <ArrowLeft class="navigate-icon" :size="14" stroke-width="2" />
+              </kbd>
+              <kbd :aria-label="translate('modal.footer.switchPagesKeyAriaLabel')">
+                <ArrowRight class="navigate-icon" :size="14" stroke-width="2" />
+              </kbd>
+              {{ translate('modal.footer.switchPagesText') }}
             </span>
             <span>
               <kbd :aria-label="translate('modal.footer.selectKeyAriaLabel')">
