@@ -472,7 +472,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Mana Gallery](https://managall.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [YaToon](https://yatoon235.com/) [:prx:](https://yatoonlink.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
-| ^^ | [Simpson](https://hdhd509.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
+| ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [MoneyToon](https://mtoon141.com/) |
 | ^^ | [NameeToon](https://namee100.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
@@ -711,7 +711,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Hentai** | [DuaLeoTruyen](https://dualeotruyenhx.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [qManga](https://qmanga.art/) |
-| ^^ | [TruyenHentaiVN](https://truyenhentaivn.club/) |
 | **Novels** | [Hako](https://docln.net/) |
 | ^^ | [Metruyenhot](https://metruyenhot.vn/) |
 | ^^ | [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) |

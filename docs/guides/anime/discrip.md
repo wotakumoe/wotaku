@@ -195,7 +195,7 @@ There are also the questionable sellers, such as craigslist, Facebook Marketplac
 
 <br>
 
-You may also want to try rental services. If you're in the US (which good luck if you're doing releases!) the biggest service still around is redbox (which even has UHDs in some cities.) There's also this different service called ["3D BluRay Rental"](https://www.store-3d-blurayrental.com/default.asp) that specializes in 3D and UHDs. (And honestly, a service I haven't even heard about before researching for this guide). I can't personally vouch for either of these, but they're good if you just need to rip the disc, won't plan on keeping it, and are short on money.
+You may also want to try rental services. If you're in the US (which good luck if you're doing releases!) the biggest service still around is redbox (which even has UHDs in some cities.) There's also this different service called ["3D BluRay Rental"](https://www.store-3d-blurayrental.com/) that specializes in 3D and UHDs. (And honestly, a service I haven't even heard about before researching for this guide). I can't personally vouch for either of these, but they're good if you just need to rip the disc, won't plan on keeping it, and are short on money.
 
 </Collapsible>
 
