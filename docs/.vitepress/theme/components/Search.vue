@@ -471,6 +471,10 @@ const urlSearchLoading = ref(false)
 const searchLoading = computed(() =>
   urlSearchMode.value ? urlSearchLoading.value : textSearchLoading.value
 )
+const holdingLoadingImage = ref(false)
+const loadingImageSrc = computed(() =>
+  holdingLoadingImage.value ? '/pet.webp' : '/bubba.webp'
+)
 
 const pageMeta = (() => {
   const map = new Map<string, { label: string; order: number }>()
@@ -1701,13 +1705,26 @@ function onMouseMove(e: MouseEvent) {
               type="search"
             />
             <div class="search-actions">
-              <img
+              <button
                 v-if="searchLoading"
-                class="search-loading-bubba"
-                src="/bubba.webp"
-                alt=""
-                aria-hidden="true"
-              />
+                class="search-loading-button"
+                type="button"
+                aria-label="Hold to show pet image"
+                @pointerdown.stop="holdingLoadingImage = true"
+                @pointerup.stop="holdingLoadingImage = false"
+                @pointerleave="holdingLoadingImage = false"
+                @pointercancel="holdingLoadingImage = false"
+                @blur="holdingLoadingImage = false"
+                @contextmenu.prevent
+              >
+                <img
+                  class="search-loading-bubba"
+                  :src="loadingImageSrc"
+                  :alt="holdingLoadingImage
+                  ? 'Pet'
+                  : 'Bubba loading'"
+                />
+              </button>
               <div
                 v-if="!disableDetailedView && searchMode !== 'url'"
                 class="view-group toolbar-group"
@@ -2426,13 +2443,22 @@ function onMouseMove(e: MouseEvent) {
   gap: 4px;
 }
 
+.search-loading-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 !important;
+  margin-inline-end: 6px;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
 .search-loading-bubba {
   width: 32px;
   height: 28px;
-  margin-inline-end: 6px;
   object-fit: contain;
   image-rendering: pixelated;
-  pointer-events: none;
   user-select: none;
 }
 
