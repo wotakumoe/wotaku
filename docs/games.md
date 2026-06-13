@@ -25,7 +25,8 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | **Site-speicifc** | [Epic Games Database](https://egdata.app/) |
 | ^^ | [GOG Database](https://www.gogdb.org/) |
 | ^^ | [SteamDB](https://steamdb.info/) |
-| **Themed** | [GameTDB](https://www.gametdb.com/) |
+| **Themed** | [EroGamescape](https://erogamescape.org/) :ljp::ero: [:alt:](https://erogamescape.dyndns.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
+| ^^ | [GameTDB](https://www.gametdb.com/) |
 | ^^ | [HowLongToBeat](https://howlongtobeat.com/) |
 | ^^ | [The Doujin RPG Database](https://nepchan.org/) |
 | ^^ | [The Visual Novel Database](https://vndb.org/) :s: |

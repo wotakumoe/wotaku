@@ -144,9 +144,11 @@ outline: 2
 | ^^      | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
 | ^^      | [Kettokomu](https://ketto.com/) :ljp: |
 | ^^      | [UpcomingCons](https://upcomingcons.com/) |
-| **Games / VN** | [The Visual Novel Database](https://vndb.org/) :s: |
-| ^^      | [The Doujin RPG Database](https://nepchan.org/) |
-| ^^      | [EroGamescape](https://erogamescape.org/) :ljp::ero: [:alt:](https://erogamescape.dyndns.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
+| :rd: **Others** | [Games](/games?tabs=database) |
+| ^^      | [Music](/music?tabs=database) |
+| ^^      | [NSFW](/nsfw#database-info-portal) |
+| ^^      | [VTuber](/vtuber?tabs=database) |
+
 
 :::
 
