@@ -154,6 +154,7 @@ og:
 - [Volt's Japanese Subtitled Playlist](https://www.youtube.com/playlist?list=PLiPR3922q7iAsSm2EsQVMou0kCVavNR2c)
 - [AJATT: Fan Narrated](https://www.youtube.com/playlist?list=PLmPxwS02_wYP0Y7kprP9ZzLhlZjRSAHWv)
 - [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
+- [Ferumi](https://www.youtube.com/@ferumi/) 
 - [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
 - [Kaname Naito](https://www.youtube.com/@kanamenaito)
 - [Learn Japanese with Tanaka san](https://www.youtube.com/@japanese_tanakasan)
