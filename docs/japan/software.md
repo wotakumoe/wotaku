@@ -2,14 +2,16 @@
 title: Software
 description: Software to help you learn japanese
 customDescription: Software to help you learn japanese
-outline: [2,3]
+outline: 2
 og:
     image: https://i.wotaku.wiki/f/jp.png
 ---
 
 ## Anki
 
-### Starter
+::: tabs
+
+== Starter
 
 | Category | Software |
 | :--- | :--- |
@@ -27,7 +29,7 @@ og:
 | ^^ | [vladsperspective](https://vladsperspective.wordpress.com/2020/07/15/using-anime-decks-subs2srs-mediafire-premade-decks/) |
 | ^^ | [Optimizing Anki For Language Learning](https://cademcniven.com/posts/20210410/) |
 
-### Addons
+== Addons
 - [Advanced Browser](https://ankiweb.net/shared/info/874215009)
 - [AnkiMorphs](https://mortii.github.io/anki-morphs/intro.html)
 - [Batch Installer For Immersion Kit](https://github.com/kaanium/Batch-Installer-For-Immersion-Kit)
@@ -46,7 +48,7 @@ og:
 - [Yomitan Backfill](https://ankiweb.net/shared/info/1184164376)
 - [Yomitan Frequency Sort](https://ankiweb.net/shared/info/295700265)
 
-### Card templates
+== Card templates
 - [Anki Prettify](https://github.com/pranavdeshai/anki-prettify)
 - [JP Study tools](https://github.com/rudnam/JP-study)
 - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
@@ -55,8 +57,7 @@ og:
 - [Vertical Cards](https://github.com/kiwakiwaa/vertical-cards/)
 - [Xelieu's Modified Anime Card](https://lazyguidejp.github.io/jp-lazy-guide/)
 
-
-### Decks
+== Decks
 
 | Category | Software |
 | :--- | :--- |
@@ -77,9 +78,13 @@ og:
 | ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/Japanese-Proper-Nouns-Deck) |
 | ^^ | [Tango N5 omega deck](https://rentry.org/wotadirect#japansoftware) ||Beginner|| |
 
+:::
+
 ## Phone
 
-### Dictionary
+::: tabs
+
+== Dictionary
 
 | Category | Software |
 | :--- | :--- |
@@ -92,7 +97,7 @@ og:
 | ^^ | [Shiori Reader](https://apps.apple.com/app/id6744979827) |
 | ^^ | [Shirabe Jisho](https://ricoapps.com/) [:ios:](https://apps.apple.com/app/id1005203380) |
 
-### Learning
+== Learning
 
 | Category | Software |
 | :--- | :--- |
@@ -113,7 +118,7 @@ og:
 | ^^ | [kawaiiNihongo](https://apps.apple.com/app/id1015333181) |
 | ^^ | [renshuu](https://apps.apple.com/app/id1542730063) [:web:](https://www.renshuu.org/) |
 
-### Reader
+== Reader
 
 | Category | Software |
 | :--- | :--- |
@@ -129,10 +134,13 @@ og:
 | ^^ | [Todaii](https://apps.apple.com/app/id1107177166) [:web:](https://japanese.todaiinews.com/) |
 | ^^ | [Write It! Japanese](https://apps.apple.com/app/id1268225663) |
 
+:::
 
 ## PC
 
-### Media
+::: tabs
+
+== Media
 
 | Category | Software | Platform |
 | :--- | :--- | :--- |
@@ -160,8 +168,7 @@ og:
 | ^^ | :prev: [Mokuro.moe Full Manga Catalog](https://rentry.org/wotadirect#japansoftware) | |
 | ^^ | [ttsu Ebook Reader](https://reader.ttsu.app/) [:src:](https://github.com/ttu-ttu/ebook-reader) | :web: |
 
-
-### Browser
+== Browser
 - [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:src:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
     - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
     - [Collection of Yomitan dictionaries (japanese)](https://rentry.org/wotadirect#japansoftware)
@@ -179,8 +186,7 @@ og:
 - [Rikaikun](https://github.com/melink14/rikaikun) :cr:<tooltip>Pop-up dictionary</tooltip>
 - [Subadub](https://github.com/rsimmons/subadub) :ff::cr:<tooltip>Netflix subs tool w/ pop-up dictionary</tooltip>
 
-
-### Tools
+== Tools
 
 ::: info duck note
 feeling lazy. someone pr platform icons for this section.
@@ -219,6 +225,7 @@ feeling lazy. someone pr platform icons for this section.
 | ^^ | [LN Readability](https://colab.research.google.com/github/Gilfaro/ln-recommender/blob/main/LNReadability.ipynb) | |
 | ^^ | [Supermemo](https://super-memory.com/) !||Trialware|| [||Wiki||](https://www.supermemo.wiki/en/home) | |
 
+:::
 
 ## OCR
 

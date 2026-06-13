@@ -2,14 +2,16 @@
 title: Culture
 description: Learn all about Japanese Culture, History & Customs!
 customDescription: Learn all about Japanese Culture, History & Customs!
-outline: [2,3]
+outline: 2
 og:
     image: https://i.wotaku.wiki/f/jp.png
 ---
 
 ## Culture & History
 
-### Websites
+::: tabs
+
+== Websites
 - [Web Japan](https://web-japan.org/) :s:
 - :prev: [Web Japan Old](https://web-japan.org/atlas/index.html)
 - [Japanese Wiki](https://www.japanesewiki.com/)
@@ -18,20 +20,23 @@ og:
 - :prev: [Gaijin (foreigners in Japan) Iceberg](https://old.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/)
 - [JTCO](https://www.jtco.or.jp/en/)
 
-### Books
+== Books
 - [The Cambridge History of Japan](https://www.cambridge.org/core/series/cambridge-history-of-japan/18F050C94D8B0E2BFAAF5CCAE19E87FE)
 - [The Japanese Experience: A Short History of Japan](https://www.amazon.com/dp/0520225600)
 - [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/dp/1865085162)
 - [Pure Invention: How Japan Made the Modern World](https://www.amazon.com/gp/product/1984826719)
 
-### YouTube
+== YouTube
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW) :s:
 - [The Shogunate](https://www.youtube.com/@TheShogunate/)
 
+:::
 
 ## Mythology
 
-### Websites
+::: tabs
+
+== Websites
 - [Japanese Gods](https://mythopedia.com/topics/japanese-gods)
 - [Japanese folklore and mythology](https://www.newworldencyclopedia.org/entry/Japanese_folklore_and_mythology)
 - [Yokai.com](https://yokai.com/)
@@ -39,7 +44,7 @@ og:
 - [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html)
 - :prev: [Books](https://sites.pitt.edu/~dash/japantales.html)
 
-### Books
+== Books
 - [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/dp/0500252319)
 - [Kwaidan: Stories and Studies of Strange Things](https://www.amazon.com/dp/0804836620)
 - [The Kojiki: An Account of Ancient Matters](https://www.amazon.com/dp/0231163894)
@@ -48,16 +53,19 @@ og:
 - [Yokai Attack!: The Japanese Monster Survival Guide](https://www.amazon.com/dp/480531219X)
 - [Yurei Attack!: The Japanese Ghost Survival Guide](https://www.amazon.com/dp/4805312149)
 
-### YouTube
+== YouTube
 - [Japanese Folklore](https://www.youtube.com/playlist?list=PLgZdqfi4SZ0q-BLpzfuzWrXgxkyNcqagc) <tooltip>By Mythology & Fiction Explained</tooltip>
 - [Japanese Mythology](https://www.youtube.com/playlist?list=PLY7BFnOZ_ONQF02Aj2gfFKyC-RmsdgQHL) <tooltip>By See U in History / Mythology</tooltip>
 - [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW) <tooltip>By GenoSamuel3</tooltip>
 - [Japanese WEIRD Yokai, Monsters & Folklore Compilation](https://www.youtube.com/watch?v=LEH_9iygWvw) <tooltip>By Inaka Adventure</tooltip>
 
+:::
 
 ## Festivals & Travel
 
-### English
+::: tabs
+
+== English
 - [Boutique Japan](https://boutiquejapan.com/)
 - [ConbiniWars](https://conbini.kikkia.dev/) [:src:](https://github.com/kikkia/ConbiniWars)
 - [Good Luck Trip](https://www.gltjp.com/en/)
@@ -71,7 +79,7 @@ og:
 - [Mini Tokyo 3D](https://minitokyo3d.com/) :s: [:src:](https://github.com/nagix/mini-tokyo-3d)
 - [Tokyo Cheapo](https://tokyocheapo.com/)
 
-### Japanese
+== Japanese
 - [Omatsuri Japan](https://omatsurijapan.com/)
 - [Travel Research](https://www.homemate-research-tour.com/) :s:
 - [Japan 47 go](https://www.japan47go.travel/ja)
@@ -79,16 +87,19 @@ og:
 - [Ghibli Museum](https://www.ghibli-museum.jp/en/)
 - [Let's learn about Japanese events!](https://www.kyosei-tairyu.jp/)
 
-### City Specific
+== City Specific
 - [Tokyojin](https://tokyojin.info/)
 - [Souda Kyoto](https://souda-kyoto.jp/index.html)
 - [Kyoto Travel](https://kyototravel.info/)
 - [Hokkaido Guide](https://hokkaidoguide.com/) ||EN||
 
+:::
 
 ## Cooking
 
-### Blog
+::: tabs
+
+== Blog
 - [Just One Cookbook](https://www.justonecookbook.com/) [||YT||](https://www.youtube.com/@justonecookbook)
 - [Sirogohan](https://www.sirogohan.com/) [||YT||](https://www.youtube.com/@sirogohancom/)
 - [Cooking with Dog](https://cookingwithdog.com/) [||YT||](https://www.youtube.com/@cookingwithdog)
@@ -102,7 +113,7 @@ og:
 - [Japan Food Addict](https://www.japanfoodaddict.com/)
 - [Just Hungry](https://www.justhungry.com/recipes)
 
-### YouTube
+== YouTube
 - [Anime with Alvin](https://www.youtube.com/playlist?list=PLopY4n17t8RAHz5OSGQP6I9z7UZqAZ4WW)
 - [Champ's Japanese Kitchen](https://www.youtube.com/@ChampsJapaneseKitchen)
 - [CHEF'S LABO](https://www.youtube.com/@CHEFSLABO)
@@ -110,17 +121,20 @@ og:
 - [ochikeron](https://www.youtube.com/@ochikeron)
 - [Taiji's Kitchen](https://www.youtube.com/@taijiskitchen)
 
-### Cookbook
+== Cookbook
 - [Japanese Cooking: A Simple Art](https://www.amazon.com/dp/1568363885)
 - [Washoku: Recipes from the Japanese Home Kitchen](https://www.amazon.com/dp/1580085199)
 - [Japanese Farm Food](https://www.amazon.com/dp/1449418295)
 - [The Japanese Kitchen: 250 Recipes in a Traditional Spirit](https://www.amazon.com/dp/1558321772)
 - [My Japanese Table: A Lifetime of Cooking with Friends and Family](https://www.amazon.com/dp/4805311185)
 
+:::
 
 ## YouTube
 
-### Vlogs
+::: tabs
+
+== Vlogs
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan) :s:
 - [AsamaPOV](https://www.youtube.com/@Asamalifez)
 - [Ask Japanese](https://www.youtube.com/@AskJapanese)
@@ -138,7 +152,7 @@ og:
 - [Tokyo Lens](https://www.youtube.com/@TokyoLens)
 - [WAO RYU! ONLY in JAPAN](https://www.youtube.com/@WaoryuONLYinJAPAN)
 
-### No Commentary
+== No Commentary
 - [Experience JAPAN](https://www.youtube.com/@experience_japan)
 - [It's Time to Trave](https://www.youtube.com/@its_time_to_travel)
 - [ITSUKA JAPAN](https://www.youtube.com/@itsukajapantravel)
@@ -147,26 +161,26 @@ og:
 - [SUKIYAKI Travel](https://www.youtube.com/@sukiyakitravel)
 - [travelgeek](https://www.youtube.com/@travelgeekvideography)
 
-### Explainers
-
-#### Japan
+== Japan
 
 - [Diggin' in the Carts: Japanese Video Game Music History](https://www.redbull.com/int-en/shows/diggin-in-the-carts)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
 - [the peculiar case of japanese web design](https://sabrinas.space/) :s: [||YT||](https://www.youtube.com/watch?v=z6ep308goxQ)
-    - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
+- :prev: [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)
 - [Why some Asian accents swap Ls and Rs in English](https://www.youtube.com/watch?v=2yzMUs3badc)
-___
-#### Otaku
+
+== Otaku
 
 - [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
-    - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
+- :prev: [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
 - [What Are Gacha Games, and Why Do People Play Them?](https://www.youtube.com/watch?v=IIVjnRAJkZ8)
 - [What is Touhou? A Brief Introduction](https://www.youtube.com/watch?v=livReBXdiek)
 - [wtf is a vtuber?](https://www.youtube.com/watch?v=r8blCsTOc2I)
-    - [The Philosophy of VTubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
+- :prev: [The Philosophy of VTubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
+
+:::

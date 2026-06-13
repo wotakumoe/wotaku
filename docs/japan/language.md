@@ -38,8 +38,9 @@ og:
 
 ## Kana
 
+::: tabs
 
-### Sites
+== Sites
 
 | Website | Page(s) | Extra |
 |-|-|-|
@@ -50,7 +51,7 @@ og:
 | [**JapanesePod101**](https://www.youtube.com/@JapanesePod101) | [hiragana](https://www.youtube.com/watch?v=6p9Il_j0zjc) | - |
 | ^^ | [katakana](https://www.youtube.com/watch?v=s6DKRgtVLGA) | - |
 
-### Practice
+== Practice
 - [Kana Pro](https://kana.pro/) :fm:
 - [Kuuuube's Kana Quiz](https://kuuuube.github.io/kana-quiz/kana/kana-dark/index.html) [:src:](https://github.com/Kuuuube/kana-quiz)
 - [Kuuuube's Kana Quiz Sounds](https://kuuuube.github.io/kana-quiz-sounds/) [:src:](https://github.com/Kuuuube/kana-quiz-sounds)
@@ -62,10 +63,13 @@ og:
 - [Hentaigana Quiz](https://kuuuube.github.io/kana-quiz/hentaigana/hentaigana-dark/index.html)
 - [Freerice](https://play.freerice.com/categories/)
 
+:::
 
 ## Kanji / Vocabulary
 
-### Sites
+::: tabs
+
+== Sites
 - [TOFUGU: The Best Kanji Learning Programs](https://www.tofugu.com/japanese/best-kanji-learning-programs/)
 - [Kanji Alive](https://app.kanjialive.com/search)
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
@@ -77,7 +81,7 @@ og:
 - [Marshall's Site](https://marshallyin.com/) :fm:<tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 
-### Dictionary
+== Dictionary
 - [Etymology encyclopedia](https://etymology-encyclopedia.com/)
 - [ichi.moe](https://ichi.moe/)
 - [JapanDict](https://www.japandict.com/)
@@ -100,7 +104,7 @@ og:
 
 </Collapsible>
 
-### Practice
+== Practice
 - [Kotobaweb](https://kotobaweb.com/)
 - [Wanikani](https://www.wanikani.com/) :fm::sub:
 - [NativShark](https://www.nativshark.com/) :fm::sub:
@@ -112,7 +116,7 @@ og:
 - [The Tiny Japanese Practice Tool](https://japanese.thetinywisdom.com/)
 
 
-### Pitch Accent
+== Pitch Accent
 
 | Category | Resources |
 | :--- | :--- |
@@ -135,7 +139,7 @@ og:
 | ^^ | [SuperNative](https://supernative.tv/ja/) |
 | ^^ | [MyKikitori](https://www.mykikitori.com/) |
 
-### Resources
+== Resources
 
 | Category | Resources |
 | :--- | :--- |
@@ -163,9 +167,13 @@ og:
 | ^^ | [RTK Search](https://hochanh.github.io/rtk/) |
 | ^^ | [Tatoeba](https://tatoeba.org/en/) <tooltip>Crowd-sourced sentence</tooltip> |
 
+:::
+
 ## Grammar
 
-### Sites
+::: tabs
+
+== Sites
 
 - [Yokubi](https://yoku.bi/) :s: <tooltip>Updated version of Sakubi by community</tooltip>
 - [IMABI](https://imabi.org/) :s: <tooltip>Very detailed reference</tooltip>
@@ -186,7 +194,7 @@ og:
 - [JLPT Grammar List](https://jlptgrammarlist.neocities.org/)
 - [Ultra Handy Japanese Verb Conjugator](https://www.japaneseverbconjugator.com/)
 
-### YouTube
+== YouTube
 
 | Category | Resources |
 | :--- | :--- |
@@ -205,7 +213,7 @@ og:
 | ^^ | [【JLPT N5】GENKI Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2) <tooltip>by ToKini Andy</tooltip> |
 | ^^ | [【JLPT N4】GENKI 2 Grammar Made Clear](https://www.youtube.com/playlist?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk) <tooltip>by ToKini Andy</tooltip> |
 
-### Practice
+== Practice
 
 | Category | Resources |
 | :--- | :--- |
@@ -215,9 +223,13 @@ og:
 | **Number** | [Japanese Numbers](https://langpractice.com/japanese) |
 | ^^ | [助数詞を練習](https://www.jyosuushi.com/) |
 
+:::
+
 ## Books
 
-### N5 & N4
+::: tabs
+
+== N5 & N4
 | **Category** | **Resources** |  
 |--------------|---------------|  
 | **Kanji** | [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) [:alt:](https://www.amazon.com/gp/product/0824836693) ||General|| |
@@ -234,7 +246,7 @@ og:
 | ^^          | [Minna No Nihongo 1](https://www.amazon.com/dp/4883196038) [:alt:](https://www.amazon.com/dp/4883196461) [||Workbook||](https://www.amazon.com/dp/4883196631/) |
 
 
-### N3
+== N3
 | **Category** | **Resources** |  
 |--------------|---------------|  
 | **Kanji** | [Jlpt N3 Nihongo Somatome Kanji](https://www.amazon.com/dp/4872177304) |
@@ -245,7 +257,7 @@ og:
 | ^^          | [TRY! JLPT N3](https://www.amazon.com/dp/4872179021) |
 
 
-### N2
+== N2
 | **Category** | **Resources** |  
 |--------------|---------------|  
 | **Kanji** | [Nihongo Somatome N2 Kanji](https://www.amazon.com/dp/4872177274) |  
@@ -259,7 +271,7 @@ og:
 | ^^          | [Tobira: Gateway to Advanced Japanese](https://www.amazon.com/dp/4874244475) |
 
 
-### N1
+== N1
 | **Category** | **Resources** |  
 |--------------|---------------|  
 | **Kanji** | [Kanzen Master Kanji](https://www.amazon.com/dp/4883195465) |  
@@ -269,6 +281,7 @@ og:
 | **Vocabulary** | [Kanzen Master N1 Vocabulary](https://www.amazon.com/dp/4883195732) |  
 | **Grammar** | [Kanzen Master Grammar N1](https://www.amazon.com/dp/4883195643) |
 
+:::
 
 ::: tip **Downloading books**
 Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect#japanlanguage) and the following sites: [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna's Archive**](https://annas-archive.gl/), [**Z-Library**](https://z-lib.sk/), [**OceanofPDF**](https://oceanofpdf.com/category/languages/japanese-language-books/).
@@ -277,11 +290,13 @@ Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect#ja
 
 ## Others
 
-### Resource Lists
+::: tabs
+
+== Resource Lists
 - [Kuri's Japanese Resources](https://github.com/donkuri/japanese-resources)
 - [TMW's Resources](https://learnjapanese.moe/resources/)
 
-### Course Sites
+== Course Sites
 
 | Category | Resources |
 | :--- | :--- |
@@ -293,3 +308,5 @@ Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect#ja
 | **Grammar** | [80/20 Japanese](https://8020japanese.com/) |
 | ^^ | [Bunpro](https://bunpro.jp/) |
 | **Kanji** | [WaniKani](https://www.wanikani.com/) |
+
+:::
