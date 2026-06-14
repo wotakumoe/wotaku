@@ -14,8 +14,7 @@ og:
 
 <Collapsible title="More">
 
-- [Refold Japanese](https://refold.la/roadmap/)
-- :prev: [Google docs version](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
+- [Refold Japanese](https://refold.la/roadmap/) [||Docs||](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
 - [Jo-Mako's Japanese Guide](https://sites.google.com/view/jo-mako/home)
 - [VN Club](https://vnclub.org/)
 - [Perdition's Guide](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
@@ -76,8 +75,8 @@ og:
 - [KanjiDamage](https://www.kanjidamage.com/)
 - [KanjiDamage+](https://kanjidamageplus.neocities.org/)
 - **Ulrike's Mnemonics**
-  - :prev: [Original version](https://www.joyokanji.com/ulrikes-mnemonics)
-  - :prev: [Carlos version](https://japanesestudies.github.io/ulrikes-mnemonics/)
+- :prev: [Original version](https://www.joyokanji.com/ulrikes-mnemonics)
+- :prev: [Carlos version](https://japanesestudies.github.io/ulrikes-mnemonics/)
 - [Marshall's Site](https://marshallyin.com/) :fm:<tooltip>Marshall's site contain almost everything. So to avoid dupe, it will be linked once.</tooltip>
 - [Proverb encyclopedia](https://proverb-encyclopedia.com/)
 
@@ -139,33 +138,35 @@ og:
 | ^^ | [SuperNative](https://supernative.tv/ja/) |
 | ^^ | [MyKikitori](https://www.mykikitori.com/) |
 
-== Resources
 
-| Category | Resources |
-| :--- | :--- |
-| **Pronunciation** | [AxTongue](https://axtongue.com/) <tooltip>YouTube</tooltip> |
-| ^^ | [aiueo](https://aiueo.cc/pages/en/home.php) |
-| ^^ | [CaptionPop](https://www.captionpop.com/japanese?nl=en) <tooltip>YouTube</tooltip> |
-| ^^ | [Filmot](https://filmot.com/) <tooltip>YouTube</tooltip> |
-| ^^ | [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip> |
-| ^^ | [Immersion Kit](https://www.immersionkit.com/) :s: <tooltip>Japanese Media</tooltip> |
-| ^^ | [Jiten](https://jiten.moe/) [:src:](https://github.com/Sirush/Jiten) |
-| ^^ | [Nadeshiko](https://nadeshiko.co/) [:src:](https://github.com/BrigadaSOS/Nadeshiko) |
-| ^^ | [Sentence Search](https://sentencesearch.neocities.org/) <tooltip>Book / Deck / Web</tooltip> |
-| ^^ | [YouGlish](https://youglish.com/japanese) :s: <tooltip>YouTube</tooltip> |
-| **Misc** | [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) <tooltip>Search through BW books</tooltip> |
-| ^^ | [Hinoki Project](https://hinoki-project.org/) |
-| ^^ | [Hiragana](https://www.hiragana.jp/en/) <tooltip>Add Hiragana over Kanji</tooltip> |
-| ^^ | [jReadability](https://jreadability.net/) <tooltip>Text readability measurement</tooltip> |
-| ^^ | [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) <tooltip>Kanji recognition from drawing</tooltip> |
-| ^^ | [Kanji Portraits](https://kanjiportraits.wordpress.com/) <tooltip>Kanji origins</tooltip> |
-| ^^ | [Kanji Tools](https://kanji.sljfaq.org/) |
-| ^^ | [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) <tooltip>Printable Kanji worksheet</tooltip> |
-| ^^ | [Massif](https://massif.la/ja) <tooltip>Search through Book / WN / Web</tooltip> |
-| ^^ | [Niai](https://niai.mrahhal.net/similar) <tooltip>Similar kanji, homonyms & synonyms finder</tooltip> |
-| ^^ | [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) <tooltip>Generate pitch accent</tooltip> |
-| ^^ | [RTK Search](https://hochanh.github.io/rtk/) |
-| ^^ | [Tatoeba](https://tatoeba.org/en/) <tooltip>Crowd-sourced sentence</tooltip> |
+== Pronunciation
+
+- [AxTongue](https://axtongue.com/) <tooltip>YouTube</tooltip>
+- [aiueo](https://aiueo.cc/pages/en/home.php)
+- [CaptionPop](https://www.captionpop.com/japanese?nl=en) <tooltip>YouTube</tooltip>
+- [Filmot](https://filmot.com/) <tooltip>YouTube</tooltip>
+- [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip>
+- [Immersion Kit](https://www.immersionkit.com/) :s: <tooltip>Japanese Media</tooltip>
+- [Jiten](https://jiten.moe/) [:src:](https://github.com/Sirush/Jiten)
+- [Nadeshiko](https://nadeshiko.co/) [:src:](https://github.com/BrigadaSOS/Nadeshiko)
+- [Sentence Search](https://sentencesearch.neocities.org/) <tooltip>Book / Deck / Web</tooltip>
+- [YouGlish](https://youglish.com/japanese) :s: <tooltip>YouTube</tooltip>
+
+== Misc
+
+- [BOOK WALKER Cross Search](https://bsearch.bookwalker.jp/search) <tooltip>Search through BW books</tooltip>
+- [Hinoki Project](https://hinoki-project.org/)
+- [Hiragana](https://www.hiragana.jp/en/) <tooltip>Add Hiragana over Kanji</tooltip>
+- [jReadability](https://jreadability.net/) <tooltip>Text readability measurement</tooltip>
+- [Kanji Canvas](https://asdfjkl.github.io/kanjicanvas/) <tooltip>Kanji recognition from drawing</tooltip>
+- [Kanji Portraits](https://kanjiportraits.wordpress.com/) <tooltip>Kanji origins</tooltip>
+- [Kanji Tools](https://kanji.sljfaq.org/)
+- [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) <tooltip>Printable Kanji worksheet</tooltip>
+- [Massif](https://massif.la/ja) <tooltip>Search through Book / WN / Web</tooltip>
+- [Niai](https://niai.mrahhal.net/similar) <tooltip>Similar kanji, homonyms & synonyms finder</tooltip>
+- [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) <tooltip>Generate pitch accent</tooltip>
+- [RTK Search](https://hochanh.github.io/rtk/)
+- [Tatoeba](https://tatoeba.org/en/) <tooltip>Crowd-sourced sentence</tooltip>
 
 :::
 
@@ -180,13 +181,13 @@ og:
 - [Tae Kim's Guide](https://guidetojapanese.org/learn/)
 - [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
 - **Cure Dolly**
-  - :prev: [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
-  - :prev: [Mordraug version](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)
-  - :prev: [Kellen version](https://kellenok.github.io/cure-script/) :s:
-  - :prev: [Archive by Yomsi](https://rentry.org/wotadirect#japanlanguage)
+- :prev: [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
+- :prev: [Mordraug version](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)
+- :prev: [Kellen version](https://kellenok.github.io/cure-script/) :s:
+- :prev: [Archive by Yomsi](https://rentry.org/wotadirect#japanlanguage)
 - [Learning Japanese When You Think In A Western Language](https://kimallen.sheepdogdesign.net/)
 - [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
-  - [Tylab version](https://tylab.dev/sakubi/home.html)
+- :prev: [Tylab version](https://tylab.dev/sakubi/home.html)
 - [A Beginner’s Japanese Grammar Guide](https://www.japanistry.com/japanese-grammar-guide/)
 - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 - [DoJG Lite](https://dojglite.github.io/main/) [:src:](https://github.com/dojglite/main)
