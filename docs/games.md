@@ -119,6 +119,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :win:
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :win:
 - [osu! Trainer](https://github.com/FunOrange/osu-trainer) :win:
+- [osu! Winello](https://github.com/NelloKudo/osu-winello) :lin:
 - [sentakki](https://github.com/LumpBloom7/sentakki) :win::app::lin:
 - [Tau Ruleset](https://taulazer.github.io/) :win: [:src:](https://github.com/taulazer/tau)
 :::

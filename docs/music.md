@@ -23,6 +23,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [Karaoke Mugen](https://kara.moe)
 - [Lyrical Nonsense](https://www.lyrical-nonsense.com/global/)
 - [Anisong Database](https://anisongdb.com/) [:src:](https://github.com/xSardine/AMQ-Artists-DB) [:alt:](https://43d.github.io/player/#/)
+- [popDNSLC](https://pop.dnslc.net/)
 - [Squidify](https://www.squidify.org/) [:alt:](https://www.squidify.net/) [:help:](https://docs.squidify.org/)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
