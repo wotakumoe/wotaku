@@ -14,7 +14,7 @@ outline: 2
 == General
 - [AniList](https://anilist.co/) :s:
 - [MyAnimeList](https://myanimelist.net/)
-- [MangaBaka](https://mangabaka.org/?utm_source=wotaku) :s:
+- [MangaBaka](https://mangabaka.org/) :s:
 - [Wikipedia](https://www.wikipedia.org/) :s:
 
 <collapsible title="More">
@@ -237,7 +237,7 @@ outline: 2
 | **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: [:src:](https://github.com/AniBlogTracker) ||Aggregator|| |  
 | ^^ | [Anime Nano](https://www.animenano.com/) ||Aggregator|| |  
 | ^^ | [Halcyon Realms](https://halcyonrealms.com/) :s: [:rss:](https://halcyonrealms.com/subscribe/) |  
-
+| ^^ | [Rumic World](https://www.furinkan.com/) [:x:](https://x.com/rumicworld1) ||Rumiko Takahashi|| |
 
 == Anime
 
@@ -288,7 +288,8 @@ outline: 2
 | ^^ | [Animerank](https://animerank.top/) :mal: |
 | ^^ | [Anime Karma List](https://animekarmalist.com/) |
 | ^^ | [Anime Stats](https://anime-stats.net/) :s::mal::al::k: | 
-| **Manga & Novels** | [CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
+| **Manga & Novels** | [Billboard JAPAN](https://www.billboard-japan.com/charts/book/) |
+| ^^ |[CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
 | ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
 | ^^ | [JMPA](https://www.j-magazine.or.jp/) :ljp: |
 | ^^ | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== | 
@@ -319,12 +320,23 @@ outline: 2
 | ^^ | [Animétudes](https://animetudes.com/) :ded: |   
 | ^^ | [Anime World by Tim Eldred](https://timeldred.com/category/anime-world/) |
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |
-| ^^ | :rd: [**More in Arts**](/art#official-art) |
+| ^^ | :rd: [More in Arts](/art#official-art) |
 | **Manga** | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: |
 | **Games** | [Old Game Mags](https://oldgamemags.tumblr.com/) [:x:](https://x.com/OldGameMags) |
 | ^^ | [Forgotten Worlds](https://www.forgottenworlds.net/) [:x:](https://x.com/american80s) |
 | ^^ | [Gaming Alexandria](https://www.gamingalexandria.com/wp/) [:x:](https://x.com/dushubz) |
 | ^^ | [VGHF Archive](https://archive.gamehistory.org/) |
+
+<collapsible title="Twitter">
+
+- [Anime V.H.S Bot](https://x.com/AnimeV_H_S)
+- [Daiba Tadashi](https://x.com/daibatadashi)
+- [Retro Gamer Art](https://x.com/RetroGamerArt)
+- [Game Vecanti](https://x.com/gamevecanti) [||Index||](https://sites.google.com/view/game-vecanti-index)
+- [Memories of Homepage](https://x.com/memoriesofhp) :ljp:
+- [Retro anime Lovers](https://x.com/anime8cm)
+
+</collapsible>
 
 :::
 
@@ -487,7 +499,6 @@ Only use this if you know what you're getting yourselves into. Recommended board
 </collapsible>
 
 == Quiz
-
 | Category  | Website |
 |-----------|---------|
 | **General**   | [AniGuessr](https://aniguessr.com/) |
@@ -500,7 +511,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 | **Others**    | [Animerdle](https://www.animerdle.com/) |
 | ^^        | [Rule34dle](https://rule34dle.vercel.app/) |
 
-== Miscellaneous
+== Misc
 | Category | Websites |
 | :--- | :--- |
 | **General** | [Anime Bath Scene Wiki](https://animebathscenewiki.com/index.php?title=Main_Page) |
@@ -511,6 +522,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 | **Manga** | [AnniversaryJump](https://www.anniversaryjump.com/?lang=en) |
 | ^^ | [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/) |
 | ^^ | [Inazuma](https://inazuma.rl404.com/) [:src:](https://github.com/rl404/inazuma) |
+| ^^ | [Skip and Loafer](https://skip-and-loafer.vercel.app/#home) |
 | ^^ | [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) :ded: [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart) |
 | **Others** | [AIDN](https://aidn.jp/contents/) |
 | ^^ | [Maid Spin](https://iklone.org/) |

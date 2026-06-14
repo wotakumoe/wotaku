@@ -102,6 +102,7 @@ og:
 - [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://rentry.org/wotadirect#japansoftware)
 
 == Novel
+- [Elscione's Library](https://server.elscione.com/) :s: [:alt:](https://server.elsci.one/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [boroboro](https://boroboro.neocities.org/)

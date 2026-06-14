@@ -31,7 +31,7 @@ og:
 
 ## Cross-app Support
 ::: scrapetable
-- Anymex : (Mihon), (Aniyomi), (Mangayomi), (Sora), (Cloudstream), (LNReader);
+- Anymex : (Mihon), (Aniyomi), (Mangayomi), (Kotatsu), (Sora), (Cloudstream), (LNReader);
 - Cloudstream : (Cloudstream), (Aniyomi);
 - Dantotsu : (Mihon), (Aniyomi), (LNreader);
 - Futon : (Kotatsu), (Mihon);

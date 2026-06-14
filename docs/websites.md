@@ -58,7 +58,7 @@ outline: 1
 | [Luna](https://luna-stream.me/) | :yes: | :sync: | :cc::oc: |
 
 ::: scrapetable
-- AniLight : (AnimePahe, Raye), (Anibd, Misora), (AniNeko, Light), (Anikoto, Kiwi Meg Misa & Vid), (AllManga, Ryu);
+- AniLight : (AnimePahe, Raye), (Anibd, Misora), (Anidb, Near), (AniNeko, Light), (Anikoto, Kiwi Meg & Misa), (AllManga, Ryu);
 - AnimeX : (Anidb, kiwi), (Anibd, beep), (AniNeko, mimi), (AnimeOnsen, vee, SD), (AllManga, huzz miku & mochi), (Animeverse, neko), (Anikoto, koto & yuki);
 - Luna: (Anikoto, zenith), (Aniwave, nova), (Anibd, Helios), (Anidb, Polaris), (Allmanga, Quasar), (Anineko, vega), (Animeverse, cosmos);
 - Miruro : (AnimeDunya, dune, SD), (Anidb, pewe), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
@@ -235,10 +235,15 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 ::: tabs
 
 == Online
-- [Novel Updates](https://www.novelupdates.com/)
-- [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page)
-- [LNori](https://lnori.com/)
-- [Ranobes](https://ranobes.top/)
+
+| Category | Websites |
+| :--- | :--- |
+| Official | [LNori](https://lnori.com/) |
+| ^^ | [Ranobe](https://staging.ranobe.app/) :acc: ||AlpinDale|| |
+| ^^ | [cyrisia](https://cyrisia.com/) |
+| FanTL | [Novel Updates](https://www.novelupdates.com/) |
+| ^^ | [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page) |
+| ^^ | [Ranobes](https://ranobes.top/) |
 
 == Nyaa
 - [AlpinDale](https://nyaa.si/user/AlpinDale)
@@ -252,8 +257,8 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Audiobooks](https://nyaa.si/?f=0&c=0_0&q=Audiobook)
 
 == Direct Download
+- [Elscione's Library](https://server.elscione.com/) [:alt:](https://server.elsci.one/)
 - [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml) :ded:
-- [Elscione Official LNs](https://server.elscione.com/Officially%20Translated%20Light%20Novels/)
 - [JNovel Codex](https://jnovelcodex.web.app/index.html)
 - [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha==
 - [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami)

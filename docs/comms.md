@@ -66,6 +66,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Manga & Novels
 - [Atsumaru](https://discord.gg/Tj4QmEF4uV)
+- [Elscione's Library](https://discord.gg/zSpYj4GJVv)
 - [J-Novel Club](https://discord.gg/WmRnnFvfS3)
 - [Kagane](https://discord.gg/FqXt7rmnV3)
 - [MangaBaka](https://discord.gg/XYtPtMkbKs)
