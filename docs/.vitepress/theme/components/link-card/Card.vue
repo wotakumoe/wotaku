@@ -26,7 +26,7 @@ const props = defineProps<{
 .vp-card:focus,
 .vp-card:visited {
   display: block;
-  border: 1px solid var(--vp-c-bg-soft);
+  border: 2px solid #3d3d3d;
   border-radius: 12px;
   height: 100%;
   background-color: var(--vp-c-bg-soft);

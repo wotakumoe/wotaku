@@ -1676,6 +1676,15 @@ html.reduce-blur-effects {
   text-decoration: none !important;
 }
 
+.VPFeature {
+  border: 2px solid #3d3d3d !important;
+  transition: border-color 0.25s !important;
+
+  &:hover {
+    border-color: var(--vp-c-brand-1) !important;
+  }
+}
+
 .vp-doc .vp-card .vp-card-title {
   text-decoration: none !important;
   border-top: none !important;
