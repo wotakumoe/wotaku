@@ -468,6 +468,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [Wolf](https://wfwf464.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [W-Toon](https://wtwt329.com/) [:prx:](https://nicelink51.com/) |
+| ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [YaToon](https://yatoon235.com/) [:prx:](https://yatoonlink.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
 | ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
