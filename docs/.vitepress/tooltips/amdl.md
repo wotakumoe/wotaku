@@ -1,2 +1,1 @@
-- Only supports individual songs at the moment, not albums.
-- Type -alac before the link for lossless downloads.
+Type -alac before individual track links for lossless downloads.
