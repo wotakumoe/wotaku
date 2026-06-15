@@ -275,21 +275,13 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 ::: tabs
 
-== Media
+== Streaming
 
-| Category   | Website |
-|------------|---------|
-| **Streaming** | [Toku555](https://toku555.com/) |
-| ^^         | [Zokaj](https://zokaj.com/) [:alt:](https://kajzu.com/) |
-| ^^         | [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) |
-| ^^         | [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) |
-| ^^         | [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official) |
-| **Download** | [Zekozimo](https://zekozimo.blogspot.com/) :s: ||General|| |
-| ^^         | [KRDL](https://krdl.moe/) :s: |
-| ^^         | [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap) |
-| ^^         | [Bereke Scrubs](https://berekescrubs.wordpress.com/) |
-| ^^         | [Megabeast Empire](https://megabeastempire.wordpress.com/) |
-| ^^         | [Metallic Subs](https://metallicsubs.wordpress.com/) |
+- [Toku555](https://toku555.com/)
+- [Zokaj](https://zokaj.com/) [:alt:](https://kajzu.com/)
+- [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial)
+- [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
+- [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official)
 
 <collapsible type="tip" title="General Live-Action"> 
 
@@ -309,6 +301,15 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
 
 </collapsible>
+
+== Download
+
+- [Zekozimo](https://zekozimo.blogspot.com/) :s: ||General||
+- [KRDL](https://krdl.moe/) :s:
+- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap)
+- [Bereke Scrubs](https://berekescrubs.wordpress.com/)
+- [Megabeast Empire](https://megabeastempire.wordpress.com/)
+- [Metallic Subs](https://metallicsubs.wordpress.com/)
 
 == Wikis
 
