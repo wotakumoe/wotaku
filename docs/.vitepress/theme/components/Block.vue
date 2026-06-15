@@ -23,7 +23,7 @@ withDefaults(
     :is="link ? 'a' : 'span'"
     :href="link"
     :class="type"
-    class="VButton inline-flex items-center px4 py3 gap2 rounded-md align-middle cursor-pointer"
+    class="VButton flex items-center px4 py3 gap2 rounded-xl align-middle cursor-pointer w-full"
   >
     <div :class="icon" />
     <slot>{{ text }}</slot>
@@ -41,8 +41,9 @@ withDefaults(
 }
 
 .VButton.tip {
-  color: var(--vp-badge-tip-text);
-  background-color: var(--vp-badge-tip-bg);
+  color: var(--vp-custom-block-tip-text);
+  background-color: var(--vp-custom-block-tip-bg);
+  border: 2px solid var(--vp-custom-block-tip-border);
 }
 
 .VButton.warning {

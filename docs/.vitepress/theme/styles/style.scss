@@ -1719,7 +1719,7 @@ html.reduce-blur-effects {
   margin: 16px 0;
   background-color: var(--vp-plugin-tabs-tab-bg);
   border: 2px solid #3d3d3d;
-  border-radius: 8px;
+  border-radius: var(--radius-xl);
 }
 
 .plugin-tabs--tab-list {

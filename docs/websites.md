@@ -219,7 +219,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Internet Archive](https://archive.org/)
 - :prev: [The Manga Library](https://archive.org/details/manga_library)
 
-<collapsible type="tip" title="DDL from rippers">
+<collapsible title="DDL from rippers">
 
 - Nyaa descriptions: [**1r0n**](https://nyaa.si/user/tsuna69), [**LuCaZ**](https://nyaa.si/user/LuCaZ), [**Shizu**](https://nyaa.si/user/wolfsbanes), [**Stick**](https://nyaa.si/user/dumbboy58)
 - 4chan archives: [**Danke**](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/), [**XRA**](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/)
@@ -283,7 +283,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
 - [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official)
 
-<collapsible type="tip" title="General Live-Action"> 
+<collapsible title="General Live-Action"> 
 
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://rentry.org/wotaxy#kisskh)
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
@@ -303,7 +303,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
 - [Metallic Subs](https://metallicsubs.wordpress.com/)
 
-<collapsible type="tip" title="General Live-Action"> 
+<collapsible title="General Live-Action"> 
 
 - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
 - [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/GYahYNWutE)
@@ -467,7 +467,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 Some of the series may not be available depending on your region.
 :::
 
-<collapsible type="tip" title="Utility sites">
+<collapsible title="Utility sites">
 
 - [FlixHop](https://flixhop.com/)
 - [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)

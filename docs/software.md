@@ -175,11 +175,11 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 
 <Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
-::: details "iOS app not working. What should i do?"
+<collapsible title="iOS app not working. What should i do?">
 
 ![](/asset/cope.gif)
 
-:::
+</collapsible>
 
 
 ![](/banner/pc.webp)
