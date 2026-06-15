@@ -65,7 +65,7 @@ og:
 - :prev: [Jimaku](https://jimaku.cc/) :s:
 - :prev: [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) :ded:
-- [JPTV.club subtitle archive](https://rentry.org/wotadirect#japanimmersion) :ded:
+- [JPTV.club Subtitle Archive](https://rentry.org/wotadirect#japanimmersion) :ded:
 - [itazuraneko](https://djtguide.github.io/library/sub)
 - [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect#japanimmersion) :ded:
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) :ded:
