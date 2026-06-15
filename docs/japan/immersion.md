@@ -108,7 +108,7 @@ og:
 - [boroboro](https://boroboro.neocities.org/)
 - [Japanese Learner’s Anthology](https://rentry.org/wotadirect#japanimmersion)
 - [lolibrary index](https://lolibrary.moe/)
-- [TMW eBook Collection](https://rentry.org/wotadirect#japanimmersion)
+- [TMW eBook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+eBook)
 
 == Easy Reading
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
@@ -133,7 +133,7 @@ og:
 
 == Audiobook
 - [Nyaa.si](https://nyaa.si/) :s: [:src:](https://rentry.org/nyaap)
-- [TMW Japanese Audiobooks Collection](https://rentry.org/wotadirect#japanimmersion) [||Index||](https://coreaudio.netlify.app/)
+- [TMW Japanese Audiobooks Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+Audiobook) [||Index||](https://coreaudio.netlify.app/)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
