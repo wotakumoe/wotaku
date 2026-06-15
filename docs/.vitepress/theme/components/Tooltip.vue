@@ -24,7 +24,7 @@ withDefaults(
   <VTooltip theme="vp-tooltip" @show="isOpen = true" @hide="isOpen = false">
     <button
       aria-label="Tooltip"
-      class="size-3 p-0 select-none font-bold cursor-pointer" style="color: #a8f0cc"
+      class="size-3 p-0 select-none font-bold cursor-pointer" style="color: var(--vp-custom-block-tip-text)"
     >
       <div :class="isOpen ? 'i-ic-twotone-add-circle' : 'i-ic-twotone-add-circle-outline'" />
     </button>

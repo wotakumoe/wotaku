@@ -147,7 +147,7 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 }
 
 .vp-doc a {
-  color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-2);
   text-decoration: underline;
   text-underline-offset: 4px;
   text-decoration-style: dashed;
@@ -157,9 +157,19 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   transition: text-decoration-color 0.25s;
 
   &:hover {
+    color: var(--vp-c-brand-2);
+    text-decoration-color: var(--vp-c-brand-2);
+    -webkit-text-decoration-color: var(--vp-c-brand-2);
+  }
+
+  .dark & {
     color: var(--vp-c-brand-1);
-    text-decoration-color: var(--vp-c-brand-1);
-    -webkit-text-decoration-color: var(--vp-c-brand-1);
+
+    &:hover {
+      color: var(--vp-c-brand-1);
+      text-decoration-color: var(--vp-c-brand-1);
+      -webkit-text-decoration-color: var(--vp-c-brand-1);
+    }
   }
 }
 
@@ -304,6 +314,21 @@ main figure figcaption {
 
 .custom-block {
   --uno: "rounded-xl border-2";
+}
+
+:root:not(.dark) .details.custom-block a {
+  color: var(--vp-custom-block-info-text);
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 1px;
+  transition: opacity 0.25s;
+}
+
+:root:not(.dark) .details.custom-block a:hover {
+  opacity: 0.7;
+  color: var(--vp-custom-block-info-text-deep);
 }
 
 .info.custom-block a {
