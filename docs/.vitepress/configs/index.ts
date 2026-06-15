@@ -11,6 +11,7 @@ import {
 } from '@nolebase/vitepress-plugin-page-properties/vite'
 import { fileURLToPath, URL } from 'node:url'
 import UnoCSS from 'unocss/vite'
+import { createLogger } from 'vite'
 import Devtools from 'vite-plugin-vue-devtools'
 import type { DefaultTheme, Plugin, UserConfig } from 'vitepress'
 import { hostname, sidebar, siteConfig } from './constants'
@@ -18,6 +19,25 @@ import { generateImages, generateMeta } from './hooks'
 import { configureMarkdown } from './markdown'
 import { aliases, defs, movePlugin } from './markdown/emoji'
 import { collectPageLinks, urlSearchDevPlugin, writeUrlSearchIndex } from '../plugins/urlSearchPlugin'
+
+const logger = createLogger()
+const warn = logger.warn
+const warnOnce = logger.warnOnce
+
+function shouldSuppressWarning(message: string) {
+  return message.includes('[lightningcss minify] Unknown at rule: @property') ||
+    message.includes('Some chunks are larger than')
+}
+
+logger.warn = (message, options) => {
+  if (shouldSuppressWarning(message)) return
+  warn(message, options)
+}
+
+logger.warnOnce = (message, options) => {
+  if (shouldSuppressWarning(message)) return
+  warnOnce(message, options)
+}
 
 const GIT_COMMIT = process.env.NODE_ENV === 'development'
   ? 'dev'
@@ -89,8 +109,12 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     }
   },
   vite: {
+    customLogger: logger,
     experimental: {
       enableNativePlugin: true
+    },
+    build: {
+      cssMinify: 'lightningcss'
     },
     optimizeDeps: {
       exclude: [
