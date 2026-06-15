@@ -341,7 +341,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Indonesian Fansubbers' Index](https://www.fansub.id/home) |
 
 ### Manga
-- [Komiku](https://komiku.id/)
 - [Komikcast](https://komikcast03.com/)
 - [Komik Indo](https://komikindo.ch/)
 - [Shinigami ID](https://id.shinigami.asia/)
@@ -544,7 +543,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AniDUB](https://anidub.pro/) |
+| **Anime** | [AniDUB](https://v11.anidub.digital/) |
 | ^^ | [AniFilm](https://anifilm.pro/) |
 | ^^ | [AniFox](https://anifox.club/anime) ||Aggregator|| |
 | ^^ | [AniLiberty](https://anilibria.top/) ||Sub|| |
