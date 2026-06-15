@@ -1143,7 +1143,8 @@ table tr:nth-child(odd) {
 #local-search {
   & > .DocSearch-Button {
     @apply hover:scale-[1.03] focus:scale-[1.03] active:scale-[0.98]
-      transition-all! h-10 rounded-xl backdrop-blur-sm lg:ml-2 sm:bg-red-50;
+      h-10 rounded-xl backdrop-blur-sm lg:ml-2 sm:bg-red-50;
+    transition: scale 150ms ease !important;
     color: var(--docsearch-secondary-text-color);
 
     @media (width >= 40rem /* 640px */) {
