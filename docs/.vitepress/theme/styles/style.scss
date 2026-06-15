@@ -1508,6 +1508,18 @@ html.reduce-blur-effects {
       background-color: var(--vp-sidebar-bg-color) !important;
     }
   }
+
+  // Sidebar group header hover/active scale bounce
+  #VPSidebarNav > .group > .VPSidebarItem > .item,
+  #VPSidebarNavMobile > .group > .VPSidebarItem > .item,
+  // Sidebar link item active scale bounce
+  .VPSidebarItem.is-link:not(.collapsible),
+  .VPSidebarItem.is-link.collapsible > .item,
+  // Search button hover/active scale bounce
+  #local-search > .DocSearch-Button {
+    scale: none !important;
+    transition: none !important;
+  }
 }
 
 /* Icon tooltips (hover on desktop, tap on mobile) */
