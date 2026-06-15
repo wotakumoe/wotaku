@@ -23,7 +23,7 @@ og:
 - [Misskey Art Servers](https://rentry.org/wotakey)
 - [Pixiv](https://www.pixiv.net) :s:
 - :prev: [Pixivision](https://www.pixivision.net/en/)
-- [Twitter](https://x.com/home) :s:
+- [Twitter](https://x.com/) :s:
 - :prev: [Twoucan](https://twoucan.com/)
 
 <Collapsible title="More">

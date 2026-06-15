@@ -92,7 +92,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 | [Twitch](https://www.twitch.tv/)    | [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro)                 | :ff::cr:                   |
 | ^^                                 | [Purple Adblock](https://github.com/arthurbolsoni/Purple-adblock/)          | :ff::cr::js:               |
 | ^^                                 | More [Twitch Ad Solutions](https://github.com/pixeltris/TwitchAdSolutions/blob/master/full-list.md) |        |
-| [Twitter](https://x.com/home)      | [Control Panel for Twitter](https://github.com/insin/control-panel-for-twitter/) | :ff::cr::js:             |
+| [Twitter](https://x.com/)      | [Control Panel for Twitter](https://github.com/insin/control-panel-for-twitter/) | :ff::cr::js:             |
 | ^^                                 | [OldTwitter](https://github.com/dimdenGD/OldTwitter)                        | :ff::cr:                   |
 | [YouTube](https://www.youtube.com/) | [SponsorBlock](https://sponsor.ajay.app/)                                  | :ff::cr:                   |
 
