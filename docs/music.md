@@ -432,6 +432,21 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [WACUP](https://getwacup.com/) :cs: | :win: |
 | [Tauon Music Box](https://tauonmusicbox.rocks/) [:src:](https://github.com/Taiko2k/Tauon) | :win::app::lin: |
 
+<collapsible title="Foobar2000 add-ons">
+
+| Type | Addon |
+| :--- | :--- |
+| Component | [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow) |
+| ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) [:help:](https://s0hv.github.io/foo_discord_rich/) [:alt:](https://github.com/realoksi/foobar2000-catbox) |
+| ^^ | [Encoder Pack](https://www.foobar2000.org/encoderpack) |
+| ^^ | [ESLyric](https://github.com/ESLyric/release) |
+| ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) |
+| ^^ | [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain) |
+| Theme | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) |
+| ^^ | [Eole](https://github.com/Ottodix/Eole-foobar-theme) |
+
+</Collapsible>
+
 == Online Player
 | Source | Player | Platform |
 | :--- | :--- | :--- |
@@ -485,6 +500,17 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) | :app: |
 | ^^ | [Whipper](https://github.com/whipper-team/whipper) | :lin: |
 
+<Collapsible title="Must Read Guides">
+
+- [redacted Interview Prep](https://interviewfor.red/en/index.html)
+- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
+- :prev: [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
+- :prev: [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
+- :prev: [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
+- [Music Hoarders Wiki](https://musichoarders.xyz/)
+
+</Collapsible>
+
 == Others
 
 | Category | Player | Platform |
@@ -522,35 +548,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music) | :no: |
 | ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
 
-:::
-
-<collapsible title="Foobar2000 add-ons">
-
-| Type | Addon |
-| :--- | :--- |
-| Component | [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow) |
-| ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) [:help:](https://s0hv.github.io/foo_discord_rich/) [:alt:](https://github.com/realoksi/foobar2000-catbox) |
-| ^^ | [Encoder Pack](https://www.foobar2000.org/encoderpack) |
-| ^^ | [ESLyric](https://github.com/ESLyric/release) |
-| ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) |
-| ^^ | [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain) |
-| Theme | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) |
-| ^^ | [Eole](https://github.com/Ottodix/Eole-foobar-theme) |
-
-</Collapsible>
-
-<Collapsible title="Must Read Guides">
-
-- [redacted Interview Prep](https://interviewfor.red/en/index.html)
-- [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
-  - [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
-  - [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
-  - [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
-- [Music Hoarders Wiki](https://musichoarders.xyz/)
-
-</Collapsible>
-
-
 <collapsible title="Introduction / Guide">
 
 - [Explaining Vocaloid in under 3 minutes](https://www.youtube.com/watch?v=GODXMGAMpVc)
@@ -558,10 +555,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [A guide to Vocaloid concerts](https://www.youtube.com/watch?v=2JtLAwllxI8)
 - :prev: [Part 2](https://www.youtube.com/watch?v=OzPKF-DMuUE)
 - [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU) <tooltip>Watch this for the introduction only (till `21:42`), since the software section is outdated. </tooltip>
-    - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
+- :prev: [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
 - [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
 
 </Collapsible>
+
+:::
 
 
 ![](/music/msv.webp)
