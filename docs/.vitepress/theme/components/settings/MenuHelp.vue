@@ -34,25 +34,26 @@ const helpPopupStyle = computed(() => {
   const popupH = popupBounding.height.value
   const vw = window.innerWidth
   const vh = window.innerHeight
+  const isMobile = vw < 768
 
-  // Horizontal: prefer left of element, then right, then center in viewport
-  let left = bounding.left.value - popupW - 16
-  if (left < margin) {
-    const rightPos = bounding.right.value + 8
-    left = rightPos + popupW <= vw - margin
-      ? rightPos
-      : (vw - popupW) / 2
+  let top: number
+  let left: number
+
+  if (isMobile) {
+    // Mobile: place above the title row, center horizontally, fall back to below
+    const aboveTop = bounding.top.value - popupH - 8
+    const belowTop = bounding.bottom.value + 8
+    top = aboveTop >= margin
+      ? aboveTop
+      : belowTop + popupH <= vh - margin
+        ? belowTop
+        : Math.max(margin, vh - popupH - margin)
+    left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
+  } else {
+    // Desktop: place to the left of the menu title, aligned vertically
+    left = bounding.left.value - popupW - 16
+    top = bounding.top.value
   }
-  left = Math.max(margin, Math.min(left, vw - popupW - margin))
-
-  // Vertical: prefer above the title row, fall back to below
-  const aboveTop = bounding.top.value - popupH - 8
-  const belowTop = bounding.bottom.value + 8
-  const top = aboveTop >= margin
-    ? aboveTop
-    : belowTop + popupH <= vh - margin
-      ? belowTop
-      : Math.max(margin, vh - popupH - margin)
 
   return {
     top: `${top}px`,
