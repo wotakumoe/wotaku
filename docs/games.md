@@ -261,11 +261,12 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | ^^ | [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/) |
 | ^^ | [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) ||Companion|| |
 | **Unofficial** | [Dueling Book](https://www.duelingbook.com/) ||Manual|| |
+| ^^ | [Dueling Nexus](https://duelingnexus.com/welcome) ||Automatic|| |
 | ^^ | [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) ||Manual|| |
 | ^^ | [EDO Pro](https://projectignis.github.io/index.html) ||Automatic|| |
 | ^^ | [YGO Omega](https://omega.duelistsunite.org/) [:src:](https://github.com/duelists-unite/omega-releases) ||Automatic|| |
-| **Alternative Formats** | [Goat Format](https://www.goatformat.com/) |
+| **Alt Formats** | [Format Library](https://www.formatlibrary.com/) |
 | ^^ | [Edison Format](https://www.edisonformat.net/) |
-| ^^ | [Format Library](https://www.formatlibrary.com/) |
+| ^^ | [Goat Format](https://www.goatformat.com/) |
 
 :::
