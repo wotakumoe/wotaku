@@ -39,21 +39,27 @@ summary::-webkit-details-marker {
   flex-shrink: 0;
 }
 
+.details {
+  background-color: var(--vp-custom-block-info-bg);
+  color: var(--vp-custom-block-info-text);
+  border-color: var(--vp-custom-block-info-border);
+}
+
 .tip {
-  background-color: #042a20;
-  color: #a8f0cc;
-  border-color: #0a5c42;
+  background-color: var(--vp-custom-block-tip-bg);
+  color: var(--vp-custom-block-tip-text);
+  border-color: var(--vp-custom-block-tip-border);
 }
 
 .warning {
-  background-color: #413306;
-  color: #fee38b;
-  border-color: #86680e;
+  background-color: var(--vp-custom-block-warning-bg);
+  color: var(--vp-custom-block-warning-text);
+  border-color: var(--vp-custom-block-warning-border);
 }
 
 .danger {
-  background-color: #430a0a;
-  color: #fec8c8;
-  border-color: #981b1b;
+  background-color: var(--vp-custom-block-danger-bg);
+  color: var(--vp-custom-block-danger-text);
+  border-color: var(--vp-custom-block-danger-border);
 }
 </style>

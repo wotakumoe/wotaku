@@ -1493,15 +1493,18 @@ html.reduce-blur-effects {
   .VPNavBarMenu.menu > a,
   .VPNavBarAppearance.appearance,
   .VPSocialLinks.VPNavBarSocialLinks.social-links,
+  .VPNolebaseEnhancedReadabilitiesMenuFlyout,
   .VPFlyout.VPNavBarExtra.extra,
   .VPNavScreen:has(.home-screen-nav) {
     background-color: var(--vp-c-bg) !important;
   }
 
-  .VPNavBarAppearance.appearance,
-  .VPSocialLinks.VPNavBarSocialLinks.social-links,
-  .VPNolebaseEnhancedReadabilitiesMenuFlyout {
-    background-color: #151617 !important;
+  &.dark {
+    .VPNavBarAppearance.appearance,
+    .VPSocialLinks.VPNavBarSocialLinks.social-links,
+    .VPNolebaseEnhancedReadabilitiesMenuFlyout {
+      background-color: #151617 !important;
+    }
   }
 
   @media (max-width: 959.9px) {
