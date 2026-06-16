@@ -45,7 +45,7 @@ og:
 - [Anisub](https://anisub.tv/)
 - [Cineby](https://www.cineby.sc/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://rentry.org/wotaxy#kisskh)
-- [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
+- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
 
 == Anime
 - [Classics](https://animation.filmarchives.jp/index.html)
@@ -67,7 +67,7 @@ og:
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) :ded:
 - [JPTV.club Subtitle Archive](https://rentry.org/wotadirect#japanimmersion) :ded:
 - [itazuraneko](https://djtguide.github.io/library/sub)
-- [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect#japanimmersion) :ded:
+- [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect#japanimmersion) :mag::ded:
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) :ded:
 - [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
@@ -95,7 +95,7 @@ og:
 ::: tabs
 
 == General
-- [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap)
+- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap)
 
 == Manga
 - [Bilingual Manga](https://bilingualmanga.org/) :s: [||Backup||](https://github.com/B-M-dev/Bilingual_Manga-home-)
@@ -106,9 +106,9 @@ og:
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [boroboro](https://boroboro.neocities.org/)
-- [Japanese Learner’s Anthology](https://rentry.org/wotadirect#japanimmersion)
+- [Japanese Learner's Anthology](https://rentry.org/wotadirect#japanimmersion) :mag:
 - [lolibrary index](https://lolibrary.moe/)
-- [TMW eBook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+eBook)
+- [TMW eBook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+eBook) :mag:
 
 == Easy Reading
 - [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
@@ -132,8 +132,8 @@ og:
 ::: tabs
 
 == Audiobook
-- [Nyaa.si](https://nyaa.si/) :s: [:src:](https://rentry.org/nyaap)
-- [TMW Japanese Audiobooks Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+Audiobook) [||Index||](https://coreaudio.netlify.app/)
+- [Nyaa.si](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
+- [TMW Audiobook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+Audiobook) :mag: [||Index||](https://coreaudio.netlify.app/)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
