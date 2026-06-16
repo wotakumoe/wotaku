@@ -467,6 +467,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 == Cartoon
 - [Code Lyoko US](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL)
 - [Huntik: Secrets & Seekers](https://www.youtube.com/@HuntikOfficial)
+- [Totally Spies!](https://www.youtube.com/@TotallySpiesChannel)
 - [Valerian & Laureline US](https://www.youtube.com/@valerianlaurelineenglishof984)
 
 :::
