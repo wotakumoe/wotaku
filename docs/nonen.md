@@ -338,10 +338,10 @@ Most apps in [**software**](/software) supports multilingual sources
 | **DDL** | [Kusonime](https://kusonime.com/) |
 | ^^ | [Meownime](https://meownime.ltd/) |
 | **Info** | [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/) |
-| ^^ | [Indonesian Fansubbers' Index](https://www.fansub.id/home) |
 
 ### Manga
-- [Komikcast](https://komikcast03.com/)
+- [Komiku](https://komiku.org/)
+- [Komikcast](https://v2.komikcast.fit/)
 - [Komik Indo](https://komikindo.ch/)
 - [Shinigami ID](https://id.shinigami.asia/)
 - [Softkomik](https://softkomik.com/)
