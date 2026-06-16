@@ -113,6 +113,14 @@ outline: 1
 - [Shana Project](https://www.shanaproject.com/)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
+<collapsible title="Fan projects">
+
+- [Kineko Video](https://nyaa.si/?f=0&c=0_0&q=Kineko+Video)
+- [Sephirotic's NGE](https://nyaa.si/user/sephirotic)
+- [SoM's Dragon Ball](https://nyaa.si/user/iKaos)
+
+</collapsible>
+
 <collapsible title="Related resources">
 
 - [aniDB](https://anidb.net/) :acc:
