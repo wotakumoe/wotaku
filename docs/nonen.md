@@ -338,6 +338,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | **DDL** | [Kusonime](https://kusonime.com/) |
 | ^^ | [Meownime](https://meownime.ltd/) |
 | **Info** | [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/) |
+| ^^ | [Indonesian Fansubbers' Index](https://www.fansub.id/home) |
 
 ### Manga
 - [Komiku](https://komiku.org/)
