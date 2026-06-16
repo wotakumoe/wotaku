@@ -1855,3 +1855,9 @@ html.reduce-blur-effects {
 .vp-doc .custom-block.title-only {
   padding-bottom: 16px;
 }
+
+html:not(.dark) .nolebase-ui-input-horizontal-option {
+  --nolebase-ui-input-horizontal-option-active-bg: var(--vp-c-text-1);
+  --nolebase-ui-input-horizontal-option-active-text: var(--vp-c-bg-elv);
+  --nolebase-ui-input-horizontal-option-shadow-color: #53535366;
+}
