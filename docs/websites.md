@@ -43,6 +43,7 @@ outline: 1
 | [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
+| :prev: [AniDB](https://anidb.app/) ==AniDB== | :yes: | :no: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
 | [Otaku-Streamers](https://beta.otaku-streamers.com/) :acc: ==OtakuStreamers== | :yes: | :no: | :oc: |
 | [Watch Cartoon Online](https://www.wco.tv/) [:prx:](https://www.wcostatus.com/) ==WCO== | :yes: | :no: | :oc: |
@@ -115,9 +116,9 @@ outline: 1
 
 <collapsible title="Fan projects">
 
-- [Kineko Video](https://nyaa.si/?f=0&c=0_0&q=Kineko+Video)
-- [Sephirotic's NGE](https://nyaa.si/user/sephirotic)
-- [SoM's Dragon Ball](https://nyaa.si/user/iKaos)
+- [Kineko Video](https://nyaa.si/?f=0&c=0_0&q=Kineko+Video) ||General||
+- [Sephirotic](https://nyaa.si/user/sephirotic) ||Evangelion||
+- [Seed of Might](https://nyaa.si/user/iKaos) ||Dragon Ball||
 
 </collapsible>
 

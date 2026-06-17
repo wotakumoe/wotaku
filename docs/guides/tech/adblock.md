@@ -11,7 +11,8 @@ og:
 | Chromium  | [Brave](https://brave.com/) [:src:](https://github.com/brave/brave-browser) | :and::ios::win::app::lin: |
 | ^^        | [Cromite](https://github.com/uazo/cromite) | :and::win::lin: |
 | ^^        | [Helium](https://helium.computer/) [:src:](https://github.com/imputnet/helium) | :win::app::lin: |
-| Firefox   | [Ironfox](https://ironfoxoss.org/) [:src:](https://gitlab.com/ironfox-oss/IronFox/) | :and: |
+| Gecko     | [Firefox](https://www.firefox.com/) [:src:](https://searchfox.org/firefox-main/source) | :and::ios::win::app::lin: |
+| ^^        | [Ironfox](https://ironfoxoss.org/) [:src:](https://gitlab.com/ironfox-oss/IronFox/) | :and: |
 | ^^        | [LibreWolf](https://librewolf.net/) [:src:](https://codeberg.org/librewolf/source) | :win::app::lin: |
 
 ## General 

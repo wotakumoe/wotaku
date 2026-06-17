@@ -58,6 +58,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Anime Soul](https://discord.gg/animesoul)
 - [Ass Anime Community](https://discord.gg/RD72pNRYFu)
 - [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
+- [LiveChart](https://discord.gg/wSt8U52)
 - [Miruro Community](https://discord.gg/pjsdJp96mY)
 - [Re:ANIME Community](https://discord.gg/QsqcnsryyK)
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
@@ -66,13 +67,19 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Manga & Novels
 - [Atsumaru](https://discord.gg/Tj4QmEF4uV)
+- [BookWalker](https://discord.gg/QvyAYY2H9H)
+- [Doujinshi.info](https://discord.gg/xeZXvEB9uw)
 - [Elscione's Library](https://discord.gg/zSpYj4GJVv)
+- [Great Discord Links Hub](https://discord.gg/9KGMzP2) ||Scan groups||
 - [J-Novel Club](https://discord.gg/WmRnnFvfS3)
 - [Kagane](https://discord.gg/FqXt7rmnV3)
 - [MangaBaka](https://discord.gg/XYtPtMkbKs)
 - [MangaKatana](https://discord.gg/bXfTCCtdXQ)
+- [MANGA Plus by SHUEISHA](https://discord.gg/qAkpHxH)
+- [RanobeDB](https://discord.gg/ZeAnhGncFx)
 - [r/Manga](https://discord.gg/manga)
 - [r/MangaPiracy](https://discord.gg/ZgMtAyxFSU)
+- [Weekly Shounen Jump](https://discord.gg/3JmVH4s7ff)
 
 == Apps
 - [Aidoku](https://discord.gg/kh2PYT8V8d)
@@ -129,9 +136,14 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [TheMoeWay](https://discord.gg/nhqjydaR8j)
 
 == Others
+- [AniList](https://discord.gg/TF428cr)
+- [Anime-Planet](https://discord.gg/animeplanet)
 - [Anime UK News](https://discord.gg/014sRKGzuUPGPpYRa)
+- [AniSearch](https://discord.gg/xUKnZFQ)
 - [Crunchyroll](https://discord.gg/crunchyroll)
 - [GetComics](https://discord.gg/G7UwGPZDJ7)
+- [Kitsu](https://discord.gg/AbMuHjUZ9d)
+- [MAL-Sync](https://discord.gg/cTH4yaw)
 - [r/Tokusatsu](https://discord.gg/Rf2dDaJSp3)
 
 :::
@@ -143,9 +155,11 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Anime, Manga & Novels
 - [Anime](https://old.reddit.com/r/anime/)
+- [Doujinshi](https://old.reddit.com/r/doujinshi/)
 - [Light Novels](https://old.reddit.com/r/LightNovels/)
 - [Manga Piracy](https://old.reddit.com/r/mangapiracy/)
 - [Manga](https://old.reddit.com/r/manga/)
+- [Manga Collectors](https://old.reddit.com/r/MangaCollectors/)
 - [Manhua](https://old.reddit.com/r/Manhua/)
 - [Manhwa](https://old.reddit.com/r/manhwa/)
 - [Visual Novels](https://old.reddit.com/r/visualnovels/)

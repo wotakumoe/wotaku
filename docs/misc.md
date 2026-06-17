@@ -335,6 +335,7 @@ outline: 2
 - [Game Vecanti](https://x.com/gamevecanti) [||Index||](https://sites.google.com/view/game-vecanti-index)
 - [Memories of Homepage](https://x.com/memoriesofhp) :ljp:
 - [Retro anime Lovers](https://x.com/anime8cm)
+- [VideoGameArt&Tidbits](https://x.com/VGArtAndTidbits)
 
 </collapsible>
 
