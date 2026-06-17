@@ -2,19 +2,21 @@
 title: NSFW
 description: huh... ahem...
 customDescription: Explore a wide range of NSFW websites, manga, manhwa, illustrations, and software.
-outline: [1,2]
+outline: 2
 og:
     image: https://i.wotaku.wiki/f/nsfw.png
 ---
 
 ![](/banner/hweb.webp)
-# Websites
+## Websites
 
 ::: info Readme
 [**Nyaa Sukebei**](https://sukebei.nyaa.si/) is kinda ideal for everything. You can check [**Eronews**](https://en.eroeronews.com/) for news and ero anime schedule. [**AniSchedule**](https://github.com/RockinChaos/AniSchedule) has :rss: RSS Feed for ero anime release. 
 :::
 
-## Anime
+::: tabs
+
+== Anime
 - [AmateurSubs](https://amateursubs.com/) :ddl: [||Nyaa||](https://sukebei.nyaa.si/user/denis18312)
 - [Anibd](https://anibd.app/anime-seasontype/ani16/) [:alt:](https://ani.lol/anime-seasontype/ani16/)
 - [Hanime](https://hanime.tv/home) :hd:
@@ -29,7 +31,6 @@ og:
 - [Mucho Hentai](https://muchohentai.com/home) ||PV & Schedule||
 - [Oppai Stream](https://oppai.stream/) ||Upscale||
 
-
 <Collapsible title="More">
 
 - [HenVids](https://henvids.com/)
@@ -39,11 +40,8 @@ og:
 
 </Collapsible>
 
-## Manga
+== Manga
 
-::: tabs
-
-== General
 - [E-Hentai](https://e-hentai.org/) :s: [:help:](https://e-hentaitagsearch.blogspot.com/) ==EHentai==
 - [Akuma](https://akuma.moe/) ==Akuma==
 - [HDoujin](https://hdoujin.org/) :s: ==HDoujin==
@@ -54,7 +52,8 @@ og:
 - [Schale Network](https://shupogaki.moe/) :s: [:alt:](https://niyaniya.moe/) ==SchaleNetwork==
 - [Yabai](https://yabai.si/) ==Yabai==
 
-== English-only
+<collapsible title="English-only">
+
 - [EAHentai](https://eahentai.com/)
 - [Hentai Nexus](https://hentainexus.com/) ==HenTalkNexus==
 - [HentaiFox](https://hentaifox.com/)
@@ -62,9 +61,9 @@ og:
 - [HenTalk](https://hentalk.pw/) ==HenTalkNexus==
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
-:::
+</collapsible>
 
-## Pornhwa
+== Pornhwa
 
 | Websites | General | Raw |
 | :--- | :--- | :--- |
@@ -88,11 +87,8 @@ og:
 
 <Block link="/nonen#korean" icon="i-bi-box-arrow-up-right">Raw only websites are listed here</Block>
 
-## Illustrations
+== Illustrations
 
-::: tabs
-
-== Self-Hosted
 - [Danbooru](https://danbooru.donmai.us/) :s:
 - [Gelbooru](https://gelbooru.com/) :s:
 - [Hentai Game CG](https://hentaigamecg.com/)
@@ -103,42 +99,19 @@ og:
 - [Pixiv](https://www.pixiv.net)
 - [yande.re](https://yande.re/)
 
-== Frontends
+<collapsible title="Frontends">
+
 - [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
 - [Consurf](https://consurf.onrender.com/) [:src:](https://github.com/QueenAkaAlt/Consurf)
 - [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
 - [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer)
 - [ScrollX](https://scrollx.org/)
 
-:::
-
-## Games
-
-::: tabs
-
-== General
-- [Anime-Sharing](https://www.anime-sharing.com/) :acc:
-- [Asia Media Blog](https://asiamediablog.com/media/game/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
-- [CPG Repacks](https://cpgrepacks.site)
-- [Craneanime](https://blog.craneanime.xyz/)
-- [Eroge Download](https://erogedownload.com/)
-- [F95Zone](https://f95zone.to/) :acc:
-- [Gamcore](https://gamcore.com/)
-- [HSuki](https://www.h-suki.com/en/games)
-- [Kimochi](https://kimochi.info)
-- [Ryuugames](https://www.ryuugames.com/)
-- [ULMF](https://ulmf.org/) :acc:
-
-== Legal
-- [Denpasoft](https://denpasoft.com/)
-- [DLsite](https://www.dlsite.com/)
-- :prev: [DLwatcher](https://dlwatcher.com/)
-- [FAKKU](https://www.fakku.net/games)
-- [JAST](https://jastusa.com/)
-- [Johren](https://www.johren.games/)
-- [MangaGamer](https://www.mangagamer.com/)
+</collapsible>
 
 :::
+
+
 
 ::: info Try searching with Japanese titles or DLSite product ID on Sukebei.
 :::
@@ -146,39 +119,34 @@ og:
 
 
 ![](/banner/hsoft.webp)
-# Software
 
-## Android
+
+## Software
+
 ::: tabs
 
-== General
-- [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/ext/mihon)
-- [Hentoid](https://codeberg.org/VioletKnight/Hentoid)
-- [Jasmine](https://github.com/ComicSparks/jasmine)
-- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/ext/mihon)
+== Android
 
-== E-Hentai
-- [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer)
-- [EhViewer-UjuiUjuMandan](https://github.com/UjuiUjuMandan/EhViewer)
-- [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)
-- [JHenTai](https://github.com/jiangtian616/JHenTai)
+| Categories | Software |
+| :--- | :--- |
+| General | [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku) [:e:](/ext/mihon) |
+| ^^ | [Hentoid](https://codeberg.org/VioletKnight/Hentoid) |
+| ^^ | [Jasmine](https://github.com/ComicSparks/jasmine) |
+| ^^ | [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/ext/mihon) |
+| E-Hentai | [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer) |
+| ^^ | [EhViewer-UjuiUjuMandan](https://github.com/UjuiUjuMandan/EhViewer) |
+| ^^ | [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer) |
+| ^^ | [JHenTai](https://github.com/jiangtian616/JHenTai) |
+| nHentai | [NClientV3](https://github.com/maxwai/NClientV3) |
+| ^^ | [nhviewer universal](https://github.com/ttdyce/nhviewer-universal) |
 
-== nHentai
-- [NClientV3](https://github.com/maxwai/NClientV3)
-- [nhviewer universal](https://github.com/ttdyce/nhviewer-universal)
-
-:::
-
-## iOS
+== iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/ComicSparks/jasmine)
 
-## PC
+== PC
 
-::: tabs
-
-== Viewer / Tools
 - [ExHentai Manga Manager](https://github.com/SchneeHertz/exhentai-manga-manager) :win:
 - [JHenTai](https://github.com/jiangtian616/JHenTai) :win::app::lin:
 - [Jasmine](https://github.com/ComicSparks/jasmine) :win::app::lin:
@@ -196,12 +164,44 @@ og:
 | **nHentai** | [nHentai Archivist](https://github.com/9-FS/nhentai_archivist) | :win::lin::dock: |
 |     ^^   | [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader) | :cr::ff: |
 
+
+== Games
+
+
+- [Anime-Sharing](https://www.anime-sharing.com/) :acc:
+- [Asia Media Blog](https://asiamediablog.com/media/game/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
+- [CPG Repacks](https://cpgrepacks.site)
+- [Craneanime](https://blog.craneanime.xyz/)
+- [Eroge Download](https://erogedownload.com/)
+- [F95Zone](https://f95zone.to/) :acc:
+- [Gamcore](https://gamcore.com/)
+- [HSuki](https://www.h-suki.com/en/games)
+- [Kimochi](https://kimochi.info)
+- [Ryuugames](https://www.ryuugames.com/)
+- [ULMF](https://ulmf.org/) :acc:
+
+<collapsible title="Legal">
+
+- [Denpasoft](https://denpasoft.com/)
+- [DLsite](https://www.dlsite.com/)
+- :prev: [DLwatcher](https://dlwatcher.com/)
+- [FAKKU](https://www.fakku.net/games)
+- [JAST](https://jastusa.com/)
+- [Johren](https://www.johren.games/)
+- [MangaGamer](https://www.mangagamer.com/)
+
+</collapsible>
+
 :::
 
-![](/banner/hoth.webp)
-# Others
 
-## Database / Info / Portal
+![](/banner/hoth.webp)
+
+## Others
+
+::: tabs
+
+== Database
 | Category | Websites |
 |-|-|
 | Database | [DOJINDB](https://dojindb.net/) :ljp: |
@@ -210,74 +210,53 @@ og:
 | Info | [Fapservice](https://fapservice.com/) |
 | ^^   | [PornhwaDB](https://pornhwadb.com/) |
 | ^^   | [Yuri Scenes](https://yuriscenes.com/) |
-| Portal | [EroEro News](https://en.eroeronews.com/) |
- 
 
-## Websites
-- [Anime-sharing](http://www.anime-sharing.com/forum/)
+ 
+== AV
+
+| Categories | Software |
+| :--- | :--- |
+| Stream | [MissAV](https://missav.ws/) |
+| ^^ | [JAVGG](https://javgg.net/) [:alt:](https://javgg.co/) |
+| ^^ | [JavGuru](https://jav.guru/) |
+| ^^ | [JAVSeen](https://javseen.tv/) |
+| ^^ | [SexTB](https://sextb.net/) [:alt:](https://sextb.date/) |
+| Torrent | [141JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/) |
+| ^^ | [OneJAV](https://onejav.com/) |
+| ^^ | [ProjectJav](https://projectjav.com/) |
+| ^^ | [Sukebei](https://sukebei.nyaa.si/?f=0&c=2_2&q=) [:prx:](https://rentry.org/nyaap) |
+| ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/?cat=15) [:alt:](https://tokyo-tosho.net/?cat=15) |
+| Others | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
+| ^^ | [Gravure Princess](https://idol.gravureprincess.date/) |
+| ^^ | [Mabui Onna](https://mabui-onna.com/) |
+| ^^ | [X-IDOL](https://xidol.net/) [:prx:](https://rentry.org/wotaxy#x-idol) |
+| ^^ | :rd: [Japanese DDL](/nonen#direct) |
+
+== Scripts
+
+| Categories | Software |
+| :--- | :--- |
+| General | [Comic Looms](https://github.com/MapoMagpie/eh-view-enhance) |
+| ^^ | [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton) |
+| ^^ | [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more) |
+| ^^ | [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-enhance) |
+| ^^ | [Kemono Browser](https://sleazyfork.org/en/scripts/483259-kemono-browser) |
+| ^^ | [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition) |
+| ^^ | [Manga Loader NSFW](https://sleazyfork.org/en/scripts/483574-manga-loader-nsfw-download) |
+| ^^ | [Manga OnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) |
+| ExHentai | [E(x)-Hentai Tags Preview](https://github.com/fp555/exh-tags-preview) |
+| ^^ | [ExResurrect](https://sleazyfork.org/en/scripts/411277-exresurrect) |
+| ^^ | [Let's panda!](https://sleazyfork.org/en/scripts/33979-let-s-panda) |
+| nHentai | [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:src:](https://github.com/Tsuk1ko/nhentai-helper) |
+| ^^ | [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa) |
+| ^^ | [Nhentai Manga Loader](https://github.com/longkidkoolstar/Nhentai-Manga-Loader) |
+
+== Misc
+
 - [ASMR Online](https://asmr.one/)
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [HMV Mania](https://hmvmania.com/) [:f:](https://archiveofsins.com/h/thread/8735646)
 - [Japanese ASMR](https://japaneseasmr.com/)
 - [Kasumi](http://xdcc.kasumi.moe/) [:help:](http://kasumi.moe/guide/)
 
-## AV
-
-::: tabs
-
-== Stream
-- [MissAV](https://missav.ws/)
-- [JAVGG](https://javgg.net/) [:alt:](https://javgg.co/)
-- [JavGuru](https://jav.guru/)
-- [JAVSeen](https://javseen.tv/)
-- [SexTB](https://sextb.net/) [:alt:](https://sextb.date/)
-
-== Torrent
-- [141JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/)
-- [OneJAV](https://onejav.com/)
-- [ProjectJav](https://projectjav.com/)
-- [Sukebei](https://sukebei.nyaa.si/?f=0&c=2_2&q=) [:prx:](https://rentry.org/nyaap)
-- [Tokyo Toshokan](https://www.tokyotosho.info/?cat=15) [:alt:](https://tokyo-tosho.net/?cat=15)
-
-== Others
-- [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
-- [Gravure Princess](https://idol.gravureprincess.date/)
-- [Mabui Onna](https://mabui-onna.com/)
-- [X-IDOL](https://xidol.net/) [:prx:](https://rentry.org/wotaxy#x-idol)
-- :rd: [Japanese DDL](/nonen#direct)
-
 :::
-
-## Scripts
-
-::: tabs
-
-== General
-- [Comic Looms](https://github.com/MapoMagpie/eh-view-enhance)
-- [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
-- [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
-- [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-enhance)
-- [Kemono Browser](https://sleazyfork.org/en/scripts/483259-kemono-browser)
-- [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
-- [Manga Loader NSFW](https://sleazyfork.org/en/scripts/483574-manga-loader-nsfw-download)
-- [Manga OnlineViewer](https://github.com/TagoDR/MangaOnlineViewer)
-
-== ExHentai
-- [E(x)-Hentai Tags Preview](https://github.com/fp555/exh-tags-preview)
-- [ExResurrect](https://sleazyfork.org/en/scripts/411277-exresurrect)
-- [Let's panda!](https://sleazyfork.org/en/scripts/33979-let-s-panda)
-
-== nHentai
-- [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:src:](https://github.com/Tsuk1ko/nhentai-helper)
-- [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
-- [Nhentai Manga Loader](https://github.com/longkidkoolstar/Nhentai-Manga-Loader)
-
-:::
-
-## Misc
-
-- [JAV Threads](https://warosu.org/jp/?task=search&ghost=false&search_text=jav+thread) :f: [:help:](https://jav.now.sh/)
-- [HDGFAQ](https://rentry.org/hdgfaq)
-- [Hent-AI](https://github.com/natethegreate/hent-AI)
-- [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
-- [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)

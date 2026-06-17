@@ -143,7 +143,7 @@ outline: 2
 | ^^      | [UpcomingCons](https://upcomingcons.com/) |
 | :rd: **Others** | [Games](/games?tabs=database) |
 | ^^      | [Music](/music?tabs=database) |
-| ^^      | [NSFW](/nsfw#database-info-portal) |
+| ^^      | [NSFW](/nsfw?tabs=database) |
 | ^^      | [VTuber](/vtuber?tabs=database) |
 
 

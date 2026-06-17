@@ -11,6 +11,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 == General
 
 - [Anime UK News](https://forums.animeuknews.net/)
+- [Anime-sharing](http://www.anime-sharing.com/)
 - [Animesuki](https://forums.animesuki.com/)
 - [MyAnimeList](https://myanimelist.net/forum/)
 

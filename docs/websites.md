@@ -236,7 +236,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | [TopManhua](https://manhuatop.org/) | :msync: | :ss: | :sp::ls: | :cmnt: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | :no: | :ss: | :ls: | :cmnt: |
 
-<Block link="/nsfw#pornhwa">Pornhwa focused websites are listed here</Block>
+<Block link="/nsfw?tabs=pornhwa">Pornhwa focused websites are listed here</Block>
 
 == Download
 
