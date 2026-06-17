@@ -59,7 +59,7 @@ outline: 1
 | [Luna](https://luna-stream.me/) | :yes: | :sync: | :cc::oc: |
 
 ::: scrapetable
-- AniLight : (AnimePahe, Raye), (Anibd, Misora), (Anidb, Near), (AniNeko, Light), (Anikoto, Kiwi Meg & Misa), (AllManga, Ryu);
+- AniLight : (AnimePahe, Raye), (Anibd, Misora), (Anidb, Near), (AniNeko, Light & Rem), (Anikoto, Kiwi Meg & Misa), (AllManga, Ryu);
 - AnimeX : (Anidb, kiwi), (Anibd, beep), (AniNeko, mimi), (AnimeOnsen, vee, SD), (AllManga, huzz miku & mochi), (Animeverse, neko), (Anikoto, koto & yuki);
 - Luna: (Anikoto, zenith), (Aniwave, nova), (Anibd, Helios), (Anidb, Polaris), (Allmanga, Quasar), (Anineko, vega), (Animeverse, cosmos);
 - Miruro : (AnimeDunya, dune, SD), (Anidb, pewe), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
@@ -366,7 +366,6 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 == Info
 - [Comichron](https://www.comichron.com/index.php)
 - [Comic Book Treasury](https://www.comicbooktreasury.com/)
-- [Comic Shop Locator](https://www.comicshoplocator.com/)
 - [Grand Comics Database](https://www.comics.org/)
 
 == Reading Guide

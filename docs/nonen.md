@@ -212,7 +212,7 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AnimeKO](https://animeko.ws/) |
+| **Anime** | [AnimeKO](https://v3.animeko.ws/) |
 | ^^ | [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/) + :len: |
 | ^^ | [AnimesUltra](https://ww.animesultra.org/) |
 | ^^ | [Fluneo](https://myfluneo.eu/) |
@@ -472,7 +472,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [YaToon](https://yatoon235.com/) [:prx:](https://yatoonlink.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
 | ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
-| ^^ | [MoneyToon](https://mtoon141.com/) |
 | ^^ | [NameeToon](https://namee100.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |

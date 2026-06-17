@@ -126,7 +126,6 @@ outline: 2
 | **Seiyuu / Voice Actor** | [Maumau ☆ Anime Viewing Record](https://www.mau2.com/) :s::ljp: |
 | ^^ | [Anime Hack](https://anime.eiga.com/person/) :ljp: |
 | ^^ | [AVAC.moe](https://avac.moe/index.php) :mal: |
-| ^^ | [Seiyuu.moe](https://seiyuu.moe/) :mal: |
 | ^^ | [Seiyuu Comparison](https://chiaki.site/?/tools/seiyuu_comparison) :al: ||Chiaki|| |
 | ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
