@@ -170,10 +170,10 @@ og:
 
 == Browser
 - [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:src:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
-    - [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
-    - [Collection of Yomitan dictionaries (japanese)](https://rentry.org/wotadirect#japansoftware)
-    - [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
-    - [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
+- :prev: [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
+- :prev: [Collection of Yomitan dictionaries (japanese)](https://rentry.org/wotadirect#japansoftware)
+- :prev: [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
+- :prev: [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::sfr:<tooltip>Pop-up dictionary</tooltip>
 - [Anki JPDB Reader](https://github.com/Kagu-chan/anki-jpdb.reader) :ff::cr:
 - [ASB Auto Subs](https://github.com/GodPepe7/asb-auto-subs) :ff::cr:<tooltip>Jimaku subs in anime sites</tooltip>

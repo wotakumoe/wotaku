@@ -2,75 +2,84 @@
 title: Tools
 description: Software to make life easier
 customDescription: Various tools to enhance your experience; not all of them are necessarily weeb-related, but they can be genuinely helpful.
-outline: [1,2]
+outline: 2
 og:
     image: https://i.wotaku.wiki/f/tools.png
 
 ---
 
-![](/banner/phone.webp)
-# Phone
-
-## Downloader
+## Android
 
 ::: tabs
 
-== Android
-
-| Name | DDL | P2P | FOSS | Free |
-|-|-|-|-|-|
-| [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :yes: | :yes: | :no: | Ads, feature limit |
-| [AB Download Manager](https://abdownloadmanager.com/) [:src:](https://github.com/amir1376/ab-download-manager) | :yes: | :no: | :yes: | :yes: |
-| [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: | Ads |
-| [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: | :yes: |
-| [BiglyBT](https://play.google.com/store/apps/details?id=com.biglybt.android.client) :s: | :no: | :yes: | :yes: | :yes: |
-| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: | Ads |
-| [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: | :yes: |
-| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: | :yes: |
-| [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :no: | :yes: | :yes: |
-
-== iOS
+== Downloader
 
 | Name | DDL | P2P | FOSS |
+|-|-|-|-|
+| [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :s: | :yes: | :yes: | :no: |
+| [AB Download Manager](https://abdownloadmanager.com/) [:src:](https://github.com/amir1376/ab-download-manager) | :yes: | :no: | :yes: |
+| [Advanced Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) | :yes: | :yes: | :no: |
+| [Aria2App](https://github.com/devgianlu/Aria2App) | :yes: | :yes: | :yes: |
+| [BiglyBT](https://play.google.com/store/apps/details?id=com.biglybt.android.client) :s: | :no: | :yes: | :yes: |
+| [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) ==Flud== | :no: | :yes: | :no: |
+| [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: |
+| [LibreTorrent](https://github.com/proninyaroslav/libretorrent) :s: | :no: | :yes: | :yes: |
+| [YTDLnis](https://ytdlnis.org/) [:src:](https://github.com/deniscerri/ytdlnis) | :yes: | :no: | :yes: |
+
+== Media
+
+| Category | Software |
+| :--- | :--- |
+| **Local** | [mpvEx](https://github.com/marlboro-advance/mpvEx) :s: [:n:](https://marlboro-advance.github.io/mpvEx/) |
+| ^^ | ^[MX Player](Don't install the Play Store version as it was bought by Amazon, use Balatan's mod instead.) :s::cs: |
+| **Online** | [Grayjay](https://grayjay.app/) [:src:](https://gitlab.futo.org/videostreaming/grayjay) |
+| ^^ | [Libretube](https://libretube.dev/) [:src:](https://github.com/libre-tube/LibreTube) |
+| ^^ | [Morphe](https://morphe.software/) [:src:](https://github.com/MorpheApp/morphe-manager) |
+| ^^ | [Revanced](https://revanced.app/) [:src:](https://github.com/ReVanced/revanced-manager) |
+| ^^ | [Twire](https://github.com/twireapp/Twire) |
+
+== General
+
+| Category | Software |
+| :--- | :--- |
+| **Store** | [Aurora Store](https://auroraoss.com/) [:src:](https://gitlab.com/AuroraOSS/AuroraStore) |
+| ^^ | [Neo Store](https://github.com/NeoApplications/Neo-Store) |
+| ^^ | [Droid-ify](https://github.com/Droid-ify/client) |
+| **Misc** | [APKUpdater](https://github.com/rumboalla/apkupdater) |
+| ^^ | [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) [:src:](https://github.com/spacecowboy/Feeder) |
+| ^^ | [Obtainium](https://github.com/ImranR98/Obtainium) |
+| ^^ | [ObtainX](https://github.com/bikram-agarwal/ObtainX) |
+
+:::
+
+## iOS
+
+::: tabs
+
+== Downloader
+
+| Software | DDL | P2P | FOSS |
 |-|-|-|-|
 | [fGet](https://apps.apple.com/app/id1582654012) | :yes: | :no: | :no: |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :yes: | :yes: | :yes: |
 | [iTorrent](https://github.com/XITRIX/iTorrent) | :no: | :yes: | :yes: |
 
+== Others
+
+| Category | Software |
+| :--- | :--- |
+| **Player** | [Outplayer](https://apps.apple.com/app/id1449923287) :cs: |
+| **Sideloading** | [Sideloadly](https://sideloadly.io/):cs: |
+| ^^ | [SideStore](https://sidestore.io/) [:src:](https://github.com/SideStore/SideStore/) |
+
 :::
 
-## Media
 
-| Category | Software | Platform |
-| :--- | :--- | :--- |
-| **Local** | [mpvEx](https://github.com/marlboro-advance/mpvEx) :s: [:n:](https://marlboro-advance.github.io/mpvEx/) | :and: |
-| ^^ | ^[MX Player](Don't install the Play Store version as it was bought by Amazon, use Balatan's mod instead.) :s::cs: | :and: |
-| ^^ | [Outplayer](https://apps.apple.com/app/id1449923287) :cs: | :ios: |
-| **Online** | [Grayjay](https://grayjay.app/) [:src:](https://gitlab.futo.org/videostreaming/grayjay) | :and: |
-| ^^ | [Libretube](https://libretube.dev/) [:src:](https://github.com/libre-tube/LibreTube) | :and: |
-| ^^ | [Morphe](https://morphe.software/) [:src:](https://github.com/MorpheApp/morphe-manager) | :and: |
-| ^^ | [Revanced](https://revanced.app/) [:src:](https://github.com/ReVanced/revanced-manager) | :and: |
-| ^^ | [Twire](https://github.com/twireapp/Twire) | :and: |
+## PC
 
-## General
+:::tabs
 
-| Category | Websites | Platform |
-| :--- | :--- | :--- |
-| **Store** | [Aurora Store](https://auroraoss.com/) [:src:](https://gitlab.com/AuroraOSS/AuroraStore) | :and: |
-| ^^ | [Neo Store](https://github.com/NeoApplications/Neo-Store) | :and: |
-| ^^ | [Droid-ify](https://github.com/Droid-ify/client) | :and: |
-| ^^ | [Sideloadly](https://sideloadly.io/):cs: | :ios: |
-| ^^ | [SideStore](https://sidestore.io/) [:src:](https://github.com/SideStore/SideStore/) | :ios: |
-| **Misc** | [APKUpdater](https://github.com/rumboalla/apkupdater) | :and: |
-| ^^ | [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) [:src:](https://github.com/spacecowboy/Feeder) | :and: |
-| ^^ | [Obtainium](https://github.com/ImranR98/Obtainium) | :and: |
-| ^^ | [ObtainX](https://github.com/bikram-agarwal/ObtainX) | :and: |
-
-![](/banner/pc.webp)
-
-# PC
-
-## Downloader
+== Downloader
 
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
@@ -120,78 +129,59 @@ og:
 
 </Collapsible>
 
-## Media
+== Media
 
-::: tabs
+| Categories | Software | Platform |
+| :--- | :--- | :--- |
+| Image Viewer | [IrfanView](https://www.irfanview.com/) :cs: | :win: |
+| ^^ | [JPEGView](https://github.com/sylikc/jpegview) | :win: |
+| ^^ | [qimgv](https://github.com/easymodo/qimgv) :s: | :win::app::lin::bsd: |
+| ^^ | [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView) | :win::app::lin: |
+| ^^ | [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs: | :win::app::lin: |
+| Video Player | [mpv](https://mpv.io/) :s: [:src:](https://github.com/mpv-player/mpv) | :win::app::lin: |
+| ^^ | [SMPlayer](https://www.smplayer.info/) [:src:](https://github.com/smplayer-dev/smplayer) | :win::app::lin: |
+| ^^ | [MPC-HC](https://github.com/clsid2/mpc-hc) | :win: |
+| ^^ | [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) | :win: |
 
-== Image
-| Viewer | Platform |
+== MPV
+
+
+| Categories | Software |
 | :--- | :--- |
-| [IrfanView](https://www.irfanview.com/) :cs: | :win: |
-| [JPEGView](https://github.com/sylikc/jpegview) | :win: |
-| [qimgv](https://github.com/easymodo/qimgv) :s: | :win::app::lin::bsd: |
-| [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView) | :win::app::lin: |
-| [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs: | :win::app::lin: |
+| Alt UI | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
+| ^^ | [ModernX](https://github.com/cyl0/ModernX) |
+| ^^ | [ModernZ](https://github.com/Samillion/ModernZ) |
+| ^^ | [Tethys](https://github.com/Zren/mpv-osc-tethys) |
+| ^^ | [uosc](https://github.com/tomasklaen/uosc) |
+| Forks | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) |
+| ^^ | [Haruna](https://haruna.kde.org/) :lin: [:src:](https://invent.kde.org/multimedia/haruna) |
+| ^^ | [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina) |
+| ^^ | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt) |
+| ^^ | [mpv.net](https://github.com/mpvnet-player/mpv.net) :win: |
 
-== Video
-| Player | Platform |
+<collapsible title="Related resources">
+
+| Categories | Software |
 | :--- | :--- |
-| [mpv](https://mpv.io/) :s: [:src:](https://github.com/mpv-player/mpv) | :win::app::lin: |
-| [SMPlayer](https://www.smplayer.info/) [:src:](https://github.com/smplayer-dev/smplayer) | :win::app::lin: |
-| [MPC-HC](https://github.com/clsid2/mpc-hc) | :win: |
-| [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) | :win: |
+| QoL | [ani-skip](https://github.com/synacktraa/ani-skip) |
+| ^^ | [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater) |
+| ^^ | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) |
+| ^^ | [trackselect](https://github.com/po5/trackselect) |
+| ^^ | [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |
+| Shaders | [ArtCNN](https://github.com/Artoriuz/ArtCNN) |
+| ^^ | [Prescalers](https://github.com/bjin/mpv-prescalers) |
+| Video | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) |
+| ^^ | [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) |
+| ^^ | [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) |
+| ^^ | [thumbfast](https://github.com/po5/thumbfast/) |
+| Resources | [mpv manual](https://mpv.io/manual/stable/) |
+| ^^ | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |
+| ^^ | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |
+| ^^ | [Awesome mpv](https://github.com/stax76/awesome-mpv) |
 
-:::
+</collapsible>
 
-## MPV
-
-::: tabs
-
-== Alt UI
-- [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy)
-- [ModernX](https://github.com/cyl0/ModernX)
-- [ModernZ](https://github.com/Samillion/ModernZ)
-- [Tethys](https://github.com/Zren/mpv-osc-tethys)
-- [uosc](https://github.com/tomasklaen/uosc)
-
-== Forks
-- [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid)
-- [Haruna](https://haruna.kde.org/) :lin: [:src:](https://invent.kde.org/multimedia/haruna)
-- [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina)
-- [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt)
-- [mpv.net](https://github.com/mpvnet-player/mpv.net) :win:
-
-== QoL
-- [ani-skip](https://github.com/synacktraa/ani-skip)
-- [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater)
-- [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager)
-- [trackselect](https://github.com/po5/trackselect)
-- [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua)
-
-== Shaders
-- [ArtCNN](https://github.com/Artoriuz/ArtCNN)
-- [Prescalers](https://github.com/bjin/mpv-prescalers)
-
-== Video
-- [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
-- [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
-- [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts)
-- [thumbfast](https://github.com/po5/thumbfast/)
-
-== Resources
-- [mpv manual](https://mpv.io/manual/stable/)
-- [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/)
-- [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts)
-- [Awesome mpv](https://github.com/stax76/awesome-mpv)
-
-:::
-
-
-## Media Tools
-
-::: tabs
-
-== Image
+== Image tools
 
 | Software | Platform |
 |-|-|
@@ -205,7 +195,7 @@ og:
 | [Cupscale](https://github.com/n00mkrad/cupscale) ==cupscale== | :win: |
 | [Magpie](https://github.com/Blinue/Magpie) | :win: |
 
-== Video
+== Video tools
 
 | Category | Resources | Platform |
 | :--- | :--- | :--- |
@@ -250,41 +240,28 @@ og:
 
 </Collapsible>
 
-:::
+== arr
 
-## arr
+| Categories | Software |
+| :--- | :--- |
+| **Main** | [Lidarr](https://lidarr.audio/) [:src:](https://github.com/Lidarr/Lidarr) |
+| ^^ | [Radarr](https://radarr.video/) [:src:](https://github.com/Radarr/Radarr) |
+| ^^ | [Sonarr](https://sonarr.tv/) [:src:](https://github.com/Sonarr/Sonarr) |
+| **Indexer** | [autobrr](https://autobrr.com/) [:src:](https://github.com/autobrr/autobrr) |
+| ^^ | [Jackett](https://github.com/Jackett/Jackett) |
+| ^^ | [Prowlarr](https://prowlarr.com/) [:src:](https://github.com/Prowlarr/Prowlarr) |
+| **Request** | [Ombi](https://ombi.io/) [:src:](https://github.com/Ombi-app/Ombi) |
+| ^^ | [Serr](https://seerr.dev/) [:src:](https://github.com/seerr-team/seerr) |
+| **Others** | [Bazarr](https://www.bazarr.media/) ||Subtitle|| [:src:](https://github.com/morpheus65535/bazarr) |
+| ^^ | [Doplarr](https://github.com/kiranshila/Doplarr) ||Discord|| |
+| ^^ | [homarr](https://homarr.dev/) ||Dashboard|| [:src:](https://github.com/ajnart/homarr) |
+| ^^ | [Maintainerr](https://maintainerr.info/) ||Storage|| [:src:](https://github.com/jorenn92/Maintainerr) |
+| ^^ | [requestrr](https://github.com/thomst08/requestrr) ||Discord|| |
+| ^^ | [Tdarr](https://home.tdarr.io/) ||Transcoding|| [:src:](https://github.com/morpheus65535/bazarr) |
+| **Docs** | [Servarr Wiki](https://wiki.servarr.com/) |
+| ^^ | [TRaSH Guides](https://trash-guides.info/) |
 
-::: tabs
-
-== Main
-- [Lidarr](https://lidarr.audio/) [:src:](https://github.com/Lidarr/Lidarr)
-- [Radarr](https://radarr.video/) [:src:](https://github.com/Radarr/Radarr)
-- [Sonarr](https://sonarr.tv/) [:src:](https://github.com/Sonarr/Sonarr)
-
-== Indexer
-- [autobrr](https://autobrr.com/) [:src:](https://github.com/autobrr/autobrr)
-- [Jackett](https://github.com/Jackett/Jackett)
-- [Prowlarr](https://prowlarr.com/) [:src:](https://github.com/Prowlarr/Prowlarr)
-
-== Request
-- [Ombi](https://ombi.io/) [:src:](https://github.com/Ombi-app/Ombi)
-- [Serr](https://seerr.dev/) [:src:](https://github.com/seerr-team/seerr)
-
-== Others
-- [Bazarr](https://www.bazarr.media/) [:src:](https://github.com/morpheus65535/bazarr) ||Subtitle||
-- [Doplarr](https://github.com/kiranshila/Doplarr) ||Discord||
-- [homarr](https://homarr.dev/) [:src:](https://github.com/ajnart/homarr) ||Dashboard||
-- [Maintainerr](https://maintainerr.info/) [:src:](https://github.com/jorenn92/Maintainerr) ||Storage||
-- [requestrr](https://github.com/thomst08/requestrr) ||Discord||
-- [Tdarr](https://home.tdarr.io/) [:src:](https://github.com/morpheus65535/bazarr) ||Transcoding||
-
-== Docs
-- [Servarr Wiki](https://wiki.servarr.com/)
-- [TRaSH Guides](https://trash-guides.info/)
-
-:::
-
-## Usenet
+== Usenet
 
 - [NZBHydra 2](https://github.com/theotherp/nzbhydra2)
 - [SABnzbd](https://sabnzbd.org/) [:src:](https://github.com/sabnzbd/sabnzbd)
@@ -301,7 +278,7 @@ og:
 
 </Collapsible>
 
-## General
+== General
 
 | Resources | Platform |
 | :--- | :--- |
@@ -319,10 +296,8 @@ og:
 | [Syncthing](https://syncthing.net/) [:src:](https://github.com/syncthing/syncthing) | :win::lin: |
 | [TeraCopy](https://www.codesector.com/teracopy) :cs: | :win::app: |
 
+:::
 
-![](/banner/others.webp)
-
-# Others
 
 ## Extensions
 

@@ -5,8 +5,6 @@ customDescription: Discover a mix of info, news and tools for anime, manga & ill
 outline: 2
 ---
 
-![](/banner/db.webp)
-
 ## Database
 
 :::tabs
@@ -152,8 +150,6 @@ outline: 2
 :::
 
 
-![](/banner/calendar.webp)
-
 ## Calendar
 
 :::tabs
@@ -212,8 +208,6 @@ outline: 2
 - [Yen Press](https://yenpress.com/calendar)
 
 :::
-
-![](/banner/portals.webp)
 
 ## Portals
 
@@ -340,7 +334,7 @@ outline: 2
 
 :::
 
-![](/banner/utility.webp)
+
 ## Utility
 
 :::tabs
@@ -421,8 +415,6 @@ outline: 2
 
 :::
 
-![](/banner/others.webp)
-
 ## Others
 
 :::tabs
@@ -471,7 +463,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yuki Subs](https://yukisubs.wordpress.com/guides/)
 - [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
-- :rd: [Fansubbing tools](/tools?tabs=video-2)
+- :rd: [Fansubbing tools](/tools?tabs=video-tools)
 
 == Scanlation
 

@@ -2,7 +2,7 @@
 title: Art
 description: Everything Art
 customDescription: Art-based sites, software, scripts and extensions
-outline: [1,2]
+outline: 2
 og:
     image: https://i.wotaku.wiki/f/art.png
 
@@ -10,10 +10,6 @@ og:
 
 ::: danger All listed links contain NSFW material unless specified otherwise.
 :::
-
-![](/banner/sites.webp)
-
-# Websites
 
 
 ## Artist Platforms
@@ -172,79 +168,53 @@ og:
 | ^^ | [:f: /w/](http://catalog.neet.tv/w/) x||nsfl|| |
 
 
-![](/banner/software.webp)
-
-# Software
-
-## Android
+## Software
 
 ::: tabs
 
-== Booru
-- [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
-- [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview)
-- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer)
-- [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
+== Android
 
-== Pixiv
-- [Pixiv.cat](https://pixiv.cat/) [:src:](https://github.com/pixiv-cat/pixivcat-backend)
-- [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE)
-- [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer)
-- [Pixiv Yearbook](https://pixiv.navirank.com/)
+| Categories | Software |
+| :--- | :--- |
+| Booru | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/) |
+| ^^ | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
+| ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer) |
+| ^^ | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
+| Pixiv | [Pixiv.cat](https://pixiv.cat/) [:src:](https://github.com/pixiv-cat/pixivcat-backend) |
+| ^^ | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE) |
+| ^^ | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
+| ^^ | [Pixiv Yearbook](https://pixiv.navirank.com/) |
+| Others | [Pixnoy](https://www.pixnoy.com/) |
+| ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) |
 
-== Others
-- [Pixnoy](https://www.pixnoy.com/)
-- [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter)
-
-:::
-
-## iOS
+== iOS
 
 - [PixEz](https://apps.apple.com/app/id1494435126)
 - [pixes](https://github.com/wgh136/pixes)
 - [PixiView](https://github.com/matsumo0922/PixiView-KMP)
 - [Anime Boxes](https://apps.apple.com/app/id525540312) :cs:
 
+== PC
 
-## PC
-
-::: tabs
-
-== Clients
-
-| Software | Platform |
-| :--- | :--- |
-| [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :s: | :win::app::lin: |
-| [pixes](https://github.com/wgh136/pixes) | :win::app::lin: |
-| [Pixeval](https://pixeval.github.io/) [:src:](https://github.com/Pixeval/Pixeval) | :win: |
-| [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) | :win: |
-
-== Downloaders
-
-| Software | Platform |
-| :--- | :--- |
-| [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) | :win::app::lin: |
-| [gallery-dl](https://codeberg.org/mikf/gallery-dl) :s: | :win::lin: |
-| [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:src:](https://github.com/hydrusnetwork/hydrus) | :win::app::lin: |
-| :prev: [Hydrus Presets & Scripts](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts) | :win::app::lin: |
-| [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) [:src:](https://github.com/Bionus/imgbrd-grabber) | :win::app::lin: |
-| [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: |
-| [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) | :win::app: |
-| [PixivUtil2](https://github.com/Nandaka/PixivUtil2) | :win: |
-
-== Others
-
-| Software | Platform |
-| :--- | :--- |
-| [Pixiv OAuth Flow by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :s: | :py: |
-| [Pixiv OAuth Flow by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde) | :py: |
-| [get pixivpy token](https://github.com/eggplants/get-pixivpy-token) | :py: |
+| Categories | Software | Platform |
+| :--- | :--- | :--- |
+| **Clients** | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :s: | :win::app::lin: |
+| ^^ | [pixes](https://github.com/wgh136/pixes) | :win::app::lin: |
+| ^^ | [Pixeval](https://pixeval.github.io/) [:src:](https://github.com/Pixeval/Pixeval) | :win: |
+| ^^ | [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) | :win: |
+| **Downloaders** | [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) | :win::app::lin: |
+| ^^ | [gallery-dl](https://codeberg.org/mikf/gallery-dl) :s: | :win::lin: |
+| ^^ | [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:src:](https://github.com/hydrusnetwork/hydrus) | :win::app::lin: |
+| ^^ | :prev: [Hydrus Presets & Scripts](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts) | :win::app::lin: |
+| ^^ | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) [:src:](https://github.com/Bionus/imgbrd-grabber) | :win::app::lin: |
+| ^^ | [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin: |
+| ^^ | [Pixiv FANBOX Downloader](https://github.com/hareku/fanbox-dl) | :win::app: |
+| ^^ | [PixivUtil2](https://github.com/Nandaka/PixivUtil2) | :win: |
+| **Others** | [Pixiv OAuth Flow by ZipFile](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) :s: | :py: |
+| ^^ | [Pixiv OAuth Flow by upbit](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde) | :py: |
+| ^^ | [get pixivpy token](https://github.com/eggplants/get-pixivpy-token) | :py: |
 
 :::
-
-![](/banner/others.webp)
-
-# Others
 
 ## Extensions
 
