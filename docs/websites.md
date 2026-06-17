@@ -148,13 +148,11 @@ outline: 1
 
 ![](/banner/wmanga.webp)
 
-# Manga
-
-## Online
+# Manga <fb h="Manga"/>
 
 ::: tabs
 
-== Main
+== Online
 
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
@@ -198,9 +196,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 <Block link="/nsfw#pornhwa">Pornhwa focused websites are listed here</Block>
 
-:::
-
-## Download
+== Download
 
 - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
 - [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
@@ -218,6 +214,8 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 - Personal sheet: [**4str0**](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)
 
 </collapsible>
+
+:::
 
 
 ![](/banner/wnovel.webp)
