@@ -207,12 +207,12 @@ Some of the series may not be available depending on your region.
 
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
-| [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
-| [MangaKatana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaKatana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
 | [OniSaga](https://onisaga.com/home) ==OniSaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [Comix](https://comix.to/)  ==Comix== | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
 | [MangaK](https://mangak.io/home) | :no: | :ss: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
 | [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
