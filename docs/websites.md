@@ -83,13 +83,13 @@ outline: 2
 
 | Category | Websites |
 | :--- | :--- |
-| **Torrent** | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
 | ^^ | [AniRena](https://www.anirena.com/) |
 | ^^ | [nekoBT](https://nekobt.to/) |
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
-| **Reuploads** | [Tokyo Insider](https://www.tokyoinsider.com/) :ddl: |
-| ^^ | [Chauthanh](https://chauthanh.info/) :ddl::acc: |
+| **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) |
+| ^^ | [Chauthanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
