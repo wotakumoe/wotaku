@@ -41,7 +41,7 @@ og:
 | [Official](https://github.com/IReaderorg/IReader-extensions) | [URL](https://raw.githubusercontent.com/IReaderorg/IReader-extensions/refs/heads/repov2/index.min.json) |
 
 ## Kotatsu
-- [Shebby's builds](https://github.com/Shebyyy/kotatsu-multi-parsers)
+- [Sheby's builds](https://github.com/Shebyyy/kotatsu-multi-parsers)
 - [Mochi](https://github.com/mochi-plugins/repository)
 
 ::: info duck note
