@@ -367,8 +367,7 @@ og:
 
 :::
 
-::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
-:::
+<Block link="/guides/tech/adblock">General adblock solution is added here</Block>
 
 ## Scripts
 

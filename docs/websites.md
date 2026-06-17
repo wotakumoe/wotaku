@@ -196,24 +196,7 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 | [TopManhua](https://manhuatop.org/) | :msync: | :ss: | :sp::ls: | :cmnt: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | :no: | :ss: | :ls: | :cmnt: |
 
-<Block link="/nsfw#pornhwa" icon="i-bi-box-arrow-up-right">Pornhwa focused websites are listed here</Block>
-
-== Scrapers
-
-
-| Websites | Tracking | Sources | Reading mode | Social |
-|----------|----------|---------|--------------|--------|
-| [Akari Manga](https://akarimanga.dpdns.org/) [:src:](https://github.com/sn0w12/akari) | :sync: | :ps: | :sp::ls: | :cmnt: |
-| [ComiKuro](https://comikuro.to/) | :ie: | :ps: | :sp::dp::ls: | :cmnt: |
-| [Cubari Proxy](https://proxy.cubari.moe/#/)  | :msync: | :ms: | :sp::dp::ls: | :no: |
-| [Vidbox](https://vidbox.dev/manga)  | :no: | :ss: | :lsg: | :no: |
-
-::: scrapetable
-- Akari Manga : (Atsumaru);
-- ComiKuro : (Allmanga), (Atsumaru), (Mangaball), (Zazamanga);
-- Cubari Proxy : (MangaDex), (Weeb Central), (MangaKatana), (Guya), (AssortedScans), (DankeFarsLesen);
-- Vidbox : (MangaFire);
-:::
+<Block link="/nsfw#pornhwa">Pornhwa focused websites are listed here</Block>
 
 :::
 

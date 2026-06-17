@@ -141,9 +141,7 @@ og:
 - [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) [:cr:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
 
-::: tip [**Click here**](/guides/tech/adblock) for full adblock solutions.
-:::
-
+<Block link="/guides/tech/adblock">General adblock solution is added here</Block>
 
 == VTuber tools
 - [Best VTuber software](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)

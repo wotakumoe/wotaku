@@ -13,7 +13,7 @@ withDefaults(
     link: string
     icon?: string
   }>(),
-  { icon: 'i-octicon-link-external-16', type: 'tip' }
+  { icon: 'i-lucide-square-arrow-out-up-right', type: 'tip' }
 )
 </script>
 
