@@ -207,7 +207,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   rss: ['simple-icons-rss', 'RSS Feed'],
   prx: ['material-symbols-directions-alt', 'Proxies / Mirrors'],
   tf: ['mdi-airplane', 'Testflight'],
-  rd: ['lucide-square-arrow-out-up-right', 'Redirect'],
+  rd: ['lucide-external-link', 'Redirect'],
   prev: ['mdi-arrow-right-thick', 'Related to Prior URL'],
   help: ['material-symbols-help', 'Help / Docs'],
   ded: ['twemoji-headstone', 'Inactive / Retired'],

@@ -43,7 +43,6 @@ import {
   ArrowRight,
   ArrowRightToLine,
   ChevronRight,
-  Delete,
   File,
   Globe,
   Hash,
@@ -51,7 +50,8 @@ import {
   LocateOff,
   Regex,
   Settings2,
-  TextAlignStart
+  TextAlignStart,
+  X
 } from 'lucide-vue-next'
 import Mark from 'mark.js/dist/mark.es6.js'
 import { sidebar } from '../../configs/constants'
@@ -1837,7 +1837,7 @@ function onMouseMove(e: MouseEvent) {
                 :title="translate('modal.resetButtonTitle')"
                 @click="resetSearch"
               >
-                <Delete :size="19" stroke-width="1.25" />
+                <X :size="19" stroke-width="1.25" />
               </button>
             </div>
           </component>
@@ -2260,7 +2260,7 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'exact' }"
                       @click="searchMode = 'exact'"
                     >
-                      <Regex :size="16" stroke-width="1.25" />
+                      <Regex :size="18" stroke-width="1.25" />
                       <span>Exact</span>
                     </button>
                     <button
@@ -2269,7 +2269,7 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'fuzzy' }"
                       @click="searchMode = 'fuzzy'"
                     >
-                      <LocateOff :size="16" stroke-width="1.25" />
+                      <LocateOff :size="18" stroke-width="1.25" />
                       <span>Fuzzy</span>
                     </button>
                     <button
@@ -2278,7 +2278,7 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'url' }"
                       @click="searchMode = 'url'"
                     >
-                      <Globe :size="16" stroke-width="1.25" />
+                      <Globe :size="18" stroke-width="1.25" />
                       <span>URL</span>
                     </button>
                   </div>
@@ -2295,7 +2295,7 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: showDetailedList }"
                       @click="showDetailedList = true"
                     >
-                      <TextAlignStart :size="16" stroke-width="1.25" />
+                      <TextAlignStart :size="18" stroke-width="1.25" />
                       <span>Detail</span>
                     </button>
                     <button
@@ -2304,7 +2304,7 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: !showDetailedList }"
                       @click="showDetailedList = false"
                     >
-                      <List :size="16" stroke-width="1.25" />
+                      <List :size="18" stroke-width="1.25" />
                       <span>List</span>
                     </button>
                   </div>

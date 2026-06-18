@@ -13,13 +13,12 @@ withDefaults(
     link: string
     icon?: string
   }>(),
-  { icon: 'i-lucide-square-arrow-out-up-right', type: 'tip' }
+  { icon: 'i-lucide-external-link', type: 'tip' }
 )
 </script>
 
 <template>
   <component
-    :target="link ? '_blank' : undefined"
     :is="link ? 'a' : 'span'"
     :href="link"
     :class="type"
@@ -33,6 +32,12 @@ withDefaults(
 <style scoped>
 .VButton {
   text-decoration: none !important;
+}
+
+.VButton:hover,
+.VButton:active,
+.VButton:focus {
+  color: inherit !important;
 }
 
 .VButton.info {
