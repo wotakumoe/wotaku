@@ -22,7 +22,6 @@ og:
 | Name | Region |
 | - | - |
 | [Module Library](https://library.cufiy.net/library/) | :global: |
-| [Modules by 50/50](https://modulesbypaul.dev/) [:src:](https://git.luna-app.eu/50n50/sources) | :global: |
 | [Ibra](https://git.luna-app.eu/ibro/services) | :global: |
 
 ## Suwatte
