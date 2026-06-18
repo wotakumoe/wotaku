@@ -11,8 +11,11 @@ og:
 ::: danger All listed links contain NSFW material unless specified otherwise.
 :::
 
+## Websites
 
-## Artist Platforms
+::: tabs
+
+== Platforms
 
 - [ArtStation](https://www.artstation.com/)
 - [DeviantArt](https://www.deviantart.com/)
@@ -32,6 +35,101 @@ og:
 - [Newgrounds](https://www.newgrounds.com/art)
 - [Nico Nico Seiga](https://seiga.nicovideo.jp/) <tooltip>The site is now region locked, use a VPN with JP servers to access it.</tooltip>
 - [Tumblr](https://www.tumblr.com/)
+
+</Collapsible>
+
+== Booru
+- [Danbooru](https://danbooru.donmai.us/) :s: [:src:](https://github.com/danbooru/danbooru) [||SFW||](https://safebooru.donmai.us/)
+- [Donmai](https://donmai.moe/) ||SFW|| ==Donmai==
+- [E-ShuuShuu](https://e-shuushuu.net/) ||SFW||
+- [Gelbooru](https://gelbooru.com/) :s:
+- [Gsbooru](https://gsbooru.org/) [||SFW||](https://safe.gsbooru.org/)
+- [Konachan](https://konachan.com/) [||SFW||](https://konachan.net/)
+- [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) ||SFW||
+- [Safebooru](https://safebooru.org/) ||SFW||
+- [yande.re](https://yande.re/)
+- [Yumebooru](https://yumeboo.ru/) ||SFW||
+- [Zerochan](https://www.zerochan.net/?p=1) ||SFW||
+
+== Front-end
+
+| Categories | Websites |
+| :--- | :--- |
+| Booru | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/) |
+| ^^ | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
+| ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer) |
+| ^^ | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
+| Pixiv | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE) |
+| ^^ | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
+| ^^ | [Pixiv Yearbook](https://pixiv.navirank.com/) |
+| Others | [Pixnoy](https://www.pixnoy.com/) |
+| ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) |
+
+== Others
+| Type | Website |
+| :--- | :--- |
+| Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
+| Games | [skowt.cc](https://skowt.cc/) |
+| ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
+| Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
+| ^^ | [Anime Pictures](https://anime-pictures.net/) |
+| ^^ | [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers) |
+| ^^ | [Studio Ghibli](https://www.ghibli.jp/info/013772/) ||SFW|| |
+| ^^ | [Wallhaven](https://wallhaven.cc/) |
+| ^^ | [:f: /w/](http://catalog.neet.tv/w/) x||nsfl|| |
+
+:::
+
+
+## Official Art
+
+::: tabs
+
+== General
+- :rd: [Booru websites](#tab-booru)
+- [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln)
+- [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) [:src:](https://github.com/bendodson/itunes-artwork-finder)
+
+== Anime
+| Category | Website |
+|-|-|
+| **Production** | [Character Design References](https://characterdesignreferences.com/) [:x:](https://x.com/CDReferences) |
+| ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |
+| ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
+| ^^ | :prev: [Sakuga.video](https://sakuga.video/) [:src:](https://github.com/sakuga-video/sakuga-video.github.io) |
+| **Promo** | [Japanese Movie Global Poster Archive](https://www.jamgpa.jp/?lang=en) :ded: |
+| ^^ | [MoviePosterDB](https://www.movieposterdb.com/) |
+| ^^ | [The Movie Database](https://www.themoviedb.org/) :s: |
+
+== Manga 
+- [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend)
+- [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
+- [ComicVine](https://comicvine.gamespot.com/) :s:
+- :prev: [AnniversaryJump](https://www.anniversaryjump.com/?lang=en)
+- [MangaBaka](https://mangabaka.org/) :s:
+- [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp:
+
+== Others
+- [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
+- [Cover Search Engine](https://covers.musichoarders.xyz/) :s:
+- [GameTDB](https://www.gametdb.com/)
+
+:::
+
+<Collapsible title="Related resources">
+
+| Category | Resource |
+| :--- | :--- |
+| Cover tools | [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr: |
+| ^^ | [Image Picka](https://github.com/eight04/image-picka) :ff::cr: |
+| ^^ | [rRoler Bookmarklets](https://bookmarklets.roler.dev/) :js: |
+| Twitter sakuga | [ArtSakuga](https://x.com/artsakuga) |
+| ^^ | [Dan Kantori](https://x.com/DanKantori) :s: |
+| ^^ | [Effects Sakuga](https://x.com/EffectsSakuga) |
+| ^^ | [Mack Bay](https://x.com/MackBay2077) |
+| ^^ | [rinri](https://x.com/guyayaHime) :s: |
+| ^^ | [SakugaDEYO](https://x.com/SakugaDEYO) |
+| ^^ | [Sakuga 作画](https://x.com/sakugacontent) :s: |
 
 </Collapsible>
 
@@ -58,114 +156,6 @@ og:
 - [pixivFANBOX](https://www.fanbox.cc/) :ljp:
 
 :::
-
-## Official Art
-
-::: tabs
-
-== General
-
-- [Booru websites](#booru)
-- [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln)
-- [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) [:src:](https://github.com/bendodson/itunes-artwork-finder)
-
-== Anime
-
-| Category | Website |
-|-|-|
-| **Production** | [Character Design References](https://characterdesignreferences.com/) [:x:](https://x.com/CDReferences) |
-| ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |
-| ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
-| ^^ | :prev: [Sakuga.video](https://sakuga.video/) [:src:](https://github.com/sakuga-video/sakuga-video.github.io) |
-| **Promo** | [Japanese Movie Global Poster Archive](https://www.jamgpa.jp/?lang=en) :ded: |
-| ^^ | [MoviePosterDB](https://www.movieposterdb.com/) |
-| ^^ | [The Movie Database](https://www.themoviedb.org/) :s: |
-
-== Manga 
-
-- [Big Book Covers](https://covers.roler.dev/) :s: [:src:](https://github.com/rRoler/bbc-frontend)
-- [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
-- [ComicVine](https://comicvine.gamespot.com/) :s:
-- :prev: [AnniversaryJump](https://www.anniversaryjump.com/?lang=en)
-- [MangaBaka](https://mangabaka.org/) :s:
-- [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp:
-
-== Music / OST
-
-- [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
-- [Cover Search Engine](https://covers.musichoarders.xyz/) :s:
-
-== Others
-
-- [GameTDB](https://www.gametdb.com/)
-
-:::
-
-<Collapsible title="Related resources">
-
-| Category | Resource |
-| :--- | :--- |
-| Cover tools | [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr: |
-| ^^ | [Image Picka](https://github.com/eight04/image-picka) :ff::cr: |
-| ^^ | [rRoler Bookmarklets](https://bookmarklets.roler.dev/) :js: |
-| Twitter sakuga | [ArtSakuga](https://x.com/artsakuga) |
-| ^^ | [Dan Kantori](https://x.com/DanKantori) :s: |
-| ^^ | [Effects Sakuga](https://x.com/EffectsSakuga) |
-| ^^ | [Mack Bay](https://x.com/MackBay2077) |
-| ^^ | [rinri](https://x.com/guyayaHime) :s: |
-| ^^ | [SakugaDEYO](https://x.com/SakugaDEYO) |
-| ^^ | [Sakuga 作画](https://x.com/sakugacontent) :s: |
-
-</Collapsible>
-
-## Booru
-- [Danbooru](https://danbooru.donmai.us/) :s: [:src:](https://github.com/danbooru/danbooru) [||SFW||](https://safebooru.donmai.us/)
-- [Donmai](https://donmai.moe/) ||SFW|| ==Donmai==
-- [E-ShuuShuu](https://e-shuushuu.net/) ||SFW||
-- [Gelbooru](https://gelbooru.com/) :s:
-- [Gsbooru](https://gsbooru.org/) [||SFW||](https://safe.gsbooru.org/)
-- [Konachan](https://konachan.com/) [||SFW||](https://konachan.net/)
-- [Mikubooru](https://booru.funmaker.moe/) [:src:](https://github.com/funmaker/hybooru) ||SFW||
-- [Safebooru](https://safebooru.org/) ||SFW||
-- [yande.re](https://yande.re/)
-- [Yumebooru](https://yumeboo.ru/) ||SFW||
-- [Zerochan](https://www.zerochan.net/?p=1) ||SFW||
-
-## Front-end / Utility
-
-::: tabs
-
-== Booru
-- [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
-- [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview)
-- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer)
-- [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
-
-== Pixiv
-- [Pixiv.cat](https://pixiv.cat/) [:src:](https://github.com/pixiv-cat/pixivcat-backend)
-- [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE)
-- [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer)
-- [Pixiv Yearbook](https://pixiv.navirank.com/)
-
-== Others
-- [Pixnoy](https://www.pixnoy.com/)
-- [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter)
-
-:::
-
-
-## Others
-| Type | Website |
-| :--- | :--- |
-| Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
-| Games | [skowt.cc](https://skowt.cc/) |
-| ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
-| Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
-| ^^ | [Anime Pictures](https://anime-pictures.net/) |
-| ^^ | [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers) |
-| ^^ | [Studio Ghibli](https://www.ghibli.jp/info/013772/) ||SFW|| |
-| ^^ | [Wallhaven](https://wallhaven.cc/) |
-| ^^ | [:f: /w/](http://catalog.neet.tv/w/) x||nsfl|| |
 
 
 ## Software

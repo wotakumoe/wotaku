@@ -8,8 +8,6 @@ og:
 
 ---
 
-![](/banner/and.webp)
-
 ## Android
 
 ::: tabs
@@ -99,8 +97,6 @@ og:
 
 <Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
-![](/banner/ereader.webp)
-
 ## E-reader
 
 | Category | Software | Platform |
@@ -120,7 +116,6 @@ og:
 
 </Collapsible>
 
-![](/banner/ios.webp)
 
 ## iOS
 
@@ -181,8 +176,6 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 
 </collapsible>
 
-
-![](/banner/pc.webp)
 
 ## PC
 
@@ -269,7 +262,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 <Block link="/ext/" icon="i-mdi-puzzle">All the extensions can be found here</Block>
 
-![](/banner/tools.webp)
 
 ## Tools
 
@@ -281,7 +273,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | :--- | :--- | :--- |
 | **Anime** | [Crunchyroll-Downloader](https://github.com/Crunchy-DL/Crunchy-Downloader) | :win: |
 | ^^ | [Anime Downloader NX](https://github.com/anidl/multi-downloader-nx) | :win::app::lin::cmd: |
-| **Manga** | [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) | :win: |
+| **Manga** | [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) :s: | :win: |
 | ^^ | [JAM](https://redsquirrel87.com/jam) :cs: | :win::lin: |
 | ^^ | [gallery-dl](https://codeberg.org/mikf/gallery-dl/) [:help:](https://gdl-org.github.io/docs/) | :win::app::lin::cmd: |
 | ^^ | :prev: [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin::cmd: |
@@ -360,7 +352,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 :::
 
-![](/music/msv.webp)
 
 ## Server
 
