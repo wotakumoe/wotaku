@@ -21,7 +21,9 @@ import { escapeRegExp } from 'vitepress/dist/client/shared'
 
 import {
   computedAsync,
+  onClickOutside,
   onKeyStroke,
+  useElementBounding,
   useEventListener,
   useLocalStorage,
   useScrollLock,
@@ -48,6 +50,7 @@ import {
   List,
   LocateOff,
   Regex,
+  Settings2,
   TextAlignStart
 } from 'lucide-vue-next'
 import Mark from 'mark.js/dist/mark.es6.js'
@@ -278,6 +281,21 @@ function cycleSearchMode() {
 // Keep matchExact and urlSearchMode as computed aliases
 const matchExact = computed(() => searchMode.value === 'exact')
 const urlSearchMode = computed(() => searchMode.value === 'url')
+
+// Mobile settings popup
+const showSettingsPopup = ref(false)
+const settingsButtonRef = ref<HTMLButtonElement>()
+const settingsPopupRef = ref<HTMLDivElement>()
+const settingsBounding = useElementBounding(settingsButtonRef)
+
+const settingsPopupStyle = computed(() => ({
+  top: `${settingsBounding.bottom.value + 8}px`,
+  right: `calc(100vw - ${settingsBounding.right.value}px)`,
+}))
+
+onClickOutside(settingsPopupRef, () => {
+  showSettingsPopup.value = false
+}, { ignore: [settingsButtonRef] })
 
 interface PageGroupCount {
   key: string
@@ -1552,6 +1570,10 @@ function onResultClick() {
 }
 
 onKeyStroke('Escape', () => {
+  if (showSettingsPopup.value) {
+    showSettingsPopup.value = false
+    return
+  }
   showSearch.value = false
 })
 
@@ -1736,33 +1758,6 @@ function onMouseMove(e: MouseEvent) {
                   : 'Bubba loading'"
                 />
               </button>
-              <div
-                v-if="!disableDetailedView && searchMode !== 'url'"
-                class="view-group toolbar-group"
-              >
-                <button
-                  type="button"
-                  class="mode-btn"
-                  :class="{ 'mode-active': showDetailedList }"
-                  title="Detail view (Consumes more RAM)"
-                  @click="showDetailedList
-                  ? showDetailedList = false
-                  : showDetailedList = true"
-                >
-                  <TextAlignStart :size="18" stroke-width="1.25" />
-                </button>
-                <button
-                  type="button"
-                  class="mode-btn"
-                  :class="{ 'mode-active': !showDetailedList }"
-                  title="List view (Consumes less RAM)"
-                  @click="!showDetailedList
-                  ? showDetailedList = true
-                  : showDetailedList = false"
-                >
-                  <List :size="18" stroke-width="1.25" />
-                </button>
-              </div>
               <div class="search-mode-group toolbar-group">
                 <button
                   type="button"
@@ -1798,6 +1793,43 @@ function onMouseMove(e: MouseEvent) {
                   <Globe :size="18" stroke-width="1.25" />
                 </button>
               </div>
+              <div
+                v-if="!disableDetailedView && searchMode !== 'url'"
+                class="view-group toolbar-group"
+              >
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': showDetailedList }"
+                  title="Detail view (Consumes more RAM)"
+                  @click="showDetailedList
+                  ? showDetailedList = false
+                  : showDetailedList = true"
+                >
+                  <TextAlignStart :size="18" stroke-width="1.25" />
+                </button>
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': !showDetailedList }"
+                  title="List view (Consumes less RAM)"
+                  @click="!showDetailedList
+                  ? showDetailedList = true
+                  : showDetailedList = false"
+                >
+                  <List :size="18" stroke-width="1.25" />
+                </button>
+              </div>
+              <button
+                ref="settingsButtonRef"
+                type="button"
+                class="mode-btn settings-toggle-btn"
+                :class="{ 'mode-active': showSettingsPopup }"
+                title="Search settings"
+                @click.stop="showSettingsPopup = !showSettingsPopup"
+              >
+                <Settings2 :size="18" stroke-width="1.25" />
+              </button>
               <button
                 class="clear-button"
                 type="reset"
@@ -2211,6 +2243,75 @@ function onMouseMove(e: MouseEvent) {
               {{ translate('modal.footer.closeText') }}
             </span>
           </component>
+          <Teleport to="body">
+            <Transition name="settings-popup">
+              <div
+                v-if="showSettingsPopup"
+                ref="settingsPopupRef"
+                class="search-settings-popup"
+                :style="settingsPopupStyle"
+              >
+                <div class="settings-section">
+                  <div class="settings-section-label">Search Mode</div>
+                  <div class="settings-options">
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: searchMode === 'exact' }"
+                      @click="searchMode = 'exact'"
+                    >
+                      <Regex :size="16" stroke-width="1.25" />
+                      <span>Exact</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: searchMode === 'fuzzy' }"
+                      @click="searchMode = 'fuzzy'"
+                    >
+                      <LocateOff :size="16" stroke-width="1.25" />
+                      <span>Fuzzy</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: searchMode === 'url' }"
+                      @click="searchMode = 'url'"
+                    >
+                      <Globe :size="16" stroke-width="1.25" />
+                      <span>URL</span>
+                    </button>
+                  </div>
+                </div>
+                <div
+                  v-if="!disableDetailedView && searchMode !== 'url'"
+                  class="settings-section"
+                >
+                  <div class="settings-section-label">View Mode</div>
+                  <div class="settings-options">
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: showDetailedList }"
+                      @click="showDetailedList = true"
+                    >
+                      <TextAlignStart :size="16" stroke-width="1.25" />
+                      <span>Detail</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: !showDetailedList }"
+                      @click="showDetailedList = false"
+                    >
+                      <List :size="16" stroke-width="1.25" />
+                      <span>List</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </Transition>
+          </Teleport>
         </component>
       </AnimatePresence>
 
@@ -2802,22 +2903,11 @@ svg {
   overflow: hidden;
 }
 
-/* Mobile: hide inactive buttons in both groups — tap the active one to cycle */
+/* Mobile: hide toolbar groups entirely — settings popup handles them */
 @media (max-width: 767px) {
-  .search-mode-group .mode-btn:not(.mode-active),
-  .view-group .mode-btn:not(.mode-active) {
-    display: none;
-  }
-
   .search-mode-group,
   .view-group {
-    border-radius: 5px;
-  }
-
-  /* Tapping the sole visible button cycles to the next option */
-  .search-mode-group .mode-btn.mode-active,
-  .view-group .mode-btn.mode-active {
-    border-radius: 4px;
+    display: none;
   }
 }
 
@@ -2933,5 +3023,99 @@ svg {
   font-size: 0.8rem;
   user-select: none;
   background: transparent;
+}
+
+/* Settings toggle button — mobile only */
+.settings-toggle-btn {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .settings-toggle-btn {
+    display: flex;
+    border: none;
+    border-radius: 5px;
+    color: var(--vp-c-text-1);
+    padding: 8px;
+  }
+}
+
+/* Settings popup card */
+.search-settings-popup {
+  position: fixed;
+  z-index: 200;
+  background: var(--vp-c-bg-elv);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 175px;
+}
+
+.settings-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.settings-section-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--vp-c-text-3);
+  padding: 0 4px;
+}
+
+.settings-options {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.settings-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 12px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--vp-c-text-2);
+  font-size: 0.88rem;
+  text-align: left;
+  transition: background-color 0.15s, color 0.15s;
+  width: 100%;
+}
+
+.settings-option + .settings-option {
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.settings-option:hover {
+  background: var(--vp-c-default-soft);
+  color: var(--vp-c-text-1);
+}
+
+.settings-option.active {
+  color: var(--vp-c-brand-1);
+  background: rgba(60, 120, 210, 0.1);
+}
+
+.settings-popup-enter-active,
+.settings-popup-leave-active {
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  transform-origin: top right;
+}
+
+.settings-popup-enter-from,
+.settings-popup-leave-to {
+  opacity: 0;
+  transform: scale(0.92) translateY(-4px);
 }
 </style>
