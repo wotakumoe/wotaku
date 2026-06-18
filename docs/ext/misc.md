@@ -42,10 +42,12 @@ og:
 
 ## Kotatsu
 - [Sheby's builds](https://github.com/Shebyyy/kotatsu-multi-parsers)
-- [Mochi](https://github.com/mochi-plugins/repository)
+- [UMA](https://github.com/InvalidDavid/UMA)
+- [Draken](https://github.com/dragonx943/manga-repo)
+- [Mochi](https://github.com/mochi-plugins/repository) :ded:
 
 ::: info duck note
-i am so tired of this shit lol. every forks work differently. just use mihon or its forks.
+i am so tired of this shit lol. every fork works differently. just use mihon or its forks.
 :::
 
 ## Legado
