@@ -42,6 +42,7 @@ const { frontmatter, site, theme } = useData()
 const { Layout } = DefaultTheme
 
 // Home sidebar menu
+const mounted = ref(false)
 const isHome = computed(() => frontmatter.value.layout === 'home')
 const homeSidebarOpen = ref(false)
 const sidebarRef = ref<HTMLElement | null>(null)
@@ -594,24 +595,25 @@ const updateMousePos = (e: MouseEvent | TouchEvent) => {
 
 const takodachiDisable = ref<(() => void) | null>(null)
 const takodachiToggledOn = useStorage(TakodachiStorageKey, false)
+const showTakodachi = computed(() =>
+  mounted.value && takodachiToggledOn.value === true && prefs.value !== 'reduce'
+)
 
 const reloadTakodachi = () => {
   takodachiDisable.value?.()
 
-  if (prefs.value === 'reduce') return
-  const saved = takodachiToggledOn
-  if (saved.value === false) return
+  if (!showTakodachi.value) return
+
+  const chaser = takodachiRef.value
+  if (!chaser) return
 
   window.addEventListener('mousemove', updateMousePos)
   window.addEventListener('touchstart', updateMousePos)
 
-  const chaser = takodachiRef!.value
-  if (chaser) {
-    offset = v2smul([chaser.clientWidth, chaser.clientHeight], 0.5)
-    setTimeout(() => {
-      chaser.classList.remove('opacity-0')
-    }, 1000)
-  }
+  offset = v2smul([chaser.clientWidth, chaser.clientHeight], 0.5)
+  setTimeout(() => {
+    chaser.classList.remove('opacity-0')
+  }, 1000)
 
   const intervalId = setInterval(() => {
     if (!mousePos) return
@@ -645,6 +647,11 @@ const reloadTakodachi = () => {
   }
 }
 
+watch(showTakodachi, () => {
+  if (import.meta.env.SSR) return
+  nextTick(reloadTakodachi)
+}, { flush: 'post' })
+
 function initTitleOnly() {
   document.querySelectorAll('.custom-block').forEach(block => {
     const children = [...block.children]
@@ -664,6 +671,7 @@ watch(
 onMounted(() => {
   if (import.meta.env.SSR) return
 
+  mounted.value = true
   initTitleOnly()
 
   // Icon tooltip: fixed-position popup appended to <body> to escape table overflow clipping
@@ -854,15 +862,15 @@ onMounted(() => {
 
   // Storage changed in other documents.
   useEventListener(window, 'storage', () => {
-    reloadTakodachi()
+    nextTick(reloadTakodachi)
   })
 
   // Storage changed in the same document.
   useEventListener(window, customStorageEventName, () => {
-    reloadTakodachi()
+    nextTick(reloadTakodachi)
   })
 
-  reloadTakodachi()
+  nextTick(reloadTakodachi)
 })
 
 onUnmounted(() => {
@@ -876,10 +884,14 @@ onUnmounted(() => {
   <Layout>
     <template #layout-top>
       <img
+        v-if="showTakodachi"
         id="takodachi"
         ref="takodachiRef"
         src="/takodachi.webp"
         alt="Takodachi"
+        width="40"
+        height="40"
+        decoding="async"
         class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500"
         :style="{
           left: `${position.x}px`,
@@ -931,8 +943,12 @@ onUnmounted(() => {
       >
         <ol class="flex flex-wrap items-center gap-2">
           <li>
-            <a href="/" class="hover:text-primary transition-colors">
-              <span class="i-lucide:home"></span>
+            <a
+              href="/"
+              class="hover:text-primary transition-colors"
+              aria-label="Home"
+            >
+              <span class="i-lucide:home" aria-hidden="true"></span>
             </a>
           </li>
           <li

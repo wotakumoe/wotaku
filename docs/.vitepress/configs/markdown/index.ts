@@ -13,6 +13,8 @@ import { figure } from '@mdit/plugin-figure'
 import { imgLazyload } from '@mdit/plugin-img-lazyload'
 import { imgSize } from '@mdit/plugin-img-size'
 import MdReg from 'markdown-it-regexp'
+import { existsSync, readFileSync } from 'node:fs'
+import { dirname, join, normalize } from 'node:path'
 import type { MarkdownRenderer } from 'vitepress'
 import {
   getTabAnchor,
@@ -35,6 +37,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   md.use(tabsMarkdownPlugin)
   md.use(nestedContainersPlugin)
   md.use(imgSize)
+  md.use(localImageDimensionsPlugin)
   md.use(headersPlugin)
   md.use(MdMTables, {
     multiline: true,
@@ -49,6 +52,176 @@ export function configureMarkdown(md: MarkdownRenderer) {
   md.use(markdownSteps)
   md.use(scrapeTablePlugin)
   renderHighlight(md)
+}
+
+interface ImageDimensions {
+  width: number
+  height: number
+}
+
+const docsRoot = join(process.cwd(), 'docs')
+const publicRoot = join(docsRoot, 'public')
+
+function isExternalImage(src: string) {
+  return /^[a-z][a-z\d+.-]*:/i.test(src) || src.startsWith('//')
+}
+
+function resolveLocalImagePath(src: string, env: Record<string, any>) {
+  if (!src || isExternalImage(src)) return
+
+  const pathname = src.split(/[?#]/, 1)[0]
+  if (!pathname) return
+
+  if (pathname.startsWith('/')) {
+    const resolved = normalize(join(publicRoot, pathname))
+    return resolved.startsWith(publicRoot) ? resolved : undefined
+  }
+
+  const sourcePath = env.path ?? env.relativePath
+  if (typeof sourcePath !== 'string') return
+
+  const resolved = normalize(join(docsRoot, dirname(sourcePath), pathname))
+  return resolved.startsWith(docsRoot) ? resolved : undefined
+}
+
+function parsePngDimensions(buffer: Buffer): ImageDimensions | undefined {
+  if (buffer.length < 24 || buffer.toString('ascii', 1, 4) !== 'PNG') return
+  return {
+    width: buffer.readUInt32BE(16),
+    height: buffer.readUInt32BE(20)
+  }
+}
+
+function parseGifDimensions(buffer: Buffer): ImageDimensions | undefined {
+  if (buffer.length < 10 || buffer.toString('ascii', 0, 3) !== 'GIF') return
+  return {
+    width: buffer.readUInt16LE(6),
+    height: buffer.readUInt16LE(8)
+  }
+}
+
+function parseWebpDimensions(buffer: Buffer): ImageDimensions | undefined {
+  if (
+    buffer.length < 30 ||
+    buffer.toString('ascii', 0, 4) !== 'RIFF' ||
+    buffer.toString('ascii', 8, 12) !== 'WEBP'
+  ) return
+
+  const type = buffer.toString('ascii', 12, 16)
+  if (type === 'VP8X') {
+    return {
+      width: 1 + buffer.readUIntLE(24, 3),
+      height: 1 + buffer.readUIntLE(27, 3)
+    }
+  }
+
+  if (type === 'VP8L') {
+    const b0 = buffer[21]
+    const b1 = buffer[22]
+    const b2 = buffer[23]
+    const b3 = buffer[24]
+    return {
+      width: 1 + (((b1 & 0x3f) << 8) | b0),
+      height: 1 + (((b3 & 0xf) << 10) | (b2 << 2) | ((b1 & 0xc0) >> 6))
+    }
+  }
+
+  if (type === 'VP8 ') {
+    return {
+      width: buffer.readUInt16LE(26) & 0x3fff,
+      height: buffer.readUInt16LE(28) & 0x3fff
+    }
+  }
+}
+
+function parseJpegDimensions(buffer: Buffer): ImageDimensions | undefined {
+  if (buffer.length < 4 || buffer[0] !== 0xff || buffer[1] !== 0xd8) return
+
+  let offset = 2
+  while (offset < buffer.length) {
+    if (buffer[offset] !== 0xff) {
+      offset++
+      continue
+    }
+
+    if (offset + 4 > buffer.length) break
+
+    const marker = buffer[offset + 1]
+    if (marker === 0xd9 || marker === 0xda) break
+
+    const length = buffer.readUInt16BE(offset + 2)
+    if (offset + 2 + length > buffer.length) break
+    if (
+      marker >= 0xc0 &&
+      marker <= 0xcf &&
+      marker !== 0xc4 &&
+      marker !== 0xc8 &&
+      marker !== 0xcc
+    ) {
+      return {
+        height: buffer.readUInt16BE(offset + 5),
+        width: buffer.readUInt16BE(offset + 7)
+      }
+    }
+
+    offset += 2 + length
+  }
+}
+
+function parseSvgDimensions(buffer: Buffer): ImageDimensions | undefined {
+  const svg = buffer.toString('utf8')
+  const openTag = svg.match(/<svg\b[^>]*>/i)?.[0]
+  if (!openTag) return
+
+  const width = Number.parseFloat(
+    openTag.match(/\bwidth=["']?([0-9.]+)/i)?.[1] ?? ''
+  )
+  const height = Number.parseFloat(
+    openTag.match(/\bheight=["']?([0-9.]+)/i)?.[1] ?? ''
+  )
+  if (Number.isFinite(width) && Number.isFinite(height)) {
+    return { width: Math.round(width), height: Math.round(height) }
+  }
+
+  const viewBox = openTag.match(/\bviewBox=["']([^"']+)["']/i)?.[1]
+  const values = viewBox?.trim().split(/[\s,]+/).map(Number)
+  if (values?.length === 4 && values.every(Number.isFinite)) {
+    return {
+      width: Math.round(values[2]),
+      height: Math.round(values[3])
+    }
+  }
+}
+
+function getImageDimensions(filePath: string): ImageDimensions | undefined {
+  if (!existsSync(filePath)) return
+
+  const buffer = readFileSync(filePath)
+  return parsePngDimensions(buffer) ??
+    parseGifDimensions(buffer) ??
+    parseWebpDimensions(buffer) ??
+    parseJpegDimensions(buffer) ??
+    parseSvgDimensions(buffer)
+}
+
+function localImageDimensionsPlugin(md: MarkdownRenderer) {
+  const defaultRender = md.renderer.rules.image!
+
+  md.renderer.rules.image = (tokens, idx, options, env, self) => {
+    const token = tokens[idx]
+    const src = token.attrGet('src')
+    const filePath = src ? resolveLocalImagePath(src, env) : undefined
+    const dimensions = filePath ? getImageDimensions(filePath) : undefined
+
+    if (dimensions) {
+      if (!token.attrGet('width')) token.attrSet('width', `${dimensions.width}`)
+      if (!token.attrGet('height')) {
+        token.attrSet('height', `${dimensions.height}`)
+      }
+    }
+
+    return defaultRender(tokens, idx, options, env, self)
+  }
 }
 
 function renderInlineTooltip(md: MarkdownRenderer) {

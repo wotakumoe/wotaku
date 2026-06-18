@@ -94,7 +94,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       },
       provider: 'local'
     },
-    logo: { src: '/asset/fav.svg' },
+    logo: { src: '/asset/fav.svg', alt: 'Wotaku', width: '531', height: '365' },
     sidebar,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },

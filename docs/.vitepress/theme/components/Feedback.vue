@@ -114,21 +114,29 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
 <template>
   <template v-if="props.heading">
     <button
+      type="button"
+      :aria-label="isCardShown
+        ? `Close feedback for ${props.heading}`
+        : `Send feedback for ${props.heading}`"
       @click="toggleCard()"
       class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft hover:border-primary ml-3 inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
       style="vertical-align: middle"
     >
       <span
+        aria-hidden="true"
         :class="isCardShown === false ? `i-lucide:mail` : `i-lucide:mail-x`"
       />
     </button>
   </template>
   <template v-else>
     <button
+      type="button"
+      :aria-label="isCardShown ? 'Close feedback form' : 'Send feedback'"
       class="bg-$vp-c-default-soft text-primary px2 py1 border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-300"
       @click="toggleCard()"
     >
       <span
+        aria-hidden="true"
         :class="isCardShown === false
         ? `i-lucide:mail mr-2`
         : `i-lucide:mail-x mr-2`"
@@ -151,6 +159,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             <button
               v-for="item in feedbackOptions"
               :key="item.value"
+              type="button"
               class="bg-bg border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
               @click="handleSubmit(item.value)"
             >
@@ -261,10 +270,12 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
           </p>
           <div class="flex flex-row gap-2">
             <button
+              type="button"
+              aria-label="Choose a different feedback type"
               class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
               @click="feedback.type = undefined"
             >
-              <span class="i-lucide:arrow-left-from-line">close</span>
+              <span class="i-lucide:arrow-left-from-line" aria-hidden="true" />
             </button>
             <button
               type="submit"

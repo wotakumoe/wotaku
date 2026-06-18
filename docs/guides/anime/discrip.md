@@ -53,7 +53,7 @@ After this is done, your MKV file is ready! You can convert it to an MP4 or othe
 1. Get a USB player, open up MakeMKV, and insert the disc. [**Patch**](#setting-up-uhd-rips) your USB player if you're doing UHD
 2. Press the folder icon on the top left.
 
-    ![Example showing the icon](https://i.ibb.co/T1Nsg50/makemkv-t-UAFDN2-C38.png)
+    ![Example showing the icon](https://i.ibb.co/T1Nsg50/makemkv-t-UAFDN2-C38.png){width=180 height=116}
 3. Select "Decrypt video files" if it isn't already checked.
 4. Select an output folder and press OK. Note the directory, you'll need it in ImgBurn.
 5. Wait for it to finish ripping. Generally takes around an hour if you have a 6X BD read speed, USB 3.0, and an SSD.
@@ -82,7 +82,7 @@ You are **not required** to use the Pro version. It offers extra protection remo
     -  If you have it configured, it’ll ask you what region your disc is in. If you’re not sure you can look it up on [blu-ray.com](https://blu-ray.com)
 3. Right click Xreveal's taskbar icon and select "Rip to ISO", configure some stuff if needed, and start ripping:
 
-    ![Example of ISO rip](https://i.ibb.co/f8gDSPq/image.png)
+    ![Example of ISO rip](https://i.ibb.co/f8gDSPq/image.png){width=2004 height=1278}
 :::
 
 If you want to verify the ISO's file, you can use Xreveal's ["Content Hash Verifier".](https://www.xreveal.com/content-hash-verifier.html) If you have the pro version, it's as simple as going into Xreveal's menu, going to Content Hash Verifier, and pressing "Verify ISO". However on the free version, it's a little more work since you need to use a CLI version. The benefit is that you don’t have to pay for it (and it's cross platform... despite Xreveal only being on Windows...) but the drawback is that it requires more steps.
@@ -204,5 +204,4 @@ You may also want to try rental services. If you're in the US (which good luck i
 You can try asking on [FMHY](https://rentry.co/fmhy-invite) or on [c/piracy](https://lemmy.dbzer0.com/c/piracy).
 
 </Collapsible>
-
 

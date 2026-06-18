@@ -59,7 +59,7 @@ onKeyStroke('/', (event) => {
 
 <template>
   <section class="VPNavBarSearch">
-    <VPLocalSearchBox v-model="showSearch" />
+    <VPLocalSearchBox v-if="showSearch" v-model="showSearch" />
 
     <div id="local-search">
       <VPNavBarSearchButton @click="showSearch = true" />

@@ -243,6 +243,10 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   vertical-align: middle;
 }
 
+.VPDocFooter .prev-next .pager-link .title {
+  color: var(--vp-c-text-1);
+}
+
 .medium-zoom-overlay {
   background-color: var(--vp-c-bg) !important;
   z-index: 100;

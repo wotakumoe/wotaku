@@ -260,8 +260,8 @@ export function renderEmojiMarkup(markup: string) {
   const tip = label?.replace(/"/g, '&quot;')
   const wrap = (cls: string) =>
     tip
-      ? `<span class="icon-tip" data-tip="${tip}" tabindex="-1"><span class="${cls}"></span></span>`
-      : `<span class="${cls}"></span>`
+      ? `<span class="icon-tip" data-tip="${tip}" tabindex="-1" role="img" aria-label="${tip}"><span class="${cls}" aria-hidden="true"></span></span>`
+      : `<span class="${cls}" aria-hidden="true"></span>`
 
   // Check for custom icon aliases first
   if (customIconAliases[markup]) return wrap(`i-${customIconAliases[markup]}`)

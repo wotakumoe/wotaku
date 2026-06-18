@@ -1,12 +1,50 @@
-# Cache headers for media files for the Google recommended of 6 months minimum.
-*.webp
-*.webm
-*.png
-*.jpg
-*.svg
-*.ico
-    Cache-Control: public, max-age=15552000
-    cache-control: immutable
+# Hashed Vite assets can be cached for a year because the filename changes
+# whenever the content changes.
+/assets/*
+    Cache-Control: public, max-age=31536000, immutable
+
+# VitePress emits this non-hashed icon stylesheet at the site root.
+/vp-icons.css
+    Cache-Control: public, max-age=15552000, immutable
+
+# Generated search indexes are not content-hashed.
+/url-search-index.json
+    Cache-Control: public, max-age=0, must-revalidate
+
+/tab-search-index.json
+    Cache-Control: public, max-age=0, must-revalidate
+
+# Cache site media for the Google-recommended six-month minimum.
+/asset/*
+    Cache-Control: public, max-age=15552000, immutable
+
+/banner/*
+    Cache-Control: public, max-age=15552000, immutable
+
+/diagram/*
+    Cache-Control: public, max-age=15552000, immutable
+
+/glossary/*
+    Cache-Control: public, max-age=15552000, immutable
+
+/music/*
+    Cache-Control: public, max-age=15552000, immutable
+
+/ss/*
+    Cache-Control: public, max-age=15552000, immutable
+
+/torrenting/*
+    Cache-Control: public, max-age=15552000, immutable
+
+/banner.png
+    Cache-Control: public, max-age=15552000, immutable
+
+/soemy.webp
+    Cache-Control: public, max-age=15552000, immutable
+
+/takodachi.webp
+    Cache-Control: public, max-age=15552000, immutable
+
 /*
     X-Robots-Tag: noarchive
 

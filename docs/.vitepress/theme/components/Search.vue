@@ -1666,13 +1666,10 @@ function onMouseMove(e: MouseEvent) {
   <Teleport to="body">
     <div
       ref="el"
-      role="button"
-      :aria-owns="results?.length ? 'localsearch-list' : undefined"
-      aria-expanded="true"
-      aria-haspopup="listbox"
+      role="dialog"
+      aria-modal="true"
       aria-labelledby="localsearch-label"
       class="VPLocalSearchBox"
-      :class="{ 'pointer-events-none': !showSearch }"
     >
       <AnimatePresence>
         <component
@@ -1711,6 +1708,8 @@ function onMouseMove(e: MouseEvent) {
             <div class="search-actions before">
               <button
                 class="back-button"
+                type="button"
+                :aria-label="translate('modal.backButtonTitle')"
                 :title="translate('modal.backButtonTitle')"
                 @click="showSearch = false"
               >
@@ -1766,6 +1765,7 @@ function onMouseMove(e: MouseEvent) {
                   type="button"
                   class="mode-btn"
                   :class="{ 'mode-active': showDetailedList }"
+                  aria-label="Use detailed search view"
                   title="Detail view (Consumes more RAM)"
                   @click="showDetailedList
                   ? showDetailedList = false
@@ -1777,6 +1777,7 @@ function onMouseMove(e: MouseEvent) {
                   type="button"
                   class="mode-btn"
                   :class="{ 'mode-active': !showDetailedList }"
+                  aria-label="Use compact search view"
                   title="List view (Consumes less RAM)"
                   @click="!showDetailedList
                   ? showDetailedList = true
@@ -1790,6 +1791,7 @@ function onMouseMove(e: MouseEvent) {
                   type="button"
                   class="mode-btn"
                   :class="{ 'mode-active': searchMode === 'exact' }"
+                  aria-label="Use exact search"
                   title="Exact search"
                   @click="searchMode === 'exact'
                   ? cycleSearchMode()
@@ -1801,6 +1803,7 @@ function onMouseMove(e: MouseEvent) {
                   type="button"
                   class="mode-btn"
                   :class="{ 'mode-active': searchMode === 'fuzzy' }"
+                  aria-label="Use fuzzy search"
                   title="Fuzzy search"
                   @click="searchMode === 'fuzzy'
                   ? cycleSearchMode()
@@ -1812,6 +1815,7 @@ function onMouseMove(e: MouseEvent) {
                   type="button"
                   class="mode-btn"
                   :class="{ 'mode-active': searchMode === 'url' }"
+                  aria-label="Use URL search"
                   title="URL search"
                   @click="searchMode === 'url'
                   ? cycleSearchMode()
@@ -1825,6 +1829,7 @@ function onMouseMove(e: MouseEvent) {
                 type="button"
                 class="mode-btn settings-toggle-btn"
                 :class="{ 'mode-active': showSettingsPopup }"
+                aria-label="Search settings"
                 title="Search settings"
                 @click.stop="showSettingsPopup = !showSettingsPopup"
               >
@@ -1834,6 +1839,7 @@ function onMouseMove(e: MouseEvent) {
                 class="clear-button"
                 type="reset"
                 :disabled="disableReset"
+                :aria-label="translate('modal.resetButtonTitle')"
                 :title="translate('modal.resetButtonTitle')"
                 @click="resetSearch"
               >
@@ -2315,7 +2321,6 @@ function onMouseMove(e: MouseEvent) {
         </component>
       </AnimatePresence>
 
-      <button v-if="!showSearch" />
     </div>
   </Teleport>
 </template>

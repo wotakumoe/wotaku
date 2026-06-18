@@ -24,7 +24,15 @@ const contributors = computed(() => contribs || ({} as Contributors))
       class="contrib-card"
       :class="{ 'no-link': !c.site }"
     >
-      <img :src="c.avatar" class="contrib-avatar" />
+      <img
+        :src="c.avatar"
+        :alt="c.name"
+        width="36"
+        height="36"
+        loading="lazy"
+        decoding="async"
+        class="contrib-avatar"
+      />
       <span class="contrib-name">{{ c.name }}</span>
     </a>
   </div>
@@ -40,7 +48,15 @@ const contributors = computed(() => contribs || ({} as Contributors))
       class="contrib-card"
       :class="{ 'no-link': !c.site }"
     >
-      <img :src="c.avatar" class="contrib-avatar" />
+      <img
+        :src="c.avatar"
+        :alt="c.name"
+        width="36"
+        height="36"
+        loading="lazy"
+        decoding="async"
+        class="contrib-avatar"
+      />
       <span class="contrib-name">{{ c.name }}</span>
     </a>
   </div>
@@ -56,7 +72,15 @@ const contributors = computed(() => contribs || ({} as Contributors))
       class="contrib-card"
       :class="{ 'no-link': !c.site }"
     >
-      <img :src="c.avatar" class="contrib-avatar" />
+      <img
+        :src="c.avatar"
+        :alt="c.name"
+        width="36"
+        height="36"
+        loading="lazy"
+        decoding="async"
+        class="contrib-avatar"
+      />
       <span class="contrib-name">{{ c.name }}</span>
     </a>
   </div>

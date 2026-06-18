@@ -82,7 +82,7 @@ Direct Stream Digital (DSD), a product developed by [Sony & Philips](https://www
 
 DSD is an audio encoding method that uses 1-bit delta-sigma modulation. It samples the audio signal at a very high sample rate, representing changes in signal density rather than amplitude levels, and has only 1 bit of amplitude. The most popular DSD standard is .dsf, but there are other standards as well.
 
-![Analog Signal, PCM & DSD](https://www.sony.net/Products/DSD/images/img_1_en.png)
+![Analog Signal, PCM & DSD](https://www.sony.net/Products/DSD/images/img_1_en.png){width=740 height=415}
 
 DSD files can be classified based on their sampling rate:
 
@@ -126,7 +126,7 @@ When referring to audio signals, sampling is the process of splitting signals by
 Quantization is the process of sampling an analog audio signal and converting it into a digital format. This is performed by taking periodic samples of the audio waveform and recording the amplitude of the analog signal at each sample. This process is done through an approximate measurement. As such, an inherent error exists for every single amplitude recording. This error will manifest as a “noise floor”, or noise that exists below a decibel threshold. Higher bit depths can be utilized in order to reduce this error, but the noise will always exist in the signal chain. 
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b8/Quantization_error.png)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b8/Quantization_error.png){width=1280 height=434}
 
 :::
 
