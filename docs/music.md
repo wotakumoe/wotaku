@@ -222,6 +222,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |    ^^      | [Jukebox](https://jukebox.today/) |
 |    ^^      | [Songle](https://songle.jp/) |
 |    ^^      | [Songlink](https://odesli.co/) |
+|    ^^      | [Songstats](https://songstats.com/) |
 
 == Spotify
 
