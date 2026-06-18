@@ -1758,6 +1758,33 @@ function onMouseMove(e: MouseEvent) {
                   : 'Bubba loading'"
                 />
               </button>
+              <div
+                v-if="!disableDetailedView && searchMode !== 'url'"
+                class="view-group toolbar-group"
+              >
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': showDetailedList }"
+                  title="Detail view (Consumes more RAM)"
+                  @click="showDetailedList
+                  ? showDetailedList = false
+                  : showDetailedList = true"
+                >
+                  <TextAlignStart :size="18" stroke-width="1.25" />
+                </button>
+                <button
+                  type="button"
+                  class="mode-btn"
+                  :class="{ 'mode-active': !showDetailedList }"
+                  title="List view (Consumes less RAM)"
+                  @click="!showDetailedList
+                  ? showDetailedList = true
+                  : showDetailedList = false"
+                >
+                  <List :size="18" stroke-width="1.25" />
+                </button>
+              </div>
               <div class="search-mode-group toolbar-group">
                 <button
                   type="button"
@@ -1791,33 +1818,6 @@ function onMouseMove(e: MouseEvent) {
                   : searchMode = 'url'"
                 >
                   <Globe :size="18" stroke-width="1.25" />
-                </button>
-              </div>
-              <div
-                v-if="!disableDetailedView && searchMode !== 'url'"
-                class="view-group toolbar-group"
-              >
-                <button
-                  type="button"
-                  class="mode-btn"
-                  :class="{ 'mode-active': showDetailedList }"
-                  title="Detail view (Consumes more RAM)"
-                  @click="showDetailedList
-                  ? showDetailedList = false
-                  : showDetailedList = true"
-                >
-                  <TextAlignStart :size="18" stroke-width="1.25" />
-                </button>
-                <button
-                  type="button"
-                  class="mode-btn"
-                  :class="{ 'mode-active': !showDetailedList }"
-                  title="List view (Consumes less RAM)"
-                  @click="!showDetailedList
-                  ? showDetailedList = true
-                  : showDetailedList = false"
-                >
-                  <List :size="18" stroke-width="1.25" />
                 </button>
               </div>
               <button
