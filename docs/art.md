@@ -23,7 +23,6 @@ og:
 - [Pixiv](https://www.pixiv.net) :s:
 - :prev: [Pixivision](https://www.pixivision.net/en/)
 - [Twitter](https://x.com/) :s:
-- :prev: [Twoucan](https://twoucan.com/)
 
 <Collapsible title="More">
 
@@ -62,8 +61,12 @@ og:
 | Pixiv | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE) |
 | ^^ | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^ | [Pixiv Yearbook](https://pixiv.navirank.com/) |
-| Others | [Pixnoy](https://www.pixnoy.com/) |
-| ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) |
+| Twitter | [Twicomi](https://twicomi.com/) :ljp: |
+| ^^ | [Twoucan](https://twoucan.com/) :ljp: |
+| ^^ | [Twiman](https://twiman.net/) :ljp: |
+| ^^ | [Buhitter](https://buhitter.com/) :ljp: |
+| ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) ||Nitter|| |
+| Others | [Pixnoy](https://www.pixnoy.com/) ||Instagram|| |
 
 == Others
 | Type | Website |
