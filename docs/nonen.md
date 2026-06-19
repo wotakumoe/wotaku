@@ -463,16 +463,20 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Websites |
 | :--- | :--- |
-| **Comic** | [TOONKOR](https://tkor125.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Funbe](https://funbe642.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
-| ^^ | [Wolf](https://wfwf464.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [W-Toon](https://wtwt329.com/) [:prx:](https://nicelink51.com/) |
-| ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
-| ^^ | [YaToon](https://yatoon235.com/) [:prx:](https://yatoonlink.com/) |
+| **Comic** | [Fox Comics](https://fxfx328.com/) [:prx:](https://nicelink51.com/) |
+| ^^ | [FreeToon](https://foc113.com/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
-| ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
+| ^^ | [Funbe](https://funbe644.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [HappyToon](https://happytoon02.com/) |
+| ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
+| ^^ | [MoneyToon](https://mtoon142.asia/) |
 | ^^ | [NameeToon](https://namee100.com/) |
+| ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
+| ^^ | [TOONKOR](https://tkor127.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Wolf](https://wfwf471.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [WToon](https://wtwt331.com/) [:prx:](https://nicelink51.com/) |
+| ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
+| ^^ | [YaToon](https://yatoon236.com/) [:prx:](https://yatoonlink.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |
@@ -612,7 +616,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Estrenos Anime](https://estrenosanime.net/home) |
 | ^^ | [JKAnime](https://jkanime.net/) |
 | ^^ | [TioAnime](https://tioanime.com/) |
-| ^^ | [AnimeFLV](https://www4.animeflv.net/) |
 | ^^ | [AnimeJL](https://www.anime-jl.net/) :ero: |
 | ^^ | [Mundo Donghua](https://www.mundodonghua.com/) |
 | ^^ | [Tio Donghua](https://tiodonghua.com/) |
