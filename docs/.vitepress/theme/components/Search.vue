@@ -496,11 +496,6 @@ const urlSearchLoading = ref(false)
 const searchLoading = computed(() =>
   urlSearchMode.value ? urlSearchLoading.value : textSearchLoading.value
 )
-const holdingLoadingImage = ref(false)
-const loadingImageSrc = computed(() =>
-  holdingLoadingImage.value ? '/pet.webp' : '/bubba.webp'
-)
-
 const pageMeta = (() => {
   const map = new Map<string, { label: string; order: number }>()
   let order = 0
@@ -1742,20 +1737,11 @@ function onMouseMove(e: MouseEvent) {
                 v-if="searchLoading"
                 class="search-loading-button"
                 type="button"
-                aria-label="Hold to show pet image"
-                @pointerdown.stop="holdingLoadingImage = true"
-                @pointerup.stop="holdingLoadingImage = false"
-                @pointerleave="holdingLoadingImage = false"
-                @pointercancel="holdingLoadingImage = false"
-                @blur="holdingLoadingImage = false"
-                @contextmenu.prevent
               >
                 <img
                   class="search-loading-bubba"
-                  :src="loadingImageSrc"
-                  :alt="holdingLoadingImage
-                  ? 'Pet'
-                  : 'Bubba loading'"
+                  src="/bubba.webp"
+                  alt="Bubba loading"
                 />
               </button>
               <div
