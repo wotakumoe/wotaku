@@ -37,7 +37,9 @@ const safelist = [
   'i-lucide:circle-x',
   'i-lucide:lightbulb',
   'i-lucide:heart',
-  'i-lucide:message-circle'
+  'i-lucide:message-circle',
+  'i-lucide:copy',
+  'i-lucide:check'
 ]
 
 export default defineConfig({

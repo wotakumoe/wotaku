@@ -503,6 +503,7 @@ watch(() => route.data, () => {
   void tryOpenAnchoredContent()
   rewriteAnchorLinksDeferred()
   nextTick(setupOutlineFollow)
+  nextTick(setupManualCopyButtons)
 }, { flush: 'post' })
 watch(() => route.query, () => {
   void tryOpenAnchoredContent()
@@ -655,9 +656,75 @@ function initTitleOnly() {
   })
 }
 
+function initCopyButtonsInRoot(root: ParentNode) {
+  root.querySelectorAll<HTMLTableElement>('table').forEach(table => {
+    const headers = table.querySelectorAll<HTMLTableCellElement>('thead th')
+    let manualColIndex = -1
+    headers.forEach((th, i) => {
+      if (th.textContent?.trim() === 'Manual') manualColIndex = i
+    })
+    if (manualColIndex === -1) return
+
+    table.querySelectorAll<HTMLTableRowElement>('tbody tr').forEach(row => {
+      const cell = row.querySelectorAll('td')[manualColIndex]
+      if (!cell || cell.querySelector('.manual-copy-btn')) return
+
+      const link = cell.querySelector<HTMLAnchorElement>('a[href]')
+      if (!link) return
+      const url = link.getAttribute('href')!
+
+      const btn = document.createElement('button')
+      btn.className = 'manual-copy-btn'
+      btn.title = 'Copy URL'
+      const icon = document.createElement('span')
+      icon.className = 'i-lucide:copy'
+      btn.appendChild(icon)
+
+      btn.addEventListener('click', async (e) => {
+        e.preventDefault()
+        try {
+          await navigator.clipboard.writeText(url)
+          icon.className = 'i-lucide:check'
+          btn.classList.add('copied')
+          setTimeout(() => {
+            icon.className = 'i-lucide:copy'
+            btn.classList.remove('copied')
+          }, 2000)
+        } catch {}
+      })
+
+      cell.classList.add('has-manual-copy')
+      cell.appendChild(btn)
+    })
+  })
+}
+
+let copyButtonObserver: MutationObserver | null = null
+
+function setupManualCopyButtons() {
+  initCopyButtonsInRoot(document)
+
+  copyButtonObserver?.disconnect()
+  copyButtonObserver = new MutationObserver((mutations) => {
+    for (const mutation of mutations) {
+      for (const node of mutation.addedNodes) {
+        if (!(node instanceof HTMLElement)) continue
+        if (node.classList.contains('plugin-tabs--content')) {
+          initCopyButtonsInRoot(node)
+        } else {
+          node.querySelectorAll<HTMLElement>('.plugin-tabs--content').forEach(
+            panel => initCopyButtonsInRoot(panel)
+          )
+        }
+      }
+    }
+  })
+  copyButtonObserver.observe(document.body, { childList: true, subtree: true })
+}
+
 watch(
   () => route.path,
-  () => nextTick(() => initTitleOnly()),
+  () => nextTick(() => { initTitleOnly(); setupManualCopyButtons() }),
   { flush: 'post' }
 )
 
@@ -665,6 +732,7 @@ onMounted(() => {
   if (import.meta.env.SSR) return
 
   initTitleOnly()
+  nextTick(setupManualCopyButtons)
 
   // Icon tooltip: fixed-position popup appended to <body> to escape table overflow clipping
   const tooltipEl = document.createElement('div')
@@ -867,6 +935,7 @@ onMounted(() => {
 
 onUnmounted(() => {
   outlineFollowObserver?.disconnect()
+  copyButtonObserver?.disconnect()
   cancelAnimationFrame(outlineFollowRaf)
   takodachiDisable.value && takodachiDisable.value()
 })
