@@ -20,7 +20,7 @@ This is a quick start guide. If you have any questions, check out our [**FAQs**]
 1. Always try to seed as much as you can (if you're on a non-metered connection).
 2. Try to use a VPN (if your ISP goes after torrents, then you must).
 3. If you are downloading from private trackers, make sure to read the rules.
-4. Don't use torrent streaming software like Miru, Webtorrent, Stremio for private torrents.
+4. Don't use torrent streaming software like Stremio or Webtorrent for private torrents.
 :::
 
 ## Client
@@ -49,11 +49,7 @@ Dedicated clients are recommended since they have a lot torrent-centric features
 | Android  | [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) :cs: |
 | ^^       | [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) :cs: |
 | ^^       | [Aria2App](https://github.com/devgianlu/Aria2App) |
-| ^^       | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) |
-| iOS      | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) |
-| PC       | [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) |
-| ^^       | [File centipede](https://filecxx.com/en_US/index.html) [:src:](https://github.com/filecxx/FileCentipede) |
-| ^^       | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) |
+| General  | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) |
 
 :::
 

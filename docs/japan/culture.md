@@ -19,6 +19,7 @@ og:
 - [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/)
 - :prev: [Gaijin (foreigners in Japan) Iceberg](https://old.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/)
 - [JTCO](https://www.jtco.or.jp/en/)
+- [Wiki-Map](https://wiki-map.com/)
 
 == Books
 - [The Cambridge History of Japan](https://www.cambridge.org/core/series/cambridge-history-of-japan/18F050C94D8B0E2BFAAF5CCAE19E87FE)

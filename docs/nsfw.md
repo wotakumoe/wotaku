@@ -82,7 +82,6 @@ og:
 | [RawDEX](https://rawdex.net/) :lkr: | :no: | :yes: |
 | [The Blank](https://theblank.net/) :sub: ||Scan|| | :no: | :no: |
 | [Toonily](https://toonily.com/) | :yes: | :no: |
-| [Toonitube](https://toonitube.com/) | :no: | :yes: |
 | [WebtoonScan](https://webtoonscan.com/) | :yes: | :yes: |
 
 <Block link="/nonen#korean" icon="i-bi-box-arrow-up-right">Raw only websites are listed here</Block>
