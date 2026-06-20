@@ -41,10 +41,18 @@ og:
 | [Official](https://github.com/IReaderorg/IReader-extensions) | [URL](https://raw.githubusercontent.com/IReaderorg/IReader-extensions/refs/heads/repov2/index.min.json) |
 
 ## Kotatsu
-- [Sheby's builds](https://github.com/Shebyyy/kotatsu-multi-parsers)
-- [UMA](https://github.com/InvalidDavid/UMA)
-- [Draken](https://github.com/dragonx943/manga-repo)
-- [Mochi](https://github.com/mochi-plugins/repository) :ded:
+
+| Repo | Contains | Manual |
+|---|---|---|
+| [Sheby](https://github.com/Shebyyy/kotatsu-multi-parsers) | [Kotatsu-Redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo) | [URL](https://github.com/Shebyyy/kotatsu-multi-parsers/releases/latest/download/Kotatsu-Redo.jar) |
+| ^^ | [YakaTeam](https://github.com/YakaTeam/kotatsu-parsers) | [URL](https://github.com/Shebyyy/kotatsu-multi-parsers/releases/latest/download/YakaTeam.jar) |
+| ^^ | [TamerAli-0](https://github.com/TamerAli-0/kotatsu-parsers) | [URL](https://github.com/Shebyyy/kotatsu-multi-parsers/releases/latest/download/TamerAli-0.jar) |
+| ^^ | [glitch-228](https://github.com/glitch-228/kaisoku-parsers) | [URL](https://github.com/Shebyyy/kotatsu-multi-parsers/releases/latest/download/glitch-228.jar) |
+| ^^ | [hany18h](https://github.com/hany18h/kotatsu-parsers) | [URL](https://github.com/Shebyyy/kotatsu-multi-parsers/releases/latest/download/hany18h.jar) |
+| ^^ | [skepsun](https://github.com/skepsun/kototoro-parsers) | [URL](https://github.com/Shebyyy/kotatsu-multi-parsers/releases/latest/download/skepsun.jar) |
+| [UMA](https://github.com/InvalidDavid/UMA) | - | [URL](https://github.com/InvalidDavid/UMA/releases/latest/download/uma.jar) |
+| [Draken](https://github.com/dragonx943/manga-repo) | - | [URL](https://github.com/dragonx943/manga-repo/releases/latest/download/vn.jar) |
+| [Mochi](https://github.com/mochi-plugins/repository) :ded: | - | [URL](https://github.com/mochi-plugins/repository/releases/latest/download/plugin.jar) |
 
 ::: info duck note
 i am so tired of this shit lol. every fork works differently. just use mihon or its forks.
