@@ -665,11 +665,45 @@ function initCopyButtonsInRoot(root: ParentNode) {
     })
     if (manualColIndex === -1) return
 
-    table.querySelectorAll<HTMLTableRowElement>('tbody tr').forEach(row => {
-      const cell = row.querySelectorAll('td')[manualColIndex]
-      if (!cell || cell.querySelector('.manual-copy-btn')) return
+    // Track how many more rows each column is occupied by a rowspan from above
+    const colOccupied: number[] = []
 
-      const link = cell.querySelector<HTMLAnchorElement>('a[href]')
+    table.querySelectorAll<HTMLTableRowElement>('tbody tr').forEach(row => {
+      const cells = Array.from(row.querySelectorAll('td'))
+      let cellIdx = 0
+      let col = 0
+      let manualCell: HTMLTableCellElement | null = null
+
+      while (col <= manualColIndex) {
+        // Column occupied by a rowspan from a previous row — skip it
+        if ((colOccupied[col] ?? 0) > 0) {
+          colOccupied[col]--
+          col++
+          continue
+        }
+
+        if (cellIdx >= cells.length) break
+        const cell = cells[cellIdx++]
+        const colspan = cell.colSpan || 1
+        const rowspan = cell.rowSpan || 1
+
+        // Register future occupation for rowspan > 1
+        if (rowspan > 1) {
+          for (let c = col; c < col + colspan; c++) {
+            colOccupied[c] = (colOccupied[c] ?? 0) + (rowspan - 1)
+          }
+        }
+
+        if (col <= manualColIndex && col + colspan > manualColIndex) {
+          manualCell = cell
+        }
+
+        col += colspan
+      }
+
+      if (!manualCell || manualCell.querySelector('.manual-copy-btn')) return
+
+      const link = manualCell.querySelector<HTMLAnchorElement>('a[href]')
       if (!link) return
       const url = link.getAttribute('href')!
 
@@ -693,8 +727,8 @@ function initCopyButtonsInRoot(root: ParentNode) {
         } catch {}
       })
 
-      cell.classList.add('has-manual-copy')
-      cell.appendChild(btn)
+      manualCell.classList.add('has-manual-copy')
+      manualCell.appendChild(btn)
     })
   })
 }
