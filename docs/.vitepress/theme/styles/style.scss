@@ -1582,36 +1582,30 @@ html.reduce-blur-effects {
 
 /* Manual column copy button */
 .vp-doc table td.has-manual-copy {
-  display: flex;
-  align-items: center;
-  gap: 6px;
+  vertical-align: middle;
+  white-space: nowrap;
 }
 
 .manual-copy-btn {
+  vertical-align: -0.2em;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 2px;
-  aspect-ratio: 1;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 4px;
-  background: var(--vp-c-bg-elv);
-  color: var(--vp-c-text-2);
+  margin-left: 4px;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--vp-c-text-3);
   cursor: pointer;
-  font-size: 13px;
   line-height: 1;
-  transition: color 0.15s, border-color 0.15s, background 0.15s;
-  flex-shrink: 0;
+  transition: color 0.15s;
 
   &:hover {
-    background: var(--vp-c-bg-alt);
     color: var(--vp-c-text-1);
-    border-color: var(--vp-c-brand-1);
   }
 
   &.copied {
     color: var(--vp-c-green-1);
-    border-color: var(--vp-c-green-1);
   }
 }
 
