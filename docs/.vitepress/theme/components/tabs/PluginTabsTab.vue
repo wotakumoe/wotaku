@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, inject, nextTick, watch } from 'vue'
+import { mediumZoomSymbol } from '../../composables/medium-zoom'
 import { useIsPrint } from './composables'
 import { useTabsRenderAll, useTabsSingleState } from './state'
 
@@ -16,6 +17,14 @@ const renderAll = useTabsRenderAll()
 const isActive = computed(() =>
   selected.value === props.label || Boolean(isPrint.value) || renderAll
 )
+
+const zoom = inject(mediumZoomSymbol)
+watch(isActive, async (active) => {
+  if (active) {
+    await nextTick()
+    zoom?.refresh()
+  }
+})
 const panelId = computed(() => `panel-${props.anchor}-${uid}`)
 const buttonId = computed(() => `tab-${props.anchor}-${uid}`)
 </script>
