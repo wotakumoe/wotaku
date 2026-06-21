@@ -19,6 +19,7 @@ og:
 | Anime      | [AniRena](https://www.anirena.com/) |
 | ^^         | [nekoBT](https://nekobt.to/) |
 | ^^         | [Shana Project](https://www.shanaproject.com/) |
+| ^^         | [TsukiHime](https://tsukihime.org/) :ddl: |
 | NSFW       | [Sukebei](https://sukebei.nyaa.si/) [:prx:](https://rentry.org/nyaap) |
 
 == Private Trackers

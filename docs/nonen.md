@@ -286,6 +286,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | Anime | [AnimeIL-TV](https://www.animeil-tv.com/) |
+| Manga | [Mangashelf](https://mangashelf.co.il/) |
 
 ## Hungarian
 
@@ -551,7 +552,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [AniLiberty](https://anilibria.top/) ||Sub|| |
 | ^^ | [AniMan](https://animan.ru/) |
 | ^^ | [AnimeBuff](https://animebuff.ru/) ||Sub|| |
-| ^^ | [AnimeJoy](https://animejoy.ru/) |
 | ^^ | [Animelayer](http://animelayer.ru/) :mag: |
 | ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
 | ^^ | [AnimeStars](https://animestars.org/) ||Aggregator|| |

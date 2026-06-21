@@ -88,6 +88,7 @@ outline: 2
 | ^^ | [nekoBT](https://nekobt.to/) |
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
+| ^^ | [TsukiHime](https://tsukihime.org/) :ddl: |
 | **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
