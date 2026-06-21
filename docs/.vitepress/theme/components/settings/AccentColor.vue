@@ -7,6 +7,7 @@ import MenuTitle from './MenuTitle.vue'
 const accentOptions = [
   { key: 'ayanami', label: 'Ayanami', color: 'oklch(0.626 0.098 247.46)' },
   { key: 'asuka', label: 'Asuka', color: '#F35640' },
+  { key: 'raora', label: 'Raora', color: '#F44088' },
   { key: 'rebecca', label: 'Rebecca', color: '#18CF7A' },
   { key: 'okayu', label: 'Okayu', color: '#BC87C5' },
   { key: 'inanis', label: "Ina'nis", color: '#8F81B0' },

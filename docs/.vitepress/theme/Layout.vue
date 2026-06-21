@@ -587,6 +587,13 @@ const accentPalettes: Record<string, Record<string, string>> = {
     700: '#BD2C18',
     800: '#9C2818',
   },
+  raora: {
+    400: '#FB6BA9',
+    500: '#F44088',
+    600: '#D91A5D',
+    700: '#C6104B',
+    800: '#A4103E',
+  },
   rebecca: {
     400: '#41E799',
     500: '#18CF7A',
