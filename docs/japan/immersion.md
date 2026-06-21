@@ -146,6 +146,7 @@ og:
 == Others
 - [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
 - [Japanese Condensed Audio](https://rentry.org/wotadirect#japanimmersion)
+- [Japanese Radio](https://radio.nogi46.me/)
 
 :::
 
