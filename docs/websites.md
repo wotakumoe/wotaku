@@ -88,7 +88,7 @@ outline: 2
 | ^^ | [nekoBT](https://nekobt.to/) |
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
-| ^^ | [TsukiHime](https://tsukihime.org/) :ddl: |
+| ^^ | [TsukiHime](https://tsukihime.org/) :ddl::usnt: |
 | **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) |
 | ^^ | [Chauthanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
@@ -264,20 +264,20 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 Some of the series/services may not be available depending on your region.
 :::
 
-| Category | Site | Payment |
+| Category | Websites | Payment |
 | :--- | :--- | :--- |
-| **General** | [Omoi](https://www.omoi.com/) | :paid::sub::free: |
-| ^^ | [Renta!](https://www.ebookrenta.com/) | :coin::free: |
+| **General** | [Omoi](https://www.omoi.com/) | :free::paid::sub: |
+| ^^ | [Renta!](https://www.ebookrenta.com/) | :free::coin: |
 | ^^ | [Yen Press](https://yenpress.com/) | :paid: |
-| **Chapter** | [Comikey](https://comikey.com/) | :coin::free: |
-| ^^ | [Coolmic](https://coolmic.me/) | :sub::coin::free: |
-| ^^ | [INKR](https://comics.inkr.com/) | :coin::free: |
-| ^^ | [KManga](https://kmanga.kodansha.com/) | :sub::coin::free: |
-| ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) | :sub::free: |
-| ^^ | [Manga UP!](https://global.manga-up.com/) | :sub::coin::free: |
-| ^^ | [Mangamo](https://www.mangamo.com/) | :sub::coin::free: |
-| ^^ | [Shonen Jump](https://www.viz.com/sj-offer) | :sub::free: |
-| **Volume** | [Manga Mirai](https://mangamirai.com/) | :paid::free: |
+| **Chapter** | [Comikey](https://comikey.com/) | :free::coin: |
+| ^^ | [Coolmic](https://coolmic.me/) | :free::coin::sub: |
+| ^^ | [INKR](https://comics.inkr.com/) | :free::coin: |
+| ^^ | [KManga](https://kmanga.kodansha.com/) | :free::coin::sub: |
+| ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) | :free::sub: |
+| ^^ | [Manga UP!](https://global.manga-up.com/) | :free::coin::sub: |
+| ^^ | [Mangamo](https://www.mangamo.com/) | :free::coin::sub: |
+| ^^ | [Shonen Jump](https://www.viz.com/sj-offer) | :free::sub: |
+| **Volume** | [Manga Mirai](https://mangamirai.com/) | :free::paid: |
 | ^^ | [Kodansha USA](https://kodansha.us/) | :paid: |
 | ^^ | [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
 | ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
@@ -286,14 +286,16 @@ Some of the series/services may not be available depending on your region.
 
 <collapsible title="Manhwa/hua">
 
-- [Lezhin](https://www.lezhinus.com/en)
-- [Manta](https://manta.net/en)
-- [Tapas](https://tapas.io/)
-- [Tappytoon](https://www.tappytoon.com/en/comics/home)
-- [Toomics](https://toomics.com/en/)
-- [TopToon](https://global.toptoon.com/)
-- [WebComics](https://webcomicsapp.com/)
-- [Webtoon](https://www.webtoons.com/en/)
+| Websites | Payment |
+| :--- | :--- |
+| [Lezhin](https://www.lezhinus.com/en) | :free::coin::sub: |
+| [Manta](https://manta.net/en) | :free::coin::sub: |
+| [Tapas](https://tapas.io/) | :free::coin: |
+| [Tappytoon](https://www.tappytoon.com/en/comics/home) | :free::coin::sub: |
+| [Toomics](https://toomics.com/en/) | :free::coin::sub: |
+| [TopToon](https://global.toptoon.com/) | :free::coin::sub: |
+| [WebComics](https://webcomicsapp.com/) | :free::coin: |
+| [Webtoon](https://www.webtoons.com/en/) | :free::coin::sub: |
 
 </collapsible>
 

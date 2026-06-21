@@ -149,7 +149,7 @@ const aliasDefs: Record<string, [string, string?]> = {
   // Price
   paid: ['streamline-ultimate-cash-payment-bills-bold', "Good ol' money"],
   fm: ['ic-round-add-shopping-cart', 'Freemium'],
-  free: ['streamline-sharp-tag-free-circle-remix', 'Has free/demo content'],
+  free: ['streamline-sharp-tag-free-circle-remix', 'Has free / demo content'],
   sub: ['ic-round-currency-exchange', 'Subscription'],
   coin: ['akar-icons-coin', 'Coin / Point'],
 
