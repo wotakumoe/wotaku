@@ -67,10 +67,10 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 
   /* Colors: Custom Block */
   /** Info */
-  --vp-custom-block-info-bg: theme("colors.brand.200");
-  --vp-custom-block-info-border: theme("colors.brand.800");
-  --vp-custom-block-info-text: theme("colors.brand.800");
-  --vp-custom-block-info-text-deep: theme("colors.brand.900");
+  --vp-custom-block-info-bg: color-mix(in srgb, var(--vp-c-brand-1) 15%, transparent);
+  --vp-custom-block-info-border: var(--vp-c-brand-3);
+  --vp-custom-block-info-text: var(--vp-c-brand-3);
+  --vp-custom-block-info-text-deep: var(--vp-c-brand-3);
   /** Tip */
   --vp-custom-block-tip-bg: theme("colors.meadow.200");
   --vp-custom-block-tip-border: theme("colors.meadow.800");
@@ -116,10 +116,10 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 
   /* Colors: Custom Block */
   /** Info */
-  --vp-custom-block-info-bg: theme("colors.brand.950");
-  --vp-custom-block-info-border: theme("colors.brand.800");
-  --vp-custom-block-info-text: theme("colors.brand.200");
-  --vp-custom-block-info-text-deep: theme("colors.brand.200");
+  --vp-custom-block-info-bg: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
+  --vp-custom-block-info-border: var(--vp-c-brand-3);
+  --vp-custom-block-info-text: var(--vp-c-brand-1);
+  --vp-custom-block-info-text-deep: var(--vp-c-brand-1);
   /** Tip */
   --vp-custom-block-tip-bg: theme("colors.meadow.950");
   --vp-custom-block-tip-border: theme("colors.meadow.800");
@@ -606,11 +606,11 @@ table tr:nth-child(odd) {
   @apply relative;
 
   .is-link:hover {
-    @apply bg-brand-800/15! dark:bg-brand-500/15!;
+    background-color: var(--vp-c-sidebar-active) !important;
   }
 
   .is-link.has-active {
-    @apply bg-brand-800/15! dark:bg-brand-500/15!;
+    background-color: var(--vp-c-sidebar-active) !important;
   }
 
   &.collapsible {
@@ -1206,7 +1206,8 @@ table tr:nth-child(odd) {
     @apply pl-0 border-l-0;
 
     & > .outline-marker {
-      @apply z-10 w-0.75 dark:bg-brand-300;
+      @apply z-10 w-0.75;
+      background-color: var(--vp-c-brand-1);
       transition-timing-function: $ease-out-expo;
       transition-duration: 0.3s;
     }
@@ -1234,8 +1235,8 @@ table tr:nth-child(odd) {
         &:hover,
         &:focus,
         &.active {
-          @apply font-semibold dark:text-brand-300!;
-          color: var(--vp-c-brand-1);
+          @apply font-semibold;
+          color: var(--vp-c-brand-1) !important;
           transition-timing-function: $ease-out-expo;
           transition-duration: 0.35s;
         }
@@ -1250,8 +1251,8 @@ table tr:nth-child(odd) {
             &:hover,
             &:focus,
             &.active {
-              @apply opacity-100 font-semibold dark:text-brand-300;
-              color: var(--vp-c-brand-1);
+              @apply opacity-100 font-semibold;
+              color: var(--vp-c-brand-1) !important;
               transition-timing-function: $ease-out-expo;
               transition-duration: 0.35s;
             }

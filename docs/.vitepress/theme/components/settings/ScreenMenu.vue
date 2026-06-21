@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useMounted } from '@vueuse/core'
 
+import AccentColor from './AccentColor.vue'
 import BlurEffects from './BlurEffects.vue'
 import MenuTitle from './MenuTitle.vue'
 import ScreenLayoutSwitch from './ScreenLayoutSwitch.vue'
@@ -20,6 +21,7 @@ const mounted = useMounted()
       <ScreenLayoutSwitch />
       <ScreenSpotlight />
       <BlurEffects />
+      <AccentColor />
     </div>
   </div>
 </template>

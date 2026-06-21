@@ -2475,9 +2475,9 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .page-pill.active {
-  color: #6ab0f5;
-  border: 1.5px solid #6ab0f5;
-  background: rgba(60, 120, 210, 0.12);
+  color: var(--vp-c-brand-1);
+  border: 1.5px solid var(--vp-c-brand-1);
+  background: color-mix(in srgb, var(--vp-c-brand-1) 12%, transparent);
   box-shadow: none;
 }
 
@@ -2497,7 +2497,7 @@ function onMouseMove(e: MouseEvent) {
 }
 
 .page-pill.active .page-pill-count {
-  background: rgba(100, 160, 240, 0.18);
+  background: color-mix(in srgb, var(--vp-c-brand-1) 18%, transparent);
 }
 
 @media (max-width: 767px) {
@@ -2872,7 +2872,7 @@ svg {
 
 .exact-match-button.exact-match-active {
   color: var(--vp-c-brand-1);
-  background-color: rgba(var(--vp-c-brand-1), 0.1);
+  background-color: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
   border-radius: 4px;
 }
 
@@ -2921,7 +2921,7 @@ svg {
 
 .mode-btn.mode-active {
   color: var(--vp-c-brand-1);
-  background: rgba(60, 120, 210, 0.10);
+  background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
 }
 
 :deep(.url-highlight) {
@@ -2984,7 +2984,7 @@ svg {
 
 .url-page-btn.active {
   color: var(--vp-c-brand-1);
-  background: rgba(60, 120, 210, 0.10);
+  background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
   font-weight: 500;
   cursor: default;
 }
@@ -3090,7 +3090,7 @@ svg {
 
 .settings-option.active {
   color: var(--vp-c-brand-1);
-  background: rgba(60, 120, 210, 0.1);
+  background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
 }
 
 .settings-popup-enter-active,

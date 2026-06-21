@@ -28,6 +28,7 @@ export const SpotlightStylesStorageKey =
 
 export const LowEndDeviceModeStorageKey = 'preference-low-end-device-mode'
 export const TakodachiStorageKey = 'preference-takodachi'
+export const AccentColorStorageKey = 'preference-accent-color'
 
 export enum LayoutMode {
   FullWidth = 1,

@@ -3,6 +3,7 @@ import { useMounted } from '@vueuse/core'
 import { inject } from 'vue'
 
 import { InjectionKey, VPFlyout } from '../../constants'
+import AccentColor from './AccentColor.vue'
 import BlurEffects from './BlurEffects.vue'
 import LayoutSwitch from './LayoutSwitch.vue'
 import LayoutSwitchContentLayoutWidthInput from './LayoutSwitchContentLayoutMaxWidthSlider.vue'
@@ -34,6 +35,7 @@ const mounted = useMounted()
       <SpotlightStyles v-if="!options.spotlight?.disabled" />
       <BlurEffects />
       <Takodachi />
+      <AccentColor />
     </div>
   </VPFlyout>
 </template>

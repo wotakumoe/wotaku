@@ -34,11 +34,11 @@ import {
   NolebaseEnhancedReadabilitiesScreenMenu
 } from './components/settings'
 import SidebarCard from './components/SidebarCard.vue'
-import { LowEndDeviceModeStorageKey, TakodachiStorageKey } from './constants'
+import { AccentColorStorageKey, LowEndDeviceModeStorageKey, TakodachiStorageKey } from './constants'
 import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 
 const route = useRoute()
-const { frontmatter, site, theme } = useData()
+const { frontmatter, isDark, site, theme } = useData()
 const { Layout } = DefaultTheme
 
 // Home sidebar menu
@@ -570,6 +570,65 @@ watchEffect(() => {
     'reduce-blur-effects',
     reduceBlurEffects.value
   )
+})
+
+const accentPalettes: Record<string, Record<string, string>> = {
+  ayanami: {
+    400: 'oklch(0.722 0.105 247.48)',
+    500: 'oklch(0.626 0.098 247.46)',
+    600: 'oklch(0.523 0.081 246.86)',
+    700: 'oklch(0.43 0.066 246.75)',
+    800: 'oklch(0.335 0.052 246.76)',
+  },
+  asuka: {
+    400: '#FB7F6E',
+    500: '#F35640',
+    600: '#E2432D',
+    700: '#BD2C18',
+    800: '#9C2818',
+  },
+  rebecca: {
+    400: '#41E799',
+    500: '#18CF7A',
+    600: '#0DAC62',
+    700: '#0E874F',
+    800: '#116A42',
+  },
+  okayu: {
+    400: '#CDA4D5',
+    500: '#BC87C5',
+    600: '#A86BB2',
+    700: '#915799',
+    800: '#794A7F',
+  },
+  inanis: {
+    400: '#A39AC0',
+    500: '#8F81B0',
+    600: '#816FA1',
+    700: '#766392',
+    800: '#645479',
+  },
+}
+
+const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
+
+watchEffect(() => {
+  if (import.meta.env.SSR) return
+  const shades = accentPalettes[accentColor.value] ?? accentPalettes.ayanami
+  const el = document.documentElement
+  if (isDark.value) {
+    el.style.setProperty('--vp-c-brand-1', shades['400'])
+    el.style.setProperty('--vp-c-brand-2', shades['500'])
+    el.style.setProperty('--vp-c-brand-3', shades['700'])
+    el.style.setProperty('--vp-c-brand-soft', `color-mix(in srgb, ${shades['500']} 20%, transparent)`)
+    el.style.setProperty('--vp-c-sidebar-active', `color-mix(in srgb, ${shades['500']} 15%, transparent)`)
+  } else {
+    el.style.setProperty('--vp-c-brand-1', shades['500'])
+    el.style.setProperty('--vp-c-brand-2', shades['600'])
+    el.style.setProperty('--vp-c-brand-3', shades['800'])
+    el.style.setProperty('--vp-c-brand-soft', `color-mix(in srgb, ${shades['400']} 40%, transparent)`)
+    el.style.setProperty('--vp-c-sidebar-active', `color-mix(in srgb, ${shades['800']} 15%, transparent)`)
+  }
 })
 
 const speed = 2
