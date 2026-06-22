@@ -107,7 +107,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Service |
 |-|-|
-| [DoubleDouble](https://doubledouble.top/) :s: | Multiple |
+| [Antra](https://antra.hoshi.cfd/) :acc: [:src:](https://github.com/anandprtp/Antra) | Multiple |
+| [DoubleDouble](https://doubledouble.top/) | ^^ |
 | [Lucida](https://lucida.to/) | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
 | [Monochrome](https://monochrome.tf/) [:prx:](https://rentry.org/wotaxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome) | Amazon |
