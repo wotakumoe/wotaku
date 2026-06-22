@@ -40,9 +40,9 @@ summary::-webkit-details-marker {
 }
 
 .details {
-  background-color: var(--vp-custom-block-info-bg);
-  color: var(--vp-custom-block-info-text);
-  border-color: var(--vp-custom-block-info-border);
+  background-color: var(--vp-collapsible-bg);
+  color: var(--vp-collapsible-text);
+  border-color: var(--vp-collapsible-border);
 }
 
 .tip {

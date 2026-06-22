@@ -16,11 +16,6 @@ const accentOptions = [
     shades: ['#FB7F6E', '#F35640', '#E2432D', '#BD2C18', '#9C2818'],
   },
   {
-    key: 'raora',
-    label: 'Raora',
-    shades: ['#FB6BA9', '#F44088', '#D91A5D', '#C6104B', '#A4103E'],
-  },
-  {
     key: 'rebecca',
     label: 'Rebecca',
     shades: ['#41E799', '#18CF7A', '#0DAC62', '#0E874F', '#116A42'],
@@ -34,6 +29,11 @@ const accentOptions = [
     key: 'inanis',
     label: "Ina'nis",
     shades: ['#A39AC0', '#8F81B0', '#816FA1', '#776392', '#645479'],
+  },
+  {
+    key: 'raora',
+    label: 'Raora',
+    shades: ['#FB6BA9', '#F44088', '#D91A5D', '#C6104B', '#A4103E'],
   },
 ] as const
 

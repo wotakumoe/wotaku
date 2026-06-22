@@ -67,10 +67,10 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 
   /* Colors: Custom Block */
   /** Info */
-  --vp-custom-block-info-bg: color-mix(in srgb, var(--vp-c-brand-1) 15%, transparent);
-  --vp-custom-block-info-border: var(--vp-c-brand-3);
-  --vp-custom-block-info-text: var(--vp-c-brand-3);
-  --vp-custom-block-info-text-deep: var(--vp-c-brand-3);
+  --vp-custom-block-info-bg: theme("colors.swarm.200");
+  --vp-custom-block-info-border: theme("colors.swarm.800");
+  --vp-custom-block-info-text: theme("colors.swarm.800");
+  --vp-custom-block-info-text-deep: theme("colors.swarm.900");
   /** Tip */
   --vp-custom-block-tip-bg: theme("colors.meadow.200");
   --vp-custom-block-tip-border: theme("colors.meadow.800");
@@ -86,6 +86,10 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-custom-block-danger-border: theme("colors.carnation.800");
   --vp-custom-block-danger-text: theme("colors.carnation.800");
   --vp-custom-block-danger-text-deep: theme("colors.carnation.900");
+  /** Collapsible */
+  --vp-collapsible-bg: color-mix(in srgb, var(--vp-c-brand-1) 15%, transparent);
+  --vp-collapsible-border: var(--vp-c-brand-3);
+  --vp-collapsible-text: var(--vp-c-brand-3);
 
   --vp-badge-info-text: theme("colors.brand.200");
   --vp-badge-info-bg: theme("colors.brand.800");
@@ -116,10 +120,10 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 
   /* Colors: Custom Block */
   /** Info */
-  --vp-custom-block-info-bg: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
-  --vp-custom-block-info-border: var(--vp-c-brand-3);
-  --vp-custom-block-info-text: var(--vp-c-brand-1);
-  --vp-custom-block-info-text-deep: var(--vp-c-brand-1);
+  --vp-custom-block-info-bg: theme("colors.swarm.950");
+  --vp-custom-block-info-border: theme("colors.swarm.800");
+  --vp-custom-block-info-text: theme("colors.swarm.200");
+  --vp-custom-block-info-text-deep: theme("colors.swarm.200");
   /** Tip */
   --vp-custom-block-tip-bg: theme("colors.meadow.950");
   --vp-custom-block-tip-border: theme("colors.meadow.800");
@@ -135,6 +139,10 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-custom-block-danger-border: theme("colors.carnation.800");
   --vp-custom-block-danger-text: theme("colors.carnation.200");
   --vp-custom-block-danger-text-deep: theme("colors.carnation.200");
+  /** Collapsible */
+  --vp-collapsible-bg: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
+  --vp-collapsible-border: var(--vp-c-brand-3);
+  --vp-collapsible-text: var(--vp-c-brand-1);
 
   --vp-badge-info-text: theme("colors.brand.200");
   --vp-badge-info-bg: theme("colors.brand.950");
