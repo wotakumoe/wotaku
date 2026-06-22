@@ -255,7 +255,8 @@ outline: 2
 
 | Category | Websites |  
 |----------|----------|  
-| **Info / News** | [Deb Aoki](https://x.com/debaoki) :x: |  
+| **Info / News** | [Aside Manga News](https://x.com/AsideMangaNews) [:web:](https://aside-manga.news/) |
+| ^^ | [Deb Aoki](https://x.com/debaoki) :x: |  
 | ^^ | [Manga Alerts](https://x.com/MangaAlerts) :x: |  
 | ^^ | [Manga Mogura](https://x.com/MangaMoguraRE) [:alt:](https://x.com/MangaReporter) :x: |  
 | ^^ | [Ecchi & Smut Mogura](https://x.com/EcchiMogura) :x: |  
