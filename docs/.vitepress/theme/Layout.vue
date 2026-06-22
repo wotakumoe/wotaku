@@ -572,7 +572,10 @@ watchEffect(() => {
   )
 })
 
-const accentPalettes: Record<string, Record<string, string>> = {
+type ShadeMap = Record<string, string>
+type PaletteEntry = ShadeMap | { dark: ShadeMap; light: ShadeMap }
+
+const accentPalettes: Record<string, PaletteEntry> = {
   ayanami: {
     400: 'oklch(0.722 0.105 247.48)',
     500: 'oklch(0.626 0.098 247.46)',
@@ -616,11 +619,20 @@ const accentPalettes: Record<string, Record<string, string>> = {
     800: 'oklch(0.461 0.176 28.95)',
   },
   fubuki: {
-    400: 'oklch(0.82 0 0)',
-    500: 'oklch(0.72 0 0)',
-    600: 'oklch(0.62 0 0)',
-    700: 'oklch(0.52 0 0)',
-    800: 'oklch(0.42 0 0)',
+    dark: {
+      400: 'oklch(0.82 0 0)',
+      500: 'oklch(0.72 0 0)',
+      600: 'oklch(0.62 0 0)',
+      700: 'oklch(0.52 0 0)',
+      800: 'oklch(0.42 0 0)',
+    },
+    light: {
+      400: 'oklch(0.58 0 0)',
+      500: 'oklch(0.48 0 0)',
+      600: 'oklch(0.38 0 0)',
+      700: 'oklch(0.28 0 0)',
+      800: 'oklch(0.18 0 0)',
+    },
   },
 }
 
@@ -628,7 +640,10 @@ const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
 
 watchEffect(() => {
   if (import.meta.env.SSR) return
-  const shades = accentPalettes[accentColor.value] ?? accentPalettes.ayanami
+  const palette = accentPalettes[accentColor.value] ?? accentPalettes.ayanami
+  const shades = 'dark' in palette
+    ? (isDark.value ? palette.dark : palette.light)
+    : palette
   const el = document.documentElement
   if (isDark.value) {
     el.style.setProperty('--vp-c-brand-1', shades['400'])

@@ -1,8 +1,11 @@
 <script setup lang="ts">
+import { useData } from 'vitepress'
 import { useStorage } from '@vueuse/core'
 
 import { AccentColorStorageKey } from '../../constants'
 import MenuTitle from './MenuTitle.vue'
+
+const { isDark } = useData()
 
 const accentOptions = [
   {
@@ -39,8 +42,9 @@ const accentOptions = [
     key: 'fubuki',
     label: 'Fubuki',
     shades: ['oklch(0.82 0 0)', 'oklch(0.72 0 0)', 'oklch(0.62 0 0)', 'oklch(0.52 0 0)', 'oklch(0.42 0 0)'],
+    lightShades: ['oklch(0.58 0 0)', 'oklch(0.48 0 0)', 'oklch(0.38 0 0)', 'oklch(0.28 0 0)', 'oklch(0.18 0 0)'],
   },
-] as const
+]
 
 const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
 </script>
@@ -65,7 +69,7 @@ const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
         <span class="accent-label">{{ option.label }}</span>
         <span class="accent-shades">
           <span
-            v-for="(shade, i) in option.shades"
+            v-for="(shade, i) in ('lightShades' in option && !isDark ? option.lightShades : option.shades)"
             :key="i"
             class="accent-shade"
             :style="{ backgroundColor: shade }"
