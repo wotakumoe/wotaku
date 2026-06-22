@@ -13,27 +13,27 @@ const accentOptions = [
   {
     key: 'asuka',
     label: 'Asuka',
-    shades: ['#FB7F6E', '#F35640', '#E2432D', '#BD2C18', '#9C2818'],
+    shades: ['oklch(0.734 0.155 29.34)', 'oklch(0.662 0.196 30.82)', 'oklch(0.612 0.199 31.08)', 'oklch(0.524 0.184 31.19)', 'oklch(0.460 0.155 31.14)'],
   },
   {
     key: 'rebecca',
     label: 'Rebecca',
-    shades: ['#41E799', '#18CF7A', '#0DAC62', '#0E874F', '#116A42'],
+    shades: ['oklch(0.826 0.174 157.87)', 'oklch(0.752 0.181 155.18)', 'oklch(0.655 0.161 154.58)', 'oklch(0.549 0.131 155.60)', 'oklch(0.464 0.103 157.69)'],
   },
   {
     key: 'inanis',
     label: "Ina'nis",
-    shades: ['#BAA7D9', '#9E84C8', '#8768B5', '#71549C', '#604881'],
+    shades: ['oklch(0.762 0.073 302.02)', 'oklch(0.663 0.102 301.22)', 'oklch(0.580 0.119 301.34)', 'oklch(0.508 0.114 301.00)', 'oklch(0.452 0.094 302.20)'],
   },
   {
     key: 'baelz',
     label: 'Baelz',
-    shades: ['#FF6B65', '#FE3D35', '#EC1E15', '#C7160E', '#A41610'],
+    shades: ['oklch(0.711 0.182 25.11)', 'oklch(0.655 0.229 27.98)', 'oklch(0.601 0.234 29.19)', 'oklch(0.528 0.207 29.27)', 'oklch(0.461 0.176 28.95)'],
   },
   {
     key: 'irys',
     label: 'IRyS',
-    shades: ['#FF6793', '#FF3273', '#E10E5B', '#CA0652', '#A9084C'],
+    shades: ['oklch(0.716 0.188 5.18)', 'oklch(0.659 0.237 8.99)', 'oklch(0.584 0.229 10.32)', 'oklch(0.538 0.213 9.67)', 'oklch(0.475 0.187 5.94)'],
   },
   {
     key: 'fubuki',
