@@ -19,9 +19,9 @@ const accentOptions = [
     shades: ['oklch(0.734 0.155 29.34)', 'oklch(0.662 0.196 30.82)', 'oklch(0.612 0.199 31.08)', 'oklch(0.524 0.184 31.19)', 'oklch(0.460 0.155 31.14)'],
   },
   {
-    key: 'rebecca',
-    label: 'Rebecca',
-    shades: ['oklch(0.826 0.174 157.87)', 'oklch(0.752 0.181 155.18)', 'oklch(0.655 0.161 154.58)', 'oklch(0.549 0.131 155.60)', 'oklch(0.464 0.103 157.69)'],
+    key: 'miku',
+    label: 'Miku',
+    shades: ['oklch(0.788 0.133 184.43)', 'oklch(0.711 0.123 185.28)', 'oklch(0.607 0.104 187.31)', 'oklch(0.515 0.086 189.60)', 'oklch(0.441 0.071 190.95)'],
   },
   {
     key: 'inanis',
