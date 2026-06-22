@@ -49,7 +49,7 @@ const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
   <div>
     <MenuTitle title="Accent Color" aria-label="Accent Color" mb-2>
       <template #icon>
-        <span i-lucide:palette mr-1 aria-hidden="true" />
+        <span i-lucide:swatch-book mr-1 aria-hidden="true" />
       </template>
     </MenuTitle>
     <div class="accent-list">
