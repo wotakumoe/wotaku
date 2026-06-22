@@ -107,7 +107,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Service |
 |-|-|
-| [Antra](https://antra.hoshi.cfd/) [:src:](https://github.com/anandprtp/Antra) | Multiple |
+| [Antra](https://antra.hoshi.cfd/) :acc: [:src:](https://github.com/anandprtp/Antra) | Multiple |
 | [DoubleDouble](https://doubledouble.top/) | ^^ |
 | [Lucida](https://lucida.to/) | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
