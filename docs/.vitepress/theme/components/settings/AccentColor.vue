@@ -35,6 +35,11 @@ const accentOptions = [
     label: 'IRyS',
     shades: ['#FF6793', '#FF3273', '#E10E5B', '#CA0652', '#A9084C'],
   },
+  {
+    key: 'fubuki',
+    label: 'Fubuki',
+    shades: ['oklch(0.82 0 0)', 'oklch(0.72 0 0)', 'oklch(0.62 0 0)', 'oklch(0.52 0 0)', 'oklch(0.42 0 0)'],
+  },
 ] as const
 
 const accentColor = useStorage(AccentColorStorageKey, 'ayanami')

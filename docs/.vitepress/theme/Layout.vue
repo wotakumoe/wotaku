@@ -615,6 +615,13 @@ const accentPalettes: Record<string, Record<string, string>> = {
     700: '#C7160E',
     800: '#A41610',
   },
+  fubuki: {
+    400: 'oklch(0.82 0 0)',
+    500: 'oklch(0.72 0 0)',
+    600: 'oklch(0.62 0 0)',
+    700: 'oklch(0.52 0 0)',
+    800: 'oklch(0.42 0 0)',
+  },
 }
 
 const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
