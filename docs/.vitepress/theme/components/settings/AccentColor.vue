@@ -29,6 +29,11 @@ const accentOptions = [
     shades: ['oklch(0.762 0.073 302.02)', 'oklch(0.663 0.102 301.22)', 'oklch(0.580 0.119 301.34)', 'oklch(0.508 0.114 301.00)', 'oklch(0.452 0.094 302.20)'],
   },
   {
+    key: 'watson',
+    label: 'Watson',
+    shades: ['oklch(0.800 0.085 75.49)', 'oklch(0.710 0.090 72.47)', 'oklch(0.594 0.085 69.07)', 'oklch(0.496 0.078 72.12)', 'oklch(0.391 0.062 68.86)'],
+  },
+  {
     key: 'baelz',
     label: 'Baelz',
     shades: ['oklch(0.711 0.182 25.11)', 'oklch(0.655 0.229 27.98)', 'oklch(0.601 0.234 29.19)', 'oklch(0.528 0.207 29.27)', 'oklch(0.461 0.176 28.95)'],
@@ -37,6 +42,11 @@ const accentOptions = [
     key: 'irys',
     label: 'IRyS',
     shades: ['oklch(0.716 0.188 5.18)', 'oklch(0.659 0.237 8.99)', 'oklch(0.584 0.229 10.32)', 'oklch(0.538 0.213 9.67)', 'oklch(0.475 0.187 5.94)'],
+  },
+  {
+    key: 'suisei',
+    label: 'Suisei',
+    shades: ['oklch(0.827 0.096 224.60)', 'oklch(0.740 0.119 230.91)', 'oklch(0.645 0.127 236.29)', 'oklch(0.548 0.120 241.26)', 'oklch(0.451 0.106 244.63)'],
   },
   {
     key: 'fubuki',
