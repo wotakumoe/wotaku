@@ -99,8 +99,9 @@ outline: 2
 <collapsible title="Fan projects">
 
 - [Kineko Video](https://nyaa.si/?f=0&c=0_0&q=Kineko+Video) ||General||
-- [Sephirotic](https://nyaa.si/user/sephirotic) ||Evangelion||
+- [MovieMTBB](https://nyaa.si/?f=0&c=0_0&q=MovieMTBB) ||Monogatari||
 - [Seed of Might](https://nyaa.si/user/iKaos) ||Dragon Ball||
+- [Sephirotic](https://nyaa.si/user/sephirotic) ||Evangelion||
 
 </collapsible>
 
