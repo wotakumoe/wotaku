@@ -36,7 +36,7 @@ const accentOptions = [
   {
     key: 'baelz',
     label: 'Baelz',
-    shades: ['oklch(0.711 0.230 22.00)', 'oklch(0.655 0.275 22.00)', 'oklch(0.601 0.278 22.00)', 'oklch(0.528 0.252 22.00)', 'oklch(0.461 0.215 22.00)'],
+    shades: ['oklch(0.720 0.215 22.00)', 'oklch(0.640 0.255 22.00)', 'oklch(0.555 0.268 22.00)', 'oklch(0.472 0.248 22.00)', 'oklch(0.395 0.208 22.00)'],
   },
   {
     key: 'irys',
