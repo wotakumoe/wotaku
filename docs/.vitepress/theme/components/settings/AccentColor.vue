@@ -31,9 +31,14 @@ const accentOptions = [
     shades: ['#A39AC0', '#8F81B0', '#816FA1', '#776392', '#645479'],
   },
   {
-    key: 'raora',
-    label: 'Raora',
-    shades: ['#FB6BA9', '#F44088', '#D91A5D', '#C6104B', '#A4103E'],
+    key: 'baelz',
+    label: 'Baelz',
+    shades: ['#FF6B65', '#FE3D35', '#EC1E15', '#C7160E', '#A41610'],
+  },
+  {
+    key: 'irys',
+    label: 'IRyS',
+    shades: ['#FF6793', '#FF3273', '#E10E5B', '#CA0652', '#A9084C'],
   },
 ] as const
 

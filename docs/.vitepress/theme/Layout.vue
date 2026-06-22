@@ -587,12 +587,12 @@ const accentPalettes: Record<string, Record<string, string>> = {
     700: '#BD2C18',
     800: '#9C2818',
   },
-  raora: {
-    400: '#FB6BA9',
-    500: '#F44088',
-    600: '#D91A5D',
-    700: '#C6104B',
-    800: '#A4103E',
+  irys: {
+    400: '#FF6793',
+    500: '#FF3273',
+    600: '#E10E5B',
+    700: '#CA0652',
+    800: '#A9084C',
   },
   rebecca: {
     400: '#41E799',
@@ -614,6 +614,13 @@ const accentPalettes: Record<string, Record<string, string>> = {
     600: '#816FA1',
     700: '#766392',
     800: '#645479',
+  },
+  baelz: {
+    400: '#FF6B65',
+    500: '#FE3D35',
+    600: '#EC1E15',
+    700: '#C7160E',
+    800: '#A41610',
   },
 }
 

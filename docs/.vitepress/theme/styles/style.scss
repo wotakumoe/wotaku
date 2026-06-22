@@ -325,7 +325,7 @@ main figure figcaption {
 }
 
 :root:not(.dark) .details.custom-block a {
-  color: var(--vp-custom-block-info-text);
+  color: var(--vp-c-brand-2);
   font-weight: 500;
   text-decoration: underline;
   text-underline-offset: 2px;
@@ -336,7 +336,7 @@ main figure figcaption {
 
 :root:not(.dark) .details.custom-block a:hover {
   opacity: 0.7;
-  color: var(--vp-custom-block-info-text-deep);
+  color: var(--vp-c-brand-1);
 }
 
 .info.custom-block a {
