@@ -1891,3 +1891,14 @@ html:not(.dark) .nolebase-ui-input-horizontal-option {
   --nolebase-ui-input-horizontal-option-active-text: var(--vp-c-bg-elv);
   --nolebase-ui-input-horizontal-option-shadow-color: #53535366;
 }
+
+/* Hide the default VitePress mobile appearance toggle and social links — we render them ourselves in ScreenMenu */
+#VPNavScreen .VPNavScreenAppearance,
+#VPNavScreen .VPNavScreenSocialLinks {
+  display: none;
+}
+
+.screen-menu-social-links {
+  padding-top: 8px;
+  border-top: 1px solid var(--vp-c-divider);
+}
