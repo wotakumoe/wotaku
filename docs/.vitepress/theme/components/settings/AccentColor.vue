@@ -41,8 +41,8 @@ const accentOptions = [
   {
     key: 'fubuki',
     label: 'Fubuki',
-    shades: ['oklch(0.82 0 0)', 'oklch(0.72 0 0)', 'oklch(0.62 0 0)', 'oklch(0.52 0 0)', 'oklch(0.42 0 0)'],
-    lightShades: ['oklch(0.58 0 0)', 'oklch(0.48 0 0)', 'oklch(0.38 0 0)', 'oklch(0.28 0 0)', 'oklch(0.18 0 0)'],
+    shades: ['oklch(0.88 0 0)', 'oklch(0.78 0 0)', 'oklch(0.68 0 0)', 'oklch(0.58 0 0)', 'oklch(0.48 0 0)'],
+    lightShades: ['oklch(0.52 0 0)', 'oklch(0.42 0 0)', 'oklch(0.32 0 0)', 'oklch(0.22 0 0)', 'oklch(0.12 0 0)'],
   },
 ]
 
