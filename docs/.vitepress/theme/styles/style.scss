@@ -528,7 +528,7 @@ table tr:nth-child(odd) {
 .info.custom-block table tr,
 .info.custom-block table td,
 .info.custom-block table th {
-  border-color: theme("colors.brand.800") !important;
+  border-color: var(--vp-c-brand-3) !important;
 }
 
 .warning.custom-block table tr,
@@ -546,7 +546,7 @@ table tr:nth-child(odd) {
 .details.custom-block table:not(.scrape-table) tr,
 .details.custom-block table:not(.scrape-table) td,
 .details.custom-block table:not(.scrape-table) th {
-  border-color: theme("colors.brand.800") !important;
+  border-color: var(--vp-c-brand-3) !important;
 }
 
 /** fix for nolebase-git-changelog */
