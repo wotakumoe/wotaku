@@ -16,7 +16,7 @@ const accentOptions = [
   {
     key: 'asuka',
     label: 'Asuka',
-    shades: ['oklch(0.734 0.155 29.34)', 'oklch(0.662 0.196 30.82)', 'oklch(0.612 0.199 31.08)', 'oklch(0.524 0.184 31.19)', 'oklch(0.460 0.155 31.14)'],
+    shades: ['oklch(0.740 0.210 32)', 'oklch(0.650 0.240 30)', 'oklch(0.555 0.238 28)', 'oklch(0.455 0.205 26)', 'oklch(0.370 0.165 24)'],
   },
   {
     key: 'miku',
