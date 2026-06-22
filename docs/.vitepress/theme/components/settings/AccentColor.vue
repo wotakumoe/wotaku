@@ -21,14 +21,9 @@ const accentOptions = [
     shades: ['#41E799', '#18CF7A', '#0DAC62', '#0E874F', '#116A42'],
   },
   {
-    key: 'okayu',
-    label: 'Okayu',
-    shades: ['#CDA4D5', '#BC87C5', '#A86BB2', '#915799', '#794A7F'],
-  },
-  {
     key: 'inanis',
     label: "Ina'nis",
-    shades: ['#A39AC0', '#8F81B0', '#816FA1', '#776392', '#645479'],
+    shades: ['#BAA7D9', '#9E84C8', '#8768B5', '#71549C', '#604881'],
   },
   {
     key: 'baelz',
