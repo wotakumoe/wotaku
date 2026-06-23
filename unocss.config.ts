@@ -17,6 +17,41 @@ import {
   presetWind4,
   transformerDirectives
 } from 'unocss'
+import { aliases } from './docs/.vitepress/configs/markdown/emoji'
+
+const iconPrefixes = [
+  'octicon-',
+  'logos-',
+  'ic-',
+  'mingcute-',
+  'mdi-',
+  'material-symbols-',
+  'simple-icons-',
+  'lucide-',
+  'uil-',
+  'akar-icons-',
+  'map-',
+  'bi-',
+  'streamline-logos-',
+  'streamline-ultimate-',
+  'streamline-sharp-',
+  'iconoir-'
+]
+
+const emojiShortcodeExtractor = {
+  name: 'emoji-shortcode',
+  extract({ code }: { code: string }) {
+    const tokens = new Set<string>()
+    for (const [, markup] of code.matchAll(/:([A-Za-z0-9_+-]+):/g)) {
+      if (aliases[markup]) {
+        tokens.add(`i-${aliases[markup]}`)
+      } else if (iconPrefixes.some((p) => markup.startsWith(p))) {
+        tokens.add(`i-${markup}`)
+      }
+    }
+    return tokens
+  }
+}
 
 // Custom icons collection
 const customIcons = {
@@ -44,8 +79,9 @@ const safelist = [
 
 export default defineConfig({
   content: {
-    filesystem: ['.vitepress/configs/constants.ts']
+    filesystem: ['.vitepress/configs/constants.ts', 'docs/index.md']
   },
+  extractors: [emojiShortcodeExtractor],
   safelist,
   theme: {
     easing: {

@@ -7,6 +7,160 @@
  */
 import type { DefaultTheme } from 'vitepress'
 
+export interface HomeCard {
+  id: string
+  icon: string
+  title: string
+  details: string
+  link: string
+  featured?: boolean
+}
+
+// @unocss-include
+export const homeCards: HomeCard[] = [
+  {
+    id: 'websites',
+    icon: ':lucide-earth:',
+    title: 'Websites',
+    details: 'Websites for anime, manga, novels & tokusatsu',
+    link: '/websites',
+    featured: true
+  },
+  {
+    id: 'software',
+    icon: ':lucide-box:',
+    title: 'Software',
+    details: 'Software for every Operating System',
+    link: '/software',
+    featured: true
+  },
+  {
+    id: 'misc',
+    icon: ':lucide-folder-open:',
+    title: 'Misc-sites',
+    details: 'Various sites for database, info, tracking news & tools',
+    link: '/misc',
+    featured: true
+  },
+  {
+    id: 'tools',
+    icon: ':lucide-wrench:',
+    title: 'Tools',
+    details: 'Software to make life easier',
+    link: '/tools'
+  },
+  {
+    id: 'art',
+    icon: ':lucide-brush:',
+    title: 'Art',
+    details: 'Everything Art',
+    link: '/art'
+  },
+  {
+    id: 'music',
+    icon: ':lucide-music:',
+    title: 'Music',
+    details: 'Wotaku Music Megathread!',
+    link: '/music'
+  },
+  {
+    id: 'games',
+    icon: ':lucide-gamepad-2:',
+    title: 'Games',
+    details: 'Wotaku Games Megathread!',
+    link: '/games'
+  },
+  {
+    id: 'nonen',
+    icon: ':lucide-map:',
+    title: 'Non-English',
+    details: 'Otaku resources for other regions',
+    link: '/nonen'
+  },
+  {
+    id: 'nsfw',
+    icon: ':lucide-ban:',
+    title: 'NSFW',
+    details: 'hen...',
+    link: '/nsfw',
+    featured: true
+  },
+  {
+    id: 'merch',
+    icon: ':lucide-package-2:',
+    title: 'Merch',
+    details: 'Everything merch related!',
+    link: '/merch'
+  },
+  {
+    id: 'vtuber',
+    icon: ':comet:',
+    title: 'VTuber',
+    details: 'Sui-chan wa~',
+    link: '/vtuber'
+  },
+  {
+    id: 'ext',
+    icon: ':lucide-puzzle:',
+    title: 'Extensions',
+    details: 'Extensions for everything',
+    link: '/ext',
+    featured: true
+  },
+  {
+    id: 'guides',
+    icon: ':lucide-book-key:',
+    title: 'Guides',
+    details: 'Various technical guides and tutorials',
+    link: '/guides',
+    featured: true
+  },
+  {
+    id: 'glossary',
+    icon: ':lucide-book-open:',
+    title: 'Glossary',
+    details: 'Learn the most frequently used otaku terms',
+    link: '/glossary',
+    featured: true
+  },
+  {
+    id: 'torrenting',
+    icon: ':lucide-magnet:',
+    title: 'Torrenting',
+    details: 'All the basic how-tos about torrenting',
+    link: '/torrenting',
+    featured: true
+  },
+  {
+    id: 'japan',
+    icon: ':uil-letter-japanese-a:',
+    title: 'Japan',
+    details: 'Everything Japan on one page!',
+    link: '/japan'
+  },
+  {
+    id: 'faq',
+    icon: ':lucide-message-circle-question-mark:',
+    title: 'FAQs',
+    details: 'Frequently asked questions about manga and anime',
+    link: '/faq'
+  },
+  {
+    id: 'comms',
+    icon: ':lucide-messages-square:',
+    title: 'Communities',
+    details: 'More great otaku communities!',
+    link: '/comms'
+  },
+  {
+    id: 'credits',
+    icon: ':lucide-heart-handshake:',
+    title: 'Credits',
+    details: 'All the contributors of Wotaku',
+    link: '/credits'
+  }
+]
+
 export const hostname: string = 'https://wotaku.wiki'
 export const excludedFiles = ['t.md', 'sandbox.md']
 
