@@ -373,8 +373,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](https://echomusicdocs.vercel.app/docs/echo) ==echo== |
 | ^^         | [Revanced](https://revanced.app/) :and: [:src:](https://github.com/revanced) |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
-| **YouTube** | [Harmony Music](https://github.com/anandnet/Harmony-Music) :and: |
-| ^^         | [Innertune](https://github.com/z-huang/InnerTune) :and: |
+| **YouTube** | [Innertune](https://github.com/z-huang/InnerTune) :and: |
 | ^^         | [Metrolist](https://metrolist.meowery.eu/) :and: [:src:](https://github.com/mostafaalagamy/metrolist) |
 | ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
