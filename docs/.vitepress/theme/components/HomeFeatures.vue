@@ -131,6 +131,27 @@ function resetDefaults() {
   save()
 }
 
+const cardTooltip = ref<{ text: string; x: number; y: number } | null>(null)
+
+function showCardTooltip(e: MouseEvent, title: string) {
+  const rect = (e.currentTarget as HTMLElement).getBoundingClientRect()
+  cardTooltip.value = { text: title, x: rect.left + rect.width / 2, y: rect.top }
+}
+
+function hideCardTooltip() {
+  cardTooltip.value = null
+}
+
+const panelSections = computed(() => {
+  const map = new Map<string, typeof panelCards.value>()
+  for (const card of panelCards.value) {
+    const s = card.section ?? 'Pages'
+    if (!map.has(s)) map.set(s, [])
+    map.get(s)!.push(card)
+  }
+  return Array.from(map.entries()).map(([label, cards]) => ({ label, cards }))
+})
+
 /* ── Drag-to-reorder (pointer events — works on mouse & touch) ── */
 const dragging = ref<string | null>(null)
 const dragTarget = ref<string | null>(null)
@@ -221,39 +242,46 @@ function onHandlePointerUp() {
               </button>
             </div>
 
-            <ul ref="cardListEl" class="card-list" :class="grid">
-              <li
-                v-for="card in panelCards"
-                :key="card.id"
-                :data-card-id="card.id"
-                class="card-row"
-                :class="{
-                  'is-dragging': dragging === card.id,
-                  'is-over': dragTarget === card.id && dragging !== card.id,
-                  'is-hidden': hiddenSet.has(card.id)
-                }"
-              >
-                <span
-                  class="row-handle"
-                  aria-hidden="true"
-                  @pointerdown="onHandlePointerDown($event, card.id)"
-                  @pointermove="onHandlePointerMove"
-                  @pointerup="onHandlePointerUp"
-                >
-                  <span class="i-lucide-grip-vertical" />
-                </span>
-                <span class="row-icon" v-html="cardIcon(card)" />
-                <span class="row-name">{{ card.title }}</span>
-                <button
-                  class="row-toggle"
-                  :class="{ active: !hiddenSet.has(card.id) }"
-                  :aria-label="hiddenSet.has(card.id) ? 'Show' : 'Hide'"
-                  @click="toggleCard(card.id)"
-                >
-                  <span :class="hiddenSet.has(card.id) ? 'i-lucide-eye-off' : 'i-lucide-eye'" />
-                </button>
-              </li>
-            </ul>
+            <div ref="cardListEl" class="card-sections">
+              <template v-for="section in panelSections" :key="section.label">
+                <div v-if="panelSections.length > 1" class="section-label">{{ section.label }}</div>
+                <ul class="card-list" :class="grid">
+                  <li
+                    v-for="card in section.cards"
+                    :key="card.id"
+                    :data-card-id="card.id"
+                    class="card-row"
+                    @mouseenter="showCardTooltip($event, card.title)"
+                    @mouseleave="hideCardTooltip"
+                    :class="{
+                      'is-dragging': dragging === card.id,
+                      'is-over': dragTarget === card.id && dragging !== card.id,
+                      'is-hidden': hiddenSet.has(card.id)
+                    }"
+                  >
+                    <span
+                      class="row-handle"
+                      aria-hidden="true"
+                      @pointerdown="onHandlePointerDown($event, card.id)"
+                      @pointermove="onHandlePointerMove"
+                      @pointerup="onHandlePointerUp"
+                    >
+                      <span class="i-lucide-grip-vertical" />
+                    </span>
+                    <span class="row-icon" v-html="cardIcon(card)" />
+                    <span class="row-name">{{ card.title }}</span>
+                    <button
+                      class="row-toggle"
+                      :class="{ active: !hiddenSet.has(card.id) }"
+                      :aria-label="hiddenSet.has(card.id) ? 'Show' : 'Hide'"
+                      @click="toggleCard(card.id)"
+                    >
+                      <span :class="hiddenSet.has(card.id) ? 'i-lucide-eye-off' : 'i-lucide-eye'" />
+                    </button>
+                  </li>
+                </ul>
+              </template>
+            </div>
 
             <div class="panel-foot">
               <div class="foot-group">
@@ -309,6 +337,12 @@ function onHandlePointerUp() {
         </Transition>
       </div>
     </Transition>
+
+    <div
+      v-if="cardTooltip"
+      class="card-tooltip"
+      :style="{ left: cardTooltip.x + 'px', top: cardTooltip.y + 'px' }"
+    >{{ cardTooltip.text }}</div>
 
     <Transition name="ghost-fade">
       <div
@@ -571,15 +605,35 @@ function onHandlePointerUp() {
 }
 
 /* ── Card List ── */
+.card-sections {
+  overflow-y: auto;
+  min-height: 0;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.section-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--vp-c-text-3, var(--vp-c-text-2));
+  padding: 8px 10px 2px;
+}
+
+.section-label:first-child {
+  padding-top: 2px;
+}
+
 .card-list {
   list-style: none;
   margin: 0;
-  padding: 8px;
+  padding: 0;
   display: grid;
   grid-template-columns: 1fr;
   gap: 2px;
-  overflow-y: auto;
-  min-height: 0;
 }
 
 @media (min-width: 640px) {
@@ -605,10 +659,25 @@ function onHandlePointerUp() {
   border-radius: 8px;
   transition: background 0.15s, opacity 0.15s;
   user-select: none;
+  min-width: 0;
 }
 
 .card-row:hover {
   background: var(--vp-c-bg-soft);
+}
+
+.card-tooltip {
+  position: fixed;
+  z-index: 9999;
+  transform: translate(-50%, calc(-100% - 6px));
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 5px;
+  padding: 3px 8px;
+  font-size: 11px;
+  white-space: nowrap;
+  pointer-events: none;
 }
 
 .card-row.is-dragging {
@@ -653,6 +722,10 @@ function onHandlePointerUp() {
   font-size: 14px;
   font-weight: 500;
   color: var(--vp-c-text-1);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  min-width: 0;
 }
 
 .row-toggle {

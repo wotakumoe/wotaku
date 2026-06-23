@@ -14,6 +14,7 @@ export interface HomeCard {
   details: string
   link: string
   featured?: boolean
+  section?: string
 }
 
 // @unocss-include
@@ -158,6 +159,198 @@ export const homeCards: HomeCard[] = [
     title: 'Credits',
     details: 'All the contributors of Wotaku',
     link: '/credits'
+  },
+  {
+    id: 'ext-mihon',
+    icon: ':lucide-puzzle:',
+    title: 'Mihon & Aniyomi',
+    details: 'Mihon & Aniyomi-based extension repos',
+    link: '/ext/mihon',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-mangayomi',
+    icon: ':lucide-puzzle:',
+    title: 'Mangayomi',
+    details: 'Mangayomi-based extension repos',
+    link: '/ext/mangayomi',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-ios',
+    icon: ':lucide-puzzle:',
+    title: 'iOS Extensions',
+    details: 'iOS anime and manga repos',
+    link: '/ext/ios',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-misc',
+    icon: ':lucide-puzzle:',
+    title: 'Misc Extensions',
+    details: 'Extension repos for other apps',
+    link: '/ext/misc',
+    section: 'Extensions'
+  },
+  {
+    id: 'glossary-general',
+    icon: ':lucide-book-open:',
+    title: 'General Glossary',
+    details: 'Basic otaku-related terms',
+    link: '/glossary/general',
+    section: 'Glossary'
+  },
+  {
+    id: 'glossary-anime',
+    icon: ':lucide-book-open:',
+    title: 'Anime Glossary',
+    details: 'Season, release and production terms',
+    link: '/glossary/anime',
+    section: 'Glossary'
+  },
+  {
+    id: 'glossary-manga',
+    icon: ':lucide-book-open:',
+    title: 'Manga Glossary',
+    details: 'Panel, release and scanlation terms',
+    link: '/glossary/manga',
+    section: 'Glossary'
+  },
+  {
+    id: 'glossary-audio',
+    icon: ':lucide-book-open:',
+    title: 'Audio Glossary',
+    details: 'Audio files, software and hardware terms',
+    link: '/glossary/audio',
+    section: 'Glossary'
+  },
+  {
+    id: 'glossary-nsfw',
+    icon: ':lucide-book-open:',
+    title: 'NSFW Glossary',
+    details: 'Things Jesus wouldn\'t want you to know',
+    link: '/glossary/nsfw',
+    section: 'Glossary'
+  },
+  {
+    id: 'guides-discrip',
+    icon: ':lucide-book-key:',
+    title: 'Disc Ripping',
+    details: 'Guide on how to rip Discs and conversions to MKV and ISO formats',
+    link: '/guides/anime/discrip',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-cubari',
+    icon: ':lucide-book-key:',
+    title: 'Cubari Guide',
+    details: 'How to proxy comics through Cubari.moe',
+    link: '/guides/manga/cubari',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-comicinfo',
+    icon: ':lucide-book-key:',
+    title: 'Digital Comic Info',
+    details: 'Information about digital comic publishers & resolutions',
+    link: '/guides/manga/comicinfo',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-mdl',
+    icon: ':lucide-book-key:',
+    title: 'Downloading Manga',
+    details: 'How to download manga on PC',
+    link: '/guides/manga/mdl',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-jxl',
+    icon: ':lucide-book-key:',
+    title: 'JXL Manga Readers',
+    details: 'Manga readers with JPEG XL / JXL support for Android, iOS & PC',
+    link: '/guides/manga/jxl',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-madokami',
+    icon: ':lucide-book-key:',
+    title: 'Madokami Guide',
+    details: 'The joining and downloading guide for Madokami',
+    link: '/guides/manga/madokami',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-imagedit',
+    icon: ':lucide-book-key:',
+    title: 'Manga Image Editing',
+    details: 'ImageMagick guide for grayscaling, leveling, and optimizing',
+    link: '/guides/manga/imagedit',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-opds',
+    icon: ':lucide-book-key:',
+    title: 'OPDS E-reader',
+    details: 'How to self-host your library to your Kindle',
+    link: '/guides/manga/opds',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-transcoding',
+    icon: ':lucide-book-key:',
+    title: 'Transcoding Audio',
+    details: 'Basic guide for transcoding audio files',
+    link: '/guides/music/transcoding',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-adblock',
+    icon: ':lucide-book-key:',
+    title: 'Adblocking & Privacy',
+    details: 'Adblocking solutions for every device & VPN listing',
+    link: '/guides/tech/adblock',
+    section: 'Guides'
+  },
+  {
+    id: 'guides-jdl',
+    icon: ':lucide-book-key:',
+    title: 'JDL2 Ad-Removal',
+    details: 'Remove banner & pop-up ads from JDownloader2',
+    link: '/guides/tech/jdl',
+    section: 'Guides'
+  },
+  {
+    id: 'japan-language',
+    icon: ':uil-letter-japanese-a:',
+    title: 'Learning Japanese',
+    details: 'Japanese language learning resources',
+    link: '/japan/language',
+    section: 'Japan'
+  },
+  {
+    id: 'japan-immersion',
+    icon: ':uil-letter-japanese-a:',
+    title: 'Immersion',
+    details: 'Media to help you learn Japanese',
+    link: '/japan/immersion',
+    section: 'Japan'
+  },
+  {
+    id: 'japan-software',
+    icon: ':uil-letter-japanese-a:',
+    title: 'Japan Software',
+    details: 'Software to help you learn Japanese',
+    link: '/japan/software',
+    section: 'Japan'
+  },
+  {
+    id: 'japan-culture',
+    icon: ':uil-letter-japanese-a:',
+    title: 'Culture',
+    details: 'Learn all about Japanese culture, history & customs',
+    link: '/japan/culture',
+    section: 'Japan'
   }
 ]
 
