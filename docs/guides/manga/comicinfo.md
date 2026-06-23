@@ -29,10 +29,10 @@ Information about various types of publishers for manga and manhwa. Image qualit
 
 1. **PSA:** Kodansha, Seven Seas, Dark Horse and other previously-actual-HD suppliers of books have stopped uploading HD books on Amazon starting in 2024-07. If the book says it's Kindle Edition (instead of Kindle & Comixology), it's not HD (do cross-check with the listed filesize). Additionally, even if the book says Kindle & Comixology it can be upscaled still (see: Titan Comics' Speed Grapher v01). Post 2024-07 books are therefore generally recommended to be bought elsewhere.<br/>
 Original: ~~Blurry downscales for anything that would be above that on other platforms.~~ As of December 5th 2023, Kindle now offers HD on their mobile app (at or above 320dpi and some resolution threshold). Web is likely limited to x1920 (unconfirmed as of December 7th 2023).
-2. Only Kodansha offer an extensive manga catalog, making NI the go-to for Kodansha and Kodansha only as of April 9th 2026.
+2. Only Kodansha offers an extensive manga catalog, making NI the go-to for Kodansha and Kodansha only as of April 9th 2026.
 3. The main two publishers with a big lineup on GlobalComix are Kodansha and Seven Seas.
 4. They have switched to LCP protection. There are public tools to decrypt them. 
-5. Unless they have exclusives or discounts, as other platforms are easier
+5. Unless they have exclusives or discounts, as other platforms are easier.
 
 </collapsible>
 
@@ -64,7 +64,7 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 <collapsible title="Note">
 
 1. Ablaze doesn't seem to sell manga on Humble yet (it does sell comic bundles), therefore Amazon Kindle or Apple Books are the go-to source.
-2. Dark Horse have shut down their digital store on February 24th 2025. Highest quality is technically on Neon Ichiban or GlobalComix, but the manga lineup on those platforms is really slim, making Amazon Kindle actually the best and easiest source.
+2. Dark Horse has shut down the digital store on February 24th 2025. Highest quality is technically on Neon Ichiban or GlobalComix, but the manga lineup on those platforms is really slim, making Amazon Kindle actually the best and easiest source.
 3. ~~Their store has a broken download issue with no ETA for a fix.~~ They've fixed their store as of May 2024, but they've not updated their catalog post ~March 2023. It's recommended to use Kobo to get any of their newer books for now. Their own store is DRM-free.
 4. Humble Bundle PDF export resolution (at 600 dpi) ranges from x4200 - x4913. CMX resolution varies, older volumes were mostly between x3056 and x3684, and post-CMX Amazon HD volumes are ~x2700. Standard non-CMX/Amazon HD resolution is 1600x -> x227x - x2400 (except for their own storefront which should be avoided, as it offers the worst quality and resolution combination at x2160 q40).
 5. Both do NSFW releases on FAKKU, and anything on Fakku that isn't their unlimited chapters is x3200 more or less.
