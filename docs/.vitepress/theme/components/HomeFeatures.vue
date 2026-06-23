@@ -50,9 +50,10 @@ const orderedCards = computed(() =>
 
 const hiddenSet = computed(() => new Set(state.value.hidden))
 
-const visibleCards = computed(() =>
-  orderedCards.value.filter((c) => !hiddenSet.value.has(c.id))
-)
+const visibleCards = computed(() => {
+  const base = sortMode.value === 'default' ? props.cards : orderedCards.value
+  return base.filter((c) => !hiddenSet.value.has(c.id))
+})
 
 const grid = computed(() => {
   const n = visibleCards.value.length
@@ -72,21 +73,25 @@ function cardIcon(card: HomeCard) {
 /* ── Manager panel ── */
 const panelOpen = ref(false)
 const dropdownOpen = ref(false)
-const sortMode = ref<'default' | 'active'>('default')
+const sortMode = ref<'default' | 'user' | 'active'>('default')
 const columnMode = ref<'default' | 'max'>('default')
+const viewMode = ref<'default' | 'mini'>('default')
 
 onMounted(() => {
   try {
     const prefs = JSON.parse(localStorage.getItem(PREFS_KEY) ?? '{}')
-    if (prefs.sortMode === 'active') sortMode.value = 'active'
+    if (prefs.sortMode === 'user') sortMode.value = 'user'
+    else if (prefs.sortMode === 'active') sortMode.value = 'active'
     if (prefs.columnMode === 'max') columnMode.value = 'max'
+    if (prefs.viewMode === 'mini') viewMode.value = 'mini'
   } catch {}
 })
 
-watch([sortMode, columnMode], () => {
+watch([sortMode, columnMode, viewMode], () => {
   localStorage.setItem(PREFS_KEY, JSON.stringify({
     sortMode: sortMode.value,
-    columnMode: columnMode.value
+    columnMode: columnMode.value,
+    viewMode: viewMode.value
   }))
 })
 
@@ -96,7 +101,8 @@ const panelCards = computed(() => {
     const hidden = orderedCards.value.filter((c) => hiddenSet.value.has(c.id))
     return [...visible, ...hidden]
   }
-  return orderedCards.value
+  if (sortMode.value === 'user') return orderedCards.value
+  return props.cards
 })
 
 function toggleCard(id: string) {
@@ -156,7 +162,7 @@ function onHandlePointerMove(e: PointerEvent) {
 
 function onHandlePointerUp() {
   if (dragging.value && dragTarget.value) {
-    const order = panelCards.value.map((c) => c.id)
+    const order = [...state.value.order]
     const from = order.indexOf(dragging.value)
     const to = order.indexOf(dragTarget.value)
     if (from !== -1 && to !== -1) {
@@ -164,6 +170,7 @@ function onHandlePointerUp() {
       order.splice(to, 0, dragging.value)
       state.value.order = order
       save()
+      if (sortMode.value === 'default') sortMode.value = 'user'
     }
   }
   dragging.value = null
@@ -176,7 +183,7 @@ function onHandlePointerUp() {
   <!-- ── Feature Grid ── -->
   <div class="home-features">
     <div class="container">
-      <div class="items">
+      <div class="items" :class="{ 'view-mini': viewMode === 'mini' }">
         <div
           v-for="card in visibleCards"
           :key="card.id"
@@ -262,7 +269,15 @@ function onHandlePointerUp() {
                       <span class="dropdown-label">Sort</span>
                       <div class="dropdown-group">
                         <button class="tool-btn" :class="{ 'is-active': sortMode === 'default' }" @click="sortMode = 'default'">Default</button>
+                        <button class="tool-btn" :class="{ 'is-active': sortMode === 'user' }" @click="sortMode = 'user'">User</button>
                         <button class="tool-btn" :class="{ 'is-active': sortMode === 'active' }" @click="sortMode = 'active'">Active</button>
+                      </div>
+                    </div>
+                    <div class="dropdown-section">
+                      <span class="dropdown-label">View</span>
+                      <div class="dropdown-group">
+                        <button class="tool-btn" :class="{ 'is-active': viewMode === 'default' }" @click="viewMode = 'default'">Default</button>
+                        <button class="tool-btn" :class="{ 'is-active': viewMode === 'mini' }" @click="viewMode = 'mini'">Mini</button>
                       </div>
                     </div>
                     <div class="dropdown-section">
@@ -415,6 +430,31 @@ function onHandlePointerUp() {
   font-size: 14px;
   font-weight: 500;
   color: var(--vp-c-text-2);
+}
+
+/* ── Mini View ── */
+.view-mini .box {
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 12px;
+}
+
+.view-mini .icon {
+  width: 32px;
+  height: 32px;
+  font-size: 18px;
+  margin-bottom: 0;
+  flex-shrink: 0;
+}
+
+.view-mini .title {
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+.view-mini .details {
+  display: none;
 }
 
 /* ── Gear Button ── */
