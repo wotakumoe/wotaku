@@ -31,7 +31,7 @@ Information about various types of publishers for manga and manhwa. Image qualit
 Original: ~~Blurry downscales for anything that would be above that on other platforms.~~ As of December 5th 2023, Kindle now offers HD on their mobile app (at or above 320dpi and some resolution threshold). Web is likely limited to x1920 (unconfirmed as of December 7th 2023).
 2. Only Kodansha offer an extensive manga catalog, making NI the go-to for Kodansha and Kodansha only as of April 9th 2026.
 3. The main two publishers with a big lineup on GlobalComix are Kodansha and Seven Seas.
-4. They have switch to LCP protection. There are public tools to decrypt them. 
+4. They have switched to LCP protection. There are public tools to decrypt them. 
 5. Unless they have exclusives or discounts, as other platforms are easier
 
 </collapsible>
