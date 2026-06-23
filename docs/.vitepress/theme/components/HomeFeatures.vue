@@ -125,6 +125,9 @@ function hideAll() {
 
 function resetDefaults() {
   state.value = defaultState()
+  sortMode.value = 'default'
+  columnMode.value = 'default'
+  viewMode.value = 'default'
   save()
 }
 
