@@ -334,6 +334,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Kuramanime](https://kuramanime.red/) |
 | ^^ | [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime) |
 | ^^ | [Mynimeku](https://www.mynimeku.com/) |
+| ^^ | [NekoPoi](https://nekopoi.care/) :ero: |
 | ^^ | [Otaku Desu](https://otakudesu.cloud/) |
 | ^^ | [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/) |
 | **DDL** | [Kusonime](https://kusonime.com/) |
@@ -345,9 +346,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Komiku](https://komiku.org/)
 - [Komikcast](https://v2.komikcast.fit/)
 - [Komik Indo](https://komikindo.ch/)
-- [Shinigami ID](https://id.shinigami.asia/)
 - [Softkomik](https://softkomik.com/)
-- [Sora.ich](https://sora-ich.vercel.app/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ### Light Novels
