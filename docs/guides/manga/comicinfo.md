@@ -20,7 +20,7 @@ Information about various types of publishers for manga and manhwa. Image qualit
 | [Neon Ichiban](https://neonichiban.com/)<sup>2</sup> | High | Medium | :yes: | YES |
 | [GlobalComix](https://globalcomix.com/)<sup>3</sup>| High | Medium | :yes: | YES |
 | [Apple Books](https://www.apple.com/apple-books/) | Standard | Medium | :yes: | NO |
-| [BookWalker Global](https://bookwalker.com/) | Standard | Hard | :yes: | NO<sup>4</sup> |
+| [BookWalker Global](https://bookwalker.com/) | Standard | Easy<sup>4</sup> | :yes: | NO<sup>5</sup> |
 | [Google Play Books](https://play.google.com/books) | Standard | Very Easy | :yes: | YES |
 | [Humble Bundle](https://www.humblebundle.com/) | Highest | DRM-Free | :yes: | YES |
 | [Kobo](https://www.kobo.com/)                | Standard | Easy | :yes: | YES |
@@ -31,7 +31,8 @@ Information about various types of publishers for manga and manhwa. Image qualit
 Original: ~~Blurry downscales for anything that would be above that on other platforms.~~ As of December 5th 2023, Kindle now offers HD on their mobile app (at or above 320dpi and some resolution threshold). Web is likely limited to x1920 (unconfirmed as of December 7th 2023).
 2. Only Kodansha offer an extensive manga catalog, making NI the go-to for Kodansha and Kodansha only as of April 9th 2026.
 3. The main two publishers with a big lineup on GlobalComix are Kodansha and Seven Seas.
-4. Unless they have exclusives or discounts, as other platforms are easier
+4. They have switch to LCP protection. There are public tools to decrypt them. 
+5. Unless they have exclusives or discounts, as other platforms are easier
 
 </collapsible>
 
