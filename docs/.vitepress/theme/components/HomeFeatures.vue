@@ -53,14 +53,23 @@ const grid = computed(() => {
   return undefined
 })
 
+const KNOWN_PREFIXES = /^(lucide|mdi|ic|mingcute|material-symbols|simple-icons|uil|octicon|logos|akar-icons|map|bi|streamline-logos|streamline-ultimate|streamline-sharp|iconoir)-/
+
 function cardIcon(card: HomeCard) {
-  return card.icon.replace(/:([A-Za-z0-9_+-]+):/g, (_, markup) =>
-    `<span class="i-${markup}"></span>`)
+  return card.icon.replace(/:([A-Za-z0-9_+-]+):/g, (_, markup) => {
+    const cls = KNOWN_PREFIXES.test(markup) ? markup : `twemoji-${markup}`
+    return `<span class="i-${cls}"></span>`
+  })
 }
 
 /* ── Manager panel ── */
 const panelOpen = ref(false)
 const dropdownOpen = ref(false)
+
+watch(panelOpen, (open) => {
+  if (typeof document !== 'undefined')
+    document.body.style.overflow = open ? 'hidden' : ''
+})
 
 function loadPrefs() {
   if (typeof window === 'undefined') return { columnMode: 'default' as const, viewMode: 'default' as const }
@@ -191,6 +200,11 @@ function onHandlePointerUp() {
   <!-- ── Feature Grid ── -->
   <div class="home-features">
     <div class="container">
+      <div class="card-toolbar">
+        <button class="gear-btn" aria-label="Customize cards" @click="panelOpen = true">
+          <span class="i-lucide-ellipsis" />
+        </button>
+      </div>
       <div class="items" :class="{ 'view-mini': viewMode === 'mini' }">
         <div
           v-for="card in visibleCards"
@@ -207,9 +221,6 @@ function onHandlePointerUp() {
           </a>
         </div>
       </div>
-      <button class="gear-btn" aria-label="Customize cards" @click="panelOpen = true">
-        <span class="i-lucide-ellipsis-vertical" />
-      </button>
     </div>
   </div>
 
@@ -503,11 +514,13 @@ function onHandlePointerUp() {
 }
 
 /* ── Gear Button ── */
+.card-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 4px;
+}
+
 .gear-btn {
-  position: absolute;
-  top: 8px;
-  right: 0;
-  transform: translateX(100%);
   background: none;
   border: none;
   padding: 4px;
@@ -533,6 +546,8 @@ function onHandlePointerUp() {
   justify-content: center;
   background: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(4px);
+  overscroll-behavior: none;
+  touch-action: none;
 }
 
 /* ── Panel ── */
@@ -620,6 +635,8 @@ function onHandlePointerUp() {
   display: flex;
   flex-direction: column;
   gap: 2px;
+  touch-action: pan-y;
+  overscroll-behavior: contain;
 }
 
 .section-label {
