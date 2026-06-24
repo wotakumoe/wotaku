@@ -385,13 +385,8 @@ function onHandlePointerUp() {
   padding: 0 24px;
 }
 
-.home-features .container {
+:global(html[data-home-prefs]) .home-features:not(.is-mounted) .container {
   opacity: 0;
-  transition: opacity 0.15s ease;
-}
-
-.home-features.is-mounted .container {
-  opacity: 1;
 }
 
 @media (min-width: 640px) {

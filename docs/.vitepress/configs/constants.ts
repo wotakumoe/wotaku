@@ -548,6 +548,11 @@ export const siteConfig = {
         href: '/asset/fav.svg',
         sizes: '192x192'
       }
+    ],
+    [
+      'script',
+      {},
+      `(function(){try{if(localStorage.getItem('wotaku-home-cards-v2'))document.documentElement.setAttribute('data-home-prefs','')}catch(e){}})()`
     ]
   ],
   srcExclude: ['README.md', 'sandbox/**/*.md'],
