@@ -378,15 +378,17 @@ function onHandlePointerUp() {
   </Teleport>
 </template>
 
+<style>
+html[data-home-prefs] .home-features:not(.is-mounted) {
+  opacity: 0;
+}
+</style>
+
 <style scoped>
 /* ── Grid ── */
 .home-features {
   position: relative;
   padding: 0 24px;
-}
-
-:global(html[data-home-prefs]) .home-features:not(.is-mounted) .container {
-  opacity: 0;
 }
 
 @media (min-width: 640px) {
