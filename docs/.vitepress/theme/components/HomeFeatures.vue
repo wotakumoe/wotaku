@@ -144,6 +144,7 @@ function resetDefaults() {
 const cardTooltip = ref<{ text: string; x: number; y: number } | null>(null)
 
 function showCardTooltip(e: MouseEvent, title: string) {
+  if (!window.matchMedia('(hover: hover)').matches) return
   const rect = (e.currentTarget as HTMLElement).getBoundingClientRect()
   cardTooltip.value = { text: title, x: rect.left + rect.width / 2, y: rect.top }
 }
@@ -378,17 +379,20 @@ function onHandlePointerUp() {
   </Teleport>
 </template>
 
-<style>
-html[data-home-prefs] .home-features:not(.is-mounted) {
-  opacity: 0;
-}
-</style>
-
 <style scoped>
 /* ── Grid ── */
 .home-features {
   position: relative;
   padding: 0 24px;
+}
+
+.home-features .container {
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.home-features.is-mounted .container {
+  opacity: 1;
 }
 
 @media (min-width: 640px) {
@@ -635,8 +639,10 @@ html[data-home-prefs] .home-features:not(.is-mounted) {
   z-index: 10;
 }
 
-.close-btn:hover::after {
-  opacity: 1;
+@media (hover: hover) {
+  .close-btn:hover::after {
+    opacity: 1;
+  }
 }
 
 /* ── Card List ── */
@@ -878,8 +884,10 @@ html[data-home-prefs] .home-features:not(.is-mounted) {
   z-index: 10;
 }
 
-.tool-btn[aria-label]:hover::after {
-  opacity: 1;
+@media (hover: hover) {
+  .tool-btn[aria-label]:hover::after {
+    opacity: 1;
+  }
 }
 
 .tool-btn:hover {
