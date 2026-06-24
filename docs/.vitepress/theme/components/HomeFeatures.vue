@@ -62,6 +62,16 @@ const grid = computed(() => {
   return undefined
 })
 
+const panelGrid = computed(() => {
+  if (columnMode.value === 'max') return 'grid-max'
+  const n = props.cards.length
+  if (n === 2) return 'grid-2'
+  if (n === 3) return 'grid-3'
+  if (n % 3 === 0) return 'grid-6'
+  if (n > 3) return 'grid-4'
+  return undefined
+})
+
 const KNOWN_PREFIXES = /^(lucide|mdi|ic|mingcute|material-symbols|simple-icons|uil|octicon|logos|akar-icons|map|bi|streamline-logos|streamline-ultimate|streamline-sharp|iconoir)-/
 
 function cardIcon(card: HomeCard) {
@@ -249,9 +259,9 @@ function onHandlePointerUp() {
             <div class="card-sections">
               <!-- Homepage section (draggable) -->
               <div class="section-label">Homepage</div>
-              <ul ref="cardListEl" class="card-list" :class="grid">
+              <ul ref="cardListEl" class="card-list" :class="panelGrid">
                 <li v-if="homepageSectionCards.length === 0" class="empty-box">
-                  <span class="empty-hint">No cards selected — add some from below</span>
+                  <span class="empty-hint">No cards have been selected</span>
                 </li>
                 <li
                   v-for="card in homepageSectionCards"
@@ -289,7 +299,7 @@ function onHandlePointerUp() {
               <!-- Other sections (Pages, Extensions, Other…) -->
               <template v-for="section in otherSections" :key="section.label">
                 <div class="section-label">{{ section.label }}</div>
-                <ul class="card-list" :class="grid">
+                <ul class="card-list" :class="panelGrid">
                   <li v-if="section.cards.length === 0" class="empty-box">
                     <span class="empty-hint">All cards from this section have been selected</span>
                   </li>
