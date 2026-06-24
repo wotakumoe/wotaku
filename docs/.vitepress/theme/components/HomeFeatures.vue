@@ -5,18 +5,16 @@ import type { HomeCard } from '../../configs/constants'
 
 const props = defineProps<{ cards: HomeCard[] }>()
 
-const STORAGE_KEY = 'wotaku-home-cards-v1'
+const STORAGE_KEY = 'wotaku-home-cards-v2'
 const PREFS_KEY = 'wotaku-home-prefs-v1'
 
 interface CardState {
-  order: string[]
-  hidden: string[]
+  homepage: string[]
 }
 
 function defaultState(): CardState {
   return {
-    order: props.cards.map((c) => c.id),
-    hidden: props.cards.filter((c) => !c.featured).map((c) => c.id)
+    homepage: props.cards.filter((c) => c.featured).map((c) => c.id)
   }
 }
 
@@ -28,12 +26,8 @@ onMounted(() => {
   try {
     const parsed: CardState = JSON.parse(raw)
     const allIds = new Set(props.cards.map((c) => c.id))
-    const validOrder = parsed.order.filter((id) => allIds.has(id))
-    const seenIds = new Set(validOrder)
-    const newIds = props.cards.map((c) => c.id).filter((id) => !seenIds.has(id))
     state.value = {
-      order: [...validOrder, ...newIds],
-      hidden: (parsed.hidden ?? []).filter((id: string) => allIds.has(id))
+      homepage: (parsed.homepage ?? []).filter((id) => allIds.has(id))
     }
   } catch {}
 })
@@ -44,16 +38,11 @@ function save() {
 
 const cardMap = computed(() => new Map(props.cards.map((c) => [c.id, c])))
 
-const orderedCards = computed(() =>
-  state.value.order.map((id) => cardMap.value.get(id)!).filter(Boolean)
+const homepageSet = computed(() => new Set(state.value.homepage))
+
+const visibleCards = computed(() =>
+  state.value.homepage.map((id) => cardMap.value.get(id)!).filter(Boolean)
 )
-
-const hiddenSet = computed(() => new Set(state.value.hidden))
-
-const visibleCards = computed(() => {
-  const base = sortMode.value === 'default' ? props.cards : orderedCards.value
-  return base.filter((c) => !hiddenSet.value.has(c.id))
-})
 
 const grid = computed(() => {
   const n = visibleCards.value.length
@@ -73,59 +62,61 @@ function cardIcon(card: HomeCard) {
 /* ── Manager panel ── */
 const panelOpen = ref(false)
 const dropdownOpen = ref(false)
-const sortMode = ref<'default' | 'user' | 'active'>('default')
 const columnMode = ref<'default' | 'max'>('default')
 const viewMode = ref<'default' | 'mini'>('default')
 
 onMounted(() => {
   try {
     const prefs = JSON.parse(localStorage.getItem(PREFS_KEY) ?? '{}')
-    if (prefs.sortMode === 'user') sortMode.value = 'user'
-    else if (prefs.sortMode === 'active') sortMode.value = 'active'
     if (prefs.columnMode === 'max') columnMode.value = 'max'
     if (prefs.viewMode === 'mini') viewMode.value = 'mini'
   } catch {}
 })
 
-watch([sortMode, columnMode, viewMode], () => {
+watch([columnMode, viewMode], () => {
   localStorage.setItem(PREFS_KEY, JSON.stringify({
-    sortMode: sortMode.value,
     columnMode: columnMode.value,
     viewMode: viewMode.value
   }))
 })
 
-const panelCards = computed(() => {
-  if (sortMode.value === 'active') {
-    const visible = orderedCards.value.filter((c) => !hiddenSet.value.has(c.id))
-    const hidden = orderedCards.value.filter((c) => hiddenSet.value.has(c.id))
-    return [...visible, ...hidden]
+const homepageSectionCards = computed(() =>
+  state.value.homepage.map((id) => cardMap.value.get(id)!).filter(Boolean)
+)
+
+const otherSections = computed(() => {
+  const sectionMap = new Map<string, HomeCard[]>()
+  for (const card of props.cards) {
+    const s = card.section ?? 'Pages'
+    if (!sectionMap.has(s)) sectionMap.set(s, [])
+    if (!homepageSet.value.has(card.id)) sectionMap.get(s)!.push(card)
   }
-  if (sortMode.value === 'user') return orderedCards.value
-  return props.cards
+  return Array.from(sectionMap.entries()).map(([label, cards]) => ({ label, cards }))
 })
 
 function toggleCard(id: string) {
-  const h = state.value.hidden
-  const i = h.indexOf(id)
-  if (i === -1) h.push(id)
-  else h.splice(i, 1)
+  if (homepageSet.value.has(id)) {
+    state.value.homepage = state.value.homepage.filter((hid) => hid !== id)
+  } else {
+    state.value.homepage.push(id)
+  }
   save()
 }
 
 function showAll() {
-  state.value.hidden = []
+  const current = new Set(state.value.homepage)
+  const toAdd = props.cards.filter((c) => !current.has(c.id)).map((c) => c.id)
+  state.value.homepage = [...state.value.homepage, ...toAdd]
   save()
 }
 
 function hideAll() {
-  state.value.hidden = props.cards.map((c) => c.id)
+  state.value.homepage = []
   save()
 }
 
 function resetDefaults() {
   state.value = defaultState()
-  sortMode.value = 'default'
   columnMode.value = 'default'
   viewMode.value = 'default'
   save()
@@ -142,17 +133,7 @@ function hideCardTooltip() {
   cardTooltip.value = null
 }
 
-const panelSections = computed(() => {
-  const map = new Map<string, typeof panelCards.value>()
-  for (const card of panelCards.value) {
-    const s = card.section ?? 'Pages'
-    if (!map.has(s)) map.set(s, [])
-    map.get(s)!.push(card)
-  }
-  return Array.from(map.entries()).map(([label, cards]) => ({ label, cards }))
-})
-
-/* ── Drag-to-reorder (pointer events — works on mouse & touch) ── */
+/* ── Drag-to-reorder (homepage only, pointer events) ── */
 const dragging = ref<string | null>(null)
 const dragTarget = ref<string | null>(null)
 const cardListEl = ref<HTMLElement | null>(null)
@@ -186,15 +167,14 @@ function onHandlePointerMove(e: PointerEvent) {
 
 function onHandlePointerUp() {
   if (dragging.value && dragTarget.value) {
-    const order = [...state.value.order]
+    const order = [...state.value.homepage]
     const from = order.indexOf(dragging.value)
     const to = order.indexOf(dragTarget.value)
     if (from !== -1 && to !== -1) {
       order.splice(from, 1)
       order.splice(to, 0, dragging.value)
-      state.value.order = order
+      state.value.homepage = order
       save()
-      if (sortMode.value === 'default') sortMode.value = 'user'
     }
   }
   dragging.value = null
@@ -242,41 +222,69 @@ function onHandlePointerUp() {
               </button>
             </div>
 
-            <div ref="cardListEl" class="card-sections">
-              <template v-for="section in panelSections" :key="section.label">
-                <div v-if="panelSections.length > 1" class="section-label">{{ section.label }}</div>
+            <div class="card-sections">
+              <!-- Homepage section (draggable) -->
+              <div class="section-label">Homepage</div>
+              <ul ref="cardListEl" class="card-list" :class="grid">
+                <li v-if="homepageSectionCards.length === 0" class="empty-box">
+                  <span class="empty-hint">No cards selected — add some from below</span>
+                </li>
+                <li
+                  v-for="card in homepageSectionCards"
+                  :key="card.id"
+                  :data-card-id="card.id"
+                  class="card-row"
+                  @mouseenter="showCardTooltip($event, card.title)"
+                  @mouseleave="hideCardTooltip"
+                  :class="{
+                    'is-dragging': dragging === card.id,
+                    'is-over': dragTarget === card.id && dragging !== card.id
+                  }"
+                >
+                  <span
+                    class="row-handle"
+                    aria-hidden="true"
+                    @pointerdown="onHandlePointerDown($event, card.id)"
+                    @pointermove="onHandlePointerMove"
+                    @pointerup="onHandlePointerUp"
+                  >
+                    <span class="i-lucide-grip-vertical" />
+                  </span>
+                  <span class="row-icon" v-html="cardIcon(card)" />
+                  <span class="row-name">{{ card.title }}</span>
+                  <button
+                    class="row-toggle active"
+                    aria-label="Remove from homepage"
+                    @click="toggleCard(card.id)"
+                  >
+                    <span class="i-lucide-eye" />
+                  </button>
+                </li>
+              </ul>
+
+              <!-- Other sections (Pages, Extensions, Other…) -->
+              <template v-for="section in otherSections" :key="section.label">
+                <div class="section-label">{{ section.label }}</div>
                 <ul class="card-list" :class="grid">
+                  <li v-if="section.cards.length === 0" class="empty-box">
+                    <span class="empty-hint">All cards from this section have been selected</span>
+                  </li>
                   <li
                     v-for="card in section.cards"
                     :key="card.id"
-                    :data-card-id="card.id"
-                    class="card-row"
+                    class="card-row card-row-unselected"
                     @mouseenter="showCardTooltip($event, card.title)"
                     @mouseleave="hideCardTooltip"
-                    :class="{
-                      'is-dragging': dragging === card.id,
-                      'is-over': dragTarget === card.id && dragging !== card.id,
-                      'is-hidden': hiddenSet.has(card.id)
-                    }"
                   >
-                    <span
-                      class="row-handle"
-                      aria-hidden="true"
-                      @pointerdown="onHandlePointerDown($event, card.id)"
-                      @pointermove="onHandlePointerMove"
-                      @pointerup="onHandlePointerUp"
-                    >
-                      <span class="i-lucide-grip-vertical" />
-                    </span>
+                    <span class="row-handle-spacer" aria-hidden="true" />
                     <span class="row-icon" v-html="cardIcon(card)" />
                     <span class="row-name">{{ card.title }}</span>
                     <button
                       class="row-toggle"
-                      :class="{ active: !hiddenSet.has(card.id) }"
-                      :aria-label="hiddenSet.has(card.id) ? 'Show' : 'Hide'"
+                      aria-label="Add to homepage"
                       @click="toggleCard(card.id)"
                     >
-                      <span :class="hiddenSet.has(card.id) ? 'i-lucide-eye-off' : 'i-lucide-eye'" />
+                      <span class="i-lucide-eye-off" />
                     </button>
                   </li>
                 </ul>
@@ -296,14 +304,6 @@ function onHandlePointerUp() {
                 <div class="settings-wrap">
                   <div v-if="dropdownOpen" class="dropdown-overlay" @click="dropdownOpen = false" />
                   <div v-if="dropdownOpen" class="settings-dropdown">
-                    <div class="dropdown-section">
-                      <span class="dropdown-label">Sort</span>
-                      <div class="dropdown-group">
-                        <button class="tool-btn" :class="{ 'is-active': sortMode === 'default' }" @click="sortMode = 'default'">Default</button>
-                        <button class="tool-btn" :class="{ 'is-active': sortMode === 'user' }" @click="sortMode = 'user'">User</button>
-                        <button class="tool-btn" :class="{ 'is-active': sortMode === 'active' }" @click="sortMode = 'active'">Active</button>
-                      </div>
-                    </div>
                     <div class="dropdown-section">
                       <span class="dropdown-label">View</span>
                       <div class="dropdown-group">
@@ -637,13 +637,16 @@ function onHandlePointerUp() {
 }
 
 @media (min-width: 640px) {
-  .card-list { grid-template-columns: 1fr 1fr; }
+  .card-list.grid-2,
+  .card-list.grid-4,
+  .card-list.grid-6,
+  .card-list.grid-max { grid-template-columns: 1fr 1fr; }
 }
 
 @media (min-width: 768px) {
-  .card-list { grid-template-columns: 1fr 1fr 1fr; }
-  .card-list.grid-2,
-  .card-list.grid-4 { grid-template-columns: 1fr 1fr; }
+  .card-list.grid-3,
+  .card-list.grid-6,
+  .card-list.grid-max { grid-template-columns: 1fr 1fr 1fr; }
 }
 
 @media (min-width: 960px) {
@@ -664,6 +667,38 @@ function onHandlePointerUp() {
 
 .card-row:hover {
   background: var(--vp-c-bg-soft);
+}
+
+.card-row-unselected {
+  opacity: 0.45;
+}
+
+.card-row-unselected:hover {
+  opacity: 1;
+}
+
+.empty-box {
+  grid-column: 1 / -1;
+  list-style: none;
+  border-radius: 8px;
+  padding: 14px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image:
+    linear-gradient(90deg, var(--vp-c-divider) 6px, transparent 6px),
+    linear-gradient(90deg, var(--vp-c-divider) 6px, transparent 6px),
+    linear-gradient(0deg,  var(--vp-c-divider) 6px, transparent 6px),
+    linear-gradient(0deg,  var(--vp-c-divider) 6px, transparent 6px);
+  background-size: 10px 1px, 10px 1px, 1px 10px, 1px 10px;
+  background-position: top left, bottom left, top left, top right;
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+}
+
+.empty-hint {
+  font-size: 13px;
+  color: var(--vp-c-text-3, var(--vp-c-text-2));
+  font-style: italic;
 }
 
 .card-tooltip {
@@ -691,10 +726,6 @@ function onHandlePointerUp() {
   outline-offset: -2px;
 }
 
-.card-row.is-hidden {
-  opacity: 0.45;
-}
-
 .row-handle {
   color: var(--vp-c-text-3, var(--vp-c-text-2));
   font-size: 16px;
@@ -707,6 +738,11 @@ function onHandlePointerUp() {
 
 .row-handle:active {
   cursor: grabbing;
+}
+
+.row-handle-spacer {
+  width: 16px;
+  flex-shrink: 0;
 }
 
 .row-icon {
