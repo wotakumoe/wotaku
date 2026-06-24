@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, onMounted, ref, watch } from 'vue'
 import type { HomeCard } from '../../configs/constants'
 
 const props = defineProps<{ cards: HomeCard[] }>()
@@ -28,7 +28,13 @@ function loadState(): CardState {
   } catch { return defaultState() }
 }
 
-const state = ref<CardState>(loadState())
+const mounted = ref(false)
+const state = ref<CardState>(defaultState())
+
+onMounted(() => {
+  state.value = loadState()
+  mounted.value = true
+})
 
 function save() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state.value))
@@ -198,7 +204,7 @@ function onHandlePointerUp() {
 
 <template>
   <!-- ── Feature Grid ── -->
-  <div class="home-features">
+  <div class="home-features" :class="{ 'is-mounted': mounted }">
     <div class="container">
       <div class="card-toolbar">
         <button class="gear-btn" aria-label="Customize cards" @click="panelOpen = true">
@@ -377,6 +383,15 @@ function onHandlePointerUp() {
 .home-features {
   position: relative;
   padding: 0 24px;
+}
+
+.home-features .container {
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.home-features.is-mounted .container {
+  opacity: 1;
 }
 
 @media (min-width: 640px) {
