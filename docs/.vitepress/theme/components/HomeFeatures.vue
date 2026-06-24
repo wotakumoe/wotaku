@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
-import { renderEmojiShortcodes } from '../../configs/markdown/emoji'
 import type { HomeCard } from '../../configs/constants'
 
 const props = defineProps<{ cards: HomeCard[] }>()
@@ -55,7 +54,8 @@ const grid = computed(() => {
 })
 
 function cardIcon(card: HomeCard) {
-  return renderEmojiShortcodes(card.icon)
+  return card.icon.replace(/:([A-Za-z0-9_+-]+):/g, (_, markup) =>
+    `<span class="i-${markup}"></span>`)
 }
 
 /* ── Manager panel ── */
