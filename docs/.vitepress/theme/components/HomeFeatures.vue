@@ -33,6 +33,9 @@ const state = ref<CardState>(defaultState())
 
 onMounted(() => {
   state.value = loadState()
+  const prefs = loadPrefs()
+  columnMode.value = prefs.columnMode
+  viewMode.value = prefs.viewMode
   mounted.value = true
 })
 
@@ -88,9 +91,8 @@ function loadPrefs() {
   } catch { return { columnMode: 'default' as const, viewMode: 'default' as const } }
 }
 
-const { columnMode: _cm, viewMode: _vm } = loadPrefs()
-const columnMode = ref<'default' | 'max'>(_cm)
-const viewMode = ref<'default' | 'mini'>(_vm)
+const columnMode = ref<'default' | 'max'>('default')
+const viewMode = ref<'default' | 'mini'>('default')
 
 watch([columnMode, viewMode], () => {
   localStorage.setItem(PREFS_KEY, JSON.stringify({
