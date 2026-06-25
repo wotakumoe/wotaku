@@ -94,7 +94,7 @@ og:
 
 == Anime
 | Category | Website |
-|-|-|
+| :--- | :--- |
 | **Production** | [Character Design References](https://characterdesignreferences.com/) [:x:](https://x.com/CDReferences) |
 | ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |
 | ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
@@ -167,7 +167,7 @@ og:
 == Android
 
 | Categories | Software |
-|------------|----------|
+| :--- | :--- |
 | **Booru** | [Boorusama](https://github.com/khoadng/Boorusama) :s: |
 | ^^        | [Boorusphere](https://github.com/Kropatz/boorusphere) |
 | ^^        | [Mikansei](https://github.com/uragiristereo/Mikansei) |
@@ -178,7 +178,7 @@ og:
 | ^^        | [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs: |
 | ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) ||Fanbox|| |
 | **Others** | [Wallflow](https://github.com/ammargitham/WallFlow) |
-| ^^        | [Piko/twitter](https://github.com/crimera/piko) [||Builds||](https://github.com/crimera/twitter-apk) |
+| ^^        | [Piko Twitter](https://github.com/crimera/piko) [||Builds||](https://github.com/crimera/twitter-apk) |
 | ^^        | [RWalls](https://github.com/meh430/RWalls) |
 | ^^        | [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3) |
 
