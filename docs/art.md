@@ -54,8 +54,7 @@ og:
 
 | Categories | Websites |
 | :--- | :--- |
-| Booru | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/) |
-| ^^ | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
+| Booru | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
 | ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer) |
 | ^^ | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
 | Pixiv | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE) |
@@ -168,17 +167,20 @@ og:
 == Android
 
 | Categories | Software |
-| :--- | :--- |
-| Booru | [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/) |
-| ^^ | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
-| ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer) |
-| ^^ | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
-| Pixiv | [Pixiv.cat](https://pixiv.cat/) [:src:](https://github.com/pixiv-cat/pixivcat-backend) |
-| ^^ | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE) |
-| ^^ | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
-| ^^ | [Pixiv Yearbook](https://pixiv.navirank.com/) |
-| Others | [Pixnoy](https://www.pixnoy.com/) |
-| ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) |
+|------------|----------|
+| **Booru** | [Boorusama](https://github.com/khoadng/Boorusama) :s: |
+| ^^        | [Boorusphere](https://github.com/Kropatz/boorusphere) |
+| ^^        | [Mikansei](https://github.com/uragiristereo/Mikansei) |
+| ^^        | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) |
+| **Pixiv** | [PixEz](https://github.com/Notsfsssf/pixez-flutter) :s: |
+| ^^        | [pixes](https://github.com/wgh136/pixes) |
+| ^^        | [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft) |
+| ^^        | [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs: |
+| ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) ||Fanbox|| |
+| **Others** | [Wallflow](https://github.com/ammargitham/WallFlow) |
+| ^^        | [Piko/twitter](https://github.com/crimera/piko) [||Builds||](https://github.com/crimera/twitter-apk) |
+| ^^        | [RWalls](https://github.com/meh430/RWalls) |
+| ^^        | [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3) |
 
 == iOS
 

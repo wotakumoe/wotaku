@@ -100,11 +100,11 @@ og:
 
 <collapsible title="Frontends">
 
-- [Booru Masonry](https://booru.cocomi.eu.org/) :s: [:src:](https://github.com/asadahimeka/booruwf-web) [:alt:](https://booru.vercel.app/)
-- [Consurf](https://consurf.onrender.com/) [:src:](https://github.com/QueenAkaAlt/Consurf)
+- [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview)
+- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer)
 - [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
+- [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE)
 - [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer)
-- [ScrollX](https://scrollx.org/)
 
 </collapsible>
 
