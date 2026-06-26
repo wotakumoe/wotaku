@@ -290,8 +290,6 @@ interface SearchHistoryEntry {
   href?: string
 }
 
-const MAX_HISTORY = 12
-
 const saveHistoryEnabled = useLocalStorage('vitepress:local-search-save-history', false)
 
 const searchHistory = useLocalStorage<SearchHistoryEntry[]>(
@@ -312,7 +310,7 @@ function saveToHistory(query: string, mode: SearchMode, path?: string[], href?: 
     ...searchHistory.value.filter(
       (h) => !(h.query === trimmed && h.mode === mode && (h.path ?? []).join('\n') === pathKey)
     )
-  ].slice(0, MAX_HISTORY)
+  ]
 }
 
 function removeFromHistory(index: number) {
