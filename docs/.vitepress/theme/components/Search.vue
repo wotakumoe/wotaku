@@ -1557,7 +1557,7 @@ function getSearchResultHref(item: SearchResult & Result) {
 }
 
 function navigateToUrlResult(item: UrlResult) {
-  saveToHistory(filterText.value, searchMode.value, [getPageLabel(item.pageId), ...item.titles, item.linkText].filter(Boolean), buildResultHref(item.pageId, item.tabs, item.anchor))
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(item.pageId), ...item.titles, item.linkText].map(decodeHtml).filter(Boolean), buildResultHref(item.pageId, item.tabs, item.anchor))
   window.dispatchEvent(
     new CustomEvent('search-nav', { detail: { query: filterText.value } })
   )
@@ -1597,7 +1597,7 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
-    saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(selectedPackage.id))), ...selectedPackage.titles, selectedPackage.title].filter(Boolean), getSearchResultHref(selectedPackage))
+    saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(selectedPackage.id))), ...selectedPackage.titles, selectedPackage.title].map(decodeHtml).filter(Boolean), getSearchResultHref(selectedPackage))
     window.dispatchEvent(
       new CustomEvent('search-nav', {
         detail: { query: filterText.value }
@@ -1609,7 +1609,7 @@ onKeyStroke('Enter', (e) => {
 })
 
 function onResultClick(item: SearchResult & Result) {
-  saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(item.id))), ...item.titles, item.title].filter(Boolean), getSearchResultHref(item))
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(item.id))), ...item.titles, item.title].map(decodeHtml).filter(Boolean), getSearchResultHref(item))
   window.dispatchEvent(
     new CustomEvent('search-nav', {
       detail: { query: filterText.value }
@@ -1693,6 +1693,12 @@ function formMarkRegex(terms: Set<string>) {
       .join('|'),
     'gi'
   )
+}
+
+function decodeHtml(html: string): string {
+  const txt = document.createElement('textarea')
+  txt.innerHTML = html
+  return txt.value
 }
 
 function resetSearch() {
