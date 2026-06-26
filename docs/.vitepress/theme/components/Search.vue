@@ -282,6 +282,57 @@ function cycleSearchMode() {
 const matchExact = computed(() => searchMode.value === 'exact')
 const urlSearchMode = computed(() => searchMode.value === 'url')
 
+// Search history
+interface SearchHistoryEntry {
+  query: string
+  mode: SearchMode
+  path?: string[]
+  href?: string
+}
+
+const MAX_HISTORY = 12
+
+const saveHistoryEnabled = useLocalStorage('vitepress:local-search-save-history', false)
+
+const searchHistory = useLocalStorage<SearchHistoryEntry[]>(
+  'vitepress:local-search-history',
+  []
+)
+
+const showHistory = computed(
+  () => !filterText.value && searchHistory.value.length > 0
+)
+
+function saveToHistory(query: string, mode: SearchMode, path?: string[], href?: string) {
+  const trimmed = query.trim()
+  if (!trimmed || !saveHistoryEnabled.value) return
+  const pathKey = (path ?? []).join('\n')
+  searchHistory.value = [
+    { query: trimmed, mode, path, href },
+    ...searchHistory.value.filter(
+      (h) => !(h.query === trimmed && h.mode === mode && (h.path ?? []).join('\n') === pathKey)
+    )
+  ].slice(0, MAX_HISTORY)
+}
+
+function removeFromHistory(index: number) {
+  searchHistory.value = searchHistory.value.filter((_, i) => i !== index)
+}
+
+function applyHistory(entry: SearchHistoryEntry) {
+  if (entry.href) {
+    window.dispatchEvent(
+      new CustomEvent('search-nav', { detail: { query: entry.query } })
+    )
+    router.go(entry.href)
+    showSearch.value = false
+    return
+  }
+  searchMode.value = entry.mode
+  filterText.value = entry.query
+  nextTick(() => focusSearchInput(false))
+}
+
 // Mobile settings popup
 const showSettingsPopup = ref(false)
 const settingsButtonRef = ref<HTMLButtonElement>()
@@ -1506,6 +1557,7 @@ function getSearchResultHref(item: SearchResult & Result) {
 }
 
 function navigateToUrlResult(item: UrlResult) {
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(item.pageId), ...item.titles, item.linkText].filter(Boolean), buildResultHref(item.pageId, item.tabs, item.anchor))
   window.dispatchEvent(
     new CustomEvent('search-nav', { detail: { query: filterText.value } })
   )
@@ -1545,6 +1597,7 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
+    saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(selectedPackage.id))), ...selectedPackage.titles, selectedPackage.title].filter(Boolean), getSearchResultHref(selectedPackage))
     window.dispatchEvent(
       new CustomEvent('search-nav', {
         detail: { query: filterText.value }
@@ -1555,7 +1608,8 @@ onKeyStroke('Enter', (e) => {
   }
 })
 
-function onResultClick() {
+function onResultClick(item: SearchResult & Result) {
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(item.id))), ...item.titles, item.title].filter(Boolean), getSearchResultHref(item))
   window.dispatchEvent(
     new CustomEvent('search-nav', {
       detail: { query: filterText.value }
@@ -1933,9 +1987,9 @@ function onMouseMove(e: MouseEvent) {
             <AnimatePresence>
               <component
                 :is="searchMotionDiv"
-                v-if="urlSearchMode
+                v-if="!showHistory && (urlSearchMode
                 ? (!filterText || !urlMatches.length)
-                : (!filterText || !filteredResults.length)"
+                : (!filterText || !filteredResults.length))"
                 class="flex flex-1 flex-col justify-center items-center w-full min-h-full gap-2 font-medium text-sm text-center text-gray-500 dark:text-gray-300 m-auto opacity-90"
                 v-bind="emptyStateMotion"
               >
@@ -1946,6 +2000,60 @@ function onMouseMove(e: MouseEvent) {
                 />
                 <h1 v-if="filterText">Couldn't find anything, try again?</h1>
                 <h1 v-else>Looking for something?</h1>
+              </component>
+            </AnimatePresence>
+
+            <!-- Search history -->
+            <AnimatePresence>
+              <component
+                :is="searchMotionDiv"
+                v-if="showHistory"
+                class="history-list"
+                v-bind="emptyStateMotion"
+              >
+                <div class="history-header">
+                  <span>Recent searches</span>
+                  <button
+                    class="history-clear-all"
+                    title="Clear all history"
+                    @click.stop="searchHistory = []"
+                  >
+                    <X :size="14" stroke-width="1.5" />
+                  </button>
+                </div>
+                <ul class="history-items">
+                  <li
+                    v-for="(entry, index) in searchHistory"
+                    :key="index"
+                    class="history-item"
+                    @click="applyHistory(entry)"
+                  >
+                    <div class="history-main">
+                      <span class="history-query">{{ entry.query }}</span>
+                      <template v-if="entry.path?.length">
+                        <ArrowRight :size="13" stroke-width="1.5" class="history-arrow" />
+                        <template v-if="entry.path.length > 1">
+                          <span class="history-path-start">{{ entry.path.slice(0, -1).join(' › ') }}</span>
+                          <span class="history-path-sep">›</span>
+                        </template>
+                        <span class="history-path-end" :class="{ 'history-path-only': entry.path.length === 1 }">{{ entry.path[entry.path.length - 1] }}</span>
+                      </template>
+                    </div>
+                    <component
+                      :is="entry.mode === 'exact' ? Regex : entry.mode === 'fuzzy' ? LocateOff : Globe"
+                      :size="14"
+                      stroke-width="1.25"
+                      class="history-mode-icon"
+                    />
+                    <button
+                      class="history-remove"
+                      :title="'Remove \'' + entry.query + '\' from history'"
+                      @click.stop="removeFromHistory(index)"
+                    >
+                      <X :size="14" stroke-width="1.5" />
+                    </button>
+                  </li>
+                </ul>
               </component>
             </AnimatePresence>
 
@@ -2047,7 +2155,7 @@ function onMouseMove(e: MouseEvent) {
                     @mouseenter="!disableMouseOver &&
                     (selectedIndex = index + 1)"
                     @focusin="selectedIndex = index + 1"
-                    @click="onResultClick"
+                    @click="onResultClick(p)"
                     :data-index="index + 1"
                   >
                     <div>
@@ -2238,7 +2346,7 @@ function onMouseMove(e: MouseEvent) {
                 :style="settingsPopupStyle"
               >
                 <div class="settings-section">
-                  <div class="settings-section-label">Search Mode</div>
+                  <div class="settings-section-label">Search</div>
                   <div class="settings-options">
                     <button
                       type="button"
@@ -2246,7 +2354,6 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'exact' }"
                       @click="searchMode = 'exact'"
                     >
-                      <Regex :size="18" stroke-width="1.25" />
                       <span>Exact</span>
                     </button>
                     <button
@@ -2255,7 +2362,6 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'fuzzy' }"
                       @click="searchMode = 'fuzzy'"
                     >
-                      <LocateOff :size="18" stroke-width="1.25" />
                       <span>Fuzzy</span>
                     </button>
                     <button
@@ -2264,7 +2370,6 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'url' }"
                       @click="searchMode = 'url'"
                     >
-                      <Globe :size="18" stroke-width="1.25" />
                       <span>URL</span>
                     </button>
                   </div>
@@ -2273,7 +2378,7 @@ function onMouseMove(e: MouseEvent) {
                   v-if="!disableDetailedView && searchMode !== 'url'"
                   class="settings-section"
                 >
-                  <div class="settings-section-label">View Mode</div>
+                  <div class="settings-section-label">View</div>
                   <div class="settings-options">
                     <button
                       type="button"
@@ -2281,7 +2386,6 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: showDetailedList }"
                       @click="showDetailedList = true"
                     >
-                      <TextAlignStart :size="18" stroke-width="1.25" />
                       <span>Detail</span>
                     </button>
                     <button
@@ -2290,8 +2394,28 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: !showDetailedList }"
                       @click="showDetailedList = false"
                     >
-                      <List :size="18" stroke-width="1.25" />
                       <span>List</span>
+                    </button>
+                  </div>
+                </div>
+                <div class="settings-section">
+                  <div class="settings-section-label">History</div>
+                  <div class="settings-options">
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: saveHistoryEnabled }"
+                      @click="saveHistoryEnabled = true"
+                    >
+                      <span>On</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: !saveHistoryEnabled }"
+                      @click="saveHistoryEnabled = false"
+                    >
+                      <span>Off</span>
                     </button>
                   </div>
                 </div>
@@ -2336,9 +2460,9 @@ function onMouseMove(e: MouseEvent) {
   flex-direction: column;
   gap: 16px;
   background: var(--vp-local-search-bg);
-  width: min(100vw - 60px, 900px);
+  width: min(100vw - 60px, 700px);
   height: 100%;
-  max-height: min(100vh - 128px, 900px);
+  max-height: min(100vh - 128px, 680px);
   border-radius: 6px;
 }
 
@@ -2882,19 +3006,7 @@ svg {
 
 .search-mode-group,
 .view-group {
-  display: flex;
-  align-items: center;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 5px;
-  overflow: hidden;
-}
-
-/* Mobile: hide toolbar groups entirely — settings popup handles them */
-@media (max-width: 767px) {
-  .search-mode-group,
-  .view-group {
-    display: none;
-  }
+  display: none;
 }
 
 .mode-btn {
@@ -3011,34 +3123,27 @@ svg {
   background: transparent;
 }
 
-/* Settings toggle button — mobile only */
+/* Settings toggle button — always visible */
 .settings-toggle-btn {
-  display: none;
-}
-
-@media (max-width: 767px) {
-  .settings-toggle-btn {
-    display: flex;
-    border: none;
-    border-radius: 5px;
-    color: var(--vp-c-text-1);
-    padding: 8px;
-  }
+  display: flex;
+  border: none;
+  border-radius: 5px;
+  color: var(--vp-c-text-1);
+  padding: 8px;
 }
 
 /* Settings popup card */
 .search-settings-popup {
   position: fixed;
   z-index: 200;
-  background: var(--vp-c-bg-elv);
+  background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 12px;
-  padding: 12px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  min-width: 175px;
+  min-width: 196px;
 }
 
 .settings-section {
@@ -3047,50 +3152,52 @@ svg {
   gap: 6px;
 }
 
+.settings-section + .settings-section {
+  border-top: 1px solid var(--vp-c-divider);
+  margin-top: 8px;
+  padding-top: 8px;
+}
+
 .settings-section-label {
-  font-size: 0.7rem;
+  font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  color: var(--vp-c-text-3);
-  padding: 0 4px;
+  color: var(--vp-c-text-3, var(--vp-c-text-2));
+  margin-bottom: 2px;
 }
 
 .settings-options {
   display: flex;
-  flex-direction: column;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  overflow: hidden;
+  gap: 4px;
 }
 
 .settings-option {
   display: flex;
   align-items: center;
-  gap: 8px;
-  padding: 9px 12px;
+  justify-content: center;
+  gap: 5px;
+  padding: 5px 6px;
   background: transparent;
   border: none;
+  border-radius: 5px;
   cursor: pointer;
   color: var(--vp-c-text-2);
-  font-size: 0.88rem;
-  text-align: left;
+  font-size: 14px;
+  font-weight: 500;
   transition: background-color 0.15s, color 0.15s;
-  width: 100%;
-}
-
-.settings-option + .settings-option {
-  border-top: 1px solid var(--vp-c-divider);
+  flex: 1;
 }
 
 .settings-option:hover {
-  background: var(--vp-c-default-soft);
   color: var(--vp-c-text-1);
+  background: var(--vp-c-bg-soft);
 }
 
 .settings-option.active {
   color: var(--vp-c-brand-1);
-  background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
+  background: var(--vp-c-brand-soft);
+  font-weight: 600;
 }
 
 .settings-popup-enter-active,
@@ -3103,5 +3210,150 @@ svg {
 .settings-popup-leave-to {
   opacity: 0;
   transform: scale(0.92) translateY(-4px);
+}
+
+.history-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 4px 0;
+}
+
+.history-header {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--vp-c-text-3);
+  padding: 4px 12px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.history-clear-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--vp-c-text-3);
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.history-clear-all:hover {
+  color: var(--vp-c-text-1);
+}
+
+.history-items {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.history-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.15s;
+}
+
+.history-item:hover {
+  background: var(--vp-c-default-soft);
+}
+
+.history-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow: hidden;
+}
+
+.history-query {
+  flex-shrink: 0;
+  font-size: 0.9rem;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+}
+
+.history-arrow {
+  flex-shrink: 0;
+  opacity: 0.5;
+  color: var(--vp-c-text-3);
+}
+
+.history-path-start {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--vp-c-text-3);
+}
+
+.history-path-sep {
+  flex-shrink: 0;
+  font-size: 0.78rem;
+  color: var(--vp-c-text-3);
+}
+
+.history-path-end {
+  flex-shrink: 0;
+  white-space: nowrap;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--vp-c-text-3);
+}
+
+.history-path-only {
+  flex-shrink: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.history-mode-icon {
+  flex-shrink: 0;
+  color: var(--vp-c-text-3);
+  opacity: 0.7;
+}
+
+.history-remove {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--vp-c-text-3);
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.15s, color 0.15s;
+}
+
+.history-item:hover .history-remove {
+  opacity: 1;
+}
+
+.history-remove:hover {
+  color: var(--vp-c-text-1);
+}
+
+@media (any-pointer: coarse) {
+  .history-remove {
+    opacity: 1;
+  }
 }
 </style>
