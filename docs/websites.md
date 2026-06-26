@@ -202,12 +202,12 @@ Some of the series may not be available depending on your region.
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :msync: | :ss: | :lsg: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | :msync::ie: | :ps: | :sp::dp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/home)  ==MangaFire== | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
 <collapsible title="More">
 
 | Websites | Tracking | Sources | Reading mode | Social |
 |----------|----------|---------|--------------|--------|
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaKatana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
 | [OniSaga](https://onisaga.com/home) ==OniSaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |

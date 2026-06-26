@@ -2,4 +2,3 @@
 - Untagged releases are scraped from aggregators
 - Has volume release for some titles
 - Medium size library
-- UI is scuffed in some aspects
