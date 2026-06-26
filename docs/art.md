@@ -20,7 +20,7 @@ og:
 - [ArtStation](https://www.artstation.com/)
 - [DeviantArt](https://www.deviantart.com/)
 - [Misskey Art Servers](https://rentry.org/wotakey)
-- [Pixiv](https://www.pixiv.net) :s:
+- [Pixiv](https://www.pixiv.net/) :s:
 - :prev: [Pixivision](https://www.pixivision.net/en/)
 - [Twitter](https://x.com/) :s:
 
@@ -71,6 +71,7 @@ og:
 | Type | Website |
 | :--- | :--- |
 | Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
+| ^^ | [Pawchive](https://pawchive.st/) |
 | Games | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
 | Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
@@ -78,7 +79,7 @@ og:
 | ^^ | [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers) |
 | ^^ | [Studio Ghibli](https://www.ghibli.jp/info/013772/) ||SFW|| |
 | ^^ | [Wallhaven](https://wallhaven.cc/) |
-| ^^ | [:f: /w/](http://catalog.neet.tv/w/) x||nsfl|| |
+| ^^ | [:f: /w/](http://catalog.neet.tv/w/) x||NSFL|| |
 
 :::
 

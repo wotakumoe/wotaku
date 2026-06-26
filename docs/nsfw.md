@@ -94,7 +94,8 @@ og:
 - [Kusowanka](https://kusowanka.com/)
 - [Nozomi](https://nozomi.la/)
 - [Oreno3D](https://oreno3d.com/)
-- [Pixiv](https://www.pixiv.net)
+- [Pawchive](https://pawchive.st/)
+- [Pixiv](https://www.pixiv.net/)
 - [yande.re](https://yande.re/)
 
 <collapsible title="Frontends">
