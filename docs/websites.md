@@ -14,7 +14,6 @@ outline: 2
 
 </collapsible>
 
-![](/banner/wanime.webp)
 
 ## Anime
 
@@ -190,7 +189,6 @@ Some of the series may not be available depending on your region.
 
 :::
 
-![](/banner/wmanga.webp)
 
 ## Manga
 
@@ -307,7 +305,6 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 :::
 
-![](/banner/wnovel.webp)
 
 ## Novels
 
@@ -359,7 +356,6 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 :::
 
-![](/banner/toku.webp)
 
 ## Tokusatsu
 
@@ -429,7 +425,6 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 :::
 
 
-![](/banner/comics.webp)
 
 ## Comics
 

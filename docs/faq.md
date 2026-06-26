@@ -7,11 +7,8 @@ og:
 
 ---
 
-![](/banner/general.webp)
 
-# General
-
-
+## General
 
 <Collapsible title="Why does X site have so many ads?">
 
@@ -64,10 +61,7 @@ Yes. Try [**MAL-Sync**](https://malsync.moe/). It has support for MyAnimeList, A
 
 </Collapsible>
 
-
-![](/banner/manga.webp)
-
-# Manga
+## Manga
 
 <Collapsible title="Where can I get the highest quality manga releases?">
 
@@ -132,10 +126,7 @@ Use [**Komga**](https://komga.org/). Read their [**docs**](https://komga.org/doc
 
 </Collapsible>
 
-
-![](/banner/anime.webp)
-
-# Anime
+## Anime
 
 <Collapsible title="Where can I get the highest quality anime releases?">
 
@@ -153,12 +144,7 @@ For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC,
 
 </Collapsible>
 
-
-
-
-![](/banner/msuic.webp)
-
-# Music
+## Music
 
 <Collapsible title="What's the best source for anime songs / OST?">
 

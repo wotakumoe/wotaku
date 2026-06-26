@@ -49,7 +49,6 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 - [SMS Power](https://vgm.impulseinformatica.com.br/)
 :::
 
-![](/banner/wlegal.webp)
 
 ## Legal
 

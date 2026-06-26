@@ -7,7 +7,6 @@ og:
     image: https://i.wotaku.wiki/f/nsfw.png
 ---
 
-![](/banner/hweb.webp)
 ## Websites
 
 ::: info Readme
@@ -117,7 +116,6 @@ og:
 
 
 
-![](/banner/hsoft.webp)
 
 
 ## Software
@@ -194,7 +192,6 @@ og:
 :::
 
 
-![](/banner/hoth.webp)
 
 ## Others
 
