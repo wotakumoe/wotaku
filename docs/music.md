@@ -11,7 +11,6 @@ og:
 If you wanna learn about the audio basics, read our [**audio glossary**](/glossary/audio)
 :::
 
-![](/music/mst.webp)
 
 ## Stream
 
@@ -86,7 +85,6 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 The sources mentioned here are all digital, with their max qualities listed. Quality of an individual track/album depends on the Label and Platform. For physical purchases go to [**merch**](/merch#shops).
 :::
 
-![](/music/mdl.webp)
 
 ## Download
 
@@ -145,7 +143,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 :::
 
-![](/music/radio.webp)
 
 ## Radio
 
@@ -202,8 +199,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [RPGamers Radio](http://www.rpgamers.net/radio/)
 :::
 
-
-![](/music/mus.webp)
 
 ## Utility Sites
 
@@ -263,7 +258,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 :::
 
-![](/music/mis.webp)
 
 ## Info Sites
 
@@ -348,8 +342,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 :::
 
 
-![](/music/mph.webp)
-
 ## Phone
 
 :::tabs
@@ -414,7 +406,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^           | [Stats.fm](https://stats.fm/) :mdi-spotify::and::ios::cs: |
 :::
 
-![](/music/mpc.webp)
 
 ## PC
 
@@ -563,8 +554,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 :::
 
-
-![](/music/msv.webp)
 
 ## Server
 
