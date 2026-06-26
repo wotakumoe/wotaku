@@ -32,6 +32,8 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Bandai Namco** | [Boa Hancock](https://opbr-en.bn-ent.net/character/detail/0017.html) | [Anime Banner](/websites#anime) |
 | **BuiBui** | [Towa meme laugh](https://x.com/k_e_cttp/status/1788708044228223415) | iOS Extension repos link embed |
 | **Capcom** | [Phoenix Wright](https://news.capcomusa.com/lets/browse/phoenix-wright-ace-attorney-trilogy-dev-column-2-the-art-of-the-turnabout) | [Legal banner](/websites#legal) |
+| **Castt77** | [綾波レイ](https://www.pixiv.net/en/artworks/124683452) | Ayanami sidebar art |
+| **CloverWorks** | [Hoshimachi Suisei "Kireigoto"](https://youtu.be/VPhLXeU25KA) | Suisei sidebar art |
 | **ChristieDA** | [Headphone Anime Girl Render](https://www.deviantart.com/christieda/art/Headphone-Anime-Girl-Render-611521170) | [Audio glossary banner](/glossary/audio#audio-file-1) |
 | **돌만 (Dollman)** | [TAK [mochimochi] :dango:](https://x.com/TAK_DRDR/status/1827994397784657986) | Software link embed |
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |
@@ -47,18 +49,24 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **J.C.Staff** | [Taiga Aisaka](https://yande.re/post/show/46578) | [Music banner](/music#pc) |
 | **Kazuki Takahashi** | [Yami Yugi](https://www.zerochan.net/7739) | [Manga banner](/websites#manga) |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
+| **幸原ゆゆ (Kouhara Yuyu)** | [ミクさん :ribbon:](https://x.com/k0uhara/status/2065399096417116646) | Miku sidebar art |
 | **Kyoto Animation** | [Mio Akiyama](https://konachan.net/post/show/49838) | [Music banner](/music#phone) |
 | ^^ | [Tsumugi Kotobuki](https://konachan.com/post/show/169507) | [Audio glossary banner](/glossary/audio#basic-terms) |
+| **LuLuLu** | [zZZ :octopus:](https://x.com/Lucferz13/status/1916598270476140660) | Ina'nis sidebar art |
 | **megamiceto** | [Brazilian Miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
+| **Non** | [おら、この学校さ入るだ。](https://www.pixiv.net/en/artworks/146410560) | Fubuki sidebar art |
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed |
 | **raeji** | [Wotaku logo](https://x.com/raeji__/status/2054928392529879511) | [Home logo and favicon](/) |
+| **Rayillu** | [Winter Ame](https://www.pixiv.net/en/artworks/114186479) | Watson sidebar art |
 | **れんた (Renta)** | [Defoko birthday festival!](https://www.pixiv.net/en/artworks/41424418) | [Audio glossary banner](/glossary/audio#hardware-1) |
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
+| **あーる✒︎うぉーかー (R. Walker)** | [エヴァのアスカ](https://x.com/Walk43049101Art/status/2044370168604975199) | Asuka sidebar art |
+| **SeraphimThrone** | [じーーーー](https://x.com/SeraphimThrone/status/1993508812586930238) | IRyS sidebar art |
 | **SHAFT** | [Ene](https://kagerouproject.fandom.com/wiki/Ene#Anime) | [Music banner](/music#download) |
-| **Soemy** | [:eyes:](https://x.com/Soemy_Yuka/status/2028141464287420436) | Icon key banner |
 | **Taizo** | [The sound of the forest, the smell of paper.](https://www.pixiv.net/en/artworks/120581878) | Japan link embed |
+| **たこたこﾁｬﾝ (Takotako-chan)** | [カラフル](https://www.pixiv.net/en/artworks/133801686) | Baelz sidebar art |
 | **tencross** | [Ainz Ooal Gown](https://vsbattles.fandom.com/wiki/Ainz_Ooal_Gown) | [Novel banner](/websites#novels) |
 | **Toei** | [Kamen Rider Imperial Demons](https://www.deviantart.com/stainrender/art/Kamen-Rider-Imperial-Demons-Render-1025700355) | [Tokusatsu banner](/websites#tokusatsu) |
 | **たくぼん (Tokubon)** | [Suichan wa~??](https://www.pixiv.net/en/artworks/82665330) | Music link embed |
@@ -75,7 +83,6 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **advarcher**               | [Gawr Gura delivering Christmas gift](https://www.pixiv.net/en/artworks/114538066)                 | Christmas card 2024 |
 | **Chroneco**                | [Ninomae Ina’nis WAH](https://x.com/chrone_co/status/1370319306286764033)                          | Button              |
 | **CLERO**                   | [Hololive EN plushies](https://x.com/CLERO_ART/status/1788894299007971680)                         | Home art          |
-| **CloverWorks** | [Hoshimachi Suisei "Kireigoto"](https://youtu.be/VPhLXeU25KA) | Icon key banner |
 | **Dr.Pigeon PhD** | [Smol Ame in winter jacket](https://x.com/PhdPigeon/status/1866313003119030404) | Home art |
 | ^^ | [Smol Ame waving](https://x.com/PhdPigeon/status/1884043982680014972) | Favicon |
 | ^^           | [Smol Ame with Christmas hat](https://x.com/PhdPigeon/status/1869579249688231945)                  | Favicon        |
@@ -100,9 +107,10 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **pantsu_ripper** | [lain/rei](https://x.com/pantsu_ripper/status/1575844099688497153) | Squidify link embed |
 | **Saeki Yahiro** | [Hoshimachi Suisei Profile Art](https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/) | Vtuber banner |
 | **さめあんこ (Sameanko)** | [:cat: :shark: :bathtub: :sparkles:](https://www.pixiv.net/en/artworks/93131457) | Home art |
-| **Shinichi Fukuda** | [Marin Kitagawa](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093656) | Icon key banner |
+| **Shinichi Fukuda** | [Marin Kitagawa](https://squareenixmangaandbooks.square-enix-games.com/en-us/product/9781646093656) | Default sidebar art |
 | **しらび (Shirabi)**        | [Artoria Pendragon](https://www.pixiv.net/en/artworks/60495690)                                    | Fate banner         |
 | **しろい (Shiroi)** | [260418](https://www.pixiv.net/en/artworks/143685358) | Default link embed |
+| **Soemy** | [:eyes:](https://x.com/Soemy_Yuka/status/2028141464287420436) | Default sidebar art |
 | **Takashi Takeuchi**        | [Shiki Ryougi](https://danbooru.donmai.us/posts/2671155)                                           | Fate banner         |
 | **てのべ (Tenobe)**         | [Enkidu](https://www.pixiv.net/en/artworks/67902495)                                               | Fate banner         |
 | **Takeshi Obata**           | [Moritaka Mashiro](https://konachan.com/post/show/71470)                                           | Scanlation link embed |
