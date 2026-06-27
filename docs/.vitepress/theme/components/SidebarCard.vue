@@ -19,7 +19,7 @@ const accentImageMap: Record<string, string> = {
   asuka: 'asuka',
   miku: 'miku',
   inanis: 'ina',
-  watson: 'ame',
+  amelia: 'ame',
   baelz: 'bae',
   irys: 'irys',
   suisei: 'suisei',

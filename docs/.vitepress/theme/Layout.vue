@@ -611,7 +611,7 @@ const accentPalettes: Record<string, PaletteEntry> = {
     700: 'oklch(0.472 0.248 22.00)',
     800: 'oklch(0.395 0.208 22.00)',
   },
-  watson: {
+  amelia: {
     400: 'oklch(0.800 0.085 75.49)',
     500: 'oklch(0.710 0.090 72.47)',
     600: 'oklch(0.594 0.085 69.07)',

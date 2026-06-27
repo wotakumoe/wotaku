@@ -29,8 +29,8 @@ const accentOptions = [
     shades: ['oklch(0.762 0.073 302.02)', 'oklch(0.663 0.102 301.22)', 'oklch(0.580 0.119 301.34)', 'oklch(0.508 0.114 301.00)', 'oklch(0.452 0.094 302.20)'],
   },
   {
-    key: 'watson',
-    label: 'Watson',
+    key: 'amelia',
+    label: 'Amelia',
     shades: ['oklch(0.800 0.085 75.49)', 'oklch(0.710 0.090 72.47)', 'oklch(0.594 0.085 69.07)', 'oklch(0.496 0.078 72.12)', 'oklch(0.391 0.062 68.86)'],
   },
   {
