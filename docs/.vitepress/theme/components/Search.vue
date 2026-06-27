@@ -2558,7 +2558,7 @@ function onMouseMove(e: MouseEvent) {
                         <Globe :size="12" stroke-width="1.5" />
                         URL
                       </strong>
-                      <span>Searches page URLs and link destinations</span>
+                      <span>Searches through hyperlinks</span>
                     </div>
                   </div>
                 </template>
