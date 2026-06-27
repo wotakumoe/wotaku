@@ -2410,7 +2410,7 @@ function onMouseMove(e: MouseEvent) {
                 <div class="settings-section">
                   <div class="settings-section-header">
                     <div class="settings-section-label">
-                      <Search :size="10" stroke-width="2.5" />
+                      <Search :size="14" stroke-width="1.75" />
                       Search
                     </div>
                     <button
@@ -2456,7 +2456,7 @@ function onMouseMove(e: MouseEvent) {
                 >
                   <div class="settings-section-header">
                     <div class="settings-section-label">
-                      <LayoutList :size="10" stroke-width="2.5" />
+                      <LayoutList :size="14" stroke-width="1.75" />
                       View
                     </div>
                     <button
@@ -2491,7 +2491,7 @@ function onMouseMove(e: MouseEvent) {
                 <div class="settings-section">
                   <div class="settings-section-header">
                     <div class="settings-section-label">
-                      <Clock :size="10" stroke-width="2.5" />
+                      <Clock :size="14" stroke-width="1.75" />
                       History
                     </div>
                     <button
@@ -2534,28 +2534,28 @@ function onMouseMove(e: MouseEvent) {
               >
                 <template v-if="activeHelpSection === 'search'">
                   <h4 class="sh-title">
-                    <Search :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    <Search :size="16" stroke-width="1.75" class="sh-title-icon" />
                     Search Mode
                   </h4>
                   <p class="sh-desc">Choose how queries are matched against content.</p>
                   <div class="sh-options">
                     <div class="sh-option">
                       <strong>
-                        <Regex :size="12" stroke-width="1.5" />
+                        <Regex :size="14" stroke-width="1.5" />
                         Exact
                       </strong>
                       <span>Matches the exact phrase you type</span>
                     </div>
                     <div class="sh-option">
                       <strong>
-                        <LocateOff :size="12" stroke-width="1.5" />
+                        <LocateOff :size="14" stroke-width="1.5" />
                         Fuzzy
                       </strong>
                       <span>Approximate matching that tolerates typos</span>
                     </div>
                     <div class="sh-option">
                       <strong>
-                        <Globe :size="12" stroke-width="1.5" />
+                        <Globe :size="14" stroke-width="1.5" />
                         URL
                       </strong>
                       <span>Searches through hyperlinks</span>
@@ -2564,21 +2564,21 @@ function onMouseMove(e: MouseEvent) {
                 </template>
                 <template v-else-if="activeHelpSection === 'view'">
                   <h4 class="sh-title">
-                    <LayoutList :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    <LayoutList :size="16" stroke-width="1.75" class="sh-title-icon" />
                     Result View
                   </h4>
                   <p class="sh-desc">Controls how search results are displayed.</p>
                   <div class="sh-options">
                     <div class="sh-option">
                       <strong>
-                        <TextAlignStart :size="12" stroke-width="1.5" />
+                        <TextAlignStart :size="14" stroke-width="1.5" />
                         Detail
                       </strong>
                       <span>Shows a content excerpt below each result. Uses more memory.</span>
                     </div>
                     <div class="sh-option">
                       <strong>
-                        <List :size="12" stroke-width="1.5" />
+                        <List :size="14" stroke-width="1.5" />
                         List
                       </strong>
                       <span>Compact list of titles only. Uses less memory.</span>
@@ -2587,7 +2587,7 @@ function onMouseMove(e: MouseEvent) {
                 </template>
                 <template v-else-if="activeHelpSection === 'history'">
                   <h4 class="sh-title">
-                    <Clock :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    <Clock :size="16" stroke-width="1.75" class="sh-title-icon" />
                     Search History
                   </h4>
                   <p class="sh-desc">Saves recent searches and shows them when the search bar is empty.</p>
@@ -3311,42 +3311,40 @@ svg {
   z-index: 200;
   background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 12px;
-  padding: 14px;
+  border-radius: 10px;
+  padding: 10px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
   display: flex;
   flex-direction: column;
-  min-width: 224px;
+  min-width: 196px;
 }
 
 .settings-section {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 0;
 }
 
 .settings-section + .settings-section {
   border-top: 1px solid var(--vp-c-divider);
-  margin-top: 10px;
-  padding-top: 10px;
+  margin-top: 8px;
+  padding-top: 8px;
 }
 
 .settings-section-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 2px;
+  margin-bottom: 6px;
 }
 
 .settings-section-label {
   display: flex;
   align-items: center;
-  gap: 4px;
-  font-size: 11.5px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--vp-c-text-3, var(--vp-c-text-2));
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--vp-c-text-1);
 }
 
 .settings-help-btn {
@@ -3380,7 +3378,7 @@ svg {
 .search-help-popup {
   position: fixed;
   z-index: 9999;
-  width: 260px;
+  width: 280px;
   background: var(--vp-c-bg-elv);
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
@@ -3403,21 +3401,23 @@ svg {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 600;
   color: var(--vp-c-text-1);
-  margin: 0 0 6px;
+  margin: 0 0 4px;
 }
 
 .sh-title-icon {
   flex-shrink: 0;
   opacity: 0.8;
+  width: 16px;
+  height: 16px;
 }
 
 .sh-desc {
-  font-size: 0.78rem;
+  font-size: 0.875rem;
   color: var(--vp-c-text-2);
-  margin: 0 0 10px;
+  margin: 0 0 6px;
   line-height: 1.5;
 }
 
@@ -3430,30 +3430,30 @@ svg {
 .sh-option {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 4px;
   background: var(--vp-c-bg-soft);
-  border-radius: 6px;
-  padding: 7px 9px;
+  border-radius: 12px;
+  padding: 10px 12px;
 }
 
 .sh-option strong {
   display: flex;
   align-items: center;
-  gap: 5px;
-  font-size: 0.78rem;
+  gap: 4px;
+  font-size: 0.875rem;
   font-weight: 600;
   color: var(--vp-c-text-1);
 }
 
 .sh-option span {
-  font-size: 0.74rem;
+  font-size: 0.875rem;
   color: var(--vp-c-text-2);
   line-height: 1.4;
 }
 
 .settings-options {
   display: flex;
-  gap: 5px;
+  gap: 4px;
 }
 
 .settings-option {
@@ -3461,13 +3461,13 @@ svg {
   align-items: center;
   justify-content: center;
   gap: 5px;
-  padding: 7px 8px;
+  padding: 5px 6px;
   background: transparent;
   border: none;
-  border-radius: 6px;
+  border-radius: 5px;
   cursor: pointer;
   color: var(--vp-c-text-2);
-  font-size: 14.5px;
+  font-size: 14px;
   font-weight: 500;
   transition: background-color 0.15s, color 0.15s;
   flex: 1;

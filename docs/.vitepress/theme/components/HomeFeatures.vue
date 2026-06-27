@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { computed, nextTick, onMounted, ref, watch } from 'vue'
-import { Columns3, LayoutList } from 'lucide-vue-next'
 import type { HomeCard } from '../../configs/constants'
 
 const props = defineProps<{ cards: HomeCard[] }>()
@@ -367,6 +366,9 @@ function onHandlePointerUp() {
                 <button class="tool-btn" aria-label="Hide all" @click="hideAll">
                   <span class="i-lucide-eye-off" />
                 </button>
+                <button class="tool-btn" aria-label="Reset to default" @click="resetDefaults">
+                  <span class="i-lucide-refresh-ccw" />
+                </button>
               </div>
               <div class="foot-group">
                 <div class="settings-wrap">
@@ -375,7 +377,7 @@ function onHandlePointerUp() {
                     <div class="dropdown-section">
                       <div class="dropdown-section-header">
                         <span class="dropdown-label">
-                          <LayoutList :size="10" stroke-width="2.5" />
+                          <span class="i-lucide-layout-list dropdown-label-icon" />
                           View
                         </span>
                         <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'view' }" aria-label="View help" @click.stop="toggleHelpSection('view', $event)">
@@ -390,7 +392,7 @@ function onHandlePointerUp() {
                     <div class="dropdown-section">
                       <div class="dropdown-section-header">
                         <span class="dropdown-label">
-                          <Columns3 :size="10" stroke-width="2.5" />
+                          <span class="i-lucide-columns-3-cog dropdown-label-icon" />
                           Columns
                         </span>
                         <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'columns' }" aria-label="Columns help" @click.stop="toggleHelpSection('columns', $event)">
@@ -412,9 +414,6 @@ function onHandlePointerUp() {
                     <span class="i-lucide-settings-2" />
                   </button>
                 </div>
-                <button class="tool-btn" aria-label="Reset to default" @click="resetDefaults">
-                  <span class="i-lucide-refresh-ccw" />
-                </button>
               </div>
             </div>
           </div>
@@ -443,28 +442,40 @@ function onHandlePointerUp() {
           <p class="sh-desc">Controls how cards are displayed on the homepage.</p>
           <div class="sh-options">
             <div class="sh-option">
-              <strong>Default</strong>
+              <strong>
+                <span class="i-lucide-layout-grid sh-option-icon" />
+                Default
+              </strong>
               <span>Full card with icon, title, and description.</span>
             </div>
             <div class="sh-option">
-              <strong>Mini</strong>
+              <strong>
+                <span class="i-lucide-rows-3 sh-option-icon" />
+                Mini
+              </strong>
               <span>Compact row with icon and title only.</span>
             </div>
           </div>
         </template>
         <template v-else-if="activeHelpSection === 'columns'">
           <h4 class="sh-title">
-            <span class="i-lucide-columns-3 sh-title-icon" />
+            <span class="i-lucide-columns-3-cog sh-title-icon" />
             Columns
           </h4>
           <p class="sh-desc">Controls how many columns the card grid uses.</p>
           <div class="sh-options">
             <div class="sh-option">
-              <strong>Default</strong>
+              <strong>
+                <span class="i-lucide-columns-2 sh-option-icon" />
+                Default
+              </strong>
               <span>Adapts automatically based on the number of cards.</span>
             </div>
             <div class="sh-option">
-              <strong>Max</strong>
+              <strong>
+                <span class="i-lucide-columns-3 sh-option-icon" />
+                Max
+              </strong>
               <span>Always uses the maximum number of columns based on screen resolution.</span>
             </div>
           </div>
@@ -672,6 +683,12 @@ function onHandlePointerUp() {
   touch-action: none;
 }
 
+@media (max-width: 767px) {
+  .backdrop {
+    align-items: stretch;
+  }
+}
+
 /* ── Panel ── */
 .panel {
   width: min(520px, calc(100vw - 32px));
@@ -681,6 +698,17 @@ function onHandlePointerUp() {
   border-radius: 16px;
   border: 2px solid #3d3d3d;
   background: var(--vp-c-bg);
+}
+
+@media (max-width: 767px) {
+  .panel {
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
+    max-height: none;
+    border-radius: 0;
+    border: none;
+  }
 }
 
 @media (min-width: 768px) {
@@ -1048,7 +1076,7 @@ function onHandlePointerUp() {
 .home-help-popup {
   position: fixed;
   z-index: 9999;
-  width: 220px;
+  width: 280px;
   background: var(--vp-c-bg-elv);
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
@@ -1071,23 +1099,23 @@ function onHandlePointerUp() {
   display: flex;
   align-items: center;
   gap: 6px;
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 600;
   color: var(--vp-c-text-1);
-  margin: 0 0 6px;
+  margin: 0 0 4px;
 }
 
 .sh-title-icon {
   flex-shrink: 0;
-  opacity: 0.8;
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
+  display: block;
 }
 
 .sh-desc {
-  font-size: 0.78rem;
+  font-size: 0.875rem;
   color: var(--vp-c-text-2);
-  margin: 0 0 10px;
+  margin: 0 0 6px;
   line-height: 1.5;
 }
 
@@ -1100,20 +1128,29 @@ function onHandlePointerUp() {
 .sh-option {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 4px;
   background: var(--vp-c-bg-soft);
-  border-radius: 6px;
-  padding: 7px 9px;
+  border-radius: 12px;
+  padding: 10px 12px;
 }
 
 .sh-option strong {
-  font-size: 0.78rem;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.875rem;
   font-weight: 600;
   color: var(--vp-c-text-1);
 }
 
+.sh-option-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
 .sh-option span {
-  font-size: 0.74rem;
+  font-size: 0.875rem;
   color: var(--vp-c-text-2);
   line-height: 1.4;
 }
@@ -1151,13 +1188,17 @@ function onHandlePointerUp() {
 .dropdown-label {
   display: flex;
   align-items: center;
-  gap: 4px;
-  font-size: 11.5px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--vp-c-text-3, var(--vp-c-text-2));
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--vp-c-text-1);
   margin-bottom: 0;
+}
+
+.dropdown-label-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
 }
 
 .dropdown-group {

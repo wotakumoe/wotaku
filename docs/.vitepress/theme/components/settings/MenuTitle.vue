@@ -9,7 +9,7 @@ const props = defineProps<{
   <h3
     class="VPNolebaseEnhancedReadabilitiesMenuTitle"
     :class="{ disabled: !!props.disabled }"
-    text="[14px] $vp-nolebase-enhanced-readabilities-menu-text-color"
+    text="[16px] $vp-nolebase-enhanced-readabilities-menu-text-color"
     inline-flex
     select-none
     items-center
