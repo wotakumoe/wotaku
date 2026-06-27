@@ -28,6 +28,7 @@ import {
 } from 'vue'
 import { sidebar } from '../configs/constants'
 import AnnouncementPill from './components/AnnouncementPill.vue'
+import SiteFooter from './components/SiteFooter.vue'
 import NotFoundComponent from './components/NotFound.vue'
 import {
   NolebaseEnhancedReadabilitiesMenu,
@@ -1182,6 +1183,9 @@ onUnmounted(() => {
     </template>
     <template #nav-screen-content-after>
       <NolebaseEnhancedReadabilitiesScreenMenu />
+    </template>
+    <template #layout-bottom>
+      <SiteFooter />
     </template>
 
     <template #nav-bar-title-before>

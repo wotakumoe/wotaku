@@ -47,6 +47,12 @@ const GIT_COMMIT = process.env.NODE_ENV === 'development'
       .then((result) => result.stdout.trim())) ??
     'dev')
 
+const GIT_COMMIT_TIMESTAMP = process.env.NODE_ENV === 'development'
+  ? String(Math.floor(Date.now() / 1000))
+  : ((await (await import('tinyexec'))
+      .x('git', ['log', '-1', '--format=%ct', 'HEAD'])
+      .then((result) => result.stdout.trim())) ?? String(Math.floor(Date.now() / 1000)))
+
 export const shared: UserConfig<DefaultTheme.Config> = {
   ...siteConfig,
   transformHead: async (context) => generateMeta(context, hostname),
@@ -95,21 +101,14 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       provider: 'local'
     },
     logo: { src: '/asset/fav.svg' },
-    sidebar,
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
-      { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' }
-    ],
-    footer: {
-      message:
-        `<a href="https://github.com/wotakumoe">The Wotaku Team</a> <span class="divider">|</span> <a href="https://github.com/wotakumoe/Wotaku/commit/${GIT_COMMIT}">${
-          GIT_COMMIT.slice(0, 7)
-        }</a>`,
-      copyright: 'made with love and eepy energy'
-    }
+    sidebar
   },
   vite: {
     customLogger: logger,
+    define: {
+      __GIT_COMMIT__: JSON.stringify(GIT_COMMIT),
+      __GIT_COMMIT_TS__: parseInt(GIT_COMMIT_TIMESTAMP, 10)
+    },
     experimental: {
       enableNativePlugin: true
     },
