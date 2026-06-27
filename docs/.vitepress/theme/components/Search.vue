@@ -1600,7 +1600,7 @@ function getSearchResultHref(item: SearchResult & Result) {
 }
 
 function navigateToUrlResult(item: UrlResult) {
-  saveToHistory(filterText.value, searchMode.value, [getPageLabel(item.pageId), ...item.titles, item.linkText].map(decodeHtml).filter(Boolean), buildResultHref(item.pageId, item.tabs, item.anchor))
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(item.pageId), ...item.titles, item.linkText].map(toHistoryPathHtml).filter(Boolean), buildResultHref(item.pageId, item.tabs, item.anchor))
   window.dispatchEvent(
     new CustomEvent('search-nav', { detail: { query: filterText.value } })
   )
@@ -1640,7 +1640,7 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
-    saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(selectedPackage.id))), ...selectedPackage.titles, selectedPackage.title].map(decodeHtml).filter(Boolean), getSearchResultHref(selectedPackage))
+    saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(selectedPackage.id))), ...selectedPackage.titles, selectedPackage.title].map(toHistoryPathHtml).filter(Boolean), getSearchResultHref(selectedPackage))
     window.dispatchEvent(
       new CustomEvent('search-nav', {
         detail: { query: filterText.value }
@@ -1652,7 +1652,7 @@ onKeyStroke('Enter', (e) => {
 })
 
 function onResultClick(item: SearchResult & Result) {
-  saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(item.id))), ...item.titles, item.title].map(decodeHtml).filter(Boolean), getSearchResultHref(item))
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(item.id))), ...item.titles, item.title].map(toHistoryPathHtml).filter(Boolean), getSearchResultHref(item))
   window.dispatchEvent(
     new CustomEvent('search-nav', {
       detail: { query: filterText.value }
@@ -1742,6 +1742,12 @@ function decodeHtml(html: string): string {
   const txt = document.createElement('textarea')
   txt.innerHTML = html
   return txt.value
+}
+
+function toHistoryPathHtml(html: string): string {
+  const stripped = decodeHtml(html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim())
+  if (stripped) return escapeHtml(stripped)
+  return html.trim()
 }
 
 function resetSearch() {
@@ -2081,11 +2087,17 @@ function onMouseMove(e: MouseEvent) {
                       <span class="history-query">{{ entry.query }}</span>
                       <template v-if="entry.path?.length">
                         <ArrowRight :size="13" stroke-width="1.5" class="history-arrow" />
-                        <template v-if="entry.path.length > 1">
-                          <span class="history-path-start">{{ entry.path.slice(0, -1).join(' › ') }}</span>
-                          <span class="history-path-sep">›</span>
+                        <template v-for="(seg, si) in entry.path" :key="si">
+                          <span
+                            class="history-path-seg"
+                            :class="{
+                              'history-path-end': si === entry.path.length - 1,
+                              'history-path-only': entry.path.length === 1
+                            }"
+                            v-html="seg"
+                          />
+                          <span v-if="si < entry.path.length - 1" class="history-path-sep">›</span>
                         </template>
-                        <span class="history-path-end" :class="{ 'history-path-only': entry.path.length === 1 }">{{ entry.path[entry.path.length - 1] }}</span>
                       </template>
                     </div>
                     <component
@@ -3564,7 +3576,7 @@ svg {
   color: var(--vp-c-text-3);
 }
 
-.history-path-start {
+.history-path-seg {
   min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;
