@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { computed, onMounted, ref, watch } from 'vue'
+import { computed, nextTick, onMounted, ref, watch } from 'vue'
+import { Columns3, LayoutList } from 'lucide-vue-next'
 import type { HomeCard } from '../../configs/constants'
 
 const props = defineProps<{ cards: HomeCard[] }>()
@@ -84,6 +85,39 @@ function cardIcon(card: HomeCard) {
 /* ── Manager panel ── */
 const panelOpen = ref(false)
 const dropdownOpen = ref(false)
+
+type HelpSection = 'view' | 'columns'
+const activeHelpSection = ref<HelpSection | null>(null)
+const helpPopupEl = ref<HTMLDivElement | null>(null)
+const helpPopupPos = ref({ top: -9999, left: -9999 })
+
+watch(dropdownOpen, (val) => {
+  if (!val) {
+    activeHelpSection.value = null
+    helpPopupPos.value = { top: -9999, left: -9999 }
+  }
+})
+
+function toggleHelpSection(section: HelpSection, e: MouseEvent) {
+  if (activeHelpSection.value === section) {
+    activeHelpSection.value = null
+    helpPopupPos.value = { top: -9999, left: -9999 }
+    return
+  }
+  activeHelpSection.value = section
+  helpPopupPos.value = { top: -9999, left: -9999 }
+  const btn = e.currentTarget as HTMLElement
+  const rect = btn.getBoundingClientRect()
+  nextTick(() => {
+    const popupW = helpPopupEl.value?.offsetWidth || 220
+    const popupH = helpPopupEl.value?.offsetHeight || 160
+    const margin = 8
+    helpPopupPos.value = {
+      left: Math.max(margin, rect.left - popupW - 8),
+      top: Math.max(margin, Math.min(rect.top, window.innerHeight - popupH - margin)),
+    }
+  })
+}
 
 watch(panelOpen, (open) => {
   if (typeof document !== 'undefined')
@@ -339,14 +373,30 @@ function onHandlePointerUp() {
                   <div v-if="dropdownOpen" class="dropdown-overlay" @click="dropdownOpen = false" />
                   <div v-if="dropdownOpen" class="settings-dropdown">
                     <div class="dropdown-section">
-                      <span class="dropdown-label">View</span>
+                      <div class="dropdown-section-header">
+                        <span class="dropdown-label">
+                          <LayoutList :size="10" stroke-width="2.5" />
+                          View
+                        </span>
+                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'view' }" aria-label="View help" @click.stop="toggleHelpSection('view', $event)">
+                          <span class="i-carbon:help-filled settings-help-icon" />
+                        </button>
+                      </div>
                       <div class="dropdown-group">
                         <button class="tool-btn" :class="{ 'is-active': viewMode === 'default' }" @click="viewMode = 'default'">Default</button>
                         <button class="tool-btn" :class="{ 'is-active': viewMode === 'mini' }" @click="viewMode = 'mini'">Mini</button>
                       </div>
                     </div>
                     <div class="dropdown-section">
-                      <span class="dropdown-label">Columns</span>
+                      <div class="dropdown-section-header">
+                        <span class="dropdown-label">
+                          <Columns3 :size="10" stroke-width="2.5" />
+                          Columns
+                        </span>
+                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'columns' }" aria-label="Columns help" @click.stop="toggleHelpSection('columns', $event)">
+                          <span class="i-carbon:help-filled settings-help-icon" />
+                        </button>
+                      </div>
                       <div class="dropdown-group">
                         <button class="tool-btn" :class="{ 'is-active': columnMode === 'default' }" @click="columnMode = 'default'">Default</button>
                         <button class="tool-btn" :class="{ 'is-active': columnMode === 'max' }" @click="columnMode = 'max'">Max</button>
@@ -377,6 +427,50 @@ function onHandlePointerUp() {
       class="card-tooltip"
       :style="{ left: cardTooltip.x + 'px', top: cardTooltip.y + 'px' }"
     >{{ cardTooltip.text }}</div>
+
+    <Transition name="help-popup-fade">
+      <div
+        v-if="activeHelpSection && dropdownOpen"
+        ref="helpPopupEl"
+        class="home-help-popup"
+        :style="{ top: helpPopupPos.top + 'px', left: helpPopupPos.left + 'px' }"
+      >
+        <template v-if="activeHelpSection === 'view'">
+          <h4 class="sh-title">
+            <span class="i-lucide-layout-list sh-title-icon" />
+            View
+          </h4>
+          <p class="sh-desc">Controls how cards are displayed on the homepage.</p>
+          <div class="sh-options">
+            <div class="sh-option">
+              <strong>Default</strong>
+              <span>Full card with icon, title, and description.</span>
+            </div>
+            <div class="sh-option">
+              <strong>Mini</strong>
+              <span>Compact row with icon and title only.</span>
+            </div>
+          </div>
+        </template>
+        <template v-else-if="activeHelpSection === 'columns'">
+          <h4 class="sh-title">
+            <span class="i-lucide-columns-3 sh-title-icon" />
+            Columns
+          </h4>
+          <p class="sh-desc">Controls how many columns the card grid uses.</p>
+          <div class="sh-options">
+            <div class="sh-option">
+              <strong>Default</strong>
+              <span>Adapts automatically based on the number of cards.</span>
+            </div>
+            <div class="sh-option">
+              <strong>Max</strong>
+              <span>Always uses the maximum number of columns based on screen resolution.</span>
+            </div>
+          </div>
+        </template>
+      </div>
+    </Transition>
 
     <Transition name="ghost-fade">
       <div
@@ -912,6 +1006,118 @@ function onHandlePointerUp() {
   background: var(--vp-c-brand-soft);
 }
 
+/* ── Settings Help ── */
+.dropdown-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.dropdown-section-header .dropdown-label {
+  margin-bottom: 0;
+}
+
+.settings-help-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--vp-c-text-3);
+  opacity: 0.5;
+  transition: opacity 0.15s, color 0.15s;
+  border-radius: 3px;
+  line-height: 1;
+}
+
+.settings-help-btn:hover,
+.settings-help-btn.active {
+  opacity: 1;
+  color: var(--vp-c-text-1);
+}
+
+.settings-help-icon {
+  display: block;
+  width: 14px;
+  height: 14px;
+}
+
+.home-help-popup {
+  position: fixed;
+  z-index: 9999;
+  width: 220px;
+  background: var(--vp-c-bg-elv);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+}
+
+.help-popup-fade-enter-active,
+.help-popup-fade-leave-active {
+  transition: opacity 0.15s ease;
+}
+
+.help-popup-fade-enter-from,
+.help-popup-fade-leave-to {
+  opacity: 0;
+}
+
+.sh-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin: 0 0 6px;
+}
+
+.sh-title-icon {
+  flex-shrink: 0;
+  opacity: 0.8;
+  width: 14px;
+  height: 14px;
+}
+
+.sh-desc {
+  font-size: 0.78rem;
+  color: var(--vp-c-text-2);
+  margin: 0 0 10px;
+  line-height: 1.5;
+}
+
+.sh-options {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.sh-option {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background: var(--vp-c-bg-soft);
+  border-radius: 6px;
+  padding: 7px 9px;
+}
+
+.sh-option strong {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.sh-option span {
+  font-size: 0.74rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.4;
+}
+
 /* ── Settings Dropdown ── */
 .settings-wrap {
   position: relative;
@@ -943,13 +1149,15 @@ function onHandlePointerUp() {
 }
 
 .dropdown-label {
-  display: block;
-  font-size: 11px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11.5px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--vp-c-text-3, var(--vp-c-text-2));
-  margin-bottom: 6px;
+  margin-bottom: 0;
 }
 
 .dropdown-group {
