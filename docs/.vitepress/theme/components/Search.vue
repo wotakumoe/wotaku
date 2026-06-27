@@ -43,12 +43,15 @@ import {
   ArrowRight,
   ArrowRightToLine,
   ChevronRight,
+  Clock,
   File,
   Globe,
   Hash,
+  LayoutList,
   List,
   LocateOff,
   Regex,
+  Search,
   Settings2,
   TextAlignStart,
   X
@@ -336,6 +339,48 @@ const showSettingsPopup = ref(false)
 const settingsButtonRef = ref<HTMLButtonElement>()
 const settingsPopupRef = ref<HTMLDivElement>()
 const settingsBounding = useElementBounding(settingsButtonRef)
+type HelpSection = 'search' | 'view' | 'history'
+const activeHelpSection = ref<HelpSection | null>(null)
+const helpPopupEl = ref<HTMLDivElement>()
+const helpPopupPos = ref({ top: -9999, left: -9999 })
+
+watch(showSettingsPopup, (val) => {
+  if (!val) {
+    activeHelpSection.value = null
+    helpPopupPos.value = { top: -9999, left: -9999 }
+  }
+})
+
+function toggleHelpSection(section: HelpSection, e: MouseEvent) {
+  if (activeHelpSection.value === section) {
+    activeHelpSection.value = null
+    helpPopupPos.value = { top: -9999, left: -9999 }
+    return
+  }
+  activeHelpSection.value = section
+  helpPopupPos.value = { top: -9999, left: -9999 }
+  const btn = e.currentTarget as HTMLElement
+  const rect = btn.getBoundingClientRect()
+  nextTick(() => {
+    const popupW = helpPopupEl.value?.offsetWidth || 260
+    const popupH = helpPopupEl.value?.offsetHeight || 200
+    const vw = window.innerWidth
+    const margin = 8
+    const isMobile = vw < 768
+    if (isMobile) {
+      const aboveTop = rect.top - popupH - margin
+      const belowTop = rect.bottom + margin
+      const top = aboveTop >= margin ? aboveTop : belowTop
+      const left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
+      helpPopupPos.value = { top, left }
+    } else {
+      helpPopupPos.value = {
+        left: Math.max(margin, rect.left - popupW - 16),
+        top: rect.top,
+      }
+    }
+  })
+}
 
 const settingsPopupStyle = computed(() => ({
   top: `${settingsBounding.bottom.value + 8}px`,
@@ -2348,9 +2393,24 @@ function onMouseMove(e: MouseEvent) {
                 ref="settingsPopupRef"
                 class="search-settings-popup"
                 :style="settingsPopupStyle"
+                @click="activeHelpSection = null"
               >
                 <div class="settings-section">
-                  <div class="settings-section-label">Search</div>
+                  <div class="settings-section-header">
+                    <div class="settings-section-label">
+                      <Search :size="10" stroke-width="2.5" />
+                      Search
+                    </div>
+                    <button
+                      type="button"
+                      class="settings-help-btn"
+                      :class="{ active: activeHelpSection === 'search' }"
+                      aria-label="Search mode help"
+                      @click.stop="toggleHelpSection('search', $event)"
+                    >
+                      <span class="i-carbon:help-filled settings-help-icon" />
+                    </button>
+                  </div>
                   <div class="settings-options">
                     <button
                       type="button"
@@ -2382,7 +2442,21 @@ function onMouseMove(e: MouseEvent) {
                   v-if="!disableDetailedView && searchMode !== 'url'"
                   class="settings-section"
                 >
-                  <div class="settings-section-label">View</div>
+                  <div class="settings-section-header">
+                    <div class="settings-section-label">
+                      <LayoutList :size="10" stroke-width="2.5" />
+                      View
+                    </div>
+                    <button
+                      type="button"
+                      class="settings-help-btn"
+                      :class="{ active: activeHelpSection === 'view' }"
+                      aria-label="Result view help"
+                      @click.stop="toggleHelpSection('view', $event)"
+                    >
+                      <span class="i-carbon:help-filled settings-help-icon" />
+                    </button>
+                  </div>
                   <div class="settings-options">
                     <button
                       type="button"
@@ -2403,7 +2477,21 @@ function onMouseMove(e: MouseEvent) {
                   </div>
                 </div>
                 <div class="settings-section">
-                  <div class="settings-section-label">History</div>
+                  <div class="settings-section-header">
+                    <div class="settings-section-label">
+                      <Clock :size="10" stroke-width="2.5" />
+                      History
+                    </div>
+                    <button
+                      type="button"
+                      class="settings-help-btn"
+                      :class="{ active: activeHelpSection === 'history' }"
+                      aria-label="Search history help"
+                      @click.stop="toggleHelpSection('history', $event)"
+                    >
+                      <span class="i-carbon:help-filled settings-help-icon" />
+                    </button>
+                  </div>
                   <div class="settings-options">
                     <button
                       type="button"
@@ -2423,6 +2511,75 @@ function onMouseMove(e: MouseEvent) {
                     </button>
                   </div>
                 </div>
+              </div>
+            </Transition>
+            <Transition name="help-popup-fade">
+              <div
+                v-if="activeHelpSection && showSettingsPopup"
+                ref="helpPopupEl"
+                class="search-help-popup"
+                :style="{ top: helpPopupPos.top + 'px', left: helpPopupPos.left + 'px' }"
+              >
+                <template v-if="activeHelpSection === 'search'">
+                  <h4 class="sh-title">
+                    <Search :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    Search Mode
+                  </h4>
+                  <p class="sh-desc">Choose how queries are matched against content.</p>
+                  <div class="sh-options">
+                    <div class="sh-option">
+                      <strong>
+                        <Regex :size="12" stroke-width="1.5" />
+                        Exact
+                      </strong>
+                      <span>Matches the exact phrase you type</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>
+                        <LocateOff :size="12" stroke-width="1.5" />
+                        Fuzzy
+                      </strong>
+                      <span>Approximate matching that tolerates typos</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>
+                        <Globe :size="12" stroke-width="1.5" />
+                        URL
+                      </strong>
+                      <span>Searches page URLs and link destinations</span>
+                    </div>
+                  </div>
+                </template>
+                <template v-else-if="activeHelpSection === 'view'">
+                  <h4 class="sh-title">
+                    <LayoutList :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    Result View
+                  </h4>
+                  <p class="sh-desc">Controls how search results are displayed.</p>
+                  <div class="sh-options">
+                    <div class="sh-option">
+                      <strong>
+                        <TextAlignStart :size="12" stroke-width="1.5" />
+                        Detail
+                      </strong>
+                      <span>Shows a content excerpt below each result. Uses more memory.</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>
+                        <List :size="12" stroke-width="1.5" />
+                        List
+                      </strong>
+                      <span>Compact list of titles only. Uses less memory.</span>
+                    </div>
+                  </div>
+                </template>
+                <template v-else-if="activeHelpSection === 'history'">
+                  <h4 class="sh-title">
+                    <Clock :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    Search History
+                  </h4>
+                  <p class="sh-desc">Saves recent searches and shows them when the search bar is empty.</p>
+                </template>
               </div>
             </Transition>
           </Teleport>
@@ -3142,38 +3299,149 @@ svg {
   z-index: 200;
   background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  padding: 10px;
+  border-radius: 12px;
+  padding: 14px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
   display: flex;
   flex-direction: column;
-  min-width: 196px;
+  min-width: 224px;
 }
 
 .settings-section {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 8px;
 }
 
 .settings-section + .settings-section {
   border-top: 1px solid var(--vp-c-divider);
-  margin-top: 8px;
-  padding-top: 8px;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.settings-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2px;
 }
 
 .settings-section-label {
-  font-size: 11px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11.5px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--vp-c-text-3, var(--vp-c-text-2));
-  margin-bottom: 2px;
+}
+
+.settings-help-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--vp-c-text-3);
+  opacity: 0.5;
+  transition: opacity 0.15s, color 0.15s;
+  border-radius: 3px;
+  line-height: 1;
+}
+
+.settings-help-btn:hover,
+.settings-help-btn.active {
+  opacity: 1;
+  color: var(--vp-c-text-1);
+}
+
+.settings-help-icon {
+  display: block;
+  width: 14px;
+  height: 14px;
+}
+
+/* Help popup */
+.search-help-popup {
+  position: fixed;
+  z-index: 9999;
+  width: 260px;
+  background: var(--vp-c-bg-elv);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+}
+
+.help-popup-fade-enter-active,
+.help-popup-fade-leave-active {
+  transition: opacity 0.15s ease;
+}
+
+.help-popup-fade-enter-from,
+.help-popup-fade-leave-to {
+  opacity: 0;
+}
+
+.sh-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin: 0 0 6px;
+}
+
+.sh-title-icon {
+  flex-shrink: 0;
+  opacity: 0.8;
+}
+
+.sh-desc {
+  font-size: 0.78rem;
+  color: var(--vp-c-text-2);
+  margin: 0 0 10px;
+  line-height: 1.5;
+}
+
+.sh-options {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.sh-option {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background: var(--vp-c-bg-soft);
+  border-radius: 6px;
+  padding: 7px 9px;
+}
+
+.sh-option strong {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.sh-option span {
+  font-size: 0.74rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.4;
 }
 
 .settings-options {
   display: flex;
-  gap: 4px;
+  gap: 5px;
 }
 
 .settings-option {
@@ -3181,13 +3449,13 @@ svg {
   align-items: center;
   justify-content: center;
   gap: 5px;
-  padding: 5px 6px;
+  padding: 7px 8px;
   background: transparent;
   border: none;
-  border-radius: 5px;
+  border-radius: 6px;
   cursor: pointer;
   color: var(--vp-c-text-2);
-  font-size: 14px;
+  font-size: 14.5px;
   font-weight: 500;
   transition: background-color 0.15s, color 0.15s;
   flex: 1;
