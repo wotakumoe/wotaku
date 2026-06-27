@@ -2073,7 +2073,7 @@ function onMouseMove(e: MouseEvent) {
                     title="Clear all history"
                     @click.stop="searchHistory = []"
                   >
-                    <X :size="14" stroke-width="1.5" />
+                    <X :size="16" stroke-width="1.25" />
                   </button>
                 </div>
                 <ul class="history-items">
@@ -2111,7 +2111,7 @@ function onMouseMove(e: MouseEvent) {
                       :title="'Remove \'' + entry.query + '\' from history'"
                       @click.stop="removeFromHistory(index)"
                     >
-                      <X :size="14" stroke-width="1.5" />
+                      <X :size="16" stroke-width="1.25" />
                     </button>
                   </li>
                 </ul>
@@ -3525,11 +3525,13 @@ svg {
   background: transparent;
   color: var(--vp-c-text-3);
   cursor: pointer;
+  opacity: 0.7;
   transition: color 0.15s;
 }
 
 .history-clear-all:hover {
   color: var(--vp-c-text-1);
+  opacity: 1;
 }
 
 .history-items {
@@ -3623,21 +3625,12 @@ svg {
   background: transparent;
   color: var(--vp-c-text-3);
   cursor: pointer;
-  opacity: 0;
-  transition: opacity 0.15s, color 0.15s;
-}
-
-.history-item:hover .history-remove {
-  opacity: 1;
+  opacity: 0.7;
+  transition: color 0.15s;
 }
 
 .history-remove:hover {
   color: var(--vp-c-text-1);
-}
-
-@media (any-pointer: coarse) {
-  .history-remove {
-    opacity: 1;
-  }
+  opacity: 1;
 }
 </style>
