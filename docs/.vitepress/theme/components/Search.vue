@@ -43,12 +43,15 @@ import {
   ArrowRight,
   ArrowRightToLine,
   ChevronRight,
+  Clock,
   File,
   Globe,
   Hash,
+  LayoutList,
   List,
   LocateOff,
   Regex,
+  Search,
   Settings2,
   TextAlignStart,
   X
@@ -282,11 +285,102 @@ function cycleSearchMode() {
 const matchExact = computed(() => searchMode.value === 'exact')
 const urlSearchMode = computed(() => searchMode.value === 'url')
 
+// Search history
+interface SearchHistoryEntry {
+  query: string
+  mode: SearchMode
+  path?: string[]
+  href?: string
+}
+
+const saveHistoryEnabled = useLocalStorage('vitepress:local-search-save-history', false)
+
+const searchHistory = useLocalStorage<SearchHistoryEntry[]>(
+  'vitepress:local-search-history',
+  []
+)
+
+const showHistory = computed(
+  () => !filterText.value && searchHistory.value.length > 0
+)
+
+function saveToHistory(query: string, mode: SearchMode, path?: string[], href?: string) {
+  const trimmed = query.trim()
+  if (!trimmed || !saveHistoryEnabled.value) return
+  const pathKey = (path ?? []).join('\n')
+  searchHistory.value = [
+    { query: trimmed, mode, path, href },
+    ...searchHistory.value.filter(
+      (h) => !(h.query === trimmed && h.mode === mode && (h.path ?? []).join('\n') === pathKey)
+    )
+  ]
+}
+
+function removeFromHistory(index: number) {
+  searchHistory.value = searchHistory.value.filter((_, i) => i !== index)
+}
+
+function applyHistory(entry: SearchHistoryEntry) {
+  if (entry.href) {
+    window.dispatchEvent(
+      new CustomEvent('search-nav', { detail: { query: entry.query } })
+    )
+    router.go(entry.href)
+    showSearch.value = false
+    return
+  }
+  searchMode.value = entry.mode
+  filterText.value = entry.query
+  nextTick(() => focusSearchInput(false))
+}
+
 // Mobile settings popup
 const showSettingsPopup = ref(false)
 const settingsButtonRef = ref<HTMLButtonElement>()
 const settingsPopupRef = ref<HTMLDivElement>()
 const settingsBounding = useElementBounding(settingsButtonRef)
+type HelpSection = 'search' | 'view' | 'history'
+const activeHelpSection = ref<HelpSection | null>(null)
+const helpPopupEl = ref<HTMLDivElement>()
+const helpPopupPos = ref({ top: -9999, left: -9999 })
+
+watch(showSettingsPopup, (val) => {
+  if (!val) {
+    activeHelpSection.value = null
+    helpPopupPos.value = { top: -9999, left: -9999 }
+  }
+})
+
+function toggleHelpSection(section: HelpSection, e: MouseEvent) {
+  if (activeHelpSection.value === section) {
+    activeHelpSection.value = null
+    helpPopupPos.value = { top: -9999, left: -9999 }
+    return
+  }
+  activeHelpSection.value = section
+  helpPopupPos.value = { top: -9999, left: -9999 }
+  const btn = e.currentTarget as HTMLElement
+  const rect = btn.getBoundingClientRect()
+  nextTick(() => {
+    const popupW = helpPopupEl.value?.offsetWidth || 260
+    const popupH = helpPopupEl.value?.offsetHeight || 200
+    const vw = window.innerWidth
+    const margin = 8
+    const isMobile = vw < 768
+    if (isMobile) {
+      const aboveTop = rect.top - popupH - margin
+      const belowTop = rect.bottom + margin
+      const top = aboveTop >= margin ? aboveTop : belowTop
+      const left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
+      helpPopupPos.value = { top, left }
+    } else {
+      helpPopupPos.value = {
+        left: Math.max(margin, rect.left - popupW - 16),
+        top: rect.top,
+      }
+    }
+  })
+}
 
 const settingsPopupStyle = computed(() => ({
   top: `${settingsBounding.bottom.value + 8}px`,
@@ -1506,6 +1600,7 @@ function getSearchResultHref(item: SearchResult & Result) {
 }
 
 function navigateToUrlResult(item: UrlResult) {
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(item.pageId), ...item.titles, item.linkText].map(toHistoryPathHtml).filter(Boolean), buildResultHref(item.pageId, item.tabs, item.anchor))
   window.dispatchEvent(
     new CustomEvent('search-nav', { detail: { query: filterText.value } })
   )
@@ -1545,6 +1640,7 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
+    saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(selectedPackage.id))), ...selectedPackage.titles, selectedPackage.title].map(toHistoryPathHtml).filter(Boolean), getSearchResultHref(selectedPackage))
     window.dispatchEvent(
       new CustomEvent('search-nav', {
         detail: { query: filterText.value }
@@ -1555,7 +1651,8 @@ onKeyStroke('Enter', (e) => {
   }
 })
 
-function onResultClick() {
+function onResultClick(item: SearchResult & Result) {
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(item.id))), ...item.titles, item.title].map(toHistoryPathHtml).filter(Boolean), getSearchResultHref(item))
   window.dispatchEvent(
     new CustomEvent('search-nav', {
       detail: { query: filterText.value }
@@ -1639,6 +1736,18 @@ function formMarkRegex(terms: Set<string>) {
       .join('|'),
     'gi'
   )
+}
+
+function decodeHtml(html: string): string {
+  const txt = document.createElement('textarea')
+  txt.innerHTML = html
+  return txt.value
+}
+
+function toHistoryPathHtml(html: string): string {
+  const stripped = decodeHtml(html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim())
+  if (stripped) return escapeHtml(stripped)
+  return html.trim()
 }
 
 function resetSearch() {
@@ -1933,9 +2042,9 @@ function onMouseMove(e: MouseEvent) {
             <AnimatePresence>
               <component
                 :is="searchMotionDiv"
-                v-if="urlSearchMode
+                v-if="!showHistory && (urlSearchMode
                 ? (!filterText || !urlMatches.length)
-                : (!filterText || !filteredResults.length)"
+                : (!filterText || !filteredResults.length))"
                 class="flex flex-1 flex-col justify-center items-center w-full min-h-full gap-2 font-medium text-sm text-center text-gray-500 dark:text-gray-300 m-auto opacity-90"
                 v-bind="emptyStateMotion"
               >
@@ -1946,6 +2055,66 @@ function onMouseMove(e: MouseEvent) {
                 />
                 <h1 v-if="filterText">Couldn't find anything, try again?</h1>
                 <h1 v-else>Looking for something?</h1>
+              </component>
+            </AnimatePresence>
+
+            <!-- Search history -->
+            <AnimatePresence>
+              <component
+                :is="searchMotionDiv"
+                v-if="showHistory"
+                class="history-list"
+                v-bind="emptyStateMotion"
+              >
+                <div class="history-header">
+                  <span>Recent searches</span>
+                  <button
+                    class="history-clear-all"
+                    title="Clear all history"
+                    @click.stop="searchHistory = []"
+                  >
+                    <X :size="16" stroke-width="1.25" />
+                  </button>
+                </div>
+                <ul class="history-items">
+                  <li
+                    v-for="(entry, index) in searchHistory"
+                    :key="index"
+                    class="history-item"
+                    @click="applyHistory(entry)"
+                  >
+                    <div class="history-main">
+                      <span class="history-query">{{ entry.query }}</span>
+                      <template v-if="entry.path?.length">
+                        <ArrowRight :size="13" stroke-width="1.5" class="history-arrow" />
+                        <template v-for="(seg, si) in entry.path" :key="si">
+                          <span
+                            class="history-path-seg"
+                            :class="{
+                              'history-path-end': si === entry.path.length - 1,
+                              'history-path-only': entry.path.length === 1
+                            }"
+                            v-html="seg"
+                          />
+                          <span v-if="si < entry.path.length - 1" class="history-path-sep">›</span>
+                        </template>
+                      </template>
+                    </div>
+                    <component
+                      :is="entry.mode === 'exact' ? Regex : entry.mode === 'fuzzy' ? LocateOff : Globe"
+                      :size="14"
+                      stroke-width="1.25"
+                      class="history-mode-icon"
+                    />
+                    <button
+                      class="history-remove"
+                      :title="'Remove \'' + entry.query + '\' from history'"
+                      @click.stop="removeFromHistory(index)"
+                    >
+                      <X :size="16" stroke-width="1.25" />
+                    </button>
+                  </li>
+                </ul>
               </component>
             </AnimatePresence>
 
@@ -2047,7 +2216,7 @@ function onMouseMove(e: MouseEvent) {
                     @mouseenter="!disableMouseOver &&
                     (selectedIndex = index + 1)"
                     @focusin="selectedIndex = index + 1"
-                    @click="onResultClick"
+                    @click="onResultClick(p)"
                     :data-index="index + 1"
                   >
                     <div>
@@ -2236,9 +2405,24 @@ function onMouseMove(e: MouseEvent) {
                 ref="settingsPopupRef"
                 class="search-settings-popup"
                 :style="settingsPopupStyle"
+                @click="activeHelpSection = null"
               >
                 <div class="settings-section">
-                  <div class="settings-section-label">Search Mode</div>
+                  <div class="settings-section-header">
+                    <div class="settings-section-label">
+                      <Search :size="10" stroke-width="2.5" />
+                      Search
+                    </div>
+                    <button
+                      type="button"
+                      class="settings-help-btn"
+                      :class="{ active: activeHelpSection === 'search' }"
+                      aria-label="Search mode help"
+                      @click.stop="toggleHelpSection('search', $event)"
+                    >
+                      <span class="i-carbon:help-filled settings-help-icon" />
+                    </button>
+                  </div>
                   <div class="settings-options">
                     <button
                       type="button"
@@ -2246,7 +2430,6 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'exact' }"
                       @click="searchMode = 'exact'"
                     >
-                      <Regex :size="18" stroke-width="1.25" />
                       <span>Exact</span>
                     </button>
                     <button
@@ -2255,7 +2438,6 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'fuzzy' }"
                       @click="searchMode = 'fuzzy'"
                     >
-                      <LocateOff :size="18" stroke-width="1.25" />
                       <span>Fuzzy</span>
                     </button>
                     <button
@@ -2264,7 +2446,6 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: searchMode === 'url' }"
                       @click="searchMode = 'url'"
                     >
-                      <Globe :size="18" stroke-width="1.25" />
                       <span>URL</span>
                     </button>
                   </div>
@@ -2273,7 +2454,21 @@ function onMouseMove(e: MouseEvent) {
                   v-if="!disableDetailedView && searchMode !== 'url'"
                   class="settings-section"
                 >
-                  <div class="settings-section-label">View Mode</div>
+                  <div class="settings-section-header">
+                    <div class="settings-section-label">
+                      <LayoutList :size="10" stroke-width="2.5" />
+                      View
+                    </div>
+                    <button
+                      type="button"
+                      class="settings-help-btn"
+                      :class="{ active: activeHelpSection === 'view' }"
+                      aria-label="Result view help"
+                      @click.stop="toggleHelpSection('view', $event)"
+                    >
+                      <span class="i-carbon:help-filled settings-help-icon" />
+                    </button>
+                  </div>
                   <div class="settings-options">
                     <button
                       type="button"
@@ -2281,7 +2476,6 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: showDetailedList }"
                       @click="showDetailedList = true"
                     >
-                      <TextAlignStart :size="18" stroke-width="1.25" />
                       <span>Detail</span>
                     </button>
                     <button
@@ -2290,11 +2484,114 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: !showDetailedList }"
                       @click="showDetailedList = false"
                     >
-                      <List :size="18" stroke-width="1.25" />
                       <span>List</span>
                     </button>
                   </div>
                 </div>
+                <div class="settings-section">
+                  <div class="settings-section-header">
+                    <div class="settings-section-label">
+                      <Clock :size="10" stroke-width="2.5" />
+                      History
+                    </div>
+                    <button
+                      type="button"
+                      class="settings-help-btn"
+                      :class="{ active: activeHelpSection === 'history' }"
+                      aria-label="Search history help"
+                      @click.stop="toggleHelpSection('history', $event)"
+                    >
+                      <span class="i-carbon:help-filled settings-help-icon" />
+                    </button>
+                  </div>
+                  <div class="settings-options">
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: saveHistoryEnabled }"
+                      @click="saveHistoryEnabled = true"
+                    >
+                      <span>On</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: !saveHistoryEnabled }"
+                      @click="saveHistoryEnabled = false"
+                    >
+                      <span>Off</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </Transition>
+            <Transition name="help-popup-fade">
+              <div
+                v-if="activeHelpSection && showSettingsPopup"
+                ref="helpPopupEl"
+                class="search-help-popup"
+                :style="{ top: helpPopupPos.top + 'px', left: helpPopupPos.left + 'px' }"
+              >
+                <template v-if="activeHelpSection === 'search'">
+                  <h4 class="sh-title">
+                    <Search :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    Search Mode
+                  </h4>
+                  <p class="sh-desc">Choose how queries are matched against content.</p>
+                  <div class="sh-options">
+                    <div class="sh-option">
+                      <strong>
+                        <Regex :size="12" stroke-width="1.5" />
+                        Exact
+                      </strong>
+                      <span>Matches the exact phrase you type</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>
+                        <LocateOff :size="12" stroke-width="1.5" />
+                        Fuzzy
+                      </strong>
+                      <span>Approximate matching that tolerates typos</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>
+                        <Globe :size="12" stroke-width="1.5" />
+                        URL
+                      </strong>
+                      <span>Searches page URLs and link destinations</span>
+                    </div>
+                  </div>
+                </template>
+                <template v-else-if="activeHelpSection === 'view'">
+                  <h4 class="sh-title">
+                    <LayoutList :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    Result View
+                  </h4>
+                  <p class="sh-desc">Controls how search results are displayed.</p>
+                  <div class="sh-options">
+                    <div class="sh-option">
+                      <strong>
+                        <TextAlignStart :size="12" stroke-width="1.5" />
+                        Detail
+                      </strong>
+                      <span>Shows a content excerpt below each result. Uses more memory.</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>
+                        <List :size="12" stroke-width="1.5" />
+                        List
+                      </strong>
+                      <span>Compact list of titles only. Uses less memory.</span>
+                    </div>
+                  </div>
+                </template>
+                <template v-else-if="activeHelpSection === 'history'">
+                  <h4 class="sh-title">
+                    <Clock :size="14" stroke-width="1.75" class="sh-title-icon" />
+                    Search History
+                  </h4>
+                  <p class="sh-desc">Saves recent searches and shows them when the search bar is empty.</p>
+                </template>
               </div>
             </Transition>
           </Teleport>
@@ -2336,9 +2633,9 @@ function onMouseMove(e: MouseEvent) {
   flex-direction: column;
   gap: 16px;
   background: var(--vp-local-search-bg);
-  width: min(100vw - 60px, 900px);
+  width: min(100vw - 60px, 700px);
   height: 100%;
-  max-height: min(100vh - 128px, 900px);
+  max-height: min(100vh - 128px, 680px);
   border-radius: 6px;
 }
 
@@ -2882,19 +3179,7 @@ svg {
 
 .search-mode-group,
 .view-group {
-  display: flex;
-  align-items: center;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 5px;
-  overflow: hidden;
-}
-
-/* Mobile: hide toolbar groups entirely — settings popup handles them */
-@media (max-width: 767px) {
-  .search-mode-group,
-  .view-group {
-    display: none;
-  }
+  display: none;
 }
 
 .mode-btn {
@@ -3011,86 +3296,192 @@ svg {
   background: transparent;
 }
 
-/* Settings toggle button — mobile only */
+/* Settings toggle button — always visible */
 .settings-toggle-btn {
-  display: none;
-}
-
-@media (max-width: 767px) {
-  .settings-toggle-btn {
-    display: flex;
-    border: none;
-    border-radius: 5px;
-    color: var(--vp-c-text-1);
-    padding: 8px;
-  }
+  display: flex;
+  border: none;
+  border-radius: 5px;
+  color: var(--vp-c-text-1);
+  padding: 8px;
 }
 
 /* Settings popup card */
 .search-settings-popup {
   position: fixed;
   z-index: 200;
-  background: var(--vp-c-bg-elv);
+  background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
-  padding: 12px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
+  padding: 14px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  min-width: 175px;
+  min-width: 224px;
 }
 
 .settings-section {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 8px;
+}
+
+.settings-section + .settings-section {
+  border-top: 1px solid var(--vp-c-divider);
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.settings-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2px;
 }
 
 .settings-section-label {
-  font-size: 0.7rem;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11.5px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.06em;
+  color: var(--vp-c-text-3, var(--vp-c-text-2));
+}
+
+.settings-help-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
   color: var(--vp-c-text-3);
-  padding: 0 4px;
+  opacity: 0.5;
+  transition: opacity 0.15s, color 0.15s;
+  border-radius: 3px;
+  line-height: 1;
+}
+
+.settings-help-btn:hover,
+.settings-help-btn.active {
+  opacity: 1;
+  color: var(--vp-c-text-1);
+}
+
+.settings-help-icon {
+  display: block;
+  width: 14px;
+  height: 14px;
+}
+
+/* Help popup */
+.search-help-popup {
+  position: fixed;
+  z-index: 9999;
+  width: 260px;
+  background: var(--vp-c-bg-elv);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+}
+
+.help-popup-fade-enter-active,
+.help-popup-fade-leave-active {
+  transition: opacity 0.15s ease;
+}
+
+.help-popup-fade-enter-from,
+.help-popup-fade-leave-to {
+  opacity: 0;
+}
+
+.sh-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin: 0 0 6px;
+}
+
+.sh-title-icon {
+  flex-shrink: 0;
+  opacity: 0.8;
+}
+
+.sh-desc {
+  font-size: 0.78rem;
+  color: var(--vp-c-text-2);
+  margin: 0 0 10px;
+  line-height: 1.5;
+}
+
+.sh-options {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.sh-option {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background: var(--vp-c-bg-soft);
+  border-radius: 6px;
+  padding: 7px 9px;
+}
+
+.sh-option strong {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.sh-option span {
+  font-size: 0.74rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.4;
 }
 
 .settings-options {
   display: flex;
-  flex-direction: column;
-  border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
-  overflow: hidden;
+  gap: 5px;
 }
 
 .settings-option {
   display: flex;
   align-items: center;
-  gap: 8px;
-  padding: 9px 12px;
+  justify-content: center;
+  gap: 5px;
+  padding: 7px 8px;
   background: transparent;
   border: none;
+  border-radius: 6px;
   cursor: pointer;
   color: var(--vp-c-text-2);
-  font-size: 0.88rem;
-  text-align: left;
+  font-size: 14.5px;
+  font-weight: 500;
   transition: background-color 0.15s, color 0.15s;
-  width: 100%;
-}
-
-.settings-option + .settings-option {
-  border-top: 1px solid var(--vp-c-divider);
+  flex: 1;
 }
 
 .settings-option:hover {
-  background: var(--vp-c-default-soft);
   color: var(--vp-c-text-1);
+  background: var(--vp-c-bg-soft);
 }
 
 .settings-option.active {
   color: var(--vp-c-brand-1);
-  background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
+  background: var(--vp-c-brand-soft);
+  font-weight: 600;
 }
 
 .settings-popup-enter-active,
@@ -3103,5 +3494,143 @@ svg {
 .settings-popup-leave-to {
   opacity: 0;
   transform: scale(0.92) translateY(-4px);
+}
+
+.history-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 4px 0;
+}
+
+.history-header {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--vp-c-text-3);
+  padding: 4px 12px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.history-clear-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--vp-c-text-3);
+  cursor: pointer;
+  opacity: 0.7;
+  transition: color 0.15s;
+}
+
+.history-clear-all:hover {
+  color: var(--vp-c-text-1);
+  opacity: 1;
+}
+
+.history-items {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.history-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.15s;
+}
+
+.history-item:hover {
+  background: var(--vp-c-default-soft);
+}
+
+.history-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  overflow: hidden;
+}
+
+.history-query {
+  flex-shrink: 0;
+  font-size: 0.9rem;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+}
+
+.history-arrow {
+  flex-shrink: 0;
+  opacity: 0.5;
+  color: var(--vp-c-text-3);
+}
+
+.history-path-seg {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--vp-c-text-3);
+}
+
+.history-path-sep {
+  flex-shrink: 0;
+  font-size: 0.78rem;
+  color: var(--vp-c-text-3);
+}
+
+.history-path-end {
+  flex-shrink: 0;
+  white-space: nowrap;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--vp-c-text-3);
+}
+
+.history-path-only {
+  flex-shrink: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.history-mode-icon {
+  flex-shrink: 0;
+  color: var(--vp-c-text-3);
+  opacity: 0.7;
+}
+
+.history-remove {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--vp-c-text-3);
+  cursor: pointer;
+  opacity: 0.7;
+  transition: color 0.15s;
+}
+
+.history-remove:hover {
+  color: var(--vp-c-text-1);
+  opacity: 1;
 }
 </style>
