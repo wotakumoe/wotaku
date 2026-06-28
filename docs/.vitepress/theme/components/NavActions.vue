@@ -80,9 +80,9 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
 }
 
 .nav-action {
-  flex: 0 0 var(--nav-pill-item-size);
-  min-width: 0;
-  max-width: var(--nav-pill-item-size);
+  flex: none;
+  width: var(--nav-pill-item-size);
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
