@@ -101,7 +101,11 @@ export const shared: UserConfig<DefaultTheme.Config> = {
       provider: 'local'
     },
     logo: { src: '/asset/fav.svg' },
-    sidebar
+    sidebar,
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/wotakumoe/Wotaku' },
+      { icon: 'discord', link: 'https://discord.gg/vShRGx8ZBC' }
+    ]
   },
   vite: {
     customLogger: logger,

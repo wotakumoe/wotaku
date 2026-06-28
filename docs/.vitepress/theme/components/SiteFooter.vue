@@ -22,54 +22,29 @@ onMounted(() => {
 
 <template>
   <footer v-if="isHome" class="site-footer">
-    <span class="footer-left">
+    <span class="footer-center">
       <span v-if="buildAge">{{ buildAge }}</span>
       <span v-if="buildAge" class="divider">|</span>
       <a :href="`https://github.com/wotakumoe/Wotaku/commit/${commit}`" class="no-icon">{{ commit.slice(0, 7) }}</a>
-    </span>
-    <span class="footer-right">
-      <a href="https://github.com/wotakumoe/Wotaku" aria-label="GitHub" class="icon-link no-icon" target="_blank" rel="noopener">
-        <span class="i-simple-icons:github" />
-      </a>
-      <a href="https://discord.gg/vShRGx8ZBC" aria-label="Discord" class="icon-link no-icon" target="_blank" rel="noopener">
-        <span class="i-simple-icons:discord" />
-      </a>
     </span>
   </footer>
 </template>
 
 <style scoped>
 .site-footer {
-  position: relative;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 12px 24px;
   font-size: 12px;
   color: var(--vp-c-text-2);
-  background-color: var(--vp-c-bg);
+  background-color: var(--vp-c-bg-alt);
 }
 
-.site-footer::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 1px;
-  background: linear-gradient(to right, transparent, var(--vp-c-divider), transparent);
-}
-
-.footer-left {
+.footer-center {
   display: flex;
   align-items: center;
   gap: 8px;
-}
-
-.footer-right {
-  display: flex;
-  align-items: center;
-  gap: 12px;
 }
 
 .divider {
@@ -85,19 +60,6 @@ a {
 }
 
 a:hover {
-  color: var(--vp-c-text-1);
-}
-
-.icon-link {
-  display: flex;
-  align-items: center;
-  font-size: 20px;
-  text-decoration: none;
-  color: var(--vp-c-text-2);
-  transition: color 0.3s;
-}
-
-.icon-link:hover {
   color: var(--vp-c-text-1);
 }
 </style>
