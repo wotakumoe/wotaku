@@ -74,7 +74,8 @@ const safelist = [
   'i-lucide:heart',
   'i-lucide:message-circle',
   'i-lucide:copy',
-  'i-lucide:check'
+  'i-lucide:check',
+  'i-lucide:settings'
 ]
 
 export default defineConfig({

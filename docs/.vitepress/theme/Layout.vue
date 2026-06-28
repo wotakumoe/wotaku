@@ -30,10 +30,8 @@ import { sidebar } from '../configs/constants'
 import AnnouncementPill from './components/AnnouncementPill.vue'
 import SiteFooter from './components/SiteFooter.vue'
 import NotFoundComponent from './components/NotFound.vue'
-import {
-  NolebaseEnhancedReadabilitiesMenu,
-  NolebaseEnhancedReadabilitiesScreenMenu
-} from './components/settings'
+import { NolebaseEnhancedReadabilitiesScreenMenu } from './components/settings'
+import NavActions from './components/NavActions.vue'
 import SidebarCard from './components/SidebarCard.vue'
 import { AccentColorStorageKey, LowEndDeviceModeStorageKey, TakodachiStorageKey } from './constants'
 import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
@@ -1174,7 +1172,7 @@ onUnmounted(() => {
       <AnnouncementPill />
     </template>
     <template #nav-bar-content-after>
-      <NolebaseEnhancedReadabilitiesMenu />
+      <NavActions />
     </template>
     <template #nav-screen-content-before>
       <nav v-if="isHome" id="VPSidebarNavMobile" class="home-screen-nav">

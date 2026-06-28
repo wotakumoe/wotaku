@@ -18,8 +18,8 @@ const mounted = useMounted()
 
 <template>
   <VPFlyout
-    icon="i-icon-park-outline:setting-two"
-    class="VPNolebaseEnhancedReadabilitiesMenu VPNolebaseEnhancedReadabilitiesMenuFlyout h-11 bg-white/80 dark:bg-neutral-900/70 backdrop-blur-lg rounded-r-3xl"
+    icon="i-lucide:settings"
+    class="VPNolebaseEnhancedReadabilitiesMenu VPNolebaseEnhancedReadabilitiesMenuFlyout"
     aria-label="Enhanced Readability"
     role="menuitem"
   >
@@ -60,10 +60,6 @@ const mounted = useMounted()
 .VPNolebaseEnhancedReadabilitiesMenuFlyout {
   display: none;
   transition: background-color 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-}
-
-.VPNolebaseEnhancedReadabilitiesMenuFlyout::before {
-  --uno: "pr-1.5! pl-1.5!";
 }
 
 @media (min-width: 768px) {

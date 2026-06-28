@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { onKeyStroke } from '@vueuse/core'
-import { defineAsyncComponent, onMounted, onUnmounted, ref } from 'vue'
+import { defineAsyncComponent, onMounted, onUnmounted } from 'vue'
 
-import { AnimatePresence } from 'motion-v'
+import { searchOpen as showSearch } from '../searchState'
 import VPNavBarSearchButton from './NavBarSearchButton.vue'
 
 const VPLocalSearchBox = defineAsyncComponent(() => import('./Search.vue'))
@@ -38,9 +38,6 @@ function isEditingContent(event: KeyboardEvent): boolean {
     tagName === 'TEXTAREA'
   )
 }
-
-// Local search
-const showSearch = ref(false)
 
 onKeyStroke('k', (event) => {
   if (event.ctrlKey || event.metaKey) {
