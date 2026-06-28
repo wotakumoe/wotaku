@@ -196,19 +196,6 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   }
 }
 
-.VPFooter a {
-  text-decoration-line: underline;
-  text-decoration-style: dashed;
-  text-underline-offset: 5px;
-  transition: 0.3s;
-
-  &:hover {
-    color: var(--vp-c-text-1);
-    text-decoration-line: underline;
-    text-decoration-style: dashed;
-    text-underline-offset: 5px;
-  }
-}
 
 :root {
   --vp-home-hero-name-color: transparent;
@@ -555,11 +542,7 @@ table tr:nth-child(odd) {
 }
 
 /** New Styles */
-.VPFooter {
-  .divider {
-    color: var(--vp-c-divider);
-  }
-}
+
 
 ::view-transition-group(root) {
   animation-timing-function: $ease-in-expo;
