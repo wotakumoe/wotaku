@@ -458,12 +458,12 @@ Only use this if you know what you're getting yourselves into. Recommended board
 
 - [JET Encoding Guide](https://jaded-encoding-thaumaturgy.github.io/JET-guide/) :s:
 - [Advanced Encoding Guide](https://silentaperture.gitlab.io/mdbook-guide/introduction.html)
+- [arch1t3cht's Guide](https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453)
 - [Fansubbing Guide](https://guide.encode.moe/)
 - [Good Job! Media](https://www.goodjobmedia.com/fansubbing/)
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yuki Subs](https://yukisubs.wordpress.com/guides/)
-- [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 - :rd: [Fansubbing tools](/tools?tabs=video-tools)
 
 == Scanlation
