@@ -363,7 +363,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 == Online
 
-- [Toku555](https://toku555.com/)
+- [Tokuzilla](https://tukoz.com/t/) [:alt:](https://tkzl.net/)
 - [Zokaj](https://zokaj.com/) [:alt:](https://kajzu.com/)
 - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial)
 - [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
