@@ -105,6 +105,21 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
     var(--vp-c-brand-soft) 15%,
     transparent 100%
   );
+
+  --nav-pill-height: 2.5rem;
+  --nav-pill-radius: 1.5rem;
+  --nav-pill-item-size: 1.875rem;
+  --nav-pill-gap: 0.125rem;
+  --nav-pill-pad: 0.125rem;
+  --nav-pill-icon-size: 18px;
+  --nav-pill-blur: 12px;
+  --nav-pill-bg: rgb(255 255 255 / 0.8);
+  --nav-pill-border: rgb(64 64 64 / 0.08);
+}
+
+.dark {
+  --nav-pill-bg: rgb(23 23 23 / 0.7);
+  --nav-pill-border: rgb(212 212 212 / 0.1);
 }
 
 .dark {
@@ -1111,7 +1126,6 @@ table tr:nth-child(odd) {
   }
 }
 
-/* navbar left side group in order */
 .VPNavBarMenu.menu {
   @apply h-11 rounded-l-3xl;
 
@@ -1133,48 +1147,32 @@ table tr:nth-child(odd) {
   }
 }
 
-.VPNavBarAppearance.appearance {
-  @apply h-11 bg-white/80 dark:bg-neutral-900/70 backdrop-blur-lg rounded-l-3xl;
-
-  &::before {
-    @apply hidden;
-  }
-}
-
+.VPNavBarAppearance.appearance,
 .VPSocialLinks.VPNavBarSocialLinks.social-links {
-  @apply h-11 pr-0! pl-1.5! bg-white/80 dark:bg-neutral-900/70 backdrop-blur-lg;
+  @apply hidden!;
 }
 
-/* ... mobile */
-.VPFlyout.VPNavBarExtra.extra {
-  @apply h-11 bg-white/80 dark:bg-neutral-900/70;
-
-  & > .button {
-    @apply h-10.5 backdrop-blur-lg rounded-r-3xl!;
+@media (min-width: 768px) {
+  .VPFlyout.VPNavBarExtra.extra {
+    @apply hidden!;
   }
 }
-
-/* end navbar leftside group */
 
 #local-search {
   & > .DocSearch-Button {
     @apply hover:scale-[1.03] focus:scale-[1.03] active:scale-[0.98]
-      h-10 rounded-xl backdrop-blur-sm lg:ml-2 sm:bg-red-50;
+      h-10 rounded-xl backdrop-blur-sm lg:ml-2;
     transition: scale 150ms ease !important;
     color: var(--docsearch-secondary-text-color);
 
-    @media (width >= 40rem /* 640px */) {
-      background-color: var(--vp-c-bg-soft);
-    }
-
     & > .DocSearch-Button-Container {
       & > .DocSearch-Button-Placeholder {
-        @apply pl-2 pr-3 hidden sm:inline;
+        @apply hidden!;
       }
     }
 
     & > .DocSearch-Button-Keys {
-      @apply py-0.75 -translate-y-1 hidden sm:inline;
+      @apply hidden!;
     }
   }
 }
@@ -1182,14 +1180,6 @@ table tr:nth-child(odd) {
 .VPSidebarItem.is-link:not(.collapsible),
 .VPSidebarItem.is-link.collapsible > .item {
   @apply active:scale-[0.98] transition-all!;
-}
-
-.VPSocialLinks.VPNavBarSocialLinks.social-links {
-  @apply pl-2.5;
-
-  &::before {
-    @apply hidden;
-  }
 }
 
 .VPDocAside {
@@ -1268,6 +1258,12 @@ table tr:nth-child(odd) {
 
 .VPNavBarSearch.search {
   @apply ml-2 pl-0!;
+}
+
+@media (min-width: 768px) {
+  #local-search {
+    @apply hidden!;
+  }
 }
 
 %thin-scrollbar {
@@ -1495,6 +1491,7 @@ html.reduce-blur-effects {
   .VPFlyout.VPNavBarExtra.extra > .button,
   #local-search > .DocSearch-Button,
   .VPNolebaseEnhancedReadabilitiesMenuFlyout,
+  .nav-actions,
   .VPNavScreen:has(.home-screen-nav) {
     backdrop-filter: none !important;
     -webkit-backdrop-filter: none !important;
@@ -1511,6 +1508,7 @@ html.reduce-blur-effects {
   .VPNavBarAppearance.appearance,
   .VPSocialLinks.VPNavBarSocialLinks.social-links,
   .VPNolebaseEnhancedReadabilitiesMenuFlyout,
+  .nav-actions,
   .VPFlyout.VPNavBarExtra.extra,
   .VPNavScreen:has(.home-screen-nav) {
     background-color: var(--vp-c-bg) !important;
@@ -1519,6 +1517,7 @@ html.reduce-blur-effects {
   &.dark {
     .VPNavBarAppearance.appearance,
     .VPSocialLinks.VPNavBarSocialLinks.social-links,
+    .nav-actions,
     .VPNolebaseEnhancedReadabilitiesMenuFlyout {
       background-color: #151617 !important;
     }
