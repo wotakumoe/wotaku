@@ -408,7 +408,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.codes/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
-- [YomiRaw](https://yomiraw.com/)
 
 </Collapsible>
 
