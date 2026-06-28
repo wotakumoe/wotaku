@@ -40,8 +40,8 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
           :aria-label="isDark ? 'Switch to light theme' : 'Switch to dark theme'"
           @click="toggleAppearance()"
         >
-          <Moon v-if="isDark" :size="ICON_SIZE" :stroke-width="ICON_STROKE" />
-          <Sun v-else :size="ICON_SIZE" :stroke-width="ICON_STROKE" />
+          <Moon :size="ICON_SIZE" :stroke-width="ICON_STROKE" class="nav-appearance-moon" />
+          <Sun :size="ICON_SIZE" :stroke-width="ICON_STROKE" class="nav-appearance-sun" />
         </button>
 
         <VPSocialLink
@@ -160,4 +160,10 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
 }
 
 .nav-action--settings :deep(.vpi-chevron-down) { display: none; }
+
+</style>
+
+<style>
+html.dark .nav-appearance-sun { display: none; }
+html:not(.dark) .nav-appearance-moon { display: none; }
 </style>
