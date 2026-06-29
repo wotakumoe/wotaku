@@ -74,7 +74,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Erik Larsen** | [Spawn](https://antiheroes.fandom.com/wiki/Spawn) | [Comics banner](/websites#comics) |
 | **Fari** | [V](https://medibang.com/picture/142307130449401690015558098/) | [Music banner](/music#info-sites) |
 | **藤ちょこ (Fujichoco)** | [Hatsune Miku “Magical Mirai 2020” Osaka](https://magicalmirai.com/2020/osaka/) | [Audio glossary banner](/glossary/audio#japanese-music-genres) |
-| **フカヒレ (Fukahire)** | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195) | [Music banner](/qs#music) |
+| **フカヒレ (Fukahire)** | [Hoshimachi Suisei](https://x.com/fuka_hire/status/1619998921757192195) | QS music banner |
 | **Gambe**                   | [Nero Claudius](https://www.pixiv.net/en/artworks/78042247)                                        | Fate banner         |
 | **Gobackgu** | [cm](https://x.com/Gobackgu/status/2022541570319511694) | Default link embed |
 | **胡麻乃りお (Gomano Rio)** | [Mash Kyrielight](https://www.pixiv.net/en/artworks/61127636)                                      | Fate banner         |
@@ -114,7 +114,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **Text682** | [rkgk](https://www.pixiv.net/en/artworks/141606115) | Default link embed |
 | **Toei** | [Kamen Rider Imperial Demons](https://www.deviantart.com/stainrender/art/Kamen-Rider-Imperial-Demons-Render-1025700355) | [Tokusatsu banner](/websites#tokusatsu) |
 | **TROYCA**                  | [Waver Velvet](https://yande.re/post/show/551600)                                                  | Fate banner         |
-| **トゥーミ (Twumi)** | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931) | [Essentials banner](/qs#essentials) |
+| **トゥーミ (Twumi)** | [Chibi Nadeshiko Kagamihara](https://www.pixiv.net/en/artworks/67505931) | Essentials banner |
 | **tyasuzu** | [Ryo Yamada](https://www.pixiv.net/en/artworks/104004187) | [Music banner](/music#stream) |
 | **티비아래underdatv**       | [Smol Ina's diary](https://x.com/underdatv/status/1790765775349072046)                             | Favicon             |
 | **Walfie**                  | [Ninomae Ina’nis peek](https://x.com/ninomaeinanis/status/1339282161715691521)                     | General banner      |
