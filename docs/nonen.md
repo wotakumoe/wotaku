@@ -61,7 +61,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Okanime](https://okanime.tv/) |
 | ^^ | [WitAnime](https://witanime.cyou/) |
 | **Manga** | [3asQ](https://3asq.org/) |
-| ^^ | [Azora Moon](https://azoramoon.com/) |
+| ^^ | [Azora Manga](https://azorafly.com/) |
 | ^^ | [Swat Manga](https://meshmanga.com/) |
 | **Novels** | [Hizo Manga](https://hizomanga.net/) |
 | **NSFW** | [Arabs Hentai](https://arabshentai.com/) |
@@ -493,7 +493,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
-- [Desu Online](https://desu-online.pl/)
 - [Docchi](https://docchi.pl/) [:src:](https://github.com/docchipl/shinden-description)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
@@ -519,7 +518,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Geekdot](https://geekdot.live/) ||TV|| |
 | ^^ | [Goyabu](https://goyabu.io/inicio-2) |
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
-| ^^ | [HentaisTube](https://www.hentaistube.com/) :ero: |
 | ^^ | [:tg: Toonami na Era do Telegram](https://t.me/toonamibr) |
 | **Manga** | [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero: |
 | ^^ | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
