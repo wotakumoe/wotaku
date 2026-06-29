@@ -43,7 +43,7 @@ og:
 
 == General
 - [Anisub](https://anisub.tv/)
-- [Cineby](https://www.cineby.sc/)
+- [Cineby](https://www.cineby.at/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://rentry.org/wotaxy#kisskh)
 - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
 
@@ -73,8 +73,8 @@ og:
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
 
 == TV Program
-- [NHK Easy Japanese](https://www.nhk.or.jp/lesson/)
-- [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/ondemand/category/28/)
+- [NHK Easy Japanese](https://www3.nhk.or.jp/nhkworld/lesson/)
+- [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/shows/category/28/)
 
 == Live TV
 - [AQ Stream](https://aqstream.com/jp)
@@ -87,7 +87,7 @@ og:
 - [Globe TV](https://globetv.app/)
 - [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) [||JP||](https://iptv-org.github.io/iptv/countries/jp.m3u) [||JPN||](https://iptv-org.github.io/iptv/languages/jpn.m3u)
 - [Search TV](https://searchtv.net/)
-- [TV Garden](https://tv.garden/jp)
+- [TV Garden](https://famelack.com/jp)
 
 :::
 
@@ -111,7 +111,7 @@ og:
 - [TMW eBook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+eBook) :mag:
 
 == Easy Reading
-- [NHK News Web Easy](https://www3.nhk.or.jp/news/easy/)
+- [NHK News Web Easy](https://news.web.nhk/news/easy/)
 - [Easy Japanese](https://japanese.todaiinews.com/)
 - [e-douwa](https://www.e-douwa.com/)
 - [Satori Reader](https://www.satorireader.com/)

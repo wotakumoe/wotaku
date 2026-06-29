@@ -17,7 +17,7 @@ og:
 | :--- | :--- |
 | Software | [Anki](https://apps.ankiweb.net/) :win::app::lin: |
 | ^^ | [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) :and: |
-| ^^ | :prev: [Anki with Add-ons on Android: Guide](https://github.com/kaihouguide/the_ULTIMATE_android_mining_setup) |
+| ^^ | :prev: [Anki with Add-ons on Android: Guide](https://github.com/1Selxo/the_ULTIMATE_android_mining_setup) |
 | ^^ | [AnkiMobile Flashcards](https://apps.apple.com/app/id373493387) :ios::paid: |
 | ^^ | [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid) :and: |
 | ^^ | [KAnki](https://github.com/crizmo/KAnki) :simple-icons-amazon: |
@@ -39,7 +39,7 @@ og:
 - [Kanji Grid](https://github.com/Kuuuube/kanjigrid)
 - [Kanji Schizos](https://github.com/kaanium/new-kanji-finder)
 - [Local Anki Server](https://ankiweb.net/shared/info/49665391)
-- [Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)
+- [Local Audio Server for Yomichan](https://github.com/yomidevs/local-audio-yomichan)
 - [quick image](https://github.com/ZXY101/quick-image)
 - [Review Heatmap](https://ankiweb.net/shared/info/1771074083)
 - [Search Stats Extended](https://ankiweb.net/shared/info/1613056169)
@@ -74,7 +74,7 @@ og:
 | ^^ | [Anime decks (Sub2Srs)](https://rentry.org/wotadirect#japansoftware) |
 | ^^ | [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) |
 | ^^ | [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) |
-| ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/Japanese-Proper-Nouns-Deck) |
+| ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/jpn-proper-nouns-deck) |
 | ^^ | [Tango N5 omega deck](https://rentry.org/wotadirect#japansoftware) ||Beginner|| |
 
 :::
@@ -87,7 +87,7 @@ og:
 
 | Category | Software |
 | :--- | :--- |
-| **Android** | [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s: |
+| **Android** | [jidoujisho](https://github.com/arianneorpilla/jidoujisho) :s: |
 | ^^ | [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3) |
 | ^^ | [Kaku Japanese Dictionary (OCR)](https://github.com/0xbad1d3a5/Kaku) |
 | ^^ | [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/) |
@@ -101,7 +101,7 @@ og:
 | Category | Software |
 | :--- | :--- |
 | **Android** | [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) |
-| ^^ | [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s: |
+| ^^ | [jidoujisho](https://github.com/arianneorpilla/jidoujisho) :s: |
 | ^^ | [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:src:](https://github.com/blastrock/kakugo) |
 | ^^ | [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji) |
 | ^^ | [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata) |
@@ -120,7 +120,7 @@ og:
 
 | Category | Software |
 | :--- | :--- |
-| **Android** | [jidoujisho](https://github.com/lrorpilla/jidoujisho) :s: |
+| **Android** | [jidoujisho](https://github.com/arianneorpilla/jidoujisho) :s: |
 | ^^ | [Easy Japanese](https://play.google.com/store/apps/details?id=mobi.eup.jpnews) [:web:](https://japanese.todaiinews.com/) |
 | ^^ | [Hoshi Reader Android](https://github.com/HuangAntimony/Hoshi-Reader-Android) |
 | ^^ | [Satori Reader](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader) [:web:](https://www.satorireader.com/) |
@@ -144,7 +144,7 @@ og:
 | :--- | :--- | :--- |
 | **Video Player** | [Anime Subtitle Player](https://anime-subtitle-player.vercel.app/) [:src:](https://github.com/LostArrows27/anime-subtitle-player) | :web: |
 | ^^ | [Animebook](https://animebook.github.io/) [:help:](https://cademcniven.com/posts/20210703/) | :web: |
-| ^^ | [Asbplayer](https://killergerbah.github.io/asbplayer/) [:src:](https://github.com/killergerbah/asbplayer) | :web::cr: |
+| ^^ | [Asbplayer](https://killergerbah.github.io/asbplayer/) [:src:](https://github.com/asbplayer/asbplayer) | :web::cr: |
 | ^^ | :prev: [Yomine](https://github.com/mcgrizzz/Yomine) | |
 | ^^ | [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku) | |
 | ^^ | [Voracious](https://voracious.app/) [:src:](https://github.com/rsimmons/voracious) | :win::lin: |
@@ -160,7 +160,7 @@ og:
 | ^^ | [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts) | |
 | ^^ | [mpv subversive](https://github.com/nairyosangha/mpv-subversive) | |
 | **Reader** | [Mokuro](https://github.com/kha-white/mokuro) | :win::app::lin: |
-| ^^ | :prev: [ZXY101's fork](https://github.com/ZXY101/mokuro-reader) | |
+| ^^ | :prev: [ZXY101's fork](https://github.com/ZXY101/legacy-mokuro-reader) | |
 | ^^ | :prev: [KojoZero's fork](https://github.com/KojoZero/mokuro-reader) | |
 | ^^ | :prev: [Mokuro Catalog](https://mokuro.moe/catalog/) | |
 | ^^ | :prev: [Mokuro.moe Full Manga Catalog](https://rentry.org/wotadirect#japansoftware) | |
@@ -168,7 +168,7 @@ og:
 
 == Browser
 - [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:src:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
-- :prev: [Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
+- :prev: [Yomitan Dictionaries](https://github.com/MarvNC/yomitan-dictionaries/)
 - :prev: [Collection of Yomitan dictionaries (japanese)](https://rentry.org/wotadirect#japansoftware)
 - :prev: [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
 - :prev: [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
@@ -215,7 +215,7 @@ feeling lazy. someone pr platform icons for this section.
 | ^^ | :prev: [Chenx221's Textractor fork](https://github.com/Chenx221/Textractor) | |
 | ^^ | :prev: [Texthooker UI](https://github.com/Renji-XD/texthooker-ui) | |
 | ^^ | :prev: [Textractor websocket](https://github.com/kuroahna/textractor_websocket) | |
-| ^^ | [Trim Japanese Game Audio](https://github.com/bpwhelan/TrimJapaneseGameAudio/) | |
+| ^^ | [Trim Japanese Game Audio](https://github.com/bpwhelan/GameSentenceMiner/) | |
 | Others | [ComicEater](https://github.com/kanjieater/ComicEater) | |
 | ^^ | [Furiganalyse](https://furiganalyse.itsupera.co/) [:src:](https://github.com/itsupera/furiganalyse) | :web: |
 | ^^ | [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi) | |

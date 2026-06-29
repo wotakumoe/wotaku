@@ -137,7 +137,7 @@ og:
 | ^^ | [JPEGView](https://github.com/sylikc/jpegview) | :win: |
 | ^^ | [qimgv](https://github.com/easymodo/qimgv) :s: | :win::app::lin::bsd: |
 | ^^ | [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView) | :win::app::lin: |
-| ^^ | [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs: | :win::app::lin: |
+| ^^ | [XnView MP](https://www.xnview.com/en/xnview/) :cs: | :win::app::lin: |
 | Video Player | [mpv](https://mpv.io/) :s: [:src:](https://github.com/mpv-player/mpv) | :win::app::lin: |
 | ^^ | [SMPlayer](https://www.smplayer.info/) [:src:](https://github.com/smplayer-dev/smplayer) | :win::app::lin: |
 | ^^ | [MPC-HC](https://github.com/clsid2/mpc-hc) | :win: |
@@ -230,7 +230,7 @@ og:
 | **FFmpeg** | [HandBrake](https://handbrake.fr/) [:src:](https://github.com/HandBrake/HandBrake) | :win::app::lin: |
 | ^^ | [Videomass](https://jeanslack.github.io/Videomass/) [:src:](https://github.com/jeanslack/Videomass) | :win::app::lin: |
 | ^^ | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) [:src:](https://github.com/ffmpegwasm/ffmpeg.wasm) | :web: |
-| ^^ | [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch) | :win: |
+| ^^ | [FFmpeg Batch AV Converter](https://github.com/eibols/ffmpeg_batch) | :win: |
 | **MKVToolNix** | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) | :win::app::lin: |
 | ^^ | [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) | :win::cs: |
 | ^^ | [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) | :win: |
@@ -253,9 +253,9 @@ og:
 | **Request** | [Ombi](https://ombi.io/) [:src:](https://github.com/Ombi-app/Ombi) |
 | ^^ | [Serr](https://seerr.dev/) [:src:](https://github.com/seerr-team/seerr) |
 | **Others** | [Bazarr](https://www.bazarr.media/) ||Subtitle|| [:src:](https://github.com/morpheus65535/bazarr) |
-| ^^ | [Doplarr](https://github.com/kiranshila/Doplarr) ||Discord|| |
+| ^^ | [Doplarr](https://github.com/activexray/Doplarr) ||Discord|| |
 | ^^ | [homarr](https://homarr.dev/) ||Dashboard|| [:src:](https://github.com/ajnart/homarr) |
-| ^^ | [Maintainerr](https://maintainerr.info/) ||Storage|| [:src:](https://github.com/jorenn92/Maintainerr) |
+| ^^ | [Maintainerr](https://maintainerr.info/) ||Storage|| [:src:](https://github.com/Maintainerr/Maintainerr) |
 | ^^ | [requestrr](https://github.com/thomst08/requestrr) ||Discord|| |
 | ^^ | [Tdarr](https://home.tdarr.io/) ||Transcoding|| [:src:](https://github.com/morpheus65535/bazarr) |
 | **Docs** | [Servarr Wiki](https://wiki.servarr.com/) |
@@ -283,7 +283,7 @@ og:
 | Resources | Platform |
 | :--- | :--- |
 | [BleachBit](https://www.bleachbit.org/) [:src:](https://github.com/bleachbit/bleachbit) | :win::lin: |
-| [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) [:src:](https://github.com/Klocman/Bulk-Crap-Uninstaller) | :win: |
+| [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) [:src:](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | :win: |
 | [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) :cs: | :win: |
 | [Everything](https://www.voidtools.com/) :cs: | :win: |
 | [EverythingToolbar](https://github.com/srwi/EverythingToolbar) | :win: |
@@ -305,9 +305,9 @@ og:
 
 == Anime
 
-- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) :ff:
+- [Animepahe Plus](https://github.com/hwk929/Animepahe-plus) :ff:
 - [Anime Skip Player](https://anime-skip.com/) :cr::ff: [:src:](https://github.com/anime-skip/player)
-- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) :cr::ff:
+- [Aniskip](https://github.com/aniskip/aniskip-extension) :cr::ff:
 - [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons) :cr::ff:
 - [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) :cr::ff:
 - [Substital](https://substital.com/) :cs: :cr::ff:

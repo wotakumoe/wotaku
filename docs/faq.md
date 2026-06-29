@@ -134,7 +134,7 @@ The quality of the anime file depends on the [**source**](/glossary/anime#source
 
 On the other hand, aggregators like [**KickassAnime**](https://kaa.lt/) & [**AniZone**](https://anizone.to/) re-encode them further. They sacrifice some of the quality in favor of smaller file sizes, thereby maintaining a smoother user experience on their sites.
 
-[**SeaDex**](https://releases.moe/) & [**Sneedex**](https://sneedex.moe/) rank their picks of the best quality rips for a variety of shows.
+[**SeaDex**](https://releases.moe/) & [**Sneedex**](https://static.sneedex.moe/) rank their picks of the best quality rips for a variety of shows.
 
 </Collapsible>
 

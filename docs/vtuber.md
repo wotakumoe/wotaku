@@ -114,7 +114,7 @@ og:
 | ^^           | [ytarchive](https://github.com/Kethsar/ytarchive) |
 | **Stream**   | [Ragtag Player](https://archive.ragtag.moe/player) |
 | ^^          | [Streamlink](https://streamlink.github.io/index.html) [:src:](https://github.com/streamlink/streamlink) |
-| ^^          | [Twitch Multi-Streamer](https://multistreamer.lucidnet.app/) |
+| ^^          | [Twitch Multi-Streamer](https://multistreamer.tv/) |
 
 <Collapsible title="Related resources">
 
@@ -138,7 +138,7 @@ og:
 - [HoloSchedule](https://github.com/YunzheZJU/holo-schedule) [:cr:](https://chromewebstore.google.com/detail/holoschedule/fjicegllhddldnnkgfefblholeegpcad) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/holo-schedule/)
 - [HyperChat](https://livetl.app/hyperchat) [:src:](https://github.com/LiveTL/HyperChat) [:cr:](https://chromewebstore.google.com/detail/hyperchat-improved-youtub/naipgebhooiiccifflecbffmnjbabdbh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/hyperchat/)
 - [Immersive Translate](https://immersivetranslate.com/) [:cr:](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/immersive-translate/)
-- [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
+- [TTV LOL PRO](https://github.com/younesaassila/ttv-lol-pro) [:cr:](https://chromewebstore.google.com/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) [:ff:](https://addons.mozilla.org/addon/ttv-lol-pro/)
 - [ytcFilter](https://github.com/LiveTL/ytcfilter) [:cr:](https://chromewebstore.google.com/detail/ytcfilter/mnldnbhgfocmkehnlkeanlhfmopepnko) [:ff:](https://addons.mozilla.org/en-US/firefox/addon/ytcfilter/)
 
 <Block link="/guides/tech/adblock">General adblock solution is added here</Block>

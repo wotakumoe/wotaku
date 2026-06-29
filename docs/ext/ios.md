@@ -16,7 +16,7 @@ og:
 | [Moomooo95](https://github.com/Moomooo95/aidoku-french-sources) | :flag-france: | [Install](aidoku://addSourceList?url=https://moomooo95.github.io/aidoku-french-sources/index.min.json) | [URL](https://moomooo95.github.io/aidoku-french-sources/index.min.json) |
 | [Smexhy](https://smexhy.github.io/yomu-aidoku-sources/) [:src:](https://github.com/Smexhy/yomu-aidoku-sources) | :global: | [Install](aidoku://addSourceList?url=https://smexhy.github.io/yomu-aidoku-sources/index.min.json) | [URL](https://smexhy.github.io/yomu-aidoku-sources/index.min.json) |
 | [Suiyuran](https://github.com/suiyuran/aidoku-zh-sources) | :lcn: | [Install](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/main/public/) | [URL](https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/refs/heads/main/public/index.min.json) |
-| [Skittyblock](https://github.com/Skittyblock/aidoku-community-sources) :ded: | :global: | [Install](aidoku://addSourceList?url=https://skittyblock.github.io/aidoku-community-sources/index.min.json) | [URL](https://skittyblock.github.io/aidoku-community-sources/index.min.json) |
+| [Skittyblock](https://github.com/Skittyblock/aidoku-community-sources) :ded: | :global: | [Install](aidoku://addSourceList?url=https://skitty.xyz/aidoku-community-sources/index.min.json) | [URL](https://skitty.xyz/aidoku-community-sources/index.min.json) |
 
 ## Paperback
 

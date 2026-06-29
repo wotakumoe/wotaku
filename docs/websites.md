@@ -37,7 +37,7 @@ outline: 2
 |----------|-------|----------|-----|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) [:alt:](https://mkissa.to/anime) | :yes: | :msync: | :cc::oc: |
 | [Anibd](https://anibd.app/) [:alt:](https://ani.lol/) | :yes: | :no: | :oc: |
-| [AniHQ](https://anihq.org/home/) | :yes: | :no: | :oc: |
+| [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | :prev: [AniDB](https://anidb.app/) ==AniDB== | :yes: | :no: | :oc: |
@@ -290,7 +290,7 @@ Some of the series/services may not be available depending on your region.
 | [Lezhin](https://www.lezhinus.com/en) | :free::coin::sub: |
 | [Manta](https://manta.net/en) | :free::coin::sub: |
 | [Tapas](https://tapas.io/) | :free::coin: |
-| [Tappytoon](https://www.tappytoon.com/en/comics/home) | :free::coin::sub: |
+| [Tappytoon](https://www.tappytoon.com/en/comics/discover) | :free::coin::sub: |
 | [Toomics](https://toomics.com/en/) | :free::coin::sub: |
 | [TopToon](https://global.toptoon.com/) | :free::coin::sub: |
 | [WebComics](https://webcomicsapp.com/) | :free::coin: |
@@ -364,7 +364,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 == Online
 
 - [Tokuzilla](https://tukoz.com/t/) [:alt:](https://tkzl.net/)
-- [Zokaj](https://zokaj.com/) [:alt:](https://kajzu.com/)
+- [Zokaj](https://zenkaj.com/) [:alt:](https://kajzu.com/)
 - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial)
 - [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
 - [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official)
@@ -376,7 +376,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Asiaflix](https://asiaflix.net/) :hd:
 - [Anisub](https://anisub.tv/) :hd::cjp:
-- [Cineby](https://www.cineby.sc/)
+- [Cineby](https://www.cineby.at/)
 
 </collapsible>
 
@@ -452,7 +452,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 == Reading Guide
 - [Comic Book Herald](https://www.comicbookherald.com/)
 - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
-- [Complete Marvel Reading Order](https://cmro.travis-starnes.com/)
+- [Complete Marvel Reading Order](https://marvelreading.com/)
 - [Continuity Guide](https://www.continuityguide.net/)
 - [How To Love Comics](https://www.howtolovecomics.com/)
 - [Marvel Guides](https://marvelguides.com/)

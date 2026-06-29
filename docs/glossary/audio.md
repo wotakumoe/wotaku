@@ -76,11 +76,11 @@ PCM (Pulse Code Modulation) is the most widely used audio encoding method. It in
 
 <Collapsible title="Direct Stream Digital (DSD)">
 
-Direct Stream Digital (DSD), a product developed by [Sony & Philips](https://www.sony.net/Products/DSD/), is known for its high-resolution audio quality. However, DSD files are relatively rare due to their low popularity. Several factors contribute to this, including their huge file size, the difficulty in mastering and editing during production, and the greater efficiency of PCM files in various aspects.
+Direct Stream Digital (DSD), a product developed by [Sony & Philips](https://www.sony.co.jp/en/Products/DSD/), is known for its high-resolution audio quality. However, DSD files are relatively rare due to their low popularity. Several factors contribute to this, including their huge file size, the difficulty in mastering and editing during production, and the greater efficiency of PCM files in various aspects.
 
 DSD is an audio encoding method that uses 1-bit delta-sigma modulation. It samples the audio signal at a very high sample rate, representing changes in signal density rather than amplitude levels, and has only 1 bit of amplitude. The most popular DSD standard is .dsf, but there are other standards as well.
 
-![Analog Signal, PCM & DSD](https://www.sony.net/Products/DSD/images/img_1_en.png)
+![Analog Signal, PCM & DSD](https://www.sony.co.jp/en/Products/DSD/images/img_1_en.png)
 
 DSD files can be classified based on their sampling rate:
 
@@ -95,7 +95,7 @@ DSD files can be classified based on their sampling rate:
 DSD’s high sampling rate allows for a wide dynamic range, even with a 1-bit depth. Factors like noise shaping and dithering also contribute to the audio quality. Noise shaping moves noise to the ultrasonic range. For example, DSD64 files start to see noise increase past 20kHz, requiring the DAC to filter it out. Higher DSD rates experience less noise rise, pushing it further into the ultrasonic range and making noise shaping more linear, which eases the DAC's job.
 
 
-![Noise in DSD64 & DSD128](https://audiophilestyle.com/uploads/monthly_2014_12/dsd64-128.jpg.b549f3da738f0349755c8778cfbbb22e.jpg)
+![Noise in DSD64 & DSD128](https://media.invisioncic.com/r336805/monthly_2014_12/dsd64-128.jpg.b549f3da738f0349755c8778cfbbb22e.jpg)
 
 
 </Collapsible>

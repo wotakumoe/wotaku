@@ -132,7 +132,7 @@ og:
 | ^^ | [Pitch Accent for Absolute Beginners](https://www.youtube.com/playlist?list=PLAmROvem8e1LhXfCUqCDshBLAdi_LlR6y) <tooltip>by Yudai Sensei</tooltip> |
 | ^^ | [Verb Pitch Accent and Verbs' Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O) <tooltip>by Seize Japanese</tooltip> |
 | ^^ | [Related Channels](/japan/immersion#youtube) |
-| **Practice** | [Kanken](https://www.kanken.or.jp/kanken/meyasucheck/) |
+| **Practice** | [Kanken](https://www.kanken.or.jp/kanken/grades/meyasucheck/) |
 | ^^ | [Kotu](https://kotu.io/) :acc: |
 | ^^ | [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) :fm: |
 | ^^ | [SuperNative](https://supernative.tv/ja/) |
@@ -142,7 +142,7 @@ og:
 == Pronunciation
 
 - [AxTongue](https://axtongue.com/) <tooltip>YouTube</tooltip>
-- [aiueo](https://aiueo.cc/pages/en/home.php)
+- [aiueo](https://aiueo.cc/pages_v2/en/home.php)
 - [CaptionPop](https://www.captionpop.com/japanese?nl=en) <tooltip>YouTube</tooltip>
 - [Filmot](https://filmot.com/) <tooltip>YouTube</tooltip>
 - [Forvo](https://forvo.com/languages/ja/) <tooltip>Native Speaker</tooltip>

@@ -16,13 +16,13 @@ og:
 | Airmail                    | High-Cost    | Fast           | Offered           | :airplane:                                 |
 | EMS (Express Mail Service) | Highest-Cost | Fastest        | Offered           | :airplane:                                 |
 
-The option for SAL shipments are temporarily unavailable due to covid protocols. You can find JP Post's service availability by country [here](https://www.post.japanpost.jp/int/information/overview_en.html). Combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail, but still less priority than airmail.
+The option for SAL shipments are temporarily unavailable due to covid protocols. You can find JP Post's service availability by country [here](https://www.post.japanpost.jp/service/send/oversea/information/overview_en.html). Combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail, but still less priority than airmail.
 
 ![Illustration of speed of the options](/ss/shipping.gif)
 
-- [Beginners guide to international mail shipping](https://www.post.japanpost.jp/int/howto/index_en.html)
-- [Checking service availability in your country](https://www.post.japanpost.jp/int/information/overview_en.html)
-- [Further details on delivery types offered by Japan Post](https://www.post.japanpost.jp/int/service/index_en.html)
+- [Beginners guide to international mail shipping](https://www.post.japanpost.jp/service/send/oversea/use/howto/index_en.html)
+- [Checking service availability in your country](https://www.post.japanpost.jp/service/send/oversea/information/overview_en.html)
+- [Further details on delivery types offered by Japan Post](https://www.post.japanpost.jp/service/send/oversea/list/index_en.html)
 
 Aside from Japan post you also have your usual private couriers, like DHL, FEDEX, UPS, etc. They are also  very expensive, you will have to go to their respective site to see their policies and prices they offer, or at checkout, storefronts usual show the full price of shipping in your country. [**Here**](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en) you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering. When it comes to customs, be sure to visit your country's government customs website for information on duties and taxes
 

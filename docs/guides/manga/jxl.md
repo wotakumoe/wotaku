@@ -29,7 +29,7 @@ og:
 | ^^ | [NeeView](https://neelabo.github.io/NeeView/en-us/) [:src:](https://github.com/neelabo/NeeView) | :win: |
 | ^^ | [YACReader](https://www.yacreader.com/) :warning: [:src:](https://github.com/YACReader/yacreader) <tooltip>For some lossy original images it won't work. Kinda random.</tooltip> | :win::app::lin: |
 | ^^ | [Komelia](https://github.com/Snd-R/Komelia) | :win::lin: |
-| Photo Viewer | [XnView MP](https://www.xnview.com/en/xnviewmp/) :cs: | :win::app::lin:|
+| Photo Viewer | [XnView MP](https://www.xnview.com/en/xnview/) :cs: | :win::app::lin:|
 | ^^ | [Picview](https://picview.org/) [:src:](https://github.com/Ruben2776/PicView/) | :win: |
 | ^^ | [Bandiview](https://en.bandisoft.com/bandiview/) :cs::paid: | :win: |
 

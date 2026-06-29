@@ -130,7 +130,7 @@ If everything works, you should now be able to rip UHD discs, like any other dis
 
 [VLC.](https://www.videolan.org/vlc/) You may need to [install Java](https://adoptium.net/) for menus.
 
-[MPV also works](https://mpv.io/) but doesn't support DVD menus. [Kodi](https://kodi.tv/) *may* work, but from my own testing, UHDs don't work and the feature is quite buggy in general. Same with [PowerDVD.](https://www.cyberlink.com/products/powerdvd-ultra/features_en_US.html?r=1)
+[MPV also works](https://mpv.io/) but doesn't support DVD menus. [Kodi](https://kodi.tv/) *may* work, but from my own testing, UHDs don't work and the feature is quite buggy in general. Same with [PowerDVD.](https://www.cyberlink.com/products/powerdvd-ultra/overview_en_US.html?r=1)
 
 Also [MPC-HC](https://mpc-hc.org/) should work, but requires you to mount the ISO and it's no longer actively developed.
 
@@ -201,7 +201,7 @@ You may also want to try rental services. If you're in the US (which good luck i
 
 <Collapsible title="I have another question not answered here.">
 
-You can try asking on [FMHY](https://rentry.co/fmhy-invite) or on [c/piracy](https://lemmy.dbzer0.com/c/piracy).
+You can try asking on [FMHY](https://rentry.co/FMHY-Invite) or on [c/piracy](https://lemmy.dbzer0.com/c/piracy).
 
 </Collapsible>
 

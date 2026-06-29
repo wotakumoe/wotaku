@@ -101,9 +101,9 @@ og:
 <collapsible title="Frontends">
 
 - [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview)
-- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer)
+- [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy/danbooru-viewer)
 - [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
-- [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE)
+- [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/PixivFE/PixivFE)
 - [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer)
 
 </collapsible>
@@ -233,7 +233,7 @@ og:
 
 | Categories | Software |
 | :--- | :--- |
-| General | [Comic Looms](https://github.com/MapoMagpie/eh-view-enhance) |
+| General | [Comic Looms](https://github.com/MapoMagpie/comic-looms) |
 | ^^ | [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton) |
 | ^^ | [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more) |
 | ^^ | [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-enhance) |

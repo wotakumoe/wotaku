@@ -181,7 +181,7 @@ outline: 2
 
 | Type | Website |
 |-|-|
-| **General** | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/Butterstroke/Myneworm) |
+| **General** | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/AurelicButter/Myneworm) |
 | ^^      | [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss) |
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
 | **Manga**   | [Otaku Calendar](https://otakucalendar.com/) |
@@ -375,7 +375,7 @@ outline: 2
 | **Tools** | [AniCheck](https://anicheck.moe/) [:src:](https://github.com/gubo97000/aniCheck) | :al: |
 | ^^        | [AniListDiff](https://animelistdiff.zerolabs.fyi/) | :mal::al: |
 | ^^        | [AniTools](https://anitools.koopz.rocks/) | :al: |  
-| ^^        | [aniTrakt](https://anitrakt.huere.net/) [:src:](https://github.com/ryuuganime/aniTrakt-IndexParser) | :mal: |  
+| ^^        | [aniTrakt](https://anitrakt.huere.net/) [:src:](https://github.com/rensetsu/db.trakt.anitrakt) | :mal: |  
 | ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
 
 

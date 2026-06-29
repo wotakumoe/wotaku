@@ -39,7 +39,7 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 == Publishers
 | Store                                         | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 |-----------------------------------------------|------------|----------|-----|-------------------------------------|
-| [Ablaze](https://www.ablaze.net/)<sup>1</sup>  | ~x1800 | :no: | :yes: | Humble Bundle |
+| [Ablaze](https://ablazecomics.myshopify.com/)<sup>1</sup>  | ~x1800 | :no: | :yes: | Humble Bundle |
 | [Alpha Manga](https://www.alpha-manga.com/)   | x1800       |  -  | :yes: | - |
 | [Dark Horse](https://darkhorse.com/)  | ~x2400 or 2560x<sup>2</sup> | :no: | :yes: | (GlobalComix) / Amazon Kindle |
 | [DENPA](https://denpa.pub/)<sup>3</sup>      | Varies     | :no: | :yes: | Own Store |
@@ -121,7 +121,7 @@ These websites focus on Manhwa, Manhua and OEL.
 | [MangaToon](https://mangatoon.mobi/en) | Varies<sup>4</sup> | :no: |
 | [Manta](https://manta.net/en) <sup>5</sup>       | 720x                            | :yes: |
 | [Tapas](https://tapas.io/)   <sup>5</sup>        | 940x                            | :yes: |
-| [Tappytoon](https://www.tappytoon.com/en/comics/home)<sup>5</sup> | 720x                       | :yes: |
+| [Tappytoon](https://www.tappytoon.com/en/comics/discover)<sup>5</sup> | 720x                       | :yes: |
 | [Toomics](https://toomics.com/en/) <sup>6</sup> | 720x                       | :no: |
 | [WebNovel](https://www.webnovel.com/) | 800x | :no: |
 

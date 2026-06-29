@@ -115,7 +115,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Web osu!mania](https://webosumania.com/) [:src:](https://github.com/HecticKiwi/Web-Osu-Mania)
 
 == Tools
-- [ani!Search](https://klof44.ca/ani-search/)
+- [ani!Search](https://klof.ca/ani-search/)
 - [Batch Beatmap Downloader](https://github.com/nzbasic/batch-beatmap-downloader) :win:
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner) :win:
 - [osu! Trainer](https://github.com/FunOrange/osu-trainer) :win:
@@ -156,7 +156,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 == Tools
 - Nuzlocke Chart [:and:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:ios:](https://apps.apple.com/app/id1573090300)
 - [PKHeX](https://github.com/kwsch/PKHeX)
-- [Poké Transporter GB](https://github.com/GearsProgress/Poke_Transporter_GB)
+- [Poké Transporter GB](https://github.com/Striaton-Lab-Team/Poke_Transporter_GB)
 - [Pokémon Type Calculator](https://www.pkmn.help/pokedex/)
 - [Stat Calculator](https://veekun.com/dex/gadgets/stat_calculator)
 - [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/)

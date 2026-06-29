@@ -39,7 +39,7 @@ og:
 | **Kotatsu** | [Usagi](https://yumemi.moe/) [:src:](https://github.com/UsagiApp/Usagi) |
 | ^^ | [Futon](https://futonapp.pages.dev/) [:src:](https://github.com/AppFuton/Futon) |
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
-| ^^ | [Kototoro](https://github.com/skepsun/Kototoro) |
+| ^^ | [Kototoro](https://github.com/Kototoro-app/Kototoro) |
 | **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
@@ -190,7 +190,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 | [Stremio](https://www.stremio.com/) :cs::fm::sub: [:e:](#tab-stremio) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
-| [Unyo](https://github.com/K3vinb5/Unyo) | :win::app::lin: | :ddl: | :al: |
+| [Unyo](https://github.com/K3vinb5/unyo-app) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
 
@@ -284,7 +284,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [Mangaplus Downloader](https://github.com/hurlenko/mloader/) | :py: |
 | **Novels** | [WebtoEpub](https://github.com/dteviot/WebToEpub) | :ff::cr: |
 | ^^ | [Epublifier](https://github.com/maoserr/epublifier) | :ff::cr: |
-| ^^ | [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler) | :win::app::lin::dock: |
+| ^^ | [Lightnovel Crawler](https://github.com/lncrawl/lightnovel-crawler) | :win::app::lin::dock: |
 | **DRM** | [KeyDive](https://github.com/hyugogirubato/KeyDive/) ||L3|| | :py: |
 | ^^ | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | :win::lin: |
 | ^^ | :prev: [PlayreadyProxy2](https://github.com/DevLARLEY/PlayreadyProxy2) | :cr::ff: |
@@ -298,7 +298,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Software | Platform |
 | :--- | :--- |
 | [Anicon for AniList](https://github.com/EnArvy/AniconforAnilist) | :win: |
-| [AnimeJaNai](https://github.com/the-database/mpv-upscale-2x_animejanai) | :win: |
+| [AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) | :win: |
 | [nativeres](https://github.com/Jaded-Encoding-Thaumaturgy/nativeres) | :py: |
 | [Manami](https://github.com/manami-project/manami) | :win::app::lin: |
 | [Shoko Anime](https://shokoanime.com/) [:src:](https://github.com/ShokoAnime/) | :win::app::lin: |
@@ -366,7 +366,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) |
 | **Manga**      | [Komga](https://komga.org/) :s: [:src:](https://github.com/gotson/komga) |
 | ^^         | [Kavita](https://www.kavitareader.com/) [:src:](https://github.com/Kareadita/Kavita) |
-| ^^         | [LANraragi](https://sugoi.gitbook.io/lanraragi/v/dev) [:src:](https://github.com/Difegue/LANraragi) |
+| ^^         | [LANraragi](https://sugoi.gitbook.io/lanraragi/dev) [:src:](https://github.com/Difegue/LANraragi) |
 | ^^         | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) |
 | **Novels**     | [Kavita](https://www.kavitareader.com/) :s: [:src:](https://github.com/Kareadita/Kavita) |
 | ^^         | [Komga](https://komga.org/) [:src:](https://github.com/gotson/komga) |
@@ -387,7 +387,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [Streamyfin](https://github.com/streamyfin/streamyfin) :and::ios: |
 | [**Komga**](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: |
 | ^^         | [Komik](https://pruizlezcano.github.io/komic/) :ios::fm: |
-| [**LANraragi**](https://sugoi.gitbook.io/lanraragi/v/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: |
+| [**LANraragi**](https://sugoi.gitbook.io/lanraragi/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: |
 | ^^         | [LANreader](https://github.com/Doraemoe/LANreader) :ios: |
 | ^^         | [LRReader](https://github.com/Guerra24/LRReader) :win: |
 
@@ -396,9 +396,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Solution   | Client/Tools |
 |----------- |-------------|
 | **General**    | [MAL-Sync](https://github.com/MALSync/MALSync) |
-| [**Jellyfin**](https://jellyfin.org/) | [Jellyfin-RPC](https://github.com/Radiicall/jellyfin-rpc) |
+| [**Jellyfin**](https://jellyfin.org/) | [Jellyfin-RPC](https://github.com/JustRadical/jellyfin-rpc) |
 | ^^         | [Jellyfin MAL Metadata Plugin](https://github.com/ryandash/jellyfin-plugin-myanimelist) |
-| ^^         | [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-shikimori-plugin) |
+| ^^         | [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-plugin-shikimori) |
 | [**Kavita**](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) [:js:](https://github.com/Snd-R/komf-userscript) |
 | [**Komga**](https://komga.org/)| [komf](https://github.com/Snd-R/komf) [:js:](https://github.com/Snd-R/komf-userscript)  |
 | ^^         | [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |

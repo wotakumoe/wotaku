@@ -80,7 +80,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 ::: tip Notes
 1. Some countries have free access up to 128kbps MP3. You can also try [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock) or [echo](https://github.com/brahmkshatriya/echo).
 2. No public access at the moment.
-3. The quality depends on the artist's upload. ALAC will be up to [24/48](https://get.bandcamp.help/hc/en-us/articles/23020723975959-Can-I-upload-higher-resolution-tracks-What-about-24-bit).
+3. The quality depends on the artist's upload. ALAC will be up to [24/48](https://get.bandcamp.help/en/articles/15263308-can-i-upload-higher-resolution-audio).
 
 The sources mentioned here are all digital, with their max qualities listed. Quality of an individual track/album depends on the Label and Platform. For physical purchases go to [**merch**](/merch#shops).
 :::
@@ -275,7 +275,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^          | [Anime Song Lyrics](https://www.animesonglyrics.com/) |
 | **Doujin**  | [Dojin Music](https://www.dojin-music.info/) |
 | ^^          | [VocaDB](https://vocadb.net/) |
-| ^^          | [Vocaranking](https://vocaloid-rankings.fly.dev/en) [:src:](https://github.com/Duosion/vocaloid-rankings) |
+| ^^          | [Vocaranking](https://vocaloid-rankings.fly.dev/en) [:src:](https://github.com/duosii/vocaloid-rankings) |
 | ^^          | [UtaiteDB](https://utaitedb.net/) |
 | ^^          | [Utaite Key](https://utaite-key.info/) |
 | **Touhou**  | [TouhouDB](https://touhoudb.com/) |
@@ -365,7 +365,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^         | [Revanced](https://revanced.app/) :and: [:src:](https://github.com/revanced) |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | **YouTube** | [Innertune](https://github.com/z-huang/InnerTune) :and: |
-| ^^         | [Metrolist](https://metrolist.meowery.eu/) :and: [:src:](https://github.com/mostafaalagamy/metrolist) |
+| ^^         | [Metrolist](https://metrolist.meowery.eu/) :and: [:src:](https://github.com/MetrolistGroup/Metrolist) |
 | ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
 | **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :ios: |
@@ -402,7 +402,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^           | [Marvis Pro](https://apps.apple.com/app/id1447768809) :mdi-lastfm::ios::cs: |
 | **Others**   | [MusicSearch](https://github.com/lydavid/MusicSearch) :and: ||MusicBrainz|| |
 | ^^           | [Seeker](https://github.com/jackBonadies/SeekerAndroid) :and: ||Soulseek|| |
-| ^^           | [SpotiFLAC Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) :and::ios: |
+| ^^           | [SpotiFLAC Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) :and::ios: |
 | ^^           | [Stats.fm](https://stats.fm/) :mdi-spotify::and::ios::cs: |
 :::
 
@@ -453,7 +453,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Software | Platform |
 | :--- | :--- |
 | [Nicotine+](https://nicotine-plus.org/) ==Nicotine== | :win::app::lin: |
-| [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) ==SpotiFLAC== | :win::app::lin: |
+| [SpotiFLAC](https://github.com/spotbye/SpotiFLAC) ==SpotiFLAC== | :win::app::lin: |
 | [TIDDL](https://github.com/oskvr37/tiddl) | :py: |
 | [Votify](https://github.com/glomatico/votify) | :py: |
 | [Zotify](https://github.com/Googolplexed0/zotify) | :py: |
@@ -463,7 +463,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Extension | Platform |
 | :--- | :--- |
 | [AHA Music](https://aha-music.com/) :cs: | :cr: |
-| [Better Lyrics](https://better-lyrics.boidu.dev/) [:src:](https://github.com/boidushya/better-lyrics) | :cr::ff: |
+| [Better Lyrics](https://better-lyrics.boidu.dev/) [:src:](https://github.com/better-lyrics/better-lyrics) | :cr::ff: |
 | [Even Better RateYourMusic](https://github.com/kknq/even-better-rym) | :cr::ff: |
 | [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) | :cr::ff: |
 | [Spotify New Releases](https://spotify-new-releases.web.app/) :cs: | :cr: |
@@ -531,11 +531,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs: | :win::app: |
 | ^^ | [Piapro Studio](https://piaprostudio.com/?lang=en) :cs: | :win::app: |
 | ^^ | [CeVIO](https://cevio.jp/) :cs: | :win: |
-| ^^ | [OpenUtau](https://www.openutau.com/) [:src:](https://github.com/stakira/OpenUtau) | :win::app::lin: |
+| ^^ | [OpenUtau](https://www.openutau.com/) [:src:](https://github.com/openutau/OpenUtau) | :win::app::lin: |
 | DAW | [Ableton](https://www.ableton.com/en/) :cs: | :win::app: |
 | ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
-| ^^ | [FL Studio](https://www.image-line.com/fl-studio/) :cs: | :win::app: |
-| ^^ | [Studio One](https://www.presonus.com/en-US/studio-one.html) :cs: | :win: |
+| ^^ | [FL Studio](https://www.image-line.com/) :cs: | :win::app: |
+| ^^ | [Studio One](https://www.fender.com/products/fender-studio-pro) :cs: | :win: |
 | Related Links | [SynthV.info](https://synthv.info/) | :no: |
 | ^^ | [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music) | :no: |
 | ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |

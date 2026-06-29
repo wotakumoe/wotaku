@@ -52,7 +52,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Anime** | [Anime3rb](https://anime3rb.com/) |
-| ^^ | [Anime4up](https://anime4up.rest/) |
+| ^^ | [Anime4up](https://w1.anime4up.rest/home8/) |
 | ^^ | [Animeblkom](https://blkom.com/) |
 | ^^ | [Animelek](https://animelek.top/) |
 | ^^ | [Animerco](https://zeta.animerco.org/) |
@@ -127,8 +127,8 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Bangumi Staff Statistics](https://search.bgmss.fun/) [:src:](https://github.com/AcuLY/BangumiStaffStats) |
 
 ### Comics
-- [69xinshu](https://69shuba.cx/index.html)
-- [8Comic](https://www.comicabc.com/)
+- [69xinshu](https://www.69shuba.com/)
+- [8Comic](https://www.8comic.com/)
 - [Antbyw](https://www.antbyw.com/)
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
@@ -159,9 +159,9 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Resources |
 |----------|-----------|
 | **Anime** | [AGETV](https://github.com/muedsa/AGETV) |
-| ^^       | [Ani](https://github.com/open-ani/ani) |
-| ^^       | [Anime](https://github.com/lanlinju/Anime) |
-| ^^       | [Animeko](https://myani.org/) [:src:](https://github.com/open-ani/animeko) |
+| ^^       | [Ani](https://github.com/open-ani/animeko) |
+| ^^       | [Anime](https://github.com/lanlinju/Animius) |
+| ^^       | [Animeko](https://myani.org/) [:src:](https://github.com/open-ani/animekomeko) |
 | ^^       | [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) |
 | ^^       | [Kazumi](https://github.com/Predidit/Kazumi) |
 | ^^       | [Mediabox](https://github.com/RyensX/MediaBox) |
@@ -303,19 +303,19 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Stream** | [Aniflix](https://aniflix.uno/) |
-| ^^ | [AnimeLok](https://animelok.xyz/home) + :len: |
+| ^^ | [AnimeLok](https://animelok.net/) + :len: |
 | ^^ | [Anime Bash India](https://animebashindia.me/home) |
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
-| ^^ | [Anime Salt](https://animesalt.top/) + :len: |
+| ^^ | [Anime Salt](https://animesalt.ac/) + :len: |
 | ^^ | [Anime World India](https://watchanimeworld.net/) + :len: |
 | ^^ | [AniMoye](https://animoye.com/) + :len: |
 | ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
 | ^^ | [Dora Bash](https://dorabash.in/) + :len: |
 | ^^ | [Kartoons](https://kartoons.me/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
-| ^^ | [ToonStream](https://toonstream.dad/home/) + :len: |
+| ^^ | [ToonStream](https://toonstream.vip/home/) + :len: |
 | **DDL** | [Anime Shrine](https://animeshrine.xyz/) + :len: |
-| ^^ | [AnimeVilla](https://animevilla.in/) :ero: |
+| ^^ | [AnimeVilla](https://animevilla.org/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
 | ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
 | ^^ | [Puretoons](https://puretoons.in/) + :len: |
@@ -344,14 +344,14 @@ Most apps in [**software**](/software) supports multilingual sources
 
 ### Manga
 - [Komiku](https://komiku.org/)
-- [Komikcast](https://v2.komikcast.fit/)
+- [Komikcast](https://v3.komikcast.fit/)
 - [Komik Indo](https://komikindo.ch/)
-- [Softkomik](https://softkomik.com/)
+- [Softkomik](https://softkomik.co/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ### Light Novels
 - [BacaLightNovel](https://bacalightnovel.co/)
-- [Meionovel](https://meionovel.id/)
+- [Meionovel](https://meionovels.com/)
 - [Sakuranovel](https://sakuranovel.id/)
 
 ## Italian
@@ -359,11 +359,11 @@ Most apps in [**software**](/software) supports multilingual sources
 ### Websites
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AnimeSaturn](https://www.anisaturn.com/) [:prx:](https://www.animesaturn.me/) |
+| **Anime** | [AnimeSaturn](https://www.anisaturn.net/) [:prx:](https://www.animesaturn.me/) |
 | ^^ | [AnimeUnity](https://www.animeunity.to/) |
 | ^^ | [AnimeWorld](https://www.animeworld.ac/) |
 | ^^ | [One Piece Power](https://onepiecepower.com/anime18/lista-anime) |
-| **Manga** | [MangaWorld](https://www.mangaworld.ac/) |
+| **Manga** | [MangaWorld](https://www.mangaworld.mx/) |
 | ^^ | [One Piece Power](https://onepiecepower.com/manga8/lista-manga) |
 | **NSFW** | [HentaiSaturn](https://www.hentaisaturn.tv/) |
 | ^^ | [HentaiWorld](https://www.hentaiworld.me/) |
@@ -387,7 +387,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.tech/)
+- [Dokiraw](https://dokiraw.win/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
@@ -396,16 +396,16 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 <Collapsible title="More">
 
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil)
-- [Manga Raw (.ad)](https://mangarawad.bid/)
+- [Manga Raw (.ad)](https://mangarawad.best/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
 - [RawBaka](https://rawbaka.com/)
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.nl/)
+- [Raw FREE](https://rawfree.vin/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.codes/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.casa/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 
@@ -434,8 +434,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
-| [DL-Raw](https://dl-raw.se/) | :yes: | :yes: | :yes: |
-| [DLRaw.net](https://dlraw.cc/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dlraw) | :yes: | :yes: | :yes: |
+| [DL-Raw](https://dl-raw.si/) | :yes: | :yes: | :yes: |
+| [DLRaw.net](https://dlraw.app/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dlraw) | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
@@ -462,19 +462,19 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comic** | [Fox Comics](https://fxfx328.com/) [:prx:](https://nicelink51.com/) |
-| ^^ | [FreeToon](https://foc113.com/) [:prx:](https://xn--9r2b17bn28a.com/) |
+| ^^ | [FreeToon](https://foc114.com/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
-| ^^ | [Funbe](https://funbe644.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe653.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
-| ^^ | [MoneyToon](https://mtoon142.asia/) |
-| ^^ | [NameeToon](https://namee100.com/) |
+| ^^ | [MoneyToon](https://mtoon143.asia/) |
+| ^^ | [NameeToon](https://namee101.com/) |
 | ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [TOONKOR](https://tkor127.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf471.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt331.com/) [:prx:](https://nicelink51.com/) |
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
-| ^^ | [YaToon](https://yatoon236.com/) [:prx:](https://yatoonlink.com/) |
+| ^^ | [YaToon](https://yatoon238.com/) [:prx:](https://yatoonlink.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |
@@ -501,7 +501,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [NanaSubs](https://nanasubs.com.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Shinden](https://shinden.pl/main)
-- :prev: [Shinden client](https://github.com/KlapChat-Entertainment/shinden-client)
+- :prev: [Shinden client](https://github.com/Tsugumik/shinden-client)
 
 ### Software
 
@@ -545,7 +545,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AniDUB](https://v11.anidub.digital/) |
+| **Anime** | [AniDUB](https://v12.anidub.digital/) |
 | ^^ | [AniFilm](https://anifilm.pro/) |
 | ^^ | [AniFox](https://anifox.club/anime) ||Aggregator|| |
 | ^^ | [AniLiberty](https://anilibria.top/) ||Sub|| |
@@ -608,7 +608,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Website |
 | :--- | :--- |
 | **Stream** | [AnimeAV1](https://animeav1.com/) |
-| ^^ | [MonosChinos](https://monoschinos2.com/) |
+| ^^ | [MonosChinos](https://monoschinos.st/) |
 | ^^ | [AnimeOnlineNinja](https://ver.animeonline.ninja/) |
 | ^^ | [Latanime](https://latanime.org/) ||Dub|| |
 | ^^ | [Estrenos Anime](https://estrenosanime.net/home) |
@@ -704,16 +704,16 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/) |
 | ^^ | [Unime](https://unime.vercel.app/) [:src:](https://github.com/huy232/Unime) |
 | ^^ | [WebLinhTinh](https://weblinhtinh1.net/) |
-| **Comics** | [Goc Truyen Tranh](https://goctruyentranh.net/) |
+| **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyenhx.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyendc.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [qManga](https://qmanga.art/) |
 | **Novels** | [Hako](https://docln.net/) |
-| ^^ | [Metruyenhot](https://metruyenhot.vn/) |
+| ^^ | [Metruyenhot](https://metruyenhotvn.com/) |
 | ^^ | [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) |
-| ^^ | [TruyenFull.io](https://truyenfull.vision/) :ero: |
+| ^^ | [TruyenFull.io](https://truyenfull.today/) :ero: |
 | ^^ | [Xalosach](https://xalosach.com/) |
 | **Others** | [Tana.moe](https://tana.moe/) |
 | ^^ | [Toku8](https://toku8.com/v/) |

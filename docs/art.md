@@ -55,9 +55,9 @@ og:
 | Categories | Websites |
 | :--- | :--- |
 | Booru | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
-| ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy-dev/danbooru-viewer) |
+| ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy/danbooru-viewer) |
 | ^^ | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
-| Pixiv | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/VnPower/PixivFE) |
+| Pixiv | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/PixivFE/PixivFE) |
 | ^^ | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^ | [Pixiv Yearbook](https://pixiv.navirank.com/) |
 | Twitter | [Twicomi](https://twicomi.com/) :ljp: |
@@ -174,19 +174,19 @@ og:
 | ^^        | [Mikansei](https://github.com/uragiristereo/Mikansei) |
 | ^^        | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) |
 | **Pixiv** | [PixEz](https://github.com/Notsfsssf/pixez-flutter) :s: |
-| ^^        | [pixes](https://github.com/wgh136/pixes) |
+| ^^        | [pixes](https://github.com/pixes-app/pixes) |
 | ^^        | [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft) |
 | ^^        | [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs: |
 | ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) ||Fanbox|| |
 | **Others** | [Wallflow](https://github.com/ammargitham/WallFlow) |
 | ^^        | [Piko Twitter](https://github.com/crimera/piko) [||Builds||](https://github.com/crimera/twitter-apk) |
-| ^^        | [RWalls](https://github.com/meh430/RWalls) |
+| ^^        | [RWalls](https://github.com/mehulpillai30/RWalls) |
 | ^^        | [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3) |
 
 == iOS
 
 - [PixEz](https://apps.apple.com/app/id1494435126)
-- [pixes](https://github.com/wgh136/pixes)
+- [pixes](https://github.com/pixes-app/pixes)
 - [PixiView](https://github.com/matsumo0922/PixiView-KMP)
 - [Anime Boxes](https://apps.apple.com/app/id525540312) :cs:
 
@@ -195,7 +195,7 @@ og:
 | Categories | Software | Platform |
 | :--- | :--- | :--- |
 | **Clients** | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :s: | :win::app::lin: |
-| ^^ | [pixes](https://github.com/wgh136/pixes) | :win::app::lin: |
+| ^^ | [pixes](https://github.com/pixes-app/pixes) | :win::app::lin: |
 | ^^ | [Pixeval](https://pixeval.github.io/) [:src:](https://github.com/Pixeval/Pixeval) | :win: |
 | ^^ | [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) | :win: |
 | **Downloaders** | [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) | :win::app::lin: |
@@ -239,7 +239,7 @@ og:
 ::: tabs
 
 == Booru
-- [Comic Looms](https://github.com/MapoMagpie/eh-view-enhance)
+- [Comic Looms](https://github.com/MapoMagpie/comic-looms)
 - [Gelbooru Overhaul Userscript](https://github.com/Enchoseon/gelbooru-overhaul-userscript)
 - [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
 - [Sakugabooru Browse Fix](https://greasyfork.org/en/scripts/506018)
