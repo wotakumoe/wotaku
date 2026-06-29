@@ -493,6 +493,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
+- [Desu Online](https://desu-online.pl/)
 - [Docchi](https://docchi.pl/) [:src:](https://github.com/docchipl/shinden-description)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
