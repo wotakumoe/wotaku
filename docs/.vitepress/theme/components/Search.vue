@@ -1582,7 +1582,7 @@ const router = useRouter()
 function buildResultHref(pageId: string, tabs?: string[], anchor = '') {
   const params: string[] = []
   if (tabs?.length) {
-    params.push(`tabs=${tabs.map((tab) => encodeURIComponent(tab)).join(',')}`)
+    params.push(`t=${tabs.map((tab) => encodeURIComponent(tab)).join(',')}`)
   }
 
   let hash = ''
