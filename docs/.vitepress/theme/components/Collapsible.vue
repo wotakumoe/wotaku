@@ -4,13 +4,14 @@ import { ref } from 'vue'
 const props = defineProps<{
   title?: string
   type?: 'tip' | 'warning' | 'danger'
+  anchor?: string
 }>()
 
 const open = ref(false)
 </script>
 
 <template>
-  <details class="details custom-block" :class="type" :open="open || undefined" @toggle="open = ($event.target as HTMLDetailsElement).open">
+  <details class="details custom-block" :class="type" :data-collapsible-anchor="anchor || undefined" :open="open || undefined" @toggle="open = ($event.target as HTMLDetailsElement).open">
     <summary>
       <span v-if="open" class="i-iconoir-nav-arrow-down collapsible-icon" />
       <span v-else class="i-iconoir-nav-arrow-right collapsible-icon" />

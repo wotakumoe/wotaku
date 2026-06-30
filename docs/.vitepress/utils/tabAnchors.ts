@@ -59,3 +59,7 @@ export function getTabAnchor(
 export function getTabHeadingAnchor(tabAnchor: string) {
   return `tab-${tabAnchor}`
 }
+
+export function getCollapsibleHeadingAnchor(collapsibleAnchor: string) {
+  return `collapsible-${collapsibleAnchor}`
+}

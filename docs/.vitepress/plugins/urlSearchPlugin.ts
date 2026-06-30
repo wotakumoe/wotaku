@@ -2,8 +2,10 @@ import { writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { renderEmojiShortcodes } from '../configs/markdown/emoji'
 import {
+  getCollapsibleHeadingAnchor,
   getTabAnchor,
   getTabHeadingAnchor,
+  getUniqueAnchor,
   parseTabLabel,
   slugifyAnchor,
   stripHeadingMarkup
@@ -39,6 +41,7 @@ function extractSearchMetadataFromMarkdown(
   const headingStack: string[] = []
   const slugCounts = new Map<string, number>()
   const tabAnchorCounts = new Map<string, number>()
+  const collapsibleAnchorCounts = new Map<string, number>()
   const containerStack: string[] = []
   const tabPath: string[] = []
   const tabResetStack: {
@@ -164,6 +167,10 @@ function extractSearchMetadataFromMarkdown(
         headings: [...headingStack]
       })
 
+      const parsed = parseTabLabel(collapsibleMatch[2])
+      const collapsibleAnchor = parsed.anchor ||
+        getUniqueAnchor(parsed.label, collapsibleAnchorCounts)
+
       let nextLine = i + 1
       while (nextLine < lines.length && lines[nextLine].trim() === '') {
         nextLine++
@@ -175,7 +182,8 @@ function extractSearchMetadataFromMarkdown(
       if (!/^#{1,6}\s+/.test(lines[nextLine]?.trim() ?? '')) {
         setHeading(
           containerStack.includes('tabs') ? 3 : 2,
-          collapsibleMatch[2].trim()
+          parsed.label,
+          getCollapsibleHeadingAnchor(collapsibleAnchor)
         )
       }
       continue

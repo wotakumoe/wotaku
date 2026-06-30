@@ -102,34 +102,52 @@ const getScrollTargetForAnchor = (target: HTMLElement) => {
 }
 
 const TAB_QUERY_PARAM = 'tabs'
+const COLLAPSIBLE_QUERY_PARAM = 'c'
 
-const getRequestedTabPath = () => {
-  const value = new URLSearchParams(window.location.search).get(
-    TAB_QUERY_PARAM
-  )
+const getRequestedAnchorPath = (param: string) => {
+  const value = new URLSearchParams(window.location.search).get(param)
   return value
     ?.split(',')
-    .map((tab) => tab.trim())
+    .map((anchor) => anchor.trim())
     .filter(Boolean) ?? []
 }
 
-const buildUrlWithTabs = (tabs: string[], hash = '') => {
+const getRequestedTabPath = () => getRequestedAnchorPath(TAB_QUERY_PARAM)
+const getRequestedCollapsiblePath = () =>
+  getRequestedAnchorPath(COLLAPSIBLE_QUERY_PARAM)
+
+const encodeAnchorList = (anchors: string[]) =>
+  anchors.map((anchor) => encodeURIComponent(anchor)).join(',')
+
+const buildUrl = (
+  options: { tabs?: string[]; collapsibles?: string[]; hash?: string } = {}
+) => {
   const params = new URLSearchParams(window.location.search)
+  const currentTabs = params.get(TAB_QUERY_PARAM)
+  const currentCollapsibles = params.get(COLLAPSIBLE_QUERY_PARAM)
   params.delete(TAB_QUERY_PARAM)
+  params.delete(COLLAPSIBLE_QUERY_PARAM)
+
+  const tabs = options.tabs ??
+    (currentTabs ? currentTabs.split(',').filter(Boolean) : [])
+  const collapsibles = options.collapsibles ??
+    (currentCollapsibles ? currentCollapsibles.split(',').filter(Boolean) : [])
 
   const queryParts = [
     params.toString(),
-    tabs.length
-      ? `${TAB_QUERY_PARAM}=${
-        tabs.map((tab) => encodeURIComponent(tab)).join(',')
-      }`
+    tabs.length ? `${TAB_QUERY_PARAM}=${encodeAnchorList(tabs)}` : '',
+    collapsibles.length
+      ? `${COLLAPSIBLE_QUERY_PARAM}=${encodeAnchorList(collapsibles)}`
       : ''
   ].filter(Boolean)
 
+  const hash = options.hash ?? ''
   return `${window.location.pathname}${
     queryParts.length ? `?${queryParts.join('&')}` : ''
   }${hash ? `#${encodeURIComponent(hash)}` : ''}`
 }
+
+const buildUrlWithTabs = (tabs: string[], hash = '') => buildUrl({ tabs, hash })
 
 const getSelectedTabAnchor = (tabs: HTMLElement) =>
   tabs.querySelector<HTMLButtonElement>(
@@ -165,7 +183,9 @@ const updateQueryForSelectedTab = async (tabs: HTMLElement) => {
   const tabPath = getTabPathForGroup(tabs)
   if (!tabPath.length) return
 
-  const nextUrl = buildUrlWithTabs(tabPath)
+  const collapsibles = getOpenCollapsiblePath(tabs)
+
+  const nextUrl = buildUrl({ tabs: tabPath, collapsibles })
   const currentUrl =
     `${window.location.pathname}${window.location.search}${window.location.hash}`
   if (nextUrl === currentUrl) return
@@ -182,6 +202,87 @@ const queueTabQueryUpdateForSelection = (target: EventTarget | null) => {
   )
   const tabs = button?.closest<HTMLElement>('.plugin-tabs')
   if (tabs) void updateQueryForSelectedTab(tabs)
+}
+
+const COLLAPSIBLE_SELECTOR = 'details[data-collapsible-anchor]'
+
+const getOpenCollapsiblePath = (details: HTMLElement) => {
+  const path: string[] = []
+  let el: HTMLElement | null = details
+
+  while (el) {
+    const current: HTMLElement | null = el.closest(COLLAPSIBLE_SELECTOR)
+    if (!current) break
+
+    if ((current as HTMLDetailsElement).open) {
+      const anchor = current.dataset.collapsibleAnchor
+      if (anchor) path.unshift(anchor)
+    }
+
+    el = current.parentElement
+  }
+
+  return path
+}
+
+const getEnclosingTabPath = (el: HTMLElement) => {
+  const panel = el.closest<HTMLElement>(
+    '.plugin-tabs--content[data-tab-anchor]'
+  )
+  const tabs = panel?.closest<HTMLElement>('.plugin-tabs')
+  return tabs ? getTabPathForGroup(tabs) : []
+}
+
+const updateQueryForCollapsible = async (details: HTMLElement) => {
+  await nextTick()
+  await nextFrame()
+
+  const collapsiblePath = getOpenCollapsiblePath(details)
+  const tabPath = getEnclosingTabPath(details)
+
+  const nextUrl = buildUrl({
+    tabs: tabPath.length ? tabPath : undefined,
+    collapsibles: collapsiblePath
+  })
+  const currentUrl =
+    `${window.location.pathname}${window.location.search}${window.location.hash}`
+  if (nextUrl === currentUrl) return
+
+  window.history.pushState(null, '', nextUrl)
+  rewriteAnchorLinks()
+}
+
+const queueCollapsibleQueryUpdate = (target: EventTarget | null) => {
+  if (!(target instanceof HTMLElement)) return
+
+  const summary = target.closest<HTMLElement>('summary')
+  const details = summary?.parentElement
+  if (details instanceof HTMLElement && details.matches(COLLAPSIBLE_SELECTOR)) {
+    void updateQueryForCollapsible(details)
+  }
+}
+
+const selectCollapsiblesByPath = async (collapsiblePath: string[]) => {
+  let root: ParentNode = document
+  let opened: HTMLElement | undefined
+
+  for (const anchor of collapsiblePath) {
+    const details = root.querySelector<HTMLDetailsElement>(
+      `details[data-collapsible-anchor="${CSS.escape(anchor)}"]`
+    )
+    if (!details) return opened
+
+    opened = details
+    if (!details.open) {
+      details.open = true
+      await nextTick()
+      await nextFrame()
+    }
+
+    root = details
+  }
+
+  return opened
 }
 
 const TAB_LINK_MARKER = 'tab-'
@@ -375,11 +476,17 @@ const tryOpenAnchoredContent = async () => {
   const selectedTabs = requestedTabs.length
     ? await selectTabsByPath(requestedTabs)
     : undefined
+  const requestedCollapsibles = getRequestedCollapsiblePath()
+  const openedCollapsible = requestedCollapsibles.length
+    ? await selectCollapsiblesByPath(requestedCollapsibles)
+    : undefined
   const hash = window.location.hash.slice(1)
 
   if (!hash) {
     resetSearchNavigation()
-    if (selectedTabs) {
+    if (openedCollapsible) {
+      scrollToElement(openedCollapsible, false)
+    } else if (selectedTabs) {
       scrollToElement(getSelectedTabScrollTarget(selectedTabs), false)
     }
     return
@@ -403,6 +510,19 @@ const tryOpenAnchoredContent = async () => {
 
   if (searchNavigated) {
     await openCollapsibles(target)
+    const collapsiblePath = getOpenCollapsiblePath(target)
+    if (collapsiblePath.length) {
+      const tabPath = getEnclosingTabPath(target)
+      window.history.replaceState(
+        null,
+        '',
+        buildUrl({
+          tabs: tabPath.length ? tabPath : undefined,
+          collapsibles: collapsiblePath
+        })
+      )
+      rewriteAnchorLinks()
+    }
     resetSearchNavigation()
     return
   }
@@ -419,9 +539,7 @@ const tryOpenAnchoredContent = async () => {
     return
   }
 
-  if (
-    !requestedTabs.length && target.classList.contains('tab-search-heading')
-  ) {
+  if (target.classList.contains('tab-search-heading')) {
     const tabs = target.closest<HTMLElement>('.plugin-tabs')
     if (tabs) {
       window.history.replaceState(
@@ -972,6 +1090,7 @@ onMounted(() => {
   useEventListener(document, 'click', (e: MouseEvent) => {
     if (!e.isTrusted) return
     queueTabQueryUpdateForSelection(e.target)
+    queueCollapsibleQueryUpdate(e.target)
   })
 
   useEventListener(document, 'keydown', (e: KeyboardEvent) => {
