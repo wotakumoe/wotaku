@@ -1580,10 +1580,24 @@ onKeyStroke('Tab', (event) => {
 const router = useRouter()
 
 function buildResultHref(pageId: string, tabs?: string[], anchor = '') {
-  const query = tabs?.length
-    ? `?tabs=${tabs.map((tab) => encodeURIComponent(tab)).join(',')}`
-    : ''
-  const hash = anchor ? `#${encodeURIComponent(anchor)}` : ''
+  const params: string[] = []
+  if (tabs?.length) {
+    params.push(`tabs=${tabs.map((tab) => encodeURIComponent(tab)).join(',')}`)
+  }
+
+  let hash = ''
+  if (anchor.startsWith('collapsible-')) {
+    const collapsible = anchor.slice('collapsible-'.length)
+    if (collapsible) params.push(`c=${encodeURIComponent(collapsible)}`)
+  } else {
+    const lastTab = tabs?.length ? tabs[tabs.length - 1] : ''
+    const isRedundantTabHeading = Boolean(anchor) && anchor === `tab-${lastTab}`
+    if (anchor && !isRedundantTabHeading) {
+      hash = `#${encodeURIComponent(anchor)}`
+    }
+  }
+
+  const query = params.length ? `?${params.join('&')}` : ''
   return `${pageId}${query}${hash}`
 }
 

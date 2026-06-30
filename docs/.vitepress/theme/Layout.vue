@@ -539,9 +539,7 @@ const tryOpenAnchoredContent = async () => {
     return
   }
 
-  if (
-    !requestedTabs.length && target.classList.contains('tab-search-heading')
-  ) {
+  if (target.classList.contains('tab-search-heading')) {
     const tabs = target.closest<HTMLElement>('.plugin-tabs')
     if (tabs) {
       window.history.replaceState(

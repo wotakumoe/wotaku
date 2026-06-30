@@ -15,6 +15,7 @@ import { imgSize } from '@mdit/plugin-img-size'
 import MdReg from 'markdown-it-regexp'
 import type { MarkdownRenderer } from 'vitepress'
 import {
+  getCollapsibleHeadingAnchor,
   getTabAnchor,
   getTabHeadingAnchor,
   getUniqueAnchor,
@@ -259,7 +260,9 @@ function injectSearchHeadings(src: string) {
       '',
       `${indent}${
         '#'.repeat(headingLevel)
-      } ${headingTitle} {.collapsible-search-heading}`,
+      } ${headingTitle} {#${
+        getCollapsibleHeadingAnchor(collapsibleAnchor)
+      } .collapsible-search-heading}`,
       ''
     )
     i += 3
