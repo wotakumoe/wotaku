@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, nextTick, onMounted, ref, watch } from 'vue'
+import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import type { HomeCard } from '../../configs/constants'
 
 const props = defineProps<{ cards: HomeCard[] }>()
@@ -122,6 +122,16 @@ watch(panelOpen, (open) => {
   if (typeof document !== 'undefined')
     document.body.style.overflow = open ? 'hidden' : ''
 })
+
+function onKeydown(e: KeyboardEvent) {
+  if (e.key === 'Escape') {
+    panelOpen.value = false
+    cardTooltip.value = null
+  }
+}
+
+onMounted(() => document.addEventListener('keydown', onKeydown))
+onUnmounted(() => document.removeEventListener('keydown', onKeydown))
 
 function loadPrefs() {
   if (typeof window === 'undefined') return { columnMode: 'default' as const, viewMode: 'default' as const }

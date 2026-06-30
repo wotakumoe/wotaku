@@ -2,7 +2,7 @@
 import { useMounted } from '@vueuse/core'
 import { inject } from 'vue'
 
-import { InjectionKey, VPFlyout } from '../../constants'
+import { InjectionKey } from '../../constants'
 import AccentColor from './AccentColor.vue'
 import BlurEffects from './BlurEffects.vue'
 import LayoutSwitch from './LayoutSwitch.vue'
@@ -10,6 +10,7 @@ import LayoutSwitchContentLayoutWidthInput from './LayoutSwitchContentLayoutMaxW
 import LayoutSwitchPageLayoutWidthInput from './LayoutSwitchPageLayoutMaxWidthSlider.vue'
 import Spotlight from './Spotlight.vue'
 import SpotlightStyles from './SpotlightStyles.vue'
+import SettingsFlyout from './SettingsFlyout.vue'
 import Takodachi from './Takodachi.vue'
 
 const options = inject(InjectionKey, {})
@@ -17,11 +18,8 @@ const mounted = useMounted()
 </script>
 
 <template>
-  <VPFlyout
-    icon="i-lucide:settings"
+  <SettingsFlyout
     class="VPNolebaseEnhancedReadabilitiesMenu VPNolebaseEnhancedReadabilitiesMenuFlyout"
-    aria-label="Enhanced Readability"
-    role="menuitem"
   >
     <div
       v-if="mounted"
@@ -37,7 +35,7 @@ const mounted = useMounted()
       <Takodachi />
       <AccentColor />
     </div>
-  </VPFlyout>
+  </SettingsFlyout>
 </template>
 
 <style>
