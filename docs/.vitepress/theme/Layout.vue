@@ -101,7 +101,7 @@ const getScrollTargetForAnchor = (target: HTMLElement) => {
   return target
 }
 
-const TAB_QUERY_PARAM = 'tabs'
+const TAB_QUERY_PARAM = 't'
 const COLLAPSIBLE_QUERY_PARAM = 'c'
 
 const getRequestedAnchorPath = (param: string) => {
