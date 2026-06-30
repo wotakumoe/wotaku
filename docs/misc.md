@@ -141,10 +141,10 @@ outline: 2
 | ^^      | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
 | ^^      | [Kettokomu](https://ketto.com/) :ljp: |
 | ^^      | [UpcomingCons](https://upcomingcons.com/) |
-| :rd: **Others** | [Games](/games?tabs=database) |
-| ^^      | [Music](/music?tabs=database) |
-| ^^      | [NSFW](/nsfw?tabs=database) |
-| ^^      | [VTuber](/vtuber?tabs=database) |
+| :rd: **Others** | [Games](/games?t=database) |
+| ^^      | [Music](/music?t=database) |
+| ^^      | [NSFW](/nsfw?t=database) |
+| ^^      | [VTuber](/vtuber?t=database) |
 
 
 :::
@@ -464,7 +464,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yuki Subs](https://yukisubs.wordpress.com/guides/)
-- :rd: [Fansubbing tools](/tools?tabs=video-tools)
+- :rd: [Fansubbing tools](/tools?t=video-tools)
 
 == Scanlation
 

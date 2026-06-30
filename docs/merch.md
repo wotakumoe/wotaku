@@ -36,7 +36,7 @@ Aside from Japan post you also have your usual private couriers, like DHL, FEDEX
 </Collapsible>
 
 ::: warning Don't be impulsive.
-Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/comms?tabs=merch) before making your final decision.
+Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/comms?t=merch) before making your final decision.
 :::
 
 ## Guides

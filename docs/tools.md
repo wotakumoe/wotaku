@@ -235,7 +235,7 @@ og:
 | ^^ | [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) | :win::cs: |
 | ^^ | [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) | :win: |
 
-- :rd: [Encoding & Fansubbing Guides](/misc?tabs=encoding-fansubbing)
+- :rd: [Encoding & Fansubbing Guides](/misc?t=encoding-fansubbing)
 - :rd: [JP Learning centric tools](/japan/software#subtitles)
 
 </Collapsible>
