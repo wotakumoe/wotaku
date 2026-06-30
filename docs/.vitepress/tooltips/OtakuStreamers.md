@@ -1,4 +1,0 @@
-- Uploading 1080p videos since around 2023.
-- Re-encodes for smaller size.
-- Allows user uploads and adds new titles upon request.
-- Uploads can be somewhat delayed.

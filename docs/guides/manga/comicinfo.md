@@ -92,7 +92,6 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 | [INKR](https://comics.inkr.com/)                  | Varies<sup>1</sup>  | :yes: |
 | [K Manga](https://kmanga.kodansha.com/)<sup>4</sup>| x1378              | :yes: |
 | [Mangamo](https://www.mangamo.com/)               | ~x17xx              | :yes: |
-| [MangaPlanet](https://mangaplanet.com/)           | x1536 / x1600       | :no:  |
 | [MangaPlus](https://mangaplus.shueisha.co.jp/)    | x2100<sup>2</sup>   | :yes: |
 | [MangaUp!](https://global.manga-up.com/)          | x3072+<sup>3</sup>  | :yes: |
 | [Omoi](https://www.omoi.com/)                     | x2400-3000          | :yes: |
