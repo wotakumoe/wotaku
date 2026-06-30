@@ -17,6 +17,7 @@ import type { MarkdownRenderer } from 'vitepress'
 import {
   getTabAnchor,
   getTabHeadingAnchor,
+  getUniqueAnchor,
   parseTabLabel
 } from '../../utils/tabAnchors'
 import { getTooltip } from '../../utils/tooltips'
@@ -148,6 +149,7 @@ function injectSearchHeadings(src: string) {
   const headingStack: (SearchHeading | undefined)[] = []
   const tabResetStack: (SearchHeading | undefined)[] = []
   const tabAnchorCounts = new Map<string, number>()
+  const collapsibleAnchorCounts = new Map<string, number>()
   const getCurrentHeading = () => {
     for (let i = headingStack.length - 1; i >= 0; i--) {
       if (headingStack[i]) return headingStack[i]
@@ -228,6 +230,20 @@ function injectSearchHeadings(src: string) {
     )
     if (!match) continue
 
+    const [, indent, , rawTitle] = match
+    const parsedTitle = parseTabLabel(rawTitle)
+    const headingTitle = parsedTitle.label
+    if (!headingTitle) continue
+
+    const collapsibleAnchor = parsedTitle.anchor ||
+      getUniqueAnchor(headingTitle, collapsibleAnchorCounts)
+
+    lines[i] = lines[i].replace(
+      /(<Collapsible\b[^>]*?\btitle=)(['"]).*?\2/i,
+      (_full, pre: string, quote: string) =>
+        `${pre}${quote}${headingTitle}${quote} anchor=${quote}${collapsibleAnchor}${quote}`
+    )
+
     let nextLine = i + 1
     while (nextLine < lines.length && lines[nextLine].trim() === '') {
       nextLine++
@@ -235,9 +251,6 @@ function injectSearchHeadings(src: string) {
 
     if (/^#{1,6}\s+/.test(lines[nextLine]?.trim() ?? '')) continue
 
-    const [, indent, , title] = match
-    const headingTitle = title.trim()
-    if (!headingTitle) continue
     const headingLevel = containerStack.includes('tabs') ? 4 : 3
 
     lines.splice(
