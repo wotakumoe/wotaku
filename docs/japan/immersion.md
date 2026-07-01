@@ -106,7 +106,7 @@ og:
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [boroboro](https://boroboro.neocities.org/)
-- [Japanese Learner's Anthology](https://i.wotaku.wiki/p/redirect#japanimmersion) :mag:
+- [Japanese Learner's Anthology](https://nyaa.si/?f=0&c=0_0&q=PeepoHappyBooks) :mag:
 - [lolibrary index](https://lolibrary.moe/)
 - [TMW eBook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+eBook) :mag:
 
