@@ -181,7 +181,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :lge: |
 | [Radio Anime24](https://www.radioanime24.pl/) | [MP3 320](https://www.radioanime24.pl/Radio-Anime24.pls) | :lpo: |
 | [Radio Anime Nexus](https://www.animenexus.net/) | [MP3 320](https://radio.animenexus.net:8000/animenexus-mp3.m3u) | :lsp: |
-| [Rádio Animu](https://www.animu.moe/) | [MP3 320](https://www.animu.com.br/download/Animu.m3u?new) | :lbr: |
+| [Rádio Animu](https://www.animu.moe/) | [MP3 320](https://www.animu.moe/download/Animu.m3u8) | :lbr: |
 
 == Doujin & Vocaloid
 
@@ -281,7 +281,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Touhou**  | [TouhouDB](https://touhoudb.com/) |
 | ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
 | ^^          | [THB Wiki](https://thwiki.cc/) |
-| ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0) |
+| ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit) |
 | **Scrobbler** | [Last.fm](https://www.last.fm/) :s: |
 | ^^          | [ListenBrainz](https://listenbrainz.org/) |
 | ^^          | [Libre.fm](https://libre.fm/) |
@@ -311,7 +311,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Category              | Links |
 |----------------------|-------|
-| **Release**         | [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit#gid=928410087) |
+| **Release**         | [Japanese Music Calendar](https://docs.google.com/spreadsheets/d/1VcrXXQKn_wuwtiExqZK9Ahj2R4jqwDIgL4O7xPBKAIs/edit) |
 | ^^                  | [ORICON](https://www.oricon.co.jp/release/album/) |
 | **General**         | [Billboard JAPAN](https://www.billboard-japan.com/d_news/jpn/) :ljp: |
 | ^^                  | [JaME](https://www.jame-world.com/en/) :s: |
@@ -496,7 +496,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 - [redacted Interview Prep](https://interviewfor.red/en/index.html)
 - [Sharky's Guide](https://docs.google.com/document/d/1Poj4p2W0C0Napmwd7bcustlgWrkgp71dy9HlZwUr46w/edit)
-- :prev: [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg)
+- :prev: [Exact Audio Copy: A Guide to Perfect CD Rips](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg/edit)
 - :prev: [EAC: CD Burning Guide](https://docs.google.com/document/d/1f0ZtHC8phVccLWc-81gNNpy1HARasN07B3j0otwS0cI/edit)
 - :prev: [XLD Guide](https://docs.google.com/document/d/1JPErA-6_2yN-WMVcFGNdIurwFS5cpqNC8GtKrOorDf8/edit)
 - [Music Hoarders Wiki](https://musichoarders.xyz/)

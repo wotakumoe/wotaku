@@ -16,7 +16,7 @@ Information about various types of publishers for manga and manhwa. Image qualit
 
 | Store                                       | Resolution | DRM Removal | SFW | Recommended { class="compact" }  |
 |---------------------------------------------|------------|-------------|-----|----------------------------------|
-| [Amazon (Kindle HD)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Semi-dead<sup>1</sup> | Medium | :yes: | YESN'T |
+| [Amazon (Kindle HD)](https://www.amazon.com/comics-manga/home) | Semi-dead<sup>1</sup> | Medium | :yes: | YESN'T |
 | [Neon Ichiban](https://neonichiban.com/)<sup>2</sup> | High | Medium | :yes: | YES |
 | [GlobalComix](https://globalcomix.com/)<sup>3</sup>| High | Medium | :yes: | YES |
 | [Apple Books](https://www.apple.com/apple-books/) | Standard | Medium | :yes: | NO |
@@ -57,7 +57,7 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 | [Titan Comics](https://titan-comics.com/manga/) | x2150 | :no: | :yes: | Amazon Kindle<sup>8</sup> |
 | [TOKYOPOP](https://tokyopop.com/)            | ~x2300<sup>9</sup> | :no: | :yes: | Same Everywhere |
 | [VAST Visual](https://vastmanga.com/)        | ~x2250<sup>10</sup> | :no: | :yes: | Apple Books |
-| [VIZ](https://www.viz.com/read)              | x2100-x2475<sup>11</sup> | :no: | :yes: | Kobo |
+| [VIZ](https://www.viz.com/manga-books)              | x2100-x2475<sup>11</sup> | :no: | :yes: | Kobo |
 | [Yen Press](https://yenpress.com/)            | x1291-x1350 | :no: | :yes: | Same Everywhere |
 
 

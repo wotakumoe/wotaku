@@ -138,7 +138,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 |-|-|-|
 | **Japanese with Anime** | [Common Anime Words Glossary](https://www.japanesewithanime.com/2017/01/anime-words-japanese-meanings.html) | [General Term](/glossary/general#terms) |
 | **Yen Press** | [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15) | [Common Honorifics](/glossary/general#common-honorifics) |
-| - | [The Dere Types Wiki](https://the-dere-types.fandom.com/wiki/The_Dere_Types_Wiki) | [Dere Types](/glossary/general#dere-types) |
+| - | [The Dere Types Wiki](https://the-dere-types.fandom.com/wiki/Dere_Types_Wiki) | [Dere Types](/glossary/general#dere-types) |
 
 == Anime
 | Author / Pub | Article | Used in |

@@ -12,16 +12,16 @@ og:
 | :--- | :--- |
 | General | [Jiten](https://jiten.moe/decks/media?sortBy=difficulty) |
 | ^^ | [jpdb](https://jpdb.io/) |
-| ^^ | [Kuri](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit#gid=1019246469) |
-| ^^ | [Jo-Mako](https://docs.google.com/spreadsheets/d/1IytlD4JjYO5-38wP6VbFNjHQDaDEsx4WWi2Rs-gaamk/htmlview#gid=482897207) |
+| ^^ | [Kuri](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit) |
+| ^^ | [Jo-Mako](https://docs.google.com/spreadsheets/d/1IytlD4JjYO5-38wP6VbFNjHQDaDEsx4WWi2Rs-gaamk/htmlview) |
 | ^^ | [Natively](https://learnnatively.com/) |
 | ^^ | [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8) |
 | Visual Novels | [VN Club](https://vnclub.org/) |
 | ^^ | [Alanae](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
 | ^^ | [Jamal](https://anacreondjt.gitlab.io/vn-chart/) |
-| ^^ | [Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit?gid=0#gid=0) |
+| ^^ | [Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit) |
 | Light Novels | [Moeclub](https://bookmeter.com/users/1313898/) |
-| Video Games | [Game Gengo](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview#gid=0) |
+| Video Games | [Game Gengo](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview) |
 
 ::: scrapetable {Topics}
 - Jiten : (Anime), (Audio), (Live Action), (Manga), (Non-Fiction), (Novels), (Light Novels), (Video Games), (Visual Novels), (Web Novels);
@@ -138,7 +138,7 @@ og:
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
 == Podcast
-- [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0)
+- [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit)
 - [Japanese with Noriko](https://www.japanesewithnoriko.com/)
 - [Learn Japanese Podcast](https://learnjapanesepod.com/)
 - [The Konnichiwa Podcast](https://konnichiwapodcast.podbean.com/)

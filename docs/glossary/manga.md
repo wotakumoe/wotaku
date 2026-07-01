@@ -245,7 +245,7 @@ For publisher platforms, some of the series are website-exclusive, while others 
 | Kakao        | [KakaoPage](https://page.kakao.com/) :lkr:                       | General              | Long-Strip  | Web + App    | Point       |
 | ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :lkr:                | General              | Long-Strip  | Web + App    | Point       |
 | ^^           | [Tapas](https://tapas.io/)                                       | General              | Long-Strip  | Web + App    | Point       |
-| ^^           | [Piccoma](https://piccoma.com/) :ljp:                            | General              | Both        | Web + App    | Point       |
+| ^^           | [Piccoma](https://piccoma.com/web/) :ljp:                            | General              | Both        | Web + App    | Point       |
 
 
 ## Scanlation

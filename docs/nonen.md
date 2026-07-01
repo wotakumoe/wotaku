@@ -54,13 +54,12 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Anime** | [Anime3rb](https://anime3rb.com/) |
 | ^^ | [Anime4up](https://w1.anime4up.rest/home8/) |
 | ^^ | [Animeblkom](https://blkom.com/) |
-| ^^ | [Animelek](https://animelek.top/) |
 | ^^ | [Animerco](https://zeta.animerco.org/) |
 | ^^ | [Arabic Toons](https://www.arabic-toons.com/) |
 | ^^ | [Kawaii Anime](https://kawaii-anime.com/) |
 | ^^ | [Okanime](https://okanime.tv/) |
 | ^^ | [WitAnime](https://witanime.cyou/) |
-| **Manga** | [3asQ](https://3asq.org/) |
+| **Manga** | [3asQ](https://3asq.pro/) |
 | ^^ | [Azora Manga](https://azorafly.com/) |
 | ^^ | [Swat Manga](https://meshmanga.com/) |
 | **Novels** | [Hizo Manga](https://hizomanga.net/) |
@@ -161,7 +160,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Anime** | [AGETV](https://github.com/muedsa/AGETV) |
 | ^^       | [Ani](https://github.com/open-ani/animeko) |
 | ^^       | [Anime](https://github.com/lanlinju/Animius) |
-| ^^       | [Animeko](https://myani.org/) [:src:](https://github.com/open-ani/animekomeko) |
+| ^^       | [Animeko](https://myani.org/) [:src:](https://github.com/open-ani/animeko/) |
 | ^^       | [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj) |
 | ^^       | [Kazumi](https://github.com/Predidit/Kazumi) |
 | ^^       | [Mediabox](https://github.com/RyensX/MediaBox) |
@@ -224,7 +223,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Sekai](https://sekai.one/) |
 | ^^ | [Streaming-integrale](https://streaming-integrale.com/) |
 | ^^ | [Voiranime](https://voir-anime.to/) [:d:](https://discord.gg/js2P2HT) |
-| ^^ | [Vostfree](https://vostfree.ws/) |
+| ^^ | [Vostfree](https://ipv4.vostfree.ws/) |
 | **Manga** | [Japscan](https://www.japscan.foo/) |
 | ^^ | [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc: |
 | ^^ | [Mangadraft](https://www.mangadraft.com/) |
@@ -250,7 +249,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AniWorld](https://aniworld.to/) :strm: + :len: |
 | ^^ | [FireAnime](https://fireani.me/) :strm: + :len: |
 | ^^ | [Melon-Subs](https://melon-subs.de/) :ded::ddl: |
-| ^^ | [NanaOne](https://nanaone.net/) :ddl: |
 | ^^ | [OtakuKingdom Subs](http://www.otakukingdom-subs.de/) :ded::ddl: |
 | **Manga** | [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host: |
 | ^^ | [Manga-Tube](https://manga-tube.me/) |
@@ -359,7 +357,7 @@ Most apps in [**software**](/software) supports multilingual sources
 ### Websites
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AnimeSaturn](https://www.anisaturn.net/) [:prx:](https://www.animesaturn.me/) |
+| **Anime** | [AnimeSaturn](https://www.animesaturn.net/) [:prx:](https://www.animesaturn.me/) |
 | ^^ | [AnimeUnity](https://www.animeunity.to/) |
 | ^^ | [AnimeWorld](https://www.animeworld.ac/) |
 | ^^ | [One Piece Power](https://onepiecepower.com/anime18/lista-anime) |
@@ -461,7 +459,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Websites |
 | :--- | :--- |
-| **Comic** | [Fox Comics](https://fxfx328.com/) [:prx:](https://nicelink51.com/) |
+| **Comic** | [Fox Comics](https://fxfx329.com/) [:prx:](https://nicelink51.com/) |
 | ^^ | [FreeToon](https://foc114.com/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
 | ^^ | [Funbe](https://funbe653.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
@@ -471,10 +469,10 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [NameeToon](https://namee101.com/) |
 | ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [TOONKOR](https://tkor127.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf471.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [WToon](https://wtwt331.com/) [:prx:](https://nicelink51.com/) |
+| ^^ | [Wolf](https://wfwf478.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [WToon](https://wtwt332.com/) [:prx:](https://nicelink51.com/) |
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
-| ^^ | [YaToon](https://yatoon238.com/) [:prx:](https://yatoonlink.com/) |
+| ^^ | [YaToon](https://yatoon239.com/) [:prx:](https://yatoonlink.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |

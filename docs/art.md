@@ -227,7 +227,7 @@ og:
 
 == General
 - [Betterviewer](https://github.com/Ademking/Betterviewer)
-- [Control Panel for Twitter](https://jbscript.dev/control-panel-for-twitter)
+- [Control Panel for Twitter](https://soitis.dev/control-panel-for-twitter)
 - [Journey Buster 3](https://journeybuster.com/)
 - [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) :cr:
 - [Search by Image](https://github.com/dessant/search-by-image) :s:

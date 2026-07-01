@@ -230,7 +230,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | ^^          | [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) |
 | ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
 | ^^          | :prev: [Touhou Dictionary](https://nsk.sh/touhou/dict/) |
-| ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit#gid=0) |
+| ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit) |
 | **Music**       | [Gensokyo Radio](https://gensokyoradio.net/playing/) ||256kbps|| |
 | ^^          | [Touhou Disc](https://alist.thdisc.tk) |
 | ^^          | [Touhou Lossess Music Collection](https://tlmc.pf-n.co/tlmc) |

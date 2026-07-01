@@ -183,4 +183,4 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ## Tracker
 - [Buyfinder](https://buyfinder.moe/)
 - [Buyfriend](https://buyfriend.moe/)
-- [Manga Restock Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1tOGtBsGqNvlOxCBOg3HxBkvgqQyC_ehjBvr4Bx1PG4M/)
+- [Manga Restock Dates Spreadsheet](https://docs.google.com/spreadsheets/d/1tOGtBsGqNvlOxCBOg3HxBkvgqQyC_ehjBvr4Bx1PG4M/edit)

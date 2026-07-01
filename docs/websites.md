@@ -152,7 +152,7 @@ Some of the series may not be available depending on your region.
 | :--- | :--- |
 | **General** | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
 | ^^ | [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial) |
-| ^^ | [Ani-One Asia](https://www.youtube.com/@AniOneAsia) |
+| ^^ | [Ani-One Asia](https://www.youtube.com/AniOneAsia) |
 | ^^ | [Cartoon Power Up](https://www.youtube.com/@CartoonPowerUp) |
 | ^^ | [CONtv](https://www.youtube.com/@CONtv) |
 | ^^ | [It's Anime by REMOW](https://www.youtube.com/@ItsAnimeJP) |
@@ -161,7 +161,7 @@ Some of the series may not be available depending on your region.
 | ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
 | **Series** | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
 | ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) ||Inazuma Eleven|| |
-| ^^ | [BEYBLADE English](https://www.youtube.com/@BeybladeOfficial) |
+| ^^ | [BEYBLADE English](https://www.youtube.com/beybladeofficial) |
 | ^^ | [BEYBLADE Official](https://www.youtube.com/@beyblade-official) |
 | ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |

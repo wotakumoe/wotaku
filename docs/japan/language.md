@@ -135,7 +135,7 @@ og:
 | **Practice** | [Kanken](https://www.kanken.or.jp/kanken/grades/meyasucheck/) |
 | ^^ | [Kotu](https://kotu.io/) :acc: |
 | ^^ | [Migaku Pitch Trainer](https://pitch-demo.migaku.io/) :fm: |
-| ^^ | [SuperNative](https://supernative.tv/ja/) |
+| ^^ | [SuperNative](https://supernative.tv/) :acc: |
 | ^^ | [MyKikitori](https://www.mykikitori.com/) |
 
 
