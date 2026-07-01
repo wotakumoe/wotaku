@@ -162,8 +162,7 @@ og:
 | **Reader** | [Mokuro](https://github.com/kha-white/mokuro) | :win::app::lin: |
 | ^^ | :prev: [ZXY101's fork](https://github.com/ZXY101/legacy-mokuro-reader) | |
 | ^^ | :prev: [KojoZero's fork](https://github.com/KojoZero/mokuro-reader) | |
-| ^^ | :prev: [Mokuro Catalog](https://mokuro.moe/catalog/) | |
-| ^^ | :prev: [Mokuro.moe Full Manga Catalog](https://i.wotaku.wiki/p/redirect#japansoftware) | |
+| ^^ | :prev: [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://nyaa.si/?f=0&c=0_0&q=Mokuro.moe) | |
 | ^^ | [ttsu Ebook Reader](https://reader.ttsu.app/) [:src:](https://github.com/ttu-ttu/ebook-reader) | :web: |
 
 == Browser

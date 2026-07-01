@@ -99,7 +99,7 @@ og:
 
 == Manga
 - [Bilingual Manga](https://bilingualmanga.org/) :s: [||Backup||](https://github.com/B-M-dev/Bilingual_Manga-home-)
-- [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://i.wotaku.wiki/p/redirect#japansoftware)
+- [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://nyaa.si/?f=0&c=0_0&q=Mokuro.moe)
 
 == Novel
 - [Elscione's Library](https://server.elscione.com/) :s: [:alt:](https://server.elsci.one/)
