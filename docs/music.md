@@ -94,8 +94,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Format | Website | Type | Host |
 |-|-|-|-|
-| flac + mp3 | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) | :mag: | :no: |
-| ^^ | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
+| flac + mp3 | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) | :mag: | :no: |
+| ^^ | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://i.wotaku.wiki/p/proxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | ^^ | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | mp3 | [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | :no: |
 | ^^ | [OS Anime](https://osanime.com/) | :ddl: | own |
@@ -108,7 +108,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [DoubleDouble](https://doubledouble.top/) | ^^ |
 | [Lucida](https://lucida.to/) | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
-| [Monochrome](https://monochrome.tf/) [:prx:](https://rentry.org/wotaxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome) | Amazon |
+| [Monochrome](https://monochrome.tf/) [:prx:](https://i.wotaku.wiki/p/proxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome) | Amazon |
 | [am-dl](https://am-dl.pages.dev/) ==amdl== | Apple |
 | [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
 
@@ -126,8 +126,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Type | Host |
 |-|-|-|
-| [Nyaa](https://nyaa.si/) [:prx:](https://rentry.org/nyaap) | :mag: | :no: |
-| [Sitting on Clouds](https://www.sittingonclouds.net/) [:prx:](https://rentry.org/wotaxy#sitting-on-clouds) | :ddl: | :sm::smf: |
+| [Nyaa](https://nyaa.si/) [:prx:](https://i.wotaku.wiki/p/nyaa) | :mag: | :no: |
+| [Sitting on Clouds](https://www.sittingonclouds.net/) [:prx:](https://i.wotaku.wiki/p/proxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [HCS VGM Archive](https://vgm.hcs64.com/) | :ddl: | own |
 | [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) | :ddl: | own |
@@ -138,7 +138,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Website | Type | Host |
 |-|-|-|
 | [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | :no: |
-| [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://rentry.org/wotaxy#asia-media-blog) | :ddl: | :host: |
+| [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) | :ddl: | :host: |
 | [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
 
 :::
@@ -537,7 +537,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [FL Studio](https://www.image-line.com/) :cs: | :win::app: |
 | ^^ | [Studio One](https://www.fender.com/products/fender-studio-pro) :cs: | :win: |
 | Related Links | [SynthV.info](https://synthv.info/) | :no: |
-| ^^ | [CeVIO Voice Database Installer Archive](https://rentry.org/wotadirect#music) | :no: |
+| ^^ | [CeVIO Voice Database Installer Archive](https://i.wotaku.wiki/p/redirect#music) | :no: |
 | ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
 
 <collapsible title="Introduction / Guide">

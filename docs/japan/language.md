@@ -184,7 +184,7 @@ og:
 - :prev: [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
 - :prev: [Mordraug version](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit)
 - :prev: [Kellen version](https://kellenok.github.io/cure-script/) :s:
-- :prev: [Archive by Yomsi](https://rentry.org/wotadirect#japanlanguage)
+- :prev: [Archive by Yomsi](https://i.wotaku.wiki/p/redirect#japanlanguage)
 - [Learning Japanese When You Think In A Western Language](https://kimallen.sheepdogdesign.net/)
 - [昨日 Sakubi: Yesterday's Grammar Guide](https://sakubi.neocities.org/)
 - :prev: [Tylab version](https://tylab.dev/sakubi/home.html)
@@ -285,7 +285,7 @@ og:
 :::
 
 ::: tip **Downloading books**
-Check out the [**Japanese Mega Learning Pack**](https://rentry.org/wotadirect#japanlanguage) and the following sites: [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna's Archive**](https://annas-archive.gl/), [**Z-Library**](https://z-lib.sk/), [**OceanofPDF**](https://oceanofpdf.com/category/languages/japanese-language-books/).
+Check out the [**Japanese Mega Learning Pack**](https://i.wotaku.wiki/p/redirect#japanlanguage) and the following sites: [**Learn Japanese Online**](https://tailieuhoctiengnhat.com/), [**Nyaa**](https://nyaa.si/?c=3_3), [**Anna's Archive**](https://annas-archive.gl/), [**Z-Library**](https://z-lib.sk/), [**OceanofPDF**](https://oceanofpdf.com/category/languages/japanese-language-books/).
 :::
 
 

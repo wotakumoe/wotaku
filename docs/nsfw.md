@@ -45,7 +45,7 @@ og:
 - [Akuma](https://akuma.moe/) ==Akuma==
 - [HDoujin](https://hdoujin.org/) :s: ==HDoujin==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
-- [IMHentai](https://imhentai.xxx/) [:prx:](https://rentry.org/wotaxy#imhentai) ==IMHentai==
+- [IMHentai](https://imhentai.xxx/) [:prx:](https://i.wotaku.wiki/p/proxy#imhentai) ==IMHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
 - [Schale Network](https://shupogaki.moe/) :s: [:alt:](https://niyaniya.moe/) ==SchaleNetwork==
@@ -167,7 +167,7 @@ og:
 
 
 - [Anime-Sharing](https://www.anime-sharing.com/) :acc:
-- [Asia Media Blog](https://asiamediablog.com/media/game/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog)
+- [Asia Media Blog](https://asiamediablog.com/media/game/) :host: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog)
 - [CPG Repacks](https://cpgrepacks.site)
 - [Craneanime](https://blog.craneanime.xyz/)
 - [Eroge Download](https://erogedownload.com/)
@@ -221,12 +221,12 @@ og:
 | Torrent | [141JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/) |
 | ^^ | [OneJAV](https://onejav.com/) |
 | ^^ | [ProjectJav](https://projectjav.com/) |
-| ^^ | [Sukebei](https://sukebei.nyaa.si/?f=0&c=2_2&q=) [:prx:](https://rentry.org/nyaap) |
+| ^^ | [Sukebei](https://sukebei.nyaa.si/?f=0&c=2_2&q=) [:prx:](https://i.wotaku.wiki/p/nyaa) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/?cat=15) [:alt:](https://tokyo-tosho.net/?cat=15) |
-| Others | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
+| Others | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
 | ^^ | [Gravure Princess](https://idol.gravureprincess.date/) |
 | ^^ | [Mabui Onna](https://mabui-onna.com/) |
-| ^^ | [X-IDOL](https://xidol.net/) [:prx:](https://rentry.org/wotaxy#x-idol) |
+| ^^ | [X-IDOL](https://xidol.net/) [:prx:](https://i.wotaku.wiki/p/proxy#x-idol) |
 | ^^ | :rd: [Japanese DDL](/nonen#direct) |
 
 == Scripts

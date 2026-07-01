@@ -44,8 +44,8 @@ og:
 == General
 - [Anisub](https://anisub.tv/)
 - [Cineby](https://www.cineby.at/)
-- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://rentry.org/wotaxy#kisskh)
-- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
+- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
+- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
 
 == Anime
 - [Classics](https://animation.filmarchives.jp/index.html)
@@ -56,7 +56,7 @@ og:
 - [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub||
 
 == Download
-- [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ddl::ded:
+- [DramaSuki](https://i.wotaku.wiki/p/redirect#japanimmersion) :ddl::ded:
 - [Rare Doramas](https://www.raredoramas.com/) :ddl:
 - [JPFiles](https://jpfiles.net/) :host:
 
@@ -65,9 +65,9 @@ og:
 - :prev: [Jimaku](https://jimaku.cc/) :s:
 - :prev: [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) :ded:
-- [JPTV.club Subtitle Archive](https://rentry.org/wotadirect#japanimmersion) :ded:
+- [JPTV.club Subtitle Archive](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded:
 - [itazuraneko](https://djtguide.github.io/library/sub)
-- [Xavier's Retimed JP Sub Pack](https://rentry.org/wotadirect#japanimmersion) :mag::ded:
+- [Xavier's Retimed JP Sub Pack](https://i.wotaku.wiki/p/redirect#japanimmersion) :mag::ded:
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) :ded:
 - [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
@@ -95,18 +95,18 @@ og:
 ::: tabs
 
 == General
-- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap)
+- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
 
 == Manga
 - [Bilingual Manga](https://bilingualmanga.org/) :s: [||Backup||](https://github.com/B-M-dev/Bilingual_Manga-home-)
-- [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://rentry.org/wotadirect#japansoftware)
+- [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://i.wotaku.wiki/p/redirect#japansoftware)
 
 == Novel
 - [Elscione's Library](https://server.elscione.com/) :s: [:alt:](https://server.elsci.one/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [boroboro](https://boroboro.neocities.org/)
-- [Japanese Learner's Anthology](https://rentry.org/wotadirect#japanimmersion) :mag:
+- [Japanese Learner's Anthology](https://i.wotaku.wiki/p/redirect#japanimmersion) :mag:
 - [lolibrary index](https://lolibrary.moe/)
 - [TMW eBook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+eBook) :mag:
 
@@ -132,7 +132,7 @@ og:
 ::: tabs
 
 == Audiobook
-- [Nyaa.si](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
+- [Nyaa.si](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
 - [TMW Audiobook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+Audiobook) :mag: [||Index||](https://coreaudio.netlify.app/)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
@@ -145,7 +145,7 @@ og:
 
 == Others
 - [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
-- [Japanese Condensed Audio](https://rentry.org/wotadirect#japanimmersion)
+- [Japanese Condensed Audio](https://i.wotaku.wiki/p/redirect#japanimmersion)
 - [Japanese Radio](https://radio.nogi46.me/)
 
 :::

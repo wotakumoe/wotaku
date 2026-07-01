@@ -387,18 +387,18 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Online
 - [Dokiraw](https://dokiraw.win/)
 - [Free PDF Library](https://pdftoshokan.com/)
-- [KL Manga](https://old.klz9.com/) [:prx:](https://rentry.org/wotaxy#kl-manga)
+- [KL Manga](https://old.klz9.com/) [:prx:](https://i.wotaku.wiki/p/proxy#kl-manga)
 - [MangaFire](https://mangafire.to/home)
 - [MangaKuro](https://mangakuro.net/home)
 
 <Collapsible title="More">
 
-- [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://rentry.org/wotaxy#mangarawspoil)
+- [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://i.wotaku.wiki/p/proxy#mangarawspoil)
 - [Manga Raw (.ad)](https://mangarawad.best/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
-- [RAW 1001](https://raw1001.net/home) [:prx:](https://rentry.org/wotaxy#raw1001)
+- [RAW 1001](https://raw1001.net/home) [:prx:](https://i.wotaku.wiki/p/proxy#raw1001)
 - [RawBaka](https://rawbaka.com/)
 - [Rawkuma](https://rawkuma.net/)
 - [Raw FREE](https://rawfree.vin/)
@@ -416,7 +416,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Download
 
 #### Torrent
-- [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap)
+- [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/)
 
 #### Direct
@@ -433,7 +433,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
 | [DL-Raw](https://dl-raw.si/) | :yes: | :yes: | :yes: |
-| [DLRaw.net](https://dlraw.app/category/raw-manga/) [:prx:](https://rentry.org/wotaxy#dlraw) | :yes: | :yes: | :yes: |
+| [DLRaw.net](https://dlraw.app/category/raw-manga/) [:prx:](https://i.wotaku.wiki/p/proxy#dlraw) | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
@@ -473,7 +473,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [WToon](https://wtwt332.com/) [:prx:](https://nicelink51.com/) |
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon239.com/) [:prx:](https://yatoonlink.com/) |
-| **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://rentry.org/wotaxy#annie24) |
+| **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |
 | **Others** | [GoPlay](https://goplay.su/) [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) |

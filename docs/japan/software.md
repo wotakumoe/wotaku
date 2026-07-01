@@ -66,16 +66,16 @@ og:
 | ^^ | [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki) |
 | ^^ | [Kanken Deck](https://ankiweb.net/shared/info/759825185) [:alt:](https://ankiweb.net/shared/info/1113953752) ||Advanced|| |
 | ^^ | [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) |
-| ^^ | [RRTK450 Anki deck](https://rentry.org/wotadirect#japansoftware) ||Beginner|| |
+| ^^ | [RRTK450 Anki deck](https://i.wotaku.wiki/p/redirect#japansoftware) ||Beginner|| |
 | ^^ | [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view) |
 | ^^ | [WaniKani Complete Lv 1-60](https://ankiweb.net/shared/info/2072613354) [:pin:](https://gist.github.com/Destroxia54/6925a3e1cb75afc7a3dd14d1ba2ff611) |
 | **Vocab** | [Kaishi](https://github.com/donkuri/Kaishi) :s: ||Beginner|| |
 | ^^ | [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime) |
-| ^^ | [Anime decks (Sub2Srs)](https://rentry.org/wotadirect#japansoftware) |
+| ^^ | [Anime decks (Sub2Srs)](https://i.wotaku.wiki/p/redirect#japansoftware) |
 | ^^ | [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) |
 | ^^ | [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) |
 | ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/jpn-proper-nouns-deck) |
-| ^^ | [Tango N5 omega deck](https://rentry.org/wotadirect#japansoftware) ||Beginner|| |
+| ^^ | [Tango N5 omega deck](https://i.wotaku.wiki/p/redirect#japansoftware) ||Beginner|| |
 
 :::
 
@@ -163,13 +163,13 @@ og:
 | ^^ | :prev: [ZXY101's fork](https://github.com/ZXY101/legacy-mokuro-reader) | |
 | ^^ | :prev: [KojoZero's fork](https://github.com/KojoZero/mokuro-reader) | |
 | ^^ | :prev: [Mokuro Catalog](https://mokuro.moe/catalog/) | |
-| ^^ | :prev: [Mokuro.moe Full Manga Catalog](https://rentry.org/wotadirect#japansoftware) | |
+| ^^ | :prev: [Mokuro.moe Full Manga Catalog](https://i.wotaku.wiki/p/redirect#japansoftware) | |
 | ^^ | [ttsu Ebook Reader](https://reader.ttsu.app/) [:src:](https://github.com/ttu-ttu/ebook-reader) | :web: |
 
 == Browser
 - [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:src:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
 - :prev: [Yomitan Dictionaries](https://github.com/MarvNC/yomitan-dictionaries/)
-- :prev: [Collection of Yomitan dictionaries (japanese)](https://rentry.org/wotadirect#japansoftware)
+- :prev: [Collection of Yomitan dictionaries (japanese)](https://i.wotaku.wiki/p/redirect#japansoftware)
 - :prev: [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
 - :prev: [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::sfr:<tooltip>Pop-up dictionary</tooltip>

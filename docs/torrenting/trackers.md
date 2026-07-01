@@ -14,13 +14,13 @@ og:
 
 | Category   | Websites |
 |------------|----------|
-| General    | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
+| General    | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
 | ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
 | Anime      | [AniRena](https://www.anirena.com/) |
 | ^^         | [nekoBT](https://nekobt.to/) |
 | ^^         | [Shana Project](https://www.shanaproject.com/) |
 | ^^         | [TsukiHime](https://tsukihime.org/) :ddl::usnt: |
-| NSFW       | [Sukebei](https://sukebei.nyaa.si/) [:prx:](https://rentry.org/nyaap) |
+| NSFW       | [Sukebei](https://sukebei.nyaa.si/) [:prx:](https://i.wotaku.wiki/p/nyaa) |
 
 == Private Trackers
 

@@ -81,7 +81,7 @@ outline: 2
 
 | Category | Websites |
 | :--- | :--- |
-| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://rentry.org/nyaap) |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
 | ^^ | [AniRena](https://www.anirena.com/) |
 | ^^ | [nekoBT](https://nekobt.to/) |
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
@@ -91,7 +91,7 @@ outline: 2
 | ^^ | [Chauthanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
-| ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://rentry.org/wotaxy#asia-media-blog) |
+| ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
 | ^^ | [urajp](https://urajp.se/) |
 
 <collapsible title="Fan projects">
@@ -214,7 +214,7 @@ Some of the series may not be available depending on your region.
 | [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
 | [MangaK](https://mangak.io/home) | :no: | :ss: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
-| [Manga Fox](https://mangafox.la/) [:prx:](https://rentry.org/wotaxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
+| [Manga Fox](https://mangafox.la/) [:prx:](https://i.wotaku.wiki/p/proxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
 
 </collapsible>
 
@@ -239,10 +239,10 @@ Some sites may include manga, but they are listed here for their manhwa and manh
 
 == Download
 
-- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
+- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
 - [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
-- [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://i.wotaku.wiki/p/slap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
+- [Library Genesis+](https://libgen.li/) [:prx:](https://i.wotaku.wiki/p/slap)
 - [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [Internet Archive](https://archive.org/)
@@ -337,9 +337,9 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [JNovel Codex](https://jnovelcodex.web.app/index.html)
 - [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha==
 - [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
-- [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
-- [Z-Library](https://z-lib.sk/) [:prx:](https://rentry.org/wotaslap)
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://i.wotaku.wiki/p/slap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
+- [Library Genesis+](https://libgen.li/) [:prx:](https://i.wotaku.wiki/p/slap)
+- [Z-Library](https://z-lib.sk/) [:prx:](https://i.wotaku.wiki/p/slap)
 
 == Legal
 
@@ -370,7 +370,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 <collapsible title="General Live-Action"> 
 
-- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://rentry.org/wotaxy#kisskh)
+- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Asiaflix](https://asiaflix.net/) :hd:
@@ -383,18 +383,18 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 - [Zekozimo](https://zekozimo.blogspot.com/) :s: ||General||
 - [KRDL](https://krdl.moe/) :s:
-- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://rentry.org/nyaap)
+- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
 - [Bereke Scrubs](https://berekescrubs.wordpress.com/)
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
 - [Metallic Subs](https://metallicsubs.wordpress.com/)
 
 <collapsible title="General Live-Action"> 
 
-- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://rentry.org/nyaap)
+- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
 - [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/GYahYNWutE)
 - [EXT Torrents](https://ext.to/) :mag:
 - [Dramaday](https://dramaday.me/) :ckr:
-- [DramaSuki](https://rentry.org/wotadirect#japanimmersion) :ded:
+- [DramaSuki](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded:
 - [Rare Doramas](https://www.raredoramas.com/) :cjp:
 
 </collapsible>
@@ -439,12 +439,12 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
 == Download
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://rentry.org/wotaslap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://i.wotaku.wiki/p/slap) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
 - [ComicsCodes](https://comics.codes/)
 - [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [GetComics](https://getcomics.org/) :s:
-- [Library Genesis+](https://libgen.li/) [:prx:](https://rentry.org/wotaslap)
+- [Library Genesis+](https://libgen.li/) [:prx:](https://i.wotaku.wiki/p/slap)
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) ||Vintage||
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
