@@ -473,7 +473,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Wolf](https://wfwf478.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt332.com/) [:prx:](https://nicelink51.com/) |
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
-| ^^ | [YaToon](https://yatoon239.com/) [:prx:](https://yatoonlink.com/) |
+| ^^ | [YaToon](https://yatoon240.com/) [:prx:](https://yatoonlink.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |
