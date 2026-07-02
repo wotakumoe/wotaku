@@ -381,7 +381,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Solution   | Client/Tools |
 |----------- |--------------|
-| **General**    | [Plezy](https://plezy.app/) [:src:](https://github.com/edde746/plezy) | :and::ios::win::app::lin: |
+| **General**    | [Plezy](https://plezy.app/) [:src:](https://github.com/edde746/plezy) :and::ios::win::app::lin: |
 | [**Audiobookshelf**](https://www.audiobookshelf.org/) | [Plappa](https://plappa.me/) :ios: |
 | ^^         | [Prologue](https://prologue.audio/) :ios: |
 | [**Jellyfin**](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) :win: |
