@@ -461,13 +461,13 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comic** | [Fox Comics](https://fxfx329.com/) [:prx:](https://nicelink51.com/) |
-| ^^ | [FreeToon](https://foc114.com/) [:prx:](https://xn--9r2b17bn28a.com/) |
+| ^^ | [FreeToon](https://foc115.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
 | ^^ | [Funbe](https://funbe653.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [MoneyToon](https://mtoon143.asia/) |
-| ^^ | [NameeToon](https://namee101.com/) |
+| ^^ | [NameeToon](https://namee102.asia/) |
 | ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [TOONKOR](https://tkor127.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf478.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
@@ -705,7 +705,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyendc.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenhn.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [qManga](https://qmanga.art/) |
 | **Novels** | [Hako](https://docln.net/) |
