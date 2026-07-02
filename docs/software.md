@@ -380,7 +380,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 == Client
 
 | Solution   | Client/Tools |
-|----------- |-------------|
+|----------- |--------------|
+| **General**    | [Plezy](https://plezy.app/) [:src:](https://github.com/edde746/plezy) | :and::ios::win::app::lin: |
 | [**Audiobookshelf**](https://www.audiobookshelf.org/) | [Plappa](https://plappa.me/) :ios: |
 | ^^         | [Prologue](https://prologue.audio/) :ios: |
 | [**Jellyfin**](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) :win: |
@@ -394,7 +395,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 == Tools
 
 | Solution   | Client/Tools |
-|----------- |-------------|
+|----------- |--------------|
 | **General**    | [MAL-Sync](https://github.com/MALSync/MALSync) |
 | [**Jellyfin**](https://jellyfin.org/) | [Jellyfin-RPC](https://github.com/JustRadical/jellyfin-rpc) |
 | ^^         | [Jellyfin MAL Metadata Plugin](https://github.com/ryandash/jellyfin-plugin-myanimelist) |

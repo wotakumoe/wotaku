@@ -21,6 +21,7 @@ Not original content but based on an already existing work.
 | [Josee, the Tiger and the Fish](https://mangabaka.org/7881) | Short Story |
 | [Goodbye Declaration](https://mangabaka.org/7579) | Song |
 | [Love Live! School Idol Diary](https://mangabaka.org/21314) | Franchise |
+| [Deadpool: Samurai](https://mangabaka.org/45507) | Western Comic |
 
 ### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.

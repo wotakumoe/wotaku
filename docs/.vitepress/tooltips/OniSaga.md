@@ -1,1 +1,0 @@
-This site mostly scrapes from MangaFire, so it can be kept as a backup if MangaFire bites the dust.

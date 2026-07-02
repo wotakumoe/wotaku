@@ -112,6 +112,7 @@ outline: 2
 - [RanobeDB](https://ranobedb.org/) :s: [:src:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :ljp:
 - [Goodreads](https://www.goodreads.com/)
+- [Hardcover](https://hardcover.app/)
 
 == Production
 
@@ -273,6 +274,7 @@ outline: 2
 | Category | Websites |  
 |----------|----------|  
 | **General** | [Animenomics](https://news.animenomics.com/) :fm::sub: |   
+| ^^ | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== | 
 | ^^ |[ORICON NEWS](https://www.oricon.co.jp/) :s: :ljp: |  
 | ^^ | :prev: [Japan Anime News](https://us.oricon-group.com/) [:x:](https://x.com/JapanAnimeNews_) |  
 | ^^ | :prev: [Randomanga](https://randomanga.wordpress.com/) :lfr: |
@@ -286,7 +288,6 @@ outline: 2
 | ^^ |[CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
 | ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
 | ^^ | [JMPA](https://www.j-magazine.or.jp/) :ljp: |
-| ^^ | [Josu Ke](https://x.com/Josu_ke) :s::x: [:web:](https://www.mangacodex.com/) ==JosuKe== | 
 | ^^ | [Mandy](https://note.com/daisakku) :ljp: [:x:](https://x.com/daisakku) |
 | ^^ | [Manga Industry News Roundup](https://note.com/lovebeer73/m/mfa620c29e68a) :ljp: |
 | **:prev: Shueisha** | [Jajanken - Weekly Shonen Jump Lab](https://www.jajanken.net/en/) |
@@ -316,6 +317,7 @@ outline: 2
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |
 | ^^ | :rd: [More in Arts](/art#official-art) |
 | **Manga** | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: |
+| ^^ | [Manga Bookshelf](https://manga-bookshelf.com/) :ljp: [:x:](https://x.com/MANGA10412607) |
 | **Games** | [Old Game Mags](https://oldgamemags.tumblr.com/) [:x:](https://x.com/OldGameMags) |
 | ^^ | [Forgotten Worlds](https://www.forgottenworlds.net/) [:x:](https://x.com/american80s) |
 | ^^ | [Gaming Alexandria](https://www.gamingalexandria.com/wp/) [:x:](https://x.com/dushubz) |
