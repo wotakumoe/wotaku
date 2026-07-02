@@ -317,7 +317,7 @@ outline: 2
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |
 | ^^ | :rd: [More in Arts](/art#official-art) |
 | **Manga** | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: |
-| ^^ | [Manga Bookshelf](https://manga-bookshelf.com/) :ljp: [:x:](https://x.com/MANGA10412607) |
+| ^^ | [MANGA bookshelf](https://manga-bookshelf.com/) :ljp: [:x:](https://x.com/MANGA10412607) |
 | **Games** | [Old Game Mags](https://oldgamemags.tumblr.com/) [:x:](https://x.com/OldGameMags) |
 | ^^ | [Forgotten Worlds](https://www.forgottenworlds.net/) [:x:](https://x.com/american80s) |
 | ^^ | [Gaming Alexandria](https://www.gamingalexandria.com/wp/) [:x:](https://x.com/dushubz) |
