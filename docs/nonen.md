@@ -33,13 +33,13 @@ og:
 </Collapsible>
 
 ### Manga
-| Websites | Tracking | Sources | Reading mode | Social |
-|----------|----------|---------|--------------|--------|
-| [Kagane](https://kagane.org/)  ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaFire](https://mangafire.to/home)  ==MangaFire== | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
-| [Comix](https://comix.to/)  ==Comix== | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Mangadotnet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
-| [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
+| Websites | Library ==Library== | Tracking | Sources | Reading mode | Social |
+|----------|---------------------|----------|---------|--------------|--------|
+| [Kagane](https://kagane.to/)  ==Kagane== | - | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaFire](https://mangafire.to/home)  ==MangaFire== | 54k | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
+| [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 
 ::: tip Apps
 Most apps in [**software**](/software) supports multilingual sources
