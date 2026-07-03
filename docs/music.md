@@ -109,8 +109,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Lucida](https://lucida.to/) | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
 | [Monochrome](https://monochrome.tf/) [:prx:](https://i.wotaku.wiki/p/proxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome) | Amazon |
+| [T2Tunes](https://t2tunes.site/) | ^^ |
 | [am-dl](https://am-dl.pages.dev/) ==amdl== | Apple |
-| [ARCOD](https://www.arcod.xyz/) :acc: | Qobuz |
+| [Arcod](https://www.arcod.xyz/) :acc: | Qobuz |
 
 == Doujin
 
