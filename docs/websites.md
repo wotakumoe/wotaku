@@ -195,26 +195,26 @@ Some of the series may not be available depending on your region.
 
 == Online
 
-| Websites | Tracking | Sources | Reading mode | Social |
-|----------|----------|---------|--------------|--------|
-| [Kagane](https://kagane.to/)  ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | :msync: | :ss: | :lsg: | :cmnt: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | :msync::ie: | :ps: | :sp::dp::ls: | :cmnt: |
-| [MangaFire](https://mangafire.to/home)  ==MangaFire== | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| Websites | Library ==Library== | Tracking | Sources | Reading mode | Social |
+|----------|---------|----------|---------|--------------|--------|
+| [Kagane](https://kagane.to/)  ==Kagane== | - | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 18k | :msync::ie: | :ps: | :sp::dp::ls: | :cmnt: |
+| [MangaFire](https://mangafire.to/home)  ==MangaFire== | 54k | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
 <collapsible title="More">
 
-| Websites | Tracking | Sources | Reading mode | Social |
-|----------|----------|---------|--------------|--------|
-| [MangaKatana](https://mangakatana.com/) | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [MangaBall](https://mangaball.net/)  | :msync: | :ps::up: | :ls: | :cmnt: |
-| [OniSaga](https://onisaga.com/home) | :ie: | :ss::up: | :sp::dp::ls: | :no: |
-| [Comix](https://comix.to/)  ==Comix== | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaTaro](https://mangataro.org/home) | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
-| [MangaK](https://mangak.io/home) | :no: | :ss: | :ls: | :cmnt: |
-| [Mangahub](https://mangahub.io/) :acc: | :msync: | :ss: | :ls: | :cmnt: |
-| [Manga Fox](https://mangafox.la/) [:prx:](https://i.wotaku.wiki/p/proxy#manga-fox) | :msync: | :ss: | :sp::ls:  | :cmnt: |
+| Websites | Library ==Library== | Tracking | Sources | Reading mode | Social |
+|----------|---------|----------|---------|--------------|--------|
+| [OniSaga](https://onisaga.com/home) | 76k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
+| [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
+| [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Mangahub](https://mangahub.io/) | 77k | :msync: | :ss: | :ls: | :cmnt: |
+| [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
+| [MangaK](https://mangak.io/home) | 24k | :no: | :ss: | :ls: | :cmnt: |
+| [MangaTaro](https://mangataro.org/home) | 10k | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
+| [Manga Fox](https://mangafox.la/) [:prx:](https://i.wotaku.wiki/p/proxy#manga-fox) | 7k | :msync: | :ss: | :sp::ls:  | :cmnt: |
 
 </collapsible>
 
