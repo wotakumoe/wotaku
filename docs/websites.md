@@ -224,9 +224,8 @@ Some of the series may not be available depending on your region.
 Some sites may include manga, but they are listed here for their manhwa and manhua.
 :::
 
-| Websites | Tracking | Sources | Reading mode | Social |
-|----------|----------|---------|--------------|--------|
-| [24hNovel](https://24hnovel.com/) | :no: | :ss: | :ls: | :no: |
+| Websites | Tracking | Sources | Layout | Social |
+|----------|----------|---------|--------|--------|
 | [King of Shojo](https://kingofshojo.com/) | :no: | :ss: | :ls: | :no: |
 | [Like Manga](https://likemanga.ink/) | :msync: | :ss: | :ls: | :cmnt: |
 | [ManhuaFast](https://manhuafast.com/) | :msync: | :ss: | :sp::ls: | :cmnt: |
