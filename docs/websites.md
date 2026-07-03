@@ -344,8 +344,8 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 == Online
 
-- [Tokuzilla](https://tokuzilla.net/) [:prx:](https://i.wotaku.wiki/p/proxy#tokuzilla)
-- [Zokaj](https://zenkaj.com/) [:alt:](https://kajzu.com/)
+- [Tokuzilla](https://tokuzilla.net/) :s: [:prx:](https://i.wotaku.wiki/p/proxy#tokuzilla)
+- [Zenkaj](https://zenkaj.com/) [:alt:](https://kajzu.com/)
 - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial)
 - [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
 - [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official)
