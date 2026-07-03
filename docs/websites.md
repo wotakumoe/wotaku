@@ -212,29 +212,12 @@ Some of the series may not be available depending on your region.
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 77k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [MangaK](https://mangak.io/home) | 24k | :no: | :ss: | :ls: | :cmnt: |
+| [MangaK](https://mangak.io/home) | 24k | :no: | :ss: | :sp::ls: | :cmnt: |
 | [MangaTaro](https://mangataro.org/home) | 10k | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
-| [Manga Fox](https://mangafox.la/) [:prx:](https://i.wotaku.wiki/p/proxy#manga-fox) | 7k | :msync: | :ss: | :sp::ls:  | :cmnt: |
+| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 80k | :no: | :ss: | :ls: | :cmnt: |
+| [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
 
 </collapsible>
-
-== Manhwa/hua
-
-::: warning README
-Some sites may include manga, but they are listed here for their manhwa and manhua.
-:::
-
-| Websites | Tracking | Sources | Layout | Social |
-|----------|----------|---------|--------|--------|
-| [King of Shojo](https://kingofshojo.com/) | :no: | :ss: | :ls: | :no: |
-| [Like Manga](https://likemanga.ink/) | :msync: | :ss: | :ls: | :cmnt: |
-| [ManhuaFast](https://manhuafast.com/) | :msync: | :ss: | :sp::ls: | :cmnt: |
-| [ManhwaTOP](https://manhwatop.com/) | :no: | :ss: | :sp::ls: | :cmnt: |
-| [ManhwaZone](https://manhwazone.com/explore) | :no: | :ss: | :ls: | :no: |
-| [TopManhua](https://manhuatop.org/) | :msync: | :ss: | :sp::ls: | :cmnt: |
-| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | :no: | :ss: | :ls: | :cmnt: |
-
-<Block link="/nsfw?t=pornhwa">Pornhwa focused websites are listed here</Block>
 
 == Download
 
