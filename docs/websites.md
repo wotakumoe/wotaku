@@ -197,7 +197,7 @@ Some of the series may not be available depending on your region.
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/)  ==Kagane== | - | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 18k | :msync::ie: | :ps: | :sp::dp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/home)  ==MangaFire== | 54k | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
