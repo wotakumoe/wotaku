@@ -71,7 +71,7 @@ og:
 | Type | Website |
 | :--- | :--- |
 | Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
-| ^^ | [Pawchive](https://pawchive.st/) |
+| ^^ | [Pawchive](https://pawchive.pw/) |
 | Games | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
 | Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
