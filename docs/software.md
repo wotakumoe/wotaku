@@ -69,12 +69,11 @@ og:
 | ^^ | [Ranobe](https://github.com/ranobe-org/ranobe) |
 | ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) |
 | ^^ | [Tsundoku](https://tsundoku-otaku.github.io/) [:src:](https://github.com/tsundoku-otaku/tsundoku) |
-| **Local** | [Readest](https://readest.com/) :s: [:src:](https://github.com/readest/readest) |
-| ^^ | [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs: |
+| **Local** | [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs: |
 | ^^ | [Librera Reader](https://github.com/foobnix/LibreraReader) |
 | ^^ | [Book's Story](https://github.com/Acclorite/book-story) |
-| ^^ | [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) |
 | ^^ | [ReadEra](https://play.google.com/store/apps/details?id=org.readera) :fm::cs: |
+| ^^ | [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) |
 
 == Trackers
 
@@ -240,7 +239,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Freda](https://www.turnipsoft.com/freda/) :cs: | :win: |
 | [Koodo Reader](https://www.koodoreader.com/) [:src:](https://github.com/koodo-reader/koodo-reader) | :win::app::lin: |
 | [Okular](https://okular.kde.org/) | :win::lin: |
-| [Readest](https://readest.com/) :s: [:src:](https://github.com/readest/readest) | :win::app::lin: |
+| [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) | :win::app::lin: |
 | [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) [:src:](https://github.com/sumatrapdfreader/sumatrapdf) | :win: |
 | [Thorium reader](https://www.edrlab.org/software/thorium-reader/) [:src:](https://github.com/edrlab/thorium-reader) | :win::app::lin: |
 | [Yomikiru](https://github.com/mienaiyami/yomikiru) | :win::lin: |

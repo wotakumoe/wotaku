@@ -208,8 +208,8 @@ Some of the series may not be available depending on your region.
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
 | [OniSaga](https://onisaga.com/home) | 76k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
-| [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 77k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [MangaK](https://mangak.io/home) | 24k | :no: | :ss: | :sp::ls: | :cmnt: |
