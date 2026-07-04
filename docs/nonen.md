@@ -35,7 +35,7 @@ og:
 ### Manga
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/)  ==Kagane== | - | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/home)  ==MangaFire== | 54k | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
