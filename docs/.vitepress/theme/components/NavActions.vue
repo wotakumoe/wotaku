@@ -8,6 +8,7 @@ import { inject } from 'vue'
 import { navActions } from '../navActions'
 import { openSearch } from '../searchState'
 import NolebaseEnhancedReadabilitiesMenu from './settings/Menu.vue'
+import BookmarksPanel from './BookmarksPanel.vue'
 
 const ICON_SIZE = 18
 const ICON_STROKE = 2
@@ -19,6 +20,10 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
 </script>
 
 <template>
+  <div class="nav-actions-container">
+  <div class="nav-bookmark-mobile">
+    <BookmarksPanel />
+  </div>
   <div class="nav-actions" role="group" aria-label="Site actions">
     <template v-for="(action, i) in navActions" :key="i">
       <div class="nav-action" :class="`nav-action--${action.type}`">
@@ -53,12 +58,33 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
         />
 
         <NolebaseEnhancedReadabilitiesMenu v-else-if="action.type === 'settings'" />
+        <BookmarksPanel v-else-if="action.type === 'bookmarks'" />
       </div>
     </template>
+  </div>
   </div>
 </template>
 
 <style scoped>
+.nav-actions-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav-bookmark-mobile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: var(--vp-nav-height);
+}
+
+@media (min-width: 768px) {
+  .nav-bookmark-mobile {
+    display: none;
+  }
+}
+
 .nav-actions {
   display: none;
   align-items: center;
@@ -137,14 +163,16 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
 
 .nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout .button) {
   width: 100% !important;
-  height: auto !important;
+  height: 100% !important;
   padding: 0 !important;
   display: flex !important;
   justify-content: center !important;
   align-items: center !important;
   color: var(--vp-c-text-1);
   opacity: 0.55;
-  transition: opacity 0.25s;
+  transition:
+    opacity 0.25s,
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
 }
 .nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout:hover .button) {
   opacity: 1;
