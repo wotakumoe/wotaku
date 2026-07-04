@@ -321,6 +321,54 @@ export const homeCards: HomeCard[] = [
     section: 'Guides'
   },
   {
+    id: 'torrenting-start',
+    icon: ':lucide-magnet:',
+    title: 'Getting Started',
+    details: 'Basic how-to torrent guide to get you started',
+    link: '/torrenting/start',
+    section: 'Torrenting'
+  },
+  {
+    id: 'torrenting-faq',
+    icon: ':lucide-magnet:',
+    title: 'Torrenting FAQs',
+    details: 'Common questions about torrenting',
+    link: '/torrenting/faq',
+    section: 'Torrenting'
+  },
+  {
+    id: 'torrenting-glossary',
+    icon: ':lucide-magnet:',
+    title: 'Torrent Glossary',
+    details: 'All the basic torrent related terms',
+    link: '/torrenting/glossary',
+    section: 'Torrenting'
+  },
+  {
+    id: 'torrenting-nyaa',
+    icon: ':lucide-magnet:',
+    title: 'Nyaa',
+    details: 'A tutorial for navigating nyaa',
+    link: '/torrenting/nyaa',
+    section: 'Torrenting'
+  },
+  {
+    id: 'torrenting-qbit',
+    icon: ':lucide-magnet:',
+    title: 'qBittorrent',
+    details: 'Various how-tos for qBittorrent',
+    link: '/torrenting/qbit',
+    section: 'Torrenting'
+  },
+  {
+    id: 'torrenting-trackers',
+    icon: ':lucide-magnet:',
+    title: 'Trackers',
+    details: 'List of public and private trackers',
+    link: '/torrenting/trackers',
+    section: 'Torrenting'
+  },
+  {
     id: 'japan-language',
     icon: ':uil-letter-japanese-a:',
     title: 'Learning Japanese',
