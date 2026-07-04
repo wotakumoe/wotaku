@@ -1209,7 +1209,15 @@ table tr:nth-child(odd) {
     }
 
     .VPDocOutlineItem.root > li {
+      position: relative;
+
+      &:hover .toc-bookmark-btn,
+      & .toc-bookmark-btn.is-bookmarked {
+        opacity: 1;
+      }
+
       & > .outline-link {
+        padding-right: 20px;
         @apply text-neutral-600/80 dark:text-neutral-300/80 transition-all
           dark:hover:text-neutral-300 dark:focus:text-neutral-300;
 
@@ -1242,9 +1250,91 @@ table tr:nth-child(odd) {
       }
     }
 
+    .toc-bookmark-btn {
+      position: absolute;
+      right: 2px;
+      top: 0;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 16px;
+      padding: 0;
+      opacity: 0;
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      color: var(--vp-c-text-2);
+      line-height: 0;
+      transition: opacity 0.2s, color 0.15s;
+
+      &.is-bookmarked {
+        color: var(--vp-c-brand-1);
+
+        svg path {
+          fill: currentColor;
+        }
+      }
+
+      &:hover {
+        color: var(--vp-c-brand-1);
+      }
+    }
+
     & > .VPDocOutlineItem {
       --uno: "border-l-2! border-neutral-100 dark:border-neutral-600 pl-4";
     }
+  }
+}
+
+.VPLocalNavOutlineDropdown .outline > .VPDocOutlineItem > li {
+  position: relative;
+
+  & > .outline-link {
+    padding-right: 28px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+  }
+}
+
+.VPLocalNavOutlineDropdown .outline {
+
+  .toc-bookmark-btn {
+    position: absolute;
+    right: 4px;
+    top: 0;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    padding: 0;
+    opacity: 1;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    color: var(--vp-c-text-3);
+    line-height: 0;
+    transition: color 0.15s;
+
+    &.is-bookmarked {
+      color: var(--vp-c-brand-1);
+
+      svg path {
+        fill: currentColor;
+      }
+    }
+
+    &:hover {
+      color: var(--vp-c-brand-1);
+    }
+  }
+}
+
+@media (hover: none) {
+  .VPDocAside .toc-bookmark-btn {
+    opacity: 1;
   }
 }
 

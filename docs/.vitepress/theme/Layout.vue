@@ -27,6 +27,7 @@ import {
   watchEffect
 } from 'vue'
 import { sidebar } from '../configs/constants'
+import { useBookmarks, BOOKMARK_CHANGE_EVENT } from './composables/useBookmarks'
 import AnnouncementPill from './components/AnnouncementPill.vue'
 import SiteFooter from './components/SiteFooter.vue'
 import NotFoundComponent from './components/NotFound.vue'
@@ -38,6 +39,7 @@ import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 
 const route = useRoute()
 const { frontmatter, isDark, site, theme } = useData()
+const { isBookmarked, toggle: bookmarkToggle } = useBookmarks()
 const { Layout } = DefaultTheme
 
 // Home sidebar menu
@@ -613,14 +615,79 @@ const setupOutlineFollow = () => {
   followActiveOutlineLink()
 }
 
+const BOOKMARK_SVG = `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>`
+
+function syncTocBookmarkStates() {
+  const path = route.path
+  document.querySelectorAll<HTMLElement>('.toc-bookmark-btn').forEach(btn => {
+    const anchor = btn.dataset.anchor ?? ''
+    btn.classList.toggle('is-bookmarked', isBookmarked(anchor, path))
+  })
+}
+
+function addBookmarkBtnToLi(li: HTMLElement, path: string) {
+  if (li.querySelector('.toc-bookmark-btn')) return
+
+  const link = li.querySelector<HTMLAnchorElement>(':scope > .outline-link')
+  if (!link) return
+
+  const hrefAttr = link.getAttribute('href') ?? ''
+  const anchor = hrefAttr.startsWith('#') ? hrefAttr.slice(1) : hrefAttr
+  const title = link.textContent?.trim() ?? ''
+  if (!anchor || !title) return
+
+  const btn = document.createElement('button')
+  btn.className = 'toc-bookmark-btn'
+  btn.setAttribute('aria-label', `Bookmark "${title}"`)
+  btn.dataset.anchor = anchor
+  btn.innerHTML = BOOKMARK_SVG
+
+  if (isBookmarked(anchor, path)) btn.classList.add('is-bookmarked')
+
+  btn.addEventListener('click', (e) => {
+    e.preventDefault()
+    e.stopPropagation()
+    bookmarkToggle({ anchor, title, path })
+    btn.classList.toggle('is-bookmarked', isBookmarked(anchor, path))
+  })
+
+  li.appendChild(btn)
+}
+
+let tocMutationObserver: MutationObserver | null = null
+let tocRaf = 0
+
+function scanTocItems(path: string) {
+  // Desktop sidebar — VPDocOutlineItem is called with :root="true"
+  document.querySelectorAll<HTMLElement>('.VPDocOutlineItem.root > li').forEach(li => addBookmarkBtnToLi(li, path))
+  // Mobile dropdown — VPDocOutlineItem is called without root prop, so the ul gets class "nested"
+  document.querySelectorAll<HTMLElement>('.VPLocalNavOutlineDropdown .outline > .VPDocOutlineItem > li').forEach(li => addBookmarkBtnToLi(li, path))
+}
+
+function setupTocBookmarks() {
+  const path = route.path
+  document.querySelectorAll<HTMLElement>('.toc-bookmark-btn').forEach(btn => btn.remove())
+  scanTocItems(path)
+
+  // Mobile dropdown items are v-if rendered on open — watch for them being added
+  tocMutationObserver?.disconnect()
+  tocMutationObserver = new MutationObserver(() => {
+    cancelAnimationFrame(tocRaf)
+    tocRaf = requestAnimationFrame(() => scanTocItems(route.path))
+  })
+  tocMutationObserver.observe(document.body, { childList: true, subtree: true })
+}
+
 onMounted(tryOpenAnchoredContent)
 onMounted(rewriteAnchorLinksDeferred)
 onMounted(() => nextTick(setupOutlineFollow))
+onMounted(() => nextTick(setupTocBookmarks))
 watch(() => route.data, () => {
   void tryOpenAnchoredContent()
   rewriteAnchorLinksDeferred()
   nextTick(setupOutlineFollow)
   nextTick(setupManualCopyButtons)
+  nextTick(setupTocBookmarks)
 }, { flush: 'post' })
 watch(() => route.query, () => {
   void tryOpenAnchoredContent()
@@ -984,6 +1051,8 @@ watch(
 onMounted(() => {
   if (import.meta.env.SSR) return
 
+  window.addEventListener(BOOKMARK_CHANGE_EVENT, syncTocBookmarkStates)
+
   initTitleOnly()
   nextTick(setupManualCopyButtons)
 
@@ -1190,8 +1259,11 @@ onMounted(() => {
 onUnmounted(() => {
   outlineFollowObserver?.disconnect()
   copyButtonObserver?.disconnect()
+  tocMutationObserver?.disconnect()
   cancelAnimationFrame(outlineFollowRaf)
+  cancelAnimationFrame(tocRaf)
   takodachiDisable.value && takodachiDisable.value()
+  window.removeEventListener(BOOKMARK_CHANGE_EVENT, syncTocBookmarkStates)
 })
 </script>
 

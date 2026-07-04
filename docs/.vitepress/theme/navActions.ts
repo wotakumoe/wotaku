@@ -16,6 +16,10 @@ export interface NavSettingsAction extends NavActionBase {
   type: 'settings'
 }
 
+export interface NavBookmarksAction extends NavActionBase {
+  type: 'bookmarks'
+}
+
 export interface NavLinkAction extends NavActionBase {
   type: 'link'
   icon: string
@@ -27,6 +31,7 @@ export type NavAction =
   | NavSearchAction
   | NavAppearanceAction
   | NavSettingsAction
+  | NavBookmarksAction
   | NavLinkAction
 
 export const navActions: NavAction[] = [
@@ -44,5 +49,6 @@ export const navActions: NavAction[] = [
     link: 'https://discord.gg/vShRGx8ZBC',
     label: 'Discord'
   },
+  { type: 'bookmarks' },
   { type: 'settings' }
 ]
