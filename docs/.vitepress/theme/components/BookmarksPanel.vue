@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { onClickOutside } from '@vueuse/core'
-import { Bookmark, BookMarked, Hash, X } from 'lucide-vue-next'
+import { Bookmark, Hash, X } from 'lucide-vue-next'
 import { computed, ref } from 'vue'
 import type { DefaultTheme } from 'vitepress/theme'
 import type { HomeCard } from '../../configs/constants'
@@ -147,8 +147,9 @@ const grouped = computed((): GroupEntry[] => {
           @scroll.passive="onScroll"
         >
           <div v-if="bookmarks.length === 0" class="bookmarks-empty">
-            <BookMarked :size="128" :stroke-width="1" class="bookmarks-empty-icon" />
-            <p class="bookmarks-empty-hint">Click the bookmark icon next to any heading in the table of contents to save it here.</p>
+            <span class="bookmarks-empty-kaomoji">(˶ᵔ ᵕ ᵔ˶)</span>
+            <p class="bookmarks-empty-hint bookmarks-empty-hint--desktop">Tip: Hover over any primary heading under <strong>On this page</strong> and click <Bookmark :size="13" :stroke-width="2" class="bookmarks-empty-inline-icon" /> to bookmark it.</p>
+            <p class="bookmarks-empty-hint bookmarks-empty-hint--mobile">Tip: Tap <strong>On this page</strong> and press <Bookmark :size="13" :stroke-width="2" class="bookmarks-empty-inline-icon" /> next to any primary heading to bookmark it.</p>
           </div>
           <div v-else class="bookmarks-groups">
             <template v-for="group in grouped" :key="group.type === 'page' ? group.path : group.section">
@@ -288,9 +289,11 @@ const grouped = computed((): GroupEntry[] => {
   overflow: hidden;
 }
 
-.bookmarks-empty-icon {
+.bookmarks-empty-kaomoji {
+  font-size: 28px;
   color: var(--vp-c-text-3);
-  flex: none;
+  line-height: 1;
+  user-select: none;
 }
 
 .bookmarks-empty-hint {
@@ -301,6 +304,17 @@ const grouped = computed((): GroupEntry[] => {
   white-space: normal;
   overflow-wrap: break-word;
   word-break: break-word;
+}
+
+.bookmarks-empty-hint--mobile {
+  display: none;
+}
+
+.bookmarks-empty-inline-icon {
+  display: inline;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
 }
 
 .bookmarks-groups {
@@ -437,6 +451,16 @@ const grouped = computed((): GroupEntry[] => {
   display: none;
 }
 
+@media (max-width: 1279px) {
+  .bookmarks-empty-hint--desktop {
+    display: none;
+  }
+
+  .bookmarks-empty-hint--mobile {
+    display: block;
+  }
+}
+
 @media (max-width: 767px) {
   .bookmarks-panel {
     position: fixed;
@@ -458,11 +482,13 @@ const grouped = computed((): GroupEntry[] => {
     flex: 1;
     height: auto;
     min-height: 0;
+    display: flex;
+    flex-direction: column;
   }
 
   .bookmarks-empty {
-    min-height: 0;
     flex: 1;
+    min-height: 0;
   }
 
   .bookmarks-mobile-header {
