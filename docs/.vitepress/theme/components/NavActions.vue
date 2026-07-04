@@ -177,6 +177,9 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
 .nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout:hover .button) {
   opacity: 1;
 }
+.nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout .button:active) {
+  transform: scale(0.94);
+}
 
 .nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout .text) {
   color: var(--vp-c-text-1) !important;
