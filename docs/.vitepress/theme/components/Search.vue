@@ -264,7 +264,7 @@ onBeforeUnmount(() => clearTimeout(urlDebounceTimer))
 
 const showDetailedList = useLocalStorage(
   'vitepress:local-search-detailed-list',
-  false
+  true
 )
 
 // Three search modes: 'exact' | 'fuzzy' | 'url'
