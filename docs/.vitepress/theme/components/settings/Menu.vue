@@ -4,7 +4,7 @@ import { inject } from 'vue'
 
 import { InjectionKey } from '../../constants'
 import AccentColor from './AccentColor.vue'
-import BlurEffects from './BlurEffects.vue'
+import Effects from './Effects.vue'
 import LayoutSwitch from './LayoutSwitch.vue'
 import LayoutSwitchContentLayoutWidthInput from './LayoutSwitchContentLayoutMaxWidthSlider.vue'
 import LayoutSwitchPageLayoutWidthInput from './LayoutSwitchPageLayoutMaxWidthSlider.vue'
@@ -31,7 +31,7 @@ const mounted = useMounted()
       <LayoutSwitchContentLayoutWidthInput />
       <Spotlight v-if="!options.spotlight?.disabled" />
       <SpotlightStyles v-if="!options.spotlight?.disabled" />
-      <BlurEffects />
+      <Effects />
       <Takodachi />
       <AccentColor />
     </div>

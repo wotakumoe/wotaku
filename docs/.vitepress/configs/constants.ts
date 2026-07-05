@@ -572,6 +572,13 @@ export const siteConfig = {
   appearance: true,
   titleTemplate: ':title • Wotaku.wiki by Duck',
   head: [
+    // Apply the "Effects" preference before first paint to avoid a flash of
+    // effects. Effects are off by default; the class strips blur/transitions.
+    [
+      'script',
+      {},
+      `(function(){try{if(localStorage.getItem('preference-effects')!=='on')document.documentElement.classList.add('effects-disabled')}catch(e){document.documentElement.classList.add('effects-disabled')}})()`
+    ],
     ['meta', { name: 'theme-color', content: '#56b4fc' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],

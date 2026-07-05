@@ -1553,7 +1553,9 @@ table tr:nth-child(odd) {
   }
 }
 
-html.reduce-blur-effects {
+// Applied to <html> when the "Effects" preference is off (the default).
+// Strips backdrop blur, view/page transitions and scaling bounces.
+html.effects-disabled {
   &::view-transition-group(root),
   &::view-transition-new(root),
   &::view-transition-old(root) {
@@ -1626,9 +1628,23 @@ html.reduce-blur-effects {
   .VPSidebarItem.is-link:not(.collapsible),
   .VPSidebarItem.is-link.collapsible > .item,
   // Search button hover/active scale bounce
-  #local-search > .DocSearch-Button {
+  #local-search > .DocSearch-Button,
+  // Appearance (dark/light) toggle hover/active scale bounce
+  .VPSwitchAppearance {
     scale: none !important;
     transition: none !important;
+  }
+
+  // Nav-pill button + dropdown panel active/open scale bounces
+  .nav-action-btn:active,
+  .nav-actions .VPSocialLink:active,
+  .VPNolebaseEnhancedReadabilitiesMenuFlyout .button:active,
+  .bookmarks-btn:active,
+  .bookmarks-panel-enter-from,
+  .bookmarks-panel-leave-to,
+  .settings-popup-enter-from,
+  .settings-popup-leave-to {
+    transform: none !important;
   }
 }
 

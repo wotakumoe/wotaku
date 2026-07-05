@@ -28,7 +28,6 @@ import {
   useLocalStorage,
   useScrollLock,
   useSessionStorage,
-  useStorage,
   watchDebounced
 } from '@vueuse/core'
 import { useFocusTrap } from '@vueuse/integrations/useFocusTrap'
@@ -62,7 +61,7 @@ import type { PageLink } from '../../plugins/urlSearchPlugin'
 import { LRUCache } from '../composables/search/lru-cache'
 import { createSearchTranslate } from '../composables/search/translation'
 import { useData } from '../composables/search/use-data'
-import { LowEndDeviceModeStorageKey } from '../constants'
+import { useEffects } from '../composables/useEffects'
 import { enhanceAppWithTabs } from './tabs'
 
 export interface FooterTranslations {
@@ -138,8 +137,7 @@ const filterText = disableQueryPersistence.value
   ? ref('')
   : useSessionStorage('vitepress:local-search-filter', '')
 
-const lowEndDeviceMode = useStorage(LowEndDeviceModeStorageKey, 'off')
-const searchAnimationsEnabled = computed(() => lowEndDeviceMode.value !== 'on')
+const { effectsEnabled: searchAnimationsEnabled } = useEffects()
 const showKeyboardShortcuts = computed(() => !filterText.value)
 
 const SearchMotionDiv = motion.div

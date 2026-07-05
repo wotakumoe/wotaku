@@ -34,7 +34,8 @@ import NotFoundComponent from './components/NotFound.vue'
 import { NolebaseEnhancedReadabilitiesScreenMenu } from './components/settings'
 import NavActions from './components/NavActions.vue'
 import SidebarCard from './components/SidebarCard.vue'
-import { AccentColorStorageKey, LowEndDeviceModeStorageKey, TakodachiStorageKey } from './constants'
+import { AccentColorStorageKey, TakodachiStorageKey } from './constants'
+import { useEffects } from './composables/useEffects'
 import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 
 const route = useRoute()
@@ -744,15 +745,15 @@ const breadcrumbs = computed(() => {
 
 // Respect user's reduced motion preferences
 const prefs = usePreferredReducedMotion()
-const lowEndDeviceMode = useStorage(LowEndDeviceModeStorageKey, 'off')
-const reduceBlurEffects = computed(() => lowEndDeviceMode.value === 'on')
+const { effectsEnabled } = useEffects()
 
 watchEffect(() => {
   if (import.meta.env.SSR) return
 
+  // Effects are off by default; the class strips blur/transitions/scaling.
   document.documentElement.classList.toggle(
-    'reduce-blur-effects',
-    reduceBlurEffects.value
+    'effects-disabled',
+    !effectsEnabled.value
   )
 })
 
