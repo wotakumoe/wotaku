@@ -94,7 +94,7 @@ og:
 - [Kusowanka](https://kusowanka.com/)
 - [Nozomi](https://nozomi.la/)
 - [Oreno3D](https://oreno3d.com/)
-- [Pawchive](https://pawchive.st/)
+- [Pawchive](https://pawchive.pw/)
 - [Pixiv](https://www.pixiv.net/)
 - [yande.re](https://yande.re/)
 
