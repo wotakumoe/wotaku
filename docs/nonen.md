@@ -312,8 +312,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Kartoons](https://kartoons.me/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
 | ^^ | [ToonStream](https://toonstream.vip/home/) + :len: |
-| **DDL** | [Anime Shrine](https://animeshrine.xyz/) + :len: |
-| ^^ | [AnimeVilla](https://animevilla.org/) :ero: |
+| **DDL** | [AnimeVilla](https://animevilla.org/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
 | ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
 | ^^ | [Puretoons](https://puretoons.in/) + :len: |
@@ -714,7 +713,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [TruyenFull.io](https://truyenfull.today/) :ero: |
 | ^^ | [Xalosach](https://xalosach.com/) |
 | **Others** | [Tana.moe](https://tana.moe/) |
-| ^^ | [Toku8](https://toku8.com/v/) |
+| ^^ | [TokuVN](https://tokuvn.com/) |
 | ^^ | [Vietnam Key FanClub](https://vnkeyfc.com/) :ddl: |
 
 ### Software
