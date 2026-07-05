@@ -56,7 +56,7 @@ outline: 2
 ::: scrapetable
 - AniLight : (AnimePahe, Raye), (Anibd, Misora), (Anidb, Near), (AniNeko, Light & Rem), (Anikoto, Kiwi Meg & Misa), (AllManga, Ryu);
 - AnimeX : (Anidb, kiwi), (Anibd, beep), (AniNeko, mimi), (AnimeOnsen, vee, SD), (AllManga, huzz miku & mochi), (Animeverse, neko), (Anikoto, koto & yuki);
-- Luna: (Anikoto, Orion & Zenith), (Aniwave, Nova), (Anibd, Helios), (Anidb, Polaris), (AnimeGG, Pulsar), (Allmanga, Quasar), (Anineko, Vega), (Animeverse, Cosmos);
+- Luna: (Anikoto, Orion & Zenith), (Aniwave, Nova), (Anibd, Helios), (Anidb, Polaris), (AnimeGG, Pulsar), (Allmanga, Quasar), (Anineko, Vega), (AnimeHeaven, CrysOline), (Animeverse, Cosmos);
 - Miruro : (AnimeDunya, dune, SD), (Anidb, pewe), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
 :::
 
