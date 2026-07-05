@@ -907,22 +907,21 @@ function goToNormalPage(p: number) {
     if (resultsEl.value) resultsEl.value.scrollTop = 0
     scrollToSelectedResult()
     reapplyHighlights()
+    void buildVisibleExcerpts()
   })
 }
 
-// Reset to page 1 when the query changes (results replaced) or filter changes.
-watch([results, activePageFilter], () => {
-  normalPage.value = 1
-})
 // ---------------------------------------------------------------------------
 
 function setPageFilter(key: string | null) {
   activePageFilter.value = activePageFilter.value === key ? null : key
+  normalPage.value = 1
   selectedIndex.value = filteredResults.value.length ? 1 : -1
   nextTick(() => {
     if (resultsEl.value) resultsEl.value.scrollTop = 0
     scrollToSelectedResult()
     reapplyHighlights()
+    void buildVisibleExcerpts()
   })
 }
 
@@ -942,6 +941,69 @@ async function reapplyHighlights() {
   })
   await nextTick()
   centerExcerptsUntilSettled()
+}
+
+const toRows = (list: (SearchResult & Result)[]) =>
+  list.map((r) => {
+    const map = cache.get(getDocId(r.id))
+    return { ...r, text: map?.get(getDocAnchor(r.id)) ?? '' }
+  })
+
+let excerptBuildToken = 0
+
+function visiblePageDocs(pageOffset: number): string[] {
+  const start = (normalCurrentPage.value - 1 + pageOffset) * NORMAL_PAGE_SIZE
+  if (start < 0) return []
+  const list = filteredResults.value
+  const docs: string[] = []
+  const seen = new Set<string>()
+  for (let i = start; i < start + NORMAL_PAGE_SIZE && i < list.length; i++) {
+    const docId = getDocId(String(list[i].id))
+    if (!seen.has(docId)) {
+      seen.add(docId)
+      docs.push(docId)
+    }
+  }
+  return docs
+}
+
+// Builds excerpts for the visible pagination page, then prefetches the next.
+async function buildVisibleExcerpts() {
+  const token = ++excerptBuildToken
+  if (!showDetailedList.value || urlSearchMode.value) return
+
+  let builtAny = false
+  const buildAll = async (docIds: string[]) => {
+    for (const docId of docIds) {
+      if (cache.get(docId)) continue
+      await buildDocExcerpt(docId)
+      if (token !== excerptBuildToken) return false
+      builtAny = true
+      await nextFrame()
+      if (token !== excerptBuildToken) return false
+    }
+    return true
+  }
+
+  if (!(await buildAll(visiblePageDocs(0)))) return
+
+  const rowsStale = pagedResults.value.some((r) => {
+    if (r.text) return false
+    const map = cache.get(getDocId(String(r.id)))
+    return Boolean(map?.get(getDocAnchor(String(r.id))))
+  })
+
+  if (builtAny || rowsStale) {
+    const keepSelected = selectedIndex.value
+    results.value = toRows(results.value)
+    await nextTick()
+    if (token !== excerptBuildToken) return
+    selectedIndex.value = keepSelected
+    await reapplyHighlights()
+    if (token !== excerptBuildToken) return
+  }
+
+  await buildAll(visiblePageDocs(1))
 }
 
 watch(results, () => {
@@ -1079,20 +1141,14 @@ const cache = new LRUCache<string, Map<string, string>>(120)
 
 const inFlightExcerpts = new Map<string, Promise<void>>()
 
-const EAGER_EXCERPTS = 15
-
-function buildDocExcerpt(
-  docId: string,
-  filterTextValue: string
-): Promise<void> {
-  const cacheId = `${docId}\n${filterTextValue}`
-  if (cache.get(cacheId)) return Promise.resolve()
-  const pending = inFlightExcerpts.get(cacheId)
+function buildDocExcerpt(docId: string): Promise<void> {
+  if (cache.get(docId)) return Promise.resolve()
+  const pending = inFlightExcerpts.get(docId)
   if (pending) return pending
 
   const job = (async () => {
     const { mod } = await fetchExcerpt(docId)
-    if (cache.get(cacheId)) return
+    if (cache.get(docId)) return
 
     const comp = (mod as any).default ?? mod
     if (!(comp?.render || comp?.setup)) return // nothing renderable; don't cache
@@ -1116,7 +1172,24 @@ function buildDocExcerpt(
     })
     const div = document.createElement('div')
     try {
-      app.mount(div)
+      // force lazy images so the detached render doesn't download them
+      const originalCreateElement = document.createElement
+      document.createElement = function (
+        this: Document,
+        ...args: Parameters<Document['createElement']>
+      ) {
+        const el = originalCreateElement.apply(this, args)
+        if (el instanceof HTMLImageElement) {
+          el.loading = 'lazy'
+          el.decoding = 'async'
+        }
+        return el
+      } as typeof document.createElement
+      try {
+        app.mount(div)
+      } finally {
+        document.createElement = originalCreateElement
+      }
       const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
       headings.forEach((heading) => {
         const href = heading.querySelector('a')?.getAttribute('href')
@@ -1141,12 +1214,12 @@ function buildDocExcerpt(
         /* ignore */
       }
     }
-    cache.set(cacheId, map)
+    cache.set(docId, map)
   })()
 
-  inFlightExcerpts.set(cacheId, job)
+  inFlightExcerpts.set(docId, job)
   job.finally(() => {
-    if (inFlightExcerpts.get(cacheId) === job) inFlightExcerpts.delete(cacheId)
+    if (inFlightExcerpts.get(docId) === job) inFlightExcerpts.delete(docId)
   })
   return job
 }
@@ -1191,6 +1264,8 @@ watchDebounced(
     onCleanup(() => {
       canceled = true
     })
+
+    excerptBuildToken++
 
     if (!ready || !isOpen) {
       textSearchLoading.value = false
@@ -1264,14 +1339,6 @@ watchDebounced(
       return
     }
 
-    const toRows = (list: (SearchResult & Result)[]) =>
-      list.map((r) => {
-        const id = getDocId(r.id)
-        const anchor = getDocAnchor(r.id)
-        const map = cache.get(`${id}\n${searchQuery}`)
-        return { ...r, text: map?.get(anchor) ?? '' }
-      })
-
     const highlight = () =>
       new Promise<void>((resolve) => {
         if (!terms.size || !mark.value) {
@@ -1287,31 +1354,9 @@ watchDebounced(
         })
       })
 
-    const docOrderList: string[] = []
-    const seenDocs = new Set<string>()
-    for (const r of _result) {
-      const docId = getDocId(r.id)
-      if (!seenDocs.has(docId)) {
-        seenDocs.add(docId)
-        docOrderList.push(docId)
-      }
-    }
+    normalPage.value = 1
 
-    // Show results immediately (excerpts may be empty on first detail-view switch;
-    // they fill in below once built)
-    results.value = toRows(_result)
-
-    if (showDetailedListValue) {
-      const eagerDocs = new Set<string>()
-      for (const r of _result.slice(0, EAGER_EXCERPTS)) {
-        eagerDocs.add(getDocId(r.id))
-      }
-      await Promise.all(
-        [...eagerDocs].map((docId) => buildDocExcerpt(docId, searchQuery))
-      )
-      if (canceled) return
-    }
-
+    // Show results immediately; excerpts fill in below once built
     results.value = toRows(_result)
 
     await nextTick()
@@ -1327,27 +1372,8 @@ watchDebounced(
     centerExcerptsUntilSettled()
 
     if (showDetailedListValue) {
-      const built = new Set<string>()
-      for (const r of _result.slice(0, EAGER_EXCERPTS)) {
-        built.add(getDocId(r.id))
-      }
-      const remaining = docOrderList.filter((d) => !built.has(d))
-      if (remaining.length) {
-        for (const docId of remaining) {
-          await buildDocExcerpt(docId, searchQuery)
-          if (canceled) return
-          await nextFrame()
-          if (canceled) return
-        }
-        results.value = toRows(_result)
-        await nextTick()
-        if (canceled) return
-        await highlight()
-        await nextTick()
-        await nextFrame()
-        if (canceled) return
-        centerExcerptsUntilSettled()
-      }
+      await buildVisibleExcerpts()
+      if (canceled) return
     }
     textSearchLoading.value = false
   },
@@ -1364,8 +1390,7 @@ function centerExcerpts() {
     ) as HTMLElement | null
     if (!markNode) continue
 
-    const viewportHeight =
-      Number.parseFloat(getComputedStyle(excerptElement).maxHeight) || 84
+    const viewportHeight = excerptElement.clientHeight || 84
 
     let offset = 0
     let node: HTMLElement | null = markNode
@@ -1439,13 +1464,25 @@ const nextFrame = () =>
 
 function hasExcerptPreview(html?: string) {
   if (!html) return false
-  return Boolean(
-    html
-      .replace(/<[^>]*>/g, ' ')
-      .replace(/&nbsp;|&#160;/gi, ' ')
-      .replace(/\s+/g, ' ')
-      .trim()
-  )
+  for (let i = 0; i < html.length; i++) {
+    const ch = html[i]
+    if (ch === '<') {
+      const close = html.indexOf('>', i + 1)
+      if (close === -1) return false
+      i = close
+      continue
+    }
+    if (ch === '&') {
+      const entity = html.slice(i, i + 6).toLowerCase()
+      if (entity === '&nbsp;' || entity === '&#160;') {
+        i += 5
+        continue
+      }
+      return true
+    }
+    if (!/\s/.test(ch)) return true
+  }
+  return false
 }
 
 /* Search input focus */
@@ -3113,6 +3150,7 @@ function onMouseMove(e: MouseEvent) {
   overflow: hidden;
   position: relative;
   margin-top: 4px;
+  contain: layout paint;
 }
 
 .result.selected .excerpt {
