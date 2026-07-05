@@ -973,19 +973,34 @@ async function buildVisibleExcerpts() {
   if (!showDetailedList.value || urlSearchMode.value) return
 
   let builtAny = false
-  const buildAll = async (docIds: string[]) => {
+  let sliceStart = performance.now()
+
+  const refreshRows = async () => {
+    const keepSelected = selectedIndex.value
+    results.value = toRows(results.value)
+    await nextTick()
+    if (token !== excerptBuildToken) return false
+    selectedIndex.value = keepSelected
+    return true
+  }
+
+  const buildAll = async (docIds: string[], progressive = false) => {
     for (const docId of docIds) {
       if (cache.get(docId)) continue
       await buildDocExcerpt(docId)
       if (token !== excerptBuildToken) return false
       builtAny = true
-      await nextFrame()
-      if (token !== excerptBuildToken) return false
+      if (performance.now() - sliceStart > 40) {
+        if (progressive && !(await refreshRows())) return false
+        await nextFrame()
+        if (token !== excerptBuildToken) return false
+        sliceStart = performance.now()
+      }
     }
     return true
   }
 
-  if (!(await buildAll(visiblePageDocs(0)))) return
+  if (!(await buildAll(visiblePageDocs(0), true))) return
 
   const rowsStale = pagedResults.value.some((r) => {
     if (r.text) return false
@@ -994,11 +1009,7 @@ async function buildVisibleExcerpts() {
   })
 
   if (builtAny || rowsStale) {
-    const keepSelected = selectedIndex.value
-    results.value = toRows(results.value)
-    await nextTick()
-    if (token !== excerptBuildToken) return
-    selectedIndex.value = keepSelected
+    if (!(await refreshRows())) return
     await reapplyHighlights()
     if (token !== excerptBuildToken) return
   }
