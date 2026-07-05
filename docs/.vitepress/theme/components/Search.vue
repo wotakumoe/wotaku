@@ -46,6 +46,7 @@ import {
   File,
   Globe,
   Hash,
+  Layers,
   LayoutList,
   List,
   LocateOff,
@@ -263,13 +264,19 @@ onBeforeUnmount(() => clearTimeout(urlDebounceTimer))
 
 const showDetailedList = useLocalStorage(
   'vitepress:local-search-detailed-list',
-  false
+  true
 )
 
 // Three search modes: 'exact' | 'fuzzy' | 'url'
 const searchMode = useLocalStorage<'exact' | 'fuzzy' | 'url'>(
   'vitepress:local-search-mode',
   'exact'
+)
+
+// How many result pages get their excerpts rendered ahead of time
+const excerptPreload = useLocalStorage<'off' | 'next' | 'all'>(
+  'vitepress:local-search-excerpt-preload',
+  'off'
 )
 
 // Cycle through modes on mobile (only active button is visible, tap it to advance)
@@ -337,7 +344,7 @@ const showSettingsPopup = ref(false)
 const settingsButtonRef = ref<HTMLButtonElement>()
 const settingsPopupRef = ref<HTMLDivElement>()
 const settingsBounding = useElementBounding(settingsButtonRef)
-type HelpSection = 'search' | 'view' | 'history'
+type HelpSection = 'search' | 'view' | 'preload' | 'history'
 const activeHelpSection = ref<HelpSection | null>(null)
 const helpPopupEl = ref<HTMLDivElement>()
 const helpPopupPos = ref({ top: -9999, left: -9999 })
@@ -1014,8 +1021,25 @@ async function buildVisibleExcerpts() {
     if (token !== excerptBuildToken) return
   }
 
-  await buildAll(visiblePageDocs(1))
+  if (excerptPreload.value === 'next') {
+    await buildAll(visiblePageDocs(1))
+  } else if (excerptPreload.value === 'all') {
+    const seen = new Set<string>()
+    const docs: string[] = []
+    for (const r of results.value) {
+      const docId = getDocId(String(r.id))
+      if (!seen.has(docId)) {
+        seen.add(docId)
+        docs.push(docId)
+      }
+    }
+    await buildAll(docs)
+  }
 }
+
+watch(excerptPreload, () => {
+  void buildVisibleExcerpts()
+})
 
 watch(results, () => {
   if (
@@ -2548,6 +2572,53 @@ function onMouseMove(e: MouseEvent) {
                     </button>
                   </div>
                 </div>
+                <div
+                  v-if="!disableDetailedView && searchMode !== 'url' &&
+                  showDetailedList"
+                  class="settings-section"
+                >
+                  <div class="settings-section-header">
+                    <div class="settings-section-label">
+                      <Layers :size="14" stroke-width="1.75" />
+                      Preload
+                    </div>
+                    <button
+                      type="button"
+                      class="settings-help-btn"
+                      :class="{ active: activeHelpSection === 'preload' }"
+                      aria-label="Excerpt preload help"
+                      @click.stop="toggleHelpSection('preload', $event)"
+                    >
+                      <span class="i-carbon:help-filled settings-help-icon" />
+                    </button>
+                  </div>
+                  <div class="settings-options">
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: excerptPreload === 'off' }"
+                      @click="excerptPreload = 'off'"
+                    >
+                      <span>Off</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: excerptPreload === 'next' }"
+                      @click="excerptPreload = 'next'"
+                    >
+                      <span>One</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: excerptPreload === 'all' }"
+                      @click="excerptPreload = 'all'"
+                    >
+                      <span>All</span>
+                    </button>
+                  </div>
+                </div>
                 <div class="settings-section">
                   <div class="settings-section-header">
                     <div class="settings-section-label">
@@ -2642,6 +2713,27 @@ function onMouseMove(e: MouseEvent) {
                         List
                       </strong>
                       <span>Compact list of titles only. Uses less memory.</span>
+                    </div>
+                  </div>
+                </template>
+                <template v-else-if="activeHelpSection === 'preload'">
+                  <h4 class="sh-title">
+                    <Layers :size="16" stroke-width="1.75" class="sh-title-icon" />
+                    Excerpt Preload
+                  </h4>
+                  <p class="sh-desc">Renders excerpts for upcoming result pages ahead of time in Detail view.</p>
+                  <div class="sh-options">
+                    <div class="sh-option">
+                      <strong>Off</strong>
+                      <span>Only the visible page. Uses the least memory.</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>One</strong>
+                      <span>Also prepares the next page so flipping forward is instant</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>All</strong>
+                      <span>Prepares every result page. Uses more memory.</span>
                     </div>
                   </div>
                 </template>
