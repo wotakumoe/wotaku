@@ -57,7 +57,7 @@ outline: 2
 ::: scrapetable
 - AniLight : (AnimePahe, Raye), (Anibd, Misora), (Anidb, Near), (AniNeko, Light & Rem), (Anikoto, Kiwi Meg & Misa), (AllManga, Ryu);
 - AnimeX : (Anidb, kiwi), (Anibd, beep), (AniNeko, mimi), (AnimeOnsen, vee, SD), (AllManga, huzz miku & mochi), (Animeverse, neko), (Anikoto, koto & yuki);
-- Luna: (Anikoto, zenith), (Aniwave, nova), (Anibd, Helios), (Anidb, Polaris), (Allmanga, Quasar), (Anineko, vega), (Animeverse, cosmos);
+- Luna: (Anikoto, orion & zenith), (Aniwave, nova), (Anibd,helios), (Anidb, polaris), (AnimeGG, pulsar), (Allmanga, quasar), (Anineko, vega), (Animeverse, cosmos);
 - Miruro : (AnimeDunya, dune, SD), (Anidb, pewe), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
 :::
 
@@ -200,7 +200,7 @@ Some of the series may not be available depending on your region.
 | [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 18k | :msync::ie: | :ps: | :sp::dp::ls: | :cmnt: |
-| [MangaFire](https://mangafire.to/home)  ==MangaFire== | 54k | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
+| [MangaFire](https://mangafire.to/home)  ==MangaFire== | 53k | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
 <collapsible title="More">

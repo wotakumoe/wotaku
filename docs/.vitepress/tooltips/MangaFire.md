@@ -1,5 +1,4 @@
-- Very clean UI with notification system
+- Entirely vibecoded now, just like Comix
 - Uploads both chapter (multi-lang) & volume releases
-- Basic reader UI
+- Tags official releases
 - Manga uploads are up to x1600
-- Has some dupe issues for comics and chapters
