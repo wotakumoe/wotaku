@@ -280,7 +280,8 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | **Specific cases** | [BookWalker Downloader](https://gist.github.com/GolyBidoof/6c9cbff7644c7078520fe45e3bcf039f) | :js: |
 | ^^ | [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) [:src:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
 | ^^ | [Getjump](https://github.com/eggplants/getjump) | :py: |
-| ^^ | [Mangaplus Downloader](https://github.com/hurlenko/mloader/) | :py: |
+| ^^ | [Mangaplus Downloader NG](https://github.com/l0westbob/mloader) | :py: |
+| ^^ | [Mangaplus Downloader](https://github.com/hurlenko/mloader/) ||Old|| | :py: |
 | **Novels** | [WebtoEpub](https://github.com/dteviot/WebToEpub) | :ff::cr: |
 | ^^ | [Epublifier](https://github.com/maoserr/epublifier) | :ff::cr: |
 | ^^ | [Lightnovel Crawler](https://github.com/lncrawl/lightnovel-crawler) | :win::app::lin::dock: |
