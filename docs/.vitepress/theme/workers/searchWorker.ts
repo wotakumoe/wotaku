@@ -52,10 +52,17 @@ interface UrlSearchRequest {
   pageOrderEntries: [string, number][]
 }
 
+interface PreloadMetadataRequest {
+  type: 'preload-metadata'
+  id: number
+  pageOrderEntries: [string, number][]
+}
+
 type SearchWorkerRequest =
   | LoadIndexRequest
   | TextSearchRequest
   | UrlSearchRequest
+  | PreloadMetadataRequest
 
 type WorkerSearchResult = SearchResult & Result
 
@@ -391,6 +398,8 @@ self.onmessage = async (event: MessageEvent<SearchWorkerRequest>) => {
       )
       : message.type === 'text-search'
       ? await textSearch(message)
+      : message.type === 'preload-metadata'
+      ? (setPageOrder(message.pageOrderEntries), await ensureSearchMetadata())
       : await urlSearch(message)
     self.postMessage({
       type: `${message.type}:success`,
