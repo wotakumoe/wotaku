@@ -651,10 +651,16 @@ interface UrlSearchWorkerRequest {
   pageOrderEntries: [string, number][]
 }
 
+interface PreloadMetadataWorkerRequest {
+  type: 'preload-metadata'
+  pageOrderEntries: [string, number][]
+}
+
 type SearchWorkerRequest =
   | LoadIndexWorkerRequest
   | TextSearchWorkerRequest
   | UrlSearchWorkerRequest
+  | PreloadMetadataWorkerRequest
 
 const activePageFilter = ref<string | null>(null)
 const searchWorkerReady = ref(false)
@@ -664,6 +670,10 @@ const searchWorkerConfigKey = computed(() =>
 let searchWorker: Worker | undefined
 let searchWorkerRequestId = 0
 let loadedWorkerIndexKey = ''
+let preloadedSearchDataKey = ''
+let preloadSearchDataRequest:
+  | { key: string; promise: Promise<void> }
+  | undefined
 const searchWorkerRequests = new Map<
   number,
   {
@@ -674,6 +684,49 @@ const searchWorkerRequests = new Map<
 
 function getPageOrderEntries(): [string, number][] {
   return [...pageMeta.entries()].map(([key, meta]) => [key, meta.order])
+}
+
+async function preloadSearchData(
+  localeIndexValue: string,
+  indexVersion: number,
+  configKey: string
+) {
+  const workerIndexKey = `${localeIndexValue}\n${indexVersion}\n${configKey}`
+  if (preloadedSearchDataKey === workerIndexKey) return
+  if (preloadSearchDataRequest?.key === workerIndexKey) {
+    await preloadSearchDataRequest.promise
+    return
+  }
+
+  const promise = (async () => {
+    if (loadedWorkerIndexKey !== workerIndexKey) {
+      const indexJson = (await searchIndexData.value[localeIndexValue]?.())
+        ?.default
+      await postSearchWorker<void>({
+        type: 'load-index',
+        localeIndex: localeIndexValue,
+        indexJson,
+        indexVersion,
+        config: getMiniSearchWorkerConfig()
+      })
+      loadedWorkerIndexKey = workerIndexKey
+    }
+
+    await postSearchWorker<void>({
+      type: 'preload-metadata',
+      pageOrderEntries: getPageOrderEntries()
+    })
+    preloadedSearchDataKey = workerIndexKey
+  })()
+
+  preloadSearchDataRequest = { key: workerIndexKey, promise }
+  try {
+    await promise
+  } finally {
+    if (preloadSearchDataRequest?.promise === promise) {
+      preloadSearchDataRequest = undefined
+    }
+  }
 }
 
 function stripNonCloneable(value: unknown): unknown {
@@ -774,12 +827,35 @@ onBeforeUnmount(() => {
   searchWorker?.terminate()
   searchWorker = undefined
   loadedWorkerIndexKey = ''
+  preloadedSearchDataKey = ''
+  preloadSearchDataRequest = undefined
   searchWorkerReady.value = false
   for (const request of searchWorkerRequests.values()) {
     request.reject(new Error('Search worker was terminated'))
   }
   searchWorkerRequests.clear()
 })
+
+watch(
+  () =>
+    [
+      searchWorkerReady.value,
+      showSearch.value,
+      localeIndex.value,
+      searchIndexVersion.value,
+      searchWorkerConfigKey.value
+    ] as const,
+  async ([ready, isOpen, localeIndexValue, indexVersion, configKey]) => {
+    if (!ready || !isOpen) return
+
+    try {
+      await preloadSearchData(localeIndexValue, indexVersion, configKey)
+    } catch (error) {
+      console.error('[search] search data preload failed', error)
+    }
+  },
+  { immediate: true }
+)
 
 watch(
   () =>
@@ -1317,6 +1393,22 @@ watchDebounced(
     }
 
     const searchQuery = filterTextValue.trim()
+    textSearchLoading.value = Boolean(searchQuery)
+
+    try {
+      await preloadSearchData(localeIndexValue, indexVersion, configKey)
+      if (canceled) return
+    } catch (error) {
+      if (!canceled) {
+        console.error('[search] text search index preload failed', error)
+        results.value = []
+        currentTerms.value = new Set()
+        enableNoResults.value = Boolean(searchQuery)
+        textSearchLoading.value = false
+      }
+      return
+    }
+
     if (!searchQuery) {
       results.value = []
       currentTerms.value = new Set()
@@ -1325,26 +1417,8 @@ watchDebounced(
       return
     }
 
-    textSearchLoading.value = true
     let workerPayload: TextSearchWorkerPayload
     try {
-      const workerIndexKey =
-        `${localeIndexValue}\n${indexVersion}\n${configKey}`
-      if (loadedWorkerIndexKey !== workerIndexKey) {
-        const indexJson = (await searchIndexData.value[localeIndexValue]?.())
-          ?.default
-        if (canceled) return
-        await postSearchWorker<void>({
-          type: 'load-index',
-          localeIndex: localeIndexValue,
-          indexJson,
-          indexVersion,
-          config: getMiniSearchWorkerConfig()
-        })
-        if (canceled) return
-        loadedWorkerIndexKey = workerIndexKey
-      }
-
       workerPayload = await postSearchWorker<TextSearchWorkerPayload>({
         type: 'text-search',
         query: searchQuery,
