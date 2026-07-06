@@ -1317,16 +1317,8 @@ watchDebounced(
     }
 
     const searchQuery = filterTextValue.trim()
-    if (!searchQuery) {
-      results.value = []
-      currentTerms.value = new Set()
-      enableNoResults.value = false
-      textSearchLoading.value = false
-      return
-    }
+    textSearchLoading.value = Boolean(searchQuery)
 
-    textSearchLoading.value = true
-    let workerPayload: TextSearchWorkerPayload
     try {
       const workerIndexKey =
         `${localeIndexValue}\n${indexVersion}\n${configKey}`
@@ -1344,7 +1336,27 @@ watchDebounced(
         if (canceled) return
         loadedWorkerIndexKey = workerIndexKey
       }
+    } catch (error) {
+      if (!canceled) {
+        console.error('[search] text search index preload failed', error)
+        results.value = []
+        currentTerms.value = new Set()
+        enableNoResults.value = Boolean(searchQuery)
+        textSearchLoading.value = false
+      }
+      return
+    }
 
+    if (!searchQuery) {
+      results.value = []
+      currentTerms.value = new Set()
+      enableNoResults.value = false
+      textSearchLoading.value = false
+      return
+    }
+
+    let workerPayload: TextSearchWorkerPayload
+    try {
       workerPayload = await postSearchWorker<TextSearchWorkerPayload>({
         type: 'text-search',
         query: searchQuery,
