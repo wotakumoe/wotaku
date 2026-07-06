@@ -16,7 +16,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 ::: tabs
 
 == Database
-| category | websites |
+| Category | Websites |
 |---|---|
 | **General** | [Backloggd](https://www.backloggd.com/) |
 | ^^ | [IGDB](https://www.igdb.com/) |
@@ -88,7 +88,8 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Nikke.gg](https://nikke.gg/)
 - [Nikke-DB](https://nikke-db.pages.dev/)
 - [Prydwen Institute](https://www.prydwen.gg/)
-- [Umamusume Resources](https://rentry.co/uma-resources)
+- [Uma.moe](https://uma.moe/)
+- [Umamusume Resources](https://rentry.co/uma-resources) [:alt:](https://steamcommunity.com/sharedfiles/filedetails/?id=3540114219)
 
 == Tools
 - [Collapse Launcher](https://collapselauncher.com/) [:src:](https://github.com/CollapseLauncher/Collapse)
