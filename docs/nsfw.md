@@ -220,7 +220,6 @@ og:
 | ^^ | [SexTB](https://sextb.net/) [:alt:](https://sextb.date/) |
 | Torrent | [141JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/) |
 | ^^ | [OneJAV](https://onejav.com/) |
-| ^^ | [ProjectJav](https://projectjav.com/) |
 | ^^ | [Sukebei](https://sukebei.nyaa.si/?f=0&c=2_2&q=) [:prx:](https://i.wotaku.wiki/p/nyaa) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/?cat=15) [:alt:](https://tokyo-tosho.net/?cat=15) |
 | Others | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
