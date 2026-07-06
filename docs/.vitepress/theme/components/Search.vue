@@ -2681,7 +2681,7 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: excerptPreload === 'next' }"
                       @click="excerptPreload = 'next'"
                     >
-                      <span>One</span>
+                      <span>Next</span>
                     </button>
                     <button
                       type="button"
@@ -2802,7 +2802,7 @@ function onMouseMove(e: MouseEvent) {
                       <span>Only the visible page. Uses the least memory.</span>
                     </div>
                     <div class="sh-option">
-                      <strong>One</strong>
+                      <strong>Next</strong>
                       <span>Also prepares the next page so flipping forward is instant</span>
                     </div>
                     <div class="sh-option">
