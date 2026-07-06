@@ -1,8 +1,9 @@
 <script setup lang="ts">
-import { onClickOutside } from '@vueuse/core'
+import { onClickOutside, useEventListener } from '@vueuse/core'
 import { Bookmark, Hash, X } from 'lucide-vue-next'
-import { computed, ref } from 'vue'
+import { inBrowser } from 'vitepress'
 import type { DefaultTheme } from 'vitepress/theme'
+import { computed, nextTick, ref, watch } from 'vue'
 import type { HomeCard } from '../../configs/constants'
 import { homeCards, sidebar } from '../../configs/constants'
 import type { Bookmark as BookmarkItem } from '../composables/useBookmarks'
@@ -14,8 +15,11 @@ const ICON_STROKE = 2
 const { bookmarks, remove } = useBookmarks()
 const isOpen = ref(false)
 const wrapperRef = ref<HTMLElement>()
+const buttonRef = ref<HTMLElement>()
+const panelRef = ref<HTMLElement>()
 const scrollRef = ref<HTMLElement>()
 const showFade = ref(true)
+const panelStyle = ref<Record<string, string>>({})
 
 onClickOutside(wrapperRef, () => {
   isOpen.value = false
@@ -26,6 +30,45 @@ function onScroll() {
   const { scrollTop, scrollHeight, clientHeight } = scrollRef.value
   showFade.value = scrollTop + clientHeight < scrollHeight - 4
 }
+
+function updatePanelPosition() {
+  const wrapper = wrapperRef.value
+  const button = buttonRef.value
+  const panel = panelRef.value
+  if (!wrapper || !button || !panel) return
+
+  if (!inBrowser || window.innerWidth <= 767) {
+    panelStyle.value = {}
+    return
+  }
+
+  const viewportMargin = 12
+  const wrapperRect = wrapper.getBoundingClientRect()
+  const buttonRect = button.getBoundingClientRect()
+  const panelWidth = panel.offsetWidth
+  const centeredLeft = buttonRect.left + buttonRect.width / 2 - panelWidth / 2
+  const maxLeft = Math.max(
+    viewportMargin,
+    window.innerWidth - viewportMargin - panelWidth
+  )
+  const viewportLeft = Math.min(Math.max(centeredLeft, viewportMargin), maxLeft)
+
+  panelStyle.value = {
+    '--bookmarks-panel-left': `${viewportLeft - wrapperRect.left}px`,
+    '--bookmarks-panel-shift': '0px'
+  }
+}
+
+watch(isOpen, async (open) => {
+  if (!open) return
+  await nextTick()
+  updatePanelPosition()
+  onScroll()
+})
+
+useEventListener(inBrowser ? window : undefined, 'resize', () => {
+  if (isOpen.value) updatePanelPosition()
+})
 
 function flattenSidebarPaths(items: DefaultTheme.SidebarItem[]): string[] {
   const paths: string[] = []
@@ -124,6 +167,7 @@ const grouped = computed((): GroupEntry[] => {
 <template>
   <div ref="wrapperRef" class="bookmarks-wrapper">
     <button
+      ref="buttonRef"
       type="button"
       class="bookmarks-btn"
       aria-label="Bookmarks"
@@ -134,7 +178,7 @@ const grouped = computed((): GroupEntry[] => {
     </button>
 
     <Transition name="bookmarks-panel">
-      <div v-if="isOpen" class="bookmarks-panel" role="dialog" aria-label="Bookmarks">
+      <div v-if="isOpen" ref="panelRef" class="bookmarks-panel" :style="panelStyle" role="dialog" aria-label="Bookmarks">
         <div class="bookmarks-mobile-header">
           <span class="bookmarks-mobile-title">Bookmarks</span>
           <button type="button" class="bookmarks-mobile-close" aria-label="Close" @click="isOpen = false">
@@ -237,15 +281,17 @@ const grouped = computed((): GroupEntry[] => {
 .bookmarks-panel {
   position: absolute;
   top: calc(var(--vp-nav-height) / 2 + 20px);
-  right: 0;
+  left: var(--bookmarks-panel-left, 50%);
   z-index: 100;
   width: 282px;
+  max-width: calc(100vw - 24px);
   background-color: var(--vp-c-bg-elv);
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
   box-shadow: var(--vp-shadow-3);
   transition: background-color 0.5s;
-  transform-origin: top right;
+  transform: translateX(var(--bookmarks-panel-shift, -50%));
+  transform-origin: top center;
   overflow: hidden;
 }
 
@@ -434,7 +480,7 @@ const grouped = computed((): GroupEntry[] => {
 .bookmarks-panel-enter-from,
 .bookmarks-panel-leave-to {
   opacity: 0;
-  transform: scale(0.95) translateY(-4px);
+  transform: translateX(var(--bookmarks-panel-shift, -50%)) scale(0.95) translateY(-4px);
 }
 
 .bookmarks-fade-enter-active,
@@ -469,10 +515,12 @@ const grouped = computed((): GroupEntry[] => {
     right: 0;
     bottom: 0;
     width: 100%;
+    max-width: none;
     height: 100%;
     border-radius: 0;
     border: none;
     z-index: 9999;
+    transform: none;
     transform-origin: center top;
     display: flex;
     flex-direction: column;
