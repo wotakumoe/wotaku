@@ -312,7 +312,8 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Kartoons](https://kartoons.me/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
 | ^^ | [ToonStream](https://toonstream.vip/home/) + :len: |
-| **DDL** | [AnimeVilla](https://animevilla.org/) :ero: |
+| **DDL** | [Anime Shrine](https://animeshrine.xyz/) + :len: |
+| ^^ | [AnimeVilla](https://animevilla.org/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
 | ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
 | ^^ | [Puretoons](https://puretoons.in/) + :len: |
