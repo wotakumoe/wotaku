@@ -199,15 +199,15 @@ Some of the series may not be available depending on your region.
 | [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 18k | :msync::ie: | :ps: | :sp::dp::ls: | :cmnt: |
-| [MangaFire](https://mangafire.to/home)  ==MangaFire== | 53k | :ie::msync: | :ss: | :sp::dp::ls: | :no: |
+| [MangaFire](https://mangafire.to/)  ==MangaFire== | 54k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
 <collapsible title="More">
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [OniSaga](https://onisaga.com/home) | 76k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [OniSaga](https://onisaga.com/home) | 76k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 77k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
