@@ -2670,10 +2670,10 @@ function onMouseMove(e: MouseEvent) {
                     <button
                       type="button"
                       class="settings-option"
-                      :class="{ active: excerptPreload === 'off' }"
-                      @click="excerptPreload = 'off'"
+                      :class="{ active: excerptPreload === 'all' }"
+                      @click="excerptPreload = 'all'"
                     >
-                      <span>Off</span>
+                      <span>All</span>
                     </button>
                     <button
                       type="button"
@@ -2686,10 +2686,10 @@ function onMouseMove(e: MouseEvent) {
                     <button
                       type="button"
                       class="settings-option"
-                      :class="{ active: excerptPreload === 'all' }"
-                      @click="excerptPreload = 'all'"
+                      :class="{ active: excerptPreload === 'off' }"
+                      @click="excerptPreload = 'off'"
                     >
-                      <span>All</span>
+                      <span>Off</span>
                     </button>
                   </div>
                 </div>
@@ -2798,16 +2798,16 @@ function onMouseMove(e: MouseEvent) {
                   <p class="sh-desc">Renders excerpts for upcoming result pages ahead of time in Detail view.</p>
                   <div class="sh-options">
                     <div class="sh-option">
-                      <strong>Off</strong>
-                      <span>Only the visible page. Uses the least memory.</span>
+                      <strong>All</strong>
+                      <span>Prepares every result page. Uses more memory.</span>
                     </div>
                     <div class="sh-option">
                       <strong>Next</strong>
                       <span>Also prepares the next page so flipping forward is instant</span>
                     </div>
                     <div class="sh-option">
-                      <strong>All</strong>
-                      <span>Prepares every result page. Uses more memory.</span>
+                      <strong>Off</strong>
+                      <span>Only the visible page. Uses the least memory.</span>
                     </div>
                   </div>
                 </template>
