@@ -35,8 +35,10 @@ export type NavAction =
   | NavLinkAction
 
 export const navActions: NavAction[] = [
-  { type: 'search' },
   { type: 'appearance' },
+  { type: 'search' },
+  { type: 'bookmarks' },
+  { type: 'settings' },
   {
     type: 'link',
     icon: 'github',
@@ -48,7 +50,5 @@ export const navActions: NavAction[] = [
     icon: 'discord',
     link: 'https://discord.gg/vShRGx8ZBC',
     label: 'Discord'
-  },
-  { type: 'bookmarks' },
-  { type: 'settings' }
+  }
 ]
