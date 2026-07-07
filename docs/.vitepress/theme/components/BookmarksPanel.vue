@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { onClickOutside, useEventListener } from '@vueuse/core'
-import { Bookmark, Hash, X } from 'lucide-vue-next'
+import { ArrowLeft, Bookmark, Hash } from 'lucide-vue-next'
 import { inBrowser } from 'vitepress'
 import type { DefaultTheme } from 'vitepress/theme'
 import { computed, nextTick, ref, watch } from 'vue'
@@ -180,10 +180,10 @@ const grouped = computed((): GroupEntry[] => {
     <Transition name="bookmarks-panel">
       <div v-if="isOpen" ref="panelRef" class="bookmarks-panel" :style="panelStyle" role="dialog" aria-label="Bookmarks">
         <div class="bookmarks-mobile-header">
-          <span class="bookmarks-mobile-title">Bookmarks</span>
-          <button type="button" class="bookmarks-mobile-close" aria-label="Close" @click="isOpen = false">
-            <X :size="18" :stroke-width="2" />
+          <button type="button" class="bookmarks-mobile-back" aria-label="Back" @click="isOpen = false">
+            <ArrowLeft :size="18" :stroke-width="2" />
           </button>
+          <span class="bookmarks-mobile-title">Bookmarks</span>
         </div>
         <div
           ref="scrollRef"
@@ -285,7 +285,8 @@ const grouped = computed((): GroupEntry[] => {
   z-index: 100;
   width: 282px;
   max-width: calc(100vw - 24px);
-  background-color: var(--vp-c-bg-elv);
+  --bm-panel-bg: var(--vp-c-bg-elv);
+  background-color: var(--bm-panel-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
   box-shadow: var(--vp-shadow-3);
@@ -319,7 +320,7 @@ const grouped = computed((): GroupEntry[] => {
   background: linear-gradient(
     to bottom,
     transparent,
-    var(--vp-c-bg-elv)
+    var(--bm-panel-bg)
   );
   border-radius: 0 0 12px 12px;
 }
@@ -524,6 +525,7 @@ const grouped = computed((): GroupEntry[] => {
     transform-origin: center top;
     display: flex;
     flex-direction: column;
+    --bm-panel-bg: var(--vp-c-bg);
   }
 
   .bookmarks-scroll {
@@ -542,11 +544,10 @@ const grouped = computed((): GroupEntry[] => {
   .bookmarks-mobile-header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    height: 56px;
+    height: 49px;
     flex-shrink: 0;
-    padding: 0 20px;
-    border-bottom: 1px solid var(--vp-c-divider);
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--wk-fs-header-divider);
   }
 
   .bookmarks-mobile-title {
@@ -555,23 +556,20 @@ const grouped = computed((): GroupEntry[] => {
     color: var(--vp-c-text-1);
   }
 
-  .bookmarks-mobile-close {
+  .bookmarks-mobile-back {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 32px;
-    height: 32px;
-    border-radius: 8px;
+    padding: 8px;
     border: none;
     background: transparent;
-    color: var(--vp-c-text-2);
+    color: var(--vp-c-text-1);
     cursor: pointer;
-    transition: background-color 0.15s, color 0.15s;
+    transition: color 0.15s;
   }
 
-  .bookmarks-mobile-close:hover {
-    background: var(--vp-c-default-soft);
-    color: var(--vp-c-text-1);
+  .bookmarks-mobile-back:hover {
+    color: var(--vp-c-brand-1);
   }
 
   .bookmarks-panel-enter-from,

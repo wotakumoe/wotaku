@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { ArrowLeft } from 'lucide-vue-next'
 import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import type { HomeCard } from '../../configs/constants'
 
@@ -88,6 +89,7 @@ const dropdownOpen = ref(false)
 type HelpSection = 'view' | 'columns'
 const activeHelpSection = ref<HelpSection | null>(null)
 const helpPopupEl = ref<HTMLDivElement | null>(null)
+const settingsDropdownEl = ref<HTMLDivElement | null>(null)
 const helpPopupPos = ref({ top: -9999, left: -9999 })
 
 watch(dropdownOpen, (val) => {
@@ -97,25 +99,65 @@ watch(dropdownOpen, (val) => {
   }
 })
 
+const canHoverHelp = () =>
+  typeof window !== 'undefined' && window.matchMedia('(hover: hover)').matches
+
+function positionHelpPopup(btn: HTMLElement) {
+  helpPopupPos.value = { top: -9999, left: -9999 }
+  const rect = btn.getBoundingClientRect()
+  // Anchor to the dropdown's left edge so the popup sits beside it, not over it.
+  const menuRect = settingsDropdownEl.value?.getBoundingClientRect()
+  nextTick(() => {
+    const popupW = helpPopupEl.value?.offsetWidth || 260
+    const popupH = helpPopupEl.value?.offsetHeight || 200
+    const vw = window.innerWidth
+    const margin = 8
+    const isMobile = vw < 768
+    if (isMobile) {
+      const aboveTop = rect.top - popupH - margin
+      const belowTop = rect.bottom + margin
+      const top = aboveTop >= margin ? aboveTop : belowTop
+      const left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
+      helpPopupPos.value = { top, left }
+    } else {
+      const anchorLeft = menuRect ? menuRect.left : rect.left
+      helpPopupPos.value = {
+        left: Math.max(margin, anchorLeft - popupW - 16),
+        top: Math.max(margin, Math.min(rect.top, window.innerHeight - popupH - margin)),
+      }
+    }
+  })
+}
+
+function closeHelpSection() {
+  activeHelpSection.value = null
+  helpPopupPos.value = { top: -9999, left: -9999 }
+}
+
 function toggleHelpSection(section: HelpSection, e: MouseEvent) {
+  // Hover devices open/close via mouseenter/leave; touch devices toggle on tap.
+  if (canHoverHelp()) {
+    activeHelpSection.value = section
+    positionHelpPopup(e.currentTarget as HTMLElement)
+    return
+  }
   if (activeHelpSection.value === section) {
-    activeHelpSection.value = null
-    helpPopupPos.value = { top: -9999, left: -9999 }
+    closeHelpSection()
     return
   }
   activeHelpSection.value = section
-  helpPopupPos.value = { top: -9999, left: -9999 }
-  const btn = e.currentTarget as HTMLElement
-  const rect = btn.getBoundingClientRect()
-  nextTick(() => {
-    const popupW = helpPopupEl.value?.offsetWidth || 220
-    const popupH = helpPopupEl.value?.offsetHeight || 160
-    const margin = 8
-    helpPopupPos.value = {
-      left: Math.max(margin, rect.left - popupW - 8),
-      top: Math.max(margin, Math.min(rect.top, window.innerHeight - popupH - margin)),
-    }
-  })
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpEnter(section: HelpSection, e: MouseEvent) {
+  if (!canHoverHelp()) return
+  activeHelpSection.value = section
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpLeave() {
+  if (!canHoverHelp()) return
+  closeHelpSection()
 }
 
 watch(panelOpen, (open) => {
@@ -293,6 +335,9 @@ function onHandlePointerUp() {
         <Transition name="slide-up" appear>
           <div v-if="panelOpen" class="panel" role="dialog" aria-modal="true" aria-label="Customize cards">
             <div class="panel-head">
+              <button class="panel-back" aria-label="Back" @click="panelOpen = false">
+                <ArrowLeft :size="18" :stroke-width="2" />
+              </button>
               <span class="panel-title">Customize Cards</span>
               <button class="close-btn" aria-label="Close" @click="panelOpen = false">
                 <span class="i-lucide-x" />
@@ -383,18 +428,18 @@ function onHandlePointerUp() {
               <div class="foot-group">
                 <div class="settings-wrap">
                   <div v-if="dropdownOpen" class="dropdown-overlay" @click="dropdownOpen = false" />
-                  <div v-if="dropdownOpen" class="settings-dropdown">
+                  <div v-if="dropdownOpen" ref="settingsDropdownEl" class="settings-dropdown">
                     <div class="dropdown-section">
                       <div class="dropdown-section-header">
                         <span class="dropdown-label">
                           <span class="i-lucide-layout-list dropdown-label-icon" />
                           View
                         </span>
-                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'view' }" aria-label="View help" @click.stop="toggleHelpSection('view', $event)">
+                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'view' }" aria-label="View help" @click.stop="toggleHelpSection('view', $event)" @mouseenter="onHelpEnter('view', $event)" @mouseleave="onHelpLeave">
                           <span class="i-carbon:help-filled settings-help-icon" />
                         </button>
                       </div>
-                      <div class="dropdown-group">
+                      <div class="dropdown-group" :class="{ 'is-highlighted': activeHelpSection === 'view' }">
                         <button class="tool-btn" :class="{ 'is-active': viewMode === 'default' }" @click="viewMode = 'default'">Default</button>
                         <button class="tool-btn" :class="{ 'is-active': viewMode === 'mini' }" @click="viewMode = 'mini'">Mini</button>
                       </div>
@@ -405,11 +450,11 @@ function onHandlePointerUp() {
                           <span class="i-lucide-columns-3-cog dropdown-label-icon" />
                           Columns
                         </span>
-                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'columns' }" aria-label="Columns help" @click.stop="toggleHelpSection('columns', $event)">
+                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'columns' }" aria-label="Columns help" @click.stop="toggleHelpSection('columns', $event)" @mouseenter="onHelpEnter('columns', $event)" @mouseleave="onHelpLeave">
                           <span class="i-carbon:help-filled settings-help-icon" />
                         </button>
                       </div>
-                      <div class="dropdown-group">
+                      <div class="dropdown-group" :class="{ 'is-highlighted': activeHelpSection === 'columns' }">
                         <button class="tool-btn" :class="{ 'is-active': columnMode === 'default' }" @click="columnMode = 'default'">Default</button>
                         <button class="tool-btn" :class="{ 'is-active': columnMode === 'max' }" @click="columnMode = 'max'">Max</button>
                       </div>
@@ -421,7 +466,7 @@ function onHandlePointerUp() {
                     aria-label="Display settings"
                     @click.stop="dropdownOpen = !dropdownOpen"
                   >
-                    <span class="i-lucide-settings-2" />
+                    <span class="i-lucide-settings" />
                   </button>
                 </div>
               </div>
@@ -667,16 +712,20 @@ function onHandlePointerUp() {
   background: none;
   border: none;
   padding: 4px;
-  color: var(--vp-c-text-3, var(--vp-c-text-2));
+  color: var(--vp-c-text-2);
   font-size: 18px;
   cursor: pointer;
-  transition: color 0.2s;
+  transition: color 0.2s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   display: flex;
   align-items: center;
 }
 
 .gear-btn:hover {
-  color: var(--vp-c-brand-1);
+  color: var(--vp-c-text-1);
+}
+
+.gear-btn:active {
+  transform: scale(0.94);
 }
 
 /* ── Backdrop ── */
@@ -744,6 +793,24 @@ function onHandlePointerUp() {
   color: var(--vp-c-text-1);
 }
 
+/* Phone-only back button. */
+.panel-back {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border: none;
+  background: transparent;
+  color: var(--vp-c-text-1);
+  font-size: 18px;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.panel-back:hover {
+  color: var(--vp-c-brand-1);
+}
+
 .close-btn {
   position: relative;
   display: flex;
@@ -757,12 +824,15 @@ function onHandlePointerUp() {
   color: var(--vp-c-text-2);
   font-size: 16px;
   cursor: pointer;
-  transition: background 0.15s, color 0.15s;
+  transition: color 0.15s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .close-btn:hover {
-  background: var(--vp-c-bg-soft);
   color: var(--vp-c-text-1);
+}
+
+.close-btn:active {
+  transform: scale(0.94);
 }
 
 .close-btn::after {
@@ -786,6 +856,24 @@ function onHandlePointerUp() {
 @media (hover: hover) {
   .close-btn:hover::after {
     opacity: 1;
+  }
+}
+
+/* Phone: full-screen header (back arrow, no X). */
+@media (max-width: 767px) {
+  .panel-head {
+    height: 49px;
+    padding: 6px 8px;
+    justify-content: flex-start;
+    border-bottom-color: var(--wk-fs-header-divider);
+  }
+
+  .panel-back {
+    display: flex;
+  }
+
+  .close-btn {
+    display: none;
   }
 }
 
@@ -964,16 +1052,16 @@ function onHandlePointerUp() {
   font-size: 16px;
   cursor: pointer;
   flex-shrink: 0;
-  transition: background 0.15s, color 0.15s;
+  transition: color 0.15s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.row-toggle:hover {
-  background: var(--vp-c-bg-alt);
+.row-toggle:hover,
+.row-toggle.active {
   color: var(--vp-c-text-1);
 }
 
-.row-toggle.active {
-  color: var(--vp-c-brand-1);
+.row-toggle:active {
+  transform: scale(0.94);
 }
 
 /* ── Panel Footer ── */
@@ -1006,7 +1094,7 @@ function onHandlePointerUp() {
   border-radius: 5px;
   padding: 5px 6px;
   cursor: pointer;
-  transition: color 0.15s, background 0.15s;
+  transition: color 0.15s, background 0.15s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .tool-btn[aria-label]::after {
@@ -1034,14 +1122,29 @@ function onHandlePointerUp() {
   }
 }
 
-.tool-btn:hover {
+.tool-btn:hover,
+.tool-btn.is-active {
   color: var(--vp-c-text-1);
-  background: var(--vp-c-bg-soft);
+  background: transparent;
 }
 
-.tool-btn.is-active {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-brand-soft);
+.tool-btn:active {
+  transform: scale(0.94);
+}
+
+/* Respect the "effects off" preference */
+html.effects-disabled .gear-btn,
+html.effects-disabled .close-btn,
+html.effects-disabled .tool-btn,
+html.effects-disabled .row-toggle {
+  transition: none;
+}
+
+html.effects-disabled .gear-btn:active,
+html.effects-disabled .close-btn:active,
+html.effects-disabled .tool-btn:active,
+html.effects-disabled .row-toggle:active {
+  transform: none;
 }
 
 /* ── Settings Help ── */
@@ -1079,8 +1182,8 @@ function onHandlePointerUp() {
 
 .settings-help-icon {
   display: block;
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
 }
 
 .home-help-popup {
@@ -1139,9 +1242,13 @@ function onHandlePointerUp() {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  background: var(--vp-c-bg-soft);
+  background: #e8e6ec;
   border-radius: 12px;
   padding: 10px 12px;
+}
+
+.dark .sh-option {
+  background: #2c2c31;
 }
 
 .sh-option strong {
@@ -1177,16 +1284,27 @@ function onHandlePointerUp() {
 }
 
 .settings-dropdown {
+  --seg-track: #e8e6ec;
+  --seg-pill-bg: var(--vp-c-bg);
+  --seg-pill-text: var(--vp-c-text-1);
+  --seg-pill-shadow: 0 2px 4px 0 #bababa8c;
   position: absolute;
   bottom: calc(100% + 8px);
   right: 0;
   z-index: 2;
   min-width: 196px;
-  background: var(--vp-c-bg);
+  background: var(--vp-c-bg-elv);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  padding: 10px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: var(--vp-shadow-3);
+}
+
+.dark .settings-dropdown {
+  --seg-track: #2c2c31;
+  --seg-pill-bg: var(--vp-c-text-1);
+  --seg-pill-text: var(--vp-c-bg-elv);
+  --seg-pill-shadow: 0 2px 4px 0 #535353db;
 }
 
 .dropdown-section + .dropdown-section {
@@ -1214,6 +1332,35 @@ function onHandlePointerUp() {
 .dropdown-group {
   display: flex;
   gap: 4px;
+  background: var(--seg-track);
+  border-radius: 8px;
+  padding: 4px;
+  outline: 2px dashed transparent;
+  outline-offset: 4px;
+  transition: outline-color 0.2s ease;
+}
+
+.dropdown-group.is-highlighted {
+  outline-color: var(--vp-c-brand-1);
+}
+
+.dropdown-group .tool-btn {
+  flex: 1;
+  justify-content: center;
+  border-radius: 6px;
+  color: var(--vp-c-text-1);
+  transition: color 0.15s, background 0.15s, box-shadow 0.15s;
+}
+
+.dropdown-group .tool-btn:hover,
+.dropdown-group .tool-btn.is-active {
+  color: var(--seg-pill-text);
+  background: var(--seg-pill-bg);
+  box-shadow: var(--seg-pill-shadow);
+}
+
+.dropdown-group .tool-btn.is-active {
+  font-weight: 700;
 }
 
 /* ── Drag Ghost ── */

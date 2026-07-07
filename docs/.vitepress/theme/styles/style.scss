@@ -20,6 +20,8 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-c-text-1: #1b1b1f;
   --vp-c-text-2: #2f3033;
   --vp-c-text-3: #46464a;
+  /* Divider under the mobile full-screen header bars. */
+  --wk-fs-header-divider: rgba(163, 163, 163, 0.25);
 }
 
 .dark {
@@ -33,6 +35,7 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-c-text-1: #e3e2e6;
   --vp-c-text-2: #ababaf;
   --vp-c-text-3: #919094;
+  --wk-fs-header-divider: rgba(82, 82, 82, 0.65);
 }
 
 :root {
@@ -1350,9 +1353,21 @@ table tr:nth-child(odd) {
   @apply ml-2 pl-0!;
 }
 
-@media (min-width: 768px) {
-  #local-search {
-    @apply hidden!;
+// Search lives in the nav pill, which now shows on phones too.
+#local-search {
+  @apply hidden!;
+}
+
+// Nav list is empty and settings live in the pill's gear (which opens its own
+// panel), so the hamburger is unused on phones.
+.VPNavBarHamburger {
+  display: none !important;
+}
+
+// uniform sidepadding for phone ui
+@media (max-width: 767px) {
+  .VPNavBar .wrapper {
+    padding-right: 24px !important;
   }
 }
 
@@ -1983,9 +1998,8 @@ html.effects-disabled {
 }
 
 html:not(.dark) .nolebase-ui-input-horizontal-option {
-  --nolebase-ui-input-horizontal-option-active-bg: var(--vp-c-text-1);
-  --nolebase-ui-input-horizontal-option-active-text: var(--vp-c-bg-elv);
-  --nolebase-ui-input-horizontal-option-shadow-color: #53535366;
+  --nolebase-ui-input-horizontal-option-active-bg: var(--vp-c-bg);
+  --nolebase-ui-input-horizontal-option-active-text: var(--vp-c-text-1);
 }
 
 /* Hide the default VitePress mobile appearance toggle and social links — we render them ourselves in ScreenMenu */

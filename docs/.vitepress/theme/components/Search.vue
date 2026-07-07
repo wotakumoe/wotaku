@@ -52,7 +52,7 @@ import {
   LocateOff,
   Regex,
   Search,
-  Settings2,
+  Settings,
   TextAlignStart,
   X
 } from 'lucide-vue-next'
@@ -356,16 +356,14 @@ watch(showSettingsPopup, (val) => {
   }
 })
 
-function toggleHelpSection(section: HelpSection, e: MouseEvent) {
-  if (activeHelpSection.value === section) {
-    activeHelpSection.value = null
-    helpPopupPos.value = { top: -9999, left: -9999 }
-    return
-  }
-  activeHelpSection.value = section
+const canHoverHelp = () =>
+  typeof window !== 'undefined' && window.matchMedia('(hover: hover)').matches
+
+function positionHelpPopup(btn: HTMLElement) {
   helpPopupPos.value = { top: -9999, left: -9999 }
-  const btn = e.currentTarget as HTMLElement
   const rect = btn.getBoundingClientRect()
+  // Anchor to the menu's left edge so the popup sits beside it, not over it.
+  const menuRect = settingsPopupRef.value?.getBoundingClientRect()
   nextTick(() => {
     const popupW = helpPopupEl.value?.offsetWidth || 260
     const popupH = helpPopupEl.value?.offsetHeight || 200
@@ -379,12 +377,44 @@ function toggleHelpSection(section: HelpSection, e: MouseEvent) {
       const left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
       helpPopupPos.value = { top, left }
     } else {
+      const anchorLeft = menuRect ? menuRect.left : rect.left
       helpPopupPos.value = {
-        left: Math.max(margin, rect.left - popupW - 16),
+        left: Math.max(margin, anchorLeft - popupW - 16),
         top: rect.top,
       }
     }
   })
+}
+
+function closeHelpSection() {
+  activeHelpSection.value = null
+  helpPopupPos.value = { top: -9999, left: -9999 }
+}
+
+function toggleHelpSection(section: HelpSection, e: MouseEvent) {
+  // Hover devices open/close via mouseenter/leave; touch devices toggle on tap.
+  if (canHoverHelp()) {
+    activeHelpSection.value = section
+    positionHelpPopup(e.currentTarget as HTMLElement)
+    return
+  }
+  if (activeHelpSection.value === section) {
+    closeHelpSection()
+    return
+  }
+  activeHelpSection.value = section
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpEnter(section: HelpSection, e: MouseEvent) {
+  if (!canHoverHelp()) return
+  activeHelpSection.value = section
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpLeave() {
+  if (!canHoverHelp()) return
+  closeHelpSection()
 }
 
 const settingsPopupStyle = computed(() => ({
@@ -2024,7 +2054,7 @@ function onMouseMove(e: MouseEvent) {
                   ? showDetailedList = false
                   : showDetailedList = true"
                 >
-                  <TextAlignStart :size="18" stroke-width="1.25" />
+                  <TextAlignStart :size="18" stroke-width="2" />
                 </button>
                 <button
                   type="button"
@@ -2035,7 +2065,7 @@ function onMouseMove(e: MouseEvent) {
                   ? showDetailedList = true
                   : showDetailedList = false"
                 >
-                  <List :size="18" stroke-width="1.25" />
+                  <List :size="18" stroke-width="2" />
                 </button>
               </div>
               <div class="search-mode-group toolbar-group">
@@ -2048,7 +2078,7 @@ function onMouseMove(e: MouseEvent) {
                   ? cycleSearchMode()
                   : searchMode = 'exact'"
                 >
-                  <Regex :size="18" stroke-width="1.25" />
+                  <Regex :size="18" stroke-width="2" />
                 </button>
                 <button
                   type="button"
@@ -2059,7 +2089,7 @@ function onMouseMove(e: MouseEvent) {
                   ? cycleSearchMode()
                   : searchMode = 'fuzzy'"
                 >
-                  <LocateOff :size="18" stroke-width="1.25" />
+                  <LocateOff :size="18" stroke-width="2" />
                 </button>
                 <button
                   type="button"
@@ -2070,7 +2100,7 @@ function onMouseMove(e: MouseEvent) {
                   ? cycleSearchMode()
                   : searchMode = 'url'"
                 >
-                  <Globe :size="18" stroke-width="1.25" />
+                  <Globe :size="18" stroke-width="2" />
                 </button>
               </div>
               <button
@@ -2081,7 +2111,7 @@ function onMouseMove(e: MouseEvent) {
                 title="Search settings"
                 @click.stop="showSettingsPopup = !showSettingsPopup"
               >
-                <Settings2 :size="18" stroke-width="1.25" />
+                <Settings :size="18" stroke-width="2" />
               </button>
               <button
                 class="clear-button"
@@ -2090,7 +2120,7 @@ function onMouseMove(e: MouseEvent) {
                 :title="translate('modal.resetButtonTitle')"
                 @click="resetSearch"
               >
-                <X :size="19" stroke-width="1.25" />
+                <X :size="18" stroke-width="2" />
               </button>
             </div>
           </component>
@@ -2231,7 +2261,7 @@ function onMouseMove(e: MouseEvent) {
                     title="Clear all history"
                     @click.stop="searchHistory = []"
                   >
-                    <X :size="16" stroke-width="1.25" />
+                    <X :size="16" stroke-width="2" />
                   </button>
                 </div>
                 <ul class="history-items">
@@ -2261,7 +2291,7 @@ function onMouseMove(e: MouseEvent) {
                     <component
                       :is="entry.mode === 'exact' ? Regex : entry.mode === 'fuzzy' ? LocateOff : Globe"
                       :size="14"
-                      stroke-width="1.25"
+                      stroke-width="2"
                       class="history-mode-icon"
                     />
                     <button
@@ -2269,7 +2299,7 @@ function onMouseMove(e: MouseEvent) {
                       :title="'Remove \'' + entry.query + '\' from history'"
                       @click.stop="removeFromHistory(index)"
                     >
-                      <X :size="16" stroke-width="1.25" />
+                      <X :size="16" stroke-width="2" />
                     </button>
                   </li>
                 </ul>
@@ -2311,10 +2341,10 @@ function onMouseMove(e: MouseEvent) {
                         <Hash
                           v-if="item.anchor ||
                           item.titles.length > 0"
-                          stroke-width="1.25"
+                          stroke-width="2"
                           :size="18"
                         />
-                        <File v-else stroke-width="1.25" :size="18" />
+                        <File v-else stroke-width="2" :size="18" />
                         <span
                           v-for="(t, ti) in item.titles"
                           :key="ti"
@@ -2322,7 +2352,7 @@ function onMouseMove(e: MouseEvent) {
                         >
                           <span class="text" v-html="t" />
                           <ArrowRight
-                            stroke-width="1.25"
+                            stroke-width="2"
                             :size="18"
                             class="mx-0.5"
                           />
@@ -2382,10 +2412,10 @@ function onMouseMove(e: MouseEvent) {
                         <Hash
                           v-if="getDocAnchor(p.id) ||
                           p.titles.length > 0"
-                          stroke-width="1.25"
+                          stroke-width="2"
                           :size="18"
                         />
-                        <File v-else stroke-width="1.25" :size="18" />
+                        <File v-else stroke-width="2" :size="18" />
                         <span
                           v-for="(t, index) in p.titles"
                           :key="index"
@@ -2393,7 +2423,7 @@ function onMouseMove(e: MouseEvent) {
                         >
                           <span class="text" v-html="t" />
                           <ArrowRight
-                            stroke-width="1.25"
+                            stroke-width="2"
                             :size="18"
                             class="mx-0.5"
                           />
@@ -2577,11 +2607,16 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: activeHelpSection === 'search' }"
                       aria-label="Search mode help"
                       @click.stop="toggleHelpSection('search', $event)"
+                      @mouseenter="onHelpEnter('search', $event)"
+                      @mouseleave="onHelpLeave"
                     >
                       <span class="i-carbon:help-filled settings-help-icon" />
                     </button>
                   </div>
-                  <div class="settings-options">
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'search' }"
+                  >
                     <button
                       type="button"
                       class="settings-option"
@@ -2623,11 +2658,16 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: activeHelpSection === 'view' }"
                       aria-label="Result view help"
                       @click.stop="toggleHelpSection('view', $event)"
+                      @mouseenter="onHelpEnter('view', $event)"
+                      @mouseleave="onHelpLeave"
                     >
                       <span class="i-carbon:help-filled settings-help-icon" />
                     </button>
                   </div>
-                  <div class="settings-options">
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'view' }"
+                  >
                     <button
                       type="button"
                       class="settings-option"
@@ -2662,18 +2702,23 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: activeHelpSection === 'preload' }"
                       aria-label="Excerpt preload help"
                       @click.stop="toggleHelpSection('preload', $event)"
+                      @mouseenter="onHelpEnter('preload', $event)"
+                      @mouseleave="onHelpLeave"
                     >
                       <span class="i-carbon:help-filled settings-help-icon" />
                     </button>
                   </div>
-                  <div class="settings-options">
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'preload' }"
+                  >
                     <button
                       type="button"
                       class="settings-option"
-                      :class="{ active: excerptPreload === 'off' }"
-                      @click="excerptPreload = 'off'"
+                      :class="{ active: excerptPreload === 'all' }"
+                      @click="excerptPreload = 'all'"
                     >
-                      <span>Off</span>
+                      <span>All</span>
                     </button>
                     <button
                       type="button"
@@ -2686,10 +2731,10 @@ function onMouseMove(e: MouseEvent) {
                     <button
                       type="button"
                       class="settings-option"
-                      :class="{ active: excerptPreload === 'all' }"
-                      @click="excerptPreload = 'all'"
+                      :class="{ active: excerptPreload === 'off' }"
+                      @click="excerptPreload = 'off'"
                     >
-                      <span>All</span>
+                      <span>Off</span>
                     </button>
                   </div>
                 </div>
@@ -2705,11 +2750,16 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: activeHelpSection === 'history' }"
                       aria-label="Search history help"
                       @click.stop="toggleHelpSection('history', $event)"
+                      @mouseenter="onHelpEnter('history', $event)"
+                      @mouseleave="onHelpLeave"
                     >
                       <span class="i-carbon:help-filled settings-help-icon" />
                     </button>
                   </div>
-                  <div class="settings-options">
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'history' }"
+                  >
                     <button
                       type="button"
                       class="settings-option"
@@ -2798,16 +2848,16 @@ function onMouseMove(e: MouseEvent) {
                   <p class="sh-desc">Renders excerpts for upcoming result pages ahead of time in Detail view.</p>
                   <div class="sh-options">
                     <div class="sh-option">
-                      <strong>Off</strong>
-                      <span>Only the visible page. Uses the least memory.</span>
+                      <strong>All</strong>
+                      <span>Prepares every result page. Uses more memory.</span>
                     </div>
                     <div class="sh-option">
                       <strong>Next</strong>
                       <span>Also prepares the next page so flipping forward is instant</span>
                     </div>
                     <div class="sh-option">
-                      <strong>All</strong>
-                      <span>Prepares every result page. Uses more memory.</span>
+                      <strong>Off</strong>
+                      <span>Only the visible page. Uses the least memory.</span>
                     </div>
                   </div>
                 </template>
@@ -3523,27 +3573,68 @@ svg {
   background: transparent;
 }
 
-/* Settings toggle button — always visible */
-.settings-toggle-btn {
+/* Settings gear + clear (X) buttons — nav-bar style */
+.search-actions .settings-toggle-btn,
+.search-actions .clear-button {
   display: flex;
   border: none;
-  border-radius: 5px;
+  border-radius: 0;
+  background: transparent;
   color: var(--vp-c-text-1);
-  padding: 8px;
+  opacity: 0.55;
+  padding: 8px 4px;
+  transition:
+    opacity 0.25s,
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.search-actions button.settings-toggle-btn:not([disabled]):hover,
+.search-actions button.clear-button:not([disabled]):hover,
+.settings-toggle-btn.mode-active {
+  color: var(--vp-c-text-1);
+  opacity: 1;
+  background: transparent;
+}
+
+.settings-toggle-btn:active,
+.clear-button:not([disabled]):active {
+  transform: scale(0.94);
+}
+
+/* Respect the "effects off" preference */
+html.effects-disabled .settings-toggle-btn,
+html.effects-disabled .clear-button {
+  transition: none;
+}
+
+html.effects-disabled .settings-toggle-btn:active,
+html.effects-disabled .clear-button:active {
+  transform: none;
 }
 
 /* Settings popup card */
 .search-settings-popup {
+  --seg-track: #e8e6ec;
+  --seg-pill-bg: var(--vp-c-bg);
+  --seg-pill-text: var(--vp-c-text-1);
+  --seg-pill-shadow: 0 2px 4px 0 #bababa8c;
   position: fixed;
   z-index: 200;
-  background: var(--vp-c-bg);
+  background: var(--vp-c-bg-elv);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  padding: 10px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: var(--vp-shadow-3);
   display: flex;
   flex-direction: column;
   min-width: 196px;
+}
+
+.dark .search-settings-popup {
+  --seg-track: #2c2c31;
+  --seg-pill-bg: var(--vp-c-text-1);
+  --seg-pill-text: var(--vp-c-bg-elv);
+  --seg-pill-shadow: 0 2px 4px 0 #535353db;
 }
 
 .settings-section {
@@ -3597,8 +3688,8 @@ svg {
 
 .settings-help-icon {
   display: block;
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
 }
 
 /* Help popup */
@@ -3658,9 +3749,13 @@ svg {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  background: var(--vp-c-bg-soft);
+  background: #e8e6ec;
   border-radius: 12px;
   padding: 10px 12px;
+}
+
+.dark .sh-option {
+  background: #2c2c31;
 }
 
 .sh-option strong {
@@ -3681,6 +3776,16 @@ svg {
 .settings-options {
   display: flex;
   gap: 4px;
+  background: var(--seg-track);
+  border-radius: 8px;
+  padding: 4px;
+  outline: 2px dashed transparent;
+  outline-offset: 4px;
+  transition: outline-color 0.2s ease;
+}
+
+.settings-options.is-highlighted {
+  outline-color: var(--vp-c-brand-1);
 }
 
 .settings-option {
@@ -3691,24 +3796,24 @@ svg {
   padding: 5px 6px;
   background: transparent;
   border: none;
-  border-radius: 5px;
+  border-radius: 6px;
   cursor: pointer;
-  color: var(--vp-c-text-2);
+  color: var(--vp-c-text-1);
   font-size: 14px;
   font-weight: 500;
-  transition: background-color 0.15s, color 0.15s;
+  transition: background-color 0.15s, color 0.15s, box-shadow 0.15s;
   flex: 1;
 }
 
-.settings-option:hover {
-  color: var(--vp-c-text-1);
-  background: var(--vp-c-bg-soft);
+.settings-option:hover,
+.settings-option.active {
+  color: var(--seg-pill-text);
+  background: var(--seg-pill-bg);
+  box-shadow: var(--seg-pill-shadow);
 }
 
 .settings-option.active {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-brand-soft);
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .settings-popup-enter-active,
