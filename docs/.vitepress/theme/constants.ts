@@ -29,6 +29,9 @@ export const SpotlightStylesStorageKey =
 export const EffectsStorageKey = 'preference-effects'
 export const TakodachiStorageKey = 'preference-takodachi'
 export const AccentColorStorageKey = 'preference-accent-color'
+export const AccentBgStorageKey = 'preference-accent-bg'
+/** Accent background tint strength, 0–100. */
+export const AccentBgStrengthStorageKey = 'preference-accent-bg-strength'
 
 export enum LayoutMode {
   FullWidth = 1,

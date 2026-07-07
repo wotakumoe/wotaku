@@ -22,6 +22,10 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-c-text-3: #46464a;
   /* Divider under the mobile full-screen header bars. */
   --wk-fs-header-divider: rgba(163, 163, 163, 0.25);
+  /* Flat menu/option surfaces (settings menu, search help cards). */
+  --wk-c-menu-bg: #e8e6ec;
+  /* Solid nav-pill segment background when effects (blur) are off. */
+  --wk-c-nav-solid-bg: var(--vp-c-bg);
 }
 
 .dark {
@@ -36,6 +40,8 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-c-text-2: #ababaf;
   --vp-c-text-3: #919094;
   --wk-fs-header-divider: rgba(82, 82, 82, 0.65);
+  --wk-c-menu-bg: #2c2c31;
+  --wk-c-nav-solid-bg: #151617;
 }
 
 :root {
@@ -123,6 +129,20 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 .dark {
   --nav-pill-bg: rgb(23 23 23 / 0.7);
   --nav-pill-border: rgb(212 212 212 / 0.1);
+}
+
+/* Nolebase sliders hardcode #fff / #e1e2da for the thumb and progress fill;
+   use theme tokens (like the radio pills) so they follow the theme. */
+.nolebase-ui-slider {
+  --nolebase-ui-slider-thumb-color: var(--vp-c-bg);
+  --nolebase-ui-slider-track-color: var(--vp-c-bg);
+  --nolebase-ui-slider-track-progress-color: var(--vp-c-bg);
+}
+
+.dark .nolebase-ui-slider {
+  --nolebase-ui-slider-thumb-color: var(--vp-c-text-1);
+  --nolebase-ui-slider-track-color: var(--vp-c-text-1);
+  --nolebase-ui-slider-track-progress-color: var(--vp-c-text-1);
 }
 
 .dark {
@@ -1626,7 +1646,7 @@ html.effects-disabled {
     .VPSocialLinks.VPNavBarSocialLinks.social-links,
     .nav-actions,
     .VPNolebaseEnhancedReadabilitiesMenuFlyout {
-      background-color: #151617 !important;
+      background-color: var(--wk-c-nav-solid-bg) !important;
     }
   }
 
