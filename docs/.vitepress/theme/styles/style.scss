@@ -1364,6 +1364,13 @@ table tr:nth-child(odd) {
   display: none !important;
 }
 
+// uniform sidepadding for phone ui
+@media (max-width: 767px) {
+  .VPNavBar .wrapper {
+    padding-right: 24px !important;
+  }
+}
+
 %thin-scrollbar {
   scrollbar-width: thin;
   &::-webkit-scrollbar {
