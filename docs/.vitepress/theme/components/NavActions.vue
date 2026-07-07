@@ -79,6 +79,15 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   height: var(--vp-nav-height);
 }
 
+.nav-bookmark-mobile :deep(.bookmarks-btn) {
+  color: var(--vp-c-text-2);
+  opacity: 1;
+}
+
+.nav-bookmark-mobile :deep(.bookmarks-btn svg) {
+  stroke-width: 1.5;
+}
+
 @media (min-width: 768px) {
   .nav-bookmark-mobile {
     display: none;
