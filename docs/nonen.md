@@ -388,7 +388,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Dokiraw](https://dokiraw.win/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://i.wotaku.wiki/p/proxy#kl-manga)
-- [MangaFire](https://mangafire.to/home)
+- [MangaFire](https://mangafire.to/)
 - [MangaKuro](https://mangakuro.net/home)
 
 <Collapsible title="More">
@@ -463,14 +463,14 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comic** | [Fox Comics](https://fxfx330.com/) [:prx:](https://nicelink51.com/) |
 | ^^ | [FreeToon](https://foc115.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
-| ^^ | [Funbe](https://funbe654.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe655.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [MoneyToon](https://mtoon143.asia/) |
 | ^^ | [NameeToon](https://namee102.asia/) |
 | ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [TOONKOR](https://tkor127.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf478.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf](https://wfwf413.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt333.com/) [:prx:](https://nicelink51.com/) |
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon238.asia/) [:prx:](https://yatoonlink.com/) |
@@ -699,7 +699,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Anime47](https://anime47.best/) |
 | ^^ | [AnimeHay](https://animehay.in/) |
 | ^^ | [AnimeVsub](https://animevsub.eu.org/) [:src:](https://github.com/anime-vsub/desktop-web) |
-| ^^ | [HHNINJA](hhninja14) [:prx:](https://hhtq1.xyz/) |
 | ^^ | [Unime](https://unime.vercel.app/) [:src:](https://github.com/huy232/Unime) |
 | ^^ | [WebLinhTinh](https://weblinhtinh1.net/) |
 | **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
