@@ -9,7 +9,8 @@
 import {
   customStorageEventName,
   useEventListener,
-  useStorage
+  useStorage,
+  useThrottleFn
 } from '@vueuse/core'
 import { usePreferredReducedMotion } from '@vueuse/core'
 import { useData, useRoute } from 'vitepress'
@@ -34,7 +35,7 @@ import NotFoundComponent from './components/NotFound.vue'
 import { NolebaseEnhancedReadabilitiesScreenMenu } from './components/settings'
 import NavActions from './components/NavActions.vue'
 import SidebarCard from './components/SidebarCard.vue'
-import { AccentColorStorageKey, TakodachiStorageKey } from './constants'
+import { AccentBgStorageKey, AccentBgStrengthStorageKey, AccentColorStorageKey, TakodachiStorageKey } from './constants'
 import { useEffects } from './composables/useEffects'
 import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 
@@ -836,8 +837,52 @@ const accentPalettes: Record<string, PaletteEntry> = {
 }
 
 const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
+const accentBg = useStorage(AccentBgStorageKey, false)
+const accentBgStrength = useStorage(AccentBgStrengthStorageKey, 60)
 
-watchEffect(() => {
+// Accent-tinted replacements for the neutral tokens in style.scss.
+// Lightness matches the original hex values, so contrast is unchanged.
+// Entries are [lightness, chroma] or [lightness, chroma, alpha].
+type TintEntry = [number, number] | [number, number, number]
+const accentBgTokens: Record<'dark' | 'light', Record<string, TintEntry>> = {
+  dark: {
+    '--vp-c-bg': [0.187, 0.024],
+    '--vp-c-bg-alt': [0.164, 0.022],
+    '--vp-c-bg-elv': [0.224, 0.028],
+    '--vp-c-bg-soft': [0.224, 0.028],
+    '--vp-c-divider': [0.26, 0.032],
+    '--vp-c-border': [0.57, 0.02],
+    '--vp-c-text-1': [0.915, 0.012],
+    '--vp-c-text-2': [0.742, 0.012],
+    '--vp-c-text-3': [0.655, 0.012],
+    '--wk-c-menu-bg': [0.295, 0.032],
+    '--wk-c-nav-solid-bg': [0.2, 0.024],
+    '--nav-pill-bg': [0.205, 0.024, 0.7],
+    '--wk-fs-header-divider': [0.44, 0.02, 0.65],
+  },
+  light: {
+    '--vp-c-bg': [0.986, 0.012],
+    '--vp-c-bg-alt': [0.958, 0.024],
+    '--vp-c-bg-elv': [0.958, 0.024],
+    '--vp-c-bg-soft': [0.958, 0.024],
+    '--vp-c-divider': [0.828, 0.036],
+    '--vp-c-border': [0.815, 0.024],
+    '--vp-c-gutter': [0.913, 0.02],
+    '--vp-c-text-1': [0.224, 0.016],
+    '--vp-c-text-2': [0.309, 0.014],
+    '--vp-c-text-3': [0.396, 0.014],
+    '--wk-c-menu-bg': [0.928, 0.026],
+    '--wk-c-nav-solid-bg': [0.986, 0.012],
+    '--nav-pill-bg': [0.99, 0.01, 0.8],
+    '--wk-fs-header-divider': [0.715, 0.02, 0.25],
+  },
+}
+const accentBgTokenKeys = [...new Set([
+  ...Object.keys(accentBgTokens.dark),
+  ...Object.keys(accentBgTokens.light),
+])]
+
+const applyAccentTheme = () => {
   if (import.meta.env.SSR) return
   const palette = accentPalettes[accentColor.value] ?? accentPalettes.ayanami
   const shades = 'dark' in palette
@@ -857,7 +902,37 @@ watchEffect(() => {
     el.style.setProperty('--vp-c-brand-soft', `color-mix(in srgb, ${shades['400']} 40%, transparent)`)
     el.style.setProperty('--vp-c-sidebar-active', `color-mix(in srgb, ${shades['800']} 15%, transparent)`)
   }
-})
+
+  for (const key of accentBgTokenKeys) el.style.removeProperty(key)
+  const userStrength = accentBg.value
+    ? Math.min(100, Math.max(0, Number(accentBgStrength.value) || 0)) / 100
+    : 0
+  if (userStrength > 0) {
+    const parsed = shades['500'].match(/oklch\(\s*[\d.]+\s+([\d.]+)\s+([\d.]+)/)
+    if (parsed) {
+      // Tint scales with the accent's own chroma (full tint at C >= 0.10,
+      // grayscale accents stay gray), then with the intensity preset.
+      const strength = Math.min(1, Number(parsed[1]) / 0.10) * userStrength * 1.5
+      const hue = parsed[2]
+      const tokens = accentBgTokens[isDark.value ? 'dark' : 'light']
+      for (const [key, [l, c, alpha]] of Object.entries(tokens)) {
+        const chroma = (c * strength).toFixed(4)
+        const suffix = alpha === undefined ? '' : ` / ${alpha}`
+        el.style.setProperty(key, `oklch(${l} ${chroma} ${hue}${suffix})`)
+      }
+    }
+  }
+}
+
+// Applying the tint restyles the whole page, so throttle rapid changes
+// (leading + trailing: single clicks apply instantly, the last value sticks).
+const applyAccentThemeThrottled = useThrottleFn(applyAccentTheme, 100, true)
+
+watch(
+  [accentColor, isDark, accentBg, accentBgStrength],
+  () => applyAccentThemeThrottled(),
+  { immediate: true }
+)
 
 const speed = 2
 const snapThreshold = 5 // px
