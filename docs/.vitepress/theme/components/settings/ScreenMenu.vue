@@ -5,7 +5,6 @@ import VPSocialLinks from 'vitepress/dist/client/theme-default/components/VPSoci
 
 import AccentColor from './AccentColor.vue'
 import Effects from './Effects.vue'
-import ScreenAppearance from './ScreenAppearance.vue'
 
 const mounted = useMounted()
 const { theme } = useData()
@@ -14,7 +13,6 @@ const { theme } = useData()
 <template>
   <div v-if="mounted" space-y-2 class="VPNolebaseEnhancedReadabilitiesMenu">
     <Effects />
-    <ScreenAppearance />
     <AccentColor />
     <VPSocialLinks
       v-if="theme.socialLinks"

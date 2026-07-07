@@ -1350,10 +1350,14 @@ table tr:nth-child(odd) {
   @apply ml-2 pl-0!;
 }
 
-@media (min-width: 768px) {
-  #local-search {
-    @apply hidden!;
-  }
+// Search lives in the nav pill, which now shows on phones too.
+#local-search {
+  @apply hidden!;
+}
+
+// Hidden but kept in the DOM; the pill's settings gear clicks it to open the menu.
+.VPNavBarHamburger {
+  display: none !important;
 }
 
 %thin-scrollbar {

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Moon, Search, Sun } from 'lucide-vue-next'
+import { Moon, Search, Settings, Sun } from 'lucide-vue-next'
 import { useData } from 'vitepress'
 // @ts-ignore
 import VPSocialLink from 'vitepress/dist/client/theme-default/components/VPSocialLink.vue'
@@ -17,13 +17,15 @@ const { isDark } = useData()
 const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   isDark.value = !isDark.value
 })
+
+// Opens the full-screen nav menu (the flyout's phone equivalent).
+function openScreenMenu() {
+  document.querySelector<HTMLElement>('.VPNavBarHamburger')?.click()
+}
 </script>
 
 <template>
   <div class="nav-actions-container">
-  <div class="nav-bookmark-mobile">
-    <BookmarksPanel />
-  </div>
   <div class="nav-actions" role="group" aria-label="Site actions">
     <template v-for="(action, i) in navActions" :key="i">
       <div class="nav-action" :class="`nav-action--${action.type}`">
@@ -57,7 +59,17 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
           :me="false"
         />
 
-        <NolebaseEnhancedReadabilitiesMenu v-else-if="action.type === 'settings'" />
+        <template v-else-if="action.type === 'settings'">
+          <NolebaseEnhancedReadabilitiesMenu />
+          <button
+            type="button"
+            class="nav-action-btn nav-settings-mobile"
+            aria-label="Settings"
+            @click="openScreenMenu()"
+          >
+            <Settings :size="ICON_SIZE" :stroke-width="ICON_STROKE" />
+          </button>
+        </template>
         <BookmarksPanel v-else-if="action.type === 'bookmarks'" />
       </div>
     </template>
@@ -71,31 +83,8 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   align-items: center;
 }
 
-.nav-bookmark-mobile {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 36px;
-  height: var(--vp-nav-height);
-}
-
-.nav-bookmark-mobile :deep(.bookmarks-btn) {
-  color: var(--vp-c-text-2);
-  opacity: 1;
-}
-
-.nav-bookmark-mobile :deep(.bookmarks-btn svg) {
-  stroke-width: 1.5;
-}
-
-@media (min-width: 768px) {
-  .nav-bookmark-mobile {
-    display: none;
-  }
-}
-
 .nav-actions {
-  display: none;
+  display: flex;
   align-items: center;
   gap: var(--nav-pill-gap);
   height: var(--nav-pill-height);
@@ -108,12 +97,6 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   transition: background-color 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-@media (min-width: 768px) {
-  .nav-actions {
-    display: flex;
-  }
-}
-
 .nav-action {
   flex: none;
   width: var(--nav-pill-item-size);
@@ -121,6 +104,24 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* Social links move to the full-screen menu on phones. */
+.nav-action--link {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .nav-action--link {
+    display: flex;
+  }
+}
+
+/* Doubled class outranks the later `.nav-action-btn { display: flex }`. */
+@media (min-width: 768px) {
+  .nav-action-btn.nav-settings-mobile {
+    display: none;
+  }
 }
 
 .nav-action-btn {
@@ -168,6 +169,13 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   border-radius: 0 !important;
   backdrop-filter: none !important;
   -webkit-backdrop-filter: none !important;
+}
+
+/* Phones use the full-screen gear instead of the flyout. */
+@media (max-width: 767.9px) {
+  .nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout) {
+    display: none !important;
+  }
 }
 
 .nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout .button) {
