@@ -63,7 +63,7 @@ og:
 == Subtitles
 - [Kitsunekko](https://kitsunekko.net/)
 - :prev: [Jimaku](https://jimaku.cc/) :s:
-- :prev: [Ajatt-Tools](https://github.com/Ajatt-Tools/kitsunekko-mirror)
+- [AJATT's Japanese Subtitles](https://subtitles.ajatt.top/) [:src:](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) :ded:
 - [JPTV.club Subtitle Archive](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded:
 - [itazuraneko](https://djtguide.github.io/library/sub)
