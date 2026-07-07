@@ -144,6 +144,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [EPUB.moe](https://epub.moe/)
 - [ESJ Zone](https://www.esjzone.cc/)
 - [Light Novel](https://www.lightnovel.fun/)
+- [Tuoverse](https://tuoverse.com/)
 
 ### NSFW
 - [Hanime1.me](https://hanime1.me/)
@@ -543,7 +544,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AniDUB](https://v12.anidub.digital/) |
+| **Anime** | [AniDUB](https://v13.anidub.digital/) |
 | ^^ | [AniFilm](https://anifilm.pro/) |
 | ^^ | [AniFox](https://anifox.club/anime) ||Aggregator|| |
 | ^^ | [AniLiberty](https://anilibria.top/) ||Sub|| |
