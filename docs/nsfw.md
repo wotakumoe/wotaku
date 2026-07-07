@@ -70,7 +70,7 @@ og:
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | :yes: | :no: |
 | [Hentai20](https://hentai20.io/) | :no: | :no: |
 | [Heytoon](https://toonhey.com/) :free::sub: | :no: | :no: |
-| [Hiperdex](https://hiperdex.com/) | :yes: | :yes: |
+| [Hiperdex](https://hiperdex.tv/) | :yes: | :yes: |
 | [HotComics](https://w1.hotcomics.me/) :free::sub: | :yes: | :no: |
 | [Kagane](https://kagane.org/) :s: ==Kagane== | :yes: | :no: |
 | [Manga District](https://mangadistrict.com/) ==MangaDistrict== | :yes: | :no: |
