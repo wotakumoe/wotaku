@@ -20,6 +20,8 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-c-text-1: #1b1b1f;
   --vp-c-text-2: #2f3033;
   --vp-c-text-3: #46464a;
+  /* Divider under the mobile full-screen header bars. */
+  --wk-fs-header-divider: rgba(163, 163, 163, 0.25);
 }
 
 .dark {
@@ -33,6 +35,7 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-c-text-1: #e3e2e6;
   --vp-c-text-2: #ababaf;
   --vp-c-text-3: #919094;
+  --wk-fs-header-divider: rgba(82, 82, 82, 0.65);
 }
 
 :root {
@@ -1355,7 +1358,8 @@ table tr:nth-child(odd) {
   @apply hidden!;
 }
 
-// Hidden but kept in the DOM; the pill's settings gear clicks it to open the menu.
+// Nav list is empty and settings live in the pill's gear (which opens its own
+// panel), so the hamburger is unused on phones.
 .VPNavBarHamburger {
   display: none !important;
 }

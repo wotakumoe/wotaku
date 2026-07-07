@@ -114,7 +114,7 @@ watch(
         border="1 solid $vp-c-divider"
         pointer-events-none
         fixed
-        z-100
+        z-10000
         rounded-xl
         p-4
         shadow-xl

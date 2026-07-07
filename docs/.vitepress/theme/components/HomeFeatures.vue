@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { ArrowLeft } from 'lucide-vue-next'
 import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import type { HomeCard } from '../../configs/constants'
 
@@ -293,6 +294,9 @@ function onHandlePointerUp() {
         <Transition name="slide-up" appear>
           <div v-if="panelOpen" class="panel" role="dialog" aria-modal="true" aria-label="Customize cards">
             <div class="panel-head">
+              <button class="panel-back" aria-label="Back" @click="panelOpen = false">
+                <ArrowLeft :size="18" :stroke-width="2" />
+              </button>
               <span class="panel-title">Customize Cards</span>
               <button class="close-btn" aria-label="Close" @click="panelOpen = false">
                 <span class="i-lucide-x" />
@@ -748,6 +752,24 @@ function onHandlePointerUp() {
   color: var(--vp-c-text-1);
 }
 
+/* Phone-only back button. */
+.panel-back {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border: none;
+  background: transparent;
+  color: var(--vp-c-text-1);
+  font-size: 18px;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.panel-back:hover {
+  color: var(--vp-c-brand-1);
+}
+
 .close-btn {
   position: relative;
   display: flex;
@@ -793,6 +815,24 @@ function onHandlePointerUp() {
 @media (hover: hover) {
   .close-btn:hover::after {
     opacity: 1;
+  }
+}
+
+/* Phone: full-screen header (back arrow, no X). */
+@media (max-width: 767px) {
+  .panel-head {
+    height: 49px;
+    padding: 6px 8px;
+    justify-content: flex-start;
+    border-bottom-color: var(--wk-fs-header-divider);
+  }
+
+  .panel-back {
+    display: flex;
+  }
+
+  .close-btn {
+    display: none;
   }
 }
 

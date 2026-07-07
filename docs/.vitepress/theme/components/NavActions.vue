@@ -7,8 +7,10 @@ import { inject } from 'vue'
 
 import { navActions } from '../navActions'
 import { openSearch } from '../searchState'
+import { openSettings } from '../settingsState'
 import NolebaseEnhancedReadabilitiesMenu from './settings/Menu.vue'
 import BookmarksPanel from './BookmarksPanel.vue'
+import SettingsPanel from './SettingsPanel.vue'
 
 const ICON_SIZE = 18
 const ICON_STROKE = 2
@@ -17,11 +19,6 @@ const { isDark } = useData()
 const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   isDark.value = !isDark.value
 })
-
-// Opens the full-screen nav menu (the flyout's phone equivalent).
-function openScreenMenu() {
-  document.querySelector<HTMLElement>('.VPNavBarHamburger')?.click()
-}
 </script>
 
 <template>
@@ -65,7 +62,7 @@ function openScreenMenu() {
             type="button"
             class="nav-action-btn nav-settings-mobile"
             aria-label="Settings"
-            @click="openScreenMenu()"
+            @click="openSettings()"
           >
             <Settings :size="ICON_SIZE" :stroke-width="ICON_STROKE" />
           </button>
@@ -74,6 +71,7 @@ function openScreenMenu() {
       </div>
     </template>
   </div>
+  <SettingsPanel />
   </div>
 </template>
 
