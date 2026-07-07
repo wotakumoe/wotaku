@@ -1,4 +1,4 @@
 - Entirely vibecoded now, bascially a lite version of Comix.
-- Rips are taken from Comix and uploaded in smaller size.
-- There's no longer a x1600 limit, volume releases have also been removed.
+- Takes rips from Comix and reuploads them in smaller size.
+- There's no longer a x1600 limit.
 - Tags official releases.
