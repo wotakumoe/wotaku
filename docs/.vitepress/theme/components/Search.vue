@@ -2024,7 +2024,7 @@ function onMouseMove(e: MouseEvent) {
                   ? showDetailedList = false
                   : showDetailedList = true"
                 >
-                  <TextAlignStart :size="18" stroke-width="1.25" />
+                  <TextAlignStart :size="18" stroke-width="2" />
                 </button>
                 <button
                   type="button"
@@ -2035,7 +2035,7 @@ function onMouseMove(e: MouseEvent) {
                   ? showDetailedList = true
                   : showDetailedList = false"
                 >
-                  <List :size="18" stroke-width="1.25" />
+                  <List :size="18" stroke-width="2" />
                 </button>
               </div>
               <div class="search-mode-group toolbar-group">
@@ -2048,7 +2048,7 @@ function onMouseMove(e: MouseEvent) {
                   ? cycleSearchMode()
                   : searchMode = 'exact'"
                 >
-                  <Regex :size="18" stroke-width="1.25" />
+                  <Regex :size="18" stroke-width="2" />
                 </button>
                 <button
                   type="button"
@@ -2059,7 +2059,7 @@ function onMouseMove(e: MouseEvent) {
                   ? cycleSearchMode()
                   : searchMode = 'fuzzy'"
                 >
-                  <LocateOff :size="18" stroke-width="1.25" />
+                  <LocateOff :size="18" stroke-width="2" />
                 </button>
                 <button
                   type="button"
@@ -2070,7 +2070,7 @@ function onMouseMove(e: MouseEvent) {
                   ? cycleSearchMode()
                   : searchMode = 'url'"
                 >
-                  <Globe :size="18" stroke-width="1.25" />
+                  <Globe :size="18" stroke-width="2" />
                 </button>
               </div>
               <button
@@ -2081,7 +2081,7 @@ function onMouseMove(e: MouseEvent) {
                 title="Search settings"
                 @click.stop="showSettingsPopup = !showSettingsPopup"
               >
-                <Settings :size="18" stroke-width="1.25" />
+                <Settings :size="18" stroke-width="2" />
               </button>
               <button
                 class="clear-button"
@@ -2090,7 +2090,7 @@ function onMouseMove(e: MouseEvent) {
                 :title="translate('modal.resetButtonTitle')"
                 @click="resetSearch"
               >
-                <X :size="19" stroke-width="1.25" />
+                <X :size="18" stroke-width="2" />
               </button>
             </div>
           </component>
@@ -2231,7 +2231,7 @@ function onMouseMove(e: MouseEvent) {
                     title="Clear all history"
                     @click.stop="searchHistory = []"
                   >
-                    <X :size="16" stroke-width="1.25" />
+                    <X :size="16" stroke-width="2" />
                   </button>
                 </div>
                 <ul class="history-items">
@@ -2261,7 +2261,7 @@ function onMouseMove(e: MouseEvent) {
                     <component
                       :is="entry.mode === 'exact' ? Regex : entry.mode === 'fuzzy' ? LocateOff : Globe"
                       :size="14"
-                      stroke-width="1.25"
+                      stroke-width="2"
                       class="history-mode-icon"
                     />
                     <button
@@ -2269,7 +2269,7 @@ function onMouseMove(e: MouseEvent) {
                       :title="'Remove \'' + entry.query + '\' from history'"
                       @click.stop="removeFromHistory(index)"
                     >
-                      <X :size="16" stroke-width="1.25" />
+                      <X :size="16" stroke-width="2" />
                     </button>
                   </li>
                 </ul>
@@ -2311,10 +2311,10 @@ function onMouseMove(e: MouseEvent) {
                         <Hash
                           v-if="item.anchor ||
                           item.titles.length > 0"
-                          stroke-width="1.25"
+                          stroke-width="2"
                           :size="18"
                         />
-                        <File v-else stroke-width="1.25" :size="18" />
+                        <File v-else stroke-width="2" :size="18" />
                         <span
                           v-for="(t, ti) in item.titles"
                           :key="ti"
@@ -2322,7 +2322,7 @@ function onMouseMove(e: MouseEvent) {
                         >
                           <span class="text" v-html="t" />
                           <ArrowRight
-                            stroke-width="1.25"
+                            stroke-width="2"
                             :size="18"
                             class="mx-0.5"
                           />
@@ -2382,10 +2382,10 @@ function onMouseMove(e: MouseEvent) {
                         <Hash
                           v-if="getDocAnchor(p.id) ||
                           p.titles.length > 0"
-                          stroke-width="1.25"
+                          stroke-width="2"
                           :size="18"
                         />
-                        <File v-else stroke-width="1.25" :size="18" />
+                        <File v-else stroke-width="2" :size="18" />
                         <span
                           v-for="(t, index) in p.titles"
                           :key="index"
@@ -2393,7 +2393,7 @@ function onMouseMove(e: MouseEvent) {
                         >
                           <span class="text" v-html="t" />
                           <ArrowRight
-                            stroke-width="1.25"
+                            stroke-width="2"
                             :size="18"
                             class="mx-0.5"
                           />
@@ -3523,13 +3523,43 @@ svg {
   background: transparent;
 }
 
-/* Settings toggle button — always visible */
-.settings-toggle-btn {
+/* Settings gear + clear (X) buttons — nav-bar style */
+.search-actions .settings-toggle-btn,
+.search-actions .clear-button {
   display: flex;
   border: none;
-  border-radius: 5px;
+  border-radius: 0;
+  background: transparent;
   color: var(--vp-c-text-1);
-  padding: 8px;
+  opacity: 0.55;
+  padding: 8px 4px;
+  transition:
+    opacity 0.25s,
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.search-actions button.settings-toggle-btn:not([disabled]):hover,
+.search-actions button.clear-button:not([disabled]):hover,
+.settings-toggle-btn.mode-active {
+  color: var(--vp-c-text-1);
+  opacity: 1;
+  background: transparent;
+}
+
+.settings-toggle-btn:active,
+.clear-button:not([disabled]):active {
+  transform: scale(0.94);
+}
+
+/* Respect the "effects off" preference */
+html.effects-disabled .settings-toggle-btn,
+html.effects-disabled .clear-button {
+  transition: none;
+}
+
+html.effects-disabled .settings-toggle-btn:active,
+html.effects-disabled .clear-button:active {
+  transform: none;
 }
 
 /* Settings popup card */

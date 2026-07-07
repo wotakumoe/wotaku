@@ -667,16 +667,20 @@ function onHandlePointerUp() {
   background: none;
   border: none;
   padding: 4px;
-  color: var(--vp-c-text-3, var(--vp-c-text-2));
+  color: var(--vp-c-text-2);
   font-size: 18px;
   cursor: pointer;
-  transition: color 0.2s;
+  transition: color 0.2s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   display: flex;
   align-items: center;
 }
 
 .gear-btn:hover {
-  color: var(--vp-c-brand-1);
+  color: var(--vp-c-text-1);
+}
+
+.gear-btn:active {
+  transform: scale(0.94);
 }
 
 /* ── Backdrop ── */
@@ -757,12 +761,15 @@ function onHandlePointerUp() {
   color: var(--vp-c-text-2);
   font-size: 16px;
   cursor: pointer;
-  transition: background 0.15s, color 0.15s;
+  transition: color 0.15s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .close-btn:hover {
-  background: var(--vp-c-bg-soft);
   color: var(--vp-c-text-1);
+}
+
+.close-btn:active {
+  transform: scale(0.94);
 }
 
 .close-btn::after {
@@ -964,16 +971,16 @@ function onHandlePointerUp() {
   font-size: 16px;
   cursor: pointer;
   flex-shrink: 0;
-  transition: background 0.15s, color 0.15s;
+  transition: color 0.15s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.row-toggle:hover {
-  background: var(--vp-c-bg-alt);
+.row-toggle:hover,
+.row-toggle.active {
   color: var(--vp-c-text-1);
 }
 
-.row-toggle.active {
-  color: var(--vp-c-brand-1);
+.row-toggle:active {
+  transform: scale(0.94);
 }
 
 /* ── Panel Footer ── */
@@ -1006,7 +1013,7 @@ function onHandlePointerUp() {
   border-radius: 5px;
   padding: 5px 6px;
   cursor: pointer;
-  transition: color 0.15s, background 0.15s;
+  transition: color 0.15s, background 0.15s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .tool-btn[aria-label]::after {
@@ -1034,14 +1041,29 @@ function onHandlePointerUp() {
   }
 }
 
-.tool-btn:hover {
+.tool-btn:hover,
+.tool-btn.is-active {
   color: var(--vp-c-text-1);
-  background: var(--vp-c-bg-soft);
+  background: transparent;
 }
 
-.tool-btn.is-active {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-brand-soft);
+.tool-btn:active {
+  transform: scale(0.94);
+}
+
+/* Respect the "effects off" preference */
+html.effects-disabled .gear-btn,
+html.effects-disabled .close-btn,
+html.effects-disabled .tool-btn,
+html.effects-disabled .row-toggle {
+  transition: none;
+}
+
+html.effects-disabled .gear-btn:active,
+html.effects-disabled .close-btn:active,
+html.effects-disabled .tool-btn:active,
+html.effects-disabled .row-toggle:active {
+  transform: none;
 }
 
 /* ── Settings Help ── */
