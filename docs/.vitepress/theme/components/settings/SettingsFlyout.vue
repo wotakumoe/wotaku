@@ -114,7 +114,7 @@ onUnmounted(() => {
 .VPMenu {
   border-radius: 12px;
   padding: 12px;
-  min-width: 128px;
+  width: 300px;
   max-width: 100%;
   border: 1px solid var(--vp-c-divider);
   background-color: var(--vp-c-bg-elv);

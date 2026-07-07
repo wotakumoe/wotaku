@@ -1983,9 +1983,8 @@ html.effects-disabled {
 }
 
 html:not(.dark) .nolebase-ui-input-horizontal-option {
-  --nolebase-ui-input-horizontal-option-active-bg: var(--vp-c-text-1);
-  --nolebase-ui-input-horizontal-option-active-text: var(--vp-c-bg-elv);
-  --nolebase-ui-input-horizontal-option-shadow-color: #53535366;
+  --nolebase-ui-input-horizontal-option-active-bg: var(--vp-c-bg);
+  --nolebase-ui-input-horizontal-option-active-text: var(--vp-c-text-1);
 }
 
 /* Hide the default VitePress mobile appearance toggle and social links — we render them ourselves in ScreenMenu */

@@ -52,7 +52,7 @@ import {
   LocateOff,
   Regex,
   Search,
-  Settings2,
+  Settings,
   TextAlignStart,
   X
 } from 'lucide-vue-next'
@@ -2081,7 +2081,7 @@ function onMouseMove(e: MouseEvent) {
                 title="Search settings"
                 @click.stop="showSettingsPopup = !showSettingsPopup"
               >
-                <Settings2 :size="18" stroke-width="1.25" />
+                <Settings :size="18" stroke-width="1.25" />
               </button>
               <button
                 class="clear-button"
@@ -3534,16 +3534,27 @@ svg {
 
 /* Settings popup card */
 .search-settings-popup {
+  --seg-track: #e8e6ec;
+  --seg-pill-bg: var(--vp-c-bg);
+  --seg-pill-text: var(--vp-c-text-1);
+  --seg-pill-shadow: 0 2px 4px 0 #bababa8c;
   position: fixed;
   z-index: 200;
-  background: var(--vp-c-bg);
+  background: var(--vp-c-bg-elv);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  padding: 10px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: var(--vp-shadow-3);
   display: flex;
   flex-direction: column;
   min-width: 196px;
+}
+
+.dark .search-settings-popup {
+  --seg-track: #2c2c31;
+  --seg-pill-bg: var(--vp-c-text-1);
+  --seg-pill-text: var(--vp-c-bg-elv);
+  --seg-pill-shadow: 0 2px 4px 0 #535353db;
 }
 
 .settings-section {
@@ -3681,6 +3692,9 @@ svg {
 .settings-options {
   display: flex;
   gap: 4px;
+  background: var(--seg-track);
+  border-radius: 8px;
+  padding: 4px;
 }
 
 .settings-option {
@@ -3691,24 +3705,24 @@ svg {
   padding: 5px 6px;
   background: transparent;
   border: none;
-  border-radius: 5px;
+  border-radius: 6px;
   cursor: pointer;
-  color: var(--vp-c-text-2);
+  color: var(--vp-c-text-1);
   font-size: 14px;
   font-weight: 500;
-  transition: background-color 0.15s, color 0.15s;
+  transition: background-color 0.15s, color 0.15s, box-shadow 0.15s;
   flex: 1;
 }
 
-.settings-option:hover {
-  color: var(--vp-c-text-1);
-  background: var(--vp-c-bg-soft);
+.settings-option:hover,
+.settings-option.active {
+  color: var(--seg-pill-text);
+  background: var(--seg-pill-bg);
+  box-shadow: var(--seg-pill-shadow);
 }
 
 .settings-option.active {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-brand-soft);
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .settings-popup-enter-active,

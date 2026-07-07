@@ -421,7 +421,7 @@ function onHandlePointerUp() {
                     aria-label="Display settings"
                     @click.stop="dropdownOpen = !dropdownOpen"
                   >
-                    <span class="i-lucide-settings-2" />
+                    <span class="i-lucide-settings" />
                   </button>
                 </div>
               </div>
@@ -1177,16 +1177,27 @@ function onHandlePointerUp() {
 }
 
 .settings-dropdown {
+  --seg-track: #e8e6ec;
+  --seg-pill-bg: var(--vp-c-bg);
+  --seg-pill-text: var(--vp-c-text-1);
+  --seg-pill-shadow: 0 2px 4px 0 #bababa8c;
   position: absolute;
   bottom: calc(100% + 8px);
   right: 0;
   z-index: 2;
   min-width: 196px;
-  background: var(--vp-c-bg);
+  background: var(--vp-c-bg-elv);
   border: 1px solid var(--vp-c-divider);
-  border-radius: 10px;
-  padding: 10px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: var(--vp-shadow-3);
+}
+
+.dark .settings-dropdown {
+  --seg-track: #2c2c31;
+  --seg-pill-bg: var(--vp-c-text-1);
+  --seg-pill-text: var(--vp-c-bg-elv);
+  --seg-pill-shadow: 0 2px 4px 0 #535353db;
 }
 
 .dropdown-section + .dropdown-section {
@@ -1214,6 +1225,28 @@ function onHandlePointerUp() {
 .dropdown-group {
   display: flex;
   gap: 4px;
+  background: var(--seg-track);
+  border-radius: 8px;
+  padding: 4px;
+}
+
+.dropdown-group .tool-btn {
+  flex: 1;
+  justify-content: center;
+  border-radius: 6px;
+  color: var(--vp-c-text-1);
+  transition: color 0.15s, background 0.15s, box-shadow 0.15s;
+}
+
+.dropdown-group .tool-btn:hover,
+.dropdown-group .tool-btn.is-active {
+  color: var(--seg-pill-text);
+  background: var(--seg-pill-bg);
+  box-shadow: var(--seg-pill-shadow);
+}
+
+.dropdown-group .tool-btn.is-active {
+  font-weight: 700;
 }
 
 /* ── Drag Ghost ── */
