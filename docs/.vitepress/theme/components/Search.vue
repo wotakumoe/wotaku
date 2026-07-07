@@ -356,16 +356,14 @@ watch(showSettingsPopup, (val) => {
   }
 })
 
-function toggleHelpSection(section: HelpSection, e: MouseEvent) {
-  if (activeHelpSection.value === section) {
-    activeHelpSection.value = null
-    helpPopupPos.value = { top: -9999, left: -9999 }
-    return
-  }
-  activeHelpSection.value = section
+const canHoverHelp = () =>
+  typeof window !== 'undefined' && window.matchMedia('(hover: hover)').matches
+
+function positionHelpPopup(btn: HTMLElement) {
   helpPopupPos.value = { top: -9999, left: -9999 }
-  const btn = e.currentTarget as HTMLElement
   const rect = btn.getBoundingClientRect()
+  // Anchor to the menu's left edge so the popup sits beside it, not over it.
+  const menuRect = settingsPopupRef.value?.getBoundingClientRect()
   nextTick(() => {
     const popupW = helpPopupEl.value?.offsetWidth || 260
     const popupH = helpPopupEl.value?.offsetHeight || 200
@@ -379,12 +377,44 @@ function toggleHelpSection(section: HelpSection, e: MouseEvent) {
       const left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
       helpPopupPos.value = { top, left }
     } else {
+      const anchorLeft = menuRect ? menuRect.left : rect.left
       helpPopupPos.value = {
-        left: Math.max(margin, rect.left - popupW - 16),
+        left: Math.max(margin, anchorLeft - popupW - 16),
         top: rect.top,
       }
     }
   })
+}
+
+function closeHelpSection() {
+  activeHelpSection.value = null
+  helpPopupPos.value = { top: -9999, left: -9999 }
+}
+
+function toggleHelpSection(section: HelpSection, e: MouseEvent) {
+  // Hover devices open/close via mouseenter/leave; touch devices toggle on tap.
+  if (canHoverHelp()) {
+    activeHelpSection.value = section
+    positionHelpPopup(e.currentTarget as HTMLElement)
+    return
+  }
+  if (activeHelpSection.value === section) {
+    closeHelpSection()
+    return
+  }
+  activeHelpSection.value = section
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpEnter(section: HelpSection, e: MouseEvent) {
+  if (!canHoverHelp()) return
+  activeHelpSection.value = section
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpLeave() {
+  if (!canHoverHelp()) return
+  closeHelpSection()
 }
 
 const settingsPopupStyle = computed(() => ({
@@ -2577,11 +2607,16 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: activeHelpSection === 'search' }"
                       aria-label="Search mode help"
                       @click.stop="toggleHelpSection('search', $event)"
+                      @mouseenter="onHelpEnter('search', $event)"
+                      @mouseleave="onHelpLeave"
                     >
                       <span class="i-carbon:help-filled settings-help-icon" />
                     </button>
                   </div>
-                  <div class="settings-options">
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'search' }"
+                  >
                     <button
                       type="button"
                       class="settings-option"
@@ -2623,11 +2658,16 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: activeHelpSection === 'view' }"
                       aria-label="Result view help"
                       @click.stop="toggleHelpSection('view', $event)"
+                      @mouseenter="onHelpEnter('view', $event)"
+                      @mouseleave="onHelpLeave"
                     >
                       <span class="i-carbon:help-filled settings-help-icon" />
                     </button>
                   </div>
-                  <div class="settings-options">
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'view' }"
+                  >
                     <button
                       type="button"
                       class="settings-option"
@@ -2662,11 +2702,16 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: activeHelpSection === 'preload' }"
                       aria-label="Excerpt preload help"
                       @click.stop="toggleHelpSection('preload', $event)"
+                      @mouseenter="onHelpEnter('preload', $event)"
+                      @mouseleave="onHelpLeave"
                     >
                       <span class="i-carbon:help-filled settings-help-icon" />
                     </button>
                   </div>
-                  <div class="settings-options">
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'preload' }"
+                  >
                     <button
                       type="button"
                       class="settings-option"
@@ -2705,11 +2750,16 @@ function onMouseMove(e: MouseEvent) {
                       :class="{ active: activeHelpSection === 'history' }"
                       aria-label="Search history help"
                       @click.stop="toggleHelpSection('history', $event)"
+                      @mouseenter="onHelpEnter('history', $event)"
+                      @mouseleave="onHelpLeave"
                     >
                       <span class="i-carbon:help-filled settings-help-icon" />
                     </button>
                   </div>
-                  <div class="settings-options">
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'history' }"
+                  >
                     <button
                       type="button"
                       class="settings-option"
@@ -3638,8 +3688,8 @@ html.effects-disabled .clear-button:active {
 
 .settings-help-icon {
   display: block;
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
 }
 
 /* Help popup */
@@ -3699,9 +3749,13 @@ html.effects-disabled .clear-button:active {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  background: var(--vp-c-bg-soft);
+  background: #e8e6ec;
   border-radius: 12px;
   padding: 10px 12px;
+}
+
+.dark .sh-option {
+  background: #2c2c31;
 }
 
 .sh-option strong {
@@ -3725,6 +3779,13 @@ html.effects-disabled .clear-button:active {
   background: var(--seg-track);
   border-radius: 8px;
   padding: 4px;
+  outline: 2px dashed transparent;
+  outline-offset: 4px;
+  transition: outline-color 0.2s ease;
+}
+
+.settings-options.is-highlighted {
+  outline-color: var(--vp-c-brand-1);
 }
 
 .settings-option {

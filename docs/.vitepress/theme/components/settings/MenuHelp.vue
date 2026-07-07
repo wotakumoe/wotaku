@@ -28,6 +28,12 @@ watch(isHovered, (val) => {
 const bounding = useElementBounding(menuTitleElementRef)
 const popupBounding = useElementBounding(popupElementRef)
 
+// Enclosing flyout panel — anchor the popup to its outer left edge.
+const menuPanelRef = computed(
+  () => (menuTitleElementRef.value?.closest('.VPMenu') as HTMLElement | null) ?? undefined
+)
+const menuBounding = useElementBounding(menuPanelRef)
+
 const helpPopupStyle = computed(() => {
   const margin = 8
   const popupW = popupBounding.width.value
@@ -50,8 +56,11 @@ const helpPopupStyle = computed(() => {
         : Math.max(margin, vh - popupH - margin)
     left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
   } else {
-    // Desktop: place to the left of the menu title, aligned vertically
-    left = bounding.left.value - popupW - 16
+    // Desktop: place to the left of the menu panel, aligned vertically
+    const anchorLeft = menuBounding.width.value
+      ? menuBounding.left.value
+      : bounding.left.value
+    left = Math.max(margin, anchorLeft - popupW - 16)
     top = bounding.top.value
   }
 
@@ -85,6 +94,7 @@ watch(
   () => {
     bounding.update()
     popupBounding.update()
+    menuBounding.update()
   },
   {
     flush: 'pre'

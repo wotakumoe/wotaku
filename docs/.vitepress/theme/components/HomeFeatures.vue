@@ -89,6 +89,7 @@ const dropdownOpen = ref(false)
 type HelpSection = 'view' | 'columns'
 const activeHelpSection = ref<HelpSection | null>(null)
 const helpPopupEl = ref<HTMLDivElement | null>(null)
+const settingsDropdownEl = ref<HTMLDivElement | null>(null)
 const helpPopupPos = ref({ top: -9999, left: -9999 })
 
 watch(dropdownOpen, (val) => {
@@ -98,25 +99,65 @@ watch(dropdownOpen, (val) => {
   }
 })
 
+const canHoverHelp = () =>
+  typeof window !== 'undefined' && window.matchMedia('(hover: hover)').matches
+
+function positionHelpPopup(btn: HTMLElement) {
+  helpPopupPos.value = { top: -9999, left: -9999 }
+  const rect = btn.getBoundingClientRect()
+  // Anchor to the dropdown's left edge so the popup sits beside it, not over it.
+  const menuRect = settingsDropdownEl.value?.getBoundingClientRect()
+  nextTick(() => {
+    const popupW = helpPopupEl.value?.offsetWidth || 260
+    const popupH = helpPopupEl.value?.offsetHeight || 200
+    const vw = window.innerWidth
+    const margin = 8
+    const isMobile = vw < 768
+    if (isMobile) {
+      const aboveTop = rect.top - popupH - margin
+      const belowTop = rect.bottom + margin
+      const top = aboveTop >= margin ? aboveTop : belowTop
+      const left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
+      helpPopupPos.value = { top, left }
+    } else {
+      const anchorLeft = menuRect ? menuRect.left : rect.left
+      helpPopupPos.value = {
+        left: Math.max(margin, anchorLeft - popupW - 16),
+        top: Math.max(margin, Math.min(rect.top, window.innerHeight - popupH - margin)),
+      }
+    }
+  })
+}
+
+function closeHelpSection() {
+  activeHelpSection.value = null
+  helpPopupPos.value = { top: -9999, left: -9999 }
+}
+
 function toggleHelpSection(section: HelpSection, e: MouseEvent) {
+  // Hover devices open/close via mouseenter/leave; touch devices toggle on tap.
+  if (canHoverHelp()) {
+    activeHelpSection.value = section
+    positionHelpPopup(e.currentTarget as HTMLElement)
+    return
+  }
   if (activeHelpSection.value === section) {
-    activeHelpSection.value = null
-    helpPopupPos.value = { top: -9999, left: -9999 }
+    closeHelpSection()
     return
   }
   activeHelpSection.value = section
-  helpPopupPos.value = { top: -9999, left: -9999 }
-  const btn = e.currentTarget as HTMLElement
-  const rect = btn.getBoundingClientRect()
-  nextTick(() => {
-    const popupW = helpPopupEl.value?.offsetWidth || 220
-    const popupH = helpPopupEl.value?.offsetHeight || 160
-    const margin = 8
-    helpPopupPos.value = {
-      left: Math.max(margin, rect.left - popupW - 8),
-      top: Math.max(margin, Math.min(rect.top, window.innerHeight - popupH - margin)),
-    }
-  })
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpEnter(section: HelpSection, e: MouseEvent) {
+  if (!canHoverHelp()) return
+  activeHelpSection.value = section
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpLeave() {
+  if (!canHoverHelp()) return
+  closeHelpSection()
 }
 
 watch(panelOpen, (open) => {
@@ -387,18 +428,18 @@ function onHandlePointerUp() {
               <div class="foot-group">
                 <div class="settings-wrap">
                   <div v-if="dropdownOpen" class="dropdown-overlay" @click="dropdownOpen = false" />
-                  <div v-if="dropdownOpen" class="settings-dropdown">
+                  <div v-if="dropdownOpen" ref="settingsDropdownEl" class="settings-dropdown">
                     <div class="dropdown-section">
                       <div class="dropdown-section-header">
                         <span class="dropdown-label">
                           <span class="i-lucide-layout-list dropdown-label-icon" />
                           View
                         </span>
-                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'view' }" aria-label="View help" @click.stop="toggleHelpSection('view', $event)">
+                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'view' }" aria-label="View help" @click.stop="toggleHelpSection('view', $event)" @mouseenter="onHelpEnter('view', $event)" @mouseleave="onHelpLeave">
                           <span class="i-carbon:help-filled settings-help-icon" />
                         </button>
                       </div>
-                      <div class="dropdown-group">
+                      <div class="dropdown-group" :class="{ 'is-highlighted': activeHelpSection === 'view' }">
                         <button class="tool-btn" :class="{ 'is-active': viewMode === 'default' }" @click="viewMode = 'default'">Default</button>
                         <button class="tool-btn" :class="{ 'is-active': viewMode === 'mini' }" @click="viewMode = 'mini'">Mini</button>
                       </div>
@@ -409,11 +450,11 @@ function onHandlePointerUp() {
                           <span class="i-lucide-columns-3-cog dropdown-label-icon" />
                           Columns
                         </span>
-                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'columns' }" aria-label="Columns help" @click.stop="toggleHelpSection('columns', $event)">
+                        <button type="button" class="settings-help-btn" :class="{ active: activeHelpSection === 'columns' }" aria-label="Columns help" @click.stop="toggleHelpSection('columns', $event)" @mouseenter="onHelpEnter('columns', $event)" @mouseleave="onHelpLeave">
                           <span class="i-carbon:help-filled settings-help-icon" />
                         </button>
                       </div>
-                      <div class="dropdown-group">
+                      <div class="dropdown-group" :class="{ 'is-highlighted': activeHelpSection === 'columns' }">
                         <button class="tool-btn" :class="{ 'is-active': columnMode === 'default' }" @click="columnMode = 'default'">Default</button>
                         <button class="tool-btn" :class="{ 'is-active': columnMode === 'max' }" @click="columnMode = 'max'">Max</button>
                       </div>
@@ -1141,8 +1182,8 @@ html.effects-disabled .row-toggle:active {
 
 .settings-help-icon {
   display: block;
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
 }
 
 .home-help-popup {
@@ -1201,9 +1242,13 @@ html.effects-disabled .row-toggle:active {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  background: var(--vp-c-bg-soft);
+  background: #e8e6ec;
   border-radius: 12px;
   padding: 10px 12px;
+}
+
+.dark .sh-option {
+  background: #2c2c31;
 }
 
 .sh-option strong {
@@ -1290,6 +1335,13 @@ html.effects-disabled .row-toggle:active {
   background: var(--seg-track);
   border-radius: 8px;
   padding: 4px;
+  outline: 2px dashed transparent;
+  outline-offset: 4px;
+  transition: outline-color 0.2s ease;
+}
+
+.dropdown-group.is-highlighted {
+  outline-color: var(--vp-c-brand-1);
 }
 
 .dropdown-group .tool-btn {
