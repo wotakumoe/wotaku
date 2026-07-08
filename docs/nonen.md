@@ -59,7 +59,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Kawaii Anime](https://kawaii-anime.com/) |
 | ^^ | [Okanime](https://okanime.tv/) |
 | ^^ | [WitAnime](https://witanime.cyou/) |
-| **Manga** | [3asQ](https://3asq.pro/) |
+| **Manga** | [3asQ](https://3asq.online/) |
 | ^^ | [Azora Manga](https://azorafly.com/) |
 | ^^ | [Swat Manga](https://meshmanga.com/) |
 | **Novels** | [Hizo Manga](https://hizomanga.net/) |
@@ -312,7 +312,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Dora Bash](https://dorabash.in/) + :len: |
 | ^^ | [Kartoons](https://kartoons.me/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
-| ^^ | [ToonStream](https://toonstream.vip/home/) + :len: |
+| ^^ | [ToonStream](https://toon-stream.site/home/) + :len: |
 | **DDL** | [Anime Shrine](https://animeshrine.xyz/) + :len: |
 | ^^ | [AnimeVilla](https://animevilla.org/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
@@ -395,16 +395,16 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 <Collapsible title="More">
 
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://i.wotaku.wiki/p/proxy#mangarawspoil)
-- [Manga Raw (.ad)](https://mangarawad.best/)
+- [Manga Raw (.ad)](https://mangarawad.cc/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://i.wotaku.wiki/p/proxy#raw1001)
 - [RawBaka](https://rawbaka.com/)
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.vin/)
+- [Raw FREE](https://rawfree.li/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.casa/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.beer/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Soraraw](https://soraraw.com/)
@@ -467,7 +467,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Funbe](https://funbe655.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
-| ^^ | [MoneyToon](https://mtoon143.asia/) |
+| ^^ | [MoneyToon](https://mtoon144.asia/) |
 | ^^ | [NameeToon](https://namee102.asia/) |
 | ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [TOONKOR](https://tkor127.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
