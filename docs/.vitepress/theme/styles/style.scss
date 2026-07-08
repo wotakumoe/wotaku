@@ -880,10 +880,15 @@ table tr:nth-child(odd) {
 
               & > a {
                 &:hover,
-                &:focus {
+                &:focus,
+                &.active {
                   @apply rounded-xl;
                   background-color: var(--vp-c-brand-nav-active);
                   color: var(--vp-c-brand);
+                }
+
+                &.active {
+                  @apply font-semibold;
                 }
               }
 
@@ -899,10 +904,15 @@ table tr:nth-child(odd) {
 
                   & > a {
                     &:hover,
-                    &:focus {
+                    &:focus,
+                    &.active {
                       @apply rounded-lg;
                       background-color: var(--vp-c-brand-nav-active);
                       color: var(--vp-c-brand);
+                    }
+
+                    &.active {
+                      @apply font-semibold;
                     }
                   }
                 }
@@ -1232,7 +1242,6 @@ table tr:nth-child(odd) {
     }
 
     .VPDocOutlineItem.root > li {
-      position: relative;
 
       &:hover .toc-bookmark-btn,
       & .toc-bookmark-btn.is-bookmarked {
@@ -1240,6 +1249,7 @@ table tr:nth-child(odd) {
       }
 
       & > .outline-link {
+        position: relative;
         padding-right: 20px;
         @apply text-neutral-600/80 dark:text-neutral-300/80 transition-all
           dark:hover:text-neutral-300 dark:focus:text-neutral-300;
@@ -1311,9 +1321,8 @@ table tr:nth-child(odd) {
 }
 
 .VPLocalNavOutlineDropdown .outline > .VPDocOutlineItem > li {
-  position: relative;
-
   & > .outline-link {
+    position: relative;
     padding-right: 28px !important;
     overflow: hidden !important;
     text-overflow: ellipsis !important;
@@ -1667,6 +1676,13 @@ html.effects-disabled {
   // Appearance (dark/light) toggle hover/active scale bounce
   .VPSwitchAppearance {
     scale: none !important;
+    transition: none !important;
+  }
+
+   // ToC semi-bold during being selected
+  .VPDocAsideOutline a.outline-link,
+  .VPLocalNavOutlineDropdown a.outline-link {
+    font-weight: normal !important;
     transition: none !important;
   }
 

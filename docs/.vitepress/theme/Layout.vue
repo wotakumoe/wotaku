@@ -13,7 +13,7 @@ import {
   useThrottleFn
 } from '@vueuse/core'
 import { usePreferredReducedMotion } from '@vueuse/core'
-import { useData, useRoute } from 'vitepress'
+import { getScrollOffset, useData, useRoute } from 'vitepress'
 import type { DefaultTheme as Theme } from 'vitepress'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import { getSidebarGroups } from 'vitepress/dist/client/theme-default/support/sidebar'
@@ -567,6 +567,51 @@ const rewriteAnchorLinksDeferred = () => nextTick(() => rewriteAnchorLinks())
 let outlineFollowObserver: MutationObserver | null = null
 let outlineFollowRaf = 0
 
+const syncMobileOutlineActive = () => {
+  const dropdownLinks = Array.from(
+    document.querySelectorAll<HTMLAnchorElement>(
+      '.VPLocalNavOutlineDropdown .outline a.outline-link'
+    )
+  )
+  if (!dropdownLinks.length) return
+
+  const scrollY = window.scrollY
+  const isBottom =
+    Math.abs(scrollY + window.innerHeight - document.body.offsetHeight) < 1
+
+  const entries = dropdownLinks
+    .map(link => {
+      const href = link.getAttribute('href') ?? ''
+      const id = href.startsWith('#') ? decodeURIComponent(href.slice(1)) : ''
+      const el = id ? document.getElementById(id) : null
+      return el ? { href, top: el.getBoundingClientRect().top + scrollY } : null
+    })
+    .filter((e): e is { href: string; top: number } => e !== null)
+    .sort((a, b) => a.top - b.top)
+
+  let activeHref: string | null = null
+  if (entries.length && scrollY >= 1) {
+    if (isBottom) {
+      activeHref = entries[entries.length - 1].href
+    } else {
+      for (const { href, top } of entries) {
+        if (top > scrollY + getScrollOffset() + 4) break
+        activeHref = href
+      }
+    }
+  }
+
+  dropdownLinks.forEach(link => {
+    link.classList.toggle('active', link.getAttribute('href') === activeHref)
+  })
+}
+
+let mobileOutlineScrollRaf = 0
+const onMobileOutlineScroll = () => {
+  cancelAnimationFrame(mobileOutlineScrollRaf)
+  mobileOutlineScrollRaf = requestAnimationFrame(syncMobileOutlineActive)
+}
+
 const followActiveOutlineLink = () => {
   cancelAnimationFrame(outlineFollowRaf)
 
@@ -653,7 +698,7 @@ function addBookmarkBtnToLi(li: HTMLElement, path: string) {
     btn.classList.toggle('is-bookmarked', isBookmarked(anchor, path))
   })
 
-  li.appendChild(btn)
+  link.appendChild(btn)
 }
 
 let tocMutationObserver: MutationObserver | null = null
@@ -675,7 +720,10 @@ function setupTocBookmarks() {
   tocMutationObserver?.disconnect()
   tocMutationObserver = new MutationObserver(() => {
     cancelAnimationFrame(tocRaf)
-    tocRaf = requestAnimationFrame(() => scanTocItems(route.path))
+    tocRaf = requestAnimationFrame(() => {
+      scanTocItems(route.path)
+      syncMobileOutlineActive()
+    })
   })
   tocMutationObserver.observe(document.body, { childList: true, subtree: true })
 }
@@ -684,6 +732,8 @@ onMounted(tryOpenAnchoredContent)
 onMounted(rewriteAnchorLinksDeferred)
 onMounted(() => nextTick(setupOutlineFollow))
 onMounted(() => nextTick(setupTocBookmarks))
+onMounted(() => window.addEventListener('scroll', onMobileOutlineScroll, { passive: true }))
+onUnmounted(() => window.removeEventListener('scroll', onMobileOutlineScroll))
 watch(() => route.data, () => {
   void tryOpenAnchoredContent()
   rewriteAnchorLinksDeferred()
