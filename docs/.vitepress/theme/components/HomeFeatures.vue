@@ -1242,13 +1242,13 @@ html.effects-disabled .row-toggle:active {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  background: #e8e6ec;
+  background: var(--wk-c-menu-bg);
   border-radius: 12px;
   padding: 10px 12px;
 }
 
 .dark .sh-option {
-  background: #2c2c31;
+  background: var(--wk-c-menu-bg);
 }
 
 .sh-option strong {
@@ -1284,7 +1284,7 @@ html.effects-disabled .row-toggle:active {
 }
 
 .settings-dropdown {
-  --seg-track: #e8e6ec;
+  --seg-track: var(--wk-c-menu-bg);
   --seg-pill-bg: var(--vp-c-bg);
   --seg-pill-text: var(--vp-c-text-1);
   --seg-pill-shadow: 0 2px 4px 0 #bababa8c;
@@ -1301,7 +1301,7 @@ html.effects-disabled .row-toggle:active {
 }
 
 .dark .settings-dropdown {
-  --seg-track: #2c2c31;
+  --seg-track: var(--wk-c-menu-bg);
   --seg-pill-bg: var(--vp-c-text-1);
   --seg-pill-text: var(--vp-c-bg-elv);
   --seg-pill-shadow: 0 2px 4px 0 #535353db;
