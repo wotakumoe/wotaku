@@ -1679,6 +1679,13 @@ html.effects-disabled {
     transition: none !important;
   }
 
+   // ToC semi-bold during being selected
+  .VPDocAsideOutline a.outline-link,
+  .VPLocalNavOutlineDropdown a.outline-link {
+    font-weight: normal !important;
+    transition: none !important;
+  }
+
   // Nav-pill button + dropdown panel active/open scale bounces
   .nav-action-btn:active,
   .nav-actions .VPSocialLink:active,
