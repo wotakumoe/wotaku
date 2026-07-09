@@ -33,9 +33,9 @@ const mounted = useMounted()
       <Spotlight v-if="!options.spotlight?.disabled" />
       <SpotlightStyles v-if="!options.spotlight?.disabled" />
       <Effects />
-      <Takodachi />
-      <AccentBackground />
       <AccentColor />
+      <AccentBackground />
+      <Takodachi />
     </div>
   </SettingsFlyout>
 </template>

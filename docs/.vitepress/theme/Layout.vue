@@ -7,12 +7,10 @@
 -->
 <script setup lang="ts">
 import {
-  customStorageEventName,
   useEventListener,
   useStorage,
   useThrottleFn
 } from '@vueuse/core'
-import { usePreferredReducedMotion } from '@vueuse/core'
 import { getScrollOffset, useData, useRoute } from 'vitepress'
 import type { DefaultTheme as Theme } from 'vitepress'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
@@ -35,9 +33,9 @@ import NotFoundComponent from './components/NotFound.vue'
 import { NolebaseEnhancedReadabilitiesScreenMenu } from './components/settings'
 import NavActions from './components/NavActions.vue'
 import SidebarCard from './components/SidebarCard.vue'
-import { AccentBgStorageKey, AccentBgStrengthStorageKey, AccentColorStorageKey, TakodachiStorageKey } from './constants'
+import TakodachiChaser from './components/TakodachiChaser.vue'
+import { AccentBgStorageKey, AccentBgStrengthStorageKey, AccentColorStorageKey } from './constants'
 import { useEffects } from './composables/useEffects'
-import { v2add, v2mag, v2norm, v2smul, v2sub, type Vec2D } from './math'
 
 const route = useRoute()
 const { frontmatter, isDark, site, theme } = useData()
@@ -794,8 +792,6 @@ const breadcrumbs = computed(() => {
   return buildBreadcrumbs(sidebar, currentPath)
 })
 
-// Respect user's reduced motion preferences
-const prefs = usePreferredReducedMotion()
 const { effectsEnabled } = useEffects()
 
 watchEffect(() => {
@@ -983,80 +979,6 @@ watch(
   () => applyAccentThemeThrottled(),
   { immediate: true }
 )
-
-const speed = 2
-const snapThreshold = 5 // px
-
-const takodachiRef = ref<HTMLImageElement | null>(null)
-let mousePos: Vec2D | null = null
-let target: Vec2D | null = null
-let offset: Vec2D = [0, 0]
-
-const position = ref({
-  x: 0,
-  y: 0
-})
-
-const updateMousePos = (e: MouseEvent | TouchEvent) => {
-  if (e instanceof MouseEvent) {
-    mousePos = [e.clientX, e.clientY]
-  } else {
-    mousePos = [e.touches[0].clientX, e.touches[0].clientY]
-  }
-}
-
-const takodachiDisable = ref<(() => void) | null>(null)
-const takodachiToggledOn = useStorage(TakodachiStorageKey, false)
-
-const reloadTakodachi = () => {
-  takodachiDisable.value?.()
-
-  if (prefs.value === 'reduce') return
-  const saved = takodachiToggledOn
-  if (saved.value === false) return
-
-  window.addEventListener('mousemove', updateMousePos)
-  window.addEventListener('touchstart', updateMousePos)
-
-  const chaser = takodachiRef!.value
-  if (chaser) {
-    offset = v2smul([chaser.clientWidth, chaser.clientHeight], 0.5)
-    setTimeout(() => {
-      chaser.classList.remove('opacity-0')
-    }, 1000)
-  }
-
-  const intervalId = setInterval(() => {
-    if (!mousePos) return
-
-    const currentPos: Vec2D = [
-      position.value.x + offset[0],
-      position.value.y + offset[1]
-    ]
-
-    target = target ?? currentPos
-
-    const diff = v2sub(mousePos, currentPos)
-
-    target = v2mag(diff) < snapThreshold
-      ? mousePos
-      : v2add(target, v2smul(v2norm(diff), speed))
-
-    const finalVec = v2sub(target, offset)
-
-    position.value = { x: finalVec[0], y: finalVec[1] }
-  }, 10)
-
-  takodachiDisable.value = () => {
-    chaser?.classList.add('opacity-0')
-
-    window.removeEventListener('mousemove', updateMousePos)
-    window.removeEventListener('touchstart', updateMousePos)
-    clearInterval(intervalId)
-
-    takodachiDisable.value = null
-  }
-}
 
 function initTitleOnly() {
   document.querySelectorAll('.custom-block').forEach(block => {
@@ -1368,18 +1290,6 @@ onMounted(() => {
     ) return
     requestAnimationFrame(() => (hamburger as HTMLElement)?.click())
   })
-
-  // Storage changed in other documents.
-  useEventListener(window, 'storage', () => {
-    reloadTakodachi()
-  })
-
-  // Storage changed in the same document.
-  useEventListener(window, customStorageEventName, () => {
-    reloadTakodachi()
-  })
-
-  reloadTakodachi()
 })
 
 onUnmounted(() => {
@@ -1388,7 +1298,6 @@ onUnmounted(() => {
   tocMutationObserver?.disconnect()
   cancelAnimationFrame(outlineFollowRaf)
   cancelAnimationFrame(tocRaf)
-  takodachiDisable.value && takodachiDisable.value()
   window.removeEventListener(BOOKMARK_CHANGE_EVENT, syncTocBookmarkStates)
 })
 </script>
@@ -1396,17 +1305,7 @@ onUnmounted(() => {
 <template>
   <Layout>
     <template #layout-top>
-      <img
-        id="takodachi"
-        ref="takodachiRef"
-        src="/takodachi.webp"
-        alt="Takodachi"
-        class="pointer-events-none fixed absolute z-[9999] h-10 w-10 opacity-0 transition-opacity duration-500"
-        :style="{
-          left: `${position.x}px`,
-          top: `${position.y}px`
-        }"
-      />
+      <TakodachiChaser />
       <!-- Home sidebar menu -->
       <template v-if="isHome">
         <Transition name="home-fade">
