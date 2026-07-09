@@ -33,13 +33,6 @@ export interface PetCharacter {
 
 export const petCharacters: PetCharacter[] = [
   {
-    key: 'tako',
-    label: 'Takodachi',
-    behavior: 'chaser',
-    icon: { type: 'image', src: '/takodachi.webp' },
-    src: '/takodachi.webp'
-  },
-  {
     key: 'oneko',
     label: 'Oneko',
     behavior: 'oneko',
@@ -54,10 +47,17 @@ export const petCharacters: PetCharacter[] = [
         [-2, -1]
       ]
     }
+  },
+  {
+    key: 'tako',
+    label: 'Takodachi',
+    behavior: 'chaser',
+    icon: { type: 'image', src: '/takodachi.webp' },
+    src: '/takodachi.webp'
   }
 ]
 
-export const defaultPetKey = petCharacters[0].key
+export const defaultPetKey = 'tako'
 
 /** Style for a sprite frame scaled to a `size` px box; pass an incrementing
  * `frameIndex` to cycle an icon's `frames`. */

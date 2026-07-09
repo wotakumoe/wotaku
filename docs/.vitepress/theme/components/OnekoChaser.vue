@@ -339,7 +339,7 @@ onUnmounted(() => disable?.())
     id="oneko"
     ref="nekoRef"
     aria-hidden="true"
-    title="Click to wake me up — or drag me around!"
+    title="Click to wake me up!"
     class="oneko fixed z-[9999] h-8 w-8 opacity-0 transition-opacity duration-500"
     style="image-rendering: pixelated; background-image: url(/oneko.gif)"
   />
