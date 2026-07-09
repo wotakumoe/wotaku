@@ -719,16 +719,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Software
 
-#### Android
-
-| Category | Resources |
-|-|-|
-| **General** | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
-| **Anime** | [Anime VSub](https://app.animevsub.eu.org/) [:src:](https://github.com/anime-vsub/app) |
-| **Comics** | [TruyenDex](https://truyendex.cc/) [:src:](https://github.com/zennomi/truyendex) |
-
-#### iOS
-
-| Category | Resources |
-|-|-|
-| **General** | [Hoyomi](https://github.com/tachibana-shin/hoyomi) |
+| Category | Resources | Platform |
+|-|-|-|
+| **General** | [Hoyomi](https://github.com/tachibana-shin/hoyomi) | :and::ios: |
+| **Anime** | [Anime VSub](https://app.animevsub.eu.org/) [:src:](https://github.com/anime-vsub/app) | :and: |

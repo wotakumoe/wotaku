@@ -30,7 +30,7 @@ og:
 | [Kinso](https://xdkinso.github.io/KinsoExtension/) [:src:](https://github.com/xdKinso/KinsoExtension) | :global: | [Install](paperback://addRepo?displayName=Kinso%20Extensions&url=https://xdkinso.github.io/KinsoExtension) | [URL](https://xdkinso.github.io/KinsoExtension/) |
 | [Lucifer](https://read.pirate.vodka/) [:src:](https://github.com/LucifersCircle/pirate.vodka-extensions) | :global: | [Install](paperback://addRepo?displayName=pirate.vodka-extensions&url=https://read.pirate.vodka) | [URL](https://read.pirate.vodka/) |
 | [Nicartjay](https://nicartjay.github.io/PaperbackExt/0.9/stable/) [:src:](https://github.com/Nicartjay/PaperbackExt) | :global: | [Install](paperback://addRepo?displayName=paperbackext&url=https://nicartjay.github.io/PaperbackExt/0.9/stable) | [URL](https://nicartjay.github.io/PaperbackExt/0.9/stable/) |
-| [Nyzz](https://paperback.nyzz.me/) [:src:](https://github.com/nyzzik/extensions) | :global: | [Install](paperback://addRepo?displayName=extensions&url=https://paperback.nyzz.me) | [URL](https://paperback.nyzz.me/) |
+| [Nyzzik](https://paperback.nyzz.me/) [:src:](https://github.com/nyzzik/extensions) | :global: | [Install](paperback://addRepo?displayName=extensions&url=https://paperback.nyzz.me) | [URL](https://paperback.nyzz.me/) |
 | [Sinon](https://catta1997.github.io/Sinon-Paperback-Extensions/0.9/stable/) [:src:](https://github.com/Catta1997/Sinon-Paperback-Extensions) | :global: | [Install](paperback://addRepo?displayName=sinon-extensions&url=https://catta1997.github.io/Sinon-Paperback-Extensions/0.9/stable) | [URL](https://catta1997.github.io/Sinon-Paperback-Extensions/0.9/stable/) |
 
 
