@@ -1,10 +1,11 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
-import { NuVerticalTransition } from '@nolebase/ui'
+import { NuInputHighlight, NuVerticalTransition } from '@nolebase/ui'
 import { useStorage } from '@vueuse/core'
 import { computed, onMounted, onUnmounted, ref } from 'vue'
 
 import { AccentColorStorageKey } from '../../constants'
+import MenuHelp from './MenuHelp.vue'
 import MenuTitle from './MenuTitle.vue'
 
 const { isDark } = useData()
@@ -62,6 +63,8 @@ const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
 
 const open = ref(false)
 const rootRef = ref<HTMLDivElement>()
+const menuTitleElementRef = ref<HTMLDivElement>()
+const isMenuHelpPoppedUp = ref(false)
 
 const selectedOption = computed(
   () => accentOptions.find((o) => o.key === accentColor.value) ?? accentOptions[0]
@@ -88,13 +91,26 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
 
 <template>
   <div ref="rootRef" class="accent-color">
-    <MenuTitle title="Accent Color" aria-label="Accent Color" mb-2>
-      <template #icon>
-        <span i-lucide:swatch-book mr-1 aria-hidden="true" />
-      </template>
-    </MenuTitle>
+    <div ref="menuTitleElementRef" relative flex items-center mb-2>
+      <MenuTitle title="Accent Color" aria-label="Accent Color" flex="1" pr-4>
+        <template #icon>
+          <span i-lucide:swatch-book mr-1 aria-hidden="true" />
+        </template>
+      </MenuTitle>
+      <MenuHelp
+        v-model:is-popped-up="isMenuHelpPoppedUp"
+        :menu-title-element-ref="menuTitleElementRef"
+      >
+        <h4 text-md mb-1 font-semibold>Accent Color</h4>
+        <p text="sm" mb-2 max-w-100>
+          Sets the accent color used for links, buttons, and highlights across
+          the site.
+        </p>
+      </MenuHelp>
+    </div>
 
-    <div class="accent-select" :class="{ 'accent-select--open': open }">
+    <NuInputHighlight :active="isMenuHelpPoppedUp" class="rounded-md">
+      <div class="accent-select" :class="{ 'accent-select--open': open }">
       <button
         type="button"
         class="accent-trigger"
@@ -144,7 +160,8 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
           </button>
         </div>
       </NuVerticalTransition>
-    </div>
+      </div>
+    </NuInputHighlight>
   </div>
 </template>
 
@@ -158,9 +175,10 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
   align-items: center;
   gap: 8px;
   width: 100%;
+  min-height: 44px;
   padding: 7px 10px;
   border-radius: 8px;
-  border: 1px solid var(--vp-c-divider);
+  border: 2px solid var(--vp-c-divider);
   background: var(--wk-c-menu-bg);
   color: var(--vp-c-text-1);
   font-size: 13px;
@@ -192,6 +210,7 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
   margin-top: 6px;
   max-height: 240px;
   overflow-y: auto;
+  overscroll-behavior: contain;
   display: flex;
   flex-direction: column;
   gap: 2px;
@@ -223,6 +242,10 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
 
 .accent-btn--selected {
   background-color: var(--vp-c-brand-soft);
+}
+
+.accent-btn--selected .accent-label {
+  font-weight: 600;
 }
 
 .accent-btn--selected:hover {
