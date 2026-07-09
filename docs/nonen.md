@@ -131,13 +131,13 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Antbyw](https://www.antbyw.com/)
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
-- [Colamanga](https://www.colamanga.com/)
 - [Copymanga](https://www.copy20.com/) :ero: [:alt:](https://www.2025copy.com/)
 - [Komiic](https://komiic.com/) :ero:
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [Rouman](https://rouman5.com/home) :ero:
 - [XManhua](https://xmanhua.com/)
+- [Yoyomanga](https://www.yoyomanga.com/)
 
 ### Novels
 - [23qb](https://www.23qb.net/)
@@ -386,7 +386,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.win/)
+- [Dokiraw](https://dokiraw.biz/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://i.wotaku.wiki/p/proxy#kl-manga)
 - [MangaFire](https://mangafire.to/)
