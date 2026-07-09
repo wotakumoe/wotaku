@@ -579,6 +579,11 @@ export const siteConfig = {
       {},
       `(function(){try{if(localStorage.getItem('preference-effects')!=='on')document.documentElement.classList.add('effects-disabled')}catch(e){document.documentElement.classList.add('effects-disabled')}})()`
     ],
+    [
+      'script',
+      {},
+      `(function(){try{var m={ayanami:'rei',asuka:'asuka',miku:'miku',inanis:'ina',amelia:'ame',baelz:'bae',irys:'irys',suisei:'suisei'};var a=localStorage.getItem('preference-accent-color')||'ayanami';var n;if(a==='fubuki'){var p=localStorage.getItem('vitepress-theme-appearance')||'auto';var d=p==='dark'||(p!=='light'&&window.matchMedia('(prefers-color-scheme: dark)').matches);n=d?'fubuki':'kuro'}else{n=m[a]||'rei'}document.documentElement.style.setProperty('--wk-sidebar-banner','url(/sidebar/'+n+'.avif)')}catch(e){}})()`
+    ],
     ['meta', { name: 'theme-color', content: '#56b4fc' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
