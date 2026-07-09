@@ -13,9 +13,9 @@ const { theme } = useData()
 
 <template>
   <div v-if="mounted" space-y-2 class="VPNolebaseEnhancedReadabilitiesMenu">
-    <Effects />
     <AccentColor />
     <AccentBackground />
+    <Effects />
     <VPSocialLinks
       v-if="theme.socialLinks"
       :links="theme.socialLinks"

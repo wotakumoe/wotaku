@@ -1,20 +1,11 @@
 <script setup lang="ts">
 import { useMounted } from '@vueuse/core'
-import { inject } from 'vue'
 
-import { InjectionKey } from '../../constants'
 import AccentBackground from './AccentBackground.vue'
 import AccentColor from './AccentColor.vue'
 import Effects from './Effects.vue'
-import LayoutSwitch from './LayoutSwitch.vue'
-import LayoutSwitchContentLayoutWidthInput from './LayoutSwitchContentLayoutMaxWidthSlider.vue'
-import LayoutSwitchPageLayoutWidthInput from './LayoutSwitchPageLayoutMaxWidthSlider.vue'
-import Spotlight from './Spotlight.vue'
-import SpotlightStyles from './SpotlightStyles.vue'
-import Pet from './Pet.vue'
 import SettingsFlyout from './SettingsFlyout.vue'
 
-const options = inject(InjectionKey, {})
 const mounted = useMounted()
 </script>
 
@@ -27,15 +18,9 @@ const mounted = useMounted()
       aria-label="Enhanced Readability"
       class="min-w-64 p-2 space-y-2"
     >
-      <LayoutSwitch />
-      <LayoutSwitchPageLayoutWidthInput />
-      <LayoutSwitchContentLayoutWidthInput />
-      <Spotlight v-if="!options.spotlight?.disabled" />
-      <SpotlightStyles v-if="!options.spotlight?.disabled" />
-      <Effects />
       <AccentColor />
       <AccentBackground />
-      <Pet />
+      <Effects />
     </div>
   </SettingsFlyout>
 </template>

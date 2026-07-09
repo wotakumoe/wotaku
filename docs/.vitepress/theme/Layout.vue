@@ -33,7 +33,6 @@ import NotFoundComponent from './components/NotFound.vue'
 import { NolebaseEnhancedReadabilitiesScreenMenu } from './components/settings'
 import NavActions from './components/NavActions.vue'
 import SidebarCard from './components/SidebarCard.vue'
-import PetChaser from './components/PetChaser.vue'
 import { AccentBgStorageKey, AccentBgStrengthStorageKey, AccentColorStorageKey } from './constants'
 import { useEffects } from './composables/useEffects'
 
@@ -1305,7 +1304,6 @@ onUnmounted(() => {
 <template>
   <Layout>
     <template #layout-top>
-      <PetChaser />
       <!-- Home sidebar menu -->
       <template v-if="isHome">
         <Transition name="home-fade">
