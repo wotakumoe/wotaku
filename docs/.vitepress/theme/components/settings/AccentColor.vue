@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
+import { NuVerticalTransition } from '@nolebase/ui'
 import { useStorage } from '@vueuse/core'
+import { computed, onMounted, onUnmounted, ref } from 'vue'
 
 import { AccentColorStorageKey } from '../../constants'
 import MenuTitle from './MenuTitle.vue'
@@ -57,44 +59,147 @@ const accentOptions = [
 ]
 
 const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
+
+const open = ref(false)
+const rootRef = ref<HTMLDivElement>()
+
+const selectedOption = computed(
+  () => accentOptions.find((o) => o.key === accentColor.value) ?? accentOptions[0]
+)
+
+function shadesFor(option: typeof accentOptions[number]) {
+  return 'lightShades' in option && !isDark.value ? option.lightShades! : option.shades
+}
+
+function select(key: string) {
+  accentColor.value = key
+  open.value = false
+}
+
+function onDocClick(e: MouseEvent) {
+  if (rootRef.value && !rootRef.value.contains(e.target as Node)) {
+    open.value = false
+  }
+}
+
+onMounted(() => document.addEventListener('click', onDocClick, true))
+onUnmounted(() => document.removeEventListener('click', onDocClick, true))
 </script>
 
 <template>
-  <div>
+  <div ref="rootRef" class="accent-color">
     <MenuTitle title="Accent Color" aria-label="Accent Color" mb-2>
       <template #icon>
         <span i-lucide:swatch-book mr-1 aria-hidden="true" />
       </template>
     </MenuTitle>
-    <div class="accent-list">
+
+    <div class="accent-select" :class="{ 'accent-select--open': open }">
       <button
-        v-for="option in accentOptions"
-        :key="option.key"
-        class="accent-btn"
-        :class="{ 'accent-btn--selected': accentColor === option.key }"
-        :aria-pressed="accentColor === option.key"
-        :aria-label="option.label"
-        @click="accentColor = option.key"
+        type="button"
+        class="accent-trigger"
+        aria-haspopup="listbox"
+        :aria-expanded="open"
+        :aria-label="`Accent Color: ${selectedOption.label}`"
+        @click="open = !open"
       >
-        <span class="accent-label">{{ option.label }}</span>
+        <span class="accent-label">{{ selectedOption.label }}</span>
         <span class="accent-shades">
           <span
-            v-for="(shade, i) in ('lightShades' in option && !isDark ? option.lightShades : option.shades)"
+            v-for="(shade, i) in shadesFor(selectedOption)"
             :key="i"
             class="accent-shade"
             :style="{ backgroundColor: shade }"
           />
         </span>
+        <span
+          class="accent-chevron i-lucide:chevron-down"
+          :class="{ 'accent-chevron--open': open }"
+          aria-hidden="true"
+        />
       </button>
+
+      <NuVerticalTransition :duration="200">
+        <div v-show="open" class="accent-options" role="listbox">
+          <button
+            v-for="option in accentOptions"
+            :key="option.key"
+            type="button"
+            role="option"
+            class="accent-btn"
+            :class="{ 'accent-btn--selected': accentColor === option.key }"
+            :aria-selected="accentColor === option.key"
+            :aria-label="option.label"
+            @click="select(option.key)"
+          >
+            <span class="accent-label">{{ option.label }}</span>
+            <span class="accent-shades">
+              <span
+                v-for="(shade, i) in shadesFor(option)"
+                :key="i"
+                class="accent-shade"
+                :style="{ backgroundColor: shade }"
+              />
+            </span>
+          </button>
+        </div>
+      </NuVerticalTransition>
     </div>
   </div>
 </template>
 
 <style scoped>
-.accent-list {
+.accent-select {
+  position: relative;
+}
+
+.accent-trigger {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 7px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--wk-c-menu-bg);
+  color: var(--vp-c-text-1);
+  font-size: 13px;
+  cursor: pointer;
+  transition: border-color 0.15s, background-color 0.15s;
+}
+
+.accent-trigger:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.accent-select--open .accent-trigger {
+  border-color: var(--vp-c-brand-1);
+}
+
+.accent-chevron {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  color: var(--vp-c-text-2);
+  transition: transform 0.2s ease;
+}
+
+.accent-chevron--open {
+  transform: rotate(180deg);
+}
+
+.accent-options {
+  margin-top: 6px;
+  max-height: 240px;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   gap: 2px;
+  padding: 4px;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-elv);
+  box-shadow: var(--vp-shadow-2);
 }
 
 .accent-btn {
@@ -141,5 +246,4 @@ const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
   width: 18px;
   height: 100%;
 }
-
 </style>
