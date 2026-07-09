@@ -11,8 +11,8 @@ import LayoutSwitchContentLayoutWidthInput from './LayoutSwitchContentLayoutMaxW
 import LayoutSwitchPageLayoutWidthInput from './LayoutSwitchPageLayoutMaxWidthSlider.vue'
 import Spotlight from './Spotlight.vue'
 import SpotlightStyles from './SpotlightStyles.vue'
+import Pet from './Pet.vue'
 import SettingsFlyout from './SettingsFlyout.vue'
-import Takodachi from './Takodachi.vue'
 
 const options = inject(InjectionKey, {})
 const mounted = useMounted()
@@ -35,7 +35,7 @@ const mounted = useMounted()
       <Effects />
       <AccentColor />
       <AccentBackground />
-      <Takodachi />
+      <Pet />
     </div>
   </SettingsFlyout>
 </template>

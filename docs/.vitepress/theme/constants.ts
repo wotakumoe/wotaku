@@ -27,7 +27,12 @@ export const SpotlightStylesStorageKey =
   'vitepress-nolebase-enhanced-readabilities-spotlight-styles'
 
 export const EffectsStorageKey = 'preference-effects'
+/** Legacy on/off key for the cursor companion; migrated to {@link PetStorageKey}. */
 export const TakodachiStorageKey = 'preference-takodachi'
+/** Whether the cursor pet companion is enabled. */
+export const PetStorageKey = 'preference-pet'
+/** Which pet character follows the cursor (see `pets.ts`). */
+export const PetCharacterStorageKey = 'preference-pet-character'
 export const AccentColorStorageKey = 'preference-accent-color'
 export const AccentBgStorageKey = 'preference-accent-bg'
 /** Accent background tint strength, 0–100. */
