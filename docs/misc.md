@@ -410,7 +410,8 @@ outline: 2
 | ^^ | [/r/anime Awards](https://animeawards.moe/) [:src:](https://github.com/r-anime/awards-web) |
 | ^^ | [The Ultimate Anime Recommendation Flowchart](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/) [:alt:](https://rentry.org/ultimatebackup) |
 | ^^ | [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al: |
-| **Manga** | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al: |
+| **Manga** | [MangaBaka Recommendations](https://mangabaka.org/my/recommendations) :s::acc: |
+| ^^ | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al: |
 | **Visual Novel** | [VNDB](https://vndb.org/v?f=022gja3gja&s=34w) |
 | ^^ | [r/Visualnovels](https://sites.google.com/view/rvisualnovels-recs/home) |
 | ^^ | [r/VN's 2018](https://vnrecs.github.io/) |
