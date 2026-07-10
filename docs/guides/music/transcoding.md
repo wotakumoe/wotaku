@@ -3,7 +3,7 @@ title: Transcoding Audio
 description: Basic guide for transcoding audio file
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/f/guide.png
+    image: /embed/guide.png
 ---
 
 Transcoding means converting/encoding audio files from one format to another. In this guide, we will discuss the basics and procedures of transcoding audio files. For the transcoding, we will use [**foobar2000**](https://www.foobar2000.org/) and [**fre:ac**](https://www.freac.org/), but the process should be similar in other programs also.

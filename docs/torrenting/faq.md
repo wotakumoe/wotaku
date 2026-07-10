@@ -2,7 +2,7 @@
 title: FAQs
 customDescription: Common questions about torrenting
 og:
-    image: https://i.wotaku.wiki/f/tor.png
+    image: /embed/tor.png
 ---
 
 <Collapsible title="What does X term mean?">

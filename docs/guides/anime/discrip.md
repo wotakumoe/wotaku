@@ -2,7 +2,7 @@
 title: Disc Ripping
 customDescription: Guide on how to rip DVD, Blu-ray, and UHD Discs conversions to MKV and ISO formats.
 og:
-    image: https://i.wotaku.wiki/f/guide.png
+    image: /embed/guide.png
 ---
 
 This guide covers the essentials of converting DVDs, BDs, and UHDs into digital formats (MKVs and ISOs.) While setup may be a bit intricate, the workflow becomes straightforward once established.

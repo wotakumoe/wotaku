@@ -2,7 +2,7 @@
 title: JDownloader2 Ad-Removal
 customDescription: Remove banner & Pop-up ads from JDownloader2
 og:
-    image: https://i.wotaku.wiki/f/guide.png
+    image: /embed/guide.png
 ---
 
 JDownloader is a free download manager, but it comes with banner ads and other annoyances. In this guide you will learn how to remove them.

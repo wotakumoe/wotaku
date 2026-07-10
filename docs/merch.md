@@ -4,7 +4,7 @@ description: Everything merch related!
 customDescription: Get information & guides on figurines, plushes, books, CDs, and more.
 outline: 2
 og:
-  image: https://i.wotaku.wiki/f/merch.png
+  image: /embed/merch.png
 ---
 
 <Collapsible title="Delivery Types">

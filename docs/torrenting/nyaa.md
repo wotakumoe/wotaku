@@ -3,7 +3,7 @@ title: nyaa
 customDescription: A tutorial for navigating nyaa
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/f/tor.png
+    image: /embed/tor.png
 ---
 
 

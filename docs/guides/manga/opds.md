@@ -2,7 +2,7 @@
 title: OPDS to your e-ink reader
 customDescription: Guide on how to self-host your library to your Kindle
 og:
-    image: https://i.wotaku.wiki/f/guide.png
+    image: /embed/guide.png
 ---
 
 OPDS (Open Publication Distribution System) is a open standardized distribution system that allows you to deliver books, articles, mangas, etc. Think of it like RSS but for books and articles.

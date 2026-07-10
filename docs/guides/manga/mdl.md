@@ -2,7 +2,7 @@
 title: Downloading manga
 customDescription: Guide on how to download manga in pc.
 og:
-    image: https://i.wotaku.wiki/f/guide.png
+    image: /embed/guide.png
 ---
 
 This guide is for PC (specifically Windows) using [FMD 2](https://github.com/dazedcat19/FMD2/). For Android, Mihon and Mihon forks should be sufficient (save as CBZ). For, iOS.... cope.

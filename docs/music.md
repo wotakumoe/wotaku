@@ -4,7 +4,7 @@ description: Wotaku Music Megathread!
 customDescription: Wotaku Music Megathread! Everything Music-related in one page.
 outline: 2
 og:
-    image: https://i.wotaku.wiki/f/music.png
+    image: /embed/music.png
 ---
 
 ::: info Audio glossary

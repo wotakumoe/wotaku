@@ -4,7 +4,7 @@ description: Software to help you learn japanese
 customDescription: Software to help you learn japanese
 outline: 2
 og:
-    image: https://i.wotaku.wiki/f/jp.png
+    image: /embed/jp.png
 ---
 
 ## Anki

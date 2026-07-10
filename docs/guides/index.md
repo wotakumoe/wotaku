@@ -2,7 +2,7 @@
 title: Guides
 description: Various helpful Tutorials & Guides
 og:
-    image: https://i.wotaku.wiki/f/guide.png
+    image: /embed/guide.png
 ---
 
 <script setup>

@@ -49,7 +49,7 @@ await renderer.loadFonts(fonts)
 
 const resourceCache = new Map<string, ArrayBuffer>()
 const persistentImageByUrl = new Map<string, string>()
-const defaultImage = 'https://i.wotaku.wiki/f/default.png'
+const defaultImage = '/embed/default.png'
 
 export async function generateImages(config: SiteConfig) {
   const pages = await createContentLoader('**/*.md', {
@@ -61,7 +61,7 @@ export async function generateImages(config: SiteConfig) {
 
   const filteredPages = pages.filter((p) => p.frontmatter.image === undefined)
 
-  await loadPersistentImages(filteredPages)
+  await loadPersistentImages(filteredPages, config)
 
   for (const page of filteredPages) {
     await generateImage({
@@ -110,30 +110,41 @@ async function generateImage({
   return await writeFile(outputFile, png)
 }
 
-async function loadPersistentImages(pages: ContentData[]) {
-  const imageUrls = [...new Set(pages.map(getImage))]
-    .filter((url) => /^https?:\/\//.test(url))
-    .filter((url) => !persistentImageByUrl.has(url))
+async function loadPersistentImages(pages: ContentData[], config: SiteConfig) {
+  const imageUrls = [...new Set(pages.map(getImage))].filter(
+    (url) => !persistentImageByUrl.has(url)
+  )
   const offset = persistentImageByUrl.size
 
   await Promise.all(
-    imageUrls.map(async (url, index) => {
+    imageUrls.map(async (image, index) => {
       const src = `og-background-${offset + index}`
-      const response = await fetch(url, {
-        signal: AbortSignal.timeout(5000)
-      })
-
-      if (!response.ok) {
-        throw new Error(
-          `Failed to fetch OpenGraph image ${url}: ${response.status} ${response.statusText}`
-        )
-      }
-
-      const data = await response.arrayBuffer()
+      const data = await loadImageData(image, config)
       await renderer.putPersistentImage({ src, data })
-      persistentImageByUrl.set(url, src)
+      persistentImageByUrl.set(image, src)
     })
   )
+}
+
+async function loadImageData(image: string, config: SiteConfig): Promise<ArrayBuffer> {
+  if (/^https?:\/\//.test(image)) {
+    const response = await fetch(image, {
+      signal: AbortSignal.timeout(5000)
+    })
+
+    if (!response.ok) {
+      throw new Error(
+        `Failed to fetch OpenGraph image ${image}: ${response.status} ${response.statusText}`
+      )
+    }
+
+    return response.arrayBuffer()
+  }
+
+  // Root-relative path into /public, e.g. `/f/default.png`
+  const filePath = resolve(config.srcDir, 'public', image.replace(/^\//, ''))
+  const buffer = await readFile(filePath)
+  return buffer.buffer.slice(buffer.byteOffset, buffer.byteOffset + buffer.byteLength) as ArrayBuffer
 }
 
 function getImage(page: ContentData) {

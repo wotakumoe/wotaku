@@ -3,7 +3,7 @@ title: Trackers
 customDescription: List of public and private trackers
 outline: [2, 3]
 og:
-  image: https://i.wotaku.wiki/f/tor.png
+  image: /embed/tor.png
 ---
 
 ## English

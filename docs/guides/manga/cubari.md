@@ -2,7 +2,7 @@
 title: Cubari guide
 customDescription: Guide on how to proxy comic through Cubari.moe
 og:
-    image: https://i.wotaku.wiki/f/cubari.png
+    image: /embed/cubari.png
 ---
 
 This guide explains how to publish your comic using [**Cubari**](https://cubari.moe/). Cubari does not host any files directly; instead, it reads a JSON file containing image links and other metadata. To host the images, we’ll use [**Image Chest**](https://imgchest.com/), and to generate the JSON file, we’ll use the [**Kaguya script**](https://github.com/wotakumoe/kaguya).
