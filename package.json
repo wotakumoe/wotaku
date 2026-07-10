@@ -80,13 +80,5 @@
     "sass": "^1.93.2",
     "vite-plugin-vue-devtools": "^8.0.2"
   },
-  "pnpm": {
-    "peerDependencyRules": {
-      "ignoreMissing": [
-        "@algolia/client-search",
-        "search-insights"
-      ]
-    }
-  },
-  "packageManager": "pnpm@9.15.0"
+  "packageManager": "pnpm@11.11.0"
 }

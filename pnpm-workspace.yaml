@@ -1,0 +1,11 @@
+allowBuilds:
+  '@parcel/watcher': true
+  dprint: true
+  esbuild: true
+  vue-demi: true
+configDependencies:
+  '@pnpm/pacquet': 0.11.12
+peerDependencyRules:
+  ignoreMissing:
+    - '@algolia/client-search'
+    - search-insights
