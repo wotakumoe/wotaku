@@ -212,7 +212,7 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AnimeKO](https://v3.animeko.ws/) |
+| **Anime** | [AnimeKO](https://v4.animeko.ws/) |
 | ^^ | [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/) + :len: |
 | ^^ | [AnimesUltra](https://ww.animesultra.org/) |
 | ^^ | [Fluneo](https://myfluneo.eu/) |
@@ -460,18 +460,18 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Websites |
 | :--- | :--- |
-| **Comic** | [Fox Comics](https://fxfx330.com/) [:prx:](https://nicelink51.com/) |
+| **Comic** | [Fox Comics](https://fxfx331.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc115.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon2.com/) |
-| ^^ | [Funbe](https://funbe655.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe656.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [MoneyToon](https://mtoon144.asia/) |
 | ^^ | [NameeToon](https://namee102.asia/) |
 | ^^ | [Simpson](https://hdhd510.net/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) |
 | ^^ | [TOONKOR](https://tkor127.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf413.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [WToon](https://wtwt333.com/) [:prx:](https://nicelink51.com/) |
+| ^^ | [Wolf](https://wfwf416.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [WToon](https://wtwt334.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon238.asia/) [:prx:](https://yatoonlink.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
