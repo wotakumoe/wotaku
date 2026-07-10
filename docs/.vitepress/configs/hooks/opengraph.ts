@@ -20,26 +20,8 @@ const __fonts = resolve(__dirname, '../fonts')
 const fonts: Font[] = [
   {
     name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-Regular.otf')),
+    data: await readFile(resolve(__fonts, 'Inter-Variable.ttf')),
     weight: 400,
-    style: 'normal'
-  },
-  {
-    name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-Medium.otf')),
-    weight: 500,
-    style: 'normal'
-  },
-  {
-    name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-SemiBold.otf')),
-    weight: 600,
-    style: 'normal'
-  },
-  {
-    name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-Bold.otf')),
-    weight: 700,
     style: 'normal'
   }
 ]
