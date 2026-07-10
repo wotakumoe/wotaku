@@ -2,7 +2,7 @@
 title: iOS Apps Extension Repos
 customDescription: Extension Repos & Guides for Aidoku, Sora & Suwatte
 og:
-    image: https://i.wotaku.wiki/f/ios.png
+    image: /embed/ios.png
 ---
 # iOS
 

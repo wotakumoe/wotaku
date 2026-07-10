@@ -2,7 +2,7 @@
 title: Anime Glossary
 customDescription: Discover the anime related terms you should know!
 og:
-    image: https://i.wotaku.wiki/f/glossary.png
+    image: /embed/glossary.png
 ---
 
 ## Basic Terms

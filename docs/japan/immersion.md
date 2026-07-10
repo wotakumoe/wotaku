@@ -4,7 +4,7 @@ description: Media to help you learn japanese
 customDescription: Media to help you learn japanese
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/f/jp.png
+    image: /embed/jp.png
 ---
 
 ## Recommendation

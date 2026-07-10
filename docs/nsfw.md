@@ -4,7 +4,7 @@ description: huh... ahem...
 customDescription: Explore a wide range of NSFW websites, manga, manhwa, illustrations, and software.
 outline: 2
 og:
-    image: https://i.wotaku.wiki/f/nsfw.png
+    image: /embed/nsfw.png
 ---
 
 ## Websites

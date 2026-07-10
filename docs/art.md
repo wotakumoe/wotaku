@@ -4,7 +4,7 @@ description: Everything Art
 customDescription: Art-based sites, software, scripts and extensions
 outline: 2
 og:
-    image: https://i.wotaku.wiki/f/art.png
+    image: /embed/art.png
 
 ---
 

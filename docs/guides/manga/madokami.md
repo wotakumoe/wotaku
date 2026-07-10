@@ -3,7 +3,7 @@ title: Madokami Guide
 customDescription: The Joining guide for Madokami through IRC. Also how to download stuff from Madokami.
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/f/mado.png
+    image: /embed/mado.png
 ---
 
 # Madokami Guide

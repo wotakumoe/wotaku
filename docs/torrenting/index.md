@@ -2,7 +2,7 @@
 title: Torrenting
 description: Torrenting Basics & Tutorials
 og:
-    image: https://i.wotaku.wiki/f/tor.png
+    image: /embed/tor.png
 ---
 
 <script setup>

@@ -2,7 +2,7 @@
 title: Glossary
 description: Essential otaku and tech-related terminology
 og:
-    image: https://i.wotaku.wiki/f/glossary.png
+    image: /embed/glossary.png
 ---
 
 <script setup>

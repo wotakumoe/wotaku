@@ -3,7 +3,7 @@ title: Extension Repos for Miscellaneous Software
 customDescription: Miscellaneous Extension Repos & Guides
 outline: 2
 og:
-    image: https://i.wotaku.wiki/f/extension.png
+    image: /embed/extension.png
 ---
 # Miscellaneous
 

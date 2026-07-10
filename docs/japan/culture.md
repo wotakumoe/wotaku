@@ -4,7 +4,7 @@ description: Learn all about Japanese Culture, History & Customs!
 customDescription: Learn all about Japanese Culture, History & Customs!
 outline: 2
 og:
-    image: https://i.wotaku.wiki/f/jp.png
+    image: /embed/jp.png
 ---
 
 ## Culture & History

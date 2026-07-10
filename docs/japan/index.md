@@ -2,7 +2,7 @@
 title: Japan
 description: Everything Japan on one page!
 og:
-    image: https://i.wotaku.wiki/f/jp.png
+    image: /embed/jp.png
 ---
 
 <script setup>

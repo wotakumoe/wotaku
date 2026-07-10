@@ -3,7 +3,7 @@ title: Mangayomi, AnymeX & Dartotsu Extension Repos
 customDescription: Extension Repos & Guides for Mangayomi, AnymeX & Dartotsu.
 outline: [2,3]
 og:
-    image: https://i.wotaku.wiki/f/extension.png
+    image: /embed/extension.png
 ---
 # Mangayomi
 

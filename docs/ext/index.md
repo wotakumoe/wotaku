@@ -2,7 +2,7 @@
 title: Extensions
 description: Extension repos for various apps
 og:
-    image: https://i.wotaku.wiki/f/extension.png
+    image: /embed/extension.png
 ---
 
 <script setup>

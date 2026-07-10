@@ -2,7 +2,7 @@
 title: VTuber
 description: Sui-chan wa~
 og:
-    image: https://i.wotaku.wiki/f/vtuber.png
+    image: /embed/vtuber.png
 
 ---
 

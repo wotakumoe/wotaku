@@ -2,7 +2,7 @@
 title: Ad-blocking & Privacy
 customDescription: Adblocking Solutions for every device & VPN listing
 og:
-    image: https://i.wotaku.wiki/f/guide.png
+    image: /embed/guide.png
 ---
 
 ## Browser
