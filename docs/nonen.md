@@ -710,7 +710,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Novels** | [Hako](https://docln.net/) |
 | ^^ | [Metruyenhot](https://metruyenhotvn.com/) |
 | ^^ | [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) |
-| ^^ | [TruyenFull.io](https://truyenfull.today/) :ero: |
+| ^^ | [TruyenFull](https://truyenfull.live/) :ero: |
 | ^^ | [Xalosach](https://xalosach.com/) |
 | **Others** | [Tana.moe](https://tana.moe/) |
 | ^^ | [TokuVN](https://tokuvn.com/) |
