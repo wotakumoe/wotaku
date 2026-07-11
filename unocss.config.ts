@@ -18,6 +18,7 @@ import {
   transformerDirectives
 } from 'unocss'
 import { aliases } from './docs/.vitepress/configs/markdown/emoji'
+import { LANG_FLAG_FALLBACK, LANG_FLAG_ICONS } from './docs/.vitepress/configs/markdown/langFlags'
 
 const iconPrefixes = [
   'octicon-',
@@ -75,7 +76,16 @@ const safelist = [
   'i-lucide:message-circle',
   'i-lucide:copy',
   'i-lucide:check',
-  'i-lucide:settings'
+  'i-lucide:settings',
+  'i-lucide:download',
+  'i-lucide:chevron-down',
+  'i-lucide:search',
+  'i-lucide:languages',
+  'i-lucide:shield',
+  'i-twemoji-no-one-under-eighteen',
+  ...Array.from(new Set([...Object.values(LANG_FLAG_ICONS), LANG_FLAG_FALLBACK])).map(
+    (icon) => `i-twemoji-${icon}`
+  )
 ]
 
 export default defineConfig({

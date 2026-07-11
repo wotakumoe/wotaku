@@ -18,6 +18,7 @@ import Tooltip from './components/Tooltip.vue'
 import { createMediumZoomProvider } from './composables/medium-zoom'
 import 'virtual:uno.css'
 import Collapsible from './components/Collapsible.vue'
+import { ExtensionRepos } from './components/extrepo'
 import Fb from './components/Fb.vue'
 import Feedback from './components/Feedback.vue'
 import ScrapeTable from './components/ScrapeTable.vue'
@@ -58,6 +59,7 @@ export default {
     app.component('fb', Fb)
     app.component('Collapsible', Collapsible)
     app.component('ScrapeTable', ScrapeTable)
+    app.component('ExtensionRepos', ExtensionRepos)
     createMediumZoomProvider(app, router)
     app.use(
       NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),

@@ -24,6 +24,7 @@ import {
 import { getTooltip } from '../../utils/tooltips'
 import { headersPlugin } from '../markdown/headers'
 import { emojiRender } from './emoji'
+import { extRepoPlugin } from './extRepoPlugin'
 import { nestedContainersPlugin } from './nestedContainers'
 import { scrapeTablePlugin } from './scrapeTablePlugin'
 import markdownSteps from './steps'
@@ -50,6 +51,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   renderInlineTooltip(md)
   md.use(markdownSteps)
   md.use(scrapeTablePlugin)
+  md.use(extRepoPlugin)
   renderHighlight(md)
 }
 
