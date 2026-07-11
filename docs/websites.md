@@ -92,6 +92,7 @@ outline: 2
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
 | ^^ | [urajp](https://urajp.se/) |
+| **Dubtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) |
 
 <collapsible title="Fan projects">
 
