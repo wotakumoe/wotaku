@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import { data as repoData } from '../../../../ext/extensionRepos.data'
+import { stripHtml } from './helpers'
 import { copyValue, installHref } from './install'
 import SiteGrid from './SiteGrid.vue'
 import type { Repo } from './types'
@@ -14,7 +15,7 @@ const open = ref(false)
 const copied = ref(false)
 
 const sites = computed(() => repoData[props.repo.indexUrl]?.sites ?? [])
-const isExpandable = computed(() => sites.value.length > 1)
+const isExpandable = computed(() => stripHtml(props.repo.name) !== 'MegaRepo')
 
 async function copyUrl() {
   await navigator.clipboard.writeText(copyValue(props.scheme, props.repo.indexUrl))
