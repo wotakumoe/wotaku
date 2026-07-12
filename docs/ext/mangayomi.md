@@ -1,58 +1,61 @@
 ---
-title: Mangayomi, AnymeX & Dartotsu Extension Repos
-customDescription: Extension Repos & Guides for Mangayomi, AnymeX & Dartotsu.
+title: Mangayomi Extension Repos
+customDescription: Extension Repos & Guides for Mangayomi.
 outline: [2,3]
 og:
     image: /embed/extension.png
 ---
 # Mangayomi
 
-[**Mangayomi**](https://github.com/kodjodevf/mangayomi) extensions are supported by [**AnymeX**](https://anymex.vercel.app/) and [**Dartotsu**](https://github.com/aayush2622/Dartotsu).
-
-::: info Mihon extensions
-Mangayomi and some of its forks support Mihon extensions which you can get from [here](/ext/mihon). To use them, you have to install apkbridge first from extension page.
-:::
-
 ## Repositories
 
-::: tabs
+::: extrepo {scheme=mangayomi}
 
-== All-in-One
+== m2k3a
+- url: https://github.com/m2k3a/mangayomi-extensions
+- manga: https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/refs/heads/main/index.json
+- anime: https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/refs/heads/main/anime_index.json
+- novel: https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/refs/heads/main/novel_index.json
 
-| Name | Region | Auto | Anime | Manga | Novel |
-|------|--------|------|-------|-------|-------|
-| [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&manga_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/index.json&anime_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/anime_index.json&novel_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json) | :yes: | :yes: | :yes: |
-| [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?repo_name=kegareta-sauces&repo_url=https://github.com/gato404/kegareta-sauces&manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json&anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | :yes: | :yes: | :no: |
-
-
-== Anime
-
-| Name | Region | Auto | Manual |
-|------|--------|------|--------|
-| [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&anime_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/anime_index.json) |
-| [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?anime_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json) |
+== Swakshan
+- url: https://github.com/Swakshan/mangayomi-swak-extensions
+- manga: https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/index.json
+- anime: https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/anime_index.json
+- novel: https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json
 
 
-== Manga
+== Mallyd11
+- url: https://github.com/Mallyd11/mangayomi-anime-extensions
+- manga: https://raw.githubusercontent.com/Mallyd11/mangayomi-anime-extensions/main/index.json
+- anime: https://raw.githubusercontent.com/Mallyd11/mangayomi-anime-extensions/main/anime_index.json
+- novel: https://raw.githubusercontent.com/Mallyd11/mangayomi-anime-extensions/main/novel_index.json
 
-| Name | Region | Auto | Manual |
-|------|--------|------|--------|
-| [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&manga_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/index.json) |
-| [Gato404](https://github.com/gato404/kegareta-sauces) | :ero: | [Install](mangayomi://add-repo?manga_url=https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) | [URL](https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json) |
+== tympanicblock61
+- url: https://github.com/tympanicblock61/mangayomi-extensions
+- manga: https://raw.githubusercontent.com/tympanicblock61/mangayomi-extensions/main/index.json
+- anime: https://raw.githubusercontent.com/tympanicblock61/mangayomi-extensions/main/anime_index.json
+- novel: https://raw.githubusercontent.com/tympanicblock61/mangayomi-extensions/main/novel_index.json
 
 
-== Novels
+== 9vsv6
+- url: https://github.com/9vsv6/mangayomi-ar-extensions
+- manga: https://raw.githubusercontent.com/9vsv6/mangayomi-ar-extensions/refs/heads/main/manga_index.json
+- anime: https://raw.githubusercontent.com/9vsv6/mangayomi-ar-extensions/refs/heads/main/anime_index.json
+- novel: https://raw.githubusercontent.com/9vsv6/mangayomi-ar-extensions/refs/heads/main/novel_index.json
 
-| Name | Region | Auto | Manual |
-|------|--------|------|--------|
-| [Swakshan](https://github.com/Swakshan/mangayomi-swak-extensions) | :global: | [Install](mangayomi://add-repo?repo_name=Mangayomi%20Swak%20Extensions&repo_url=https://github.com/Swakshan/mangayomi-swak-extensions&novel_url=https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json) | [URL](https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/novel_index.json) |
-
+== Gato404
+- url: https://github.com/gato404/kegareta-sauces
+- manga: https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json
+- anime: https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/anime_index.json
 :::
+
 
 
 ## How-to
 
-### Auto Install
+::: tabs
+
+== Auto Install
 
 :::steps
 1. Click on **Install** button in the Auto column
@@ -63,34 +66,11 @@ Mangayomi and some of its forks support Mihon extensions which you can get from 
     ![](/ss/open.png)
 :::
 
-### Manual Install
+== Manual Install
 
-::: tabs
-
-== Mangayomi
-
-:::steps
-1. Copy the **Manual URL**
+1. Copy the **URL**
 2. Go to Mangayomi app
 3. Click :mdi-dots-horizontal:**More** -> :mdi-compass: **Browse** -> **Manga / Anime / Novel extensions repo** -> :mdi-plus: **Add**
 4. Paste the URL and click **Add**
-:::
-
-== AnymeX
-:::steps
-1. Copy the **Manual URL**
-2. Go to AnymeX app
-3. Click Profile picture /:material-symbols-person-rounded: -> :mdi-puzzle: **Extensions** -> Click :src:
-4. Paste the URL based on repo type and click **Confirm**
-:::
-
-== Dartotsu
-
-:::steps
-1. Copy the **Manual URL**
-2. Go to Dartotsu app
-3. Click :material-symbols-settings: -> :mdi-puzzle: **Extensions** -> **Available Anime / Manga / Novel** -> Click :src:
-4. Paste the URL and click **OK**
-:::
 
 :::

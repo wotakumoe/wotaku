@@ -18,7 +18,7 @@ og:
     Mihon & Aniyomi-based repos
   </Card>
   <Card title="Mangayomi" href="/ext/mangayomi">
-    Mangayomi-based repos
+    Mangayomi repos
   </Card>
   <Card title="iOS" href="/ext/ios">
     iOS anime and manga repos
