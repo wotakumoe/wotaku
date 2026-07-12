@@ -2,25 +2,61 @@
 import { computed, ref } from 'vue'
 import { data as repoData } from '../../../../ext/extensionRepos.data'
 import { stripHtml } from './helpers'
-import { copyValue, installHref } from './install'
+import { copyValue, installHref, isBrowseOnly, mangayomiCopyValue, mangayomiHref, mangayomiLiveContainerHref } from './install'
 import SiteGrid from './SiteGrid.vue'
-import type { Repo } from './types'
+import type { Repo, RepoVariant } from './types'
 
 const props = defineProps<{
   repo: Repo
   scheme: string
 }>()
 
+const NOT_EXPANDABLE = new Set(['MegaRepo', 'Shotetsu Compatability'])
+
 const open = ref(false)
 const copied = ref(false)
+const copiedLabel = ref<string | null>(null)
+const openVariants = ref<Set<string>>(new Set())
 
 const sites = computed(() => repoData[props.repo.indexUrl]?.sites ?? [])
-const isExpandable = computed(() => stripHtml(props.repo.name) !== 'MegaRepo')
+const isExpandable = computed(() => !NOT_EXPANDABLE.has(stripHtml(props.repo.name)))
+const installUrl = computed(() => installHref(props.scheme, props.repo))
+// Browse-only schemes (e.g. Kotatsu forks) have no app to deep-link into, so install,
+// copy, and livecontainer actions are hidden everywhere in this component.
+const showActions = computed(() => !isBrowseOnly(props.scheme))
+
+// First variant is the combined "All-in-One" one (when 2+ types exist), shown directly
+// on the repo header; remaining variants list below as their own collapsible sub-rows.
+// Browse-only groups have no such combined header since the builds share nothing to
+// combine, so every variant renders as a sub-row instead.
+const headerVariant = computed(() => showActions.value ? props.repo.variants?.[0] : undefined)
+const subVariants = computed(() => {
+  if (!props.repo.variants?.length) return []
+  return showActions.value && props.repo.variants.length > 1 ? props.repo.variants.slice(1) : props.repo.variants
+})
 
 async function copyUrl() {
   await navigator.clipboard.writeText(copyValue(props.scheme, props.repo.indexUrl))
   copied.value = true
   setTimeout(() => { copied.value = false }, 1500)
+}
+
+async function copyVariantUrl(variant: RepoVariant) {
+  const value = mangayomiCopyValue(variant)
+  if (!value) return
+  await navigator.clipboard.writeText(value)
+  copiedLabel.value = variant.label
+  setTimeout(() => { if (copiedLabel.value === variant.label) copiedLabel.value = null }, 1500)
+}
+
+function toggleVariant(label: string) {
+  if (openVariants.value.has(label)) openVariants.value.delete(label)
+  else openVariants.value.add(label)
+}
+
+function variantSites(variant: RepoVariant) {
+  const url = mangayomiCopyValue(variant)
+  return url ? repoData[url]?.sites ?? [] : []
 }
 </script>
 
@@ -39,15 +75,43 @@ async function copyUrl() {
         </VTooltip>
       </div>
       <div class="ext-repo-actions">
-        <a class="ext-btn ext-btn-install" :href="installHref(scheme, repo)">
-          <span class="i-lucide:download" />
-          Install
-        </a>
-        <button class="ext-btn ext-btn-copy" type="button" @click="copyUrl">
-          <span v-if="copied" class="i-lucide:check" />
-          <span v-else class="i-lucide:copy" />
-        </button>
+        <template v-if="headerVariant">
+          <a class="ext-btn ext-btn-install" :href="mangayomiHref(repo, headerVariant)">
+            <span class="i-lucide:download" />
+            Install
+          </a>
+          <a class="ext-btn ext-btn-livecontainer" :href="mangayomiLiveContainerHref(repo, headerVariant)" title="Install via LiveContainer (iOS)">
+            <span class="i-mdi:apple" />
+          </a>
+          <button
+            v-if="mangayomiCopyValue(headerVariant)"
+            class="ext-btn ext-btn-copy"
+            type="button"
+            @click="copyVariantUrl(headerVariant)"
+          >
+            <span v-if="copiedLabel === headerVariant.label" class="i-lucide:check" />
+            <span v-else class="i-lucide:copy" />
+          </button>
+          <!-- Invisible spacers so the header's action group lines up with the sub-rows' -->
+          <button v-if="!mangayomiCopyValue(headerVariant)" class="ext-btn ext-btn-copy ext-btn-spacer" tabindex="-1" aria-hidden="true">
+            <span class="i-lucide:copy" />
+          </button>
+          <button class="ext-btn ext-btn-toggle ext-btn-spacer" tabindex="-1" aria-hidden="true">
+            <span class="i-lucide:chevron-down" />
+          </button>
+        </template>
+        <template v-else-if="showActions">
+          <a v-if="installUrl" class="ext-btn ext-btn-install" :href="installUrl">
+            <span class="i-lucide:download" />
+            Install
+          </a>
+          <button class="ext-btn ext-btn-copy" type="button" @click="copyUrl">
+            <span v-if="copied" class="i-lucide:check" />
+            <span v-else class="i-lucide:copy" />
+          </button>
+        </template>
         <button
+          v-if="!repo.variants"
           class="ext-btn ext-btn-toggle"
           type="button"
           :class="{ open, 'ext-btn-toggle-hidden': !isExpandable }"
@@ -61,7 +125,46 @@ async function copyUrl() {
       </div>
     </div>
 
-    <SiteGrid v-if="isExpandable && open" :sites="sites" empty-text="No site data available." />
+    <div v-if="subVariants.length" class="ext-repo-variants">
+      <div v-for="variant in subVariants" :key="variant.label" class="ext-repo-variant">
+        <div class="ext-repo-variant-row">
+          <span class="ext-repo-variant-label">{{ variant.label }}</span>
+          <div class="ext-repo-actions">
+            <template v-if="showActions">
+              <a class="ext-btn ext-btn-install" :href="mangayomiHref(repo, variant)">
+                <span class="i-lucide:download" />
+                Install
+              </a>
+              <a class="ext-btn ext-btn-livecontainer" :href="mangayomiLiveContainerHref(repo, variant)" title="Install via LiveContainer (iOS)">
+                <span class="i-mdi:apple" />
+              </a>
+              <button
+                v-if="mangayomiCopyValue(variant)"
+                class="ext-btn ext-btn-copy"
+                type="button"
+                @click="copyVariantUrl(variant)"
+              >
+                <span v-if="copiedLabel === variant.label" class="i-lucide:check" />
+                <span v-else class="i-lucide:copy" />
+              </button>
+            </template>
+            <button
+              class="ext-btn ext-btn-toggle"
+              type="button"
+              :class="{ open: openVariants.has(variant.label) }"
+              :aria-expanded="openVariants.has(variant.label)"
+              @click="toggleVariant(variant.label)"
+            >
+              <span class="i-lucide:chevron-down" />
+            </button>
+          </div>
+        </div>
+
+        <SiteGrid v-if="openVariants.has(variant.label)" :sites="variantSites(variant)" empty-text="No site data available." />
+      </div>
+    </div>
+
+    <SiteGrid v-if="!repo.variants && isExpandable && open" :sites="sites" empty-text="No site data available." />
   </div>
 </template>
 
@@ -164,7 +267,8 @@ async function copyUrl() {
   border-color: var(--vp-button-brand-hover-border);
 }
 
-.ext-btn-copy {
+.ext-btn-copy,
+.ext-btn-livecontainer {
   padding: 5px 8px;
 }
 
@@ -192,5 +296,29 @@ async function copyUrl() {
 .ext-btn-toggle-hidden {
   visibility: hidden;
   pointer-events: none;
+}
+
+.ext-btn-spacer {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.ext-repo-variants {
+  display: flex;
+  flex-direction: column;
+}
+
+.ext-repo-variant-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 14px 8px 28px;
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.ext-repo-variant-label {
+  font-size: 13px;
+  color: var(--vp-c-text-2);
 }
 </style>

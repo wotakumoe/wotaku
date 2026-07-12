@@ -2,6 +2,7 @@
 import { computed, ref } from 'vue'
 import { data as repoData } from '../../../../ext/extensionRepos.data'
 import { langLabel, stripHtml } from './helpers'
+import { mangayomiCopyValue } from './install'
 import RepoRow from './RepoRow.vue'
 import SettingsMenu from './SettingsMenu.vue'
 import SiteGrid from './SiteGrid.vue'
@@ -15,18 +16,37 @@ const props = defineProps<{
 const query = ref('')
 const langFilter = ref('')
 const ratingFilter = ref<RatingFilter>('all')
+const excludedContentTypes = ref<Set<string>>(new Set())
 
 const allSites = computed<MatchedSite[]>(() => {
-  const repoNames = new Map(props.repos.map(repo => [repo.indexUrl, stripHtml(repo.name)]))
   const sites: MatchedSite[] = []
   for (const repo of props.repos) {
+    if (repo.variants?.length) {
+      for (const variant of repo.variants) {
+        const url = mangayomiCopyValue(variant)
+        if (!url) continue
+        for (const site of repoData[url]?.sites ?? []) {
+          sites.push({ ...site, repoName: variant.label })
+        }
+      }
+      continue
+    }
+    const repoName = stripHtml(repo.name)
     for (const site of repoData[repo.indexUrl]?.sites ?? []) {
-      sites.push({ ...site, repoName: repoNames.get(repo.indexUrl) ?? '' })
+      sites.push({ ...site, repoName })
     }
   }
   return sites
 })
 
+const availableContentTypes = computed(() => {
+  const types = new Set<string>()
+  for (const site of allSites.value) if (site.contentType) types.add(site.contentType)
+  return [...types].sort()
+})
+const hasContentTypes = computed(() => availableContentTypes.value.length > 0)
+
+const hasRatings = computed(() => allSites.value.some(site => site.rating !== 'safe'))
 const hasSuggestive = computed(() => allSites.value.some(site => site.rating === 'suggestive'))
 const hasMultiLanguage = computed(() => allSites.value.some(site => site.lang.toLowerCase() === 'all'))
 
@@ -37,7 +57,7 @@ const availableLangs = computed(() => {
 })
 
 const isFiltering = computed(() => {
-  return query.value.trim() !== '' || langFilter.value !== '' || ratingFilter.value !== 'all'
+  return query.value.trim() !== '' || langFilter.value !== '' || ratingFilter.value !== 'all' || excludedContentTypes.value.size > 0
 })
 
 const filteredSites = computed(() => {
@@ -46,6 +66,7 @@ const filteredSites = computed(() => {
     if (q && !site.name.toLowerCase().includes(q)) return false
     if (langFilter.value && site.lang !== langFilter.value) return false
     if (ratingFilter.value !== 'all' && site.rating !== ratingFilter.value) return false
+    if (site.contentType && excludedContentTypes.value.has(site.contentType)) return false
     return true
   })
 })
@@ -61,9 +82,13 @@ const filteredSites = computed(() => {
       <SettingsMenu
         v-model:lang-filter="langFilter"
         v-model:rating-filter="ratingFilter"
+        v-model:content-type-filter="excludedContentTypes"
         :available-langs="availableLangs"
         :has-multi-language="hasMultiLanguage"
+        :has-ratings="hasRatings"
         :has-suggestive="hasSuggestive"
+        :available-content-types="availableContentTypes"
+        :has-content-types="hasContentTypes"
       />
     </div>
 

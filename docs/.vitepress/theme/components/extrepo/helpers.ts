@@ -29,3 +29,7 @@ export function ratingIcon(rating: Rating): string {
 export function ratingTitle(rating: Rating): string {
   return rating === 'nsfw' ? 'NSFW' : 'Mature'
 }
+
+export function contentTypeLabel(type: string): string {
+  return type.toLowerCase().split('_').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')
+}

@@ -16,20 +16,24 @@ defineProps<{
     :target="site.url ? '_blank' : undefined"
     :rel="site.url ? 'noopener noreferrer' : undefined"
   >
-    <img class="ext-site-icon" :src="site.icon" :alt="site.name" loading="lazy" />
-    <span class="ext-site-name">
+    <div class="ext-site-row">
+      <img v-if="site.icon" class="ext-site-icon" :src="site.icon" :alt="site.name" loading="lazy" />
+      <span v-else class="ext-site-icon ext-site-icon-fallback i-lucide:globe" />
       <span class="ext-site-name-text">{{ site.name }}</span>
-      <span v-if="site.repoName" class="ext-site-repo">{{ site.repoName }}</span>
-    </span>
-    <span v-if="site.rating !== 'safe'" class="ext-site-nsfw" :class="ratingIcon(site.rating)" :title="ratingTitle(site.rating)" />
-    <span class="ext-site-lang" :class="langFlagClass(site.lang)" :title="site.lang" />
+      <span v-if="site.rating !== 'safe'" class="ext-site-nsfw" :class="ratingIcon(site.rating)" :title="ratingTitle(site.rating)" />
+      <span class="ext-site-lang" :class="langFlagClass(site.lang)" :title="site.lang" />
+    </div>
+    <span v-if="site.repoName" class="ext-site-repo">{{ site.repoName }}</span>
   </component>
 </template>
 
 <style scoped>
 .ext-site-repo {
   display: block;
+  padding-left: 24px;
   font-size: 10.5px;
+  font-weight: 400;
+  line-height: 1.1;
   color: var(--vp-c-text-2);
   white-space: nowrap;
   overflow: hidden;
@@ -38,8 +42,8 @@ defineProps<{
 
 .ext-site-cell {
   display: flex;
-  align-items: center;
-  gap: 6px;
+  flex-direction: column;
+  gap: 0;
   padding: 6px 8px;
   border-radius: 6px;
   border: 1px solid var(--vp-c-divider);
@@ -48,6 +52,13 @@ defineProps<{
   color: var(--vp-c-text-1) !important;
   text-decoration: none !important;
   transition: border-color 0.2s, background-color 0.2s;
+}
+
+.ext-site-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
 }
 
 .ext-site-cell:hover {
@@ -72,15 +83,19 @@ defineProps<{
   object-fit: contain;
 }
 
-.ext-site-name {
+.ext-site-icon-fallback {
   display: flex;
-  flex-direction: column;
-  flex: 1;
-  min-width: 0;
+  align-items: center;
+  justify-content: center;
+  color: var(--vp-c-text-3);
 }
 
 .ext-site-name-text {
+  flex: 1;
+  min-width: 0;
   font-size: 12.5px;
+  font-weight: 600;
+  line-height: 1.2;
   color: var(--vp-c-text-1);
   white-space: nowrap;
   overflow: hidden;

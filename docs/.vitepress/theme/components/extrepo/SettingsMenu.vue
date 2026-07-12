@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { nextTick, onMounted, onUnmounted, ref } from 'vue'
+import ContentTypeFilter from './ContentTypeFilter.vue'
 import LangSelect from './LangSelect.vue'
 import RatingFilter from './RatingFilter.vue'
 import type { RatingFilter as RatingFilterValue } from './types'
@@ -9,12 +10,17 @@ defineProps<{
   ratingFilter: RatingFilterValue
   availableLangs: string[]
   hasMultiLanguage: boolean
+  hasRatings: boolean
   hasSuggestive: boolean
+  contentTypeFilter: Set<string>
+  availableContentTypes: string[]
+  hasContentTypes: boolean
 }>()
 
 defineEmits<{
   'update:langFilter': [value: string]
   'update:ratingFilter': [value: RatingFilterValue]
+  'update:contentTypeFilter': [value: Set<string>]
 }>()
 
 const rootRef = ref<HTMLElement>()
@@ -88,7 +94,7 @@ onUnmounted(() => {
         v-show="open"
         ref="menuRef"
         class="ext-settings-menu"
-        :class="{ 'ext-settings-menu--wide': hasSuggestive }"
+        :class="{ 'ext-settings-menu--wide': hasSuggestive || hasContentTypes }"
         :style="menuStyle"
       >
         <LangSelect
@@ -98,9 +104,16 @@ onUnmounted(() => {
           @update:model-value="$emit('update:langFilter', $event)"
         />
         <RatingFilter
+          v-if="hasRatings"
           :model-value="ratingFilter"
           :has-suggestive="hasSuggestive"
           @update:model-value="$emit('update:ratingFilter', $event)"
+        />
+        <ContentTypeFilter
+          v-if="hasContentTypes"
+          :model-value="contentTypeFilter"
+          :available-types="availableContentTypes"
+          @update:model-value="$emit('update:contentTypeFilter', $event)"
         />
       </div>
     </Teleport>

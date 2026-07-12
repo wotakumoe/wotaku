@@ -12,6 +12,7 @@ export interface RepoSite {
   icon: string
   url: string
   rating: Rating
+  contentType?: string
 }
 
 export interface RepoData {
@@ -73,6 +74,55 @@ interface CloudstreamPlugin {
   language?: string
 }
 
+interface HayaseExtension {
+  name: string
+  icon?: string
+  languages?: string[]
+}
+
+interface LegadoBookSource {
+  bookSourceName: string
+  bookSourceUrl: string
+  bookSourceGroup?: string
+}
+
+interface LNReaderPlugin {
+  name: string
+  lang: string
+  url: string
+  iconUrl?: string
+}
+
+interface MangayomiSource {
+  name: string
+  lang: string
+  baseUrl: string
+  iconUrl?: string
+  isNsfw?: boolean
+}
+
+interface IReaderSource {
+  pkg: string
+  apk: string
+  name: string
+  lang: string
+  nsfw?: boolean
+}
+
+// For kotatsu
+interface KotatsuSite {
+  name: string
+  lang: string
+  url: string
+  icon: string
+  contentType: string
+  isBroken: boolean
+}
+
+interface KotatsuIndex {
+  sites: KotatsuSite[]
+}
+
 const EXT_DIR = dirname(fileURLToPath(import.meta.url))
 const DOCS_DIR = join(EXT_DIR, '..')
 const CACHE_DIR = join(EXT_DIR, '../.vitepress/cache/extension-repos')
@@ -93,7 +143,7 @@ function findMarkdownFiles(dir: string): string[] {
 function collectIndexUrls(): string[] {
   const urls = new Set<string>()
   const blockRe = /:::\s*extrepo[^\n]*\n([\s\S]*?)\n\s*:::/g
-  const rowRe = /^\s*-\s*raw\s*:\s*(https?:\/\/\S+)\s*$/gim
+  const rowRe = /^\s*-\s*(?:raw|manga|anime|novel)\s*:\s*(https?:\/\/\S+)\s*$/gim
 
   for (const file of findMarkdownFiles(DOCS_DIR)) {
     const src = readFileSync(file, 'utf-8')
@@ -139,10 +189,41 @@ function ratingFromLevel(level: number): Rating {
   return 'safe'
 }
 
-const LANG_ALIASES: Record<string, string> = { jp: 'ja', english: 'en' }
+const LANG_ALIASES: Record<string, string> = {
+  jp: 'ja',
+  english: 'en',
+  'bahasa indonesia': 'id',
+  español: 'es',
+  français: 'fr',
+  polski: 'pl',
+  português: 'pt',
+  'tiếng việt': 'vi',
+  türkçe: 'tr',
+  русский: 'ru',
+  українська: 'uk',
+  ไทย: 'th',
+  العربية: 'ar',
+  chinese: 'zh',
+  japanese: 'ja',
+  korean: 'ko'
+}
+
+const LANG_SUBSTRING_ALIASES: [RegExp, string][] = [
+  [/中文|汉语|漢語/, 'zh'],
+  [/日本語/, 'ja'],
+  [/한국어|조선말/, 'ko']
+]
 
 function normalizeLang(lang: string): string {
-  const key = LANG_ALIASES[lang.toLowerCase()] ?? lang.toLowerCase()
+  // Strip bidi control marks (e.g. U+200E/U+200F) some indices prepend to lang names.
+  const cleaned = lang.replace(/[‎‏]/g, '').trim()
+  if (cleaned === '') return 'all'
+  const exact = LANG_ALIASES[cleaned.toLowerCase()]
+  if (exact) return exact
+  for (const [re, code] of LANG_SUBSTRING_ALIASES) {
+    if (re.test(cleaned)) return code
+  }
+  const key = cleaned.toLowerCase()
   return key === 'multi' ? 'all' : key
 }
 
@@ -186,9 +267,7 @@ function toRepoDataAidoku(iconBase: string, index: AidokuIndex): RepoSite[] {
 function toRepoDataPaperback(iconBase: string, index: PaperbackIndex): RepoSite[] {
   const seen = new Set<string>()
   const sites: RepoSite[] = []
-  // Legacy 0.8.x toolchain builds serve icons under `<id>/includes/`; the
-  // 1.0.0-alpha toolchain (used by both 0.9 and some relabeled 0.8 repos)
-  // serves them under `<id>/static/`.
+  // Legacy 0.8.x toolchain builds serve icons under `<id>/includes/`
   const iconDir = index.builtWith?.toolchain?.startsWith('0.8') ? 'includes' : 'static'
 
   for (const source of index.sources ?? []) {
@@ -242,17 +321,129 @@ function toRepoDataAidokuLegacy(iconBase: string, sources: AidokuLegacySource[])
   return sites
 }
 
+function toRepoDataHayase(extensions: HayaseExtension[]): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const ext of extensions) {
+    const langs = ext.languages?.length ? ext.languages : ['all']
+    for (const rawLang of langs) {
+      const lang = normalizeLang(rawLang)
+      const key = `${ext.name}::${lang}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      sites.push({ name: ext.name, lang, icon: ext.icon ?? '', url: '', rating: 'safe' })
+    }
+  }
+
+  return sites
+}
+
+function toRepoDataLegado(sources: LegadoBookSource[]): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const source of sources) {
+    const lang = normalizeLang(source.bookSourceGroup ?? 'all')
+    const key = `${source.bookSourceName}::${lang}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    sites.push({ name: source.bookSourceName, lang, icon: '', url: source.bookSourceUrl, rating: 'safe' })
+  }
+
+  return sites
+}
+
+function toRepoDataMangayomi(sources: MangayomiSource[]): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const source of sources) {
+    const lang = normalizeLang(source.lang)
+    const key = `${source.name}::${lang}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    sites.push({ name: source.name, lang, icon: source.iconUrl ?? '', url: source.baseUrl, rating: source.isNsfw ? 'nsfw' : 'safe' })
+  }
+
+  return sites
+}
+
+function toRepoDataIReader(sources: IReaderSource[]): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const source of sources) {
+    const lang = normalizeLang(source.lang)
+    const key = `${source.name}::${lang}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    // No confirmed icon path convention in this repo's format — omit rather than guess wrong.
+    sites.push({ name: source.name, lang, icon: '', url: '', rating: source.nsfw ? 'nsfw' : 'safe' })
+  }
+
+  return sites
+}
+
+function toRepoDataKotatsu(index: KotatsuIndex): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const site of index.sites) {
+    // Broken parsers aren't "available" sites -- skip rather than surface a dead link.
+    if (site.isBroken) continue
+    const lang = normalizeLang(site.lang)
+    const key = `${site.name}::${lang}::${site.url}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    const rating: Rating = site.contentType.includes('HENTAI') ? 'nsfw' : 'safe'
+    sites.push({ name: site.name, lang, icon: site.icon, url: site.url, rating, contentType: site.contentType })
+  }
+
+  return sites
+}
+
+function toRepoDataLNReader(plugins: LNReaderPlugin[]): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const plugin of plugins) {
+    const lang = normalizeLang(plugin.lang)
+    const key = `${plugin.name}::${lang}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    sites.push({ name: plugin.name, lang, icon: plugin.iconUrl ?? '', url: plugin.url, rating: 'safe' })
+  }
+
+  return sites
+}
+
 async function toRepoData(indexUrl: string, json: unknown): Promise<RepoData> {
   const iconBase = indexUrl.slice(0, indexUrl.lastIndexOf('/'))
   let sites: RepoSite[]
   if (Array.isArray(json)) {
-    sites = json.length > 0 && 'sources' in json[0]
-      ? toRepoDataMihon(iconBase, json as MihonExtension[])
-      : toRepoDataAidokuLegacy(iconBase, json as AidokuLegacySource[])
+    const first = json[0] as Record<string, unknown> | undefined
+    if (first && 'bookSourceUrl' in first) {
+      sites = toRepoDataLegado(json as LegadoBookSource[])
+    } else if (first && 'manifestVersion' in first) {
+      sites = toRepoDataHayase(json as HayaseExtension[])
+    } else if (first && 'iconUrl' in first && 'site' in first) {
+      sites = toRepoDataLNReader(json as LNReaderPlugin[])
+    } else if (first && 'sources' in first) {
+      sites = toRepoDataMihon(iconBase, json as MihonExtension[])
+    } else if (first && 'pkg' in first && 'apk' in first) {
+      sites = toRepoDataIReader(json as IReaderSource[])
+    } else if (first && 'iconUrl' in first && 'baseUrl' in first) {
+      sites = toRepoDataMangayomi(json as MangayomiSource[])
+    } else {
+      sites = toRepoDataAidokuLegacy(iconBase, json as AidokuLegacySource[])
+    }
   } else if (Array.isArray((json as CloudstreamRepo).pluginLists)) {
     sites = await toRepoDataCloudstream(json as CloudstreamRepo)
   } else if ((json as AidokuIndex).sources?.length && 'iconURL' in (json as AidokuIndex).sources[0]) {
     sites = toRepoDataAidoku(iconBase, json as AidokuIndex)
+  } else if (Array.isArray((json as KotatsuIndex).sites)) {
+    sites = toRepoDataKotatsu(json as KotatsuIndex)
   } else {
     sites = toRepoDataPaperback(iconBase, json as PaperbackIndex)
   }
