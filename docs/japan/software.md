@@ -75,7 +75,7 @@ og:
 | ^^ | [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) |
 | ^^ | [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) |
 | ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/jpn-proper-nouns-deck) |
-| ^^ | [Tango N5 omega deck](https://i.wotaku.wiki/p/redirect#japansoftware) ||Beginner|| |
+| ^^ | [Tango N5 Omega Deck](https://i.wotaku.wiki/p/redirect#japansoftware) ||Beginner|| |
 
 :::
 
@@ -168,7 +168,7 @@ og:
 == Browser
 - [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:src:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
 - :prev: [Yomitan Dictionaries](https://github.com/MarvNC/yomitan-dictionaries/)
-- :prev: [Collection of Yomitan dictionaries (japanese)](https://i.wotaku.wiki/p/redirect#japansoftware)
+- :prev: [Collection of Yomitan Dictionaries (JP)](https://i.wotaku.wiki/p/redirect#japansoftware)
 - :prev: [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
 - :prev: [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::sfr:<tooltip>Pop-up dictionary</tooltip>
