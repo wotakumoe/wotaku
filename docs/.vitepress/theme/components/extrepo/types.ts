@@ -25,6 +25,7 @@ export interface RepoSite {
   rating: Rating
   // Only for kotatsu
   contentType?: string
+  isBroken?: boolean
 }
 
 export interface MatchedSite extends RepoSite {

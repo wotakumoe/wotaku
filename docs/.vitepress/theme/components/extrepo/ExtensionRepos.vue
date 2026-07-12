@@ -17,6 +17,7 @@ const query = ref('')
 const langFilter = ref('')
 const ratingFilter = ref<RatingFilter>('all')
 const excludedContentTypes = ref<Set<string>>(new Set())
+const showBroken = ref(false)
 
 const allSites = computed<MatchedSite[]>(() => {
   const sites: MatchedSite[] = []
@@ -52,6 +53,7 @@ const hasContentTypes = computed(() => availableContentTypes.value.length > 0)
 const hasRatings = computed(() => allSites.value.some(site => site.rating !== 'safe'))
 const hasSuggestive = computed(() => allSites.value.some(site => site.rating === 'suggestive'))
 const hasMultiLanguage = computed(() => allSites.value.some(site => site.lang.toLowerCase() === 'all'))
+const hasBroken = computed(() => allSites.value.some(site => site.isBroken))
 
 const availableLangs = computed(() => {
   const codes = new Set(allSites.value.map(site => site.lang))
@@ -66,6 +68,7 @@ const isFiltering = computed(() => {
 const filteredSites = computed(() => {
   const q = query.value.trim().toLowerCase()
   return allSites.value.filter(site => {
+    if (site.isBroken && !showBroken.value) return false
     if (q && !site.name.toLowerCase().includes(q) && !site.url.toLowerCase().includes(q)) return false
     if (langFilter.value && site.lang !== langFilter.value) return false
     if (ratingFilter.value !== 'all' && site.rating !== ratingFilter.value) return false
@@ -86,12 +89,14 @@ const filteredSites = computed(() => {
         v-model:lang-filter="langFilter"
         v-model:rating-filter="ratingFilter"
         v-model:content-type-filter="excludedContentTypes"
+        v-model:show-broken="showBroken"
         :available-langs="availableLangs"
         :has-multi-language="hasMultiLanguage"
         :has-ratings="hasRatings"
         :has-suggestive="hasSuggestive"
         :available-content-types="availableContentTypes"
         :has-content-types="hasContentTypes"
+        :has-broken="hasBroken"
       />
     </div>
 
@@ -103,7 +108,7 @@ const filteredSites = computed(() => {
     />
 
     <div v-else>
-      <RepoRow v-for="repo in repos" :key="repo.indexUrl" :repo="repo" :scheme="scheme" />
+      <RepoRow v-for="repo in repos" :key="repo.indexUrl" :repo="repo" :scheme="scheme" :show-broken="showBroken" />
     </div>
   </div>
 </template>
