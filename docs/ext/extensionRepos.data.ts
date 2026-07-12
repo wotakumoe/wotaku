@@ -13,6 +13,7 @@ export interface RepoSite {
   url: string
   rating: Rating
   contentType?: string
+  isBroken?: boolean
 }
 
 export interface RepoData {
@@ -390,14 +391,12 @@ function toRepoDataKotatsu(index: KotatsuIndex): RepoSite[] {
   const sites: RepoSite[] = []
 
   for (const site of index.sites) {
-    // Broken parsers aren't "available" sites -- skip rather than surface a dead link.
-    if (site.isBroken) continue
     const lang = normalizeLang(site.lang)
     const key = `${site.name}::${lang}::${site.url}`
     if (seen.has(key)) continue
     seen.add(key)
     const rating: Rating = site.contentType.includes('HENTAI') ? 'nsfw' : 'safe'
-    sites.push({ name: site.name, lang, icon: site.icon, url: site.url, rating, contentType: site.contentType })
+    sites.push({ name: site.name, lang, icon: site.icon, url: site.url, rating, contentType: site.contentType, isBroken: site.isBroken || undefined })
   }
 
   return sites

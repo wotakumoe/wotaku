@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { nextTick, onMounted, onUnmounted, ref } from 'vue'
+import BrokenFilter from './BrokenFilter.vue'
 import ContentTypeFilter from './ContentTypeFilter.vue'
 import LangSelect from './LangSelect.vue'
 import RatingFilter from './RatingFilter.vue'
@@ -15,12 +16,15 @@ defineProps<{
   contentTypeFilter: Set<string>
   availableContentTypes: string[]
   hasContentTypes: boolean
+  showBroken: boolean
+  hasBroken: boolean
 }>()
 
 defineEmits<{
   'update:langFilter': [value: string]
   'update:ratingFilter': [value: RatingFilterValue]
   'update:contentTypeFilter': [value: Set<string>]
+  'update:showBroken': [value: boolean]
 }>()
 
 const rootRef = ref<HTMLElement>()
@@ -114,6 +118,11 @@ onUnmounted(() => {
           :model-value="contentTypeFilter"
           :available-types="availableContentTypes"
           @update:model-value="$emit('update:contentTypeFilter', $event)"
+        />
+        <BrokenFilter
+          v-if="hasBroken"
+          :model-value="showBroken"
+          @update:model-value="$emit('update:showBroken', $event)"
         />
       </div>
     </Teleport>

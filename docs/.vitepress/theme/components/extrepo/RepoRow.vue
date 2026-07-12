@@ -9,6 +9,7 @@ import type { Repo, RepoVariant } from './types'
 const props = defineProps<{
   repo: Repo
   scheme: string
+  showBroken?: boolean
 }>()
 
 const NOT_EXPANDABLE = new Set(['MegaRepo', 'Shotetsu Compatability'])
@@ -18,7 +19,10 @@ const copied = ref(false)
 const copiedLabel = ref<string | null>(null)
 const openVariants = ref<Set<string>>(new Set())
 
-const sites = computed(() => repoData[props.repo.indexUrl]?.sites ?? [])
+const sites = computed(() => {
+  const all = repoData[props.repo.indexUrl]?.sites ?? []
+  return props.showBroken ? all : all.filter(site => !site.isBroken)
+})
 const isExpandable = computed(() => !NOT_EXPANDABLE.has(stripHtml(props.repo.name)))
 const installUrl = computed(() => installHref(props.scheme, props.repo))
 // Browse-only schemes (e.g. Kotatsu forks) have no app to deep-link into, so install,
@@ -56,7 +60,8 @@ function toggleVariant(label: string) {
 
 function variantSites(variant: RepoVariant) {
   const url = mangayomiCopyValue(variant)
-  return url ? repoData[url]?.sites ?? [] : []
+  const all = url ? repoData[url]?.sites ?? [] : []
+  return props.showBroken ? all : all.filter(site => !site.isBroken)
 }
 </script>
 
