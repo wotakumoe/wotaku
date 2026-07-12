@@ -74,7 +74,7 @@ Due to DMCA takedown notices, [Tachiyomi](https://github.com/tachiyomiorg) (now 
 
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
-- **Manual:** Copy the **URL** (from the manual column) and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension repos**.
+- **Manual:** Copy the **URL** and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension repos**.
 ___
 #### Adding Extension
 
@@ -91,7 +91,7 @@ ___
 
 #### Adding Repo
 - **Auto:** Click on **Install** and the repo will be sideloaded automatically.
-- **Manual:** Copy the **URL** (from the manual column) and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :e:Extensions -> Add Anime/Manga Repo**.
+- **Manual:** Copy the **URL** and put it in: **Profile avatar (top right) -> :mdi-cog:Settings -> :e:Extensions -> Add Anime/Manga Repo**.
 
 ::: tip for torrent extensions
 To activate torrent features, navigate to **Profile avatar (top right) -> :mdi-cog:Settings -> :mdi-silverware-fork-knife:Add-ons**. Then download and install the **:mag:Torrent Add-on**. Afterwards, switch on **:mdi-server:Enable Torrent**.

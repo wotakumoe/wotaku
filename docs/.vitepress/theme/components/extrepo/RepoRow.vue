@@ -78,7 +78,7 @@ function variantSites(variant: RepoVariant) {
         <template v-if="headerVariant">
           <a class="ext-btn ext-btn-install" :href="mangayomiHref(repo, headerVariant)">
             <span class="i-lucide:download" />
-            Install
+            <span class="ext-btn-install-label">Install</span>
           </a>
           <a class="ext-btn ext-btn-livecontainer" :href="mangayomiLiveContainerHref(repo, headerVariant)" title="Install via LiveContainer (iOS)">
             <span class="i-mdi:apple" />
@@ -103,7 +103,7 @@ function variantSites(variant: RepoVariant) {
         <template v-else-if="showActions">
           <a v-if="installUrl" class="ext-btn ext-btn-install" :href="installUrl">
             <span class="i-lucide:download" />
-            Install
+            <span class="ext-btn-install-label">Install</span>
           </a>
           <button class="ext-btn ext-btn-copy" type="button" @click="copyUrl">
             <span v-if="copied" class="i-lucide:check" />
@@ -133,7 +133,7 @@ function variantSites(variant: RepoVariant) {
             <template v-if="showActions">
               <a class="ext-btn ext-btn-install" :href="mangayomiHref(repo, variant)">
                 <span class="i-lucide:download" />
-                Install
+                <span class="ext-btn-install-label">Install</span>
               </a>
               <a class="ext-btn ext-btn-livecontainer" :href="mangayomiLiveContainerHref(repo, variant)" title="Install via LiveContainer (iOS)">
                 <span class="i-mdi:apple" />
@@ -320,5 +320,15 @@ function variantSites(variant: RepoVariant) {
 .ext-repo-variant-label {
   font-size: 13px;
   color: var(--vp-c-text-2);
+}
+
+@media (max-width: 767px) {
+  .ext-btn-install {
+    padding: 5px 8px;
+  }
+
+  .ext-btn-install-label {
+    display: none;
+  }
 }
 </style>

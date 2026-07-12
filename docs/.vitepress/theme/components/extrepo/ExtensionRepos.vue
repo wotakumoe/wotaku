@@ -22,11 +22,14 @@ const allSites = computed<MatchedSite[]>(() => {
   const sites: MatchedSite[] = []
   for (const repo of props.repos) {
     if (repo.variants?.length) {
+      // search fix for variations of setup. (mangayomi and kotatsu)
+      const sameRepoName = repo.repoName ? stripHtml(repo.name) : undefined
       for (const variant of repo.variants) {
         const url = mangayomiCopyValue(variant)
         if (!url) continue
+        const repoName = sameRepoName ?? variant.label
         for (const site of repoData[url]?.sites ?? []) {
-          sites.push({ ...site, repoName: variant.label })
+          sites.push({ ...site, repoName })
         }
       }
       continue
@@ -63,7 +66,7 @@ const isFiltering = computed(() => {
 const filteredSites = computed(() => {
   const q = query.value.trim().toLowerCase()
   return allSites.value.filter(site => {
-    if (q && !site.name.toLowerCase().includes(q)) return false
+    if (q && !site.name.toLowerCase().includes(q) && !site.url.toLowerCase().includes(q)) return false
     if (langFilter.value && site.lang !== langFilter.value) return false
     if (ratingFilter.value !== 'all' && site.rating !== ratingFilter.value) return false
     if (site.contentType && excludedContentTypes.value.has(site.contentType)) return false
