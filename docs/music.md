@@ -538,7 +538,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [FL Studio](https://www.image-line.com/) :cs: | :win::app: |
 | ^^ | [Studio One](https://www.fender.com/products/fender-studio-pro) :cs: | :win: |
 | Related Links | [SynthV.info](https://synthv.info/) | :no: |
-| ^^ | [CeVIO Voice Database Installer Archive](https://i.wotaku.wiki/p/redirect#music) | :no: |
 | ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
 
 <collapsible title="Introduction / Guide">
