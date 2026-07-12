@@ -213,6 +213,7 @@ Some of the series may not be available depending on your region.
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [MangaK](https://mangak.io/home) | 24k | :no: | :ss: | :sp::ls: | :cmnt: |
 | [MangaTaro](https://mangataro.org/home) | 10k | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
+| [MangaFire](https://mangafire.to/)  ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 80k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
 
