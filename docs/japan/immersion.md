@@ -67,7 +67,7 @@ og:
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) :ded:
 - [JPTV.club Subtitle Archive](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded:
 - [itazuraneko](https://djtguide.github.io/library/sub)
-- [Xavier's Retimed JP Sub Pack](https://i.wotaku.wiki/p/redirect#japanimmersion) :mag::ded:
+- [Xavier's Retimed JP Sub Pack](https://nyaa.si/user/XavierSylfaen) :mag::ddl::ded:
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) :ded:
 - [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
