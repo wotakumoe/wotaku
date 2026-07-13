@@ -128,7 +128,7 @@ You can install v0.8 extensions in the v0.9 Paperback client, but you can't inst
 ::: extrepo {scheme=sora}
 
 == Cufiy's Library
-- url: https://library.cufiy.net/
+- url: https://library.cufiy.net/library/
 - raw: https://library.cufiy.net/api/modules.min.json
 
 :::
