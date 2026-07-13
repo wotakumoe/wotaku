@@ -1,11 +1,41 @@
 <script setup lang="ts">
+import { computed, ref } from 'vue'
 import SiteCell from './SiteCell.vue'
+import SiteGroupCell from './SiteGroupCell.vue'
 import type { RepoSite } from './types'
 
-defineProps<{
+const props = defineProps<{
   sites: (RepoSite & { repoName?: string })[]
   emptyText: string
 }>()
+
+interface SiteGroup {
+  key: string
+  sites: (RepoSite & { repoName?: string })[]
+}
+
+const groups = computed<SiteGroup[]>(() => {
+  const map = new Map<string, SiteGroup>()
+  for (const site of props.sites) {
+    const key = `${site.repoName ?? ''}-${site.name}`
+    let group = map.get(key)
+    if (!group) {
+      group = { key, sites: [] }
+      map.set(key, group)
+    }
+    group.sites.push(site)
+  }
+  return [...map.values()]
+})
+
+const openGroups = ref<Set<string>>(new Set())
+
+function toggleGroup(key: string) {
+  const next = new Set(openGroups.value)
+  if (next.has(key)) next.delete(key)
+  else next.add(key)
+  openGroups.value = next
+}
 </script>
 
 <template>
@@ -13,7 +43,19 @@ defineProps<{
     <div v-if="sites.length === 0" class="ext-site-empty">
       {{ emptyText }}
     </div>
-    <SiteCell v-for="site in sites" :key="`${site.repoName ?? ''}-${site.name}-${site.lang}`" :site="site" />
+    <template v-for="group in groups" :key="group.key">
+      <SiteCell v-if="group.sites.length === 1" :site="group.sites[0]" />
+      <template v-else>
+        <SiteGroupCell
+          :sites="group.sites"
+          :open="openGroups.has(group.key)"
+          @toggle="toggleGroup(group.key)"
+        />
+        <template v-if="openGroups.has(group.key)">
+          <SiteCell v-for="site in group.sites" :key="`${group.key}-${site.lang}`" :site="site" />
+        </template>
+      </template>
+    </template>
   </div>
 </template>
 
