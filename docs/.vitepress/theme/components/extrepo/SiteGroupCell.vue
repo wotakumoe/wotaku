@@ -29,7 +29,7 @@ const highestRated = computed(() => props.sites.find(site => site.rating === 'ns
     <div class="ext-site-row">
       <img v-if="primary.icon" class="ext-site-icon" :src="primary.icon" :alt="primary.name" loading="lazy" />
       <span v-else class="ext-site-icon ext-site-icon-fallback i-lucide:globe" />
-      <span class="ext-site-name-text">{{ primary.name }}</span>
+      <span class="ext-site-name-text" :title="primary.name">{{ primary.name }}</span>
       <span
         v-if="highestRated"
         class="ext-site-nsfw"

@@ -19,7 +19,7 @@ defineProps<{
     <div class="ext-site-row">
       <img v-if="site.icon" class="ext-site-icon" :src="site.icon" :alt="site.name" loading="lazy" />
       <span v-else class="ext-site-icon ext-site-icon-fallback i-lucide:globe" />
-      <span class="ext-site-name-text">{{ site.name }}</span>
+      <span class="ext-site-name-text" :title="site.name">{{ site.name }}</span>
       <span v-if="site.rating !== 'safe'" class="ext-site-nsfw" :class="ratingIcon(site.rating)" :title="ratingTitle(site.rating)" />
       <span class="ext-site-lang" :class="langFlagClass(site.lang)" :title="site.lang" />
     </div>
