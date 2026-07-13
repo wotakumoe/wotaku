@@ -16,6 +16,18 @@ defineEmits<{
 const primary = computed(() => props.sites[0])
 const highestRated = computed(() => props.sites.find(site => site.rating === 'nsfw')
   ?? props.sites.find(site => site.rating === 'suggestive'))
+
+const groupName = computed(() => {
+  const wordLists = props.sites.map(site => site.name.trim().split(/\s+/))
+  const minLen = Math.min(...wordLists.map(words => words.length))
+  const common: string[] = []
+  for (let i = 0; i < minLen; i++) {
+    const word = wordLists[0][i]
+    if (wordLists.every(words => words[i] === word)) common.push(word)
+    else break
+  }
+  return common.length > 0 ? common.join(' ') : primary.value.name
+})
 </script>
 
 <template>
@@ -24,12 +36,12 @@ const highestRated = computed(() => props.sites.find(site => site.rating === 'ns
     class="ext-site-cell ext-site-group"
     :class="{ 'ext-site-group-active': open }"
     :aria-expanded="open"
-    :aria-label="`${primary.name}, ${sites.length} languages`"
+    :aria-label="`${groupName}, ${sites.length} languages`"
     @click="$emit('toggle')"
   >
     <div class="ext-site-row">
       <LazyIcon class="ext-site-icon" :src="primary.icon" :alt="primary.name" />
-      <span class="ext-site-name-text" :title="primary.name">{{ primary.name }}</span>
+      <span class="ext-site-name-text" :title="groupName">{{ groupName }}</span>
       <span
         v-if="highestRated"
         class="ext-site-nsfw"
