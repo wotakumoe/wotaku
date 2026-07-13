@@ -141,21 +141,32 @@ onUnmounted(() => {
   width: 30px;
   height: 30px;
   padding: 0;
-  border-radius: 8px;
-  border: 1px solid transparent;
-  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  background: transparent;
   color: var(--vp-c-text-1);
+  opacity: 0.55;
   cursor: pointer;
-  transition: border-color 0.15s, color 0.15s;
+  transition: opacity 0.25s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.ext-settings-btn:hover {
-  border-color: var(--vp-c-brand-1);
-  color: var(--vp-c-brand-1);
+.ext-settings-btn:hover,
+.ext-settings-btn[aria-expanded="true"] {
+  color: var(--vp-c-text-1);
+  opacity: 1;
+  background: transparent;
+}
+
+.ext-settings-btn:active {
+  transform: scale(0.94);
 }
 
 .ext-settings-btn span {
   font-size: 15px;
+}
+
+html.effects-disabled .ext-settings-btn {
+  transition: none;
 }
 
 .ext-settings-menu {
