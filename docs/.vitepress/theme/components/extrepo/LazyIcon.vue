@@ -9,6 +9,7 @@ const props = defineProps<{
 
 const rootRef = ref<HTMLElement>()
 const loaded = ref(false)
+const failed = ref(false)
 let observer: IntersectionObserver | undefined
 
 onMounted(() => {
@@ -20,8 +21,12 @@ onMounted(() => {
     observer?.disconnect()
     scheduleIconLoad(() => new Promise<void>((resolve) => {
       const img = new Image()
-      img.onload = img.onerror = () => {
+      img.onload = () => {
         loaded.value = true
+        resolve()
+      }
+      img.onerror = () => {
+        failed.value = true
         resolve()
       }
       img.src = props.src!
@@ -35,5 +40,10 @@ onBeforeUnmount(() => observer?.disconnect())
 
 <template>
   <img v-if="loaded" ref="rootRef" :src="src" :alt="alt" />
-  <span v-else ref="rootRef" class="ext-site-icon-fallback" :class="{ 'i-lucide:globe': !src, 'ext-site-icon-loading': src }" />
+  <span
+    v-else
+    ref="rootRef"
+    class="ext-site-icon-fallback"
+    :class="{ 'i-lucide:globe': !src || failed, 'ext-site-icon-loading': src && !failed }"
+  />
 </template>

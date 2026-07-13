@@ -9,25 +9,37 @@ defineProps<{
 </script>
 
 <template>
-  <component
-    :is="site.url ? 'a' : 'div'"
-    class="ext-site-cell"
-    :class="{ 'ext-site-cell-static': !site.url }"
-    :href="site.url || undefined"
-    :target="site.url ? '_blank' : undefined"
-    :rel="site.url ? 'noopener noreferrer' : undefined"
-  >
-    <div class="ext-site-row">
-      <LazyIcon class="ext-site-icon" :src="site.icon" :alt="site.name" />
-      <span class="ext-site-name-text" :title="site.name">{{ site.name }}</span>
-      <span v-if="site.rating !== 'safe'" class="ext-site-nsfw" :class="ratingIcon(site.rating)" :title="ratingTitle(site.rating)" />
-      <span class="ext-site-lang" :class="langFlagClass(site.lang)" :title="site.lang" />
-    </div>
-    <span v-if="site.repoName" class="ext-site-repo">{{ site.repoName }}</span>
-  </component>
+  <div class="ext-site-cell-wrap">
+    <component
+      :is="site.url ? 'a' : 'div'"
+      class="ext-site-cell"
+      :class="{ 'ext-site-cell-static': !site.url }"
+      :href="site.url || undefined"
+      :target="site.url ? '_blank' : undefined"
+      :rel="site.url ? 'noopener noreferrer' : undefined"
+    >
+      <div class="ext-site-row">
+        <LazyIcon class="ext-site-icon" :src="site.icon" :alt="site.name" />
+        <span class="ext-site-name-text" :title="site.name">{{ site.name }}</span>
+        <span v-if="site.rating !== 'safe'" class="ext-site-nsfw" :class="ratingIcon(site.rating)" :title="ratingTitle(site.rating)" />
+        <span class="ext-site-lang" :class="langFlagClass(site.lang)" :title="site.lang" />
+      </div>
+      <span v-if="site.repoName" class="ext-site-repo">{{ site.repoName }}</span>
+    </component>
+    <a v-if="site.installUrl" class="ext-site-install-btn" :href="site.installUrl" :title="`Install ${site.name}`">
+      <span class="i-lucide:download" />
+    </a>
+  </div>
 </template>
 
 <style scoped>
+.ext-site-cell-wrap {
+  display: flex;
+  align-items: stretch;
+  gap: 4px;
+  min-width: 0;
+}
+
 .ext-site-repo {
   display: block;
   padding-left: 24px;
@@ -41,6 +53,7 @@ defineProps<{
 }
 
 .ext-site-cell {
+  flex: 1;
   display: flex;
   flex-direction: column;
   gap: 0;
@@ -110,5 +123,28 @@ defineProps<{
 .ext-site-lang {
   flex-shrink: 0;
   font-size: 12px;
+}
+
+.ext-site-install-btn {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  border-radius: 8px;
+  border: 1px solid var(--vp-button-brand-border);
+  background-color: var(--vp-button-brand-bg);
+  color: var(--vp-button-brand-text) !important;
+  text-decoration: none !important;
+  transition: filter 0.2s, border-color 0.2s;
+}
+
+.ext-site-install-btn:hover {
+  filter: brightness(1.08);
+  border-color: var(--vp-button-brand-hover-border);
+}
+
+.ext-site-install-btn span {
+  font-size: 15px;
 }
 </style>

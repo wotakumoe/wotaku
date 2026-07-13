@@ -125,10 +125,13 @@ You can install v0.8 extensions in the v0.9 Paperback client, but you can't inst
 
 ## Sora
 
-| Name | Region |
-| - | - |
-| [Module Library](https://library.cufiy.net/library/) | :global: |
-| [Ibra](https://git.luna-app.eu/ibro/services) | :global: |
+::: extrepo {scheme=sora}
+
+== Cufiy's Library
+- url: https://library.cufiy.net/
+- raw: https://library.cufiy.net/api/modules.min.json
+
+:::
 
 ## Suwatte
 

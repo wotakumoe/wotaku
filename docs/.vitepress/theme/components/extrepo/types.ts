@@ -6,6 +6,7 @@ export interface RepoVariant {
   mangaUrl?: string
   animeUrl?: string
   novelUrl?: string
+  labelUrl?: string
 }
 
 export interface Repo {
@@ -23,9 +24,9 @@ export interface RepoSite {
   icon: string
   url: string
   rating: Rating
-  // Only for kotatsu
   contentType?: string
   isBroken?: boolean
+  installUrl?: string
 }
 
 export interface MatchedSite extends RepoSite {

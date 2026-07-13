@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
-import { data as repoData } from '../../../../ext/extensionRepos.data'
+import { data } from '../../../../ext/extensionRepos.data'
 import { langLabel, stripHtml } from './helpers'
 import { mangayomiCopyValue } from './install'
 import RepoRow from './RepoRow.vue'
@@ -8,10 +8,21 @@ import SettingsMenu from './SettingsMenu.vue'
 import SiteGrid from './SiteGrid.vue'
 import type { MatchedSite, RatingFilter, Repo } from './types'
 
+const repoData = data.sites
+const soraGroups = data.soraGroups
+
 const props = defineProps<{
   repos: Repo[]
   scheme: string
 }>()
+
+const resolvedRepos = computed<Repo[]>(() => {
+  return props.repos.map(repo => {
+    const groups = soraGroups[repo.indexUrl]
+    if (!groups?.length) return repo
+    return { ...repo, variants: groups.map(g => ({ label: g.label, mangaUrl: g.indexUrl, labelUrl: g.repoUrl })) }
+  })
+})
 
 const query = ref('')
 const langFilter = ref('')
@@ -21,7 +32,7 @@ const showBroken = ref(false)
 
 const allSites = computed<MatchedSite[]>(() => {
   const sites: MatchedSite[] = []
-  for (const repo of props.repos) {
+  for (const repo of resolvedRepos.value) {
     if (repo.variants?.length) {
       // search fix for variations of setup. (mangayomi and kotatsu)
       const sameRepoName = repo.repoName ? stripHtml(repo.name) : undefined
@@ -108,7 +119,7 @@ const filteredSites = computed(() => {
     />
 
     <div v-else>
-      <RepoRow v-for="repo in repos" :key="repo.indexUrl" :repo="repo" :scheme="scheme" :show-broken="showBroken" />
+      <RepoRow v-for="repo in resolvedRepos" :key="repo.indexUrl" :repo="repo" :scheme="scheme" :show-broken="showBroken" />
     </div>
   </div>
 </template>

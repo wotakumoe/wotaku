@@ -11,23 +11,24 @@ const INSTALL_URL_BUILDERS: Record<string, (repo: Repo) => string> = {
   cloudstreamrepo: repo => `cloudstreamrepo://${repo.indexUrl.replace(/^https?:\/\//, '')}`,
   hayase: repo => `hayase://extensions/install?url=${repo.indexUrl}`,
   legado: repo => `legado://import/bookSource?src=${repo.indexUrl}`,
-  lnreader: repo => `lnreader://repo/add?url=${repo.indexUrl}`
+  lnreader: repo => `lnreader://repo/add?url=${repo.indexUrl}`,
+  sora: repo => `sora://default_page?url=${new URL(repo.indexUrl).origin}/library/?embed=true`
 }
 
 // Apps with no deep-link install scheme;
 const MANUAL_ONLY_SCHEMES = new Set(['manual'])
 
 // Schemes with no install or copy action
-const BROWSE_ONLY_SCHEMES = new Set(['kotatsu'])
+const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora'])
 
 export function isBrowseOnly(scheme: string): boolean {
   return BROWSE_ONLY_SCHEMES.has(scheme)
 }
 
 export function installHref(scheme: string, repo: Repo): string | null {
-  if (MANUAL_ONLY_SCHEMES.has(scheme) || BROWSE_ONLY_SCHEMES.has(scheme)) return null
   const build = INSTALL_URL_BUILDERS[scheme]
   if (build) return build(repo)
+  if (MANUAL_ONLY_SCHEMES.has(scheme) || BROWSE_ONLY_SCHEMES.has(scheme)) return null
   return `${scheme}://add-repo?url=${repo.indexUrl}`
 }
 
