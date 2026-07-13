@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { ratingIcon, ratingTitle } from './helpers'
+import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
 
 const props = defineProps<{
@@ -27,8 +28,7 @@ const highestRated = computed(() => props.sites.find(site => site.rating === 'ns
     @click="$emit('toggle')"
   >
     <div class="ext-site-row">
-      <img v-if="primary.icon" class="ext-site-icon" :src="primary.icon" :alt="primary.name" loading="lazy" />
-      <span v-else class="ext-site-icon ext-site-icon-fallback i-lucide:globe" />
+      <LazyIcon class="ext-site-icon" :src="primary.icon" :alt="primary.name" />
       <span class="ext-site-name-text" :title="primary.name">{{ primary.name }}</span>
       <span
         v-if="highestRated"
@@ -90,6 +90,10 @@ const highestRated = computed(() => props.sites.find(site => site.rating === 'ns
   align-items: center;
   justify-content: center;
   color: var(--vp-c-text-3);
+}
+
+.ext-site-icon-loading {
+  background-color: var(--vp-c-bg-mute, var(--vp-c-bg-soft));
 }
 
 .ext-site-name-text {
