@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { NuInputHighlight, NuVerticalTransition } from '@nolebase/ui'
 import { computed, onMounted, onUnmounted, ref } from 'vue'
-import MenuTitle from './MenuTitle.vue'
+import MenuHelp from '../settings/MenuHelp.vue'
+import MenuTitle from '../settings/MenuTitle.vue'
 import type { RatingFilter } from './types'
 
 const props = defineProps<{
@@ -30,6 +31,8 @@ const options = computed(() => {
 
 const rootRef = ref<HTMLElement>()
 const open = ref(false)
+const menuTitleElementRef = ref<HTMLDivElement>()
+const isMenuHelpPoppedUp = ref(false)
 
 const currentLabel = computed(() => options.value.find(o => o.value === props.modelValue)?.label ?? 'All')
 
@@ -48,8 +51,39 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
 
 <template>
   <div ref="rootRef" class="ext-rating-select" :class="{ 'ext-rating-select--open': open }">
-    <MenuTitle icon="i-lucide:shield" title="Rating" />
-    <NuInputHighlight class="rounded-md">
+    <div ref="menuTitleElementRef" relative flex items-center mb-2>
+      <MenuTitle title="Rating" aria-label="Rating" flex="1" pr-4>
+        <template #icon>
+          <span i-lucide:shield mr-1 aria-hidden="true" />
+        </template>
+      </MenuTitle>
+      <MenuHelp
+        v-model:is-popped-up="isMenuHelpPoppedUp"
+        :menu-title-element-ref="menuTitleElementRef"
+      >
+        <h4 text-md mb-1 font-semibold>Rating</h4>
+        <p text="sm" mb-2>Choose the highest content rating to include.</p>
+        <div class="rating-help-options">
+          <div class="rating-help-option">
+            <strong>All</strong>
+            <span>Shows entries at every rating level</span>
+          </div>
+          <div class="rating-help-option">
+            <strong>Safe</strong>
+            <span>Only entries with no mature content</span>
+          </div>
+          <div v-if="hasSuggestive" class="rating-help-option">
+            <strong>Mature</strong>
+            <span>Includes suggestive content</span>
+          </div>
+          <div class="rating-help-option">
+            <strong>{{ hasSuggestive ? 'Adult' : 'NSFW' }}</strong>
+            <span>Includes explicit adult content</span>
+          </div>
+        </div>
+      </MenuHelp>
+    </div>
+    <NuInputHighlight :active="isMenuHelpPoppedUp" class="rounded-md">
       <button
         type="button"
         class="ext-rating-trigger"
@@ -82,6 +116,33 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
 </template>
 
 <style scoped>
+.rating-help-options {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.rating-help-option {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: var(--wk-c-menu-bg);
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+
+.rating-help-option strong {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.rating-help-option span {
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.4;
+}
+
 .ext-rating-select {
   position: relative;
 }

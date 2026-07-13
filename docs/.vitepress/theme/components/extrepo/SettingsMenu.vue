@@ -97,7 +97,7 @@ onUnmounted(() => {
       <div
         v-show="open"
         ref="menuRef"
-        class="ext-settings-menu"
+        class="ext-settings-menu VPMenu"
         :class="{ 'ext-settings-menu--wide': hasSuggestive || hasContentTypes }"
         :style="menuStyle"
       >

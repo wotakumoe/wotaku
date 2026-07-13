@@ -2,7 +2,8 @@
 import { NuInputHighlight, NuVerticalTransition } from '@nolebase/ui'
 import { onMounted, onUnmounted, ref } from 'vue'
 import { langFlagClass, langLabel } from './helpers'
-import MenuTitle from './MenuTitle.vue'
+import MenuHelp from '../settings/MenuHelp.vue'
+import MenuTitle from '../settings/MenuTitle.vue'
 
 defineProps<{
   modelValue: string
@@ -16,6 +17,8 @@ const emit = defineEmits<{
 
 const rootRef = ref<HTMLElement>()
 const open = ref(false)
+const menuTitleElementRef = ref<HTMLDivElement>()
+const isMenuHelpPoppedUp = ref(false)
 
 function select(lang: string) {
   emit('update:modelValue', lang)
@@ -32,8 +35,23 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
 
 <template>
   <div ref="rootRef" class="ext-lang-select" :class="{ 'ext-lang-select--open': open }">
-    <MenuTitle icon="i-lucide:languages" title="Language" />
-    <NuInputHighlight class="rounded-md">
+    <div ref="menuTitleElementRef" relative flex items-center mb-2>
+      <MenuTitle title="Language" aria-label="Language" flex="1" pr-4>
+        <template #icon>
+          <span i-lucide:languages mr-1 aria-hidden="true" />
+        </template>
+      </MenuTitle>
+      <MenuHelp
+        v-model:is-popped-up="isMenuHelpPoppedUp"
+        :menu-title-element-ref="menuTitleElementRef"
+      >
+        <h4 text-md mb-1 font-semibold>Language</h4>
+        <p text="sm" mb-2 max-w-100>
+          Filters extensions by translated language (not original language).
+        </p>
+      </MenuHelp>
+    </div>
+    <NuInputHighlight :active="isMenuHelpPoppedUp" class="rounded-md">
       <button
         type="button"
         class="ext-lang-trigger"
