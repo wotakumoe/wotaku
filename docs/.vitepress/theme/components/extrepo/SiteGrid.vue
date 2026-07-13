@@ -15,40 +15,13 @@ interface SiteGroup {
 }
 
 const groups = computed<SiteGroup[]>(() => {
-  const parent = props.sites.map((_, i) => i)
-  function find(i: number): number {
-    while (parent[i] !== i) {
-      parent[i] = parent[parent[i]]
-      i = parent[i]
-    }
-    return i
-  }
-  function union(a: number, b: number) {
-    const rootA = find(a)
-    const rootB = find(b)
-    if (rootA !== rootB) parent[rootA] = rootB
-  }
-
-  const byName = new Map<string, number>()
-  const byUrl = new Map<string, number>()
+  const map = new Map<string, SiteGroup>()
   props.sites.forEach((site, i) => {
-    const scope = site.repoName ?? ''
-    const nameKey = `${scope}-${site.name}`
-    if (byName.has(nameKey)) union(i, byName.get(nameKey)!)
-    else byName.set(nameKey, i)
-
-    const urlKey = `${scope}-${site.url}`
-    if (byUrl.has(urlKey)) union(i, byUrl.get(urlKey)!)
-    else byUrl.set(urlKey, i)
-  })
-
-  const map = new Map<number, SiteGroup>()
-  props.sites.forEach((site, i) => {
-    const root = find(i)
-    let group = map.get(root)
+    const key = site.url ? `${site.repoName ?? ''}-${site.url}` : `no-url-${i}`
+    let group = map.get(key)
     if (!group) {
-      group = { key: `group-${root}`, sites: [] }
-      map.set(root, group)
+      group = { key, sites: [] }
+      map.set(key, group)
     }
     group.sites.push(site)
   })

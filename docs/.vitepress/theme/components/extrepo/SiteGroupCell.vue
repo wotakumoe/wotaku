@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { ratingIcon, ratingTitle } from './helpers'
+import { langLabel, ratingIcon, ratingTitle } from './helpers'
 import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
 
@@ -26,7 +26,11 @@ const groupName = computed(() => {
     if (wordLists.every(words => words[i] === word)) common.push(word)
     else break
   }
-  return common.length > 0 ? common.join(' ') : primary.value.name
+  if (common.length > 0) return common.join(' ')
+
+  const label = langLabel(primary.value.lang)
+  const stripped = primary.value.name.replace(new RegExp(`\\s*${label}$`, 'i'), '').trim()
+  return stripped || primary.value.name
 })
 </script>
 
@@ -48,7 +52,7 @@ const groupName = computed(() => {
         :class="ratingIcon(highestRated.rating)"
         :title="ratingTitle(highestRated.rating)"
       />
-      <span class="ext-site-layers i-lucide:layers" title="Multiple varsions available" />
+      <span class="ext-site-layers i-lucide:layers" :title="`${sites.length} versions available`" />
     </div>
     <span v-if="primary.repoName" class="ext-site-repo">{{ primary.repoName }}</span>
   </button>
