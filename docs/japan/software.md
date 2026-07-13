@@ -162,13 +162,13 @@ og:
 | **Reader** | [Mokuro](https://github.com/kha-white/mokuro) | :win::app::lin: |
 | ^^ | :prev: [ZXY101's fork](https://github.com/ZXY101/legacy-mokuro-reader) | |
 | ^^ | :prev: [KojoZero's fork](https://github.com/KojoZero/mokuro-reader) | |
-| ^^ | :prev: [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://nyaa.si/?f=0&c=0_0&q=Mokuro.moe) | |
+| ^^ | :prev: [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://nyaa.si/?q=Mokuro.moe) | |
 | ^^ | [ttsu Ebook Reader](https://reader.ttsu.app/) [:src:](https://github.com/ttu-ttu/ebook-reader) | :web: |
 
 == Browser
 - [Yomitan](https://yomitan.wiki/) :s: :ff::cr: [:src:](https://github.com/yomidevs/yomitan) [:help:](https://learnjapanese.moe/yomichan/)<tooltip>Pop-up dictionary. Can be used on mobile, with browsers that support extensions.</tooltip>
 - :prev: [Yomitan Dictionaries](https://github.com/MarvNC/yomitan-dictionaries/)
-- :prev: [Collection of Yomitan Dictionaries (JP)](https://i.wotaku.wiki/p/redirect#japansoftware)
+- :prev: [Collection of Yomitan Dictionaries (JP)](https://nyaa.si/user/1Selxo?c=6_0)
 - :prev: [Yomitan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
 - :prev: [VNDB Names for Yomitan](https://github.com/kaanium/VNDB-Names-for-Yomitan)
 - [10ten Japanese Reader](https://github.com/birchill/10ten-ja-reader) :ff::cr::sfr:<tooltip>Pop-up dictionary</tooltip>

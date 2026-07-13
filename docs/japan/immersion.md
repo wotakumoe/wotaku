@@ -99,16 +99,16 @@ og:
 
 == Manga
 - [Bilingual Manga](https://bilingualmanga.org/) :s: [||Backup||](https://github.com/B-M-dev/Bilingual_Manga-home-)
-- [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://nyaa.si/?f=0&c=0_0&q=Mokuro.moe)
+- [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://nyaa.si/?q=Mokuro.moe)
 
 == Novel
 - [Elscione's Library](https://server.elscione.com/) :s: [:alt:](https://server.elsci.one/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [boroboro](https://boroboro.neocities.org/)
-- [Japanese Learner's Anthology](https://nyaa.si/?f=0&c=0_0&q=PeepoHappyBooks) :mag:
+- [Japanese Learner's Anthology](https://nyaa.si/?q=PeepoHappyBooks) :mag:
 - [lolibrary index](https://lolibrary.moe/)
-- [TMW eBook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+eBook) :mag:
+- [TMW eBook Collection](https://nyaa.si/?q=TMW+eBook) :mag:
 
 == Easy Reading
 - [NHK News Web Easy](https://news.web.nhk/news/easy/)
@@ -133,7 +133,7 @@ og:
 
 == Audiobook
 - [Nyaa.si](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
-- [TMW Audiobook Collection](https://nyaa.si/?f=0&c=0_0&q=TMW+Audiobook) :mag: [||Index||](https://coreaudio.netlify.app/)
+- [TMW Audiobook Collection](https://nyaa.si/?q=TMW+Audiobook) :mag: [||Index||](https://coreaudio.netlify.app/)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
