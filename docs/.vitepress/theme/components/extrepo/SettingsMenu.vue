@@ -169,6 +169,10 @@ html.effects-disabled .ext-settings-btn {
   transition: none;
 }
 
+html.effects-disabled .ext-settings-btn:active {
+  transform: none;
+}
+
 .ext-settings-menu {
   --vp-nolebase-enhanced-readabilities-menu-background-color: var(--wk-c-menu-bg);
   --vp-nolebase-enhanced-readabilities-menu-text-color: var(--vp-c-text-1);
