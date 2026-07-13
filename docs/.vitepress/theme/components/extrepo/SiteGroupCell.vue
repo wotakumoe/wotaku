@@ -48,7 +48,7 @@ const groupName = computed(() => {
         :class="ratingIcon(highestRated.rating)"
         :title="ratingTitle(highestRated.rating)"
       />
-      <span class="ext-site-layers i-lucide:layers" title="Multiple languages available" />
+      <span class="ext-site-layers i-lucide:layers" title="Multiple varsions available" />
     </div>
     <span v-if="primary.repoName" class="ext-site-repo">{{ primary.repoName }}</span>
   </button>
