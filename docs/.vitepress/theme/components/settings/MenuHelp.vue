@@ -60,7 +60,7 @@ const helpPopupStyle = computed(() => {
     const anchorLeft = menuBounding.width.value
       ? menuBounding.left.value
       : bounding.left.value
-    left = Math.max(margin, anchorLeft - popupW - 16)
+    left = Math.max(margin, anchorLeft - popupW - 12)
     top = bounding.top.value
   }
 
@@ -128,6 +128,7 @@ watch(
         rounded-xl
         p-4
         shadow-xl
+        w="[280px]"
         max-w="[calc(100vw-16px)]"
       >
         <slot />

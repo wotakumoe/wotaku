@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { langFlagClass, ratingIcon, ratingTitle } from './helpers'
+import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
 
 defineProps<{
@@ -17,9 +18,8 @@ defineProps<{
     :rel="site.url ? 'noopener noreferrer' : undefined"
   >
     <div class="ext-site-row">
-      <img v-if="site.icon" class="ext-site-icon" :src="site.icon" :alt="site.name" loading="lazy" />
-      <span v-else class="ext-site-icon ext-site-icon-fallback i-lucide:globe" />
-      <span class="ext-site-name-text">{{ site.name }}</span>
+      <LazyIcon class="ext-site-icon" :src="site.icon" :alt="site.name" />
+      <span class="ext-site-name-text" :title="site.name">{{ site.name }}</span>
       <span v-if="site.rating !== 'safe'" class="ext-site-nsfw" :class="ratingIcon(site.rating)" :title="ratingTitle(site.rating)" />
       <span class="ext-site-lang" :class="langFlagClass(site.lang)" :title="site.lang" />
     </div>
@@ -88,6 +88,10 @@ defineProps<{
   align-items: center;
   justify-content: center;
   color: var(--vp-c-text-3);
+}
+
+.ext-site-icon-loading {
+  background-color: var(--vp-c-bg-mute, var(--vp-c-bg-soft));
 }
 
 .ext-site-name-text {
