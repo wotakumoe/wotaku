@@ -1,11 +1,22 @@
 <script setup lang="ts">
+import { ref } from 'vue'
 import { langFlagClass, ratingIcon, ratingTitle } from './helpers'
 import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
 
-defineProps<{
+const props = defineProps<{
   site: RepoSite & { repoName?: string }
 }>()
+
+const copied = ref(false)
+
+async function copyInstallUrl() {
+  const value = props.site.installUrl?.replace(/^sora:\/\/module\?url=/, '')
+  if (!value) return
+  await navigator.clipboard.writeText(value)
+  copied.value = true
+  setTimeout(() => { copied.value = false }, 1500)
+}
 </script>
 
 <template>
@@ -29,6 +40,10 @@ defineProps<{
     <a v-if="site.installUrl" class="ext-site-install-btn" :href="site.installUrl" :title="`Install ${site.name}`">
       <span class="i-lucide:download" />
     </a>
+    <button v-if="site.installUrl" class="ext-site-copy-btn" type="button" :title="`Copy ${site.name} url`" @click="copyInstallUrl">
+      <span v-if="copied" class="i-lucide:check" />
+      <span v-else class="i-lucide:copy" />
+    </button>
   </div>
 </template>
 
@@ -145,6 +160,28 @@ defineProps<{
 }
 
 .ext-site-install-btn span {
+  font-size: 15px;
+}
+
+.ext-site-copy-btn {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  background-color: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  cursor: pointer;
+  transition: border-color 0.2s, background-color 0.2s;
+}
+
+.ext-site-copy-btn:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.ext-site-copy-btn span {
   font-size: 15px;
 }
 </style>

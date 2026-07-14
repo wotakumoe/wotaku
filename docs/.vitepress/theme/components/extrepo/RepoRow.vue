@@ -156,6 +156,15 @@ function variantSites(variant: RepoVariant) {
               </button>
             </template>
             <button
+              v-else-if="mangayomiCopyValue(variant)"
+              class="ext-btn ext-btn-copy"
+              type="button"
+              @click="copyVariantUrl(variant)"
+            >
+              <span v-if="copiedLabel === variant.label" class="i-lucide:check" />
+              <span v-else class="i-lucide:copy" />
+            </button>
+            <button
               class="ext-btn ext-btn-toggle"
               type="button"
               :class="{ open: openVariants.has(variant.label) }"

@@ -511,7 +511,7 @@ function groupSoraLibrary(indexUrl: string, authors: SoraLibraryAuthor[]): { aut
     for (const typeKey of SORA_TYPE_ORDER) {
       const modules = entry.types[typeKey]
       if (!modules?.length) continue
-      const typeIndexUrl = `${indexUrl}#${entry.author}#${typeKey}`
+      const typeIndexUrl = new URL(`${entry.author}/${typeKey}.json`, indexUrl).toString()
       sitesByType[typeIndexUrl] = { sites: toRepoDataSoraModules(modules) }
       types.push({ label: SORA_TYPE_LABELS[typeKey] ?? typeKey, indexUrl: typeIndexUrl })
     }
