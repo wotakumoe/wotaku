@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import { data } from '../../../../ext/extensionRepos.data'
-import { langLabel, stripHtml } from './helpers'
+import { escapeHtml, langLabel, stripHtml } from './helpers'
 import { mangayomiCopyValue } from './install'
 import RepoRow from './RepoRow.vue'
 import SettingsMenu from './SettingsMenu.vue'
@@ -9,7 +9,7 @@ import SiteGrid from './SiteGrid.vue'
 import type { MatchedSite, RatingFilter, Repo } from './types'
 
 const repoData = data.sites
-const soraGroups = data.soraGroups
+const soraAuthors = data.soraAuthors
 
 const props = defineProps<{
   repos: Repo[]
@@ -17,11 +17,26 @@ const props = defineProps<{
 }>()
 
 const resolvedRepos = computed<Repo[]>(() => {
-  return props.repos.map(repo => {
-    const groups = soraGroups[repo.indexUrl]
-    if (!groups?.length) return repo
-    return { ...repo, variants: groups.map(g => ({ label: g.label, mangaUrl: g.indexUrl, labelUrl: g.repoUrl })) }
-  })
+  const result: Repo[] = []
+  for (const repo of props.repos) {
+    const authors = soraAuthors[repo.indexUrl]
+    if (!authors?.length) {
+      result.push(repo)
+      continue
+    }
+    for (const author of authors) {
+      const name = author.repoUrl
+        ? `<a href="${author.repoUrl}" target="_blank" rel="noopener noreferrer">${escapeHtml(author.label)}</a>`
+        : escapeHtml(author.label)
+      result.push({
+        name,
+        indexUrl: `${repo.indexUrl}#${author.label}`,
+        repoName: author.label,
+        variants: author.types.map(t => ({ label: t.label, mangaUrl: t.indexUrl }))
+      })
+    }
+  }
+  return result
 })
 
 const query = ref('')

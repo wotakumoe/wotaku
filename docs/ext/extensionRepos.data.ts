@@ -125,20 +125,34 @@ interface KotatsuIndex {
   sites: KotatsuSite[]
 }
 
-interface SoraModule {
+interface SoraLibraryModule {
   sourceName: string
   iconUrl?: string
+  iconURL?: string
   language?: string
+  languageClean?: string
   baseUrl?: string
-  manifestUrl: string
-  type?: string
-  status?: string
+  scriptUrl?: string
+  scriptURL?: string
+  manifestUrl?: string
+  jsonUrl?: string
 }
 
-export interface SoraGroup {
+interface SoraLibraryAuthor {
+  author: string
+  repo: string
+  types: Record<string, SoraLibraryModule[]>
+}
+
+export interface SoraTypeGroup {
+  label: string
+  indexUrl: string
+}
+
+export interface SoraAuthorRepo {
   label: string
   repoUrl?: string
-  indexUrl: string
+  types: SoraTypeGroup[]
 }
 
 const EXT_DIR = dirname(fileURLToPath(import.meta.url))
@@ -238,7 +252,10 @@ const LANG_ALIASES: Record<string, string> = {
   tamil: 'ta',
   ukrainian: 'uk',
   vietnamese: 'vi',
-  thai: 'th'
+  thai: 'th',
+  hindi: 'hi',
+  malay: 'ms',
+  serbian: 'sr'
 }
 
 const LANG_SUBSTRING_ALIASES: [RegExp, string][] = [
@@ -434,10 +451,10 @@ function toRepoDataKotatsu(index: KotatsuIndex): RepoSite[] {
   return sites
 }
 
-function isSoraIndex(json: unknown): json is SoraModule[] {
+function isSoraLibrary(json: unknown): json is SoraLibraryAuthor[] {
   if (!Array.isArray(json) || json.length === 0) return false
   const first = json[0] as Record<string, unknown>
-  return typeof first.manifestUrl === 'string' && typeof first.sourceName === 'string'
+  return typeof first.author === 'string' && typeof first.repo === 'string' && typeof first.types === 'object'
 }
 
 function normalizeSoraLang(language: string | undefined): string {
@@ -446,85 +463,64 @@ function normalizeSoraLang(language: string | undefined): string {
   return normalizeLang(stripped)
 }
 
-function normalizeSoraType(type: string): string {
-  return type.toLowerCase().split('/').sort().join('_')
+const SORA_TYPE_ORDER = ['anime', 'manga', 'novels', 'other']
+const SORA_TYPE_LABELS: Record<string, string> = {
+  anime: 'Anime',
+  manga: 'Manga',
+  novels: 'Novels',
+  other: 'Other'
 }
 
-function toRepoDataSora(modules: SoraModule[]): RepoSite[] {
+function soraModuleInstallUrl(mod: SoraLibraryModule): string | undefined {
+  const explicit = mod.manifestUrl ?? mod.jsonUrl
+  if (explicit) return explicit
+  const script = mod.scriptUrl ?? mod.scriptURL
+  return script?.replace(/\.js$/i, '.json')
+}
+
+function toRepoDataSoraModules(modules: SoraLibraryModule[]): RepoSite[] {
   const seen = new Set<string>()
   const sites: RepoSite[] = []
 
   for (const mod of modules) {
-    const lang = normalizeSoraLang(mod.language)
-    const key = `${mod.sourceName}::${lang}::${mod.manifestUrl}`
+    const lang = normalizeSoraLang(mod.languageClean ?? mod.language)
+    const installUrl = soraModuleInstallUrl(mod)
+    const key = `${mod.sourceName}::${lang}::${installUrl ?? ''}`
     if (seen.has(key)) continue
     seen.add(key)
     sites.push({
       name: mod.sourceName,
       lang,
-      icon: mod.iconUrl ?? '',
+      icon: mod.iconUrl ?? mod.iconURL ?? '',
       url: mod.baseUrl ?? '',
       rating: 'safe',
-      contentType: mod.type ? normalizeSoraType(mod.type) : undefined,
-      isBroken: mod.status === 'down' || undefined,
-      installUrl: `sora://module?url=${mod.manifestUrl}`
+      installUrl: installUrl ? `sora://module?url=${installUrl}` : undefined
     })
   }
 
+  sites.sort((a, b) => a.name.localeCompare(b.name))
   return sites
 }
 
-function groupSoraModules(indexUrl: string, modules: SoraModule[]): { groups: SoraGroup[]; sitesByGroup: Record<string, RepoData> } {
-  const byAuthor = new Map<string, Map<string, SoraModule[]>>()
-  for (const mod of modules) {
-    const { key, display } = soraAuthorKey(mod.manifestUrl)
-    let displays = byAuthor.get(key)
-    if (!displays) {
-      displays = new Map()
-      byAuthor.set(key, displays)
+function groupSoraLibrary(indexUrl: string, authors: SoraLibraryAuthor[]): { authorRepos: SoraAuthorRepo[]; sitesByType: Record<string, RepoData> } {
+  const authorRepos: SoraAuthorRepo[] = []
+  const sitesByType: Record<string, RepoData> = {}
+
+  for (const entry of authors) {
+    const types: SoraTypeGroup[] = []
+    for (const typeKey of SORA_TYPE_ORDER) {
+      const modules = entry.types[typeKey]
+      if (!modules?.length) continue
+      const typeIndexUrl = `${indexUrl}#${entry.author}#${typeKey}`
+      sitesByType[typeIndexUrl] = { sites: toRepoDataSoraModules(modules) }
+      types.push({ label: SORA_TYPE_LABELS[typeKey] ?? typeKey, indexUrl: typeIndexUrl })
     }
-    const list = displays.get(display)
-    if (list) list.push(mod)
-    else displays.set(display, [mod])
+    if (!types.length) continue
+    authorRepos.push({ label: entry.author, repoUrl: entry.repo.replace(/\.git$/, ''), types })
   }
 
-  const groups: SoraGroup[] = []
-  const sitesByGroup: Record<string, RepoData> = {}
-  for (const key of byAuthor.keys()) {
-    const displays = [...byAuthor.get(key)!.entries()]
-    const [display] = SORA_CANONICAL_DISPLAYS.has(key) ? [key] : displays.sort((a, b) => b[1].length - a[1].length)[0]
-    const allMods = displays.flatMap(([, mods]) => mods)
-    const label = display.split('/')[1] ?? display
-    const groupIndexUrl = `${indexUrl}#${key}`
-    const sites = toRepoDataSora(allMods)
-    sites.sort((a, b) => a.name.localeCompare(b.name))
-    groups.push({ label, repoUrl: soraRepoUrl(display), indexUrl: groupIndexUrl })
-    sitesByGroup[groupIndexUrl] = { sites }
-  }
-  groups.sort((a, b) => a.label.localeCompare(b.label))
-  return { groups, sitesByGroup }
-}
-
-function soraAuthorKey(manifestUrl: string): { key: string; display: string } {
-  try {
-    const u = new URL(manifestUrl)
-    const [user, repo] = u.pathname.split('/').filter(Boolean)
-    const display = user && repo ? `${u.host}/${user}/${repo}` : u.host
-    const key = display.toLowerCase()
-    return { key: SORA_AUTHOR_ALIASES[key] ?? key, display }
-  } catch {
-    return { key: manifestUrl.toLowerCase(), display: manifestUrl }
-  }
-}
-
-const SORA_AUTHOR_ALIASES: Record<string, string> = {
-  'git.luna-app.eu/emp0ry/sources': 'git.luna-app.eu/anonymous/sources'
-}
-
-const SORA_CANONICAL_DISPLAYS = new Set(Object.values(SORA_AUTHOR_ALIASES))
-
-function soraRepoUrl(display: string): string {
-  return `https://${display.replace(/^raw\.githubusercontent\.com\//, 'github.com/')}`
+  authorRepos.sort((a, b) => a.label.localeCompare(b.label))
+  return { authorRepos, sitesByType }
 }
 
 function toRepoDataLNReader(plugins: LNReaderPlugin[]): RepoSite[] {
@@ -553,8 +549,8 @@ async function toRepoData(indexUrl: string, json: unknown): Promise<RepoData> {
       sites = toRepoDataHayase(json as HayaseExtension[])
     } else if (first && 'iconUrl' in first && 'site' in first) {
       sites = toRepoDataLNReader(json as LNReaderPlugin[])
-    } else if (isSoraIndex(json)) {
-      sites = toRepoDataSora(json)
+    } else if (isSoraLibrary(json)) {
+      sites = toRepoDataSoraModules(json.flatMap(entry => Object.values(entry.types).flat()))
     } else if (first && 'sources' in first) {
       sites = toRepoDataMihon(iconBase, json as MihonExtension[])
     } else if (first && 'pkg' in first && 'apk' in first) {
@@ -579,7 +575,7 @@ async function toRepoData(indexUrl: string, json: unknown): Promise<RepoData> {
 
 export interface ExtensionRepoData {
   sites: Record<string, RepoData>
-  soraGroups: Record<string, SoraGroup[]>
+  soraAuthors: Record<string, SoraAuthorRepo[]>
 }
 
 export declare const data: ExtensionRepoData
@@ -589,16 +585,16 @@ export default {
   async load(): Promise<ExtensionRepoData> {
     const urls = collectIndexUrls()
     const sites: Record<string, RepoData> = {}
-    const soraGroups: Record<string, SoraGroup[]> = {}
+    const soraAuthors: Record<string, SoraAuthorRepo[]> = {}
     await Promise.all(urls.map(async url => {
       const json = await fetchIndex(url)
       sites[url] = await toRepoData(url, json)
-      if (isSoraIndex(json)) {
-        const grouped = groupSoraModules(url, json)
-        soraGroups[url] = grouped.groups
-        Object.assign(sites, grouped.sitesByGroup)
+      if (isSoraLibrary(json)) {
+        const grouped = groupSoraLibrary(url, json)
+        soraAuthors[url] = grouped.authorRepos
+        Object.assign(sites, grouped.sitesByType)
       }
     }))
-    return { sites, soraGroups }
+    return { sites, soraAuthors }
   }
 }

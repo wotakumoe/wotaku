@@ -11,8 +11,7 @@ const INSTALL_URL_BUILDERS: Record<string, (repo: Repo) => string> = {
   cloudstreamrepo: repo => `cloudstreamrepo://${repo.indexUrl.replace(/^https?:\/\//, '')}`,
   hayase: repo => `hayase://extensions/install?url=${repo.indexUrl}`,
   legado: repo => `legado://import/bookSource?src=${repo.indexUrl}`,
-  lnreader: repo => `lnreader://repo/add?url=${repo.indexUrl}`,
-  sora: repo => `sora://default_page?url=${new URL(repo.indexUrl).origin}/library/?embed=true`
+  lnreader: repo => `lnreader://repo/add?url=${repo.indexUrl}`
 }
 
 // Apps with no deep-link install scheme;

@@ -117,12 +117,6 @@ function variantSites(variant: RepoVariant) {
             <span v-else class="i-lucide:copy" />
           </button>
         </template>
-        <template v-else-if="installUrl">
-          <a class="ext-btn ext-btn-install" :href="installUrl">
-            <span class="i-lucide:download" />
-            <span class="ext-btn-install-label">Install</span>
-          </a>
-        </template>
         <button
           v-if="!repo.variants"
           class="ext-btn ext-btn-toggle"
@@ -141,8 +135,7 @@ function variantSites(variant: RepoVariant) {
     <div v-if="subVariants.length" class="ext-repo-variants">
       <div v-for="variant in subVariants" :key="variant.label" class="ext-repo-variant">
         <div class="ext-repo-variant-row">
-          <a v-if="variant.labelUrl" class="ext-repo-variant-label" :href="variant.labelUrl" target="_blank" rel="noopener noreferrer">{{ variant.label }}</a>
-          <span v-else class="ext-repo-variant-label">{{ variant.label }}</span>
+          <span class="ext-repo-variant-label">{{ variant.label }}</span>
           <div class="ext-repo-actions">
             <template v-if="showActions">
               <a class="ext-btn ext-btn-install" :href="mangayomiHref(repo, variant)">
@@ -334,15 +327,6 @@ function variantSites(variant: RepoVariant) {
 .ext-repo-variant-label {
   font-size: 13px;
   color: var(--vp-c-text-2);
-}
-
-a.ext-repo-variant-label {
-  text-decoration: none;
-}
-
-a.ext-repo-variant-label:hover {
-  color: var(--vp-c-brand-1);
-  text-decoration: underline;
 }
 
 @media (max-width: 767px) {

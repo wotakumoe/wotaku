@@ -6,7 +6,6 @@ export interface RepoVariant {
   mangaUrl?: string
   animeUrl?: string
   novelUrl?: string
-  labelUrl?: string
 }
 
 export interface Repo {

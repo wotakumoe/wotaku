@@ -22,6 +22,10 @@ export function stripHtml(html: string): string {
   return html.replace(/<[^>]*>/g, '').trim()
 }
 
+export function escapeHtml(text: string): string {
+  return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
+}
+
 export function ratingIcon(rating: Rating): string {
   return rating === 'nsfw' ? 'i-twemoji-no-one-under-eighteen' : 'i-twemoji-warning'
 }
