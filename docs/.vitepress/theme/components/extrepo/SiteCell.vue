@@ -1,17 +1,20 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import { langFlagClass, ratingIcon, ratingTitle } from './helpers'
+import { hasCopyButton } from './install'
 import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
 
 const props = defineProps<{
   site: RepoSite & { repoName?: string }
+  scheme?: string
 }>()
 
 const copied = ref(false)
 
 async function copyInstallUrl() {
-  const value = props.site.installUrl?.replace(/^sora:\/\/module\?url=/, '')
+  const soraMatch = props.site.installUrl?.match(/^sora:\/\/module\?url=(.+)$/)
+  const value = soraMatch ? soraMatch[1] : props.site.installUrl
   if (!value) return
   await navigator.clipboard.writeText(value)
   copied.value = true
@@ -40,7 +43,7 @@ async function copyInstallUrl() {
     <a v-if="site.installUrl" class="ext-site-install-btn" :href="site.installUrl" :title="`Install ${site.name}`">
       <span class="i-lucide:download" />
     </a>
-    <button v-if="site.installUrl" class="ext-site-copy-btn" type="button" :title="`Copy ${site.name} url`" @click="copyInstallUrl">
+    <button v-if="site.installUrl && hasCopyButton(scheme ?? '')" class="ext-site-copy-btn" type="button" :title="`Copy ${site.name} url`" @click="copyInstallUrl">
       <span v-if="copied" class="i-lucide:check" />
       <span v-else class="i-lucide:copy" />
     </button>

@@ -19,6 +19,8 @@ export interface RepoSite {
 
 export interface RepoData {
   sites: RepoSite[]
+  suwatteV6?: boolean
+  suwatteListUrl?: string
 }
 
 interface MihonSource {
@@ -109,6 +111,20 @@ interface IReaderSource {
   name: string
   lang: string
   nsfw?: boolean
+}
+
+interface SuwatteCatalogSource {
+  name: string
+  website?: string
+  languages?: string[]
+  thumbnail?: string
+  path?: string
+}
+
+interface SuwatteCatalogIndex {
+  listUrl?: string
+  catalogVersion?: number
+  sources: SuwatteCatalogSource[]
 }
 
 // For kotatsu
@@ -435,6 +451,35 @@ function toRepoDataIReader(sources: IReaderSource[]): RepoSite[] {
   return sites
 }
 
+function toRepoDataSuwatte(iconBase: string, index: SuwatteCatalogIndex): { sites: RepoSite[]; listUrl: string } {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  const listUrl = index.listUrl ?? iconBase
+  const isV6 = index.catalogVersion === undefined
+
+  for (const source of index.sources ?? []) {
+    const langs = source.languages?.length ? source.languages : ['all']
+    const icon = source.thumbnail
+      ? (/^https?:\/\//i.test(source.thumbnail) ? source.thumbnail : `${iconBase}/assets/${source.thumbnail}`)
+      : ''
+    const installUrl = source.path
+      ? (isV6
+          ? `suwatte://runner?url=${listUrl}&runner=${source.path}`
+          : `suwatte://AddSourceFromList?list=${listUrl}&source=${source.path}`)
+      : undefined
+    for (const rawLang of langs) {
+      const lang = normalizeLang(rawLang)
+      const key = `${source.name}::${lang}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      sites.push({ name: source.name, lang, icon, url: source.website ?? '', rating: 'safe', installUrl })
+    }
+  }
+
+  return { sites, listUrl }
+}
+
 function toRepoDataKotatsu(index: KotatsuIndex): RepoSite[] {
   const seen = new Set<string>()
   const sites: RepoSite[] = []
@@ -541,6 +586,8 @@ function toRepoDataLNReader(plugins: LNReaderPlugin[]): RepoSite[] {
 async function toRepoData(indexUrl: string, json: unknown): Promise<RepoData> {
   const iconBase = indexUrl.slice(0, indexUrl.lastIndexOf('/'))
   let sites: RepoSite[]
+  let suwatteV6: boolean | undefined
+  let suwatteListUrl: string | undefined
   if (Array.isArray(json)) {
     const first = json[0] as Record<string, unknown> | undefined
     if (first && 'bookSourceUrl' in first) {
@@ -564,13 +611,18 @@ async function toRepoData(indexUrl: string, json: unknown): Promise<RepoData> {
     sites = await toRepoDataCloudstream(json as CloudstreamRepo)
   } else if ((json as AidokuIndex).sources?.length && 'iconURL' in (json as AidokuIndex).sources[0]) {
     sites = toRepoDataAidoku(iconBase, json as AidokuIndex)
+  } else if ((json as SuwatteCatalogIndex).sources?.length && 'thumbnail' in (json as SuwatteCatalogIndex).sources[0]) {
+    const result = toRepoDataSuwatte(iconBase, json as SuwatteCatalogIndex)
+    sites = result.sites
+    suwatteListUrl = result.listUrl
+    suwatteV6 = (json as SuwatteCatalogIndex).catalogVersion === undefined
   } else if (Array.isArray((json as KotatsuIndex).sites)) {
     sites = toRepoDataKotatsu(json as KotatsuIndex)
   } else {
     sites = toRepoDataPaperback(iconBase, json as PaperbackIndex)
   }
   sites.sort((a, b) => a.name.localeCompare(b.name))
-  return { sites }
+  return { sites, suwatteV6, suwatteListUrl }
 }
 
 export interface ExtensionRepoData {
