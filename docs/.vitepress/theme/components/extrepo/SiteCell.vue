@@ -4,6 +4,9 @@ import { langFlagClass, ratingIcon, ratingTitle } from './helpers'
 import { hasCopyButton } from './install'
 import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
+import { useTooltip } from './useTooltip'
+
+const { show: showTooltip, hide: hideTooltip } = useTooltip()
 
 const props = defineProps<{
   site: RepoSite & { repoName?: string }
@@ -34,16 +37,16 @@ async function copyInstallUrl() {
     >
       <div class="ext-site-row">
         <LazyIcon class="ext-site-icon" :src="site.icon" :alt="site.name" />
-        <span class="ext-site-name-text" :title="site.name">{{ site.name }}</span>
-        <span v-if="site.rating !== 'safe'" class="ext-site-nsfw" :class="ratingIcon(site.rating)" :title="ratingTitle(site.rating)" />
-        <span class="ext-site-lang" :class="langFlagClass(site.lang)" :title="site.lang" />
+        <span class="ext-site-name-text" :aria-label="site.name" @mouseenter="showTooltip($event, site.name)" @mouseleave="hideTooltip"><span class="ext-site-name-inner">{{ site.name }}</span></span>
+        <span v-if="site.rating !== 'safe'" class="ext-site-nsfw" :class="ratingIcon(site.rating)" :aria-label="ratingTitle(site.rating)" @mouseenter="showTooltip($event, ratingTitle(site.rating))" @mouseleave="hideTooltip" />
+        <span class="ext-site-lang" :class="langFlagClass(site.lang)" :aria-label="site.lang" @mouseenter="showTooltip($event, site.lang)" @mouseleave="hideTooltip" />
       </div>
       <span v-if="site.repoName" class="ext-site-repo">{{ site.repoName }}</span>
     </component>
-    <a v-if="site.installUrl" class="ext-site-install-btn" :href="site.installUrl" :title="`Install ${site.name}`">
+    <a v-if="site.installUrl" class="ext-site-install-btn" :href="site.installUrl" :aria-label="`Install ${site.name}`" @mouseenter="showTooltip($event, `Install ${site.name}`)" @mouseleave="hideTooltip">
       <span class="i-lucide:download" />
     </a>
-    <button v-if="site.installUrl && hasCopyButton(scheme ?? '')" class="ext-site-copy-btn" type="button" :title="`Copy ${site.name} url`" @click="copyInstallUrl">
+    <button v-if="site.installUrl && hasCopyButton(scheme ?? '')" class="ext-site-copy-btn" type="button" :aria-label="`Copy ${site.name} url`" @mouseenter="showTooltip($event, `Copy ${site.name} url`)" @mouseleave="hideTooltip" @click="copyInstallUrl">
       <span v-if="copied" class="i-lucide:check" />
       <span v-else class="i-lucide:copy" />
     </button>
@@ -126,8 +129,13 @@ async function copyInstallUrl() {
 }
 
 .ext-site-name-text {
+  display: block;
   flex: 1;
   min-width: 0;
+}
+
+.ext-site-name-inner {
+  display: block;
   font-size: 12.5px;
   font-weight: 600;
   line-height: 1.2;

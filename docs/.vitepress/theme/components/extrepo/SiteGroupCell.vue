@@ -3,6 +3,9 @@ import { computed } from 'vue'
 import { langLabel, ratingIcon, ratingTitle } from './helpers'
 import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
+import { useTooltip } from './useTooltip'
+
+const { show: showTooltip, hide: hideTooltip } = useTooltip()
 
 const props = defineProps<{
   sites: (RepoSite & { repoName?: string })[]
@@ -45,14 +48,26 @@ const groupName = computed(() => {
   >
     <div class="ext-site-row">
       <LazyIcon class="ext-site-icon" :src="primary.icon" :alt="primary.name" />
-      <span class="ext-site-name-text" :title="groupName">{{ groupName }}</span>
+      <span
+        class="ext-site-name-text"
+        :aria-label="groupName"
+        @mouseenter="showTooltip($event, groupName)"
+        @mouseleave="hideTooltip"
+      ><span class="ext-site-name-inner">{{ groupName }}</span></span>
       <span
         v-if="highestRated"
         class="ext-site-nsfw"
         :class="ratingIcon(highestRated.rating)"
-        :title="ratingTitle(highestRated.rating)"
+        :aria-label="ratingTitle(highestRated.rating)"
+        @mouseenter="showTooltip($event, ratingTitle(highestRated.rating))"
+        @mouseleave="hideTooltip"
       />
-      <span class="ext-site-layers i-lucide:layers" :title="`${sites.length} versions available`" />
+      <span
+        class="ext-site-layers i-lucide:layers"
+        :aria-label="`${sites.length} versions available`"
+        @mouseenter="showTooltip($event, `${sites.length} versions available`)"
+        @mouseleave="hideTooltip"
+      />
     </div>
     <span v-if="primary.repoName" class="ext-site-repo">{{ primary.repoName }}</span>
   </button>
@@ -113,8 +128,13 @@ const groupName = computed(() => {
 }
 
 .ext-site-name-text {
+  display: block;
   flex: 1;
   min-width: 0;
+}
+
+.ext-site-name-inner {
+  display: block;
   font-size: 12.5px;
   font-weight: 600;
   line-height: 1.2;

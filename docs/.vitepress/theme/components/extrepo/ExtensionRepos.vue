@@ -7,6 +7,9 @@ import RepoRow from './RepoRow.vue'
 import SettingsMenu from './SettingsMenu.vue'
 import SiteGrid from './SiteGrid.vue'
 import type { MatchedSite, RatingFilter, Repo } from './types'
+import { provideTooltip } from './useTooltip'
+
+const { tooltip } = provideTooltip()
 
 const repoData = data.sites
 const soraAuthors = data.soraAuthors
@@ -138,6 +141,14 @@ const filteredSites = computed(() => {
       <RepoRow v-for="repo in resolvedRepos" :key="repo.indexUrl" :repo="repo" :scheme="scheme" :show-broken="showBroken" />
     </div>
   </div>
+
+  <Teleport to="body">
+    <div
+      v-if="tooltip"
+      class="ext-fixed-tooltip"
+      :style="{ left: tooltip.x + 'px', top: tooltip.y + 'px' }"
+    >{{ tooltip.text }}</div>
+  </Teleport>
 </template>
 
 <style scoped>
@@ -178,5 +189,19 @@ const filteredSites = computed(() => {
   background: transparent;
   color: var(--vp-c-text-1);
   font-size: 13px;
+}
+
+.ext-fixed-tooltip {
+  position: fixed;
+  z-index: 9999;
+  transform: translate(-50%, calc(-100% - 15px));
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 5px;
+  padding: 3px 8px;
+  font-size: 11px;
+  white-space: nowrap;
+  pointer-events: none;
 }
 </style>

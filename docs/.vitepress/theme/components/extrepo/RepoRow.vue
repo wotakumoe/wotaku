@@ -5,6 +5,9 @@ import { stripHtml } from './helpers'
 import { copyValue, hasCopyButton, installHref, isBrowseOnly, mangayomiCopyValue, mangayomiHref, mangayomiLiveContainerHref } from './install'
 import SiteGrid from './SiteGrid.vue'
 import type { Repo, RepoVariant } from './types'
+import { useTooltip } from './useTooltip'
+
+const { show: showTooltip, hide: hideTooltip } = useTooltip()
 
 const repoData = data.sites
 
@@ -90,7 +93,7 @@ function variantSites(variant: RepoVariant) {
             <span class="i-lucide:download" />
             <span class="ext-btn-install-label">Install</span>
           </a>
-          <a class="ext-btn ext-btn-livecontainer" :href="mangayomiLiveContainerHref(repo, headerVariant)" title="Install via LiveContainer (iOS)">
+          <a class="ext-btn ext-btn-livecontainer" :href="mangayomiLiveContainerHref(repo, headerVariant)" aria-label="Install via LiveContainer (iOS)" @mouseenter="showTooltip($event, 'Install via LiveContainer (iOS)')" @mouseleave="hideTooltip">
             <span class="i-mdi:apple" />
           </a>
           <button
@@ -145,7 +148,7 @@ function variantSites(variant: RepoVariant) {
                 <span class="i-lucide:download" />
                 <span class="ext-btn-install-label">Install</span>
               </a>
-              <a class="ext-btn ext-btn-livecontainer" :href="mangayomiLiveContainerHref(repo, variant)" title="Install via LiveContainer (iOS)">
+              <a class="ext-btn ext-btn-livecontainer" :href="mangayomiLiveContainerHref(repo, variant)" aria-label="Install via LiveContainer (iOS)" @mouseenter="showTooltip($event, 'Install via LiveContainer (iOS)')" @mouseleave="hideTooltip">
                 <span class="i-mdi:apple" />
               </a>
               <button
