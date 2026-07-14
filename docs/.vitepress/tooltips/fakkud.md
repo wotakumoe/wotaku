@@ -1,1 +1,0 @@
-Removed extensions from Keiyoushi due to DMCA by FAKKU. Maintained by Kommikku dev.

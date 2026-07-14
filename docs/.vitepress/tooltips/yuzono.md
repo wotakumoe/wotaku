@@ -1,1 +1,0 @@
-By Komikku dev. Mirrors Keiyoushi repo with a few extra extensions

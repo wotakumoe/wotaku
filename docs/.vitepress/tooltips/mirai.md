@@ -1,1 +1,0 @@
-Syncs the Mangayomi repository and includes their own plugins

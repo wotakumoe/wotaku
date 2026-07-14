@@ -1,1 +1,0 @@
-For Jellyfin and Stremio

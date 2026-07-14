@@ -1,1 +1,0 @@
-Maintained by former Tachiyomi contributors
