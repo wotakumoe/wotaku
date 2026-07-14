@@ -130,6 +130,7 @@ const filteredSites = computed(() => {
       v-if="isFiltering"
       class="ext-search-results"
       :sites="filteredSites"
+      :scheme="scheme"
       empty-text="No sites match your filters."
     />
 

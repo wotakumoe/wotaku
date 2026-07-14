@@ -7,6 +7,7 @@ import type { RepoSite } from './types'
 const props = defineProps<{
   sites: (RepoSite & { repoName?: string })[]
   emptyText: string
+  scheme?: string
 }>()
 
 interface SiteGroup {
@@ -44,7 +45,7 @@ function toggleGroup(key: string) {
       {{ emptyText }}
     </div>
     <template v-for="group in groups" :key="group.key">
-      <SiteCell v-if="group.sites.length === 1" :site="group.sites[0]" />
+      <SiteCell v-if="group.sites.length === 1" :site="group.sites[0]" :scheme="scheme" />
       <template v-else>
         <SiteGroupCell
           :sites="group.sites"
@@ -52,7 +53,7 @@ function toggleGroup(key: string) {
           @toggle="toggleGroup(group.key)"
         />
         <template v-if="openGroups.has(group.key)">
-          <SiteCell v-for="site in group.sites" :key="`${group.key}-${site.lang}`" :site="site" />
+          <SiteCell v-for="site in group.sites" :key="`${group.key}-${site.lang}`" :site="site" :scheme="scheme" />
         </template>
       </template>
     </template>

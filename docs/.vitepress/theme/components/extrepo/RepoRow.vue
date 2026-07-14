@@ -2,7 +2,7 @@
 import { computed, ref } from 'vue'
 import { data } from '../../../../ext/extensionRepos.data'
 import { stripHtml } from './helpers'
-import { copyValue, installHref, isBrowseOnly, mangayomiCopyValue, mangayomiHref, mangayomiLiveContainerHref } from './install'
+import { copyValue, hasCopyButton, installHref, isBrowseOnly, mangayomiCopyValue, mangayomiHref, mangayomiLiveContainerHref } from './install'
 import SiteGrid from './SiteGrid.vue'
 import type { Repo, RepoVariant } from './types'
 
@@ -26,7 +26,10 @@ const sites = computed(() => {
   return props.showBroken ? all : all.filter(site => !site.isBroken)
 })
 const isExpandable = computed(() => !NOT_EXPANDABLE.has(stripHtml(props.repo.name)))
-const installUrl = computed(() => installHref(props.scheme, props.repo))
+const installUrl = computed(() => installHref(props.scheme, props.repo, {
+  suwatteV6: repoData[props.repo.indexUrl]?.suwatteV6,
+  suwatteListUrl: repoData[props.repo.indexUrl]?.suwatteListUrl
+}))
 // Browse-only schemes (e.g. Kotatsu forks) have no app to deep-link into, so install,
 // copy, and livecontainer actions are hidden everywhere in this component.
 const showActions = computed(() => !isBrowseOnly(props.scheme))
@@ -112,7 +115,7 @@ function variantSites(variant: RepoVariant) {
             <span class="i-lucide:download" />
             <span class="ext-btn-install-label">Install</span>
           </a>
-          <button class="ext-btn ext-btn-copy" type="button" @click="copyUrl">
+          <button v-if="hasCopyButton(scheme)" class="ext-btn ext-btn-copy" type="button" @click="copyUrl">
             <span v-if="copied" class="i-lucide:check" />
             <span v-else class="i-lucide:copy" />
           </button>
@@ -176,11 +179,11 @@ function variantSites(variant: RepoVariant) {
           </div>
         </div>
 
-        <SiteGrid v-if="openVariants.has(variant.label)" :sites="variantSites(variant)" empty-text="No site data available." />
+        <SiteGrid v-if="openVariants.has(variant.label)" :sites="variantSites(variant)" :scheme="scheme" empty-text="No site data available." />
       </div>
     </div>
 
-    <SiteGrid v-if="!repo.variants && isExpandable && open" :sites="sites" empty-text="No site data available." />
+    <SiteGrid v-if="!repo.variants && isExpandable && open" :sites="sites" :scheme="scheme" empty-text="No site data available." />
   </div>
 </template>
 

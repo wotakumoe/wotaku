@@ -134,19 +134,33 @@ You can install v0.8 extensions in the v0.9 Paperback client, but you can't inst
 
 ## Suwatte
 
-::: tabs
+::: extrepo {scheme=suwatte}
 
-== v6
-| Name | Region | Auto |
-| - | - | - |
-| [Mantton](https://aegir.mantton.com/) | :len: | [Install](suwatte://list?url=https://aegir.mantton.com) |
-| [Jishnu](https://jishnusen.github.io/SuwatteSources/) [:src:](https://github.com/jishnusen/SuwatteSources) | :global: | [Install](suwatte://list?url=https://jishnusen.github.io/SuwatteSources) |
-| [Seb](https://sebzzzzzzzzzzzzzzzz.github.io/sources/) | :global: | [Install](suwatte://list?url=https://sebzzzzzzzzzzzzzzzz.github.io/sources) |
-| [Community](https://community.suwatte.app/) | :global: | [Install](suwatte://list?url=https://community.suwatte.app) |
+== Mantton
+- url: https://aegir.mantton.com/
+- raw: https://kotatsu-83g.pages.dev/aegir.json
 
-== v7
-| Name | Region | Auto |
-| - | - | - |
-| [Bergelmir](https://bergelmir.mantton.com/) | :global: |  [Install](suwatte://list?url=https://bergelmir.mantton.com/) |
+== Jishnu
+- url: https://jishnusen.github.io/SuwatteSources/
+- src: https://github.com/jishnusen/SuwatteSources
+- raw: https://kotatsu-83g.pages.dev/jishnu.json
+
+== Seb
+- url: https://sebzzzzzzzzzzzzzzzz.github.io/sources/
+- raw: https://kotatsu-83g.pages.dev/seb.json
+
+== Community
+- url: https://community.suwatte.app/
+- raw: https://kotatsu-83g.pages.dev/suwatte-community.json
+
+:::
+
+## Suwatte (v7)
+
+::: extrepo {scheme=suwatte}
+
+== Bergelmir
+- url: https://bergelmir.mantton.com/
+- raw: https://bergelmir.mantton.com/sources.json
 
 :::
