@@ -395,6 +395,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^            | [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) :and::cs: |
 | **Identifier** | [Audile](https://github.com/aleksey-saenko/MusicRecognizer) :and: |
 | ^^           | [Audire](https://github.com/alexmercerind/audire) :simple-icons-shazam::and: |
+| ^^           | [SongFromLink](https://songfromlink.com/) :web: ||Short-video links|| |
 | **Lyrics**   | [FastLyrics](https://github.com/TecCheck/FastLyrics) |
 | ^^           | [Lyrics Grabbr](https://github.com/IllusionMan1212/lyrics-grabbr) |
 | ^^           | [Rush](https://github.com/shub39/Rush) |
