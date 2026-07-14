@@ -63,4 +63,4 @@ You can also post an [issue](https://github.com/wotakumoe/Wotaku/issues/new) on 
 
 # Wotaku Star History
 
-![Stargazers over time](https://starchart.cc/wotakumoe/Wotaku.svg?variant=adaptive)
+![Stargazers over time](https://star.wotaku.wiki/star.svg)
