@@ -130,6 +130,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Melonbooks](https://www.melonbooks.co.jp/)
 - [Mercari](https://www.mercari.com/)
 - [Play-Asia](https://www.play-asia.com/)
+- [Robert's Anime Corner Store](https://www.animecornerstore.com/)
 - [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
 
