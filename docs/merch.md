@@ -122,7 +122,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [AmiAmi](https://www.amiami.com)
 - [animate](https://www.animate-onlineshop.jp/)
 - [CDJapan](https://www.cdjapan.co.jp/)
-- [Crunchyroll](https://store.crunchyroll.com/) ||SFW||
 - [FAKKU](https://www.fakku.net/)
 - [HMV & Books](https://www.hmv.co.jp/)
 - [Mandarake](https://www.mandarake.co.jp/)
