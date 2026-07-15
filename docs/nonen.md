@@ -37,7 +37,7 @@ og:
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/)  ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 
@@ -468,7 +468,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [MoneyToon](https://mtoon144.asia/) |
-| ^^ | [NameeToon](https://namee103.asia/) |
+| ^^ | [NameeToon](https://namee104.asia/) |
 | ^^ | [TOONKOR](https://tkor135.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf416.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon219.com/) [:prx:](https://xn--ph1bph0az41x.com/) |

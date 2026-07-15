@@ -259,4 +259,4 @@ The Madokami extension by Keiyoushi uses Madokami's web reader instead of downlo
 :::
 
 == iOS
-You can access Madokami on [Aidoku](https://aidoku.app/) with the [Community repo](https://aidoku-community.github.io/sources/) and [Suwatte](https://www.suwatte.app/) using the [Seb repo](https://sebzzzzzzzzzzzzzzzz.github.io/sources/).
+You can access Madokami on [Aidoku](https://aidoku.app/), [Paperback](https://paperback.moe/) and [Suwatte](https://www.suwatte.app/) via their respective [extensions](/ext/ios).

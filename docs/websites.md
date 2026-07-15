@@ -199,8 +199,8 @@ Some of the series may not be available depending on your region.
 | [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 18k | :msync::ie: | :ps: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 18k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
 <collapsible title="More">
 
