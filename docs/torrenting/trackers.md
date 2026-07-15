@@ -20,7 +20,7 @@ og:
 | ^^         | [nekoBT](https://nekobt.to/) |
 | ^^         | [Shana Project](https://www.shanaproject.com/) |
 | ^^         | [TsukiHime](https://tsukihime.org/) :ddl::usnt: |
-| NSFW       | [Sukebei](https://sukebei.nyaa.si/) [:prx:](https://i.wotaku.wiki/p/nyaa) |
+| NSFW       | [Sukebei](https://sukebei.nyaa.si/) |
 
 == Private Trackers
 
