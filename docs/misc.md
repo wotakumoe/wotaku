@@ -312,6 +312,7 @@ outline: 2
 | ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
 | **Anime** | [80s OVA](https://80s-ova.com/) :ljp: [:x:](https://x.com/KuraiSue) |
 | ^^ | [Anime Magazine Archive](https://animagarchive.com/) [:x:](https://x.com/animemagarchive) |
+| ^^ | [Anime Preservation Society](https://www.youtube.com/@AnimePreservationSociety) :yt: |
 | ^^ | [Animétudes](https://animetudes.com/) :ded: |   
 | ^^ | [Anime World by Tim Eldred](https://timeldred.com/category/anime-world/) |
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |
