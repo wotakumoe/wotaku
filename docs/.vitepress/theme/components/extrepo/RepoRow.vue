@@ -2,7 +2,7 @@
 import { computed, ref } from 'vue'
 import { data } from '../../../../ext/extensionRepos.data'
 import { stripHtml } from './helpers'
-import { copyValue, hasCopyButton, installHref, isBrowseOnly, mangayomiCopyValue, mangayomiHref, mangayomiLiveContainerHref } from './install'
+import { copyValue, hasBrowseOnlyCopyButton, hasCopyButton, installHref, isBrowseOnly, mangayomiCopyValue, mangayomiHref, mangayomiLiveContainerHref } from './install'
 import SiteGrid from './SiteGrid.vue'
 import type { Repo, RepoVariant } from './types'
 import { useTooltip } from './useTooltip'
@@ -123,6 +123,10 @@ function variantSites(variant: RepoVariant) {
             <span v-else class="i-lucide:copy" />
           </button>
         </template>
+        <button v-else-if="hasBrowseOnlyCopyButton(scheme)" class="ext-btn ext-btn-copy" type="button" @click="copyUrl">
+          <span v-if="copied" class="i-lucide:check" />
+          <span v-else class="i-lucide:copy" />
+        </button>
         <button
           v-if="!repo.variants"
           class="ext-btn ext-btn-toggle"

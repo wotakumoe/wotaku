@@ -13,6 +13,8 @@ export interface RepoSite {
   url: string
   rating: Rating
   contentType?: string
+  streamType?: string
+  quality?: string
   isBroken?: boolean
   installUrl?: string
 }
@@ -141,34 +143,38 @@ interface KotatsuIndex {
   sites: KotatsuSite[]
 }
 
-interface SoraLibraryModule {
+interface SoraRepoIndexEntry {
+  slug: string
+  name: string
+  source: string
+  path?: string
+  totalSources?: number
+  error?: string
+}
+
+interface SoraRepoIndex {
+  repos: SoraRepoIndexEntry[]
+}
+
+interface SoraModule {
   sourceName: string
   iconUrl?: string
   iconURL?: string
   language?: string
-  languageClean?: string
   baseUrl?: string
   scriptUrl?: string
   scriptURL?: string
-  manifestUrl?: string
-  jsonUrl?: string
-}
-
-interface SoraLibraryAuthor {
-  author: string
-  repo: string
-  types: Record<string, SoraLibraryModule[]>
-}
-
-export interface SoraTypeGroup {
-  label: string
-  indexUrl: string
+  wotaku_sourceName?: string
+  wotaku_language?: string[]
+  wotaku_type?: string[]
+  wotaku_streamType?: string[]
+  wotaku_quality?: string[]
 }
 
 export interface SoraAuthorRepo {
   label: string
   repoUrl?: string
-  types: SoraTypeGroup[]
+  indexUrl: string
 }
 
 const EXT_DIR = dirname(fileURLToPath(import.meta.url))
@@ -275,7 +281,8 @@ const LANG_ALIASES: Record<string, string> = {
 }
 
 const LANG_SUBSTRING_ALIASES: [RegExp, string][] = [
-  [/中文|汉语|漢語/, 'zh'],
+  [/日语原版/, 'ja'],
+  [/中文|汉语|漢語|轻小说/, 'zh'],
   [/日本語/, 'ja'],
   [/한국어|조선말/, 'ko']
 ]
@@ -496,10 +503,8 @@ function toRepoDataKotatsu(index: KotatsuIndex): RepoSite[] {
   return sites
 }
 
-function isSoraLibrary(json: unknown): json is SoraLibraryAuthor[] {
-  if (!Array.isArray(json) || json.length === 0) return false
-  const first = json[0] as Record<string, unknown>
-  return typeof first.author === 'string' && typeof first.repo === 'string' && typeof first.types === 'object'
+function isSoraRepoIndex(json: unknown): json is SoraRepoIndex {
+  return !!json && typeof json === 'object' && Array.isArray((json as SoraRepoIndex).repos)
 }
 
 function normalizeSoraLang(language: string | undefined): string {
@@ -508,64 +513,65 @@ function normalizeSoraLang(language: string | undefined): string {
   return normalizeLang(stripped)
 }
 
-const SORA_TYPE_ORDER = ['anime', 'manga', 'novels', 'other']
-const SORA_TYPE_LABELS: Record<string, string> = {
-  anime: 'Anime',
-  manga: 'Manga',
-  novels: 'Novels',
-  other: 'Other'
-}
-
-function soraModuleInstallUrl(mod: SoraLibraryModule): string | undefined {
-  const explicit = mod.manifestUrl ?? mod.jsonUrl
-  if (explicit) return explicit
-  const script = mod.scriptUrl ?? mod.scriptURL
-  return script?.replace(/\.js$/i, '.json')
-}
-
-function toRepoDataSoraModules(modules: SoraLibraryModule[]): RepoSite[] {
+function toRepoDataSoraModules(modules: SoraModule[]): RepoSite[] {
   const seen = new Set<string>()
   const sites: RepoSite[] = []
 
   for (const mod of modules) {
-    const lang = normalizeSoraLang(mod.languageClean ?? mod.language)
-    const installUrl = soraModuleInstallUrl(mod)
-    const key = `${mod.sourceName}::${lang}::${installUrl ?? ''}`
-    if (seen.has(key)) continue
-    seen.add(key)
-    sites.push({
-      name: mod.sourceName,
-      lang,
-      icon: mod.iconUrl ?? mod.iconURL ?? '',
-      url: mod.baseUrl ?? '',
-      rating: 'safe',
-      installUrl: installUrl ? `sora://module?url=${installUrl}` : undefined
-    })
+    const name = mod.wotaku_sourceName ?? mod.sourceName
+    const langs = mod.wotaku_language?.length ? mod.wotaku_language : [mod.language]
+    const scriptUrl = mod.scriptUrl ?? mod.scriptURL
+    const installUrl = scriptUrl?.replace(/\.js$/i, '.json')
+    for (const rawLang of langs) {
+      const lang = normalizeSoraLang(rawLang)
+      const key = `${name}::${lang}::${installUrl ?? ''}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      sites.push({
+        name,
+        lang,
+        icon: mod.iconUrl ?? mod.iconURL ?? '',
+        url: mod.baseUrl ?? '',
+        rating: 'safe',
+        contentType: mod.wotaku_type?.[0],
+        streamType: mod.wotaku_streamType?.[0],
+        quality: mod.wotaku_quality?.[0],
+        installUrl: installUrl ? `sora://module?url=${installUrl}` : undefined
+      })
+    }
   }
 
   sites.sort((a, b) => a.name.localeCompare(b.name))
   return sites
 }
 
-function groupSoraLibrary(indexUrl: string, authors: SoraLibraryAuthor[]): { authorRepos: SoraAuthorRepo[]; sitesByType: Record<string, RepoData> } {
+async function loadSoraRepoIndex(indexUrl: string, index: SoraRepoIndex): Promise<{ sites: RepoSite[]; authorRepos: SoraAuthorRepo[]; sitesByAuthor: Record<string, RepoData> }> {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
   const authorRepos: SoraAuthorRepo[] = []
-  const sitesByType: Record<string, RepoData> = {}
+  const sitesByAuthor: Record<string, RepoData> = {}
 
-  for (const entry of authors) {
-    const types: SoraTypeGroup[] = []
-    for (const typeKey of SORA_TYPE_ORDER) {
-      const modules = entry.types[typeKey]
-      if (!modules?.length) continue
-      const typeIndexUrl = new URL(`${entry.author}/${typeKey}.json`, indexUrl).toString()
-      sitesByType[typeIndexUrl] = { sites: toRepoDataSoraModules(modules) }
-      types.push({ label: SORA_TYPE_LABELS[typeKey] ?? typeKey, indexUrl: typeIndexUrl })
+  const entries = index.repos.filter(repo => repo.path && !repo.error)
+  const fileUrls = entries.map(repo => new URL(repo.path!, indexUrl).toString())
+  const moduleLists = await Promise.all(fileUrls.map(url => fetchIndex(url)))
+
+  entries.forEach((repo, i) => {
+    const modules = moduleLists[i]
+    const authorSites = Array.isArray(modules) ? toRepoDataSoraModules(modules as SoraModule[]) : []
+    const fileUrl = fileUrls[i]
+    sitesByAuthor[fileUrl] = { sites: authorSites }
+    authorRepos.push({ label: repo.name, repoUrl: repo.source?.replace(/\.git$/, ''), indexUrl: fileUrl })
+    for (const site of authorSites) {
+      const key = `${site.name}::${site.lang}::${site.installUrl ?? ''}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      sites.push(site)
     }
-    if (!types.length) continue
-    authorRepos.push({ label: entry.author, repoUrl: entry.repo.replace(/\.git$/, ''), types })
-  }
+  })
 
   authorRepos.sort((a, b) => a.label.localeCompare(b.label))
-  return { authorRepos, sitesByType }
+  sites.sort((a, b) => a.name.localeCompare(b.name))
+  return { sites, authorRepos, sitesByAuthor }
 }
 
 function toRepoDataLNReader(plugins: LNReaderPlugin[]): RepoSite[] {
@@ -596,8 +602,6 @@ async function toRepoData(indexUrl: string, json: unknown): Promise<RepoData> {
       sites = toRepoDataHayase(json as HayaseExtension[])
     } else if (first && 'iconUrl' in first && 'site' in first) {
       sites = toRepoDataLNReader(json as LNReaderPlugin[])
-    } else if (isSoraLibrary(json)) {
-      sites = toRepoDataSoraModules(json.flatMap(entry => Object.values(entry.types).flat()))
     } else if (first && 'sources' in first) {
       sites = toRepoDataMihon(iconBase, json as MihonExtension[])
     } else if (first && 'pkg' in first && 'apk' in first) {
@@ -640,12 +644,14 @@ export default {
     const soraAuthors: Record<string, SoraAuthorRepo[]> = {}
     await Promise.all(urls.map(async url => {
       const json = await fetchIndex(url)
-      sites[url] = await toRepoData(url, json)
-      if (isSoraLibrary(json)) {
-        const grouped = groupSoraLibrary(url, json)
-        soraAuthors[url] = grouped.authorRepos
-        Object.assign(sites, grouped.sitesByType)
+      if (isSoraRepoIndex(json)) {
+        const result = await loadSoraRepoIndex(url, json)
+        sites[url] = { sites: result.sites }
+        soraAuthors[url] = result.authorRepos
+        Object.assign(sites, result.sitesByAuthor)
+        return
       }
+      sites[url] = await toRepoData(url, json)
     }))
     return { sites, soraAuthors }
   }

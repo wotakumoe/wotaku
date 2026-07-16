@@ -5,11 +5,18 @@ import { contentTypeLabel } from './helpers'
 import MenuHelp from '../settings/MenuHelp.vue'
 import MenuTitle from '../settings/MenuTitle.vue'
 
-const props = defineProps<{
+const props = withDefaults(defineProps<{
   // Excluded type values; empty means nothing is excluded, so everything is shown.
   modelValue: Set<string>
   availableTypes: string[]
-}>()
+  title?: string
+  icon?: string
+  helpText?: string
+}>(), {
+  title: 'Content Type',
+  icon: 'i-lucide:tags',
+  helpText: 'Shows or hides specific content types. Unchecking a type hides matching entries from the list.'
+})
 
 const emit = defineEmits<{
   'update:modelValue': [value: Set<string>]
@@ -48,18 +55,18 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
 <template>
   <div ref="rootRef" class="ext-ctype-select" :class="{ 'ext-ctype-select--open': open }">
     <div ref="menuTitleElementRef" relative flex items-center mb-2>
-      <MenuTitle title="Content Type" aria-label="Content Type" flex="1" pr-4>
+      <MenuTitle :title="title" :aria-label="title" flex="1" pr-4>
         <template #icon>
-          <span i-lucide:tags mr-1 aria-hidden="true" />
+          <span :class="icon" mr-1 aria-hidden="true" />
         </template>
       </MenuTitle>
       <MenuHelp
         v-model:is-popped-up="isMenuHelpPoppedUp"
         :menu-title-element-ref="menuTitleElementRef"
       >
-        <h4 text-md mb-1 font-semibold>Content Type</h4>
+        <h4 text-md mb-1 font-semibold>{{ title }}</h4>
         <p text="sm" mb-2 max-w-100>
-          Shows or hides specific content types. Unchecking a type hides matching entries from the list.
+          {{ helpText }}
         </p>
       </MenuHelp>
     </div>
