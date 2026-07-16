@@ -386,7 +386,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.biz/)
+- [Dokiraw](https://dokiraw.vip/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://i.wotaku.wiki/p/proxy#kl-manga)
 - [MangaFire](https://mangafire.to/)
@@ -402,9 +402,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://i.wotaku.wiki/p/proxy#raw1001)
 - [RawBaka](https://rawbaka.com/)
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.li/)
+- [Raw FREE](https://rawfree.men/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.beer/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.bike/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Soraraw](https://soraraw.com/)
@@ -470,7 +470,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [MoneyToon](https://mtoon144.asia/) |
 | ^^ | [NameeToon](https://namee104.asia/) |
 | ^^ | [TOONKOR](https://tkor135.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf416.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf](https://wfwf421.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon219.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt334.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
