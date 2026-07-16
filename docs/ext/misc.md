@@ -109,27 +109,27 @@ og:
 ::: extrepo {scheme=kotatsu}
 
 == Sheby's builds
-- url: https://github.com/Shebyyy/kotatsu-multi-parsers
+- url: https://github.com/Shebyyy/kotatsu/kotatsu-multi-parsers
 -- Kotatsu-Redo
-- raw: https://kotatsu-83g.pages.dev/kotatsu-parsers-redo.json
+- raw: https://kotatsu-83g.pages.dev/kotatsu/kotatsu-parsers-redo.json
 -- YakaTeam
 - raw: https://kotatsu-83g.pages.dev/yakateam-kotatsu-parsers.json
 -- TamerAli-0
-- raw: https://kotatsu-83g.pages.dev/tamerali-kotatsu-parsers.json
+- raw: https://kotatsu-83g.pages.dev/kotatsu/tamerali-kotatsu-parsers.json
 -- Kaisoku
-- raw: https://kotatsu-83g.pages.dev/kaisoku-parsers.json
+- raw: https://kotatsu-83g.pages.dev/kotatsu/kaisoku-parsers.json
 -- hany18h
-- raw: https://kotatsu-83g.pages.dev/hany18h-kotatsu-parsers.json
+- raw: https://kotatsu-83g.pages.dev/kotatsu/hany18h-kotatsu-parsers.json
 -- Kototoro
-- raw: https://kotatsu-83g.pages.dev/kototoro-parsers.json
+- raw: https://kotatsu-83g.pages.dev/kotatsu/kototoro-parsers.json
 
 == UMA
 - url: https://github.com/InvalidDavid/UMA
-- raw: https://kotatsu-83g.pages.dev/uma.json
+- raw: https://kotatsu-83g.pages.dev/kotatsu/uma.json
 
 == Draken
-- url: https://github.com/dragonx943/manga-repo
-- raw: https://kotatsu-83g.pages.dev/manga-repo.json
+- url: https://github.com/dragonx943/kotatsu/manga-repo
+- raw: https://kotatsu-83g.pages.dev/kotatsu/manga-repo.json
 
 :::
 

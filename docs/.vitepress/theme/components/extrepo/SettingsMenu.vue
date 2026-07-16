@@ -16,6 +16,12 @@ defineProps<{
   contentTypeFilter: Set<string>
   availableContentTypes: string[]
   hasContentTypes: boolean
+  streamTypeFilter: Set<string>
+  availableStreamTypes: string[]
+  hasStreamTypes: boolean
+  qualityFilter: Set<string>
+  availableQualities: string[]
+  hasQualities: boolean
   showBroken: boolean
   hasBroken: boolean
 }>()
@@ -24,6 +30,8 @@ defineEmits<{
   'update:langFilter': [value: string]
   'update:ratingFilter': [value: RatingFilterValue]
   'update:contentTypeFilter': [value: Set<string>]
+  'update:streamTypeFilter': [value: Set<string>]
+  'update:qualityFilter': [value: Set<string>]
   'update:showBroken': [value: boolean]
 }>()
 
@@ -98,7 +106,7 @@ onUnmounted(() => {
         v-show="open"
         ref="menuRef"
         class="ext-settings-menu VPMenu"
-        :class="{ 'ext-settings-menu--wide': hasSuggestive || hasContentTypes }"
+        :class="{ 'ext-settings-menu--wide': hasSuggestive || hasContentTypes || hasStreamTypes || hasQualities }"
         :style="menuStyle"
       >
         <LangSelect
@@ -118,6 +126,24 @@ onUnmounted(() => {
           :model-value="contentTypeFilter"
           :available-types="availableContentTypes"
           @update:model-value="$emit('update:contentTypeFilter', $event)"
+        />
+        <ContentTypeFilter
+          v-if="hasStreamTypes"
+          :model-value="streamTypeFilter"
+          :available-types="availableStreamTypes"
+          title="Stream Type"
+          icon="i-lucide:cast"
+          help-text="Shows or hides specific stream types. Unchecking a type hides matching entries from the list."
+          @update:model-value="$emit('update:streamTypeFilter', $event)"
+        />
+        <ContentTypeFilter
+          v-if="hasQualities"
+          :model-value="qualityFilter"
+          :available-types="availableQualities"
+          title="Quality"
+          icon="i-lucide:monitor"
+          help-text="Shows or hides specific quality levels. Unchecking a quality hides matching entries from the list."
+          @update:model-value="$emit('update:qualityFilter', $event)"
         />
         <BrokenFilter
           v-if="hasBroken"

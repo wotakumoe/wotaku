@@ -37,12 +37,18 @@ const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora'])
 
 const NO_COPY_SCHEMES = new Set(['suwatte'])
 
+const COPYABLE_BROWSE_ONLY_SCHEMES = new Set(['sora'])
+
 export function isBrowseOnly(scheme: string): boolean {
   return BROWSE_ONLY_SCHEMES.has(scheme)
 }
 
 export function hasCopyButton(scheme: string): boolean {
   return !NO_COPY_SCHEMES.has(scheme)
+}
+
+export function hasBrowseOnlyCopyButton(scheme: string): boolean {
+  return COPYABLE_BROWSE_ONLY_SCHEMES.has(scheme)
 }
 
 export function installHref(scheme: string, repo: Repo, opts?: InstallOpts): string | null {
