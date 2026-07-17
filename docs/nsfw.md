@@ -57,6 +57,7 @@ og:
 - [Hentai Nexus](https://hentainexus.com/) ==HenTalkNexus==
 - [HentaiFox](https://hentaifox.com/)
 - [HentaiRead](https://hentairead.com/)
+- [HenTalk](https://hentalk.pw/) ==HenTalkNexus==
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 </collapsible>
