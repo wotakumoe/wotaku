@@ -13,22 +13,13 @@ import FloatingVue from 'floating-vue'
 import '@nolebase/vitepress-plugin-enhanced-readabilities/client/style.css'
 import '@nolebase/vitepress-plugin-page-properties/client/style.css'
 import 'floating-vue/dist/style.css'
-import Authors from './components/Authors.vue'
-import Tooltip from './components/Tooltip.vue'
 import { createMediumZoomProvider } from './composables/medium-zoom'
 import 'virtual:uno.css'
-import Collapsible from './components/Collapsible.vue'
-import { ExtensionRepos } from './components/extrepo'
-import Fb from './components/Fb.vue'
-import Feedback from './components/Feedback.vue'
-import ScrapeTable from './components/ScrapeTable.vue'
 import Layout from './Layout.vue'
 import './styles/tooltip-hint.css'
 import './styles/steps.css'
-import Block from './components/Block.vue'
-import Highlight from './components/Highlight.vue'
-import LinkInline from './components/LinkInline.vue'
 import { enhanceAppWithTabs } from './components/tabs'
+import { registerGlobalComponents } from './globalComponents'
 
 export default {
   extends: DefaultTheme,
@@ -50,16 +41,7 @@ export default {
       }
     })
     enhanceAppWithTabs(app)
-    app.component('LinkInline', LinkInline)
-    app.component('hl', Highlight)
-    app.component('Block', Block)
-    app.component('Authors', Authors)
-    app.component('Tooltip', Tooltip)
-    app.component('Feedback', Feedback)
-    app.component('fb', Fb)
-    app.component('Collapsible', Collapsible)
-    app.component('ScrapeTable', ScrapeTable)
-    app.component('ExtensionRepos', ExtensionRepos)
+    registerGlobalComponents(app)
     createMediumZoomProvider(app, router)
     app.use(
       NolebasePagePropertiesPlugin<{ tags: string[]; progress: number }>(),

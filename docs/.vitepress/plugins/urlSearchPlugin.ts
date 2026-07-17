@@ -53,6 +53,7 @@ function extractSearchMetadataFromMarkdown(
     headings: string[]
   }[] = []
   let currentAnchor = ''
+  let extrepoEntryName: string | null = null
 
   const body = src.startsWith('---')
     ? src.replace(/^---[\s\S]*?---\n?/, '')
@@ -137,6 +138,26 @@ function extractSearchMetadataFromMarkdown(
         tabPath.length = getTabsDepth()
         const resetState = tabResetStack.pop()
         if (resetState) restoreHeadingState(resetState)
+      } else if (closed === 'extrepo') {
+        extrepoEntryName = null
+      }
+    }
+
+    if (containerStack.includes('extrepo') && !containerStack.includes('tabs')) {
+      const extrepoHeadingMatch = line.match(/^\s*==\s+(.+)$/)
+      if (extrepoHeadingMatch) {
+        extrepoEntryName = extrepoHeadingMatch[1].trim()
+        continue
+      }
+
+      if (extrepoEntryName) {
+        const fieldMatch = line.match(
+          /^\s*-\s*(?:url|raw|src|manga|anime|novel)\s*:\s*(\S+)/
+        )
+        if (fieldMatch) {
+          pushLink(fieldMatch[1].trim(), extrepoEntryName)
+          continue
+        }
       }
     }
 
