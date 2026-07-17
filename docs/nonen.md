@@ -554,7 +554,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [AnimeStars](https://animestars.org/) ||Aggregator|| |
 | ^^ | [Animevost](https://animevost.org/) |
 | ^^ | [MAL to Kodik](https://mal-to-kodik.github.io/) ||Aggregator|| |
-| ^^ | [One Pace](https://onepace-ru.tilda.ws/) |
+| ^^ | [One Pace RU](https://onepace-ru.tilda.ws/) |
 | ^^ | [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) ||Sub|| |
 | ^^ | [YummyAnime](https://old.yummyani.me/) |
 | **Manga** | [Com-X](https://ru.com-x.life/) |
