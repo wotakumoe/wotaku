@@ -545,7 +545,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Anime** | [AniDUB](https://v13.anidub.digital/) |
 | ^^ | [AniFilm](https://anifilm.pro/) |
-| ^^ | [AniFox](https://anifox.club/anime) ||Aggregator|| |
 | ^^ | [AniLiberty](https://anilibria.top/) ||Sub|| |
 | ^^ | [AniMan](https://animan.ru/) |
 | ^^ | [AnimeBuff](https://animebuff.ru/) ||Sub|| |
@@ -554,7 +553,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
 | ^^ | [AnimeStars](https://animestars.org/) ||Aggregator|| |
 | ^^ | [Animevost](https://animevost.org/) |
-| ^^ | [Kage Project](http://fansubs.ru/) <tooltip>Subtitle files only, you need to get the episodes from another source.</tooltip> |
 | ^^ | [MAL to Kodik](https://mal-to-kodik.github.io/) ||Aggregator|| |
 | ^^ | [One Pace](https://onepace-ru.tilda.ws/) |
 | ^^ | [Tunime](https://an0ncer.github.io/) [:src:](https://github.com/AN0NCER/an0ncer.github.io) ||Sub|| |
@@ -565,8 +563,9 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [MangaHub](https://mangahub.ru/) |
 | ^^ | [MangaLIB](https://mangalib.me/) |
 | ^^ | [ReManga](https://remanga.org/) |
-| **Others** | [RanobeLIB](https://ranobelib.me/) |
-| ^^ | [VseDoramy](https://vsedoramy.ru/) |
+| **Others** | [Kage Project](http://fansubs.ru/) ||Subtitles|| |
+| ^^ | [RanobeLIB](https://ranobelib.me/) ||Novels|| |
+| ^^ | [VseDoramy](https://vsedoramy.ru/) ||Drama|| |
 
 
 ### Software
