@@ -121,6 +121,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 - [Hanako's Hideout](https://discord.gg/jVvSbYB)
 - [hanime.tv Community](https://discord.gg/hanime-tv)
+- [HenTalk](https://discord.gg/jUv3a6EHeY)
 - [Pornhwa Database](https://discord.gg/pjsHcU8Tah)
 - [r/pornhwa](https://discord.gg/epjkRVp7gD)
 - [r/rule34](https://discord.gg/zMrMhpZ)
