@@ -63,6 +63,7 @@ import { LRUCache } from '../composables/search/lru-cache'
 import { createSearchTranslate } from '../composables/search/translation'
 import { useData } from '../composables/search/use-data'
 import { useEffects } from '../composables/useEffects'
+import { registerGlobalComponents } from '../globalComponents'
 import { enhanceAppWithTabs } from './tabs'
 
 export interface FooterTranslations {
@@ -1298,6 +1299,7 @@ function buildDocExcerpt(docId: string): Promise<void> {
     const app = createApp(comp)
     app.config.warnHandler = () => {}
     enhanceAppWithTabs(app, { renderAll: true })
+    registerGlobalComponents(app)
     app.provide(dataSymbol, vitePressData)
     Object.defineProperties(app.config.globalProperties, {
       $frontmatter: {
