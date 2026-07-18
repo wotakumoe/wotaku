@@ -1713,6 +1713,8 @@ html.effects-disabled {
 .wk-favicon-fallback {
   background: none;
   color: var(--vp-c-text-3);
+  position: relative;
+  top: 2px;
 }
 
 /* Icon tooltips (hover on desktop, tap on mobile) */
