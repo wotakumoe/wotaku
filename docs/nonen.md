@@ -712,7 +712,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [TruyenFull](https://truyenfull.live/) :ero: |
 | ^^ | [Xalosach](https://xalosach.com/) |
 | **Others** | [Tana.moe](https://tana.moe/) |
-| ^^ | [TokuVN](https://tokuvn.com/) |
 | ^^ | [Vietnam Key FanClub](https://vnkeyfc.com/) :ddl: |
 
 ### Software
