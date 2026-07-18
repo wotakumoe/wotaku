@@ -461,7 +461,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Websites |
 | :--- | :--- |
-| **Comic** | [Fox Comics](https://fxfx331.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| **Comic** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc116.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon4.com/) |
 | ^^ | [Funbe](https://funbe657.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
@@ -471,8 +471,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [NameeToon](https://namee104.asia/) |
 | ^^ | [TOONKOR](https://tkor135.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf421.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [Wolf 2](https://wftoon219.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [WToon](https://wtwt334.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf 2](https://wftoon220.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t3.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon238.asia/) [:prx:](https://yatoonlink.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
