@@ -864,7 +864,7 @@ function applyFavicons(root: ParentNode) {
     .forEach((link) => {
       const href = link.getAttribute('href') ?? ''
       if (!/^https?:\/\//i.test(href) || href.startsWith(origin)) return
-      if (link.querySelector('hl, .icon-tip, img, svg')) return
+      if (link.querySelector('.highlight-pill, .icon-tip, img, svg')) return
       if (!link.textContent?.trim()) return
 
       let hostname: string
