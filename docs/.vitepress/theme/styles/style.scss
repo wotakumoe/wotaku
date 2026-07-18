@@ -544,6 +544,23 @@ table tr:nth-child(odd) {
   border-color: #3d3d3d;
 }
 
+/* width: max-content forces exact column sizing so favicon toggling doesn't shrink the right-side gap. */
+@media (max-width: 767px) {
+  .vp-doc table:not(.scrape-table) {
+    width: max-content;
+  }
+
+  .vp-doc table:not(.scrape-table) th,
+  .vp-doc table:not(.scrape-table) td {
+    white-space: nowrap;
+  }
+
+  /* Scroll container injected by wrapTablesInRoot in Layout.vue, isolated from sibling content. */
+  .table-scroll {
+    overflow-x: auto;
+  }
+}
+
 .tip.custom-block table tr,
 .tip.custom-block table td,
 .tip.custom-block table th {
