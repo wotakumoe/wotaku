@@ -63,6 +63,7 @@ import { LRUCache } from '../composables/search/lru-cache'
 import { createSearchTranslate } from '../composables/search/translation'
 import { useData } from '../composables/search/use-data'
 import { useEffects } from '../composables/useEffects'
+import { applyFavicons, useFavicons } from '../composables/useFavicons'
 import { registerGlobalComponents } from '../globalComponents'
 import { enhanceAppWithTabs } from './tabs'
 
@@ -140,6 +141,7 @@ const filterText = disableQueryPersistence.value
   : useSessionStorage('vitepress:local-search-filter', '')
 
 const { effectsEnabled: searchAnimationsEnabled } = useEffects()
+const { faviconsEnabled } = useFavicons()
 const showKeyboardShortcuts = computed(() => !filterText.value)
 
 const SearchMotionDiv = motion.div
@@ -1671,6 +1673,11 @@ watch(filteredUrlResults, (r) => {
     selectedIndex.value = r.length ? 0 : -1
     scrollToSelectedResult()
   }
+})
+
+watch([pagedResults, filteredUrlResults, faviconsEnabled], () => {
+  if (!faviconsEnabled.value) return
+  nextTick(() => { if (resultsEl.value) applyFavicons(resultsEl.value) })
 })
 
 function scrollToSelectedResult() {
