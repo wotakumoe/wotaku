@@ -544,6 +544,23 @@ table tr:nth-child(odd) {
   border-color: #3d3d3d;
 }
 
+/* width: max-content forces exact column sizing so favicon toggling doesn't shrink the right-side gap. */
+@media (max-width: 767px) {
+  .vp-doc table:not(.scrape-table) {
+    width: max-content;
+  }
+
+  .vp-doc table:not(.scrape-table) th,
+  .vp-doc table:not(.scrape-table) td {
+    white-space: nowrap;
+  }
+
+  /* Scroll container injected by wrapTablesInRoot in Layout.vue, isolated from sibling content. */
+  .table-scroll {
+    overflow-x: auto;
+  }
+}
+
 .tip.custom-block table tr,
 .tip.custom-block table td,
 .tip.custom-block table th {
@@ -1697,6 +1714,24 @@ html.effects-disabled {
   .settings-popup-leave-to {
     transform: none !important;
   }
+}
+
+// favicons beside external links
+.wk-favicon {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin: 0 0.3em 0 0.1em;
+  vertical-align: -2px;
+  border-radius: 3px;
+  background: var(--vp-c-default-soft);
+}
+
+.wk-favicon-fallback {
+  background: none;
+  color: var(--vp-c-text-3);
+  position: relative;
+  top: 2px;
 }
 
 /* Icon tooltips (hover on desktop, tap on mobile) */

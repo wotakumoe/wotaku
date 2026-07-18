@@ -35,6 +35,7 @@ import NavActions from './components/NavActions.vue'
 import SidebarCard from './components/SidebarCard.vue'
 import { AccentBgStorageKey, AccentBgStrengthStorageKey, AccentColorStorageKey } from './constants'
 import { useEffects } from './composables/useEffects'
+import { applyFavicons, removeFavicons, useFavicons } from './composables/useFavicons'
 
 const route = useRoute()
 const { frontmatter, isDark, site, theme } = useData()
@@ -803,6 +804,20 @@ watchEffect(() => {
   )
 })
 
+const { faviconsEnabled } = useFavicons()
+
+watch(faviconsEnabled, (enabled) => {
+  if (import.meta.env.SSR) return
+  if (enabled) nextTick(() => applyFavicons(document))
+  else removeFavicons()
+}, { immediate: true })
+
+watch(
+  () => route.path,
+  () => nextTick(() => { if (faviconsEnabled.value) applyFavicons(document) }),
+  { flush: 'post' }
+)
+
 type ShadeMap = Record<string, string>
 type PaletteEntry = ShadeMap | { dark: ShadeMap; light: ShadeMap }
 
@@ -989,6 +1004,17 @@ function initTitleOnly() {
   })
 }
 
+// Wrap bare tables in their own scroll container so they scroll independently of sibling content.
+function wrapTablesInRoot(root: ParentNode) {
+  root.querySelectorAll<HTMLTableElement>('table:not(.scrape-table)').forEach(table => {
+    if (table.parentElement?.classList.contains('table-scroll')) return
+    const wrapper = document.createElement('div')
+    wrapper.className = 'table-scroll'
+    table.replaceWith(wrapper)
+    wrapper.appendChild(table)
+  })
+}
+
 function initCopyButtonsInRoot(root: ParentNode) {
   root.querySelectorAll<HTMLTableElement>('table').forEach(table => {
     const headers = table.querySelectorAll<HTMLTableCellElement>('thead th')
@@ -1069,6 +1095,7 @@ function initCopyButtonsInRoot(root: ParentNode) {
 let copyButtonObserver: MutationObserver | null = null
 
 function setupManualCopyButtons() {
+  wrapTablesInRoot(document)
   initCopyButtonsInRoot(document)
 
   copyButtonObserver?.disconnect()
@@ -1077,10 +1104,16 @@ function setupManualCopyButtons() {
       for (const node of mutation.addedNodes) {
         if (!(node instanceof HTMLElement)) continue
         if (node.classList.contains('plugin-tabs--content')) {
+          wrapTablesInRoot(node)
           initCopyButtonsInRoot(node)
+          if (faviconsEnabled.value) applyFavicons(node)
         } else {
           node.querySelectorAll<HTMLElement>('.plugin-tabs--content').forEach(
-            panel => initCopyButtonsInRoot(panel)
+            (panel) => {
+              wrapTablesInRoot(panel)
+              initCopyButtonsInRoot(panel)
+              if (faviconsEnabled.value) applyFavicons(panel)
+            }
           )
         }
       }
@@ -1295,6 +1328,7 @@ onUnmounted(() => {
   outlineFollowObserver?.disconnect()
   copyButtonObserver?.disconnect()
   tocMutationObserver?.disconnect()
+  faviconObserver?.disconnect()
   cancelAnimationFrame(outlineFollowRaf)
   cancelAnimationFrame(tocRaf)
   window.removeEventListener(BOOKMARK_CHANGE_EVENT, syncTocBookmarkStates)

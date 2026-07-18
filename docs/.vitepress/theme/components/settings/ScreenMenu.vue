@@ -6,6 +6,7 @@ import VPSocialLinks from 'vitepress/dist/client/theme-default/components/VPSoci
 import AccentBackground from './AccentBackground.vue'
 import AccentColor from './AccentColor.vue'
 import Effects from './Effects.vue'
+import Favicons from './Favicons.vue'
 
 const mounted = useMounted()
 const { theme } = useData()
@@ -16,6 +17,7 @@ const { theme } = useData()
     <AccentColor />
     <AccentBackground />
     <Effects />
+    <Favicons />
     <VPSocialLinks
       v-if="theme.socialLinks"
       :links="theme.socialLinks"
