@@ -1699,6 +1699,22 @@ html.effects-disabled {
   }
 }
 
+// favicons beside external links
+.wk-favicon {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin: 0 0.3em 0 0.1em;
+  vertical-align: -2px;
+  border-radius: 3px;
+  background: var(--vp-c-default-soft);
+}
+
+.wk-favicon-fallback {
+  background: none;
+  color: var(--vp-c-text-3);
+}
+
 /* Icon tooltips (hover on desktop, tap on mobile) */
 .icon-tip {
   position: relative;

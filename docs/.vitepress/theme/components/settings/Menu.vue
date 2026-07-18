@@ -4,6 +4,7 @@ import { useMounted } from '@vueuse/core'
 import AccentBackground from './AccentBackground.vue'
 import AccentColor from './AccentColor.vue'
 import Effects from './Effects.vue'
+import Favicons from './Favicons.vue'
 import SettingsFlyout from './SettingsFlyout.vue'
 
 const mounted = useMounted()
@@ -21,6 +22,7 @@ const mounted = useMounted()
       <AccentColor />
       <AccentBackground />
       <Effects />
+      <Favicons />
     </div>
   </SettingsFlyout>
 </template>

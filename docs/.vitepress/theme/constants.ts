@@ -1,4 +1,5 @@
 export const EffectsStorageKey = 'preference-effects'
+export const FaviconsStorageKey = 'preference-favicons'
 export const AccentColorStorageKey = 'preference-accent-color'
 export const AccentBgStorageKey = 'preference-accent-bg'
 /** Accent background tint strength, 0–100. */
