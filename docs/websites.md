@@ -134,6 +134,7 @@ Some of the series/services may not be available depending on your region.
 
 <collapsible title="Utility sites">
 
+- [FlixHop](https://flixhop.com/)
 - [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
 - [Simkl](https://simkl.com/)
 - [uNoGS](https://unogs.com/)
