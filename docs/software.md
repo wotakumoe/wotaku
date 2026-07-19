@@ -51,7 +51,7 @@ og:
 
 <collapsible title="Mihon related utilities">
 
-- [Tachibk Viewer](https://backup.mihon.tools/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer)
+- [Tachibk Viewer](https://tachibk.netlify.app/) [:src:](https://github.com/Animeboynz/Mihon-Backup-Viewer)
 - [Aniyomi Local Manager](https://gitlab.com/Secozzi/aniyomi-local-manager)
 - [Mihon Local Source JSON Generator](https://mihonlocal.netlify.app/) [:src:](https://github.com/Animeboynz/mihon-local)
 - [Kihon](https://github.com/tbvns/Kihon)
