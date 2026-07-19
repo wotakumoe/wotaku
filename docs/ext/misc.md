@@ -113,7 +113,7 @@ og:
 -- Kotatsu-Redo
 - raw: https://kotatsu-83g.pages.dev/kotatsu/kotatsu-parsers-redo.json
 -- YakaTeam
-- raw: https://kotatsu-83g.pages.dev/yakateam-kotatsu-parsers.json
+- raw: https://kotatsu-83g.pages.dev/kotatsu/yakateam-kotatsu-parsers.json
 -- TamerAli-0
 - raw: https://kotatsu-83g.pages.dev/kotatsu/tamerali-kotatsu-parsers.json
 -- Kaisoku
