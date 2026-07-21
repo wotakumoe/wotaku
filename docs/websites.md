@@ -274,7 +274,7 @@ Some of the series/services may not be available depending on your region.
 | [Tappytoon](https://www.tappytoon.com/en/comics/discover) | :free::coin::sub: |
 | [Toomics](https://toomics.com/en/) | :free::coin::sub: |
 | [TopToon](https://global.toptoon.com/) | :free::coin::sub: |
-| [WebComics](https://webcomicsapp.com/) | :free::coin: |
+| [WebComics](https://webcomicsapp.com/en/) | :free::coin: |
 | [Webtoon](https://www.webtoons.com/en/) | :free::coin::sub: |
 
 </collapsible>
