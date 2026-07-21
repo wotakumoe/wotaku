@@ -349,7 +349,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
 - [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official)
 
-<collapsible title="General Live-Action"> 
+<collapsible title="General Live Action"> 
 
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
@@ -365,20 +365,10 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Zekozimo](https://zekozimo.blogspot.com/) :s: ||General||
 - [KRDL](https://krdl.moe/) :s:
 - [Nyaa](https://nyaa.si/) :mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
+- [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/GYahYNWutE)
 - [Bereke Scrubs](https://berekescrubs.wordpress.com/)
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
 - [Metallic Subs](https://metallicsubs.wordpress.com/)
-
-<collapsible title="General Live-Action"> 
-
-- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
-- [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/GYahYNWutE)
-- [EXT Torrents](https://ext.to/) :mag:
-- [Dramaday](https://dramaday.me/) :ckr:
-- [DramaSuki](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded:
-- [Rare Doramas](https://www.raredoramas.com/) :cjp:
-
-</collapsible>
 
 == Wikis
 
