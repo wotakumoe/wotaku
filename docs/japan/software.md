@@ -113,6 +113,7 @@ og:
 | ^^ | [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo) |
 | ^^ | [renshuu](https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org) [:web:](https://www.renshuu.org/) |
 | ^^ | [rougo](https://github.com/1Selxo/rougo) |
+| ^^ | [Smouldering Durtles](https://github.com/jerryhcooke/smouldering_durtles) |
 | ^^ | [Vocal Pitch Monitor](https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor) |
 | ^^ | [Write It! Japanese](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn) |
 | **iOS** | [Japanese](https://apps.apple.com/app/id290664053) |
