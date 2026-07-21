@@ -250,6 +250,7 @@ og:
 
 == Misc
 
+- [ASMR Online](https://asmr.one/) <tooltip>Needs JP or HK VPN.</tooltip>
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
 - [HMV Mania](https://hmvmania.com/) [:f:](https://archiveofsins.com/h/thread/8735646)
 - [Japanese ASMR](https://japaneseasmr.com/)
