@@ -1,6 +1,7 @@
 ---
 title: iOS Apps Extension Repos
 customDescription: Extension Repos & Guides for Aidoku, Sora & Suwatte
+feedback: no
 og:
     image: /embed/ios.png
 ---

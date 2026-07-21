@@ -2,6 +2,7 @@
 title: Extension Repos for Miscellaneous Software
 customDescription: Miscellaneous Extension Repos & Guides
 outline: 2
+feedback: no
 og:
     image: /embed/extension.png
 ---

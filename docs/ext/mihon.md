@@ -2,6 +2,7 @@
 title: Mihon, Aniyomi & Dantotsu Extension Repos
 customDescription: Extension Repos & Guides for Mihon, Aniyomi & Dantotsu
 outline: [2,3]
+feedback: no
 og:
     image: /embed/extension.png
 ---

@@ -1,6 +1,7 @@
 ---
 title: Extensions
 description: Extension repos for various apps
+feedback: no
 og:
     image: /embed/extension.png
 ---

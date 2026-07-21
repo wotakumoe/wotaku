@@ -1,6 +1,7 @@
 ---
 title: Torrenting
 description: Torrenting Basics & Tutorials
+feedback: no
 og:
     image: /embed/tor.png
 ---
