@@ -344,7 +344,6 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 == Online
 
-- [Zenkaj](https://zenkaj.com/)
 - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial)
 - [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
 - [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official)
