@@ -110,7 +110,7 @@ export const contribs = {
     {
       name: 'raeji',
       avatar: 'https://github.com/jijirae.png',
-      site: 'https://raeji.neocities.org/'
+      site: 'https://github.com/jijirae'
     }
   ]
 } satisfies Contributors
