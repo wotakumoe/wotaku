@@ -305,7 +305,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AnimeLok](https://animelok.net/home) + :len: |
 | ^^ | [Anime Bash India](https://animebashindia.me/home) |
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
-| ^^ | [Anime Salt](https://animesalt.ac/) + :len: |
+| ^^ | [Anime Salt](https://animesalt.link/) + :len: |
 | ^^ | [Anime World India](https://watchanimeworld.net/) + :len: |
 | ^^ | [AniMoye](https://animoye.com/) + :len: |
 | ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
@@ -464,12 +464,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc116.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon4.com/) |
-| ^^ | [Funbe](https://funbe658.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe659.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
-| ^^ | [MoneyToon](https://mtoon144.asia/) |
+| ^^ | [MoneyToon](https://mtoon145.asia/) |
 | ^^ | [NameeToon](https://namee104.asia/) |
-| ^^ | [TOONKOR](https://tkor136.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [TOONKOR](https://tkor137.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf421.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon220.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
