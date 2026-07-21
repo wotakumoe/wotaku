@@ -404,7 +404,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [BatCave.biz](https://batcave.biz/)
 - [Comic Book Plus](http://comicbookplus.com/) ||Vintage||
 - [Digital Comic Museum](https://digitalcomicmuseum.com/) ||Vintage||
-- [Read Comics Online](https://readcomicsonline.ru/) ||.ru||
+- [Read Comics Online](https://readcomicsonline.ru/) ||GetComics||
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
 == Download
