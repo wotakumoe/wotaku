@@ -80,6 +80,7 @@ og:
 - [AQ Stream](https://aqstream.com/jp)
 - [FAST ch](https://fastv.jp/) :hd:
 - [Japanese TV](https://mov3.co/) :hd:
+- [Japanese IPTV Playlist](https://gitflic.ru/project/reaperc/jp-iptv)
 - [takelab](https://github.com/take2560/takelab)
 - [TVer](https://tver.jp/) ==TVer==
 
@@ -108,6 +109,7 @@ og:
 - [boroboro](https://boroboro.neocities.org/)
 - [Japanese Learner's Anthology](https://nyaa.si/?q=PeepoHappyBooks) :mag:
 - [lolibrary index](https://lolibrary.moe/)
+- [Moe Library](https://books.moelibrary.cc/)
 - [TMW eBook Collection](https://nyaa.si/?q=TMW+eBook) :mag:
 
 == Easy Reading
@@ -167,3 +169,7 @@ og:
 - [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
 - [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
 - [Fake Documentary "Q"](https://www.youtube.com/playlist?list=PLnjharIzqbhC6smXfbydrt8ha3z-XVod7)
+
+
+## Others
+- [NihongoTracker](https://nihongotracker.app/) [:src:](https://github.com/HitogiDev/NihongoTracker)

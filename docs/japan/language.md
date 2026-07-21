@@ -94,6 +94,7 @@ og:
 - [Kanji Search](https://khaitruong922.github.io/kanji-search/) [:src:](https://github.com/khaitruong922/kanji-search)
 - [Kanjipedia](https://www.kanjipedia.jp/)
 - [Kotonoha dictionary](https://kotonoha-dictionary.com/)
+- [NINJAL Nihongo Bunkei](https://github.com/W1ght/ninjal-bunkei-yomitan)
 - [pixiv Encyclopedia](https://dic.pixiv.net/)
 - [Takoboto](https://takoboto.jp/)
 - [Tangorin](https://tangorin.com/)
@@ -102,6 +103,13 @@ og:
 - [Wiktionary](https://wiktionary.org)
 
 </Collapsible>
+
+::: tip Utilities
+
+- [Bee's Yomitan Dictionaries](https://characterdictionary.tokyo/) [:src:](https://github.com/bee-san/Japanese_Character_Name_Dictionary)
+- [Yomitan Frequency Dictionaries](https://www.yomitanfrequencies.org/) [:src:](https://github.com/AaronTimony/yomitan-frequency-combiner)
+
+:::
 
 == Practice
 - [Kotobaweb](https://kotobaweb.com/)
@@ -163,6 +171,7 @@ og:
 - [Kanji Tools](https://kanji.sljfaq.org/)
 - [Kanji Worksheets](https://jensechu.github.io/kanji/index.html) <tooltip>Printable Kanji worksheet</tooltip>
 - [Massif](https://massif.la/ja) <tooltip>Search through Book / WN / Web</tooltip>
+- [mojikazu](https://mojikazu.moe/)
 - [Niai](https://niai.mrahhal.net/similar) <tooltip>Similar kanji, homonyms & synonyms finder</tooltip>
 - [OJAD AI Reader](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index) <tooltip>Generate pitch accent</tooltip>
 - [RTK Search](https://hochanh.github.io/rtk/)
