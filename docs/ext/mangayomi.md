@@ -2,6 +2,7 @@
 title: Mangayomi Extension Repos
 customDescription: Extension Repos & Guides for Mangayomi.
 outline: [2,3]
+feedback: no
 og:
     image: /embed/extension.png
 ---

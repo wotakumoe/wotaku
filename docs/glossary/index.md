@@ -1,6 +1,7 @@
 ---
 title: Glossary
 description: Essential otaku and tech-related terminology
+feedback: no
 og:
     image: /embed/glossary.png
 ---

@@ -23,7 +23,15 @@ export const headersPlugin = (md: MarkdownRenderer) => {
     if (idxClose <= idx) return result
 
     const level = tokens[idx].tag.slice(1)
-    if (excluded.includes(env.frontmatter.title) || level !== '2') return result
+    const feedback = env.frontmatter.feedback
+    if (
+      excluded.includes(env.frontmatter.title) ||
+      level !== '2' ||
+      feedback === false ||
+      feedback === 'no'
+    ) {
+      return result
+    }
 
     // Find the token for the link.
     //

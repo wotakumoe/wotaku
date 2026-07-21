@@ -1,6 +1,7 @@
 ---
 title: Guides
 description: Various helpful Tutorials & Guides
+feedback: no
 og:
     image: /embed/guide.png
 ---
