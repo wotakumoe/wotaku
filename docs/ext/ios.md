@@ -79,6 +79,11 @@ og:
 - src: https://github.com/nyzzik/extensions
 - raw: https://paperback.nyzz.me/versioning.json
 
+== Popmango
+- url: https://poppingmangosources.github.io/general-extensions-mangago/0.9/test/
+- src: https://github.com/PoppingMangoSources/general-extensions-mangago
+- raw: https://poppingmangosources.github.io/general-extensions-mangago/0.9/test/versioning.json
+
 == Sinon
 - url: https://catta1997.github.io/Sinon-Paperback-Extensions/0.9/stable/
 - src: https://github.com/Catta1997/Sinon-Paperback-Extensions
