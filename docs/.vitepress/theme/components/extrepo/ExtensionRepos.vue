@@ -13,6 +13,7 @@ const { tooltip } = provideTooltip()
 
 const repoData = data.sites
 const soraAuthors = data.soraAuthors
+const echoAuthors = data.echoAuthors
 
 const props = defineProps<{
   repos: Repo[]
@@ -22,7 +23,7 @@ const props = defineProps<{
 const resolvedRepos = computed<Repo[]>(() => {
   const result: Repo[] = []
   for (const repo of props.repos) {
-    const authors = soraAuthors[repo.indexUrl]
+    const authors = soraAuthors[repo.indexUrl] ?? echoAuthors[repo.indexUrl]
     if (!authors?.length) {
       result.push(repo)
       continue
@@ -40,7 +41,7 @@ const resolvedRepos = computed<Repo[]>(() => {
 const query = ref('')
 const langFilter = ref('')
 const ratingFilter = ref<RatingFilter>('all')
-const excludedContentTypes = ref<Set<string>>(new Set())
+const contentTypeFilter = ref('')
 const excludedStreamTypes = ref<Set<string>>(new Set())
 const excludedQualities = ref<Set<string>>(new Set())
 const showBroken = ref(false)
@@ -103,7 +104,7 @@ const availableLangs = computed(() => {
 
 const isFiltering = computed(() => {
   return query.value.trim() !== '' || langFilter.value !== '' || ratingFilter.value !== 'all'
-    || excludedContentTypes.value.size > 0 || excludedStreamTypes.value.size > 0 || excludedQualities.value.size > 0
+    || contentTypeFilter.value !== '' || excludedStreamTypes.value.size > 0 || excludedQualities.value.size > 0
 })
 
 const filteredSites = computed(() => {
@@ -113,7 +114,7 @@ const filteredSites = computed(() => {
     if (q && !site.name.toLowerCase().includes(q) && !site.url.toLowerCase().includes(q)) return false
     if (langFilter.value && site.lang !== langFilter.value) return false
     if (ratingFilter.value !== 'all' && site.rating !== ratingFilter.value) return false
-    if (site.contentType && excludedContentTypes.value.has(site.contentType)) return false
+    if (contentTypeFilter.value && site.contentType !== contentTypeFilter.value) return false
     if (site.streamType && excludedStreamTypes.value.has(site.streamType)) return false
     if (site.quality && excludedQualities.value.has(site.quality)) return false
     return true
@@ -131,7 +132,7 @@ const filteredSites = computed(() => {
       <SettingsMenu
         v-model:lang-filter="langFilter"
         v-model:rating-filter="ratingFilter"
-        v-model:content-type-filter="excludedContentTypes"
+        v-model:content-type-filter="contentTypeFilter"
         v-model:stream-type-filter="excludedStreamTypes"
         v-model:quality-filter="excludedQualities"
         v-model:show-broken="showBroken"

@@ -177,6 +177,21 @@ export interface SoraAuthorRepo {
   indexUrl: string
 }
 
+interface EchoExtension {
+  id: string
+  type: string
+  name: string
+  subtitle?: string
+  iconUrl?: string
+  updateUrl: string
+}
+
+export interface EchoAuthorRepo {
+  label: string
+  repoUrl?: string
+  indexUrl: string
+}
+
 const EXT_DIR = dirname(fileURLToPath(import.meta.url))
 const DOCS_DIR = join(EXT_DIR, '..')
 const CACHE_DIR = join(EXT_DIR, '../.vitepress/cache/extension-repos')
@@ -574,6 +589,64 @@ async function loadSoraRepoIndex(indexUrl: string, index: SoraRepoIndex): Promis
   return { sites, authorRepos, sitesByAuthor }
 }
 
+function isEchoExtensionList(json: unknown): json is EchoExtension[] {
+  if (!Array.isArray(json) || json.length === 0) return false
+  const first = json[0] as Record<string, unknown>
+  return typeof first.updateUrl === 'string' && typeof first.subtitle === 'string' && !('lang' in first) && !('baseUrl' in first)
+}
+
+function parseEchoRepo(updateUrl: string): { owner: string; repo: string } | undefined {
+  const match = updateUrl.match(/^https:\/\/api\.github\.com\/repos\/([^/]+)\/([^/]+)\/releases$/)
+  if (!match) return undefined
+  return { owner: match[1], repo: match[2] }
+}
+
+function toRepoDataEchoExtensions(extensions: EchoExtension[]): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const ext of extensions) {
+    const key = `${ext.id}::${ext.updateUrl}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    const repo = parseEchoRepo(ext.updateUrl)
+    const repoUrl = repo ? `https://github.com/${repo.owner}/${repo.repo}` : undefined
+    sites.push({
+      name: ext.name,
+      lang: 'all',
+      icon: ext.iconUrl ?? '',
+      url: repoUrl ?? '',
+      rating: 'safe',
+      contentType: ext.type,
+      installUrl: repoUrl
+    })
+  }
+
+  sites.sort((a, b) => a.name.localeCompare(b.name))
+  return sites
+}
+
+function loadEchoExtensionList(indexUrl: string, extensions: EchoExtension[]): { sites: RepoSite[]; authorRepos: EchoAuthorRepo[]; sitesByAuthor: Record<string, RepoData> } {
+  const byAuthor = new Map<string, EchoExtension[]>()
+  for (const ext of extensions) {
+    const owner = parseEchoRepo(ext.updateUrl)?.owner ?? 'Unknown'
+    const bucket = byAuthor.get(owner)
+    if (bucket) bucket.push(ext)
+    else byAuthor.set(owner, [ext])
+  }
+
+  const authorRepos: EchoAuthorRepo[] = []
+  const sitesByAuthor: Record<string, RepoData> = {}
+  for (const [owner, exts] of byAuthor) {
+    const authorIndexUrl = `${indexUrl}#${owner}`
+    sitesByAuthor[authorIndexUrl] = { sites: toRepoDataEchoExtensions(exts) }
+    authorRepos.push({ label: owner, repoUrl: `https://github.com/${owner}`, indexUrl: authorIndexUrl })
+  }
+
+  authorRepos.sort((a, b) => a.label.localeCompare(b.label))
+  return { sites: toRepoDataEchoExtensions(extensions), authorRepos, sitesByAuthor }
+}
+
 function toRepoDataLNReader(plugins: LNReaderPlugin[]): RepoSite[] {
   const seen = new Set<string>()
   const sites: RepoSite[] = []
@@ -632,6 +705,7 @@ async function toRepoData(indexUrl: string, json: unknown): Promise<RepoData> {
 export interface ExtensionRepoData {
   sites: Record<string, RepoData>
   soraAuthors: Record<string, SoraAuthorRepo[]>
+  echoAuthors: Record<string, EchoAuthorRepo[]>
 }
 
 export declare const data: ExtensionRepoData
@@ -642,6 +716,7 @@ export default {
     const urls = collectIndexUrls()
     const sites: Record<string, RepoData> = {}
     const soraAuthors: Record<string, SoraAuthorRepo[]> = {}
+    const echoAuthors: Record<string, EchoAuthorRepo[]> = {}
     await Promise.all(urls.map(async url => {
       const json = await fetchIndex(url)
       if (isSoraRepoIndex(json)) {
@@ -651,8 +726,15 @@ export default {
         Object.assign(sites, result.sitesByAuthor)
         return
       }
+      if (isEchoExtensionList(json)) {
+        const result = loadEchoExtensionList(url, json)
+        sites[url] = { sites: result.sites }
+        echoAuthors[url] = result.authorRepos
+        Object.assign(sites, result.sitesByAuthor)
+        return
+      }
       sites[url] = await toRepoData(url, json)
     }))
-    return { sites, soraAuthors }
+    return { sites, soraAuthors, echoAuthors }
   }
 }
