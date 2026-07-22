@@ -33,9 +33,9 @@ const INSTALL_URL_BUILDERS: Record<string, (repo: Repo, opts?: InstallOpts) => s
 const MANUAL_ONLY_SCHEMES = new Set(['manual'])
 
 // Schemes with no install or copy action
-const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora'])
+const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora', 'echo'])
 
-const NO_COPY_SCHEMES = new Set(['suwatte'])
+const NO_COPY_SCHEMES = new Set(['suwatte', 'echo'])
 
 const COPYABLE_BROWSE_ONLY_SCHEMES = new Set(['sora'])
 

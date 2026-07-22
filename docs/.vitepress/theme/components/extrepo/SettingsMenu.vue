@@ -4,6 +4,7 @@ import BrokenFilter from './BrokenFilter.vue'
 import ContentTypeFilter from './ContentTypeFilter.vue'
 import LangSelect from './LangSelect.vue'
 import RatingFilter from './RatingFilter.vue'
+import TypeSelect from './TypeSelect.vue'
 import type { RatingFilter as RatingFilterValue } from './types'
 
 defineProps<{
@@ -13,7 +14,7 @@ defineProps<{
   hasMultiLanguage: boolean
   hasRatings: boolean
   hasSuggestive: boolean
-  contentTypeFilter: Set<string>
+  contentTypeFilter: string
   availableContentTypes: string[]
   hasContentTypes: boolean
   streamTypeFilter: Set<string>
@@ -29,7 +30,7 @@ defineProps<{
 defineEmits<{
   'update:langFilter': [value: string]
   'update:ratingFilter': [value: RatingFilterValue]
-  'update:contentTypeFilter': [value: Set<string>]
+  'update:contentTypeFilter': [value: string]
   'update:streamTypeFilter': [value: Set<string>]
   'update:qualityFilter': [value: Set<string>]
   'update:showBroken': [value: boolean]
@@ -110,6 +111,7 @@ onUnmounted(() => {
         :style="menuStyle"
       >
         <LangSelect
+          v-if="availableLangs.length > 0"
           :model-value="langFilter"
           :available-langs="availableLangs"
           :has-multi-language="hasMultiLanguage"
@@ -121,7 +123,7 @@ onUnmounted(() => {
           :has-suggestive="hasSuggestive"
           @update:model-value="$emit('update:ratingFilter', $event)"
         />
-        <ContentTypeFilter
+        <TypeSelect
           v-if="hasContentTypes"
           :model-value="contentTypeFilter"
           :available-types="availableContentTypes"
