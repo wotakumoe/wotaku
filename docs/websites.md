@@ -344,21 +344,12 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 == Online
 
-- [Zenkaj](https://zenkaj.com/)
-- [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial)
-- [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
-- [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official)
-
-<collapsible title="General Live Action"> 
-
+- [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
-- [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
-- [Asiaflix](https://asiaflix.net/) :hd:
-- [Anisub](https://anisub.tv/) :hd::cjp:
-- [Cineby](https://www.cineby.at/)
-
-</collapsible>
+- [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) :yt:
+- [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) :yt:
+- [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official) :yt:
 
 == Download
 
