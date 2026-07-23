@@ -21,6 +21,7 @@ outline: 2
 - [aniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
+- [NeoApo](https://neoapo.com/) :ljp:
 - [Sakuhin Database](https://sakuhindb.com/) :ljp:
 
 </collapsible>
@@ -87,7 +88,6 @@ outline: 2
 | --- | --- |
 | **Dedicated** | [aniDB](https://anidb.net/) :s: |
 | ^^ | [AnimeDB](https://animedb.jp/) :ljp: |
-| ^^ | [NeoApo](https://neoapo.com/) :ljp: |
 | **General** | [SIMKL](https://simkl.com/) |
 | ^^ | [The Movie Database](https://www.themoviedb.org/) |
 | ^^ | [TheTVDB.com](https://www.thetvdb.com/) |
