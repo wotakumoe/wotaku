@@ -112,45 +112,21 @@ outline: 2
 
 </collapsible>
 
-== OTT
+
+== Legal
 
 ::: warning Content availability
-Some of the series/services may not be available depending on your region.
+Some of the contents may not be available depending on your region.
 :::
 
 | Category | Websites |
 | :--- | :--- |
-| **Dedicated** | [Crunchyroll](https://www.crunchyroll.com/) |
+| **OTT** | [Crunchyroll](https://www.crunchyroll.com/) |
 | ^^ | [HIDIVE](https://www.hidive.com/) |
 | ^^ | [RetroCrush](https://www.retrocrush.tv/home) |
 | ^^ | [OceanVeil](https://oceanveil.net/) |
-| **General** | [Bilibili](https://www.bilibili.tv/en/anime) |
-| ^^ | [Disney+](https://www.disneyplus.com/) |
-| ^^ | [HBO Max](https://www.hbomax.com/) |
-| ^^ | [Netflix](https://www.netflix.com/) |
-| ^^ | [Pluto TV](https://pluto.tv/) |
-| ^^ | [Prime Video](https://www.primevideo.com/) |
-| ^^ | [Tubi](https://tubitv.com/) |
-
-<collapsible title="Utility sites">
-
-- [FlixHop](https://flixhop.com/)
-- [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
-- [Simkl](https://simkl.com/)
-- [uNoGS](https://unogs.com/)
-- [Yatta-Tachi List](https://yattatachi.com/legal-anime-streaming-sites)
-
-</collapsible>
-
-== YT
-
-::: warning Content availability
-Some of the series may not be available depending on your region.
-:::
-
-| Category | Channels |
-| :--- | :--- |
-| **General** | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
+| ^^ | [General OTT](#tab-legal-3) |
+| **General :yt:** | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
 | ^^ | [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial) |
 | ^^ | [Ani-One Asia](https://www.youtube.com/AniOneAsia) |
 | ^^ | [Cartoon Power Up](https://www.youtube.com/@CartoonPowerUp) |
@@ -159,7 +135,7 @@ Some of the series may not be available depending on your region.
 | ^^ | [Muse Asia](https://www.youtube.com/@MuseAsia) |
 | ^^ | [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel) |
 | ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
-| **Series** | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
+| **Series :yt:** | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
 | ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) ||Inazuma Eleven|| |
 | ^^ | [BEYBLADE English](https://www.youtube.com/beybladeofficial) |
 | ^^ | [BEYBLADE Official](https://www.youtube.com/@beyblade-official) |
@@ -338,15 +314,76 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 :::
 
 
+## Live action
+
+::: tabs
+
+== Online
+
+- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
+- [OneTouch TV](https://onetouchtv.xyz/) :hd:
+- [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
+- [Asiaflix](https://asiaflix.net/) :hd:
+- [Cineby](https://www.cineby.at/)
+- :rd: [Japanese learning focused](/japan/immersion#animation-and-live-action)
+
+== Download
+
+| Category | Websites |
+| :--- | :--- |
+| **Torrent** | [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa) |
+| ^^ | [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/GYahYNWutE) |
+| ^^ | [EXT Torrents](https://ext.to/) :mag: |
+| **DDL** | [111477](https://i.wotaku.wiki/p/redirect#websites) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
+| ^^ | [Dramaday](https://dramaday.me/) :ckr: |
+| ^^ | [DramaSuki](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded: |
+| ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
+| **JP Sites** :host: | [JPFiles](https://jpfiles.net/) |
+| ^^ | [AnimeRSS](https://animerss.com/) |
+| ^^ | [Asia Media Blog](https://asiamediablog.com/) [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
+| ^^ | [urajp](https://urajp.se/) |
+
+== Info / DB
+
+| Category | Websites |
+| :--- | :--- |
+| **Dedicated** | [LAMA - Live Action Manga Adaptations](https://lama.watch/) |
+| ^^ | [MyDramaList](https://mydramalist.com/) |
+| ^^ | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
+| **General** | [SIMKL](https://simkl.com/) |
+| ^^ | [The Movie Database](https://www.themoviedb.org/) |
+| ^^ | [TheTVDB.com](https://www.thetvdb.com/) |
+| ^^ | [Letterboxd](https://letterboxd.com/) |
+| ^^ | [Kinorium](https://en.kinorium.com/) |
+| ^^ | [IMDb](https://www.imdb.com/) |
+
+== Legal
+
+- [Bilibili](https://www.bilibili.tv/en/anime)
+- [Disney+](https://www.disneyplus.com/)
+- [HBO Max](https://www.hbomax.com/)
+- [Netflix](https://www.netflix.com/)
+- [Pluto TV](https://pluto.tv/)
+- [Prime Video](https://www.primevideo.com/)
+- [Tubi](https://tubitv.com/)
+
+<collapsible title="Utility sites">
+
+- [FlixHop](https://flixhop.com/)
+- [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
+- [uNoGS](https://unogs.com/)
+
+</collapsible>
+
+:::
+
+
 ## Tokusatsu
 
 ::: tabs
 
 == Online
 
-- [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
-- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
-- [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) :yt:
 - [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) :yt:
 - [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official) :yt:
@@ -408,6 +445,15 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) ||Vintage||
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
+== Info / DB
+
+- [Comichron](https://www.comichron.com/index.php) :ded:
+- [Comic Vine](https://comicvine.gamespot.com/) :s:
+- [Comic Book Treasury](https://www.comicbooktreasury.com/)
+- [Grand Comics Database](https://www.comics.org/)
+- [League of Comic Geeks](https://leagueofcomicgeeks.com/)
+- [Metron](https://metron.cloud/)
+
 == Reading Guide
 - [Comic Book Herald](https://www.comicbookherald.com/)
 - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
@@ -432,15 +478,4 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [GoComics](https://www.gocomics.com/) [:js:](https://github.com/Idiot-01/Gocomics-Depaywall)
 - [Marvel Unlimited](https://www.marvel.com/unlimited)
 
-== Others
-
-| Category | Websites |
-| :--- | :--- |
-| **Info** | [Comichron](https://www.comichron.com/index.php) |
-| ^^ | [Comic Book Treasury](https://www.comicbooktreasury.com/) |
-| ^^ | [Grand Comics Database](https://www.comics.org/) |
-| **Tracker** | [Comic Vine](https://comicvine.gamespot.com/) |
-| ^^ | [League of Comic Geeks](https://leagueofcomicgeeks.com/) |
-| **Tools** | [Kapowarr](https://casvt.github.io/Kapowarr/) [:src:](https://github.com/Casvt/Kapowarr) |
-| ^^ | [Mylar3](https://github.com/mylar3/mylar3) |
 :::
