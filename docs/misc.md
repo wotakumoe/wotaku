@@ -46,6 +46,7 @@ outline: 2
 - Kurozora : (Anime), (Manga), (Games);
 - MangaBaka : (Manga), (Novels);
 - MyAnimeList : (Anime), (Manga), (Novels);
+- NeoApo : (Anime), (Games);
 - Sakuhin Database : (Anime), (Manga), (Novels), (Games), (Live Action), (Tokusatsu);
 :::
 
