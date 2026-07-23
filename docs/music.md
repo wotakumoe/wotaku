@@ -362,12 +362,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 == Online Player
 | Category   | Links   |
 |------------|---------|
-| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:help:](https://echomusicdocs.vercel.app/docs/echo) ==echo== |
+| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:e:](/ext/misc#echo) ==echo== |
 | ^^         | [Revanced](https://revanced.app/) :and: [:src:](https://github.com/revanced) |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
-| **YouTube** | [Innertune](https://github.com/z-huang/InnerTune) :and: |
-| ^^         | [Metrolist](https://metrolist.meowery.eu/) :and: [:src:](https://github.com/MetrolistGroup/Metrolist) |
-| ^^         | [RiMusic](https://github.com/fast4x/RiMusic) :and: |
+| **YouTube** | [Metrolist](https://metrolist.meowery.eu/) :and: [:src:](https://github.com/MetrolistGroup/Metrolist) |
 | ^^         | [SimpMusic](https://github.com/maxrave-dev/SimpMusic) :and: |
 | **Spotify** | [EeveeSpotify](https://github.com/Meeep1/EeveeSpotifyRevivedPublic) :ios: |
 | ^^         | [xManager](https://www.xmanagerapp.com/) :and::cs: |
