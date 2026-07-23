@@ -60,7 +60,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 | [Apple Music](https://music.apple.com/) | :sub: | AAC 256 | 24/192 | Dolby Atmos | General |
 | [Deezer](https://www.deezer.com/) | :sub:<sup>1</sup> | MP3 320 | 16/44.1 | :no: | General |
 | [Qobuz](https://play.qobuz.com/) | :sub: | MP3 320 | 24/192 | :no: | Western |
-| [Spotify](https://spotify.com/) | :fm::sub: | [Varies](https://support.spotify.com/bd-en/article/audio-quality/) | 24/44.1<sup>2</sup> | :no: | General |
+| [Spotify](https://open.spotify.com/) | :fm::sub: | [Varies](https://support.spotify.com/bd-en/article/audio-quality/) | 24/44.1<sup>2</sup> | :no: | General |
 | [Tidal](https://tidal.com/) | :sub: | AAC 320 | 24/192 | Dolby Atmos | Western |
 | [YouTube Music](https://music.youtube.com/) | :fm::sub: | Opus 256 | :no: | :no: | General |
 

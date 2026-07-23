@@ -123,10 +123,10 @@ Some of the contents may not be available depending on your region.
 | :--- | :--- |
 | **OTT** | [Crunchyroll](https://www.crunchyroll.com/) |
 | ^^ | [HIDIVE](https://www.hidive.com/) |
+| ^^ | [OceanVeil](https://oceanveil.net/) :ero: |
 | ^^ | [RetroCrush](https://www.retrocrush.tv/home) |
-| ^^ | [OceanVeil](https://oceanveil.net/) |
 | ^^ | [General OTT](#tab-legal-3) |
-| **General :yt:** | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
+| **General** :yt: | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
 | ^^ | [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial) |
 | ^^ | [Ani-One Asia](https://www.youtube.com/AniOneAsia) |
 | ^^ | [Cartoon Power Up](https://www.youtube.com/@CartoonPowerUp) |
@@ -135,7 +135,7 @@ Some of the contents may not be available depending on your region.
 | ^^ | [Muse Asia](https://www.youtube.com/@MuseAsia) |
 | ^^ | [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel) |
 | ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
-| **Series :yt:** | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
+| **Series** :yt: | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
 | ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) ||Inazuma Eleven|| |
 | ^^ | [BEYBLADE English](https://www.youtube.com/beybladeofficial) |
 | ^^ | [BEYBLADE Official](https://www.youtube.com/@beyblade-official) |
@@ -334,7 +334,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
 | ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/GYahYNWutE) |
 | ^^ | [EXT Torrents](https://ext.to/) |
-| **DDL** :ddl: | [111477](https://i.wotaku.wiki/p/redirect#websites) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
+| **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect#websites) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
 | ^^ | [Dramaday](https://dramaday.me/) :ckr: |
 | ^^ | [DramaSuki](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded: |
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
