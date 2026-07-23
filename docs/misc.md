@@ -52,7 +52,7 @@ outline: 2
 
 ::: tip README
 - **Novels**: All the types of novels (LN, WN etc.) are grouped in one category.
-- **Live-Action**: General movies & tv series are merged as Live-Action. Tokusatsu is kept as independent since it is a special sub-genre.
+- **Live Action**: General movies & tv series are merged as Live Action. Tokusatsu is kept as independent since it is a special sub-genre.
 :::
 
 <Collapsible title="The More You Know">
@@ -139,17 +139,18 @@ outline: 2
 - [Kettokomu](https://ketto.com/) :ljp:
 - [UpcomingCons](https://upcomingcons.com/)
 
-== Others
+:::
+
+<Collapsible title="Related resources">
 
 - [Comics](/websites?t=info-db-1)
 - [Games](/games?t=database)
-- [Live-action](/websites?t=info-db)
+- [Live Action](/websites?t=info-db)
 - [Music](/music?t=database)
 - [NSFW](/nsfw?t=database)
 - [VTuber](/vtuber?t=database)
 
-:::
-
+</Collapsible>
 
 ## Calendar
 

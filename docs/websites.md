@@ -350,12 +350,12 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | **Dedicated** | [LAMA - Live Action Manga Adaptations](https://lama.watch/) |
 | ^^ | [MyDramaList](https://mydramalist.com/) |
 | ^^ | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
-| **General** | [SIMKL](https://simkl.com/) |
+| **General** | [IMDb](https://www.imdb.com/) |
+| ^^ | [Kinorium](https://en.kinorium.com/) |
+| ^^ | [Letterboxd](https://letterboxd.com/) |
+| ^^ | [SIMKL](https://simkl.com/) |
 | ^^ | [The Movie Database](https://www.themoviedb.org/) |
 | ^^ | [TheTVDB.com](https://www.thetvdb.com/) |
-| ^^ | [Letterboxd](https://letterboxd.com/) |
-| ^^ | [Kinorium](https://en.kinorium.com/) |
-| ^^ | [IMDb](https://www.imdb.com/) |
 
 == Legal
 
