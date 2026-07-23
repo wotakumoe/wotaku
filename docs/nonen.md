@@ -478,8 +478,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |
-| **Live Action** | [Dramaday](https://dramaday.me/) |
-| ^^ | [GoPlay](https://goplay.su/) [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S) |
 
 
 ## Lithuanian

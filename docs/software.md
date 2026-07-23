@@ -292,6 +292,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | :prev: [Vineless](https://github.com/Ingan121/Vineless) | :cr::ff: |
 | ^^ | [pywidevine](https://github.com/devine-dl/pywidevine) | :py: |
 | ^^ | [Unshackle](https://github.com/unshackle-dl/unshackle) | :py: |
+| **Comic** | [Kapowarr](https://casvt.github.io/Kapowarr/) [:src:](https://github.com/Casvt/Kapowarr) | :dock: |
+| ^^ | [Mylar3](https://github.com/mylar3/mylar3) | :dock: |
+
 
 == Anime
 

@@ -89,15 +89,13 @@ outline: 2
 | --- | --- |
 | **Dedicated** | [aniDB](https://anidb.net/) :s: |
 | ^^ | [AnimeDB](https://animedb.jp/) :ljp: |
-| **General** | [SIMKL](https://simkl.com/) |
-| ^^ | [The Movie Database](https://www.themoviedb.org/) |
-| ^^ | [TheTVDB.com](https://www.thetvdb.com/) |
 | **OST** | [AnimeSongs.org](https://animesongs.org/) |
 | ^^ | [Aniplaylist](https://aniplaylist.com/) |
 | **Landmarks** | [anitabi](https://anitabi.cn/) :s::lcn: [:src:](https://github.com/anitabi/anitabi.cn-document) |
 | ^^ | [Flubber’s Fluttering Anime Pilgrimage](https://furaba-animeseichi.blog.jp/) :ljp: |
 | ^^ | [Anime Tourism](https://anime-tourism.jp/) :ded::ljp: |
 | **Others** | [Anime Filler Guide](https://www.animefillerguide.com/) |
+| ^^ | :rd: [General DB](/websites?t=info-db) |
 
 
 == Manga
@@ -132,24 +130,23 @@ outline: 2
 | ^^ | [Seiyuu Database](http://www.usagi.org/doi/seiyuu/index.html) |
 | ^^ | [Behind The Voice Actors](https://www.behindthevoiceactors.com/) <tooltip>Focuses on English VAs more.</tooltip> |
 
+== Events
+
+- [alley.moe](https://alley.moe/)
+- [Circle.ms](https://portal.circle.ms/) :ljp:
+- [Doujin Event Navi](https://shimeken.com/events) :ljp:
+- [FanCons](https://fancons.com/) [:alt:](https://animecons.com/)
+- [Kettokomu](https://ketto.com/) :ljp:
+- [UpcomingCons](https://upcomingcons.com/)
+
 == Others
 
-| Category | Websites |
-| --- | --- |
-| **Drama / Live action** | [LAMA - Live Action Manga Adaptations](https://lama.watch/) | 
-| ^^      | [MyDramaList](https://mydramalist.com/) |
-| ^^      | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
-| **Events**  | [alley.moe](https://alley.moe/) |
-| ^^      | [Circle.ms](https://portal.circle.ms/) :ljp: |
-| ^^      | [Doujin Event Navi](https://shimeken.com/events) :ljp: |
-| ^^      | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
-| ^^      | [Kettokomu](https://ketto.com/) :ljp: |
-| ^^      | [UpcomingCons](https://upcomingcons.com/) |
-| :rd: **Others** | [Games](/games?t=database) |
-| ^^      | [Music](/music?t=database) |
-| ^^      | [NSFW](/nsfw?t=database) |
-| ^^      | [VTuber](/vtuber?t=database) |
-
+- [Comics](/websites?t=info-db-1)
+- [Games](/games?t=database)
+- [Live-action](/websites?t=info-db)
+- [Music](/music?t=database)
+- [NSFW](/nsfw?t=database)
+- [VTuber](/vtuber?t=database)
 
 :::
 
