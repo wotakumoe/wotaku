@@ -86,7 +86,7 @@ og:
 
 <collapsible title="Quick Add via Code or Link">
 
-1. **Open the Echo app.**
+1. Open the Echo app.
 2. Tap the :material-symbols-stream-rounded: **Extension** icon in the app.
 3. Tap :material-symbols-add-circle-outline-rounded: **Add Extension**.
 4. Enter a shortcode or paste a URL from the table below.
@@ -108,8 +108,8 @@ og:
 
 <collapsible title="Manual Install via File">
 
-1. Go to the [Repositories](#extension-repositories) tab below and choose a repository for the extension you want.
-2. Download the latest `.apk` or `.eapk` file from the repository link.
+1. Go to the [repo](#echo) of individual extension by clicking the :material-symbols-download: button
+2. Download the latest `.apk` or `.eapk` file from the **Releases**.
 3. Open the Echo app.
 4. Tap the :material-symbols-stream-rounded: **Extension** icon.
 5. Tap :material-symbols-add-circle-outline-rounded: **Add Extension**, then select **File**.

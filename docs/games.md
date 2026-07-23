@@ -28,6 +28,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | **Themed** | [EroGamescape](https://erogamescape.org/) :ljp::ero: [:alt:](https://erogamescape.dyndns.org/) [:help:](https://www.youtube.com/watch?v=oPIWgXDllzQ) |
 | ^^ | [GameTDB](https://www.gametdb.com/) |
 | ^^ | [HowLongToBeat](https://howlongtobeat.com/) |
+| ^^ | [RetroAchievements](https://retroachievements.org/) |
 | ^^ | [The Doujin RPG Database](https://nepchan.org/) |
 | ^^ | [The Visual Novel Database](https://vndb.org/) :s: |
 | **Compatibility** | [ProtonDB](https://www.protondb.com/) |

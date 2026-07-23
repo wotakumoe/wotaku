@@ -13,19 +13,26 @@ outline: 2
 - [AniList](https://anilist.co/) :s:
 - [MyAnimeList](https://myanimelist.net/)
 - [MangaBaka](https://mangabaka.org/) :s:
-- [Wikipedia](https://www.wikipedia.org/) :s:
 
 <collapsible title="More">
 
 - [Anime News Network](https://www.animenewsnetwork.com/)
 - [Anime Planet](https://www.anime-planet.com/)
 - [aniSearch](https://www.anisearch.com/)
-- [Bookmeter](https://bookmeter.com/) :ljp:
-- [Hanmoto](https://www.hanmoto.com/) :s::ljp:
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
-- [NamuWiki](https://namu.wiki/) :lkr:
 - [Sakuhin Database](https://sakuhindb.com/) :ljp:
+
+</collapsible>
+
+<collapsible title="Others">
+
+- [Bookmeter](https://bookmeter.com/) :ljp:
+- [Goodreads](https://www.goodreads.com/)
+- [Hanmoto](https://www.hanmoto.com/) :s::ljp:
+- [Hardcover](https://hardcover.app/)
+- [NamuWiki](https://namu.wiki/) :lkr:
+- [Wikipedia](https://www.wikipedia.org/) :s:
 
 </collapsible>
 
@@ -34,8 +41,6 @@ outline: 2
 - Anime Planet : (Anime), (Manga);
 - aniSearch : (Anime), (Manga), (Novels), (Live Action), (Tokusatsu);
 - ANN : (Anime), (Manga);
-- Bookmeter : (Manga), (Novels), (Non-fiction);
-- Hanmoto : (Manga), (Novels), (Non-fiction);
 - Kitsu : (Anime), (Manga);
 - Kurozora : (Anime), (Manga), (Games);
 - MangaBaka : (Manga), (Novels);
@@ -46,7 +51,6 @@ outline: 2
 ::: tip README
 - **Novels**: All the types of novels (LN, WN etc.) are grouped in one category.
 - **Live-Action**: General movies & tv series are merged as Live-Action. Tokusatsu is kept as independent since it is a special sub-genre.
-- **General Wiki**: Since they have all kinds of contents, they won't be added in the Topics table.
 :::
 
 <Collapsible title="The More You Know">
@@ -111,8 +115,6 @@ outline: 2
 - [Novel Updates](https://www.novelupdates.com/) :s:
 - [RanobeDB](https://ranobedb.org/) :s: [:src:](https://github.com/Blastose/ranobedb)
 - [Ranobe Mori](https://ranobe-mori.net/) :ljp:
-- [Goodreads](https://www.goodreads.com/)
-- [Hardcover](https://hardcover.app/)
 
 == Production
 
