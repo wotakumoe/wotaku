@@ -183,6 +183,7 @@ interface EchoExtension {
   name: string
   subtitle?: string
   iconUrl?: string
+  url?: string
   updateUrl: string
 }
 
@@ -595,10 +596,24 @@ function isEchoExtensionList(json: unknown): json is EchoExtension[] {
   return typeof first.updateUrl === 'string' && typeof first.subtitle === 'string' && !('lang' in first) && !('baseUrl' in first)
 }
 
-function parseEchoRepo(updateUrl: string): { owner: string; repo: string } | undefined {
-  const match = updateUrl.match(/^https:\/\/api\.github\.com\/repos\/([^/]+)\/([^/]+)\/releases$/)
-  if (!match) return undefined
-  return { owner: match[1], repo: match[2] }
+function parseEchoRepo(updateUrl: string): { host: string; owner: string; repo: string; repoUrl: string; ownerUrl: string } | undefined {
+  const githubMatch = updateUrl.match(/^https:\/\/api\.github\.com\/repos\/([^/]+)\/([^/]+)\/releases$/)
+  if (githubMatch) {
+    const [, owner, repo] = githubMatch
+    return { host: 'github.com', owner, repo, repoUrl: `https://github.com/${owner}/${repo}`, ownerUrl: `https://github.com/${owner}` }
+  }
+
+  const gitlabMatch = updateUrl.match(/^https:\/\/(gitlab\.com)\/api\/v4\/projects\/([^/]+)\/releases\b/)
+  if (gitlabMatch) {
+    const [, host, encodedPath] = gitlabMatch
+    const path = decodeURIComponent(encodedPath)
+    const owner = path.slice(0, path.lastIndexOf('/'))
+    const repo = path.slice(path.lastIndexOf('/') + 1)
+    if (!owner || !repo) return undefined
+    return { host, owner, repo, repoUrl: `https://${host}/${path}`, ownerUrl: `https://${host}/${owner}` }
+  }
+
+  return undefined
 }
 
 function toRepoDataEchoExtensions(extensions: EchoExtension[]): RepoSite[] {
@@ -610,15 +625,14 @@ function toRepoDataEchoExtensions(extensions: EchoExtension[]): RepoSite[] {
     if (seen.has(key)) continue
     seen.add(key)
     const repo = parseEchoRepo(ext.updateUrl)
-    const repoUrl = repo ? `https://github.com/${repo.owner}/${repo.repo}` : undefined
     sites.push({
       name: ext.name,
       lang: 'all',
       icon: ext.iconUrl ?? '',
-      url: repoUrl ?? '',
+      url: ext.url ?? repo?.repoUrl ?? '',
       rating: 'safe',
       contentType: ext.type,
-      installUrl: repoUrl
+      installUrl: repo?.repoUrl
     })
   }
 
@@ -627,20 +641,21 @@ function toRepoDataEchoExtensions(extensions: EchoExtension[]): RepoSite[] {
 }
 
 function loadEchoExtensionList(indexUrl: string, extensions: EchoExtension[]): { sites: RepoSite[]; authorRepos: EchoAuthorRepo[]; sitesByAuthor: Record<string, RepoData> } {
-  const byAuthor = new Map<string, EchoExtension[]>()
+  const byAuthor = new Map<string, { label: string; ownerUrl?: string; exts: EchoExtension[] }>()
   for (const ext of extensions) {
-    const owner = parseEchoRepo(ext.updateUrl)?.owner ?? 'Unknown'
-    const bucket = byAuthor.get(owner)
-    if (bucket) bucket.push(ext)
-    else byAuthor.set(owner, [ext])
+    const repo = parseEchoRepo(ext.updateUrl)
+    const key = repo ? `${repo.host}:${repo.owner}` : 'Unknown'
+    const bucket = byAuthor.get(key)
+    if (bucket) bucket.exts.push(ext)
+    else byAuthor.set(key, { label: repo?.owner ?? 'Unknown', ownerUrl: repo?.ownerUrl, exts: [ext] })
   }
 
   const authorRepos: EchoAuthorRepo[] = []
   const sitesByAuthor: Record<string, RepoData> = {}
-  for (const [owner, exts] of byAuthor) {
-    const authorIndexUrl = `${indexUrl}#${owner}`
+  for (const [key, { label, ownerUrl, exts }] of byAuthor) {
+    const authorIndexUrl = `${indexUrl}#${key}`
     sitesByAuthor[authorIndexUrl] = { sites: toRepoDataEchoExtensions(exts) }
-    authorRepos.push({ label: owner, repoUrl: `https://github.com/${owner}`, indexUrl: authorIndexUrl })
+    authorRepos.push({ label, repoUrl: ownerUrl, indexUrl: authorIndexUrl })
   }
 
   authorRepos.sort((a, b) => a.label.localeCompare(b.label))
