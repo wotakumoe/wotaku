@@ -361,9 +361,9 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Anime** | [AnimeSaturn](https://www.animesaturn.net/) [:prx:](https://www.animesaturn.me/) |
 | ^^ | [AnimeUnity](https://www.animeunity.to/) |
 | ^^ | [AnimeWorld](https://www.animeworld.ac/) |
-| ^^ | [One Piece Power](https://onepiecepower.com/anime18/lista-anime) |
+| ^^ | [One Piece Power](https://onepiecepower.com/anime18/lista-anime2) |
 | **Manga** | [MangaWorld](https://www.mangaworld.mx/) |
-| ^^ | [One Piece Power](https://onepiecepower.com/manga8/lista-manga) |
+| ^^ | [One Piece Power](https://onepiecepower.com/manga8/lista-manga2) |
 | **NSFW** | [HentaiSaturn](https://www.hentaisaturn.tv/) |
 | ^^ | [HentaiWorld](https://www.hentaiworld.me/) |
 | ^^ | [MangaWorldAdult](https://www.mangaworldadult.net/) |
@@ -471,7 +471,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [NameeToon](https://namee105.asia/) |
 | ^^ | [TOONKOR](https://tkor137.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf424.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [Wolf 2](https://wftoon220.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf 2](https://wftoon221.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon238.asia/) [:prx:](https://yatoonlink.com/) |
@@ -702,7 +702,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyenvt.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyendl.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [qManga](https://qmanga.art/) |
 | **Novels** | [Hako](https://docln.net/) |
