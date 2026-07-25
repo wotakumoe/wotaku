@@ -301,7 +301,7 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| **Stream** | [Aniflix](https://aniflix.uno/) |
+| **Stream** | [Aniflix](https://aniflix.us/) |
 | ^^ | [AnimeLok](https://animelok.net/home) + :len: |
 | ^^ | [Anime Bash India](https://animebashindia.me/home) |
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
@@ -517,6 +517,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Geekdot](https://geekdot.live/) ||TV|| |
 | ^^ | [Goyabu](https://goyabu.io/inicio-2) |
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
+| ^^ | [Muito Hentai](https://www.muitohentai.com/) :ero: |
 | ^^ | [:tg: Toonami na Era do Telegram](https://t.me/toonamibr) |
 | **Manga** | [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero: |
 | ^^ | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
