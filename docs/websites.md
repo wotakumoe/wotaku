@@ -94,15 +94,6 @@ outline: 2
 | ^^ | [urajp](https://urajp.se/) |
 | **Dubtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) :ded: |
 
-<collapsible title="Fan projects">
-
-- [Kineko Video](https://nyaa.si/?q=Kineko+Video) ||General||
-- [MovieMTBB](https://nyaa.si/?q=MovieMTBB) ||Monogatari||
-- [Seed of Might](https://nyaa.si/user/iKaos) ||Dragon Ball||
-- [Sephirotic](https://nyaa.si/user/sephirotic) ||Evangelion||
-
-</collapsible>
-
 <collapsible title="Related resources">
 
 - [aniDB](https://anidb.net/) :acc:
@@ -320,10 +311,10 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 == Online
 
+- [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
-- [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
 - [Cineby](https://www.cineby.at/)
 - :rd: [Japanese learning focused](/japan/immersion#animation-and-live-action)
 
@@ -334,9 +325,9 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
 | ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/GYahYNWutE) |
 | ^^ | [EXT Torrents](https://ext.to/) |
-| **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect#websites) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
+| **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
 | ^^ | [Dramaday](https://dramaday.me/) :ckr: |
-| ^^ | [DramaSuki](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded: |
+| ^^ | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
 | **JP Sites** :host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |

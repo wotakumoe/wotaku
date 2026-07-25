@@ -72,16 +72,16 @@ og:
 | ^^ | [Kanji de Go](https://github.com/MarvNC/kanjidego-yomitan-anki) |
 | ^^ | [Kanken Deck](https://ankiweb.net/shared/info/759825185) [:alt:](https://ankiweb.net/shared/info/1113953752) ||Advanced|| |
 | ^^ | [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) |
-| ^^ | [RRTK450 Anki deck](https://i.wotaku.wiki/p/redirect#japansoftware) ||Beginner|| |
+| ^^ | [RRTK450 Anki deck](https://i.wotaku.wiki/p/redirect) ||Beginner|| |
 | ^^ | [Usagi Chan Kanji Phonetics Deck](https://drive.google.com/file/d/1xyynMQiOuqlC_cBBTwG9t3snRubHqU7e/view) |
 | ^^ | [WaniKani Complete Lv 1-60](https://ankiweb.net/shared/info/2072613354) [:pin:](https://gist.github.com/Destroxia54/6925a3e1cb75afc7a3dd14d1ba2ff611) |
 | **Vocab** | [Kaishi](https://github.com/donkuri/Kaishi) :s: ||Beginner|| |
 | ^^ | [Anime decks (Official AnkiWeb)](https://ankiweb.net/shared/decks?search=anime) |
-| ^^ | [Anime decks (Sub2Srs)](https://i.wotaku.wiki/p/redirect#japansoftware) |
+| ^^ | [Anime decks (Sub2Srs)](https://i.wotaku.wiki/p/redirect) |
 | ^^ | [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) |
 | ^^ | [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) |
 | ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/jpn-proper-nouns-deck) |
-| ^^ | [Tango N5 omega deck](https://i.wotaku.wiki/p/redirect#japansoftware) ||Beginner|| |
+| ^^ | [Tango N5 omega deck](https://i.wotaku.wiki/p/redirect) ||Beginner|| |
 
 :::
 

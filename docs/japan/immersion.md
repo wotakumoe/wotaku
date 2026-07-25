@@ -56,7 +56,7 @@ og:
 - [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub||
 
 == Download
-- [DramaSuki](https://i.wotaku.wiki/p/redirect#japanimmersion) :ddl::ded:
+- [DramaSuki](https://i.wotaku.wiki/p/redirect) :ddl::ded:
 - [Rare Doramas](https://www.raredoramas.com/) :ddl:
 - [JPFiles](https://jpfiles.net/) :host:
 
@@ -65,7 +65,7 @@ og:
 - :prev: [Jimaku](https://jimaku.cc/) :s:
 - [AJATT's Japanese Subtitles](https://subtitles.ajatt.top/) [:src:](https://github.com/Ajatt-Tools/kitsunekko-mirror)
 - [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) :ded:
-- [JPTV.club Subtitle Archive](https://i.wotaku.wiki/p/redirect#japanimmersion) :ded:
+- [JPTV.club Subtitle Archive](https://i.wotaku.wiki/p/redirect) :ded:
 - [itazuraneko](https://djtguide.github.io/library/sub)
 - [Xavier's Retimed JP Sub Pack](https://nyaa.si/user/XavierSylfaen) :mag::ddl::ded:
 - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) :ded:
@@ -147,7 +147,7 @@ og:
 
 == Others
 - [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
-- [Japanese Condensed Audio](https://i.wotaku.wiki/p/redirect#japanimmersion)
+- [Japanese Condensed Audio](https://i.wotaku.wiki/p/redirect)
 - [Japanese Radio](https://radio.nogi46.me/)
 
 :::
