@@ -332,7 +332,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Stream** | [Anichin](https://z1.anichin.blog/) [:prx:](https://anichin.bio/) |
 | ^^ | [Kuramanime](https://kuramanime.red/) |
 | ^^ | [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime) |
-| ^^ | [Megaheya](https://mangaheya.net/) |
+| ^^ | [Megaheya](https://mangaheya.net/) :acc: |
 | ^^ | [Mynimeku](https://www.mynimeku.com/) |
 | ^^ | [NekoPoi](https://nekopoi.care/) :ero: |
 | ^^ | [Otaku Desu](https://otakudesu.cloud/) |
@@ -346,7 +346,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Komiku](https://komiku.org/)
 - [Komikcast](https://v3.komikcast.fit/)
 - [Komik Indo](https://komikindo.ch/)
-- [Megaheya](https://mangaheya.net/)
+- [Megaheya](https://mangaheya.net/) :acc:
 - [Softkomik](https://softkomik.co/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
