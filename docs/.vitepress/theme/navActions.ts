@@ -20,6 +20,10 @@ export interface NavBookmarksAction extends NavActionBase {
   type: 'bookmarks'
 }
 
+export interface NavAnnouncementAction extends NavActionBase {
+  type: 'announcement'
+}
+
 export interface NavLinkAction extends NavActionBase {
   type: 'link'
   icon: string
@@ -32,12 +36,14 @@ export type NavAction =
   | NavAppearanceAction
   | NavSettingsAction
   | NavBookmarksAction
+  | NavAnnouncementAction
   | NavLinkAction
 
 export const navActions: NavAction[] = [
   { type: 'appearance' },
   { type: 'search' },
   { type: 'bookmarks' },
+  { type: 'announcement' },
   { type: 'settings' },
   {
     type: 'link',

@@ -10,6 +10,7 @@ import { openSearch } from '../searchState'
 import { openSettings } from '../settingsState'
 import NolebaseEnhancedReadabilitiesMenu from './settings/Menu.vue'
 import BookmarksPanel from './BookmarksPanel.vue'
+import AnnouncementsPanel from './AnnouncementsPanel.vue'
 import SettingsPanel from './SettingsPanel.vue'
 
 const ICON_SIZE = 18
@@ -68,6 +69,7 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
           </button>
         </template>
         <BookmarksPanel v-else-if="action.type === 'bookmarks'" />
+        <AnnouncementsPanel v-else-if="action.type === 'announcement'" />
       </div>
     </template>
   </div>
@@ -102,6 +104,11 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/* collapse the slot when announcements are disabled */
+.nav-action--announcement:empty {
+  display: none;
 }
 
 /* Social links move to the full-screen menu on phones. */

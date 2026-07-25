@@ -4,3 +4,7 @@ export const AccentColorStorageKey = 'preference-accent-color'
 export const AccentBgStorageKey = 'preference-accent-bg'
 /** Accent background tint strength, 0–100. */
 export const AccentBgStrengthStorageKey = 'preference-accent-bg-strength'
+// announcements on/off toggle
+export const AnnouncementsEnabledKey = 'preference-announcements'
+// ids marked read
+export const AnnouncementsReadKey = 'wotaku-announcements-read'
