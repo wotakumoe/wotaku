@@ -64,21 +64,21 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
               <span class="i-lucide:panel-top sh-opt-icon" />
               Section
             </strong>
-            <span>Jumps straight to a page section or tab</span>
+            <span>Newly added section or tab</span>
           </div>
           <div class="sh-option">
             <strong>
               <span class="i-lucide:box sh-opt-icon" />
               Component
             </strong>
-            <span>A new interactive feature or widget</span>
+            <span>Newly added component</span>
           </div>
           <div class="sh-option">
             <strong>
               <span class="i-lucide:sparkles sh-opt-icon" />
               Improvement
             </strong>
-            <span>An enhancement to something existing</span>
+            <span>Improvement of a section or component</span>
           </div>
         </div>
       </MenuHelp>
