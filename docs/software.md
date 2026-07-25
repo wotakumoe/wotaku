@@ -362,7 +362,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 == Server
 
-| Type       | Solution |
+| Category       | Solution |
 |----------- |----------|
 | **Anime**      | [Jellyfin](https://jellyfin.org/) :s: [:src:](https://github.com/jellyfin/jellyfin) |
 | ^^         | [Plex](https://www.plex.tv/your-media/) :cs: |
@@ -382,22 +382,23 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 == Client
 
-| Solution   | Client/Tools |
-|----------- |--------------|
-| **General**    | [Plezy](https://plezy.app/) [:src:](https://github.com/edde746/plezy) :and::ios::win::app::lin: |
-| [**Audiobookshelf**](https://www.audiobookshelf.org/) | [Plappa](https://plappa.me/) :ios: |
-| ^^         | [Prologue](https://prologue.audio/) :ios: |
-| [**Jellyfin**](https://jellyfin.org/) | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) :win: |
-| ^^         | [Streamyfin](https://github.com/streamyfin/streamyfin) :and::ios: |
-| [**Komga**](https://komga.org/) | [Komelia](https://github.com/Snd-R/Komelia) :and::win::lin: |
-| ^^         | [Komik](https://pruizlezcano.github.io/komic/) :ios::fm: |
-| [**LANraragi**](https://sugoi.gitbook.io/lanraragi/dev) | [Ichaival](https://github.com/Utazukin/Ichaival) :and: |
-| ^^         | [LANreader](https://github.com/Doraemoe/LANreader) :ios: |
-| ^^         | [LRReader](https://github.com/Guerra24/LRReader) :win: |
+| Category | Client | Platform |
+|---|---|---|
+| **General** | [Plezy](https://plezy.app/) [:src:](https://github.com/edde746/plezy) | :and::ios::win::app::lin: |
+| **Audiobookshelf** | [Plappa](https://plappa.me/) | :ios: |
+| ^^ | [Prologue](https://prologue.audio/) | :ios: |
+| **Jellyfin** | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) | :win: |
+| ^^ | [Streamyfin](https://github.com/streamyfin/streamyfin) | :and::ios: |
+| **Komga** | [Komelia](https://github.com/Snd-R/Komelia) | :and::win::lin: |
+| ^^ | [Komik](https://pruizlezcano.github.io/komic/) :fm: | :ios: |
+| **LANraragi** | [Ichaival](https://github.com/Utazukin/Ichaival) | :and: |
+| ^^ | [LANreader](https://github.com/Doraemoe/LANreader) | :ios: |
+| ^^ | [LRReader](https://github.com/Guerra24/LRReader) | :win: |
+| **Seanime** | [Seanime Tenji](https://github.com/5rahim/seanime-tenji) | :and::ios::tv: |
 
 == Tools
 
-| Solution   | Client/Tools |
+| Category   | Tools |
 |----------- |--------------|
 | **General**    | [MAL-Sync](https://github.com/MALSync/MALSync) |
 | [**Jellyfin**](https://jellyfin.org/) | [Jellyfin-RPC](https://github.com/JustRadical/jellyfin-rpc) |

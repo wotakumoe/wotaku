@@ -305,6 +305,7 @@ og:
 
 == Anime
 
+- [animepahe Enhancer](https://github.com/abdullahkhfb/animepahe-enhancer) :cr::ff:
 - [Animepahe Plus](https://github.com/hwk929/Animepahe-plus) :ff:
 - [Anime Skip Player](https://anime-skip.com/) :cr::ff: [:src:](https://github.com/anime-skip/player)
 - [Aniskip](https://github.com/aniskip/aniskip-extension) :cr::ff:
