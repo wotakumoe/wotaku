@@ -104,6 +104,7 @@ outline: 2
 | --- | --- |
 | **General** | [MangaUpdates](https://www.mangaupdates.com/) :s: |
 | ^^ | [Manba](https://manba.co.jp/) :s::ljp: |
+| ^^ | [MangaSeek](https://mangaseek.net/) :ljp: |
 | ^^ | [Comic Vine](https://comicvine.gamespot.com/) |
 | **Magazine** | [Manga Properties](https://manga.properties/) |
 | ^^ | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) |
