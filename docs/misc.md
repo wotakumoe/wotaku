@@ -109,6 +109,7 @@ outline: 2
 | ^^ | [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) |
 | **Themed** | [Chill Chill](https://www.chil-chil.net/) :ljp::ero: !||BL|| |
 | ^^ | [Kazamkase Comic Database](https://kazemakase.wjg.jp/comics/) :ljp: |
+| **Others** | [Mannavi](https://mannavi.net/) :ljp: |
 
 == Novels
 - [Novel Updates](https://www.novelupdates.com/) :s:
