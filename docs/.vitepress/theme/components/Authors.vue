@@ -39,7 +39,7 @@ const credits = {
     {
       name: 'DenpaEater',
       site: 'https://impedance.bearblog.dev/',
-      avatar: 'https://i.wotaku.wiki/f/Denpa.png'
+      avatar: '/pfp/denpa.png'
     }
   ],
   discrip: [

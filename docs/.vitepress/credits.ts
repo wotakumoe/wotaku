@@ -45,7 +45,7 @@ export const contribs = {
     {
       name: 'DenpaEater',
       site: 'https://impedance.bearblog.dev/',
-      avatar: 'https://i.wotaku.wiki/f/Denpa.png'
+      avatar: '/pfp/denpa.png'
     },
     {
       avatar: '/pfp/green.webp',
@@ -58,7 +58,7 @@ export const contribs = {
     },
     {
       name: 'Ishtar',
-      avatar: '/pfp/ishtar.png'
+      avatar: '/pfp/ishtar.webp'
     },
     {
       name: 'ld3z',
