@@ -37,7 +37,7 @@ og:
 - Easy reading, Graded books and other fictions are merged as Reading.
 :::
 
-## Animation and Live Action
+## Watching
 
 ::: tabs
 
@@ -107,7 +107,7 @@ og:
 - [Bilingual Manga](https://bilingualmanga.org/) :s: [||Backup||](https://github.com/B-M-dev/Bilingual_Manga-home-)
 - [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://nyaa.si/?q=Mokuro.moe)
 
-== Novel
+== Novels
 - [Elscione's Library](https://server.elscione.com/) :s: [:alt:](https://server.elsci.one/)
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
@@ -127,15 +127,15 @@ og:
 - [Watanoc](https://watanoc.com/)
 - [Yomujp](https://yomujp.com/)
 
-== Webnovel
+== Webnovels
 - [Kakuyomu](https://kakuyomu.jp/)
 - [Syosetu](https://syosetu.com/)
 
 :::
 
-<Block icon="i-mdi-lightbulb-alert-outline" link="/nonen#japanese" >More in manga direct download</Block>
+<Block icon="i-mdi-lightbulb-alert-outline" link="/nonen#direct" >More in manga direct download</Block>
 
-## Audio
+## Listening
 
 ::: tabs
 

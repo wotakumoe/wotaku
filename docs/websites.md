@@ -317,7 +317,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Cineby](https://www.cineby.at/)
-- :rd: [Japanese learning focused](/japan/immersion#animation-and-live-action)
+- :rd: [Japanese learning focused](/japan/immersion#watching)
 
 == Download
 
