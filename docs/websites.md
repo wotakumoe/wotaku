@@ -116,7 +116,7 @@ Some of the contents may not be available depending on your region.
 | ^^ | [HIDIVE](https://www.hidive.com/) |
 | ^^ | [OceanVeil](https://oceanveil.net/) :ero: |
 | ^^ | [RetroCrush](https://www.retrocrush.tv/home) |
-| ^^ | [General OTT](#tab-legal-3) |
+| ^^ | :rd: [General OTT](#tab-legal-3) |
 | **General** :yt: | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
 | ^^ | [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial) |
 | ^^ | [Ani-One Asia](https://www.youtube.com/AniOneAsia) |
@@ -226,6 +226,7 @@ Some of the series/services may not be available depending on your region.
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) | :free::sub: |
 | **Volume** | [Manga Mirai](https://mangamirai.com/) | :free::paid: |
 | ^^ | [Kodansha USA](https://kodansha.us/) | :paid: |
+| ^^ | [Manga Mavericks](https://store.mangamavericks.com/) | :paid: |
 | ^^ | [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
 | ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
 | ^^ | [TOKYOPOP](https://tokyopop.com/) | :paid: |
