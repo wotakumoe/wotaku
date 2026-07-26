@@ -151,7 +151,7 @@ Some of the contents may not be available depending on your region.
 | **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
 | ^^ | [SBY Stream](https://sbystream.com/) |
 | ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
-| ^^ | [JP Animated Film Classics](https://animation.filmarchives.jp/en/index.html) :hd: |
+| ^^ | [JP Animated Classics](https://animation.filmarchives.jp/en/index.html) :hd: |
 
 :::
 
@@ -224,9 +224,9 @@ Some of the series/services may not be available depending on your region.
 | ^^ | [Manga UP!](https://global.manga-up.com/) | :free::coin::sub: |
 | ^^ | [Mangamo](https://www.mangamo.com/) | :free::coin::sub: |
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) | :free::sub: |
-| **Volume** | [Manga Mirai](https://mangamirai.com/) | :free::paid: |
-| ^^ | [Kodansha USA](https://kodansha.us/) | :paid: |
+| **Volume** | [Kodansha USA](https://kodansha.us/) | :paid: |
 | ^^ | [Manga Mavericks](https://store.mangamavericks.com/) | :paid: |
+| ^^ | [Manga Mirai](https://mangamirai.com/) | :free::paid: |
 | ^^ | [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
 | ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
 | ^^ | [TOKYOPOP](https://tokyopop.com/) | :paid: |
