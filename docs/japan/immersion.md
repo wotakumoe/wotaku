@@ -41,24 +41,28 @@ og:
 
 ::: tabs
 
-== General
-- [Anisub](https://anisub.tv/)
-- [Cineby](https://www.cineby.at/)
-- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
-- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip>
+== Online
 
-== Anime
-- [Classics](https://animation.filmarchives.jp/index.html)
-
-== Movies & Series
-- [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd:
-- [JP-Films](https://jp-films.com/) :fm:
-- [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub||
+| Category | Websites |
+| :--- | :--- |
+| **General** | [Anisub](https://anisub.tv/) |
+| ^^ | [Cineby](https://www.cineby.at/) |
+| ^^ | [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh) |
+| **Anime** | [Bettermelon](https://bettermelon.ru/) |
+| ^^ | [Classics](https://animation.filmarchives.jp/index.html) |
+| **Live Action** | [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd: [:prx:](https://asiaflix.xyz/) |
+| ^^ | [JP-Films](https://jp-films.com/) :fm: |
+| ^^ | [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub|| |
 
 == Download
-- [DramaSuki](https://i.wotaku.wiki/p/redirect) :ddl::ded:
-- [Rare Doramas](https://www.raredoramas.com/) :ddl:
-- [JPFiles](https://jpfiles.net/) :host:
+
+| Category | Websites |
+| :--- | :--- |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip> |
+| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/GYahYNWutE) |
+| **Direct** :ddl: | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
+| ^^ | [Rare Doramas](https://www.raredoramas.com/) |
+| ^^ | [JPFiles](https://jpfiles.net/) :host: |
 
 == Subtitles
 - [Kitsunekko](https://kitsunekko.net/)
@@ -107,6 +111,7 @@ og:
 - [All EPUBs](https://boroboro.neocities.org/listfullepub)
 - [Aozora Bunko](https://www.aozora.gr.jp/)
 - [boroboro](https://boroboro.neocities.org/)
+- [EPUB.moe](https://epub.moe/)
 - [Japanese Learner's Anthology](https://nyaa.si/?q=PeepoHappyBooks) :mag:
 - [lolibrary index](https://lolibrary.moe/)
 - [Moe Library](https://books.moelibrary.cc/)
