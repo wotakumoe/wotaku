@@ -38,10 +38,27 @@ const scrollRef = ref<HTMLElement>()
 const showFade = ref(true)
 const panelStyle = ref<Record<string, string>>({})
 
-onClickOutside(wrapperRef, () => {
-  // keep panel open while the filter menu is up
-  if (!filterOpen.value) isOpen.value = false
-})
+/* Type filter (gear menu) */
+const typeFilter = ref('')
+const filterOpen = ref(false)
+const filterBtnRef = ref<HTMLElement>()
+const filterMenuRef = ref<HTMLElement>()
+const filterStyle = ref<Record<string, string>>({})
+
+/* Detail popup */
+const activePost = ref<Announcement | null>(null)
+const backdropRef = ref<HTMLElement>()
+
+onClickOutside(
+  wrapperRef,
+  () => {
+    // keep panel open while the filter menu or detail popup is up
+    if (!filterOpen.value && !activePost.value) isOpen.value = false
+  },
+  {
+    ignore: [filterMenuRef, backdropRef]
+  }
+)
 
 function onScroll() {
   if (!scrollRef.value) return
@@ -91,14 +108,6 @@ useEventListener(inBrowser ? window : undefined, 'resize', () => {
   if (filterOpen.value) updateFilterPosition()
 })
 
-/*  Type filter (gear menu)  */
-// '' = all types
-const typeFilter = ref('')
-const filterOpen = ref(false)
-const filterBtnRef = ref<HTMLElement>()
-const filterMenuRef = ref<HTMLElement>()
-const filterStyle = ref<Record<string, string>>({})
-
 function updateFilterPosition() {
   const btn = filterBtnRef.value
   if (!btn) return
@@ -132,7 +141,6 @@ const filtered = computed(() =>
 )
 
 /*  Detail popup  */
-const activePost = ref<Announcement | null>(null)
 
 function openPost(post: Announcement) {
   markRead(post.id)
@@ -274,7 +282,7 @@ onUnmounted(() => {
     <!-- detail popup -->
     <Teleport to="body">
       <Transition name="ann-detail-fade">
-        <div v-if="activePost" class="ann-backdrop" @click.self="closePost">
+        <div v-if="activePost" ref="backdropRef" class="ann-backdrop" @click.self="closePost">
           <Transition name="ann-detail-slide" appear>
             <div v-if="activePost" class="ann-detail" role="dialog" aria-modal="true" :aria-label="activePost.title">
               <div class="ann-detail-head">
@@ -770,8 +778,13 @@ html.effects-disabled .ann-detail-close:active {
     transform: translateY(8px);
   }
 
+  .ann-filter-menu {
+    z-index: 10000;
+  }
+
   .ann-backdrop {
     align-items: stretch;
+    z-index: 10001;
   }
 
   .ann-detail {
