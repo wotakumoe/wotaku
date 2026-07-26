@@ -103,9 +103,16 @@ watch(isOpen, async (open) => {
   onScroll()
 })
 
+let resizeTick = false
 useEventListener(inBrowser ? window : undefined, 'resize', () => {
-  if (isOpen.value) updatePanelPosition()
-  if (filterOpen.value) updateFilterPosition()
+  if (!resizeTick) {
+    window.requestAnimationFrame(() => {
+      if (isOpen.value) updatePanelPosition()
+      if (filterOpen.value) updateFilterPosition()
+      resizeTick = false
+    })
+    resizeTick = true
+  }
 })
 
 function updateFilterPosition() {
@@ -173,14 +180,10 @@ function onKeydown(e: KeyboardEvent) {
   else if (isOpen.value) isOpen.value = false
 }
 
-onMounted(() => {
-  document.addEventListener('click', onFilterDocClick, true)
-  document.addEventListener('keydown', onKeydown)
-})
+useEventListener(inBrowser ? document : undefined, 'click', onFilterDocClick, { capture: true })
+useEventListener(inBrowser ? document : undefined, 'keydown', onKeydown)
 
 onUnmounted(() => {
-  document.removeEventListener('click', onFilterDocClick, true)
-  document.removeEventListener('keydown', onKeydown)
   if (typeof document !== 'undefined') document.body.style.overflow = ''
 })
 </script>

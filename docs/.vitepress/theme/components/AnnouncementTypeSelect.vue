@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { NuInputHighlight, NuVerticalTransition } from '@nolebase/ui'
-import { onMounted, onUnmounted, ref } from 'vue'
+import { onClickOutside } from '@vueuse/core'
+import { ref } from 'vue'
 import type { AnnouncementType } from '../composables/useAnnouncements'
 import MenuHelp from './settings/MenuHelp.vue'
 import MenuTitle from './settings/MenuTitle.vue'
@@ -19,8 +20,10 @@ const OPTIONS: { value: AnnouncementType; label: string }[] = [
   { value: 'improvement', label: 'Improvement' }
 ]
 
-function labelFor(value: string): string {
-  return OPTIONS.find((o) => o.value === value)?.label ?? 'All types'
+const OPTIONS_MAP: Record<string, string> = {
+  section: 'Section',
+  component: 'Component',
+  improvement: 'Improvement'
 }
 
 const rootRef = ref<HTMLElement>()
@@ -33,12 +36,9 @@ function select(value: string) {
   open.value = false
 }
 
-function onDocClick(e: MouseEvent) {
-  if (rootRef.value && !rootRef.value.contains(e.target as Node)) open.value = false
-}
-
-onMounted(() => document.addEventListener('click', onDocClick, true))
-onUnmounted(() => document.removeEventListener('click', onDocClick, true))
+onClickOutside(rootRef, () => {
+  open.value = false
+})
 </script>
 
 <template>
@@ -91,7 +91,7 @@ onUnmounted(() => document.removeEventListener('click', onDocClick, true))
         :aria-expanded="open"
         @click="open = !open"
       >
-        <span class="ann-type-label">{{ labelFor(modelValue) }}</span>
+        <span class="ann-type-label">{{ OPTIONS_MAP[modelValue] ?? 'All types' }}</span>
         <span class="ann-type-chevron i-lucide:chevron-down" :class="{ 'ann-type-chevron--open': open }" />
       </button>
 
