@@ -59,7 +59,7 @@ og:
 
 | Category | Websites |
 | :--- | :--- |
-| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?f=0&c=1_0&q=%E6%97%A5</tooltip> |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?c=1_0&q=%E6%97%A5</tooltip> |
 | ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/GYahYNWutE) |
 | **Direct** :ddl: | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) |
@@ -77,23 +77,22 @@ og:
 - [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
 - [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
 
-== TV Program
-- [NHK Easy Japanese](https://www3.nhk.or.jp/nhkworld/lesson/)
-- [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/shows/category/28/)
-
 == Live TV
-- [AQ Stream](https://aqstream.com/jp)
-- [FAST ch](https://fastv.jp/) :hd:
-- [Japanese TV](https://mov3.co/) :hd:
-- [Japanese IPTV Playlist](https://gitflic.ru/project/reaperc/jp-iptv)
-- [takelab](https://github.com/take2560/takelab)
-- [TVer](https://tver.jp/) ==TVer==
 
-== General TV
-- [Globe TV](https://globetv.app/)
-- [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) [||JP||](https://iptv-org.github.io/iptv/countries/jp.m3u) [||JPN||](https://iptv-org.github.io/iptv/languages/jpn.m3u)
-- [Search TV](https://searchtv.net/)
-- [TV Garden](https://famelack.com/jp)
+| Category | Websites |
+| :--- | :--- |
+| **General** | [Globe TV](https://globetv.app/) |
+| ^^ | [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) [||JP||](https://iptv-org.github.io/iptv/countries/jp.m3u) [||JPN||](https://iptv-org.github.io/iptv/languages/jpn.m3u) |
+| ^^ | [Search TV](https://searchtv.net/) |
+| ^^ | [TV Garden](https://famelack.com/jp) |
+| **Japan** | [AQ Stream](https://aqstream.com/jp) |
+| ^^ | [FAST ch](https://fastv.jp/) :hd: |
+| ^^ | [Japanese TV](https://mov3.co/) :hd: |
+| ^^ | [Japanese IPTV Playlist](https://gitflic.ru/project/reaperc/jp-iptv) |
+| ^^ | [takelab](https://github.com/take2560/takelab) |
+| ^^ | [TVer](https://tver.jp/) ==TVer== |
+| **TV Program** | [NHK Easy Japanese](https://www3.nhk.or.jp/nhkworld/lesson/) |
+| ^^ | [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/shows/category/28/) |
 
 :::
 
@@ -133,7 +132,7 @@ og:
 
 :::
 
-<Block icon="i-mdi-lightbulb-alert-outline" link="/nonen#direct" >More in manga direct download</Block>
+<Block icon="i-mdi-lightbulb-outline" link="/nonen#direct" >More in raw direct download</Block>
 
 ## Listening
 
