@@ -148,6 +148,7 @@ outline: 2
 - [Comics](/websites?t=info-db-1)
 - [Games](/games?t=database)
 - [Live Action](/websites?t=info-db)
+- [Merch](/merch?t=database)
 - [Music](/music?t=database)
 - [NSFW](/nsfw?t=database)
 - [VTuber](/vtuber?t=database)
