@@ -133,12 +133,12 @@ og:
 
 | Categories | Software | Platform |
 | :--- | :--- | :--- |
-| Image Viewer | [IrfanView](https://www.irfanview.com/) :cs: | :win: |
+| **Image Viewer** | [IrfanView](https://www.irfanview.com/) :cs: | :win: |
 | ^^ | [JPEGView](https://github.com/sylikc/jpegview) | :win: |
 | ^^ | [qimgv](https://github.com/easymodo/qimgv) :s: | :win::app::lin::bsd: |
 | ^^ | [qView](https://interversehq.com/qview/) [:src:](https://github.com/jurplel/qView) | :win::app::lin: |
 | ^^ | [XnView MP](https://www.xnview.com/en/xnview/) :cs: | :win::app::lin: |
-| Video Player | [mpv](https://mpv.io/) :s: [:src:](https://github.com/mpv-player/mpv) | :win::app::lin: |
+| **Video Player** | [mpv](https://mpv.io/) :s: [:src:](https://github.com/mpv-player/mpv) | :win::app::lin: |
 | ^^ | [SMPlayer](https://www.smplayer.info/) [:src:](https://github.com/smplayer-dev/smplayer) | :win::app::lin: |
 | ^^ | [MPC-HC](https://github.com/clsid2/mpc-hc) | :win: |
 | ^^ | [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) | :win: |
@@ -148,12 +148,13 @@ og:
 
 | Categories | Software |
 | :--- | :--- |
-| Alt UI | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
+| **Alt UI** | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
+| ^^ | [Material OSC](https://github.com/brahmkshatriya/material-osc) |
 | ^^ | [ModernX](https://github.com/cyl0/ModernX) |
 | ^^ | [ModernZ](https://github.com/Samillion/ModernZ) |
 | ^^ | [Tethys](https://github.com/Zren/mpv-osc-tethys) |
 | ^^ | [uosc](https://github.com/tomasklaen/uosc) |
-| Forks | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) |
+| **Forks** | [Celluloid](https://celluloid-player.github.io/) :lin: [:src:](https://github.com/celluloid-player/celluloid) |
 | ^^ | [Haruna](https://haruna.kde.org/) :lin: [:src:](https://invent.kde.org/multimedia/haruna) |
 | ^^ | [IINA](https://iina.io/) :app: [:src:](https://github.com/iina/iina) |
 | ^^ | [mpc-qt](https://mpc-qt.github.io/) :win::lin: [:src:](https://github.com/mpc-qt/mpc-qt) |
@@ -163,18 +164,18 @@ og:
 
 | Categories | Software |
 | :--- | :--- |
-| QoL | [ani-skip](https://github.com/synacktraa/ani-skip) |
+| **QoL** | [ani-skip](https://github.com/synacktraa/ani-skip) |
 | ^^ | [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater) |
 | ^^ | [mpv Playlistmanager](https://github.com/jonniek/mpv-playlistmanager) |
 | ^^ | [trackselect](https://github.com/po5/trackselect) |
 | ^^ | [pause when minimize](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/pause-when-minimize.lua) |
-| Shaders | [ArtCNN](https://github.com/Artoriuz/ArtCNN) |
+| **Shaders** | [ArtCNN](https://github.com/Artoriuz/ArtCNN) |
 | ^^ | [Prescalers](https://github.com/bjin/mpv-prescalers) |
 | Video | [Autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua) |
 | ^^ | [Autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua) |
 | ^^ | [Eisa's Scripts](https://github.com/Eisa01/mpv-scripts) |
 | ^^ | [thumbfast](https://github.com/po5/thumbfast/) |
-| Resources | [mpv manual](https://mpv.io/manual/stable/) |
+| **Resources** | [mpv manual](https://mpv.io/manual/stable/) |
 | ^^ | [Scum's Setup Guide](https://iamscum.wordpress.com/guides/videoplayback-guide/) |
 | ^^ | [mpv Script Wiki](https://github.com/mpv-player/mpv/wiki/User-Scripts) |
 | ^^ | [Awesome mpv](https://github.com/stax76/awesome-mpv) |
