@@ -85,7 +85,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AnimeOverdose](https://www.anime-overdose.com/) |
 | ^^ | [Anime Srbija](https://www.animesrbija.com/) |
 | ^^ | [AniPiece](https://anipiece.net/) |
-| ^^ | [BalkanFlix](https://www.balkanflix.com/) |
 | ^^ | [Ranime](https://ranime.net/) |
 | **Cartoon** | [Gledaj Crtaće](https://www.gledajcrtace.rs/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |
@@ -465,7 +464,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc117.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
-| ^^ | [FRToon](https://frtoon4.com/) |
+| ^^ | [FRToon](https://frtoon5.com/) |
 | ^^ | [Funbe](https://funbe659.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
