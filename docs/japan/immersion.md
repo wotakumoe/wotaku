@@ -91,12 +91,13 @@ og:
 | ^^ | [Japanese IPTV Playlist](https://gitflic.ru/project/reaperc/jp-iptv) |
 | ^^ | [takelab](https://github.com/take2560/takelab) |
 | ^^ | [TVer](https://tver.jp/) ==TVer== |
-| **TV Program** | [NHK Easy Japanese](https://www3.nhk.or.jp/nhkworld/lesson/) |
+| **VODs** | [NHK Easy Japanese](https://www3.nhk.or.jp/nhkworld/lesson/) |
 | ^^ | [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/shows/category/28/) |
 
 :::
 
 ## Reading
+
 ::: tabs
 
 == General
@@ -138,13 +139,13 @@ og:
 
 ::: tabs
 
-== Audiobook
+== Audiobooks
 - [Nyaa.si](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
 - [TMW Audiobook Collection](https://nyaa.si/?q=TMW+Audiobook) :mag: [||Index||](https://coreaudio.netlify.app/)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
-== Podcast
+== Podcasts
 - [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit)
 - [Japanese with Noriko](https://www.japanesewithnoriko.com/)
 - [Learn Japanese Podcast](https://learnjapanesepod.com/)
