@@ -131,7 +131,7 @@ og:
 
 == Media
 
-| Categories | Software | Platform |
+| Category | Software | Platform |
 | :--- | :--- | :--- |
 | **Image Viewer** | [IrfanView](https://www.irfanview.com/) :cs: | :win: |
 | ^^ | [JPEGView](https://github.com/sylikc/jpegview) | :win: |
@@ -145,8 +145,7 @@ og:
 
 == MPV
 
-
-| Categories | Software |
+| Category | Software |
 | :--- | :--- |
 | **Alt UI** | [MPV Easy](https://mpv-easy.github.io/mpv-build/) [:src:](https://github.com/mpv-easy/mpv-easy) |
 | ^^ | [Material OSC](https://github.com/brahmkshatriya/material-osc) |
@@ -162,7 +161,7 @@ og:
 
 <collapsible title="Related resources">
 
-| Categories | Software |
+| Category | Software |
 | :--- | :--- |
 | **QoL** | [ani-skip](https://github.com/synacktraa/ani-skip) |
 | ^^ | [mpv AniList Updater](https://github.com/AzuredBlue/mpv-anilist-updater) |
@@ -243,7 +242,7 @@ og:
 
 == arr
 
-| Categories | Software |
+| Category | Software |
 | :--- | :--- |
 | **Main** | [Lidarr](https://lidarr.audio/) [:src:](https://github.com/Lidarr/Lidarr) |
 | ^^ | [Radarr](https://radarr.video/) [:src:](https://github.com/Radarr/Radarr) |
