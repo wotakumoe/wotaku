@@ -397,13 +397,13 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 == Wikis
 
 - [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) ||Hub||
-- [GARO Wiki](https://garo.fandom.com/wiki/GARO_Wiki)
-- [Kamen Rider Wiki](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)
-- [King Kong Wiki](https://kingkong.fandom.com/wiki/King_Kong_Wiki)
-- [Metal Heroes Wiki](https://metalheroes.fandom.com/wiki/Metal_Heroes_Wiki)
-- [RangerWiki](https://powerrangers.fandom.com/wiki/RangerWiki)
-- [Tokusubs Wiki](https://tokusubs.fandom.com/wiki/Tokusubs_Wiki)
-- [Ultraman Wiki](https://ultra.fandom.com/wiki/Ultraman_Wiki)
+- [GARO](https://garo.fandom.com/wiki/GARO_Wiki)
+- [Kamen Rider](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)
+- [King Kong](https://kingkong.fandom.com/wiki/King_Kong_Wiki)
+- [Metal Heroes](https://metalheroes.fandom.com/wiki/Metal_Heroes_Wiki)
+- [Power Rangers](https://powerrangers.fandom.com/wiki/RangerWiki)
+- [Tokusubs](https://tokusubs.fandom.com/wiki/Tokusubs_Wiki)
+- [Ultraman](https://ultra.fandom.com/wiki/Ultraman_Wiki)
 - [Wikizilla](https://wikizilla.org/wiki/Main_Page)
 
 == Portals
