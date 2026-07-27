@@ -243,7 +243,7 @@ const updateQueryForCollapsible = async (details: HTMLElement) => {
   const tabPath = getEnclosingTabPath(details)
 
   const nextUrl = buildUrl({
-    tabs: tabPath.length ? tabPath : undefined,
+    tabs: tabPath.length ? tabPath : [],
     collapsibles: collapsiblePath
   })
   const currentUrl =
