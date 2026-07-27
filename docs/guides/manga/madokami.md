@@ -146,7 +146,7 @@ You can also set up your client to do this automatically by adding it to the **C
 
 ::: tabs
 
-== Free Manga Downloader 2
+== FMD 2
 
 :::steps
 1. Download and install FMD2 from [**here**](https://github.com/dazedcat19/FMD2)
