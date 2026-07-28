@@ -470,8 +470,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [MoneyToon](https://mtoon145.asia/) |
 | ^^ | [NameeToon](https://namee105.asia/) |
-| ^^ | [TOONKOR](https://tkor138.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf426.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [TOONKOR](https://tkor139.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Wolf](https://wfwf428.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon221.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
