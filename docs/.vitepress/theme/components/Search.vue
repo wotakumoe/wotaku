@@ -25,7 +25,6 @@ import {
   onKeyStroke,
   useElementBounding,
   useEventListener,
-  useLocalStorage,
   useScrollLock,
   useSessionStorage,
   watchDebounced
@@ -45,6 +44,7 @@ import {
   Clock,
   File,
   Globe,
+  Highlighter,
   Hash,
   Layers,
   LayoutList,
@@ -65,6 +65,16 @@ import { useData } from '../composables/search/use-data'
 import { useEffects } from '../composables/useEffects'
 import { applyFavicons, useFavicons } from '../composables/useFavicons'
 import { registerGlobalComponents } from '../globalComponents'
+import {
+  excerptPreload,
+  saveHistoryEnabled,
+  searchHistory,
+  searchMode,
+  searchResultHighlightMode,
+  showDetailedList,
+  type SearchHistoryEntry,
+  type SearchSortMode
+} from '../searchState'
 import { enhanceAppWithTabs } from './tabs'
 
 export interface FooterTranslations {
@@ -265,23 +275,6 @@ watch(filterText, (v) => {
 })
 onBeforeUnmount(() => clearTimeout(urlDebounceTimer))
 
-const showDetailedList = useLocalStorage(
-  'vitepress:local-search-detailed-list',
-  true
-)
-
-// Three search modes: 'exact' | 'fuzzy' | 'url'
-const searchMode = useLocalStorage<'exact' | 'fuzzy' | 'url'>(
-  'vitepress:local-search-mode',
-  'exact'
-)
-
-// How many result pages get their excerpts rendered ahead of time
-const excerptPreload = useLocalStorage<'off' | 'next' | 'all'>(
-  'vitepress:local-search-excerpt-preload',
-  'off'
-)
-
 // Cycle through modes on mobile (only active button is visible, tap it to advance)
 function cycleSearchMode() {
   const modes = ['exact', 'fuzzy', 'url'] as const
@@ -293,31 +286,22 @@ function cycleSearchMode() {
 const matchExact = computed(() => searchMode.value === 'exact')
 const urlSearchMode = computed(() => searchMode.value === 'url')
 
-// Search history
-interface SearchHistoryEntry {
-  query: string
-  mode: SearchMode
-  path?: string[]
-  href?: string
-}
-
-const saveHistoryEnabled = useLocalStorage('vitepress:local-search-save-history', false)
-
-const searchHistory = useLocalStorage<SearchHistoryEntry[]>(
-  'vitepress:local-search-history',
-  []
-)
-
 const showHistory = computed(
   () => !filterText.value && searchHistory.value.length > 0
 )
 
-function saveToHistory(query: string, mode: SearchMode, path?: string[], href?: string) {
+function saveToHistory(
+  query: string,
+  mode: SearchSortMode,
+  path?: string[],
+  href?: string,
+  resultText?: string
+) {
   const trimmed = query.trim()
   if (!trimmed || !saveHistoryEnabled.value) return
   const pathKey = (path ?? []).join('\n')
   searchHistory.value = [
-    { query: trimmed, mode, path, href },
+    { query: trimmed, mode, path, href, resultText },
     ...searchHistory.value.filter(
       (h) => !(h.query === trimmed && h.mode === mode && (h.path ?? []).join('\n') === pathKey)
     )
@@ -331,7 +315,9 @@ function removeFromHistory(index: number) {
 function applyHistory(entry: SearchHistoryEntry) {
   if (entry.href) {
     window.dispatchEvent(
-      new CustomEvent('search-nav', { detail: { query: entry.query } })
+      new CustomEvent('search-nav', {
+        detail: { query: entry.query, resultText: entry.resultText }
+      })
     )
     router.go(entry.href)
     showSearch.value = false
@@ -347,7 +333,12 @@ const showSettingsPopup = ref(false)
 const settingsButtonRef = ref<HTMLButtonElement>()
 const settingsPopupRef = ref<HTMLDivElement>()
 const settingsBounding = useElementBounding(settingsButtonRef)
-type HelpSection = 'search' | 'view' | 'preload' | 'history'
+type HelpSection =
+  | 'search'
+  | 'view'
+  | 'preload'
+  | 'highlight'
+  | 'history'
 const activeHelpSection = ref<HelpSection | null>(null)
 const helpPopupEl = ref<HTMLDivElement>()
 const helpPopupPos = ref({ top: -9999, left: -9999 })
@@ -651,8 +642,6 @@ const pageMeta = (() => {
   return map
 })()
 
-type SearchMode = 'exact' | 'fuzzy' | 'url'
-
 interface TextSearchWorkerPayload {
   results: (SearchResult & Result)[]
   terms: string[]
@@ -674,7 +663,7 @@ interface LoadIndexWorkerRequest {
 interface TextSearchWorkerRequest {
   type: 'text-search'
   query: string
-  mode: SearchMode
+  mode: SearchSortMode
   pageOrderEntries: [string, number][]
 }
 
@@ -1797,9 +1786,11 @@ function getSearchResultHref(item: SearchResult & Result) {
 }
 
 function navigateToUrlResult(item: UrlResult) {
-  saveToHistory(filterText.value, searchMode.value, [getPageLabel(item.pageId), ...item.titles, item.linkText].map(toHistoryPathHtml).filter(Boolean), buildResultHref(item.pageId, item.tabs, item.anchor))
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(item.pageId), ...item.titles, item.linkText].map(toHistoryPathHtml).filter(Boolean), buildResultHref(item.pageId, item.tabs, item.anchor), item.linkText)
   window.dispatchEvent(
-    new CustomEvent('search-nav', { detail: { query: filterText.value } })
+    new CustomEvent('search-nav', {
+      detail: { query: filterText.value, resultText: item.linkText }
+    })
   )
   router.go(buildResultHref(item.pageId, item.tabs, item.anchor))
   showSearch.value = false
@@ -1837,10 +1828,10 @@ onKeyStroke('Enter', (e) => {
   }
 
   if (selectedPackage) {
-    saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(selectedPackage.id))), ...selectedPackage.titles, selectedPackage.title].map(toHistoryPathHtml).filter(Boolean), getSearchResultHref(selectedPackage))
+    saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(selectedPackage.id))), ...selectedPackage.titles, selectedPackage.title].map(toHistoryPathHtml).filter(Boolean), getSearchResultHref(selectedPackage), selectedPackage.title)
     window.dispatchEvent(
       new CustomEvent('search-nav', {
-        detail: { query: filterText.value }
+        detail: { query: filterText.value, resultText: selectedPackage.title }
       })
     )
     router.go(getSearchResultHref(selectedPackage))
@@ -1849,10 +1840,10 @@ onKeyStroke('Enter', (e) => {
 })
 
 function onResultClick(item: SearchResult & Result) {
-  saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(item.id))), ...item.titles, item.title].map(toHistoryPathHtml).filter(Boolean), getSearchResultHref(item))
+  saveToHistory(filterText.value, searchMode.value, [getPageLabel(getPageKey(String(item.id))), ...item.titles, item.title].map(toHistoryPathHtml).filter(Boolean), getSearchResultHref(item), item.title)
   window.dispatchEvent(
     new CustomEvent('search-nav', {
-      detail: { query: filterText.value }
+      detail: { query: filterText.value, resultText: item.title }
     })
   )
   showSearch.value = false
@@ -2750,6 +2741,54 @@ function onMouseMove(e: MouseEvent) {
                 <div class="settings-section">
                   <div class="settings-section-header">
                     <div class="settings-section-label">
+                      <Highlighter :size="14" stroke-width="1.75" />
+                      Highlight
+                    </div>
+                    <button
+                      type="button"
+                      class="settings-help-btn"
+                      :class="{ active: activeHelpSection === 'highlight' }"
+                      aria-label="Search result highlight help"
+                      @click.stop="toggleHelpSection('highlight', $event)"
+                      @mouseenter="onHelpEnter('highlight', $event)"
+                      @mouseleave="onHelpLeave"
+                    >
+                      <span class="i-carbon:help-filled settings-help-icon" />
+                    </button>
+                  </div>
+                  <div
+                    class="settings-options"
+                    :class="{ 'is-highlighted': activeHelpSection === 'highlight' }"
+                  >
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: searchResultHighlightMode === 'soft' }"
+                      @click="searchResultHighlightMode = 'soft'"
+                    >
+                      <span>Soft</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: searchResultHighlightMode === 'solid' }"
+                      @click="searchResultHighlightMode = 'solid'"
+                    >
+                      <span>Solid</span>
+                    </button>
+                    <button
+                      type="button"
+                      class="settings-option"
+                      :class="{ active: searchResultHighlightMode === 'off' }"
+                      @click="searchResultHighlightMode = 'off'"
+                    >
+                      <span>Off</span>
+                    </button>
+                  </div>
+                </div>
+                <div class="settings-section">
+                  <div class="settings-section-header">
+                    <div class="settings-section-label">
                       <Clock :size="14" stroke-width="1.75" />
                       History
                     </div>
@@ -2867,6 +2906,25 @@ function onMouseMove(e: MouseEvent) {
                     <div class="sh-option">
                       <strong>Off</strong>
                       <span>Only the visible page. Uses the least memory.</span>
+                    </div>
+                  </div>
+                </template>
+                <template v-else-if="activeHelpSection === 'highlight'">
+                  <h4 class="sh-title">
+                    <Highlighter :size="16" stroke-width="1.75" class="sh-title-icon" />
+                    Search Result Highlight
+                  </h4>
+                  <p class="sh-desc">
+                    Highlights the exact result you open.
+                  </p>
+                  <div class="sh-options">
+                    <div class="sh-option">
+                      <strong>Soft</strong>
+                      <span>Soft accent background with a solid border.</span>
+                    </div>
+                    <div class="sh-option">
+                      <strong>Solid</strong>
+                      <span>Solid accent fill with no border.</span>
                     </div>
                   </div>
                 </template>
