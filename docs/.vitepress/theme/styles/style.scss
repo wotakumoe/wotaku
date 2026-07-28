@@ -210,14 +210,13 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 .search-result-highlight--solid {
   border: none;
   background-color: var(--vp-c-brand-1);
-  color: var(--vp-button-brand-text);
 }
 
-html:not(.dark) .search-result-highlight {
+html:not(.dark) .search-result-highlight--solid {
   color: #fff;
 }
 
-html.dark .search-result-highlight {
+html.dark .search-result-highlight--solid {
   color: #000;
 }
 
