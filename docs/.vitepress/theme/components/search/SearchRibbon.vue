@@ -30,7 +30,78 @@ const emit = defineEmits<{
 const ribbonTrack = shallowRef<HTMLElement>()
 const ribbonCanScrollLeft = ref(false)
 const ribbonCanScrollRight = ref(false)
+const isDragging = ref(false)
 let ribbonAnimHandle = 0
+let dragStartX = 0
+let dragStartScrollLeft = 0
+let dragMoved = false
+
+function onDragStart(e: MouseEvent) {
+  // Only respond to primary (left) button
+  if (e.button !== 0) return
+  const track = getRibbonTrack()
+  if (!track) return
+  // Don't drag if user clicked on a scroll arrow
+  const target = e.target as HTMLElement
+  if (target.closest('.page-ribbon-arrow')) return
+  
+  isDragging.value = true
+  dragStartX = e.clientX
+  dragStartScrollLeft = track.scrollLeft
+  dragMoved = false
+  track.style.cursor = 'grabbing'
+  track.style.userSelect = 'none'
+  // Prevent text selection while dragging
+  e.preventDefault()
+}
+
+function onDragMove(e: MouseEvent) {
+  if (!isDragging.value) return
+  const track = getRibbonTrack()
+  if (!track) return
+  
+  const deltaX = e.clientX - dragStartX
+  const threshold = 4
+  if (!dragMoved && Math.abs(deltaX) > threshold) {
+    dragMoved = true
+  }
+  
+  if (dragMoved) {
+    track.scrollLeft = dragStartScrollLeft - deltaX
+    updateRibbonOverflow()
+  }
+}
+
+function onDragEnd() {
+  if (!isDragging.value) return
+  isDragging.value = false
+  const track = getRibbonTrack()
+  if (track) {
+    track.style.cursor = ''
+    track.style.userSelect = ''
+  }
+}
+
+function onTrackClick(e: MouseEvent) {
+  if (dragMoved) {
+    e.preventDefault()
+    e.stopPropagation()
+    dragMoved = false
+  }
+}
+
+function onTrackWheel(e: WheelEvent) {
+  const track = getRibbonTrack()
+  if (!track) return
+  const max = track.scrollWidth - track.clientWidth
+  if (max <= 0) return
+  const newScroll = Math.max(0, Math.min(max, track.scrollLeft + e.deltaX + e.deltaY))
+  if (newScroll !== track.scrollLeft) {
+    e.preventDefault()
+    track.scrollLeft = newScroll
+    updateRibbonOverflow()
+  }
+}
 
 function updateRibbonOverflow() {
   const track = getRibbonTrack()
@@ -108,6 +179,10 @@ useEventListener('resize', updateRibbonOverflow)
 
 onBeforeUnmount(() => {
   if (ribbonAnimHandle) cancelAnimationFrame(ribbonAnimHandle)
+  // Reset drag state if component unmounts mid-drag
+  if (isDragging.value) {
+    onDragEnd()
+  }
 })
 
 defineExpose({ scrollActivePagePillIntoView })
@@ -148,7 +223,14 @@ function setPageFilter(key: string | null) {
     <div
       ref="ribbonTrack"
       class="page-ribbon-track"
+      :class="{ 'is-dragging': isDragging }"
       @scroll="updateRibbonOverflow"
+      @mousedown="onDragStart"
+      @mousemove="onDragMove"
+      @mouseup="onDragEnd"
+      @mouseleave="onDragEnd"
+      @click.capture="onTrackClick"
+      @wheel="onTrackWheel"
     >
       <!-- URL mode tabs -->
       <template v-if="urlSearchMode">
@@ -213,12 +295,11 @@ function setPageFilter(key: string | null) {
 .page-ribbon {
   display: flex;
   align-items: center;
-  padding: 12px 0 4px;
-  padding-inline: calc(var(--spacing) * 3);
   position: relative;
   min-width: 0;
   flex: none;
   overflow: hidden;
+  padding: 8px 12px 0;
   transition: padding-inline 0.15s;
 }
 
@@ -233,26 +314,33 @@ function setPageFilter(key: string | null) {
 .page-ribbon-track {
   display: flex;
   flex-wrap: nowrap;
-  gap: 8px;
+  gap: 0;
   min-width: 0;
   flex: 1;
-  overflow-x: auto;
-  overflow-y: hidden;
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-  overscroll-behavior-x: contain;
+  overflow: hidden;
+  position: relative;
+  cursor: grab;
 }
 
-.page-ribbon-track::-webkit-scrollbar {
-  display: none;
-  width: 0;
-  height: 0;
+.page-ribbon-track.is-dragging {
+  cursor: grabbing;
+  user-select: none;
+}
+
+.page-ribbon::after {
+  content: '';
+  position: absolute;
+  right: 12px;
+  bottom: 0;
+  left: 12px;
+  height: 2px;
+  background-color: var(--vp-c-divider);
 }
 
 .page-ribbon-arrow {
   position: absolute;
-  top: 12px;
-  bottom: 4px;
+  top: 0;
+  bottom: 0;
   z-index: 2;
   display: inline-flex;
   align-items: center;
@@ -265,20 +353,22 @@ function setPageFilter(key: string | null) {
   transition: color 0.15s;
 }
 
-.page-ribbon-arrow:hover {
-  color: var(--vp-c-text-1);
+.page-ribbon-arrow.left {
+  left: 0;
+  justify-content: flex-start;
+  padding-left: 6px;
+  background: linear-gradient(to right, var(--vp-local-search-bg) 60%, transparent);
 }
 
 .page-ribbon-arrow.right {
   right: 0;
   justify-content: flex-end;
   padding-right: 6px;
+  background: linear-gradient(to left, var(--vp-local-search-bg) 60%, transparent);
 }
 
-.page-ribbon-arrow.left {
-  left: 0;
-  justify-content: flex-start;
-  padding-left: 6px;
+.page-ribbon-arrow:hover {
+  color: var(--vp-c-text-1);
 }
 
 .page-ribbon-arrow.left svg {
@@ -287,31 +377,47 @@ function setPageFilter(key: string | null) {
 
 .page-pill {
   flex: none;
+  position: relative;
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  padding: 6px 10px;
-  font-size: 0.8rem;
-  line-height: 1.2;
+  padding: 0 12px;
+  height: 36px;
+  font-size: 0.85rem;
+  font-weight: 500;
   white-space: nowrap;
-  border-radius: 8px;
-  border: 1.5px solid var(--vp-c-divider);
-  background: var(--vp-c-bg-soft);
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: transparent;
   color: var(--vp-c-text-2);
   cursor: pointer;
-  transition: color 0.15s, border-color 0.15s, background-color 0.15s;
+  transition: color 0.2s;
 }
 
 .page-pill:hover {
   color: var(--vp-c-text-1);
-  border-color: var(--vp-c-brand-1);
 }
 
 .page-pill.active {
-  color: var(--vp-c-brand-1);
-  border: 1.5px solid var(--vp-c-brand-1);
-  background: color-mix(in srgb, var(--vp-c-brand-1) 12%, transparent);
-  box-shadow: none;
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+
+.page-pill::after {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  right: 8px;
+  bottom: -2px;
+  left: 8px;
+  height: 2px;
+  background-color: transparent;
+  border-radius: 0;
+  transition: background-color 0.2s;
+}
+
+.page-pill.active::after {
+  background-color: var(--vp-c-brand-1);
 }
 
 .page-pill-label {
@@ -324,23 +430,22 @@ function setPageFilter(key: string | null) {
   font-variant-numeric: tabular-nums;
   font-size: 0.7rem;
   padding: 1px 6px;
-  border-radius: 4px;
-  background: rgba(128, 128, 128, 0.15);
-  color: inherit;
+  border-radius: 3px;
+  background: rgba(128, 128, 128, 0.12);
+  color: var(--vp-c-text-3);
+  line-height: 1.4;
 }
 
 .page-pill.active .page-pill-count {
-  background: color-mix(in srgb, var(--vp-c-brand-1) 18%, transparent);
+  color: var(--vp-c-text-2);
+  background: rgba(128, 128, 128, 0.18);
 }
 
 @media (max-width: 767px) {
-  .page-ribbon {
-    padding: 14px 12px 4px;
-  }
-
   .page-pill {
-    padding: 4px 8px;
-    font-size: 0.75rem;
+    height: 32px;
+    padding: 0 10px;
+    font-size: 0.8rem;
   }
 }
 </style>
