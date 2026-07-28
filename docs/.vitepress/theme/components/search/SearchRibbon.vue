@@ -35,6 +35,9 @@ let ribbonAnimHandle = 0
 let dragStartX = 0
 let dragStartScrollLeft = 0
 let dragMoved = false
+let touchStartX = 0
+let touchStartScrollLeft = 0
+let touchDragMoved = false
 
 function onDragStart(e: MouseEvent) {
   // Only respond to primary (left) button
@@ -83,10 +86,11 @@ function onDragEnd() {
 }
 
 function onTrackClick(e: MouseEvent) {
-  if (dragMoved) {
+  if (dragMoved || touchDragMoved) {
     e.preventDefault()
     e.stopPropagation()
     dragMoved = false
+    touchDragMoved = false
   }
 }
 
@@ -101,6 +105,33 @@ function onTrackWheel(e: WheelEvent) {
     track.scrollLeft = newScroll
     updateRibbonOverflow()
   }
+}
+
+function onTouchStart(e: TouchEvent) {
+  const track = getRibbonTrack()
+  if (!track) return
+  const target = e.target as HTMLElement
+  if (target.closest('.page-ribbon-arrow')) return
+  touchStartX = e.touches[0].clientX
+  touchStartScrollLeft = track.scrollLeft
+  touchDragMoved = false
+}
+
+function onTouchMove(e: TouchEvent) {
+  const track = getRibbonTrack()
+  if (!track) return
+  const deltaX = e.touches[0].clientX - touchStartX
+  const threshold = 4
+  if (!touchDragMoved && Math.abs(deltaX) > threshold) {
+    touchDragMoved = true
+  }
+  if (touchDragMoved) {
+    track.scrollLeft = touchStartScrollLeft - deltaX
+    updateRibbonOverflow()
+  }
+}
+
+function onTouchEnd() {
 }
 
 function updateRibbonOverflow() {
@@ -229,6 +260,9 @@ function setPageFilter(key: string | null) {
       @mousemove="onDragMove"
       @mouseup="onDragEnd"
       @mouseleave="onDragEnd"
+      @touchstart.passive="onTouchStart"
+      @touchmove.passive="onTouchMove"
+      @touchend="onTouchEnd"
       @click.capture="onTrackClick"
       @wheel="onTrackWheel"
     >
@@ -330,9 +364,9 @@ function setPageFilter(key: string | null) {
 .page-ribbon::after {
   content: '';
   position: absolute;
-  right: 12px;
+  right: 0;
   bottom: 0;
-  left: 12px;
+  left: 0;
   height: 2px;
   background-color: var(--vp-c-divider);
 }

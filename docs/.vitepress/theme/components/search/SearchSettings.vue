@@ -110,9 +110,10 @@ const settingsPopupStyle = computed(() => ({
   right: `calc(100vw - ${settingsBounding.right.value}px)`,
 }))
 
+const settingsBtnEl = computed(() => props.settingsButtonRef)
 onClickOutside(settingsPopupRef, () => {
   emit('update:showSettingsPopup', false)
-}, { ignore: [props.settingsButtonRef] })
+}, { ignore: [settingsBtnEl] })
 
 function setSearchMode(mode: string) {
   searchMode.value = mode as SearchSortMode
@@ -682,7 +683,7 @@ function setSearchMode(mode: string) {
 
 @media (max-width: 767px) {
   .search-settings-popup {
-    display: none;
+    max-width: 280px;
   }
 
   .search-help-popup {
