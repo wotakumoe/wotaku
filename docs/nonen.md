@@ -229,6 +229,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Mangadraft](https://www.mangadraft.com/) |
 | ^^ | [Mangakawaii](https://www.mangakawaii.io/) |
 | ^^ | [Planete-BD](https://planete-bd.org/) |
+| ^^ | [Raijin Scans](https://raijin-scans.fr/) |
 | ^^ | [Sushi-Scan](https://sushiscan.net/) |
 | **Others** | [Hyakanime](https://hyakanime.fr/) |
 | ^^ | [Nautiljon](https://www.nautiljon.com/) |
