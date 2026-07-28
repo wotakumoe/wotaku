@@ -73,6 +73,39 @@ if (!import.meta.env.SSR) {
         typeof event.detail?.resultText === 'string'
       ? event.detail.resultText
       : ''
+
+    const anchor = event instanceof CustomEvent &&
+        typeof event.detail?.anchor === 'string'
+      ? event.detail.anchor
+      : ''
+
+    if (anchor && anchor === window.location.hash.slice(1)) {
+      const target = getTargetByHash(anchor)
+      if (target) {
+        void nextTick(() => {
+          if (searchNavigated) {
+            highlightSearchResult(target)
+            resetSearchNavigation()
+          }
+        })
+      }
+    }
+
+    let attempts = 0
+    const retryHighlight = () => {
+      if (!searchNavigated) return
+      attempts++
+      const currentHash = window.location.hash.slice(1)
+      if (!currentHash) return
+      const target = getTargetByHash(currentHash)
+      if (target) {
+        highlightSearchResult(target)
+        resetSearchNavigation()
+      } else if (attempts < 15) {
+        requestAnimationFrame(retryHighlight)
+      }
+    }
+    requestAnimationFrame(retryHighlight)
   })
 }
 
@@ -192,7 +225,13 @@ const highlightSearchResult = (target?: HTMLElement) => {
   )
   highlightTabPath = panel ? getPanelTabPath(panel) : null
   highlightTerm = term
-  applyHighlightWithin(target, term)
+  
+  if (!applyHighlightWithin(target, term)) {
+    const docRoot = document.querySelector<HTMLElement>('.VPDoc .vp-doc')
+    if (docRoot) {
+      applyHighlightWithin(docRoot, term)
+    }
+  }
 }
 
 const reapplyHighlightIfNeeded = (panel: HTMLElement) => {

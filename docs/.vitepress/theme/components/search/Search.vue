@@ -1082,7 +1082,13 @@ function navigateToUrlResult(item: UrlResult) {
     buildResultHref(item.pageId, item.tabs, item.anchor), item.linkText
   )
   window.dispatchEvent(
-    new CustomEvent('search-nav', { detail: { query: filterText.value, resultText: item.linkText } })
+    new CustomEvent('search-nav', {
+      detail: {
+        query: filterText.value,
+        resultText: item.linkText,
+        anchor: item.anchor
+      }
+    })
   )
   router.go(buildResultHref(item.pageId, item.tabs, item.anchor))
   showSearch.value = false
@@ -1115,7 +1121,13 @@ onKeyStroke('Enter', (e) => {
       getSearchResultHref(selectedPackage), selectedPackage.title
     )
     window.dispatchEvent(
-      new CustomEvent('search-nav', { detail: { query: filterText.value, resultText: selectedPackage.title } })
+      new CustomEvent('search-nav', {
+        detail: {
+          query: filterText.value,
+          resultText: selectedPackage.title,
+          anchor: getDocAnchor(String(selectedPackage.id))
+        }
+      })
     )
     router.go(getSearchResultHref(selectedPackage))
     showSearch.value = false
@@ -1129,7 +1141,13 @@ function onResultClick(item: SearchResult & Result) {
     getSearchResultHref(item), item.title
   )
   window.dispatchEvent(
-    new CustomEvent('search-nav', { detail: { query: filterText.value, resultText: item.title } })
+    new CustomEvent('search-nav', {
+      detail: {
+        query: filterText.value,
+        resultText: item.title,
+        anchor: getDocAnchor(String(item.id))
+      }
+    })
   )
   showSearch.value = false
 }
