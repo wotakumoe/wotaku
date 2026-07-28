@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ArrowLeft, ArrowLeftToLine, ArrowRight, ArrowRightToLine } from 'lucide-vue-next'
-import type { FooterTranslations } from './types'
 
 defineProps<{
   searchMotionDiv: string | object

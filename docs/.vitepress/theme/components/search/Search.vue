@@ -82,7 +82,6 @@ import {
   getPageOrder,
   buildResultHref,
   getSearchResultHref,
-  cycleSearchMode,
   stripNonCloneable,
   getPageOrderEntries,
   nextFrame
@@ -226,9 +225,6 @@ function applyHistory(entry: SearchHistoryEntry) {
 
 // Settings popup
 const showSettingsPopup = ref(false)
-
-// Page groups & URL search state
-interface PageGroupCount { key: string; count: number }
 
 const urlMatches = shallowRef<PageLink[]>([])
 const urlPageGroupCounts = shallowRef<PageGroupCount[]>([])
@@ -1232,7 +1228,6 @@ function onMouseMove(e: MouseEvent) {
             ref="searchBarRef"
             :filter-text="filterText"
             :search-loading="searchLoading"
-            :disable-detailed-view="disableDetailedView"
             :show-settings-popup="showSettingsPopup"
             :button-text="buttonText"
             :disable-reset="disableReset"
@@ -1240,7 +1235,6 @@ function onMouseMove(e: MouseEvent) {
             :form-motion="formMotion"
             :translate="translate"
             @update:filter-text="filterText = $event"
-            @cycle-search-mode="cycleSearchMode(searchMode)"
             @reset-search="resetSearch"
             @search-bar-click="onSearchBarClick"
             @toggle-settings="showSettingsPopup = !showSettingsPopup"
@@ -1559,11 +1553,6 @@ function onMouseMove(e: MouseEvent) {
   font-weight: 500;
 }
 
-.title-icon {
-  opacity: 1;
-  font-weight: 500;
-}
-
 .title svg {
   opacity: 0.5;
 }
@@ -1645,19 +1634,12 @@ function onMouseMove(e: MouseEvent) {
   z-index: 1000;
 }
 
-.result.selected .titles,
-.result.selected .title-icon {
+.result.selected .titles {
   color: var(--vp-c-brand-1) !important;
 }
 
 .result.selected .url-link {
   color: var(--vp-c-brand-1);
-}
-
-.no-results {
-  font-size: 0.9rem;
-  text-align: center;
-  padding: 12px;
 }
 
 svg {
@@ -1707,19 +1689,6 @@ svg {
   display: inline-flex;
   align-items: center;
   color: var(--vp-c-text-2);
-}
-
-.url-path .icon-tip {
-  display: inline-flex;
-  align-items: center;
-  line-height: 1;
-  vertical-align: middle;
-}
-
-.url-path .icon-tip > span {
-  width: 1em;
-  height: 1em;
-  min-width: 1em;
 }
 
 .url-link {

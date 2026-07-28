@@ -1,21 +1,13 @@
 <script setup lang="ts">
 import {
-  Globe,
-  List,
-  LocateOff,
-  Regex,
   Settings,
-  TextAlignStart,
   X
 } from 'lucide-vue-next'
 import { ref } from 'vue'
-import { searchMode, showDetailedList } from '../../searchState'
-import type { SearchSortMode } from '../../searchState'
 
 defineProps<{
   filterText: string
   searchLoading: boolean
-  disableDetailedView: boolean
   showSettingsPopup: boolean
   buttonText: string
   disableReset: boolean
@@ -26,7 +18,6 @@ defineProps<{
 
 const emit = defineEmits<{
   'update:filterText': [value: string]
-  cycleSearchMode: []
   resetSearch: []
   searchBarClick: [event: PointerEvent]
   toggleSettings: []
@@ -37,29 +28,6 @@ const searchInput = ref<HTMLInputElement>()
 const settingsButtonRef = ref<HTMLButtonElement>()
 
 defineExpose({ searchInput, settingsButtonRef })
-
-function onViewDetailClick() {
-  showDetailedList.value = true
-}
-
-function onViewListClick() {
-  showDetailedList.value = false
-}
-
-function onExactClick() {
-  if (searchMode.value === 'exact') emit('cycleSearchMode')
-  else searchMode.value = 'exact' as SearchSortMode
-}
-
-function onFuzzyClick() {
-  if (searchMode.value === 'fuzzy') emit('cycleSearchMode')
-  else searchMode.value = 'fuzzy' as SearchSortMode
-}
-
-function onUrlClick() {
-  if (searchMode.value === 'url') emit('cycleSearchMode')
-  else searchMode.value = 'url' as SearchSortMode
-}
 </script>
 
 <template>
@@ -118,58 +86,8 @@ function onUrlClick() {
           alt="Bubba loading"
         />
       </button>
-      <div
-        v-if="!disableDetailedView && searchMode !== 'url'"
-        class="view-group toolbar-group"
-      >
-        <button
-          type="button"
-          class="mode-btn"
-          :class="{ 'mode-active': showDetailedList }"
-          title="Detail view (Consumes more RAM)"
-          @click="onViewDetailClick"
-        >
-          <TextAlignStart :size="18" stroke-width="2" />
-        </button>
-        <button
-          type="button"
-          class="mode-btn"
-          :class="{ 'mode-active': !showDetailedList }"
-          title="List view (Consumes less RAM)"
-          @click="onViewListClick"
-        >
-          <List :size="18" stroke-width="2" />
-        </button>
-      </div>
-      <div class="search-mode-group toolbar-group">
-        <button
-          type="button"
-          class="mode-btn"
-          :class="{ 'mode-active': searchMode === 'exact' }"
-          title="Exact search"
-          @click="onExactClick"
-        >
-          <Regex :size="18" stroke-width="2" />
-        </button>
-        <button
-          type="button"
-          class="mode-btn"
-          :class="{ 'mode-active': searchMode === 'fuzzy' }"
-          title="Fuzzy search"
-          @click="onFuzzyClick"
-        >
-          <LocateOff :size="18" stroke-width="2" />
-        </button>
-        <button
-          type="button"
-          class="mode-btn"
-          :class="{ 'mode-active': searchMode === 'url' }"
-          title="URL search"
-          @click="onUrlClick"
-        >
-          <Globe :size="18" stroke-width="2" />
-        </button>
-      </div>
+
+
       <button
         ref="settingsButtonRef"
         type="button"
@@ -291,8 +209,7 @@ function onUrlClick() {
   padding: 8px;
 }
 
-.search-actions button:not([disabled]):hover,
-.toggle-layout-button.detailed-list {
+.search-actions button:not([disabled]):hover {
   color: var(--vp-c-brand-1);
 }
 
@@ -300,14 +217,7 @@ function onUrlClick() {
   opacity: 0.37;
 }
 
-.toolbar-group + .toolbar-group {
-  margin-left: 6px;
-}
 
-.search-mode-group,
-.view-group {
-  display: none;
-}
 
 .mode-btn {
   display: flex;
@@ -322,10 +232,6 @@ function onUrlClick() {
   border-radius: 0;
 }
 
-.mode-btn + .mode-btn {
-  border-left: 1px solid var(--vp-c-divider);
-}
-
 .mode-btn:hover {
   color: var(--vp-c-text-1);
   background: var(--vp-c-default-soft);
@@ -336,11 +242,7 @@ function onUrlClick() {
   background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
 }
 
-.exact-match-button.exact-match-active {
-  color: var(--vp-c-brand-1);
-  background-color: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
-  border-radius: 4px;
-}
+
 
 .search-actions .settings-toggle-btn,
 .search-actions .clear-button {
@@ -393,13 +295,16 @@ html.effects-disabled .clear-button:active {
   display: none;
   align-items: center;
   justify-content: center;
-  padding: 0;
+  padding: 8px;
   border: none;
   background: transparent;
   color: var(--vp-c-text-1);
   cursor: pointer;
-  width: 24px;
-  height: 24px;
+  transition: color 0.15s;
+}
+
+.back-button:hover {
+  color: var(--vp-c-brand-1);
 }
 
 @media (max-width: 767px) {

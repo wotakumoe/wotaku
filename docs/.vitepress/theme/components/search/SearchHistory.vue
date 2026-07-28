@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { ArrowRight, Globe, LocateOff, Regex, X } from 'lucide-vue-next'
 import { searchHistory, type SearchHistoryEntry } from '../../searchState'
-import type { SearchSortMode } from '../../searchState'
 
 defineProps<{
   searchMotionDiv: string | object
