@@ -187,7 +187,6 @@ og:
 
 - [Yokubi](https://yoku.bi/) :s: <tooltip>Updated version of Sakubi by community</tooltip>
 - [IMABI](https://imabi.org/) :s: <tooltip>Very detailed reference</tooltip>
-- [Tae Kim's Guide](https://guidetojapanese.org/learn/)
 - [Pomax's An introduction to Japanese](https://pomax.github.io/nrGrammar/)
 - **Cure Dolly**
 - :prev: [Original version](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)
