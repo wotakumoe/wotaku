@@ -1369,7 +1369,7 @@ function onMouseMove(e: MouseEvent) {
                 <component
                   :is="searchMotionLi"
                   v-for="(p, index) in pagedResults"
-                  :key="'normal-' + normalCurrentPage + '-' + p.id"
+                  :key="'normal-' + normalCurrentPage + '-' + p.id + (p._linkIndex != null ? '-' + p._linkIndex : '')"
                   class="result-layout"
                   :id="'localsearch-item-' + (index + 1)"
                   :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"

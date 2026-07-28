@@ -30,6 +30,7 @@ export interface Result {
   title: string
   titles: string[]
   text?: string
+  _linkIndex?: number
 }
 
 export interface PageGroupCount {

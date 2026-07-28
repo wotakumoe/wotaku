@@ -156,16 +156,16 @@ function getQueryTerms(query: string) {
     .filter(Boolean)
 }
 
-function findMatchingLinkForResult(
+function findMatchingLinksForResult(
   result: WorkerSearchResult,
   query: string
 ) {
   const pageId = getPageKey(String(result.id))
   const anchor = String(result.id).split('#')[1] ?? ''
   const terms = getQueryTerms(query)
-  if (!terms.length) return
+  if (!terms.length) return []
 
-  return urlLinks.find((link) => {
+  return urlLinks.filter((link) => {
     if (link.pageId.replace(/\/$/, '') !== pageId || link.anchor !== anchor) {
       return false
     }
@@ -181,17 +181,25 @@ function withLinkPathTitles(
 ) {
   if (!urlLinks.length) return results
 
-  return results.map((result) => {
-    const link = findMatchingLinkForResult(result, query)
-    if (!link) return result
-
-    return {
-      ...result,
-      title: stripMarkdown(link.linkText),
-      titles: link.titles,
-      ...(link.tabs?.length ? { tabs: link.tabs } : {})
+  const expanded: WorkerSearchResult[] = []
+  for (const result of results) {
+    const links = findMatchingLinksForResult(result, query)
+    if (!links.length) {
+      expanded.push(result)
+    } else {
+      for (let i = 0; i < links.length; i++) {
+        const link = links[i]
+        expanded.push({
+          ...result,
+          title: stripMarkdown(link.linkText),
+          titles: link.titles,
+          _linkIndex: i,
+          ...(link.tabs?.length ? { tabs: link.tabs } : {})
+        })
+      }
     }
-  })
+  }
+  return expanded
 }
 
 function getTabsForResult(result: WorkerSearchResult) {
