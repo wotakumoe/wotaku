@@ -229,7 +229,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Mangadraft](https://www.mangadraft.com/) |
 | ^^ | [Mangakawaii](https://www.mangakawaii.io/) |
 | ^^ | [Planete-BD](https://planete-bd.org/) |
-| ^^ | [Raijin Scans](https://raijinscan.co/) |
 | ^^ | [Sushi-Scan](https://sushiscan.net/) |
 | **Others** | [Hyakanime](https://hyakanime.fr/) |
 | ^^ | [Nautiljon](https://www.nautiljon.com/) |
@@ -465,7 +464,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc117.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon5.com/) |
-| ^^ | [Funbe](https://funbe659.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe661.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [MoneyToon](https://mtoon145.asia/) |
@@ -475,7 +474,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Wolf 2](https://wftoon221.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
-| ^^ | [YaToon](https://yatoon238.asia/) [:prx:](https://yatoonlink.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
 | ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |
@@ -520,8 +518,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
 | ^^ | [Muito Hentai](https://www.muitohentai.com/) :ero: |
 | ^^ | [:tg: Toonami na Era do Telegram](https://t.me/toonamibr) |
-| **Manga** | [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero: |
-| ^^ | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
+| **Manga** | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
 | ^^ | [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero: |
 | ^^ | [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero: |
 | **Tokusatsu** | [DGB Catálogo](https://dgbfansub.carrd.co/) |
@@ -548,7 +545,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [AniFilm](https://anifilm.pro/) |
 | ^^ | [AniLiberty](https://aniliberty.top/) ||Sub|| |
 | ^^ | [AniMan](https://animan.ru/) |
-| ^^ | [AnimeBuff](https://animebuff.ru/) ||Sub|| |
 | ^^ | [AnimeJoy](https://animejoy.ru/) |
 | ^^ | [Animelayer](http://animelayer.ru/) :mag: |
 | ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
