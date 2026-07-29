@@ -36,6 +36,7 @@ import SidebarCard from './components/SidebarCard.vue'
 import { AccentBgStorageKey, AccentBgStrengthStorageKey, AccentColorStorageKey } from './constants'
 import { useEffects } from './composables/useEffects'
 import { applyFavicons, removeFavicons, useFavicons } from './composables/useFavicons'
+import { searchResultHighlightMode } from './searchState'
 
 const route = useRoute()
 const { frontmatter, isDark, site, theme } = useData()
@@ -59,6 +60,7 @@ watch(() => route.path, () => {
 
 let searchNavigated = false
 let searchQuery = ''
+let searchResultText = ''
 
 if (!import.meta.env.SSR) {
   useEventListener(window, 'search-nav', (event) => {
@@ -67,6 +69,43 @@ if (!import.meta.env.SSR) {
         typeof event.detail?.query === 'string'
       ? event.detail.query
       : ''
+    searchResultText = event instanceof CustomEvent &&
+        typeof event.detail?.resultText === 'string'
+      ? event.detail.resultText
+      : ''
+
+    const anchor = event instanceof CustomEvent &&
+        typeof event.detail?.anchor === 'string'
+      ? event.detail.anchor
+      : ''
+
+    if (anchor && anchor === window.location.hash.slice(1)) {
+      const target = getTargetByHash(anchor)
+      if (target) {
+        void nextTick(() => {
+          if (searchNavigated) {
+            highlightSearchResult(target)
+            resetSearchNavigation()
+          }
+        })
+      }
+    }
+
+    let attempts = 0
+    const retryHighlight = () => {
+      if (!searchNavigated) return
+      attempts++
+      const currentHash = window.location.hash.slice(1)
+      if (!currentHash) return
+      const target = getTargetByHash(currentHash)
+      if (target) {
+        highlightSearchResult(target)
+        resetSearchNavigation()
+      } else if (attempts < 15) {
+        requestAnimationFrame(retryHighlight)
+      }
+    }
+    requestAnimationFrame(retryHighlight)
   })
 }
 
@@ -79,6 +118,133 @@ const getSearchTerms = (query: string) =>
     .split(/\s+/)
     .map((term) => term.trim())
     .filter(Boolean)
+
+const getSearchResultText = (value: string) => {
+  const el = document.createElement('div')
+  el.innerHTML = value
+  return (el.textContent ?? '').replace(/\s+/g, ' ').trim()
+}
+
+const removeSearchResultHighlights = () => {
+  document.querySelectorAll<HTMLElement>('.search-result-highlight').forEach(
+    (highlight) => highlight.replaceWith(...highlight.childNodes)
+  )
+}
+
+
+let highlightTerm = ''
+let highlightTabPath: string[] | null = null
+
+const isHighlightEnabled = () => {
+  const mode = searchResultHighlightMode.value
+  return mode !== 'off' && mode !== false
+}
+
+const isWordChar = (ch: string | undefined) =>
+  ch !== undefined && /[\p{L}\p{N}_]/u.test(ch)
+
+const getPanelTabPath = (panel: HTMLElement): string[] => {
+  const path: string[] = []
+  let current: HTMLElement | null = panel
+
+  while (current?.dataset.tabAnchor) {
+    path.unshift(current.dataset.tabAnchor)
+    const tabsGroup = current.closest<HTMLElement>('.plugin-tabs')
+    current = tabsGroup?.parentElement?.closest<HTMLElement>(
+      '.plugin-tabs--content[data-tab-anchor]'
+    ) ?? null
+  }
+
+  return path
+}
+
+const applyHighlightWithin = (root: HTMLElement, term: string) => {
+  const mode = searchResultHighlightMode.value
+  const termLower = term.toLocaleLowerCase()
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode(node) {
+      const parent = node.parentElement
+      if (!parent || parent.closest('.search-result-highlight, script, style')) {
+        return NodeFilter.FILTER_REJECT
+      }
+      return NodeFilter.FILTER_ACCEPT
+    }
+  })
+
+  let node: Text | null
+  while ((node = walker.nextNode() as Text | null)) {
+    const dataLower = node.data.toLocaleLowerCase()
+    let searchFrom = 0
+
+    while (true) {
+      const index = dataLower.indexOf(termLower, searchFrom)
+      if (index < 0) break
+
+      // Reject partial-word matches, e.g. "AnimeX" inside "AnimeXin" —
+      // only accept the term at an actual word boundary on both sides.
+      if (
+        isWordChar(node.data[index - 1]) ||
+        isWordChar(node.data[index + term.length])
+      ) {
+        searchFrom = index + 1
+        continue
+      }
+
+      const highlight = document.createElement('span')
+      highlight.className = 'search-result-highlight'
+      if (mode === 'solid') {
+        highlight.classList.add('search-result-highlight--solid')
+      }
+      const before = node.data.slice(0, index)
+      const match = node.data.slice(index, index + term.length)
+      const after = node.data.slice(index + term.length)
+      const fragment = document.createDocumentFragment()
+      if (before) fragment.append(before)
+      highlight.textContent = match
+      fragment.append(highlight)
+      if (after) fragment.append(after)
+      node.replaceWith(fragment)
+      return true
+    }
+  }
+  return false
+}
+
+const highlightSearchResult = (target?: HTMLElement) => {
+  removeSearchResultHighlights()
+  highlightTerm = ''
+  highlightTabPath = null
+
+  if (!isHighlightEnabled()) return
+
+  const term = getSearchResultText(searchResultText)
+  if (!target || !term) return
+
+  const panel = target.closest<HTMLElement>(
+    '.plugin-tabs--content[data-tab-anchor]'
+  )
+  highlightTabPath = panel ? getPanelTabPath(panel) : null
+  highlightTerm = term
+  
+  if (!applyHighlightWithin(target, term)) {
+    const docRoot = document.querySelector<HTMLElement>('.VPDoc .vp-doc')
+    if (docRoot) {
+      applyHighlightWithin(docRoot, term)
+    }
+  }
+}
+
+const reapplyHighlightIfNeeded = (panel: HTMLElement) => {
+  if (!highlightTerm || !highlightTabPath || !isHighlightEnabled()) return
+
+  const panelPath = getPanelTabPath(panel)
+  const isSamePanel = panelPath.length === highlightTabPath.length &&
+    panelPath.every((anchor, i) => anchor === highlightTabPath![i])
+  if (!isSamePanel) return
+
+  if (panel.querySelector('.search-result-highlight')) return
+  applyHighlightWithin(panel, highlightTerm)
+}
 
 const getTargetByHash = (hash: string) => {
   const ids = [hash]
@@ -468,6 +634,7 @@ const openCollapsibles = async (target: HTMLElement) => {
 const resetSearchNavigation = () => {
   searchNavigated = false
   searchQuery = ''
+  searchResultText = ''
 }
 
 const tryOpenAnchoredContent = async () => {
@@ -485,6 +652,11 @@ const tryOpenAnchoredContent = async () => {
   const hash = window.location.hash.slice(1)
 
   if (!hash) {
+    const scrollTarget = openedCollapsible ??
+      (selectedTabs
+        ? getSelectedTabScrollTarget(selectedTabs)
+        : document.querySelector<HTMLElement>('.VPDoc') ?? undefined)
+    if (searchNavigated) highlightSearchResult(scrollTarget)
     resetSearchNavigation()
     if (openedCollapsible) {
       scrollToElement(openedCollapsible, false)
@@ -512,6 +684,7 @@ const tryOpenAnchoredContent = async () => {
 
   if (searchNavigated) {
     await openCollapsibles(target)
+    highlightSearchResult(target)
     const collapsiblePath = getOpenCollapsiblePath(target)
     if (collapsiblePath.length) {
       const tabPath = getEnclosingTabPath(target)
@@ -1107,12 +1280,14 @@ function setupManualCopyButtons() {
           wrapTablesInRoot(node)
           initCopyButtonsInRoot(node)
           if (faviconsEnabled.value) applyFavicons(node)
+          reapplyHighlightIfNeeded(node)
         } else {
           node.querySelectorAll<HTMLElement>('.plugin-tabs--content').forEach(
             (panel) => {
               wrapTablesInRoot(panel)
               initCopyButtonsInRoot(panel)
               if (faviconsEnabled.value) applyFavicons(panel)
+              reapplyHighlightIfNeeded(panel)
             }
           )
         }
@@ -1124,7 +1299,11 @@ function setupManualCopyButtons() {
 
 watch(
   () => route.path,
-  () => nextTick(() => { initTitleOnly(); setupManualCopyButtons() }),
+  () => {
+    highlightTerm = ''
+    highlightTabPath = null
+    nextTick(() => { initTitleOnly(); setupManualCopyButtons() })
+  },
   { flush: 'post' }
 )
 

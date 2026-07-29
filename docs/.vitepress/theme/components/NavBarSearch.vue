@@ -5,7 +5,7 @@ import { defineAsyncComponent, onMounted, onUnmounted } from 'vue'
 import { searchOpen as showSearch } from '../searchState'
 import VPNavBarSearchButton from './NavBarSearchButton.vue'
 
-const VPLocalSearchBox = defineAsyncComponent(() => import('./Search.vue'))
+const VPLocalSearchBox = defineAsyncComponent(() => import('./search/Search.vue'))
 
 onMounted(() => {
   const handleSearchHotKey = (event: KeyboardEvent) => {

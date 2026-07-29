@@ -192,6 +192,34 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   --vp-badge-danger-bg: theme("colors.carnation.950");
 }
 
+.search-result-highlight {
+  display: inline;
+  position: relative;
+  padding: 0 0.25em;
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 4px;
+  background-color: var(--vp-collapsible-bg);
+  color: var(--vp-c-brand-1);
+  font-size: 0.9em;
+  font-weight: 600;
+  line-height: 1.5;
+  white-space: normal;
+  vertical-align: baseline;
+}
+
+.search-result-highlight--solid {
+  border: none;
+  background-color: var(--vp-c-brand-1);
+}
+
+html:not(.dark) .search-result-highlight--solid {
+  color: #fff;
+}
+
+html.dark .search-result-highlight--solid {
+  color: #000;
+}
+
 .vp-doc a {
   color: var(--vp-c-brand-2);
   text-decoration: underline;
