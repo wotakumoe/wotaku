@@ -209,11 +209,14 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Category    | Resource |
 |------------|--------------------------------------------------|
+| **Covers** | [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/) |
+|    ^^      | [Apple Music Artwork Finder](https://bendodson.com/projects/apple-music-artwork-finder/) |
+|    ^^      | [COV - Cover Search Engine](https://covers.musichoarders.xyz/) :s: |
 | **Metadata** | [LRCLIB](https://lrclib.net/) |
 |    ^^      | [Metadata Lookup Engine](https://seed.musichoarders.xyz/) |
-| **Tracklist** | [tagger.site](https://martinbarker.me/tagger) |
 | **Release**  | [MusicButler](https://www.musicbutler.io/) :s: |
 |    ^^      | [ReleaseFeed](https://releasefeed.elomatreb.eu/) [:src:](https://codeberg.org/elomatreb/releasefeed) |
+| **Tracklist** | [tagger.site](https://martinbarker.me/tagger) |
 | **Others**   | [Instafest](https://www.instafest.app/) |
 |    ^^      | [Jukebox](https://jukebox.today/) |
 |    ^^      | [Songle](https://songle.jp/) |

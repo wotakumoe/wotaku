@@ -88,11 +88,6 @@ og:
 
 ::: tabs
 
-== General
-- :rd: [Booru websites](#tab-booru)
-- [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln)
-- [iTunes Artwork Finder](https://bendodson.com/projects/itunes-artwork-finder/) [:src:](https://github.com/bendodson/itunes-artwork-finder)
-
 == Anime
 | Category | Website |
 | :--- | :--- |
@@ -100,7 +95,8 @@ og:
 | ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |
 | ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
 | ^^ | :prev: [Sakuga.video](https://sakuga.video/) [:src:](https://github.com/sakuga-video/sakuga-video.github.io) |
-| **Promo** | [Japanese Movie Global Poster Archive](https://www.jamgpa.jp/?lang=en) :ded: |
+| **Promo** | [Apple TV Artwork Finder](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) |
+| ^^ | [Japanese Movie Global Poster Archive](https://www.jamgpa.jp/?lang=en) :ded: |
 | ^^ | [MoviePosterDB](https://www.movieposterdb.com/) |
 | ^^ | [The Movie Database](https://www.themoviedb.org/) :s: |
 
@@ -109,12 +105,13 @@ og:
 - [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp:
 - [ComicVine](https://comicvine.gamespot.com/) :s:
 - :prev: [AnniversaryJump](https://www.anniversaryjump.com/?lang=en)
+- [Ermitteln](https://ermitteln.ihateani.me/) [:src:](https://github.com/noaione/cmx-ermitteln)
 - [MangaBaka](https://mangabaka.org/) :s:
 - [Shounen Manga Encyclopedia](https://allcomic.noor.jp/) :ljp:
 
 == Others
-- [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/)
-- [Cover Search Engine](https://covers.musichoarders.xyz/) :s:
+- :rd: [Booru websites](#tab-booru)
+- :rd: [Music covers](/music#utility-sites)
 - [GameTDB](https://www.gametdb.com/)
 
 :::

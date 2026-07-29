@@ -60,8 +60,12 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 ::: tabs
 
 == Database
+- [Figurapedia](https://figurapedia.com/)
+- [Figure Community](https://figure.community/)
+- [Figure Realm](https://www.figurerealm.com/)
 - [MyAnimeShelf](https://myanimeshelf.com/)
 - [MyFigureCollection](https://myfigurecollection.net/)
+- [Nendopedia](https://nendopedia.com/)
 - [HPOI Figure Wiki](https://www.hpoi.net/index/home) :lcn:
 
 == General
@@ -83,6 +87,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [moeyo](https://moeyo.com/)
 
 == Figures
+- [DBZ Figures.com](https://www.dbzfigures.com/)
 - [Figgy](https://www.figgy.jp/) :ljp: ||General||
 - [Figsoku](https://figsoku.net/) :ljp: ||General||
 - [Gundam Kits Collection](https://www.gundamkitscollection.com/)
