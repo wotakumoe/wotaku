@@ -113,7 +113,8 @@ og:
 
 
 
-::: info Try searching with Japanese titles or DLSite product ID on Sukebei.
+::: tip Better search
+Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.html) product IDs on [**Sukebei**](https://sukebei.nyaa.si/).
 :::
 
 
@@ -182,7 +183,7 @@ og:
 <collapsible title="Legal">
 
 - [Denpasoft](https://denpasoft.com/)
-- [DLsite](https://www.dlsite.com/)
+- [DLsite](https://www.dlsite.com/index.html)
 - :prev: [DLwatcher](https://dlwatcher.com/)
 - [FAKKU](https://www.fakku.net/games)
 - [JAST](https://jastusa.com/)
