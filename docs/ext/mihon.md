@@ -35,24 +35,27 @@ Due to DMCA takedown notices, [Tachiyomi](https://github.com/tachiyomiorg) (now 
 
 ## Manga
 
-::: extrepo {scheme=tachiyomi}
+::: extrepo {scheme=mihon}
 
 == Keiyoushi
 - url: https://keiyoushi.github.io/
 - src: https://github.com/keiyoushi/extensions-source
 - note: Maintained by former Tachiyomi contributors
-- raw: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+- raw: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.pb
+- data: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.json
 
 == Yūzōnō
 - url: https://yuzono.github.io
 - src: https://github.com/yuzono/tachiyomi-extensions
 - note: By Komikku dev. Mirrors Keiyoushi repo with a few extra extensions
-- raw: https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.min.json
+- raw: https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.pb
+- data: https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.json
 
 == Fucked by FAKKU
 - url: https://github.com/mojuru/cursed-manga-repo
 - note: Removed extensions from Keiyoushi due to DMCA by FAKKU. Maintained by Kommikku dev.
-- raw: https://raw.githubusercontent.com/mojuru/cursed-manga-repo/repo/index.min.json
+- raw: https://raw.githubusercontent.com/mojuru/cursed-manga-repo/repo/index.pb
+- data: https://raw.githubusercontent.com/mojuru/cursed-manga-repo/repo/index.json
 
 == Kavita
 - url: https://github.com/Kareadita/tach-extension/

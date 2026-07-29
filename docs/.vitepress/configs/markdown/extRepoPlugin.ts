@@ -16,6 +16,7 @@ interface ParsedRepoRow {
   repoName?: string
   repoUrl?: string
   variants?: ParsedRepoVariant[]
+  data?: string
 }
 
 interface ParsedRepoBuild {
@@ -32,6 +33,7 @@ interface ParsedRepoEntry {
   manga?: string
   anime?: string
   novel?: string
+  data?: string
   // Arbitrary named sub-entries under a `-- Label` line (e.g. several unrelated forks
   // grouped under one row), as opposed to `manga`/`anime`/`novel` which are fixed content-
   // type variants of a single project (see buildVariants below).
@@ -51,7 +53,7 @@ function parseAttrs(info: string): Record<string, string> {
   return attrs
 }
 
-const FIELD_KEYS = new Set(['url', 'src', 'raw', 'note', 'manga', 'anime', 'novel'])
+const FIELD_KEYS = new Set(['url', 'src', 'raw', 'note', 'manga', 'anime', 'novel', 'data'])
 
 function parseEntries(bodyLines: string[]): ParsedRepoEntry[] {
   const entries: ParsedRepoEntry[] = []
@@ -86,7 +88,7 @@ function parseEntries(bodyLines: string[]): ParsedRepoEntry[] {
         if (key === 'raw') currentBuild.raw = value
         continue
       }
-      if (FIELD_KEYS.has(key)) current[key as 'url' | 'src' | 'raw' | 'note' | 'manga' | 'anime' | 'novel'] = value
+      if (FIELD_KEYS.has(key)) current[key as 'url' | 'src' | 'raw' | 'note' | 'manga' | 'anime' | 'novel' | 'data'] = value
     }
   }
   if (current) entries.push(current)
@@ -161,7 +163,7 @@ export function extRepoPlugin(md: MarkdownIt): void {
       }
 
       const attrs = parseAttrs(params)
-      const scheme = attrs.scheme || 'tachiyomi'
+      const scheme = attrs.scheme || 'mihon'
 
       const rows: ParsedRepoRow[] = []
       for (const entry of parseEntries(bodyLines)) {
@@ -177,7 +179,7 @@ export function extRepoPlugin(md: MarkdownIt): void {
             .filter((b): b is Required<ParsedRepoBuild> => Boolean(b.raw))
             .map(b => ({ label: b.label, mangaUrl: b.raw }))
           if (groupVariants.length) {
-            rows.push({ name, indexUrl: groupVariants[0].mangaUrl!, note, variants: groupVariants })
+            rows.push({ name, indexUrl: groupVariants[0].mangaUrl!, note, data: entry.data, variants: groupVariants })
           }
           continue
         }
@@ -192,13 +194,14 @@ export function extRepoPlugin(md: MarkdownIt): void {
             note,
             repoName: entry.name,
             repoUrl: entry.url,
-            variants
+            variants,
+            data: entry.data
           })
           continue
         }
 
         if (!entry.raw) continue
-        rows.push({ name, indexUrl: entry.raw, note })
+        rows.push({ name, indexUrl: entry.raw, note, data: entry.data })
       }
 
       const reposJson = JSON.stringify(rows).replace(/'/g, '&#39;')

@@ -25,7 +25,8 @@ const copiedLabel = ref<string | null>(null)
 const openVariants = ref<Set<string>>(new Set())
 
 const sites = computed(() => {
-  const all = repoData[props.repo.indexUrl]?.sites ?? []
+  const dataUrl = props.repo.data ?? props.repo.indexUrl
+  const all = repoData[dataUrl]?.sites ?? []
   return props.showBroken ? all : all.filter(site => !site.isBroken)
 })
 const isExpandable = computed(() => !NOT_EXPANDABLE.has(stripHtml(props.repo.name)))

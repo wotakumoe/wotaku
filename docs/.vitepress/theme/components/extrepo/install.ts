@@ -16,6 +16,7 @@ interface InstallOpts {
 
 const INSTALL_URL_BUILDERS: Record<string, (repo: Repo, opts?: InstallOpts) => string> = {
   aidoku: repo => `aidoku://addSourceList?url=${repo.indexUrl}`,
+  mihon: repo => `mihon://extension-store?url=${repo.indexUrl}`,
   paperback: repo => `paperback://addRepo?displayName=${encodeURIComponent(stripHtml(repo.name))}&url=${paperbackBase(repo.indexUrl)}`,
   suwatte: (repo, opts) => {
     const listUrl = opts?.suwatteListUrl ?? suwatteBase(repo.indexUrl)
