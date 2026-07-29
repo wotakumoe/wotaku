@@ -48,6 +48,7 @@ import { applyFavicons, useFavicons } from '../../composables/useFavicons'
 import { registerGlobalComponents } from '../../globalComponents'
 import {
   excerptPreload,
+  ribbonStyle,
   saveHistoryEnabled,
   searchHistory,
   searchMode,
@@ -1284,6 +1285,7 @@ function onMouseMove(e: MouseEvent) {
           <AnimatePresence>
             <SearchRibbon
               ref="ribbonRef"
+              :ribbon-style="ribbonStyle"
               :search-motion-div="searchMotionDiv"
               :ribbon-motion="ribbonMotion"
               :search-animations-enabled="searchAnimationsEnabled"

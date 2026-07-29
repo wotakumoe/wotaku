@@ -8,6 +8,7 @@ import {
   LayoutList,
   List,
   LocateOff,
+  Menu,
   Regex,
   Search,
   TextAlignStart
@@ -15,6 +16,7 @@ import {
 import { computed, nextTick, ref, watch } from 'vue'
 import {
   excerptPreload,
+  ribbonStyle,
   saveHistoryEnabled,
   searchMode,
   searchResultHighlightMode,
@@ -34,7 +36,7 @@ const emit = defineEmits<{
 const settingsPopupRef = ref<HTMLDivElement>()
 const settingsBounding = useElementBounding(() => props.settingsButtonRef)
 
-type HelpSection = 'search' | 'view' | 'preload' | 'highlight' | 'history'
+type HelpSection = 'search' | 'view' | 'ribbon' | 'preload' | 'highlight' | 'history'
 const activeHelpSection = ref<HelpSection | null>(null)
 const helpPopupEl = ref<HTMLDivElement>()
 const helpPopupPos = ref({ top: -9999, left: -9999 })
@@ -218,6 +220,48 @@ function setSearchMode(mode: string) {
             class="settings-option"
             :class="{ active: !showDetailedList }"
             @click="showDetailedList = false"
+          >
+            <span>List</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Ribbon -->
+      <div class="settings-section">
+        <div class="settings-section-header">
+          <div class="settings-section-label">
+            <Menu :size="14" stroke-width="1.75" />
+            Ribbon
+          </div>
+          <button
+            type="button"
+            class="settings-help-btn"
+            :class="{ active: activeHelpSection === 'ribbon' }"
+            aria-label="Ribbon style help"
+            @click.stop="toggleHelpSection('ribbon', $event)"
+            @mouseenter="onHelpEnter('ribbon', $event)"
+            @mouseleave="onHelpLeave"
+          >
+            <span class="i-carbon:help-filled settings-help-icon" />
+          </button>
+        </div>
+        <div
+          class="settings-options"
+          :class="{ 'is-highlighted': activeHelpSection === 'ribbon' }"
+        >
+          <button
+            type="button"
+            class="settings-option"
+            :class="{ active: ribbonStyle === 'tabs' }"
+            @click="ribbonStyle = 'tabs'"
+          >
+            <span>Tabs</span>
+          </button>
+          <button
+            type="button"
+            class="settings-option"
+            :class="{ active: ribbonStyle === 'list' }"
+            @click="ribbonStyle = 'list'"
           >
             <span>List</span>
           </button>
@@ -452,6 +496,23 @@ function setSearchMode(mode: string) {
           <div class="sh-option">
             <strong>Solid</strong>
             <span>Solid accent fill with no border.</span>
+          </div>
+        </div>
+      </template>
+      <template v-else-if="activeHelpSection === 'ribbon'">
+        <h4 class="sh-title">
+          <Menu :size="16" stroke-width="1.75" class="sh-title-icon" />
+          Page Ribbon
+        </h4>
+        <p class="sh-desc">How result pages are displayed in the search bar.</p>
+        <div class="sh-options">
+          <div class="sh-option">
+            <strong>Tabs</strong>
+            <span>Horizontal page list.</span>
+          </div>
+          <div class="sh-option">
+            <strong>List</strong>
+            <span>Vertical page list.</span>
           </div>
         </div>
       </template>

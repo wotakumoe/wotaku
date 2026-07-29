@@ -47,6 +47,13 @@ export const searchHistory = useLocalStorage<SearchHistoryEntry[]>(
   []
 )
 
+export type RibbonStyle = 'tabs' | 'list'
+
+export const ribbonStyle = useLocalStorage<RibbonStyle>(
+  'vitepress:local-search-ribbon-style',
+  'list'
+)
+
 export function openSearch() {
   searchOpen.value = true
 }

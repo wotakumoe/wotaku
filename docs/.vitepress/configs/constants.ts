@@ -141,7 +141,7 @@ export const homeCards: HomeCard[] = [
   },
   {
     id: 'faq',
-    icon: ':lucide-message-circle-question-mark:',
+    icon: ':lucide-message-circle-question:',
     title: 'FAQs',
     details: 'Frequently asked questions about manga and anime',
     link: '/faq'

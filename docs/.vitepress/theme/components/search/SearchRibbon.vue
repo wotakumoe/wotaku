@@ -1,7 +1,9 @@
 <script setup lang="ts">
-import { ChevronRight } from 'lucide-vue-next'
-import { nextTick, onBeforeUnmount, ref, shallowRef, watch } from 'vue'
-import { useEventListener } from '@vueuse/core'
+import { ChevronRight, Menu } from 'lucide-vue-next'
+import { computed, nextTick, onBeforeUnmount, ref, shallowRef, watch } from 'vue'
+import { onClickOutside, useEventListener } from '@vueuse/core'
+import { homeCards } from '../../../configs/constants'
+import type { HomeCard } from '../../../configs/constants'
 
 interface PageGroup {
   key: string
@@ -9,7 +11,48 @@ interface PageGroup {
   count: number
 }
 
+interface GroupedPage {
+  key: string
+  label: string
+  count: number
+  card: HomeCard | null
+  iconClass: string
+}
+
+interface FolderGroup {
+  section: string
+  parentCard: HomeCard | null
+  iconClass: string
+  pages: GroupedPage[]
+}
+
+type MenuEntry =
+  | { type: 'page'; page: GroupedPage }
+  | { type: 'folder'; folder: FolderGroup }
+
+function getPageCard(path: string): HomeCard | null {
+  let best: HomeCard | null = null
+  let bestLen = 0
+  for (const card of homeCards) {
+    if ((path === card.link || path.startsWith(card.link + '/')) && card.link.length > bestLen) {
+      best = card
+      bestLen = card.link.length
+    }
+  }
+  return best
+}
+
+function cardIconToClass(icon: string): string {
+  const m = icon.match(/^:(.+):$/)
+  if (!m) return 'i-lucide:file-text'
+  const name = m[1]
+  const dash = name.indexOf('-')
+  if (dash === -1) return 'i-lucide:file-text'
+  return `i-${name.slice(0, dash)}:${name.slice(dash + 1)}`
+}
+
 const props = defineProps<{
+  ribbonStyle: 'tabs' | 'list'
   searchMotionDiv: string | object
   ribbonMotion: Record<string, unknown>
   searchAnimationsEnabled: boolean
@@ -27,6 +70,12 @@ const emit = defineEmits<{
   selectPage: [key: string | null]
 }>()
 
+// List ribbon state
+const showListMenu = ref(false)
+const listMenuButtonRef = ref<HTMLElement>()
+const listMenuRef = ref<HTMLElement>()
+
+// Tabs ribbon state
 const ribbonTrack = shallowRef<HTMLElement>()
 const ribbonCanScrollLeft = ref(false)
 const ribbonCanScrollRight = ref(false)
@@ -38,6 +87,10 @@ let dragMoved = false
 let touchStartX = 0
 let touchStartScrollLeft = 0
 let touchDragMoved = false
+
+onClickOutside(listMenuRef, () => {
+  showListMenu.value = false
+}, { ignore: [listMenuButtonRef] })
 
 function onDragStart(e: MouseEvent) {
   // Only respond to primary (left) button
@@ -146,6 +199,7 @@ function getRibbonTrack(): HTMLElement | null {
 }
 
 function scrollActivePagePillIntoView(direction = 0) {
+  if (props.ribbonStyle === 'list') return
   nextTick(() => {
     const track = getRibbonTrack()
     if (!track) return
@@ -218,23 +272,211 @@ onBeforeUnmount(() => {
 
 defineExpose({ scrollActivePagePillIntoView })
 
+const groupedMenuEntries = computed((): MenuEntry[] => {
+  const groups = props.urlSearchMode ? props.urlPageGroups : props.pageGroups
+  if (!groups.length) return []
+
+  // Wrap each group with card info
+  const withCards: GroupedPage[] = groups.map((g) => {
+    const card = getPageCard(g.key)
+    return {
+      key: g.key,
+      label: g.label,
+      count: g.count,
+      card,
+      iconClass: card ? cardIconToClass(card.icon) : 'i-lucide:file-text'
+    }
+  })
+
+  // Separate into top-level (no section) and folder (has section)
+  const topPages: GroupedPage[] = []
+  const folderMap = new Map<string, GroupedPage[]>()
+
+  for (const p of withCards) {
+    if (p.card?.section) {
+      if (!folderMap.has(p.card.section)) folderMap.set(p.card.section, [])
+      folderMap.get(p.card.section)!.push(p)
+    } else {
+      topPages.push(p)
+    }
+  }
+
+  // Build folder entries
+  const folderEntries: FolderGroup[] = [...folderMap.entries()]
+    .map(([section, pages]) => {
+      const parentCard = homeCards.find((c) => c.title === section && !c.section) ?? null
+      return {
+        section,
+        parentCard,
+        iconClass: parentCard ? cardIconToClass(parentCard.icon) : 'i-lucide:folder',
+        pages
+      }
+    })
+
+  // Merge: top-level pages first, then folder groups
+  const entries: MenuEntry[] = [
+    ...topPages.map((p) => ({ type: 'page' as const, page: p })),
+    ...folderEntries.map((f) => ({ type: 'folder' as const, folder: f }))
+  ]
+
+  return entries
+})
+
 function setUrlPageFilter(key: string | null) {
   emit('selectUrlPage', key)
+  showListMenu.value = false
   nextTick(updateRibbonOverflow)
 }
 
 function setPageFilter(key: string | null) {
   emit('selectPage', key)
+  showListMenu.value = false
   nextTick(updateRibbonOverflow)
+}
+
+const activePageData = computed(() => {
+  const findInEntries = (key: string, fallbackCount: number) => {
+    for (const entry of groupedMenuEntries.value) {
+      if (entry.type === 'page' && entry.page.key === key) {
+        return { label: entry.page.label, iconClass: entry.page.iconClass, count: entry.page.count }
+      }
+      if (entry.type === 'folder') {
+        const found = entry.folder.pages.find((p) => p.key === key)
+        if (found) {
+          return { label: found.label, iconClass: entry.folder.iconClass, count: found.count }
+        }
+      }
+    }
+    return null
+  }
+
+  if (props.urlSearchMode) {
+    if (props.urlActivePageFilter === null) {
+      return { label: 'All', iconClass: 'i-lucide:text-search', count: props.urlMatchesLength }
+    }
+    const result = findInEntries(props.urlActivePageFilter, props.urlMatchesLength)
+    return result ?? { label: 'All', iconClass: 'i-lucide:text-search', count: props.urlMatchesLength }
+  }
+
+  if (props.activePageFilter === null) {
+    return { label: 'All', iconClass: 'i-lucide:text-search', count: props.resultsLength }
+  }
+  const result = findInEntries(props.activePageFilter, props.resultsLength)
+  return result ?? { label: 'All', iconClass: 'i-lucide:text-search', count: props.resultsLength }
+})
+
+function toggleListMenu() {
+  showListMenu.value = !showListMenu.value
 }
 </script>
 
 <template>
+  <!-- List ribbon style -->
   <component
     :is="searchMotionDiv"
-    v-if="urlSearchMode
+    v-if="ribbonStyle === 'list' && (urlSearchMode
     ? urlPageGroups.length > 1
-    : pageGroups.length > 1"
+    : pageGroups.length > 1)"
+    class="page-ribbon page-ribbon-list"
+    v-bind="ribbonMotion"
+  >
+    <div class="page-ribbon-list-label">
+      <span :class="activePageData.iconClass" class="page-ribbon-list-icon" />
+      <span class="page-ribbon-list-name">{{ activePageData.label }}</span>
+      <span class="page-ribbon-list-badge">{{ activePageData.count }}</span>
+    </div>
+
+    <button
+      ref="listMenuButtonRef"
+      type="button"
+      class="ribbon-menu-btn"
+      :class="{ active: showListMenu }"
+      title="Filter by page"
+      @click.stop="toggleListMenu"
+    >
+      <Menu :size="18" stroke-width="2" />
+    </button>
+
+    <!-- List menu dropdown -->
+    <Transition name="ribbon-menu-popup">
+      <div
+        v-if="showListMenu"
+        ref="listMenuRef"
+        class="page-ribbon-list-menu"
+      >
+        <!-- "All" item -->
+        <button
+          type="button"
+          class="ribbon-menu-item all-item"
+          :class="{ active: urlSearchMode
+            ? urlActivePageFilter === null
+            : activePageFilter === null }"
+          @click="urlSearchMode
+            ? setUrlPageFilter(null)
+            : setPageFilter(null)"
+        >
+          <span class="i-lucide:text-search ribbon-menu-item-icon" />
+          <span class="ribbon-menu-item-label">All</span>
+          <span class="ribbon-menu-item-count">{{ urlSearchMode ? urlMatchesLength : resultsLength }}</span>
+        </button>
+
+        <div class="ribbon-menu-divider" />
+
+        <!-- Grouped pages -->
+        <template v-for="entry in groupedMenuEntries" :key="entry.type === 'page' ? entry.page.key : entry.folder.section">
+          <!-- Top-level page -->
+          <div v-if="entry.type === 'page'" class="ribbon-menu-group">
+            <button
+              type="button"
+              class="ribbon-menu-item"
+              :class="{ active: urlSearchMode
+                ? urlActivePageFilter === entry.page.key
+                : activePageFilter === entry.page.key }"
+              @click="urlSearchMode
+                ? setUrlPageFilter(entry.page.key)
+                : setPageFilter(entry.page.key)"
+            >
+              <span :class="entry.page.iconClass" class="ribbon-menu-item-icon" />
+              <span class="ribbon-menu-item-label">{{ entry.page.label }}</span>
+              <span class="ribbon-menu-item-count">{{ entry.page.count }}</span>
+            </button>
+          </div>
+
+          <!-- Folder group -->
+          <div v-else class="ribbon-menu-group">
+            <h4 class="ribbon-menu-group-title">
+              <span :class="entry.folder.iconClass" class="ribbon-menu-group-icon" />
+              <span class="ribbon-menu-group-text">{{ entry.folder.section }}</span>
+            </h4>
+            <div class="ribbon-menu-sub-items">
+              <button
+                v-for="page in entry.folder.pages"
+                :key="page.key"
+                type="button"
+                class="ribbon-menu-item"
+                :class="{ active: urlSearchMode
+                  ? urlActivePageFilter === page.key
+                  : activePageFilter === page.key }"
+                @click="urlSearchMode
+                  ? setUrlPageFilter(page.key)
+                  : setPageFilter(page.key)"
+              >
+                <span class="ribbon-menu-item-label">{{ page.label }}</span>
+                <span class="ribbon-menu-item-count">{{ page.count }}</span>
+              </button>
+            </div>
+          </div>
+        </template>
+      </div>
+    </Transition>
+  </component>
+
+  <!-- Tabs ribbon style (original) -->
+  <component
+    :is="searchMotionDiv"
+    v-if="ribbonStyle !== 'list' && (urlSearchMode
+    ? urlPageGroups.length > 1
+    : pageGroups.length > 1)"
     class="page-ribbon"
     :class="{
       'can-scroll-left': ribbonCanScrollLeft,
@@ -481,5 +723,238 @@ function setPageFilter(key: string | null) {
     padding: 0 10px;
     font-size: 0.8rem;
   }
+}
+
+/* List ribbon style */
+.page-ribbon-list {
+  justify-content: space-between;
+  padding: 6px 12px 4px;
+  overflow: visible;
+}
+
+.page-ribbon-list-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--vp-c-text-2);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  min-width: 0;
+}
+
+.page-ribbon-list-icon {
+  flex: none;
+  font-size: 16px;
+  width: 1em;
+  height: 1em;
+  color: var(--vp-c-text-1);
+}
+
+.page-ribbon-list-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+
+.page-ribbon-list-badge {
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.72rem;
+  padding: 1px 7px;
+  border-radius: 4px;
+  background: rgba(128, 128, 128, 0.15);
+  color: var(--vp-c-text-1);
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.ribbon-menu-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  color: var(--vp-c-text-1);
+  opacity: 0.55;
+  padding: 8px 4px;
+  cursor: pointer;
+  transition:
+    opacity 0.25s,
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  border-radius: 0;
+  line-height: 1;
+}
+
+.ribbon-menu-btn:hover,
+.ribbon-menu-btn.active {
+  color: var(--vp-c-text-1);
+  opacity: 1;
+  background: transparent;
+}
+
+.ribbon-menu-btn:active {
+  transform: scale(0.94);
+}
+
+html.effects-disabled .ribbon-menu-btn {
+  transition: none;
+}
+
+html.effects-disabled .ribbon-menu-btn:active {
+  transform: none;
+}
+
+.page-ribbon-list-menu {
+  position: absolute;
+  top: 100%;
+  right: 4px;
+  z-index: 50;
+  width: 228px;
+  max-height: 320px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: var(--vp-c-bg-elv);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  box-shadow: var(--vp-shadow-3);
+  padding: 8px;
+  overscroll-behavior: contain;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.page-ribbon-list-menu::-webkit-scrollbar {
+  display: none;
+}
+
+.ribbon-menu-divider {
+  height: 1px;
+  background: var(--vp-c-divider);
+  margin: 4px 0;
+}
+
+.ribbon-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border: none;
+  background: transparent;
+  border-radius: 6px;
+  color: var(--vp-c-text-2);
+  font-size: 0.82rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+  text-align: left;
+  width: 100%;
+}
+
+.ribbon-menu-item:hover {
+  background: var(--vp-c-default-soft);
+  color: var(--vp-c-text-1);
+}
+
+.ribbon-menu-item.active {
+  color: var(--vp-c-brand-1);
+  background: color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent);
+  font-weight: 600;
+}
+
+.ribbon-menu-item-icon {
+  flex: none;
+  font-size: 15px;
+  color: var(--vp-c-text-1);
+  width: 1em;
+  height: 1em;
+}
+
+.ribbon-menu-item-label {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+
+.all-item {
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.ribbon-menu-item-count {
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.68rem;
+  padding: 1px 6px;
+  border-radius: 3px;
+  background: rgba(128, 128, 128, 0.12);
+  color: var(--vp-c-text-3);
+  line-height: 1.4;
+  margin-left: auto;
+}
+
+.ribbon-menu-item.active .ribbon-menu-item-count {
+  color: var(--vp-c-text-2);
+  background: rgba(128, 128, 128, 0.18);
+}
+
+.ribbon-menu-group + .ribbon-menu-group {
+  margin-top: 2px;
+}
+
+.ribbon-menu-group-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--vp-c-text-1);
+  margin: 8px 0 2px;
+  padding: 0 8px 4px;
+  user-select: none;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.ribbon-menu-group-icon {
+  font-size: 13px;
+  flex: none;
+  width: 1em;
+  height: 1em;
+  color: var(--vp-c-text-1);
+}
+
+.ribbon-menu-group-text {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.ribbon-menu-sub-items {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.ribbon-menu-popup-enter-active,
+.ribbon-menu-popup-leave-active {
+  transition: opacity 0.12s ease, transform 0.12s ease;
+  transform-origin: top right;
+}
+
+.ribbon-menu-popup-enter-from,
+.ribbon-menu-popup-leave-to {
+  opacity: 0;
+  transform: scale(0.92) translateY(-4px);
 }
 </style>
