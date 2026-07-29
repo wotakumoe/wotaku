@@ -63,7 +63,8 @@ const allSites = computed<MatchedSite[]>(() => {
       continue
     }
     const repoName = stripHtml(repo.name)
-    for (const site of repoData[repo.indexUrl]?.sites ?? []) {
+    const dataUrl = repo.data ?? repo.indexUrl
+    for (const site of repoData[dataUrl]?.sites ?? []) {
       sites.push({ ...site, repoName })
     }
   }

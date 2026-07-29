@@ -15,6 +15,7 @@ export interface Repo {
   repoName?: string
   repoUrl?: string
   variants?: RepoVariant[]
+  data?: string
 }
 
 export interface RepoSite {

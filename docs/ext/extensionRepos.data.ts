@@ -19,6 +19,42 @@ export interface RepoSite {
   installUrl?: string
 }
 
+interface MihonIndexSource {
+  id: string
+  name: string
+  language: string
+  homeUrl: string
+  mirrorUrls?: string[]
+}
+
+interface MihonIndexExtension {
+  name: string
+  packageName: string
+  resources: {
+    apkUrl: string
+    iconUrl: string
+    jarUrl: string
+  }
+  extensionLib: string
+  versionCode: string
+  versionName: string
+  contentWarning: string
+  sources: MihonIndexSource[]
+}
+
+interface MihonIndex {
+  name: string
+  badgeLabel: string
+  signingKey: string
+  contact?: {
+    website?: string
+    discord?: string
+  }
+  extensionList: {
+    extensions: MihonIndexExtension[]
+  }
+}
+
 export interface RepoData {
   sites: RepoSite[]
   suwatteV6?: boolean
@@ -213,7 +249,7 @@ function findMarkdownFiles(dir: string): string[] {
 function collectIndexUrls(): string[] {
   const urls = new Set<string>()
   const blockRe = /:::\s*extrepo[^\n]*\n([\s\S]*?)\n\s*:::/g
-  const rowRe = /^\s*-\s*(?:raw|manga|anime|novel)\s*:\s*(https?:\/\/\S+)\s*$/gim
+  const rowRe = /^\s*-\s*(?:raw|manga|anime|novel|data)\s*:\s*(https?:\/\/\S+)\s*$/gim
 
   for (const file of findMarkdownFiles(DOCS_DIR)) {
     const src = readFileSync(file, 'utf-8')
@@ -677,11 +713,46 @@ function toRepoDataLNReader(plugins: LNReaderPlugin[]): RepoSite[] {
   return sites
 }
 
+const CONTENT_WARNING_RATING: Record<string, Rating> = {
+  CONTENT_WARNING_NSFW: 'nsfw',
+  CONTENT_WARNING_MIXED: 'suggestive',
+  CONTENT_WARNING_SAFE: 'safe'
+}
+
+function toRepoDataMihonNew(index: MihonIndex): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const ext of index.extensionList.extensions) {
+    const icon = ext.resources.iconUrl
+    const rating = CONTENT_WARNING_RATING[ext.contentWarning] ?? 'safe'
+
+    for (const source of ext.sources) {
+      const key = `${source.name}::${source.language}::${source.homeUrl}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      sites.push({ name: source.name, lang: source.language, icon, url: source.homeUrl, rating })
+    }
+  }
+
+  sites.sort((a, b) => a.name.localeCompare(b.name))
+  return sites
+}
+
 async function toRepoData(indexUrl: string, json: unknown): Promise<RepoData> {
   const iconBase = indexUrl.slice(0, indexUrl.lastIndexOf('/'))
   let sites: RepoSite[]
   let suwatteV6: boolean | undefined
   let suwatteListUrl: string | undefined
+
+  if (
+    json && typeof json === 'object' && !Array.isArray(json)
+    && 'extensionList' in (json as Record<string, unknown>)
+  ) {
+    sites = toRepoDataMihonNew(json as MihonIndex)
+    return { sites }
+  }
+
   if (Array.isArray(json)) {
     const first = json[0] as Record<string, unknown> | undefined
     if (first && 'bookSourceUrl' in first) {

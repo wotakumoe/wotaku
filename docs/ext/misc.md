@@ -221,7 +221,7 @@ i am so tired of this shit lol. every fork works differently. just use mihon or 
 
 ## Tsundoku
 
-::: extrepo {scheme=tachiyomi}
+::: extrepo {scheme=mihon}
 
 == Novel Sourcery
 - url: https://novelsourcery.github.io/
