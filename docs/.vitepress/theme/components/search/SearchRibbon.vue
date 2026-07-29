@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ChevronRight, Menu } from 'lucide-vue-next'
+import { ChevronLeft, ChevronRight, Menu } from 'lucide-vue-next'
 import { computed, nextTick, onBeforeUnmount, ref, shallowRef, watch } from 'vue'
 import { onClickOutside, useEventListener } from '@vueuse/core'
 import { homeCards } from '../../../configs/constants'
@@ -368,6 +368,35 @@ const activePageData = computed(() => {
 function toggleListMenu() {
   showListMenu.value = !showListMenu.value
 }
+
+const allPages = computed((): (string | null)[] => {
+  const pages: (string | null)[] = [null]
+  for (const entry of groupedMenuEntries.value) {
+    if (entry.type === 'page') {
+      pages.push(entry.page.key)
+    } else {
+      for (const page of entry.folder.pages) {
+        pages.push(page.key)
+      }
+    }
+  }
+  return pages
+})
+
+const currentPageIndex = computed(() => {
+  const activeKey = props.urlSearchMode ? props.urlActivePageFilter : props.activePageFilter
+  return allPages.value.indexOf(activeKey)
+})
+
+function pageNav(delta: number) {
+  const pages = allPages.value
+  if (pages.length <= 1) return
+  const idx = currentPageIndex.value
+  const nextIdx = ((idx + delta) % pages.length + pages.length) % pages.length
+  const key = pages[nextIdx]
+  if (props.urlSearchMode) setUrlPageFilter(key)
+  else setPageFilter(key)
+}
 </script>
 
 <template>
@@ -386,16 +415,34 @@ function toggleListMenu() {
       <span class="page-ribbon-list-badge">{{ activePageData.count }}</span>
     </div>
 
-    <button
-      ref="listMenuButtonRef"
-      type="button"
-      class="ribbon-menu-btn"
-      :class="{ active: showListMenu }"
-      title="Filter by page"
-      @click.stop="toggleListMenu"
-    >
-      <Menu :size="18" stroke-width="2" />
-    </button>
+    <div class="page-ribbon-list-actions">
+      <button
+        type="button"
+        class="ribbon-menu-btn ribbon-page-nav"
+        title="Previous page"
+        @click="pageNav(-1)"
+      >
+        <ChevronLeft :size="18" stroke-width="2" />
+      </button>
+      <button
+        type="button"
+        class="ribbon-menu-btn ribbon-page-nav"
+        title="Next page"
+        @click="pageNav(1)"
+      >
+        <ChevronRight :size="18" stroke-width="2" />
+      </button>
+      <button
+        ref="listMenuButtonRef"
+        type="button"
+        class="ribbon-menu-btn"
+        :class="{ active: showListMenu }"
+        title="Filter by page"
+        @click.stop="toggleListMenu"
+      >
+        <Menu :size="18" stroke-width="2" />
+      </button>
+    </div>
 
     <!-- List menu dropdown -->
     <Transition name="ribbon-menu-popup">
@@ -732,6 +779,17 @@ function toggleListMenu() {
   overflow: visible;
 }
 
+@media (min-width: 768px) {
+  .ribbon-page-nav {
+    display: none;
+  }
+}
+
+.page-ribbon-list-actions {
+  display: flex;
+  align-items: center;
+}
+
 .page-ribbon-list-label {
   display: flex;
   align-items: center;
@@ -797,8 +855,21 @@ function toggleListMenu() {
   background: transparent;
 }
 
+@media (hover: none) {
+  .ribbon-menu-btn:hover {
+    opacity: 0.55;
+    color: var(--vp-c-text-1);
+  }
+}
+
+.ribbon-menu-btn:focus {
+  outline: none;
+}
+
 .ribbon-menu-btn:active {
   transform: scale(0.94);
+  opacity: 1;
+  color: var(--vp-c-text-1);
 }
 
 html.effects-disabled .ribbon-menu-btn {
