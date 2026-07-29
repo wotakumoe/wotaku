@@ -519,8 +519,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
 | ^^ | [Muito Hentai](https://www.muitohentai.com/) :ero: |
 | ^^ | [:tg: Toonami na Era do Telegram](https://t.me/toonamibr) |
-| **Manga** | [Argos Comic](https://argoscomics.online/) :ljp::lkr::lcn::ero: |
-| ^^ | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
+| **Manga** | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
 | ^^ | [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero: |
 | ^^ | [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero: |
 | **Tokusatsu** | [DGB Catálogo](https://dgbfansub.carrd.co/) |
