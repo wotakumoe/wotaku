@@ -44,7 +44,7 @@ title: Comic Title
 description: Comic Description
 artist: Artist Name
 author: Author Name
-cover: https://cover-url.com/image.jpg
+cover: https://example.com/image.jpg
 groups: Uploader Name
 ```
 
