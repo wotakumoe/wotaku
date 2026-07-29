@@ -193,7 +193,7 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
 }
 
 .search-result-highlight {
-  display: inline-block;
+  display: inline;
   position: relative;
   padding: 0 0.25em;
   border: 1px solid var(--vp-c-brand-1);
@@ -203,7 +203,7 @@ $ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
   font-size: 0.9em;
   font-weight: 600;
   line-height: 1.5;
-  white-space: nowrap;
+  white-space: normal;
   vertical-align: baseline;
 }
 
