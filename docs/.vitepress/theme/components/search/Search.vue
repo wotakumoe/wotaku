@@ -928,7 +928,28 @@ function centerExcerpts() {
   const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
   for (let i = 0; i < excerpts.length; i++) {
     const excerptElement = excerpts[i] as HTMLElement
-    const markNode = excerptElement.querySelector('mark[data-markjs="true"]') as HTMLElement | null
+
+    const resultEl = excerptElement.closest('.result') as HTMLElement | null
+    const linkTitle = resultEl?.dataset?.linkTitle
+
+    let markNode: HTMLElement | null
+    if (linkTitle) {
+      const links = excerptElement.querySelectorAll('a')
+      let targetLink: HTMLAnchorElement | null = null
+      const normalizedTitle = linkTitle.trim().toLowerCase()
+      for (const link of links) {
+        if (link.textContent?.trim().toLowerCase() === normalizedTitle) {
+          targetLink = link
+          break
+        }
+      }
+      markNode = targetLink
+        ? (targetLink.querySelector('mark[data-markjs="true"]') as HTMLElement | null)
+        : (excerptElement.querySelector('mark[data-markjs="true"]') as HTMLElement | null)
+    } else {
+      markNode = excerptElement.querySelector('mark[data-markjs="true"]') as HTMLElement | null
+    }
+
     if (!markNode) continue
     const viewportHeight = excerptElement.clientHeight || 84
     let offset = 0
@@ -1385,6 +1406,7 @@ function onMouseMove(e: MouseEvent) {
                     @focusin="selectedIndex = index + 1"
                     @click="onResultClick(p)"
                     :data-index="index + 1"
+                    :data-link-title="p._linkIndex != null ? p.title : undefined"
                   >
                     <div>
                       <div class="titles">
