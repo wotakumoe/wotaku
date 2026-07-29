@@ -59,20 +59,10 @@ og:
 - src: https://github.com/karrot0/KakarotExtension/
 - raw: https://karrot0.github.io/KakarotExtension/0.9/stable/versioning.json
 
-== Kinso
-- url: https://xdkinso.github.io/KinsoExtension/
-- src: https://github.com/xdKinso/KinsoExtension
-- raw: https://xdkinso.github.io/KinsoExtension/versioning.json
-
 == Lucifer
 - url: https://read.pirate.vodka/
 - src: https://github.com/LucifersCircle/pirate.vodka-extensions
 - raw: https://read.pirate.vodka/versioning.json
-
-== Nicartjay
-- url: https://nicartjay.github.io/PaperbackExt/0.9/stable/
-- src: https://github.com/Nicartjay/PaperbackExt
-- raw: https://nicartjay.github.io/PaperbackExt/0.9/stable/versioning.json
 
 == Nyzzik
 - url: https://paperback.nyzz.me/
