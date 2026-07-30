@@ -159,7 +159,7 @@ og:
 :::
 
 ## YouTube
-- [Comprehensible Japanese](https://cijapanese.com/resources)
+- [Natural Japanese](https://nijapanese.com/resources)
 - [Japanese Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
 - [Volt's Japanese Subtitled Playlist](https://www.youtube.com/playlist?list=PLiPR3922q7iAsSm2EsQVMou0kCVavNR2c)
 - [AJATT: Fan Narrated](https://www.youtube.com/playlist?list=PLmPxwS02_wYP0Y7kprP9ZzLhlZjRSAHWv)

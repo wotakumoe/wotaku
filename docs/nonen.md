@@ -471,7 +471,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Funbe](https://funbe661.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
-| ^^ | [MoneyToon](https://mtoon145.asia/) |
+| ^^ | [MoneyToon](https://mtoon146.asia/) |
 | ^^ | [NameeToon](https://namee106.asia/) |
 | ^^ | [TOONKOR](https://tkor139.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf428.com/) [:prx:](https://xn--ph1bph0az41x.com/) |

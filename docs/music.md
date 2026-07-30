@@ -94,10 +94,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Format | Website | Type | Host |
 |-|-|-|-|
-| flac + mp3 | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) | :mag: | :no: |
+| **FLAC + MP3** | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) | :mag: | :no: |
 | ^^ | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://i.wotaku.wiki/p/proxy#sitting-on-clouds) | :ddl: | :sm::smf: |
 | ^^ | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
-| mp3 | [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | :no: |
+| **MP3** | [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | :no: |
 | ^^ | [OS Anime](https://osanime.com/) | :ddl: | own |
 
 == Downloaders
