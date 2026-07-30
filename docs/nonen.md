@@ -54,13 +54,16 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Anime** | [Anime3rb](https://anime3rb.com/) |
 | ^^ | [Anime4up](https://w1.anime4up.rest/home8/) |
 | ^^ | [Animeblkom](https://blkom.com/) |
-| ^^ | [Animerco](https://zeta.animerco.org/) |
+| ^^ | [Animerco](https://eta.animerco.org/) |
+| ^^ | [Animezid](https://animezid.cam/) |
 | ^^ | [Arabic Toons](https://www.arabic-toons.com/) |
 | ^^ | [Kawaii Anime](https://kawaii-anime.com/) |
 | ^^ | [Okanime](https://okanime.tv/) |
-| ^^ | [WitAnime](https://witanime.cyou/) |
+| ^^ | [Risto Anime](https://ristoanime.me/) |
+| ^^ | [WitAnime](https://witanime.you/) |
 | **Manga** | [3asQ](https://3asq.online/) |
 | ^^ | [Azora Manga](https://azorafly.com/) |
+| ^^ | [Kawaii Manga](https://kawaiimanga.org/) |
 | ^^ | [Swat Manga](https://meshmanga.com/) |
 | **Novels** | [Hizo Manga](https://hizomanga.net/) |
 | **NSFW** | [Arabs Hentai](https://arabshentai.com/) |
