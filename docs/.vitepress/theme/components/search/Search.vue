@@ -779,8 +779,17 @@ function buildDocExcerpt(docId: string): Promise<void> {
       const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
       headings.forEach((heading) => {
         const href = heading.querySelector('a')?.getAttribute('href')
-        const anchor = href?.startsWith('#') && href.slice(1)
+        const hashIndex = href?.indexOf('#') ?? -1
+        const anchor = hashIndex >= 0 ? href!.slice(hashIndex + 1) : ''
         if (!anchor) return
+
+        const collapsible = heading.closest('details.custom-block') as HTMLDetailsElement | null
+        if (collapsible) {
+          collapsible.open = true
+          map.set(anchor, collapsible.outerHTML)
+          return
+        }
+
         let html = ''
         let node = heading as Element
         while ((node = node.nextElementSibling!) && !/^h[1-6]$/i.test(node.tagName)) {
