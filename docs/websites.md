@@ -339,7 +339,10 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 | Category | Websites |
 | :--- | :--- |
-| **Dedicated** | [LAMA - Live Action Manga Adaptations](https://lama.watch/) |
+| **Dedicated** | [Allcinema](https://www.allcinema.net/) :ljp: |
+| ^^ | [Cinema Ranking News](https://www.kogyotsushin.com/) :ljp: |
+| ^^ | [LAMA](https://lama.watch/) |
+| ^^ | [MPAJ](https://www.eiren.org/) :ljp: |
 | ^^ | [MyDramaList](https://mydramalist.com/) |
 | ^^ | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
 | **General** | [IMDb](https://www.imdb.com/) |

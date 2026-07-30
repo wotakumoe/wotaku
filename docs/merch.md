@@ -76,6 +76,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Dengeki Hobby Web](https://hobby.dengeki.com/)
 
 == Anime & Manga
+- [Allcinema](https://www.allcinema.net/) :ljp:
 - [Anime-DB](https://anime.dbsearch.net/) :ljp:
 - [Blu-ray.com](https://www.blu-ray.com/)
 - [Sumikko Anime](https://anime.sumikko.info/) :ljp: [:rss:](https://anime.sumikko.info/rss.xml)

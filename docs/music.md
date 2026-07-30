@@ -211,7 +211,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |------------|--------------------------------------------------|
 | **Covers** | [Apple Music Artwork Fetcher](https://artwork.thekvt.eu.org/) |
 |    ^^      | [Apple Music Artwork Finder](https://bendodson.com/projects/apple-music-artwork-finder/) |
-|    ^^      | [COV - Cover Search Engine](https://covers.musichoarders.xyz/) :s: |
+|    ^^      | [Cover Search Engine](https://covers.musichoarders.xyz/) :s: |
 | **Metadata** | [LRCLIB](https://lrclib.net/) |
 |    ^^      | [Metadata Lookup Engine](https://seed.musichoarders.xyz/) |
 | **Release**  | [MusicButler](https://www.musicbutler.io/) :s: |
