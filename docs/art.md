@@ -54,27 +54,27 @@ og:
 
 | Categories | Websites |
 | :--- | :--- |
-| Booru | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
+| **Booru** | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
 | ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy/danbooru-viewer) |
 | ^^ | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
-| Pixiv | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/PixivFE/PixivFE) |
+| **Pixiv** | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/PixivFE/PixivFE) |
 | ^^ | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^ | [Pixiv Yearbook](https://pixiv.navirank.com/) |
-| Twitter | [Twicomi](https://twicomi.com/) :ljp: |
+| **Twitter** | [Twicomi](https://twicomi.com/) :ljp: |
 | ^^ | [Twoucan](https://twoucan.com/) :ljp: |
 | ^^ | [Twiman](https://twiman.net/) :ljp: |
 | ^^ | [Buhitter](https://buhitter.com/) :ljp: |
 | ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) ||Nitter|| |
-| Others | [Pixnoy](https://www.pixnoy.com/) ||Instagram|| |
+| **Others** | [Pixnoy](https://www.pixnoy.com/) ||Instagram|| |
 
 == Others
 | Type | Website |
 | :--- | :--- |
-| Archive | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
+| **Archive** | [ANNEX 'Hotaru'](https://hotaru.hino-tama.com/) |
 | ^^ | [Pawchive](https://pawchive.pw/) |
-| Games | [skowt.cc](https://skowt.cc/) |
+| **Games** | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
-| Wallpaper | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
+| **Wallpaper** | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
 | ^^ | [Anime Pictures](https://anime-pictures.net/) |
 | ^^ | [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers) |
 | ^^ | [Studio Ghibli](https://www.ghibli.jp/info/013772/) ||SFW|| |
@@ -120,10 +120,10 @@ og:
 
 | Category | Resource |
 | :--- | :--- |
-| Cover tools | [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr: |
+| **Cover tools** | [Image Max URL](https://github.com/qsniyg/maxurl) :js::ff::cr: |
 | ^^ | [Image Picka](https://github.com/eight04/image-picka) :ff::cr: |
 | ^^ | [rRoler Bookmarklets](https://bookmarklets.roler.dev/) :js: |
-| Twitter sakuga | [ArtSakuga](https://x.com/artsakuga) |
+| **Twitter sakuga** | [ArtSakuga](https://x.com/artsakuga) |
 | ^^ | [Dan Kantori](https://x.com/DanKantori) :s: |
 | ^^ | [Effects Sakuga](https://x.com/EffectsSakuga) |
 | ^^ | [Mack Bay](https://x.com/MackBay2077) |
