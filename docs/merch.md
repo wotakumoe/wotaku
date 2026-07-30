@@ -62,6 +62,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 == Database
 - [Figurapedia](https://figurapedia.com/)
 - [Figure Community](https://figure.community/)
+- [Figure Memo](https://figurememo.com/)
 - [Figure Realm](https://www.figurerealm.com/)
 - [MyAnimeShelf](https://myanimeshelf.com/)
 - [MyFigureCollection](https://myfigurecollection.net/)
