@@ -391,9 +391,7 @@ outline: 2
 | :--- | :--- | :---: | :---: |
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :no: | 5x5 |
 | ^^ | [GomiTier](https://www.gomitier.tech/) | :yes: | - |
-| ^^ | [lists.fun](https://lists.fun/) | :no: | 5x10 |
-| ^^ | :prev: [grids.fun](https://grids.fun/) | :yes: | 6x6 |
-| ^^ | :prev: [placeit.fun](https://placeit.fun/) | - | - |
+| ^^ | [grids.fun](https://grids.fun/) | :yes: | 6x6 |
 | ^^ | [Topsters 3](https://topsters.org/) | :yes: | 12x12 |
 | **Games** | [My 9 Games](https://my9games.com/) | :no: | 3x3 |
 | **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :no: | 3x3 |

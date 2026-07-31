@@ -390,7 +390,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.lol/)
+- [Dokiraw](https://dokiraw.work/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://i.wotaku.wiki/p/proxy#kl-manga)
 - [MangaFire](https://mangafire.to/)
@@ -399,16 +399,16 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 <Collapsible title="More">
 
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://i.wotaku.wiki/p/proxy#mangarawspoil)
-- [Manga Raw (.ad)](https://mangarawad.vip/)
+- [Manga Raw (.ad)](https://mangarawad.biz/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://i.wotaku.wiki/p/proxy#raw1001)
 - [RawBaka](https://rawbaka.com/)
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.md/)
+- [Raw FREE](https://rawfree.sale/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.care/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.loan/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Sen Manga](https://raw.senmanga.com/)
 - [Soraraw](https://soraraw.com/)
@@ -474,8 +474,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [MoneyToon](https://mtoon146.asia/) |
 | ^^ | [NameeToon](https://namee106.asia/) |
 | ^^ | [TOONKOR](https://tkor139.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf428.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [Wolf 2](https://wftoon221.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf](https://wfwf431.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf 2](https://wftoon222.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon243.asia/) [:prx:](https://yatoonlink.com/) |
