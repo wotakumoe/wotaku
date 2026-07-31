@@ -16,6 +16,8 @@ import {
 } from 'vue'
 // @ts-ignore
 import { pathToFile } from 'vitepress/dist/client/app/utils'
+// @ts-ignore
+import { RouterSymbol } from 'vitepress/dist/client/app/router'
 
 import {
   computedAsync,
@@ -31,71 +33,67 @@ import { AnimatePresence } from 'motion-v'
 // @ts-ignore
 import localSearchIndex from '@localSearchIndex'
 
-import {
-  File,
-  Hash,
-  ArrowRight
-} from 'lucide-vue-next'
+import { ArrowRight, File, Hash } from 'lucide-vue-next'
 
 import Mark from 'mark.js/dist/mark.es6.js'
 import { sidebar } from '../../../configs/constants'
-import type { PageLink } from '../../plugins/urlSearchPlugin'
 import { LRUCache } from '../../composables/search/lru-cache'
 import { createSearchTranslate } from '../../composables/search/translation'
 import { useData } from '../../composables/search/use-data'
 import { useEffects } from '../../composables/useEffects'
 import { applyFavicons, useFavicons } from '../../composables/useFavicons'
 import { registerGlobalComponents } from '../../globalComponents'
+import type { PageLink } from '../../plugins/urlSearchPlugin'
 import {
   excerptPreload,
   ribbonStyle,
   saveHistoryEnabled,
   searchHistory,
+  type SearchHistoryEntry,
   searchMode,
   searchResultHighlightMode,
-  showDetailedList,
-  type SearchHistoryEntry,
-  type SearchSortMode
+  type SearchSortMode,
+  showDetailedList
 } from '../../searchState'
 import { enhanceAppWithTabs } from '../tabs'
 
 import type {
   FooterTranslations,
   ModalTranslations,
-  Result,
   PageGroupCount,
-  UrlResult,
+  Result,
+  SearchWorkerRequest,
   TextSearchWorkerPayload,
-  UrlSearchWorkerPayload,
-  SearchWorkerRequest
+  UrlResult,
+  UrlSearchWorkerPayload
 } from './types'
 
 import {
+  buildResultHref,
   escapeHtml,
-  highlightUrl,
   formMarkRegex,
-  toHistoryPathHtml,
-  hasExcerptPreview,
-  getPageKey,
-  getDocId,
   getDocAnchor,
+  getDocId,
+  getPageKey,
   getPageLabel,
   getPageOrder,
-  buildResultHref,
-  getSearchResultHref,
-  stripNonCloneable,
   getPageOrderEntries,
-  nextFrame
+  getSearchResultHref,
+  hasExcerptPreview,
+  highlightUrl,
+  nextFrame,
+  stripNonCloneable,
+  toHistoryPathHtml
 } from './utils'
 
 import { useSearchMotion } from './SearchMotion'
 
 import SearchBar from './SearchBar.vue'
-import SearchRibbon from './SearchRibbon.vue'
-import SearchPagination from './SearchPagination.vue'
-import SearchKeyboardShortcuts from './SearchKeyboardShortcuts.vue'
 import SearchEmptyState from './SearchEmptyState.vue'
 import SearchHistory from './SearchHistory.vue'
+import SearchKeyboardShortcuts from './SearchKeyboardShortcuts.vue'
+import SearchPagination from './SearchPagination.vue'
+import SearchRibbon from './SearchRibbon.vue'
 import SearchSettings from './SearchSettings.vue'
 
 const showSearch = defineModel<boolean>()
@@ -106,8 +104,12 @@ const searchBarRef = ref<InstanceType<typeof SearchBar>>()
 const ribbonRef = ref<InstanceType<typeof SearchRibbon>>()
 
 /* Refs exposed by SearchBar */
-const searchInput = computed(() => searchBarRef.value?.searchInput as HTMLInputElement | undefined)
-const settingsButtonRef = computed(() => searchBarRef.value?.settingsButtonRef as HTMLButtonElement | undefined)
+const searchInput = computed(() =>
+  searchBarRef.value?.searchInput as HTMLInputElement | undefined
+)
+const settingsButtonRef = computed(() =>
+  searchBarRef.value?.settingsButtonRef as HTMLButtonElement | undefined
+)
 
 /* Search */
 const searchIndexData = shallowRef(localSearchIndex)
@@ -199,7 +201,9 @@ function saveToHistory(
   searchHistory.value = [
     { query: trimmed, mode, path, href, resultText },
     ...searchHistory.value.filter(
-      (h) => !(h.query === trimmed && h.mode === mode && (h.path ?? []).join('\n') === pathKey)
+      (h) =>
+        !(h.query === trimmed && h.mode === mode &&
+          (h.path ?? []).join('\n') === pathKey)
     )
   ]
 }
@@ -241,7 +245,9 @@ const urlPageGroups = computed(() =>
       label: getPageLabel(group.key, pageMeta),
       count: group.count
     }))
-    .sort((a, b) => getPageOrder(a.key, pageMeta) - getPageOrder(b.key, pageMeta))
+    .sort((a, b) =>
+      getPageOrder(a.key, pageMeta) - getPageOrder(b.key, pageMeta)
+    )
 )
 
 const urlFilteredMatches = computed((): PageLink[] => {
@@ -303,7 +309,9 @@ function goToUrlPage(p: number) {
   })
 }
 
-watch([urlFilterDebounced, urlActivePageFilter], () => { urlPage.value = 1 })
+watch([urlFilterDebounced, urlActivePageFilter], () => {
+  urlPage.value = 1
+})
 
 watch(urlMatches, () => {
   if (
@@ -392,7 +400,9 @@ let searchWorker: Worker | undefined
 let searchWorkerRequestId = 0
 let loadedWorkerIndexKey = ''
 let preloadedSearchDataKey = ''
-let preloadSearchDataRequest: { key: string; promise: Promise<void> } | undefined
+let preloadSearchDataRequest:
+  | { key: string; promise: Promise<void> }
+  | undefined
 const searchWorkerRequests = new Map<
   number,
   { resolve: (value: unknown) => void; reject: (reason?: unknown) => void }
@@ -402,11 +412,18 @@ function getMiniSearchWorkerConfig() {
   const miniSearch = theme.value.search?.provider === 'local'
     ? theme.value.search.options?.miniSearch
     : undefined
-  const rawSearchOptions = miniSearch?.searchOptions as Record<string, unknown> | undefined
+  const rawSearchOptions = miniSearch?.searchOptions as
+    | Record<string, unknown>
+    | undefined
   return {
-    options: stripNonCloneable(miniSearch?.options) as Record<string, unknown> | undefined,
-    searchOptions: stripNonCloneable(rawSearchOptions) as Record<string, unknown> | undefined,
-    useDefaultBoostDocument: typeof rawSearchOptions?.boostDocument === 'function'
+    options: stripNonCloneable(miniSearch?.options) as
+      | Record<string, unknown>
+      | undefined,
+    searchOptions: stripNonCloneable(rawSearchOptions) as
+      | Record<string, unknown>
+      | undefined,
+    useDefaultBoostDocument:
+      typeof rawSearchOptions?.boostDocument === 'function'
   }
 }
 
@@ -424,7 +441,8 @@ async function preloadSearchData(
 
   const promise = (async () => {
     if (loadedWorkerIndexKey !== workerIndexKey) {
-      const indexJson = (await searchIndexData.value[localeIndexValue]?.())?.default
+      const indexJson = (await searchIndexData.value[localeIndexValue]?.())
+        ?.default
       await postSearchWorker<void>({
         type: 'load-index',
         localeIndex: localeIndexValue,
@@ -466,7 +484,12 @@ function ensureSearchWorker() {
   }
 
   searchWorker.onmessage = (event: MessageEvent) => {
-    const data = event.data as { id: number; type: string; payload?: unknown; error?: string }
+    const data = event.data as {
+      id: number
+      type: string
+      payload?: unknown
+      error?: string
+    }
     const request = searchWorkerRequests.get(data.id)
     if (!request) return
     searchWorkerRequests.delete(data.id)
@@ -489,12 +512,17 @@ function postSearchWorker<T>(message: SearchWorkerRequest) {
 
   const id = ++searchWorkerRequestId
   return new Promise<T>((resolve, reject) => {
-    searchWorkerRequests.set(id, { resolve: (value) => resolve(value as T), reject })
+    searchWorkerRequests.set(id, {
+      resolve: (value) => resolve(value as T),
+      reject
+    })
     worker.postMessage({ ...message, id })
   })
 }
 
-onMounted(() => { ensureSearchWorker() })
+onMounted(() => {
+  ensureSearchWorker()
+})
 
 onBeforeUnmount(() => {
   searchWorker?.terminate()
@@ -511,7 +539,14 @@ onBeforeUnmount(() => {
 
 // Watch: preload search data when search opens
 watch(
-  () => [searchWorkerReady.value, showSearch.value, localeIndex.value, searchIndexVersion.value, searchWorkerConfigKey.value] as const,
+  () =>
+    [
+      searchWorkerReady.value,
+      showSearch.value,
+      localeIndex.value,
+      searchIndexVersion.value,
+      searchWorkerConfigKey.value
+    ] as const,
   async ([ready, isOpen, localeIndexValue, indexVersion, configKey]) => {
     if (!ready || !isOpen) return
     try {
@@ -525,17 +560,28 @@ watch(
 
 // Watch: URL search
 watch(
-  () => [searchWorkerReady.value, showSearch.value, urlSearchMode.value, urlFilterDebounced.value] as const,
+  () =>
+    [
+      searchWorkerReady.value,
+      showSearch.value,
+      urlSearchMode.value,
+      urlFilterDebounced.value
+    ] as const,
   async ([ready, isOpen, active, query], _old, onCleanup) => {
     let canceled = false
-    onCleanup(() => { canceled = true })
+    onCleanup(() => {
+      canceled = true
+    })
     if (!active || !isOpen || !query.trim()) {
       urlMatches.value = []
       urlPageGroupCounts.value = []
       urlSearchLoading.value = false
       return
     }
-    if (!ready) { urlSearchLoading.value = false; return }
+    if (!ready) {
+      urlSearchLoading.value = false
+      return
+    }
     urlSearchLoading.value = true
     try {
       const payload = await postSearchWorker<UrlSearchWorkerPayload>({
@@ -575,7 +621,9 @@ const pageGroups = computed(() => {
 
 const filteredResults = computed(() => {
   if (!activePageFilter.value) return results.value
-  return results.value.filter((r) => getPageKey(r.id) === activePageFilter.value)
+  return results.value.filter((r) =>
+    getPageKey(r.id) === activePageFilter.value
+  )
 })
 
 // Normal pagination
@@ -651,6 +699,7 @@ async function reapplyHighlights() {
     mark.value?.unmark({
       done: () => {
         mark.value?.markRegExp(formMarkRegex(currentTerms.value), {
+          filter: shouldMarkTextNode,
           done: () => resolve()
         })
       }
@@ -763,19 +812,39 @@ function buildDocExcerpt(docId: string): Promise<void> {
     enhanceAppWithTabs(app, { renderAll: true })
     registerGlobalComponents(app)
     app.provide(dataSymbol, vitePressData)
+    // Pages embed <Feedback>, which calls useRouter() in the excerpt app.
+    app.provide(RouterSymbol, router)
     Object.defineProperties(app.config.globalProperties, {
-      $frontmatter: { get() { return vitePressData.frontmatter.value } },
-      $params: { get() { return vitePressData.page.value.params } }
+      $frontmatter: {
+        get() {
+          return vitePressData.frontmatter.value
+        }
+      },
+      $params: {
+        get() {
+          return vitePressData.page.value.params
+        }
+      }
     })
     const div = document.createElement('div')
     try {
       const originalCreateElement = document.createElement
-      document.createElement = function (this: Document, ...args: Parameters<Document['createElement']>) {
+      document.createElement = function(
+        this: Document,
+        ...args: Parameters<Document['createElement']>
+      ) {
         const el = originalCreateElement.apply(this, args)
-        if (el instanceof HTMLImageElement) { el.loading = 'lazy'; el.decoding = 'async' }
+        if (el instanceof HTMLImageElement) {
+          el.loading = 'lazy'
+          el.decoding = 'async'
+        }
         return el
       } as typeof document.createElement
-      try { app.mount(div) } finally { document.createElement = originalCreateElement }
+      try {
+        app.mount(div)
+      } finally {
+        document.createElement = originalCreateElement
+      }
       const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
       headings.forEach((heading) => {
         const href = heading.querySelector('a')?.getAttribute('href')
@@ -783,7 +852,9 @@ function buildDocExcerpt(docId: string): Promise<void> {
         const anchor = hashIndex >= 0 ? href!.slice(hashIndex + 1) : ''
         if (!anchor) return
 
-        const collapsible = heading.closest('details.custom-block') as HTMLDetailsElement | null
+        const collapsible = heading.closest('details.custom-block') as
+          | HTMLDetailsElement
+          | null
         if (collapsible) {
           collapsible.open = true
           map.set(anchor, collapsible.outerHTML)
@@ -792,7 +863,9 @@ function buildDocExcerpt(docId: string): Promise<void> {
 
         let html = ''
         let node = heading as Element
-        while ((node = node.nextElementSibling!) && !/^h[1-6]$/i.test(node.tagName)) {
+        while (
+          (node = node.nextElementSibling!) && !/^h[1-6]$/i.test(node.tagName)
+        ) {
           html += (node as HTMLElement).outerHTML
         }
         map.set(anchor, html)
@@ -800,7 +873,9 @@ function buildDocExcerpt(docId: string): Promise<void> {
     } catch (e) {
       console.error('[search] excerpt render failed for', docId, e)
     } finally {
-      try { app.unmount() } catch { /* ignore */ }
+      try {
+        app.unmount()
+      } catch { /* ignore */ }
     }
     cache.set(docId, map)
   })()
@@ -828,7 +903,9 @@ async function fetchExcerpt(id: string) {
   }
 }
 
-watch(excerptPreload, () => { void buildVisibleExcerpts() })
+watch(excerptPreload, () => {
+  void buildVisibleExcerpts()
+})
 
 watch(results, () => {
   if (
@@ -839,19 +916,52 @@ watch(results, () => {
   }
 })
 
-watch(filterText, () => { enableNoResults.value = false })
+watch(filterText, () => {
+  enableNoResults.value = false
+})
 
 // Debounced text search
 watchDebounced(
-  () => [searchWorkerReady.value, showSearch.value, localeIndex.value, searchIndexVersion.value, searchWorkerConfigKey.value, filterText.value, showDetailedList.value, searchMode.value] as const,
-  async ([ready, isOpen, localeIndexValue, indexVersion, configKey, filterTextValue, showDetailedListValue, mode], old, onCleanup) => {
-    if (old?.[2] !== localeIndexValue || old?.[3] !== indexVersion || old?.[4] !== configKey) {
+  () =>
+    [
+      searchWorkerReady.value,
+      showSearch.value,
+      localeIndex.value,
+      searchIndexVersion.value,
+      searchWorkerConfigKey.value,
+      filterText.value,
+      showDetailedList.value,
+      searchMode.value
+    ] as const,
+  async (
+    [
+      ready,
+      isOpen,
+      localeIndexValue,
+      indexVersion,
+      configKey,
+      filterTextValue,
+      showDetailedListValue,
+      mode
+    ],
+    old,
+    onCleanup
+  ) => {
+    if (
+      old?.[2] !== localeIndexValue || old?.[3] !== indexVersion ||
+      old?.[4] !== configKey
+    ) {
       cache.clear()
     }
     let canceled = false
-    onCleanup(() => { canceled = true })
+    onCleanup(() => {
+      canceled = true
+    })
     excerptBuildToken++
-    if (!ready || !isOpen) { textSearchLoading.value = false; return }
+    if (!ready || !isOpen) {
+      textSearchLoading.value = false
+      return
+    }
 
     if (mode === 'url') {
       results.value = []
@@ -869,14 +979,18 @@ watchDebounced(
     } catch (error) {
       if (!canceled) {
         console.error('[search] text search index preload failed', error)
-        results.value = []; currentTerms.value = new Set()
-        enableNoResults.value = Boolean(searchQuery); textSearchLoading.value = false
+        results.value = []
+        currentTerms.value = new Set()
+        enableNoResults.value = Boolean(searchQuery)
+        textSearchLoading.value = false
       }
       return
     }
     if (!searchQuery) {
-      results.value = []; currentTerms.value = new Set()
-      enableNoResults.value = false; textSearchLoading.value = false
+      results.value = []
+      currentTerms.value = new Set()
+      enableNoResults.value = false
+      textSearchLoading.value = false
       return
     }
 
@@ -891,8 +1005,10 @@ watchDebounced(
     } catch (error) {
       if (!canceled) {
         console.error('[search] text search worker request failed', error)
-        results.value = []; currentTerms.value = new Set()
-        enableNoResults.value = true; textSearchLoading.value = false
+        results.value = []
+        currentTerms.value = new Set()
+        enableNoResults.value = true
+        textSearchLoading.value = false
       }
       return
     }
@@ -902,14 +1018,24 @@ watchDebounced(
     const terms = new Set(workerPayload.terms)
     currentTerms.value = terms
     enableNoResults.value = true
-    if (!_result.length) { results.value = []; textSearchLoading.value = false; return }
+    if (!_result.length) {
+      results.value = []
+      textSearchLoading.value = false
+      return
+    }
 
     const highlight = () =>
       new Promise<void>((resolve) => {
-        if (!terms.size || !mark.value) { resolve(); return }
+        if (!terms.size || !mark.value) {
+          resolve()
+          return
+        }
         mark.value.unmark({
           done: () => {
-            mark.value?.markRegExp(formMarkRegex(terms), { done: () => resolve() })
+            mark.value?.markRegExp(formMarkRegex(terms), {
+              filter: shouldMarkTextNode,
+              done: () => resolve()
+            })
           }
         })
       })
@@ -934,6 +1060,36 @@ watchDebounced(
 )
 
 // Excerpt centering
+const findTargetLinkInExcerpt = (
+  excerptElement: HTMLElement,
+  linkTitle: string
+) => {
+  const links = excerptElement.querySelectorAll('a')
+  const normalizedTitle = linkTitle.trim().toLowerCase()
+  for (const link of links) {
+    if (link.textContent?.trim().toLowerCase() === normalizedTitle) {
+      return link
+    }
+  }
+  return null
+}
+
+// For pinned results, only mark text inside the target link so other substring matches are skipped.
+const shouldMarkTextNode = (textNode: Text) => {
+  const parent = textNode.parentElement
+  if (!parent) return true
+
+  const resultEl = parent.closest('.result') as HTMLElement | null
+  const linkTitle = resultEl?.dataset?.linkTitle
+  if (!linkTitle) return true
+
+  const excerpt = parent.closest('.excerpt') as HTMLElement | null
+  if (!excerpt) return true
+
+  const targetLink = findTargetLinkInExcerpt(excerpt, linkTitle)
+  return targetLink ? targetLink.contains(textNode) : true
+}
+
 function centerExcerpts() {
   const excerpts = el.value?.querySelectorAll('.result .excerpt') ?? []
   for (let i = 0; i < excerpts.length; i++) {
@@ -944,20 +1100,18 @@ function centerExcerpts() {
 
     let markNode: HTMLElement | null
     if (linkTitle) {
-      const links = excerptElement.querySelectorAll('a')
-      let targetLink: HTMLAnchorElement | null = null
-      const normalizedTitle = linkTitle.trim().toLowerCase()
-      for (const link of links) {
-        if (link.textContent?.trim().toLowerCase() === normalizedTitle) {
-          targetLink = link
-          break
-        }
-      }
+      const targetLink = findTargetLinkInExcerpt(excerptElement, linkTitle)
       markNode = targetLink
-        ? (targetLink.querySelector('mark[data-markjs="true"]') as HTMLElement | null)
-        : (excerptElement.querySelector('mark[data-markjs="true"]') as HTMLElement | null)
+        ? (targetLink.querySelector('mark[data-markjs="true"]') as
+          | HTMLElement
+          | null)
+        : (excerptElement.querySelector('mark[data-markjs="true"]') as
+          | HTMLElement
+          | null)
     } else {
-      markNode = excerptElement.querySelector('mark[data-markjs="true"]') as HTMLElement | null
+      markNode = excerptElement.querySelector('mark[data-markjs="true"]') as
+        | HTMLElement
+        | null
     }
 
     if (!markNode) continue
@@ -968,17 +1122,23 @@ function centerExcerpts() {
       offset += node.offsetTop
       node = node.offsetParent as HTMLElement | null
     }
-    const targetScrollTop = offset - viewportHeight / 2 + markNode.offsetHeight / 2
+    const targetScrollTop = offset - viewportHeight / 2 +
+      markNode.offsetHeight / 2
     excerptElement.scrollTop = Math.max(0, targetScrollTop)
   }
 }
 
 let centerHandle = 0
 
-function centerExcerptsUntilSettled(duration = searchAnimationsEnabled.value ? 450 : 0) {
+function centerExcerptsUntilSettled(
+  duration = searchAnimationsEnabled.value ? 450 : 0
+) {
   if (centerHandle) cancelAnimationFrame(centerHandle)
   if (duration <= 0) {
-    centerHandle = requestAnimationFrame(() => { centerExcerpts(); centerHandle = 0 })
+    centerHandle = requestAnimationFrame(() => {
+      centerExcerpts()
+      centerHandle = 0
+    })
     return
   }
   const start = performance.now()
@@ -986,7 +1146,7 @@ function centerExcerptsUntilSettled(duration = searchAnimationsEnabled.value ? 4
     centerExcerpts()
     if (performance.now() - start < duration) {
       centerHandle = requestAnimationFrame(tick)
-    } else { centerHandle = 0 }
+    } else centerHandle = 0
   }
   centerHandle = requestAnimationFrame(tick)
 }
@@ -1003,7 +1163,9 @@ function focusSearchInput(select = true) {
   select && searchInput.value?.select()
 }
 
-onMounted(() => { focusSearchInput() })
+onMounted(() => {
+  focusSearchInput()
+})
 
 function onSearchBarClick(event: PointerEvent) {
   if (event.pointerType === 'mouse') focusSearchInput()
@@ -1014,20 +1176,30 @@ const selectedIndex = ref(-1)
 const disableMouseOver = ref(true)
 
 const activeResultsLength = computed(() =>
-  urlSearchMode.value ? filteredUrlResults.value.length : pagedResults.value.length
+  urlSearchMode.value
+    ? filteredUrlResults.value.length
+    : pagedResults.value.length
 )
 
 watch(pagedResults, (r) => {
-  if (!urlSearchMode.value) { selectedIndex.value = r.length ? 0 : -1; scrollToSelectedResult() }
+  if (!urlSearchMode.value) {
+    selectedIndex.value = r.length ? 0 : -1
+    scrollToSelectedResult()
+  }
 })
 
 watch(filteredUrlResults, (r) => {
-  if (urlSearchMode.value) { selectedIndex.value = r.length ? 0 : -1; scrollToSelectedResult() }
+  if (urlSearchMode.value) {
+    selectedIndex.value = r.length ? 0 : -1
+    scrollToSelectedResult()
+  }
 })
 
 watch([pagedResults, filteredUrlResults, faviconsEnabled], () => {
   if (!faviconsEnabled.value) return
-  nextTick(() => { if (resultsEl.value) applyFavicons(resultsEl.value) })
+  nextTick(() => {
+    if (resultsEl.value) applyFavicons(resultsEl.value)
+  })
 })
 
 function scrollToSelectedResult() {
@@ -1072,7 +1244,9 @@ function cyclePageTab(delta: number) {
 onKeyStroke('ArrowUp', (event) => {
   event.preventDefault()
   selectedIndex.value--
-  if (selectedIndex.value < 0) selectedIndex.value = activeResultsLength.value - 1
+  if (selectedIndex.value < 0) {
+    selectedIndex.value = activeResultsLength.value - 1
+  }
   disableMouseOver.value = true
   scrollToSelectedResult()
 })
@@ -1080,7 +1254,9 @@ onKeyStroke('ArrowUp', (event) => {
 onKeyStroke('ArrowDown', (event) => {
   event.preventDefault()
   selectedIndex.value++
-  if (selectedIndex.value >= activeResultsLength.value + 1) selectedIndex.value = 0
+  if (selectedIndex.value >= activeResultsLength.value + 1) {
+    selectedIndex.value = 0
+  }
   disableMouseOver.value = true
   scrollToSelectedResult()
 })
@@ -1108,9 +1284,13 @@ const router = useRouter()
 
 function navigateToUrlResult(item: UrlResult) {
   saveToHistory(
-    filterText.value, searchMode.value,
-    [getPageLabel(item.pageId, pageMeta), ...item.titles, item.linkText].map(toHistoryPathHtml).filter(Boolean),
-    buildResultHref(item.pageId, item.tabs, item.anchor), item.linkText
+    filterText.value,
+    searchMode.value,
+    [getPageLabel(item.pageId, pageMeta), ...item.titles, item.linkText].map(
+      toHistoryPathHtml
+    ).filter(Boolean),
+    buildResultHref(item.pageId, item.tabs, item.anchor),
+    item.linkText
   )
   window.dispatchEvent(
     new CustomEvent('search-nav', {
@@ -1127,7 +1307,9 @@ function navigateToUrlResult(item: UrlResult) {
 
 onKeyStroke('Enter', (e) => {
   if (e.isComposing) return
-  if (e.target instanceof HTMLButtonElement && e.target.type !== 'submit') return
+  if (e.target instanceof HTMLButtonElement && e.target.type !== 'submit') {
+    return
+  }
 
   const index = selectedIndex.value - 1
   if (index === -1) {
@@ -1144,12 +1326,21 @@ onKeyStroke('Enter', (e) => {
   }
 
   const selectedPackage = pagedResults.value[index]
-  if (e.target instanceof HTMLInputElement && !selectedPackage) { e.preventDefault(); return }
+  if (e.target instanceof HTMLInputElement && !selectedPackage) {
+    e.preventDefault()
+    return
+  }
   if (selectedPackage) {
     saveToHistory(
-      filterText.value, searchMode.value,
-      [getPageLabel(getPageKey(String(selectedPackage.id)), pageMeta), ...selectedPackage.titles, selectedPackage.title].map(toHistoryPathHtml).filter(Boolean),
-      getSearchResultHref(selectedPackage), selectedPackage.title
+      filterText.value,
+      searchMode.value,
+      [
+        getPageLabel(getPageKey(String(selectedPackage.id)), pageMeta),
+        ...selectedPackage.titles,
+        selectedPackage.title
+      ].map(toHistoryPathHtml).filter(Boolean),
+      getSearchResultHref(selectedPackage),
+      selectedPackage.title
     )
     window.dispatchEvent(
       new CustomEvent('search-nav', {
@@ -1167,9 +1358,15 @@ onKeyStroke('Enter', (e) => {
 
 function onResultClick(item: SearchResult & Result) {
   saveToHistory(
-    filterText.value, searchMode.value,
-    [getPageLabel(getPageKey(String(item.id)), pageMeta), ...item.titles, item.title].map(toHistoryPathHtml).filter(Boolean),
-    getSearchResultHref(item), item.title
+    filterText.value,
+    searchMode.value,
+    [
+      getPageLabel(getPageKey(String(item.id)), pageMeta),
+      ...item.titles,
+      item.title
+    ].map(toHistoryPathHtml).filter(Boolean),
+    getSearchResultHref(item),
+    item.title
   )
   window.dispatchEvent(
     new CustomEvent('search-nav', {
@@ -1184,7 +1381,10 @@ function onResultClick(item: SearchResult & Result) {
 }
 
 onKeyStroke('Escape', () => {
-  if (showSettingsPopup.value) { showSettingsPopup.value = false; return }
+  if (showSettingsPopup.value) {
+    showSettingsPopup.value = false
+    return
+  }
   showSearch.value = false
 })
 
@@ -1215,17 +1415,27 @@ const defaultTranslations: { modal: ModalTranslations } = {
 const translate = createSearchTranslate(defaultTranslations)
 
 // Back
-onMounted(() => { window.history.pushState(null, '', null) })
-useEventListener('popstate', (event) => { event.preventDefault(); showSearch.value = false })
+onMounted(() => {
+  window.history.pushState(null, '', null)
+})
+useEventListener('popstate', (event) => {
+  event.preventDefault()
+  showSearch.value = false
+})
 
 // Lock body
 const isLocked = useScrollLock(inBrowser ? document.body : null)
 
 watch(() => showSearch.value, (val) => {
-  if (!val) { isLocked.value = false; return }
+  if (!val) {
+    isLocked.value = false
+    return
+  }
   nextTick(() => {
     isLocked.value = true
-    nextTick().then(() => { activate() })
+    nextTick().then(() => {
+      activate()
+    })
   })
 })
 
@@ -1352,16 +1562,21 @@ function onMouseMove(e: MouseEvent) {
                   item.anchor + '-' + index"
                   class="result-layout"
                   :id="'localsearch-item-' + (index + 1)"
-                  :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"
+                  :aria-selected="selectedIndex === index + 1
+                  ? 'true'
+                  : 'false'"
                   role="option"
                   v-bind="resultMotion(index)"
                 >
                   <div
                     class="result url-result-card"
-                    :class="{ selected: selectedIndex === index + 1 }"
+                    :class="{
+                      selected: selectedIndex === index + 1
+                    }"
                     :aria-label="item.href"
                     role="button"
-                    @mouseenter="!disableMouseOver && (selectedIndex = index + 1)"
+                    @mouseenter="!disableMouseOver &&
+                    (selectedIndex = index + 1)"
                     @focusin="selectedIndex = index + 1"
                     @click="navigateToUrlResult(item)"
                     :data-index="index + 1"
@@ -1369,16 +1584,29 @@ function onMouseMove(e: MouseEvent) {
                     <div class="url-result-body">
                       <div class="url-path">
                         <Hash
-                          v-if="item.anchor || item.titles.length > 0"
+                          v-if="item.anchor ||
+                          item.titles.length > 0"
                           stroke-width="2"
                           :size="18"
                         />
                         <File v-else stroke-width="2" :size="18" />
-                        <span v-for="(t, ti) in item.titles" :key="ti" class="url-path-segment">
+                        <span
+                          v-for="(t, ti) in item.titles"
+                          :key="ti"
+                          class="url-path-segment"
+                        >
                           <span class="text" v-html="t" />
-                          <ArrowRight stroke-width="2" :size="18" class="mx-0.5" />
+                          <ArrowRight
+                            stroke-width="2"
+                            :size="18"
+                            class="mx-0.5"
+                          />
                         </span>
-                        <span v-if="item.linkText" class="url-path-current" v-html="item.linkText" />
+                        <span
+                          v-if="item.linkText"
+                          class="url-path-current"
+                          v-html="item.linkText"
+                        />
                       </div>
                       <a
                         :href="item.href"
@@ -1401,42 +1629,62 @@ function onMouseMove(e: MouseEvent) {
                 <component
                   :is="searchMotionLi"
                   v-for="(p, index) in pagedResults"
-                  :key="'normal-' + normalCurrentPage + '-' + p.id + (p._linkIndex != null ? '-' + p._linkIndex : '')"
+                  :key="'normal-' + normalCurrentPage + '-' +
+                  p.id + (p._linkIndex != null
+                    ? '-' + p._linkIndex
+                    : '')"
                   class="result-layout"
                   :id="'localsearch-item-' + (index + 1)"
-                  :aria-selected="selectedIndex === index + 1 ? 'true' : 'false'"
+                  :aria-selected="selectedIndex === index + 1
+                  ? 'true'
+                  : 'false'"
                   role="option"
                   v-bind="resultMotion(index)"
                 >
                   <a
                     :href="getSearchResultHref(p)"
                     class="result"
-                    :class="{ selected: selectedIndex === index + 1 }"
+                    :class="{
+                      selected: selectedIndex === index + 1
+                    }"
                     :aria-label="[...p.titles, p.title].join(' > ')"
-                    @mouseenter="!disableMouseOver && (selectedIndex = index + 1)"
+                    @mouseenter="!disableMouseOver &&
+                    (selectedIndex = index + 1)"
                     @focusin="selectedIndex = index + 1"
                     @click="onResultClick(p)"
                     :data-index="index + 1"
-                    :data-link-title="p._linkIndex != null ? p.title : undefined"
+                    :data-link-title="p._linkIndex != null
+                    ? p.title
+                    : undefined"
                   >
                     <div>
                       <div class="titles">
                         <Hash
-                          v-if="getDocAnchor(p.id) || p.titles.length > 0"
+                          v-if="getDocAnchor(p.id) ||
+                          p.titles.length > 0"
                           stroke-width="2"
                           :size="18"
                         />
                         <File v-else stroke-width="2" :size="18" />
-                        <span v-for="(t, index) in p.titles" :key="index" class="title">
+                        <span
+                          v-for="(t, index) in p.titles"
+                          :key="index"
+                          class="title"
+                        >
                           <span class="text" v-html="t" />
-                          <ArrowRight stroke-width="2" :size="18" class="mx-0.5" />
+                          <ArrowRight
+                            stroke-width="2"
+                            :size="18"
+                            class="mx-0.5"
+                          />
                         </span>
                         <span class="title main">
                           <span class="text" v-html="p.title" />
                         </span>
                       </div>
                       <div
-                        v-if="showDetailedList && hasExcerptPreview(p.text)"
+                        v-if="showDetailedList &&
+                        hasExcerptPreview(p.text)"
                         class="excerpt-wrapper"
                       >
                         <component
