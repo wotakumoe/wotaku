@@ -731,9 +731,12 @@ function setSearchMode(mode: string) {
   border-radius: 0 0 12px 12px;
 }
 
-.settings-fade-enter-active,
-.settings-fade-leave-active {
+.settings-fade-enter-active {
   transition: opacity 0.2s;
+}
+
+.settings-fade-leave-active {
+  transition: none;
 }
 
 .settings-fade-enter-from,

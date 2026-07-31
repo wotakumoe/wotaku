@@ -1056,9 +1056,12 @@ html.effects-disabled .ribbon-menu-btn:active {
   border-radius: 0 0 12px 12px;
 }
 
-.ribbon-menu-fade-enter-active,
-.ribbon-menu-fade-leave-active {
+.ribbon-menu-fade-enter-active {
   transition: opacity 0.2s;
+}
+
+.ribbon-menu-fade-leave-active {
+  transition: none;
 }
 
 .ribbon-menu-fade-enter-from,
