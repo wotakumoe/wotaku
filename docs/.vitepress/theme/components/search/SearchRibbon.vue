@@ -534,6 +534,7 @@ function pageNav(delta: number) {
         ref="listMenuButtonRef"
         type="button"
         class="ribbon-menu-btn"
+        :class="{ 'is-open': showListMenu }"
         title="Filter by page"
         :aria-expanded="showListMenu"
         aria-haspopup="true"
@@ -1002,6 +1003,11 @@ function pageNav(delta: number) {
 
 .ribbon-menu-btn:active {
   transform: scale(0.94);
+  opacity: 1;
+  color: var(--vp-c-text-1);
+}
+
+.ribbon-menu-btn.is-open {
   opacity: 1;
   color: var(--vp-c-text-1);
 }
