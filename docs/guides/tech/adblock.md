@@ -9,7 +9,6 @@ og:
 | Based on | Browser | Platform |
 |-|-|-|
 | Chromium  | [Brave](https://brave.com/) [:src:](https://github.com/brave/brave-browser) | :and::ios::win::app::lin: |
-| ^^        | [Cromite](https://github.com/uazo/cromite) | :and::win::lin: |
 | ^^        | [Helium](https://helium.computer/) [:src:](https://github.com/imputnet/helium) | :win::app::lin: |
 | Gecko     | [Firefox](https://www.firefox.com/) [:src:](https://searchfox.org/firefox-main/source) | :and::ios::win::app::lin: |
 | ^^        | [Ironfox](https://ironfoxoss.org/) [:src:](https://gitlab.com/ironfox-oss/IronFox/) | :and: |
