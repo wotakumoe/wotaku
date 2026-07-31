@@ -436,8 +436,9 @@ function pageNav(delta: number) {
         ref="listMenuButtonRef"
         type="button"
         class="ribbon-menu-btn"
-        :class="{ active: showListMenu }"
         title="Filter by page"
+        :aria-expanded="showListMenu"
+        aria-haspopup="true"
         @click.stop="toggleListMenu"
       >
         <Menu :size="18" stroke-width="2" />
@@ -848,8 +849,7 @@ function pageNav(delta: number) {
   line-height: 1;
 }
 
-.ribbon-menu-btn:hover,
-.ribbon-menu-btn.active {
+.ribbon-menu-btn:hover {
   color: var(--vp-c-text-1);
   opacity: 1;
   background: transparent;
