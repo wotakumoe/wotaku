@@ -1,7 +1,18 @@
 <script setup lang="ts">
+import {
+  onClickOutside,
+  useElementBounding,
+  useEventListener
+} from '@vueuse/core'
 import { ChevronLeft, ChevronRight, Menu } from 'lucide-vue-next'
-import { computed, nextTick, onBeforeUnmount, ref, shallowRef, watch } from 'vue'
-import { onClickOutside, useEventListener } from '@vueuse/core'
+import {
+  computed,
+  nextTick,
+  onBeforeUnmount,
+  ref,
+  shallowRef,
+  watch
+} from 'vue'
 import { homeCards } from '../../../configs/constants'
 import type { HomeCard } from '../../../configs/constants'
 
@@ -34,7 +45,10 @@ function getPageCard(path: string): HomeCard | null {
   let best: HomeCard | null = null
   let bestLen = 0
   for (const card of homeCards) {
-    if ((path === card.link || path.startsWith(card.link + '/')) && card.link.length > bestLen) {
+    if (
+      (path === card.link || path.startsWith(card.link + '/')) &&
+      card.link.length > bestLen
+    ) {
       best = card
       bestLen = card.link.length
     }
@@ -74,6 +88,26 @@ const emit = defineEmits<{
 const showListMenu = ref(false)
 const listMenuButtonRef = ref<HTMLElement>()
 const listMenuRef = ref<HTMLElement>()
+const showListMenuFade = ref(true)
+const listMenuBounding = useElementBounding(listMenuRef)
+const ribbonBounding = useElementBounding(() =>
+  listMenuRef.value?.closest('.page-ribbon-list')
+)
+
+const listMenuFadeStyle = computed(() => ({
+  top: `${listMenuBounding.bottom.value - ribbonBounding.top.value - 56}px`,
+  left: `${listMenuBounding.left.value - ribbonBounding.left.value}px`,
+  width: `${listMenuBounding.width.value}px`
+}))
+
+const listMenuFadeReady = computed(() => listMenuBounding.width.value > 0)
+
+function onListMenuScroll() {
+  const el = listMenuRef.value
+  if (!el) return
+  const { scrollTop, scrollHeight, clientHeight } = el
+  showListMenuFade.value = scrollTop + clientHeight < scrollHeight - 4
+}
 
 // Tabs ribbon state
 const ribbonTrack = shallowRef<HTMLElement>()
@@ -100,7 +134,7 @@ function onDragStart(e: MouseEvent) {
   // Don't drag if user clicked on a scroll arrow
   const target = e.target as HTMLElement
   if (target.closest('.page-ribbon-arrow')) return
-  
+
   isDragging.value = true
   dragStartX = e.clientX
   dragStartScrollLeft = track.scrollLeft
@@ -115,13 +149,13 @@ function onDragMove(e: MouseEvent) {
   if (!isDragging.value) return
   const track = getRibbonTrack()
   if (!track) return
-  
+
   const deltaX = e.clientX - dragStartX
   const threshold = 4
   if (!dragMoved && Math.abs(deltaX) > threshold) {
     dragMoved = true
   }
-  
+
   if (dragMoved) {
     track.scrollLeft = dragStartScrollLeft - deltaX
     updateRibbonOverflow()
@@ -152,7 +186,10 @@ function onTrackWheel(e: WheelEvent) {
   if (!track) return
   const max = track.scrollWidth - track.clientWidth
   if (max <= 0) return
-  const newScroll = Math.max(0, Math.min(max, track.scrollLeft + e.deltaX + e.deltaY))
+  const newScroll = Math.max(
+    0,
+    Math.min(max, track.scrollLeft + e.deltaX + e.deltaY)
+  )
   if (newScroll !== track.scrollLeft) {
     e.preventDefault()
     track.scrollLeft = newScroll
@@ -189,9 +226,14 @@ function onTouchEnd() {
 
 function updateRibbonOverflow() {
   const track = getRibbonTrack()
-  if (!track) { ribbonCanScrollLeft.value = false; ribbonCanScrollRight.value = false; return }
+  if (!track) {
+    ribbonCanScrollLeft.value = false
+    ribbonCanScrollRight.value = false
+    return
+  }
   ribbonCanScrollLeft.value = track.scrollLeft > 2
-  ribbonCanScrollRight.value = track.scrollWidth - track.clientWidth - track.scrollLeft > 2
+  ribbonCanScrollRight.value =
+    track.scrollWidth - track.clientWidth - track.scrollLeft > 2
 }
 
 function getRibbonTrack(): HTMLElement | null {
@@ -204,7 +246,9 @@ function scrollActivePagePillIntoView(direction = 0) {
     const track = getRibbonTrack()
     if (!track) return
     const pills = [...track.querySelectorAll<HTMLElement>('.page-pill')]
-    const activeIndex = pills.findIndex((pill) => pill.classList.contains('active'))
+    const activeIndex = pills.findIndex((pill) =>
+      pill.classList.contains('active')
+    )
     const active = pills[activeIndex]
     if (!active) return
     const trackRect = track.getBoundingClientRect()
@@ -243,7 +287,11 @@ function scrollRibbon(direction: number) {
   const to = Math.max(0, Math.min(max, from + amount))
   if (to === from) return
   if (ribbonAnimHandle) cancelAnimationFrame(ribbonAnimHandle)
-  if (!props.searchAnimationsEnabled) { track.scrollLeft = to; updateRibbonOverflow(); return }
+  if (!props.searchAnimationsEnabled) {
+    track.scrollLeft = to
+    updateRibbonOverflow()
+    return
+  }
 
   const duration = 280
   const start = performance.now()
@@ -258,8 +306,23 @@ function scrollRibbon(direction: number) {
   ribbonAnimHandle = requestAnimationFrame(step)
 }
 
-watch(() => props.pageGroups, () => { nextTick(updateRibbonOverflow) })
-watch(() => props.urlPageGroups, () => { nextTick(updateRibbonOverflow) })
+watch(() => props.pageGroups, () => {
+  nextTick(() => {
+    updateRibbonOverflow()
+    onListMenuScroll()
+  })
+})
+watch(() => props.urlPageGroups, () => {
+  nextTick(() => {
+    updateRibbonOverflow()
+    onListMenuScroll()
+  })
+})
+watch(showListMenu, async (open) => {
+  if (!open) return
+  await nextTick()
+  onListMenuScroll()
+})
 useEventListener('resize', updateRibbonOverflow)
 
 onBeforeUnmount(() => {
@@ -304,11 +367,15 @@ const groupedMenuEntries = computed((): MenuEntry[] => {
   // Build folder entries
   const folderEntries: FolderGroup[] = [...folderMap.entries()]
     .map(([section, pages]) => {
-      const parentCard = homeCards.find((c) => c.title === section && !c.section) ?? null
+      const parentCard = homeCards.find((c) =>
+        c.title === section && !c.section
+      ) ?? null
       return {
         section,
         parentCard,
-        iconClass: parentCard ? cardIconToClass(parentCard.icon) : 'i-lucide:folder',
+        iconClass: parentCard
+          ? cardIconToClass(parentCard.icon)
+          : 'i-lucide:folder',
         pages
       }
     })
@@ -338,12 +405,20 @@ const activePageData = computed(() => {
   const findInEntries = (key: string, fallbackCount: number) => {
     for (const entry of groupedMenuEntries.value) {
       if (entry.type === 'page' && entry.page.key === key) {
-        return { label: entry.page.label, iconClass: entry.page.iconClass, count: entry.page.count }
+        return {
+          label: entry.page.label,
+          iconClass: entry.page.iconClass,
+          count: entry.page.count
+        }
       }
       if (entry.type === 'folder') {
         const found = entry.folder.pages.find((p) => p.key === key)
         if (found) {
-          return { label: found.label, iconClass: entry.folder.iconClass, count: found.count }
+          return {
+            label: found.label,
+            iconClass: entry.folder.iconClass,
+            count: found.count
+          }
         }
       }
     }
@@ -352,17 +427,38 @@ const activePageData = computed(() => {
 
   if (props.urlSearchMode) {
     if (props.urlActivePageFilter === null) {
-      return { label: 'All', iconClass: 'i-lucide:text-search', count: props.urlMatchesLength }
+      return {
+        label: 'All',
+        iconClass: 'i-lucide:text-search',
+        count: props.urlMatchesLength
+      }
     }
-    const result = findInEntries(props.urlActivePageFilter, props.urlMatchesLength)
-    return result ?? { label: 'All', iconClass: 'i-lucide:text-search', count: props.urlMatchesLength }
+    const result = findInEntries(
+      props.urlActivePageFilter,
+      props.urlMatchesLength
+    )
+    return result ??
+      {
+        label: 'All',
+        iconClass: 'i-lucide:text-search',
+        count: props.urlMatchesLength
+      }
   }
 
   if (props.activePageFilter === null) {
-    return { label: 'All', iconClass: 'i-lucide:text-search', count: props.resultsLength }
+    return {
+      label: 'All',
+      iconClass: 'i-lucide:text-search',
+      count: props.resultsLength
+    }
   }
   const result = findInEntries(props.activePageFilter, props.resultsLength)
-  return result ?? { label: 'All', iconClass: 'i-lucide:text-search', count: props.resultsLength }
+  return result ??
+    {
+      label: 'All',
+      iconClass: 'i-lucide:text-search',
+      count: props.resultsLength
+    }
 })
 
 function toggleListMenu() {
@@ -384,7 +480,9 @@ const allPages = computed((): (string | null)[] => {
 })
 
 const currentPageIndex = computed(() => {
-  const activeKey = props.urlSearchMode ? props.urlActivePageFilter : props.activePageFilter
+  const activeKey = props.urlSearchMode
+    ? props.urlActivePageFilter
+    : props.activePageFilter
   return allPages.value.indexOf(activeKey)
 })
 
@@ -451,40 +549,55 @@ function pageNav(delta: number) {
         v-if="showListMenu"
         ref="listMenuRef"
         class="page-ribbon-list-menu"
+        @scroll.passive="onListMenuScroll"
       >
         <!-- "All" item -->
         <button
           type="button"
           class="ribbon-menu-item all-item"
-          :class="{ active: urlSearchMode
-            ? urlActivePageFilter === null
-            : activePageFilter === null }"
+          :class="{
+            active: urlSearchMode
+              ? urlActivePageFilter === null
+              : activePageFilter === null
+          }"
           @click="urlSearchMode
-            ? setUrlPageFilter(null)
-            : setPageFilter(null)"
+          ? setUrlPageFilter(null)
+          : setPageFilter(null)"
         >
           <span class="i-lucide:text-search ribbon-menu-item-icon" />
           <span class="ribbon-menu-item-label">All</span>
-          <span class="ribbon-menu-item-count">{{ urlSearchMode ? urlMatchesLength : resultsLength }}</span>
+          <span class="ribbon-menu-item-count">{{
+            urlSearchMode ? urlMatchesLength : resultsLength
+          }}</span>
         </button>
 
         <div class="ribbon-menu-divider" />
 
         <!-- Grouped pages -->
-        <template v-for="entry in groupedMenuEntries" :key="entry.type === 'page' ? entry.page.key : entry.folder.section">
+        <template
+          v-for="entry in groupedMenuEntries"
+          :key="entry.type === 'page'
+          ? entry.page.key
+          : entry.folder.section"
+        >
           <!-- Top-level page -->
           <div v-if="entry.type === 'page'" class="ribbon-menu-group">
             <button
               type="button"
               class="ribbon-menu-item"
-              :class="{ active: urlSearchMode
-                ? urlActivePageFilter === entry.page.key
-                : activePageFilter === entry.page.key }"
+              :class="{
+                active: urlSearchMode
+                  ? urlActivePageFilter === entry.page.key
+                  : activePageFilter === entry.page.key
+              }"
               @click="urlSearchMode
-                ? setUrlPageFilter(entry.page.key)
-                : setPageFilter(entry.page.key)"
+              ? setUrlPageFilter(entry.page.key)
+              : setPageFilter(entry.page.key)"
             >
-              <span :class="entry.page.iconClass" class="ribbon-menu-item-icon" />
+              <span
+                :class="entry.page.iconClass"
+                class="ribbon-menu-item-icon"
+              />
               <span class="ribbon-menu-item-label">{{ entry.page.label }}</span>
               <span class="ribbon-menu-item-count">{{ entry.page.count }}</span>
             </button>
@@ -493,8 +606,13 @@ function pageNav(delta: number) {
           <!-- Folder group -->
           <div v-else class="ribbon-menu-group">
             <h4 class="ribbon-menu-group-title">
-              <span :class="entry.folder.iconClass" class="ribbon-menu-group-icon" />
-              <span class="ribbon-menu-group-text">{{ entry.folder.section }}</span>
+              <span
+                :class="entry.folder.iconClass"
+                class="ribbon-menu-group-icon"
+              />
+              <span class="ribbon-menu-group-text">{{
+                entry.folder.section
+              }}</span>
             </h4>
             <div class="ribbon-menu-sub-items">
               <button
@@ -502,12 +620,14 @@ function pageNav(delta: number) {
                 :key="page.key"
                 type="button"
                 class="ribbon-menu-item"
-                :class="{ active: urlSearchMode
-                  ? urlActivePageFilter === page.key
-                  : activePageFilter === page.key }"
+                :class="{
+                  active: urlSearchMode
+                    ? urlActivePageFilter === page.key
+                    : activePageFilter === page.key
+                }"
                 @click="urlSearchMode
-                  ? setUrlPageFilter(page.key)
-                  : setPageFilter(page.key)"
+                ? setUrlPageFilter(page.key)
+                : setPageFilter(page.key)"
               >
                 <span class="ribbon-menu-item-label">{{ page.label }}</span>
                 <span class="ribbon-menu-item-count">{{ page.count }}</span>
@@ -516,6 +636,14 @@ function pageNav(delta: number) {
           </div>
         </template>
       </div>
+    </Transition>
+
+    <Transition name="ribbon-menu-fade">
+      <div
+        v-if="showListMenu && showListMenuFade && listMenuFadeReady"
+        class="page-ribbon-list-menu-fade"
+        :style="listMenuFadeStyle"
+      />
     </Transition>
   </component>
 
@@ -652,7 +780,7 @@ function pageNav(delta: number) {
 }
 
 .page-ribbon::after {
-  content: '';
+  content: "";
   position: absolute;
   right: 0;
   bottom: 0;
@@ -681,14 +809,22 @@ function pageNav(delta: number) {
   left: 0;
   justify-content: flex-start;
   padding-left: 6px;
-  background: linear-gradient(to right, var(--vp-local-search-bg) 60%, transparent);
+  background: linear-gradient(
+    to right,
+    var(--vp-local-search-bg) 60%,
+    transparent
+  );
 }
 
 .page-ribbon-arrow.right {
   right: 0;
   justify-content: flex-end;
   padding-right: 6px;
-  background: linear-gradient(to left, var(--vp-local-search-bg) 60%, transparent);
+  background: linear-gradient(
+    to left,
+    var(--vp-local-search-bg) 60%,
+    transparent
+  );
 }
 
 .page-ribbon-arrow:hover {
@@ -728,7 +864,7 @@ function pageNav(delta: number) {
 }
 
 .page-pill::after {
-  content: '';
+  content: "";
   position: absolute;
   z-index: 1;
   right: 8px;
@@ -842,9 +978,7 @@ function pageNav(delta: number) {
   opacity: 0.55;
   padding: 8px 4px;
   cursor: pointer;
-  transition:
-    opacity 0.25s,
-    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: opacity 0.25s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   border-radius: 0;
   line-height: 1;
 }
@@ -901,6 +1035,29 @@ html.effects-disabled .ribbon-menu-btn:active {
 
 .page-ribbon-list-menu::-webkit-scrollbar {
   display: none;
+}
+
+.page-ribbon-list-menu-fade {
+  position: absolute;
+  z-index: 51;
+  height: 56px;
+  pointer-events: none;
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    var(--vp-c-bg-elv)
+  );
+  border-radius: 0 0 12px 12px;
+}
+
+.ribbon-menu-fade-enter-active,
+.ribbon-menu-fade-leave-active {
+  transition: opacity 0.2s;
+}
+
+.ribbon-menu-fade-enter-from,
+.ribbon-menu-fade-leave-to {
+  opacity: 0;
 }
 
 .ribbon-menu-divider {

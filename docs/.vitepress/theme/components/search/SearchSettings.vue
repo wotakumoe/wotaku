@@ -35,17 +35,43 @@ const emit = defineEmits<{
 
 const settingsPopupRef = ref<HTMLDivElement>()
 const settingsBounding = useElementBounding(() => props.settingsButtonRef)
+const settingsPopupBounding = useElementBounding(settingsPopupRef)
+const showFade = ref(true)
 
-type HelpSection = 'search' | 'view' | 'ribbon' | 'preload' | 'highlight' | 'history'
+const settingsFadeStyle = computed(() => ({
+  top: `${settingsPopupBounding.bottom.value - 56}px`,
+  left: `${settingsPopupBounding.left.value}px`,
+  width: `${settingsPopupBounding.width.value}px`
+}))
+
+const settingsFadeReady = computed(() => settingsPopupBounding.width.value > 0)
+
+function onSettingsScroll() {
+  const el = settingsPopupRef.value
+  if (!el) return
+  const { scrollTop, scrollHeight, clientHeight } = el
+  showFade.value = scrollTop + clientHeight < scrollHeight - 4
+}
+
+type HelpSection =
+  | 'search'
+  | 'view'
+  | 'ribbon'
+  | 'preload'
+  | 'highlight'
+  | 'history'
 const activeHelpSection = ref<HelpSection | null>(null)
 const helpPopupEl = ref<HTMLDivElement>()
 const helpPopupPos = ref({ top: -9999, left: -9999 })
 
-watch(() => props.showSettingsPopup, (val) => {
+watch(() => props.showSettingsPopup, async (val) => {
   if (!val) {
     activeHelpSection.value = null
     helpPopupPos.value = { top: -9999, left: -9999 }
+    return
   }
+  await nextTick()
+  onSettingsScroll()
 })
 
 const canHoverHelp = () =>
@@ -65,13 +91,16 @@ function positionHelpPopup(btn: HTMLElement) {
       const aboveTop = rect.top - popupH - margin
       const belowTop = rect.bottom + margin
       const top = aboveTop >= margin ? aboveTop : belowTop
-      const left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
+      const left = Math.max(
+        margin,
+        Math.min((vw - popupW) / 2, vw - popupW - margin)
+      )
       helpPopupPos.value = { top, left }
     } else {
       const anchorLeft = menuRect ? menuRect.left : rect.left
       helpPopupPos.value = {
         left: Math.max(margin, anchorLeft - popupW - 16),
-        top: rect.top,
+        top: rect.top
       }
     }
   })
@@ -109,7 +138,7 @@ function onHelpLeave() {
 
 const settingsPopupStyle = computed(() => ({
   top: `${settingsBounding.bottom.value + 8}px`,
-  right: `calc(100vw - ${settingsBounding.right.value}px)`,
+  right: `calc(100vw - ${settingsBounding.right.value}px)`
 }))
 
 const settingsBtnEl = computed(() => props.settingsButtonRef)
@@ -129,6 +158,7 @@ function setSearchMode(mode: string) {
       ref="settingsPopupRef"
       class="search-settings-popup"
       :style="settingsPopupStyle"
+      @scroll.passive="onSettingsScroll"
       @click="closeHelpSection"
     >
       <!-- Search Mode -->
@@ -415,6 +445,14 @@ function setSearchMode(mode: string) {
     </div>
   </Transition>
 
+  <Transition name="settings-fade">
+    <div
+      v-if="showSettingsPopup && showFade && settingsFadeReady"
+      class="search-settings-fade-overlay"
+      :style="settingsFadeStyle"
+    />
+  </Transition>
+
   <!-- Help popups -->
   <Transition name="help-popup-fade">
     <div
@@ -452,8 +490,10 @@ function setSearchMode(mode: string) {
         <p class="sh-desc">Controls how search results are displayed.</p>
         <div class="sh-options">
           <div class="sh-option">
-            <strong><TextAlignStart :size="14" stroke-width="1.5" /> Detail</strong>
-            <span>Shows a content excerpt below each result. Uses more memory.</span>
+            <strong><TextAlignStart :size="14" stroke-width="1.5" />
+              Detail</strong>
+            <span>Shows a content excerpt below each result. Uses more
+              memory.</span>
           </div>
           <div class="sh-option">
             <strong><List :size="14" stroke-width="1.5" /> List</strong>
@@ -466,7 +506,10 @@ function setSearchMode(mode: string) {
           <Layers :size="16" stroke-width="1.75" class="sh-title-icon" />
           Excerpt Preload
         </h4>
-        <p class="sh-desc">Renders excerpts for upcoming result pages ahead of time in Detail view.</p>
+        <p class="sh-desc">
+          Renders excerpts for upcoming result pages ahead of time in Detail
+          view.
+        </p>
         <div class="sh-options">
           <div class="sh-option">
             <strong>All</strong>
@@ -474,7 +517,8 @@ function setSearchMode(mode: string) {
           </div>
           <div class="sh-option">
             <strong>Next</strong>
-            <span>Also prepares the next page so flipping forward is instant</span>
+            <span>Also prepares the next page so flipping forward is
+              instant</span>
           </div>
           <div class="sh-option">
             <strong>Off</strong>
@@ -521,7 +565,9 @@ function setSearchMode(mode: string) {
           <Clock :size="16" stroke-width="1.75" class="sh-title-icon" />
           Search History
         </h4>
-        <p class="sh-desc">Saves recent searches and shows them when the search bar is empty.</p>
+        <p class="sh-desc">
+          Saves recent searches and shows them when the search bar is empty.
+        </p>
       </template>
     </div>
   </Transition>
@@ -543,6 +589,16 @@ function setSearchMode(mode: string) {
   display: flex;
   flex-direction: column;
   min-width: 196px;
+  max-height: min(320px, 60vh);
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.search-settings-popup::-webkit-scrollbar {
+  display: none;
 }
 
 .dark .search-settings-popup {
@@ -660,6 +716,29 @@ function setSearchMode(mode: string) {
 .settings-popup-leave-to {
   opacity: 0;
   transform: scale(0.92) translateY(-4px);
+}
+
+.search-settings-fade-overlay {
+  position: fixed;
+  z-index: 200;
+  height: 56px;
+  pointer-events: none;
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    var(--vp-c-bg-elv)
+  );
+  border-radius: 0 0 12px 12px;
+}
+
+.settings-fade-enter-active,
+.settings-fade-leave-active {
+  transition: opacity 0.2s;
+}
+
+.settings-fade-enter-from,
+.settings-fade-leave-to {
+  opacity: 0;
 }
 
 .search-help-popup {

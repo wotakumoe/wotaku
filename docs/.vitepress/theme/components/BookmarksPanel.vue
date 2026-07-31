@@ -79,7 +79,9 @@ function flattenSidebarPaths(items: DefaultTheme.SidebarItem[]): string[] {
   return paths
 }
 
-const sidebarPathOrder = flattenSidebarPaths(Array.isArray(sidebar) ? sidebar : Object.values(sidebar).flat())
+const sidebarPathOrder = flattenSidebarPaths(
+  Array.isArray(sidebar) ? sidebar : Object.values(sidebar).flat()
+)
 
 function sidebarIndex(path: string): number {
   const exact = sidebarPathOrder.indexOf(path)
@@ -99,7 +101,10 @@ function getPageCard(path: string): HomeCard | null {
   let best: HomeCard | null = null
   let bestLen = 0
   for (const card of homeCards) {
-    if ((path === card.link || path.startsWith(card.link + '/')) && card.link.length > bestLen) {
+    if (
+      (path === card.link || path.startsWith(card.link + '/')) &&
+      card.link.length > bestLen
+    ) {
       best = card
       bestLen = card.link.length
     }
@@ -108,8 +113,18 @@ function getPageCard(path: string): HomeCard | null {
 }
 
 type PageGroup = { path: string; card: HomeCard | null; items: BookmarkItem[] }
-type TopLevelEntry = { type: 'page'; path: string; card: HomeCard | null; items: BookmarkItem[] }
-type FolderEntry = { type: 'folder'; section: string; parentCard: HomeCard | null; pages: PageGroup[] }
+type TopLevelEntry = {
+  type: 'page'
+  path: string
+  card: HomeCard | null
+  items: BookmarkItem[]
+}
+type FolderEntry = {
+  type: 'folder'
+  section: string
+  parentCard: HomeCard | null
+  pages: PageGroup[]
+}
 type GroupEntry = TopLevelEntry | FolderEntry
 
 const grouped = computed((): GroupEntry[] => {
@@ -140,13 +155,27 @@ const grouped = computed((): GroupEntry[] => {
   // Build folder entries, sorted by parent card's sidebar position
   const folderEntries: FolderEntry[] = [...folderMap.entries()]
     .map(([section, paths]) => {
-      const parentCard = homeCards.find(c => c.title === section && !c.section) ?? null
+      const parentCard = homeCards.find(c =>
+        c.title === section && !c.section
+      ) ?? null
       const sortedPages = [...paths]
         .sort((a, b) => sidebarIndex(a) - sidebarIndex(b))
-        .map(path => ({ path, card: getPageCard(path), items: byPath.get(path)! }))
-      return { type: 'folder' as const, section, parentCard, pages: sortedPages }
+        .map(path => ({
+          path,
+          card: getPageCard(path),
+          items: byPath.get(path)!
+        }))
+      return {
+        type: 'folder' as const,
+        section,
+        parentCard,
+        pages: sortedPages
+      }
     })
-    .sort((a, b) => sidebarIndex(a.parentCard?.link ?? '') - sidebarIndex(b.parentCard?.link ?? ''))
+    .sort((a, b) =>
+      sidebarIndex(a.parentCard?.link ?? '') -
+      sidebarIndex(b.parentCard?.link ?? '')
+    )
 
   // Merge top-level and folder entries in sidebar order
   const topEntries: TopLevelEntry[] = topPages.map(path => ({
@@ -157,8 +186,12 @@ const grouped = computed((): GroupEntry[] => {
   }))
 
   return [...topEntries, ...folderEntries].sort((a, b) => {
-    const ai = a.type === 'page' ? sidebarIndex(a.path) : sidebarIndex(a.parentCard?.link ?? '')
-    const bi = b.type === 'page' ? sidebarIndex(b.path) : sidebarIndex(b.parentCard?.link ?? '')
+    const ai = a.type === 'page'
+      ? sidebarIndex(a.path)
+      : sidebarIndex(a.parentCard?.link ?? '')
+    const bi = b.type === 'page'
+      ? sidebarIndex(b.path)
+      : sidebarIndex(b.parentCard?.link ?? '')
     return ai - bi
   })
 })
@@ -178,9 +211,21 @@ const grouped = computed((): GroupEntry[] => {
     </button>
 
     <Transition name="bookmarks-panel">
-      <div v-if="isOpen" ref="panelRef" class="bookmarks-panel" :style="panelStyle" role="dialog" aria-label="Bookmarks">
+      <div
+        v-if="isOpen"
+        ref="panelRef"
+        class="bookmarks-panel"
+        :style="panelStyle"
+        role="dialog"
+        aria-label="Bookmarks"
+      >
         <div class="bookmarks-mobile-header">
-          <button type="button" class="bookmarks-mobile-back" aria-label="Back" @click="isOpen = false">
+          <button
+            type="button"
+            class="bookmarks-mobile-back"
+            aria-label="Back"
+            @click="isOpen = false"
+          >
             <ArrowLeft :size="18" :stroke-width="2" />
           </button>
           <span class="bookmarks-mobile-title">Bookmarks</span>
@@ -192,27 +237,81 @@ const grouped = computed((): GroupEntry[] => {
         >
           <div v-if="bookmarks.length === 0" class="bookmarks-empty">
             <span class="bookmarks-empty-kaomoji">(˶ᵔ ᵕ ᵔ˶)</span>
-            <p class="bookmarks-empty-hint bookmarks-empty-hint--desktop">Tip: Hover over any primary heading under <strong>On this page</strong> and click <Bookmark :size="13" :stroke-width="2" class="bookmarks-empty-inline-icon" /> to bookmark it.</p>
-            <p class="bookmarks-empty-hint bookmarks-empty-hint--mobile">Tip: Tap <strong>On this page</strong> and press <Bookmark :size="13" :stroke-width="2" class="bookmarks-empty-inline-icon" /> next to any primary heading to bookmark it.</p>
+            <p class="bookmarks-empty-hint bookmarks-empty-hint--desktop">
+              Tip: Hover over any primary heading under <strong>On this
+                page</strong> and click <Bookmark
+                :size="13"
+                :stroke-width="2"
+                class="bookmarks-empty-inline-icon"
+              /> to bookmark it.
+            </p>
+            <p class="bookmarks-empty-hint bookmarks-empty-hint--mobile">
+              Tip: Tap <strong>On this page</strong> and press <Bookmark
+                :size="13"
+                :stroke-width="2"
+                class="bookmarks-empty-inline-icon"
+              /> next to any primary heading to bookmark it.
+            </p>
           </div>
           <div v-else class="bookmarks-groups">
-            <template v-for="group in grouped" :key="group.type === 'page' ? group.path : group.section">
-
+            <template
+              v-for="group in grouped"
+              :key="group.type === 'page' ? group.path : group.section"
+            >
               <!-- Top-level page (no folder) -->
               <div v-if="group.type === 'page'" class="bookmarks-group">
                 <h3 class="bookmarks-group-title">
-                  <span v-if="group.card" :class="cardIconToClass(group.card.icon)" class="bookmarks-group-icon" />
-                  <span v-else class="i-lucide:file-text bookmarks-group-icon" />
-                  <span class="bookmarks-group-text">{{ group.card?.title ?? group.path }}</span>
+                  <span
+                    v-if="group.card"
+                    :class="cardIconToClass(group.card.icon)"
+                    class="bookmarks-group-icon"
+                  />
+                  <span
+                    v-else
+                    class="i-lucide:file-text bookmarks-group-icon"
+                  />
+                  <span class="bookmarks-group-text">{{
+                    group.card?.title ?? group.path
+                  }}</span>
                 </h3>
                 <ul class="bookmarks-list">
-                  <li v-for="bm in group.items" :key="bm.anchor" class="bookmarks-item">
-                    <a class="bookmarks-item-link" :href="bm.path + '#' + bm.anchor" @click="isOpen = false">
-                      <Hash :size="12" :stroke-width="2" class="bookmarks-item-icon" />
+                  <li
+                    v-for="bm in group.items"
+                    :key="bm.anchor"
+                    class="bookmarks-item"
+                  >
+                    <a
+                      class="bookmarks-item-link"
+                      :href="bm.path + '#' + bm.anchor"
+                      @click="isOpen = false"
+                    >
+                      <Hash
+                        :size="12"
+                        :stroke-width="2"
+                        class="bookmarks-item-icon"
+                      />
                       {{ bm.title }}
                     </a>
-                    <button type="button" class="bookmarks-item-remove" :aria-label="`Remove bookmark for ${bm.title}`" @click.stop="remove(bm.anchor, bm.path)">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+                    <button
+                      type="button"
+                      class="bookmarks-item-remove"
+                      :aria-label="`Remove bookmark for ${bm.title}`"
+                      @click.stop="remove(bm.anchor, bm.path)"
+                    >
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="11"
+                        height="11"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <path d="M18 6 6 18" />
+                        <path d="m6 6 12 12" />
+                      </svg>
                     </button>
                   </li>
                 </ul>
@@ -221,31 +320,73 @@ const grouped = computed((): GroupEntry[] => {
               <!-- Folder group (e.g. Guides, Glossary) -->
               <div v-else class="bookmarks-group">
                 <h3 class="bookmarks-group-title">
-                  <span v-if="group.parentCard" :class="cardIconToClass(group.parentCard.icon)" class="bookmarks-group-icon" />
+                  <span
+                    v-if="group.parentCard"
+                    :class="cardIconToClass(group.parentCard.icon)"
+                    class="bookmarks-group-icon"
+                  />
                   <span v-else class="i-lucide:folder bookmarks-group-icon" />
                   <span class="bookmarks-group-text">{{ group.section }}</span>
                 </h3>
-                <div v-for="page in group.pages" :key="page.path" class="bookmarks-sub-group">
-                  <h4 class="bookmarks-sub-title">{{ page.card?.title ?? page.path }}</h4>
+                <div
+                  v-for="page in group.pages"
+                  :key="page.path"
+                  class="bookmarks-sub-group"
+                >
+                  <h4 class="bookmarks-sub-title">
+                    {{ page.card?.title ?? page.path }}
+                  </h4>
                   <ul class="bookmarks-list">
-                    <li v-for="bm in page.items" :key="bm.anchor" class="bookmarks-item">
-                      <a class="bookmarks-item-link" :href="bm.path + '#' + bm.anchor" @click="isOpen = false">
-                        <Hash :size="12" :stroke-width="2" class="bookmarks-item-icon" />
+                    <li
+                      v-for="bm in page.items"
+                      :key="bm.anchor"
+                      class="bookmarks-item"
+                    >
+                      <a
+                        class="bookmarks-item-link"
+                        :href="bm.path + '#' + bm.anchor"
+                        @click="isOpen = false"
+                      >
+                        <Hash
+                          :size="12"
+                          :stroke-width="2"
+                          class="bookmarks-item-icon"
+                        />
                         {{ bm.title }}
                       </a>
-                      <button type="button" class="bookmarks-item-remove" :aria-label="`Remove bookmark for ${bm.title}`" @click.stop="remove(bm.anchor, bm.path)">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+                      <button
+                        type="button"
+                        class="bookmarks-item-remove"
+                        :aria-label="`Remove bookmark for ${bm.title}`"
+                        @click.stop="remove(bm.anchor, bm.path)"
+                      >
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="11"
+                          height="11"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-width="2.5"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        >
+                          <path d="M18 6 6 18" />
+                          <path d="m6 6 12 12" />
+                        </svg>
                       </button>
                     </li>
                   </ul>
                 </div>
               </div>
-
             </template>
           </div>
         </div>
         <Transition name="bookmarks-fade">
-          <div v-if="showFade && bookmarks.length > 0" class="bookmarks-fade-overlay" />
+          <div
+            v-if="showFade && bookmarks.length > 0"
+            class="bookmarks-fade-overlay"
+          />
         </Transition>
       </div>
     </Transition>
@@ -270,13 +411,15 @@ const grouped = computed((): GroupEntry[] => {
   height: 100%;
   color: var(--vp-c-text-1);
   opacity: 0.55;
-  transition:
-    opacity 0.25s,
-    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: opacity 0.25s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.bookmarks-btn:hover { opacity: 1; }
-.bookmarks-btn:active { transform: scale(0.94); }
+.bookmarks-btn:hover {
+  opacity: 1;
+}
+.bookmarks-btn:active {
+  transform: scale(0.94);
+}
 
 .bookmarks-panel {
   position: absolute;
@@ -481,7 +624,8 @@ const grouped = computed((): GroupEntry[] => {
 .bookmarks-panel-enter-from,
 .bookmarks-panel-leave-to {
   opacity: 0;
-  transform: translateX(var(--bookmarks-panel-shift, -50%)) scale(0.95) translateY(-4px);
+  transform: translateX(var(--bookmarks-panel-shift, -50%)) scale(0.95)
+    translateY(-4px);
 }
 
 .bookmarks-fade-enter-active,
