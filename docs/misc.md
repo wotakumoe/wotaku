@@ -32,7 +32,7 @@ outline: 2
 - [Goodreads](https://www.goodreads.com/)
 - [Hanmoto](https://www.hanmoto.com/) :s::ljp:
 - [Hardcover](https://hardcover.app/)
-- [NamuWiki](https://namu.wiki/) :lkr:
+- [NamuWiki](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8) :lkr:
 - [Wikipedia](https://www.wikipedia.org/) :s:
 
 </collapsible>
