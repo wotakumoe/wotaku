@@ -15,7 +15,7 @@ const open = ref(false)
     <summary>
       <span v-if="open" class="i-iconoir-nav-arrow-down collapsible-icon" />
       <span v-else class="i-iconoir-nav-arrow-right collapsible-icon" />
-      {{ title || 'Details' }}
+      <span class="collapsible-title">{{ title || 'Details' }}</span>
     </summary>
     <slot />
   </details>
@@ -38,6 +38,11 @@ summary::-webkit-details-marker {
   width: 1em;
   height: 1em;
   flex-shrink: 0;
+}
+
+/* keeps the header element in one line in excerpts */
+.collapsible-title {
+  min-width: 0;
 }
 
 .details {
