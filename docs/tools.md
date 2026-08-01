@@ -402,7 +402,6 @@ og:
 - [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
 - [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat)
 - [Fandom Fixed](https://github.com/squabbled/FandomFixed)
-- [GoComics DePaywall](https://github.com/Idiot-01/Gocomics-Depaywall)
 - [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode)
 
 :::
