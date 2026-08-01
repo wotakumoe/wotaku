@@ -167,21 +167,20 @@ Some of the contents may not be available depending on your region.
 | [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 18k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 32k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 20k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 38k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
 <collapsible title="More">
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [OniSaga](https://onisaga.com/home) | 76k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
+| [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
-| [Mangahub](https://mangahub.io/) | 77k | :msync: | :ss: | :ls: | :cmnt: |
+| [Mangahub](https://mangahub.io/) | 78k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [MangaK](https://mangak.io/home) | 24k | :no: | :ss: | :sp::ls: | :cmnt: |
-| [MangaTaro](https://mangataro.org/home) | 10k | :ie::msync: | :ps::up: | :sp::dp::ls: | :cmnt: |
+| [MangaK](https://mangak.io/home) | 26k | :no: | :ss: | :sp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/)  ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
-| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 80k | :no: | :ss: | :ls: | :cmnt: |
+| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 84k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
 
 </collapsible>
