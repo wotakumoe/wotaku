@@ -474,7 +474,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Comics Kingdom](https://comicskingdom.com/)
 - [DC Universe Infinite](https://www.dcuniverseinfinite.com/) <tooltip>Available in the United States, the United Kingdom, Canada, Australia and New Zealand.</tooltip>
 - [GlobalComix](https://globalcomix.com/)
-- [GoComics](https://www.gocomics.com/) [:js:](https://github.com/Idiot-01/Gocomics-Depaywall)
+- [GoComics](https://www.gocomics.com/)
 - [Marvel Unlimited](https://www.marvel.com/unlimited)
 
 :::
