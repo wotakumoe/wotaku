@@ -316,7 +316,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Cineby](https://www.cineby.at/)
-- :rd: [Japanese learning focused](/japan/immersion#watching)
+- :rd: [JP learning focused](/japan/immersion#watching)
 
 == Download
 
@@ -324,7 +324,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | :--- | :--- |
 | **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
 | ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/GYahYNWutE) |
-| ^^ | [EXT Torrents](https://ext.to/) |
+| ^^ | [EXT Torrents](https://ext.to/) [:alt:](https://search.extto.com/) |
 | **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
 | ^^ | [Dramaday](https://dramaday.me/) :ckr: |
 | ^^ | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
