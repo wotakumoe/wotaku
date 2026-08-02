@@ -107,7 +107,7 @@ outline: 2
 == Legal
 
 ::: warning Content availability
-Some of the contents may not be available depending on your region.
+Some content may not be available depending on your region.
 :::
 
 | Category | Websites |
@@ -164,7 +164,7 @@ Some of the contents may not be available depending on your region.
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.to/)  ==Kagane== | 39k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 20k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
@@ -353,12 +353,17 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 == Legal
 
+::: warning Content availability
+Some content may not be available depending on your region.
+:::
+
 - [Bilibili](https://www.bilibili.tv/en/anime)
 - [Disney+](https://www.disneyplus.com/)
 - [HBO Max](https://www.hbomax.com/)
 - [Netflix](https://www.netflix.com/)
 - [Pluto TV](https://pluto.tv/)
 - [Prime Video](https://www.primevideo.com/)
+- [Shout! TV](https://watch.shout-tv.com/home)
 - [Tubi](https://tubitv.com/)
 - [Viki](https://www.viki.com/)
 
@@ -382,9 +387,6 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
-- [Power Rangers Official](https://www.youtube.com/@PowerRangersOfficial) :yt:
-- [ULTRAMAN Official](https://www.youtube.com/@ULTRAMAN_OFFICIAL) :yt:
-- [ULTRAMAN Official EN](https://www.youtube.com/@ultraman_english_official) :yt:
 
 == Download
 
@@ -417,6 +419,24 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Morphin' Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
+
+== Legal
+
+::: warning Content availability
+Some content may not be available depending on your region.
+:::
+
+| Category | Websites |
+| :--- | :--- |
+| **OTT** | [Toei Tokusatsu Fan Club](https://tokusatsu-fc.jp/) :ljp: |
+| ^^ | :rd: [General OTT](#tab-legal-3) |
+| **YouTube** :yt: | [Kamen Rider](https://www.youtube.com/@KAMENRIDER_Official_Toei) :ljp: |
+| ^^ | [Power Rangers](https://www.youtube.com/@PowerRangersOfficial) |
+| ^^ | [Toei Tokusatsu World](https://www.youtube.com/@toeitokusatsuworldofficial2399) <tooltip>Limited run until April 2027.</tooltip> |
+| ^^ | [Toei Tokusatsu YouTube](https://www.youtube.com/@TTYO) :ljp: |
+| ^^ | [TokuSHOUTsu](https://www.youtube.com/@TokuSHOUTsu) |
+| ^^ | [Ultraman](https://www.youtube.com/@ULTRAMAN_OFFICIAL) |
+| ^^ | [Ultraman EN](https://www.youtube.com/@ultraman_english_official) |
 
 :::
 

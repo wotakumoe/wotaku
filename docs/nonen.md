@@ -35,7 +35,7 @@ og:
 ### Manga
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/)  ==Kagane== | 37k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.to/)  ==Kagane== | 39k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 38k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
@@ -528,7 +528,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Yuri on Air](https://yurionair.top/) :ljp::lkr::lcn::ero: |
 | **Tokusatsu** | [DGB Catálogo](https://dgbfansub.carrd.co/) |
 | ^^ | [Senpuu Tokusatsu](https://senpuu.com.br/) |
-| ^^ | [TokuSato](https://www.youtube.com/@TokuSatoOficial) |
+| ^^ | [TokuSato Oficial](https://www.youtube.com/@TokuSatoOficial) :yt: |
 | ^^ | [:tg: TOKUSHARE](https://t.me/s/tokushareoficial) |
 
 ### Software
