@@ -429,7 +429,7 @@ Some content may not be available depending on your region.
 | :--- | :--- |
 | **OTT** | [Toei Tokusatsu Fan Club](https://tokusatsu-fc.jp/) :ljp: |
 | ^^ | :rd: [General OTT](#tab-legal-3) |
-| **YouTube** :yt: | [Kamen Rider](https://www.youtube.com/@KAMENRIDER_Official_Toei) :ljp: |
+| **YouTube** | [Kamen Rider](https://www.youtube.com/@KAMENRIDER_Official_Toei) :ljp: |
 | ^^ | [Power Rangers](https://www.youtube.com/@PowerRangersOfficial) |
 | ^^ | [Toei Tokusatsu World](https://www.youtube.com/@toeitokusatsuworldofficial2399) <tooltip>Limited run until April 2027.</tooltip> |
 | ^^ | [Toei Tokusatsu YouTube](https://www.youtube.com/@TTYO) :ljp: |
