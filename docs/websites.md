@@ -368,7 +368,6 @@ Some content may not be available depending on your region.
 
 <collapsible title="Utility sites">
 
-- [FlixHop](https://flixhop.com/)
 - [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
 - [uNoGS](https://unogs.com/)
 

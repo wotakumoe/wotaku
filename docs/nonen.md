@@ -88,6 +88,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AnimeOverdose](https://www.anime-overdose.com/) |
 | ^^ | [Anime Srbija](https://www.animesrbija.com/) |
 | ^^ | [AniPiece](https://anipiece.net/) |
+| ^^ | [BalkanFlix](https://www.balkanflix.com/) |
 | ^^ | [Ranime](https://ranime.net/) |
 | **Cartoon** | [Gledaj Crtaće](https://www.gledajcrtace.rs/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |

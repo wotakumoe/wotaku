@@ -121,6 +121,7 @@ outline: 2
 
 | Category | Websites |
 | --- | --- |
+| **General** | [Anisil](https://www.anisil.com/) :ljp: |
 | **Animation** | [Anime Production Company Database](https://animeco.link/) :ljp: |
 | ^^ | [Anime Staff Matcher](https://staff.iklone.org/) :mal: [:src:](https://github.com/iklone/anime-staff-matcher) |
 | ^^ | [KeyFrame Staff List](https://keyframe-staff-list.com/) :s: |
