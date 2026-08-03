@@ -448,7 +448,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 | :--- | :--- | :--- |
 | **Clients** | [Anychans](https://anychans.github.io/4chan/) [:src:](https://github.com/catamphetamine/anychan) | :web: |
 | ^^ | [DashchanFork](https://github.com/TrixiEther/DashchanFork) | :and: |
-| ^^ | [Read Chan](https://play.google.com/store/apps/details?id=com.deezus.pchan) :cs: | :and: |
+| ^^ | [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental) | :and: |
 | ^^ | [TUI-Chan](https://github.com/tuqqu/tui-chan) | :win: |
 | **Extension** / Script | [4chan X](https://github.com/ccd0/4chan-x) | :cr::js: |
 | ^^ | [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) | :js: |
