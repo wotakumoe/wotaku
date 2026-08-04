@@ -57,7 +57,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Animerco](https://eta.animerco.org/) |
 | ^^ | [Animezid](https://animezid.cam/) |
 | ^^ | [Arabic Toons](https://www.arabic-toons.com/) |
-| ^^ | [Kawaii Anime](https://kawaii-anime.com/) |
+| ^^ | [Kawaii Anime](https://kawaiianime.cc/) |
 | ^^ | [Okanime](https://okanime.tv/) |
 | ^^ | [Risto Anime](https://ristoanime.me/) |
 | ^^ | [WitAnime](https://witanime.you/) |
@@ -467,15 +467,15 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [FreeToon](https://foc118.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
+| ^^ | [FreeToon](https://foc119.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon5.com/) |
 | ^^ | [Funbe](https://funbe662.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [HappyToon](https://happytoon02.com/) |
 | ^^ | [Mana Gallery](https://managall1.com/) [:prx:](https://linktr.ee/managall) |
 | ^^ | [MoneyToon](https://mtoon146.asia/) |
-| ^^ | [NameeToon](https://namee106.asia/) |
+| ^^ | [NameeToon](https://namee107.asia/) |
 | ^^ | [TOONKOR](https://tkor140.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf431.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf](https://wfwf433.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon222.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
