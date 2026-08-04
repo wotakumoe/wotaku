@@ -102,16 +102,13 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 == Downloaders
 
-| Website | Service |
-|-|-|
-| [Antra](https://antra.hoshi.cfd/) :acc: [:src:](https://github.com/anandprtp/Antra) | **Multiple** |
-| [DoubleDouble](https://doubledouble.top/) | ^^ |
-| [Lucida](https://lucida.to/) | ^^ |
-| [Squid.wtf](https://squid.wtf/) | ^^ |
-| [Monochrome](https://monochrome.tf/) [:prx:](https://i.wotaku.wiki/p/proxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome) | **Amazon** |
-| [T2Tunes](https://t2tunes.site/) | ^^ |
-| [am-dl](https://am-dl.pages.dev/) | **Apple** |
-| [Arcod](https://www.arcod.xyz/) :acc: | **Qobuz** |
+- [Antra](https://antra.hoshi.cfd/) :acc: [:src:](https://github.com/anandprtp/Antra)
+- [Arcod](https://www.arcod.xyz/) :acc: ||Qobuz||
+- [DoubleDouble](https://doubledouble.top/)
+- [Lucida](https://lucida.to/)
+- [Monochrome](https://monochrome.tf/) [:prx:](https://i.wotaku.wiki/p/proxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome)
+- [Squid.wtf](https://squid.wtf/)
+- [T2Tunes](https://t2tunes.site/) ||Amazon||
 
 == Doujin
 
@@ -160,6 +157,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | City Pop |
 
 == Aggregators
+
 - [FMSTREAM](https://fmstream.org/)
 - [Globe Radio](https://globeradio.app/)
 - [Japanese Radio](https://radio.nogi46.me/)
@@ -168,6 +166,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Sasalele Music Station](https://basic.pp.ua/) [:src:](https://github.com/Mikeexe2/Sasalele-Music-Station)
 
 == Anime
+
 | Website | Quality | Language |
 |---------|---------|----------|
 | [Anime(bits)](https://radio.animebits.moe/) | [FLAC](https://radio.animebits.moe/m3u/stream192.mp3.m3u) | :len: |

@@ -130,6 +130,7 @@ Some content may not be available depending on your region.
 | ^^ | [BEYBLADE English](https://www.youtube.com/beybladeofficial) |
 | ^^ | [BEYBLADE Official](https://www.youtube.com/@beyblade-official) |
 | ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
+| ^^ | [Chibi Maruko Channel](https://www.youtube.com/@chibimarukochannelofficial) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
 | ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
 
