@@ -291,7 +291,6 @@ outline: 2
 | **Manga & Novels** | [Billboard JAPAN](https://www.billboard-japan.com/charts/book/) |
 | ^^ |[CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
 | ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
-| ^^ | [JMPA](https://www.j-magazine.or.jp/) :ljp: |
 | ^^ | [Mandy](https://note.com/daisakku) :ljp: [:x:](https://x.com/daisakku) |
 | ^^ | [Manga Industry News Roundup](https://note.com/lovebeer73/m/mfa620c29e68a) :ljp: |
 | **:prev: Shueisha** | [Jajanken - Weekly Shonen Jump Lab](https://www.jajanken.net/en/) |
