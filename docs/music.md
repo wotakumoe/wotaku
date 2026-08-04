@@ -106,7 +106,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [Arcod](https://www.arcod.xyz/) :acc: ||Qobuz||
 - [DoubleDouble](https://doubledouble.top/)
 - [Lucida](https://lucida.to/)
-- [Monochrome](https://monochrome.tf/) [:prx:](https://i.wotaku.wiki/p/proxy#monochrome) [:src:](https://github.com/monochrome-music/monochrome)
+- [Monochrome](https://monochrome.tf/) [:prx:](https://github.com/monochrome-music/monochrome/blob/main/INSTANCES.md#official-instance) [:src:](https://github.com/monochrome-music/monochrome)
 - [Squid.wtf](https://squid.wtf/)
 - [T2Tunes](https://t2tunes.site/) ||Amazon||
 
