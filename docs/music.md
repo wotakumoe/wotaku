@@ -103,12 +103,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 == Downloaders
 
 - [Antra](https://antra.hoshi.cfd/) :acc: [:src:](https://github.com/anandprtp/Antra)
-- [Arcod](https://www.arcod.xyz/) :acc: ||Qobuz||
+- [Arcod](https://www.arcod.xyz/) :acc:
 - [DoubleDouble](https://doubledouble.top/)
 - [Lucida](https://lucida.to/)
 - [Monochrome](https://monochrome.tf/) [:prx:](https://github.com/monochrome-music/monochrome/blob/main/INSTANCES.md#official-instance) [:src:](https://github.com/monochrome-music/monochrome)
 - [Squid.wtf](https://squid.wtf/)
-- [T2Tunes](https://t2tunes.site/) ||Amazon||
 
 == Doujin
 
