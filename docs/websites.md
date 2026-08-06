@@ -221,7 +221,6 @@ Some of the series/services may not be available depending on your region.
 | ^^ | [INKR](https://comics.inkr.com/) | :free::coin: |
 | ^^ | [KManga](https://kmanga.kodansha.com/) | :free::coin::sub: |
 | ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) | :free::sub: |
-| ^^ | :prev: [Manga Million](https://mangamillion.shueisha.co.jp/en) | :free: |
 | ^^ | [Manga UP!](https://global.manga-up.com/) | :free::coin::sub: |
 | ^^ | [Mangamo](https://www.mangamo.com/) | :free::coin::sub: |
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) | :free::sub: |
