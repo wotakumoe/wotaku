@@ -127,10 +127,11 @@ Some content may not be available depending on your region.
 | ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
 | **Series** :yt: | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
 | ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) ||Inazuma Eleven|| |
-| ^^ | [BEYBLADE English](https://www.youtube.com/beybladeofficial) |
-| ^^ | [BEYBLADE Official](https://www.youtube.com/@beyblade-official) |
-| ^^ | [CARDFIGHT Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
+| ^^ | [Beyblade English](https://www.youtube.com/beybladeofficial) |
+| ^^ | [Beyblade Official](https://www.youtube.com/@beyblade-official) |
+| ^^ | [Cardfight Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
 | ^^ | [Chibi Maruko Channel](https://www.youtube.com/@chibimarukochannelofficial) |
+| ^^ | [Gundam Channel INTL](https://www.youtube.com/@GundamInfo) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
 | ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
 
