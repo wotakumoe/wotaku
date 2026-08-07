@@ -462,7 +462,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Extension | Platform |
 | :--- | :--- |
 | [AHA Music](https://aha-music.com/) :cs: | :cr: |
-| [Better Lyrics](https://better-lyrics.boidu.dev/) [:src:](https://github.com/better-lyrics/better-lyrics) | :cr::ff: |
+| [Better Lyrics](https://betterlyrics.org/) [:src:](https://github.com/better-lyrics/better-lyrics) | :cr::ff: |
 | [Even Better RateYourMusic](https://github.com/kknq/even-better-rym) | :cr::ff: |
 | [Spotify Lyrics](https://github.com/mantou132/Spotify-Lyrics) | :cr::ff: |
 | [Spotify New Releases](https://spotify-new-releases.web.app/) :cs: | :cr: |
