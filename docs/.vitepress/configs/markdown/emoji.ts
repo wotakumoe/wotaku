@@ -5,52 +5,74 @@
  *
  *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
  */
-import type { IconifyJSON } from '@iconify-json/octicon'
 import type { MarkdownRenderer } from 'vitepress'
 import { iconTooltips } from './tooltip.ts'
 
-// Icons that need to be used should be imported here
-import { icons as akar } from '@iconify-json/akar-icons'
-import { icons as bi } from '@iconify-json/bi'
-import { icons as ic } from '@iconify-json/ic'
-import { icons as iconoir } from '@iconify-json/iconoir'
-import { icons as logos } from '@iconify-json/logos'
-import { icons as lucide } from '@iconify-json/lucide'
-import { icons as map } from '@iconify-json/map'
-import { icons as materials } from '@iconify-json/material-symbols'
-import { icons as mdi } from '@iconify-json/mdi'
-import { icons as mingcute } from '@iconify-json/mingcute'
-import { icons as octicon } from '@iconify-json/octicon'
-import { icons as simple } from '@iconify-json/simple-icons'
-import { icons as sl } from '@iconify-json/streamline-logos'
-import { icons as ss } from '@iconify-json/streamline-sharp'
-import { icons as su } from '@iconify-json/streamline-ultimate'
-import { icons as twemoji } from '@iconify-json/twemoji'
-import { icons as uil } from '@iconify-json/uil'
+const iconPrefixes = [
+  'octicon-',
+  'logos-',
+  'ic-',
+  'mingcute-',
+  'mdi-',
+  'material-symbols-',
+  'simple-icons-',
+  'lucide-',
+  'uil-',
+  'akar-icons-',
+  'map-',
+  'bi-',
+  'streamline-logos-',
+  'streamline-ultimate-',
+  'streamline-sharp-',
+  'iconoir-'
+]
 
-// 1. Install emoji pack with `pnpm add -D @iconify-json/<icon>`
-// 2. Import them like I did above
-// 3. Add it to this emojis array, like I did for octicon, and add a prefix
-const emojis: { pack: IconifyJSON; prefix?: string }[] = [
-  // Default emojis (twemoji)
-  { pack: twemoji },
-  // octicon emojis, prefixed with "octicon-"
-  { pack: octicon, prefix: 'octicon-' },
-  { pack: logos, prefix: 'logos-' },
-  { pack: ic, prefix: 'ic-' },
-  { pack: mingcute, prefix: 'mingcute-' },
-  { pack: mdi, prefix: 'mdi-' },
-  { pack: materials, prefix: 'material-symbols-' },
-  { pack: simple, prefix: 'simple-icons-' },
-  { pack: lucide, prefix: 'lucide-' },
-  { pack: uil, prefix: 'uil-' },
-  { pack: akar, prefix: 'akar-icons-' },
-  { pack: map, prefix: 'map-' },
-  { pack: bi, prefix: 'bi-' },
-  { pack: sl, prefix: 'streamline-logos-' },
-  { pack: su, prefix: 'streamline-ultimate-' },
-  { pack: ss, prefix: 'streamline-sharp-' },
-  { pack: iconoir, prefix: 'iconoir-' }
+// Direct shortcodes used in Markdown. Aliases are added below. Keeping only
+// used names avoids loading 44 MB of Iconify metadata in every build worker.
+const directEmojiNames = [
+  'airplane',
+  'bathtub',
+  'cat',
+  'check-mark-button',
+  'comet',
+  'dango',
+  'eyes',
+  'four-leaf-clover',
+  'octopus',
+  'ribbon',
+  'right-arrow',
+  'shark',
+  'ship',
+  'sparkles',
+  'warning',
+  'ic-outline-arrow-forward',
+  'ic-sharp-download',
+  'ic-sharp-search',
+  'material-symbols-add-circle-outline-rounded',
+  'material-symbols-check',
+  'material-symbols-download',
+  'material-symbols-newspaper-rounded',
+  'material-symbols-stream-rounded',
+  'mdi-arrow-top-right',
+  'mdi-cog',
+  'mdi-cog-outline',
+  'mdi-compass',
+  'mdi-compass-outline',
+  'mdi-dots-horizontal',
+  'mdi-download-outline',
+  'mdi-filter',
+  'mdi-format-paint',
+  'mdi-lastfm',
+  'mdi-magnet',
+  'mdi-menu-down',
+  'mdi-play',
+  'mdi-plus',
+  'mdi-plus-circle',
+  'mdi-spotify',
+  'simple-icons-amazon',
+  'simple-icons-mpv',
+  'simple-icons-shazam',
+  'simple-icons-sourceforge'
 ]
 
 // Add aliases here: [icon, label?]
@@ -233,24 +255,14 @@ const customIconAliases: Record<string, string> = {
   // Add more custom icon aliases here
 }
 
-const defs: Record<string, string> = {}
-
-// Add pack icons to defs
-for (const elem of emojis) {
-  for (const key in elem.pack.icons) {
-    if (elem.prefix) defs[elem.prefix + key] = ''
-    else defs[key] = ''
-  }
-}
-
-// Add custom icon aliases to defs
-for (const [alias, _] of Object.entries(customIconAliases)) {
-  defs[alias] = ''
-}
-
-for (const [alias, fullName] of Object.entries(aliases)) {
-  defs[alias] = defs[fullName] !== undefined ? '' : 'INVALID_ALIAS'
-}
+const defs: Record<string, string> = Object.fromEntries(
+  [
+    ...directEmojiNames,
+    ...Object.keys(customIconAliases),
+    ...Object.keys(aliases)
+  ]
+    .map((name) => [name, ''])
+)
 
 export { aliases, defs }
 
@@ -270,10 +282,8 @@ export function renderEmojiMarkup(markup: string) {
   if (aliases[markup]) return wrap(`i-${aliases[markup]}`)
 
   // Check for prefixed icons
-  for (const emoji of emojis) {
-    if (emoji.prefix && markup.startsWith(emoji.prefix)) {
-      return wrap(`i-${markup}`)
-    }
+  if (iconPrefixes.some((prefix) => markup.startsWith(prefix))) {
+    return wrap(`i-${markup}`)
   }
 
   // Default to twemoji
