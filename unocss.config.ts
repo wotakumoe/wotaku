@@ -17,7 +17,10 @@ import {
   presetWind4,
   transformerDirectives
 } from 'unocss'
-import { aliases } from './docs/.vitepress/configs/markdown/emoji'
+import {
+  aliases,
+  directEmojiNames
+} from './docs/.vitepress/configs/markdown/emoji'
 import {
   LANG_FLAG_FALLBACK,
   LANG_FLAG_ICONS
@@ -64,7 +67,17 @@ const customIcons = {
   // Add more custom icons here as needed
 }
 
+const emojiIcons = [
+  ...Object.values(aliases),
+  ...directEmojiNames.map((name) =>
+    iconPrefixes.some((prefix) => name.startsWith(prefix))
+      ? name
+      : `twemoji-${name}`
+  )
+]
+
 const safelist = [
+  ...emojiIcons.map((icon) => `i-${icon}`),
   ...Object.entries(colors).flatMap(([group, shades]) =>
     Object.keys(shades).flatMap((shade) => [
       `text-${group}-${shade}`,
@@ -86,6 +99,7 @@ const safelist = [
   'i-lucide:languages',
   'i-lucide:shield',
   'i-twemoji-no-one-under-eighteen',
+  'i-mdi-lightbulb-outline',
   ...Array.from(
     new Set([...Object.values(LANG_FLAG_ICONS), LANG_FLAG_FALLBACK])
   ).map(

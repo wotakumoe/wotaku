@@ -29,7 +29,7 @@ const iconPrefixes = [
 
 // Direct shortcodes used in Markdown. Aliases are added below. Keeping only
 // used names avoids loading 44 MB of Iconify metadata in every build worker.
-const directEmojiNames = [
+export const directEmojiNames = [
   'airplane',
   'bathtub',
   'cat',
