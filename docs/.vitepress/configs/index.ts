@@ -138,7 +138,7 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     },
     plugins: [
       urlSearchDevPlugin(),
-      Devtools(),
+      process.env.NODE_ENV === 'development' && Devtools(),
       PageProperties(),
       PagePropertiesMarkdownSection(),
       UnoCSS({
