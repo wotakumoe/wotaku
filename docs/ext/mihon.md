@@ -77,9 +77,7 @@ og:
   - Then go to **:mdi-compass-outline: Browse -> Extensions -> :mdi-dots-vertical: -> Extension stores**.
   - Click **:mdi-plus: Add**, paste the URL there and click **Add**
 
-<video autoplay controls loop muted playsinline width="100%">
-  <source src="/video/mihon/store.webm" type="video/webm">
-</video>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/3l5SdGkNIpY" frameborder="0" allowfullscreen></iframe></div>
 
 ### Adding Extension
 
@@ -89,6 +87,4 @@ og:
 3. You will now see it listed in **Sources**.
 :::
 
-<video autoplay controls loop muted playsinline width="100%">
-  <source src="/video/mihon/ext.webm" type="video/webm">
-</video>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/IpMcwDqftB0" frameborder="0" allowfullscreen></iframe></div>
