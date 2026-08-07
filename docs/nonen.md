@@ -472,8 +472,8 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [MoneyToon](https://mtoon147.asia/) |
 | ^^ | [NameeToon](https://namee107.asia/) |
 | ^^ | [TOONKOR](https://tkor141.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf433.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [Wolf 2](https://wftoon222.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf](https://wfwf436.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf 2](https://wftoon223.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon244.asia/) [:prx:](https://yatoonlink.com/) |
