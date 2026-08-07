@@ -5,7 +5,7 @@
   "scripts": {
     "format": "dprint fmt",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "NODE_OPTIONS='--max-old-space-size=8192' vitepress build docs",
+    "docs:build": "NODE_OPTIONS='--max-old-space-size=2048' vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "api:prepare": "nitropack prepare",
     "api:dev": "nitropack dev",
