@@ -71,13 +71,24 @@ og:
 ## How-to
 
 ### Adding store
-- **Auto:** Click on **Install** and the store will be sideloaded automatically.
-- **Manual:** Copy the **URL** and put it in **:mdi-dots-horizontal:More -> :mdi-cog-outline:Settings -> :mdi-compass-outline:Browse -> Extension stores**.
+- **Auto:** Click on **Install** and there will be a pop-up window in the app. Click **Add**.
+- **Manual:**
+  - Copy the **URL**.
+  - Then go to **:mdi-compass-outline: Browse -> Extensions -> :mdi-dots-vertical: -> Extension stores**.
+  - Click **:mdi-plus: Add**, paste the URL there and click **Add**
+
+<video autoplay controls loop muted playsinline width="100%">
+  <source src="/video/mihon/store.webm" type="video/webm">
+</video>
 
 ### Adding Extension
 
 :::steps
-1. After [**adding the store**](#adding-store), go to **Home -> :mdi-compass: Browse -> Anime/Manga Extension**.
-2. Download & install your desired extension by clicking :mdi-download-outline:.
-3. Find it in the "**Installed**" section (at the top of the list).
+1. After [**adding the store**](#adding-store), go to **Home -> :mdi-compass: Browse -> Extensions**.
+2. Install your extension by clicking :mdi-download-outline:.
+3. You will now see it listed in **Sources**.
 :::
+
+<video autoplay controls loop muted playsinline width="100%">
+  <source src="/video/mihon/ext.webm" type="video/webm">
+</video>
