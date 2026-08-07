@@ -90,7 +90,13 @@ const safelist = [
 
 export default defineConfig({
   content: {
-    filesystem: ['.vitepress/configs/constants.ts', 'docs/index.md']
+    filesystem: [
+      '.vitepress/configs/constants.ts',
+      'docs/**/*.md'
+    ],
+    pipeline: {
+      exclude: [/\.md($|\?)/]
+    }
   },
   extractors: [emojiShortcodeExtractor],
   safelist,
