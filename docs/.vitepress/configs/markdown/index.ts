@@ -20,15 +20,15 @@ import {
   getTabHeadingAnchor,
   getUniqueAnchor,
   parseTabLabel
-} from '../../utils/tabAnchors'
-import { getTooltip } from '../../utils/tooltips'
-import { headersPlugin } from '../markdown/headers'
-import { emojiRender } from './emoji'
-import { extRepoPlugin } from './extRepoPlugin'
-import { nestedContainersPlugin } from './nestedContainers'
-import { scrapeTablePlugin } from './scrapeTablePlugin'
-import markdownSteps from './steps'
-import { tabsMarkdownPlugin } from './tabs'
+} from '../../utils/tabAnchors.ts'
+import { getTooltip } from '../../utils/tooltips.ts'
+import { headersPlugin } from '../markdown/headers.ts'
+import { emojiRender } from './emoji.ts'
+import { extRepoPlugin } from './extRepoPlugin.ts'
+import { nestedContainersPlugin } from './nestedContainers.ts'
+import { scrapeTablePlugin } from './scrapeTablePlugin.ts'
+import markdownSteps from './steps.ts'
+import { tabsMarkdownPlugin } from './tabs.ts'
 
 export function configureMarkdown(md: MarkdownRenderer) {
   md.use(emojiRender)

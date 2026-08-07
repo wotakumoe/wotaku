@@ -1,6 +1,6 @@
 import { writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import { renderEmojiShortcodes } from '../configs/markdown/emoji'
+import { renderEmojiShortcodes } from '../configs/markdown/emoji.ts'
 import {
   getCollapsibleHeadingAnchor,
   getTabAnchor,
@@ -9,7 +9,7 @@ import {
   parseTabLabel,
   slugifyAnchor,
   stripHeadingMarkup
-} from '../utils/tabAnchors'
+} from '../utils/tabAnchors.ts'
 
 export interface PageLink {
   href: string

@@ -11,7 +11,7 @@ import {
   useStorage,
   useThrottleFn
 } from '@vueuse/core'
-import { getScrollOffset, useData, useRoute } from 'vitepress'
+import { useData, useRoute } from 'vitepress'
 import type { DefaultTheme as Theme } from 'vitepress'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
 import { getSidebarGroups } from 'vitepress/dist/client/theme-default/support/sidebar'
@@ -766,7 +766,7 @@ const syncMobileOutlineActive = () => {
       activeHref = entries[entries.length - 1].href
     } else {
       for (const { href, top } of entries) {
-        if (top > scrollY + getScrollOffset() + 4) break
+        if (top > scrollY + 4) break
         activeHref = href
       }
     }

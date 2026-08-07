@@ -6,7 +6,7 @@
  *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
  */
 import type { HeadConfig, TransformContext } from 'vitepress'
-import { excludedFiles } from '../constants'
+import { excludedFiles } from '../constants.ts'
 
 export function generateMeta(context: TransformContext, hostname: string) {
   const head: HeadConfig[] = []

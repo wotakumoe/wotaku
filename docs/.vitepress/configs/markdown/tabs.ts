@@ -1,5 +1,5 @@
 import type { MarkdownRenderer } from 'vitepress'
-import { getUniqueAnchor, parseTabLabel } from '../../utils/tabAnchors'
+import { getUniqueAnchor, parseTabLabel } from '../../utils/tabAnchors.ts'
 
 function containerPlugin(md: MarkdownRenderer, name: string, options: any) {
   function validateDefault(params: string) {

@@ -270,6 +270,10 @@ function cachePathFor(url: string): string {
 }
 
 async function fetchIndex(url: string): Promise<unknown> {
+  // Mihon uses protobuf indexes for installation and parallel JSON indexes for
+  // build-time metadata. The protobuf payload is not JSON-decodable here.
+  if (new URL(url).pathname.endsWith('.pb')) return []
+
   const cachePath = cachePathFor(url)
   if (existsSync(cachePath) && Date.now() - statSync(cachePath).mtimeMs < CACHE_TTL_MS) {
     return JSON.parse(readFileSync(cachePath, 'utf-8'))

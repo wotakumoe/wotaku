@@ -12,8 +12,8 @@ import { type Font, render } from 'takumi-js'
 import { Renderer } from 'takumi-js/node'
 import { createContentLoader } from 'vitepress'
 import type { ContentData, SiteConfig } from 'vitepress'
-import { excludedFiles } from '../constants'
-import { OgImageTemplate } from './OgImageTemplate'
+import { excludedFiles } from '../constants.ts'
+import { OgImageTemplate } from './OgImageTemplate.tsx'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const __fonts = resolve(__dirname, '../fonts')

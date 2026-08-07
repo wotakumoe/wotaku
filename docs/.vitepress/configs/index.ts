@@ -14,11 +14,11 @@ import UnoCSS from 'unocss/vite'
 import { createLogger } from 'vite'
 import Devtools from 'vite-plugin-vue-devtools'
 import type { DefaultTheme, Plugin, UserConfig } from 'vitepress'
-import { hostname, sidebar, siteConfig } from './constants'
-import { generateImages, generateMeta } from './hooks'
-import { configureMarkdown } from './markdown'
-import { aliases, defs, movePlugin } from './markdown/emoji'
-import { collectPageLinks, urlSearchDevPlugin, writeUrlSearchIndex } from '../plugins/urlSearchPlugin'
+import { hostname, sidebar, siteConfig } from './constants.ts'
+import { generateImages, generateMeta } from './hooks/index.ts'
+import { configureMarkdown } from './markdown/index.ts'
+import { defs, movePlugin } from './markdown/emoji.ts'
+import { collectPageLinks, urlSearchDevPlugin, writeUrlSearchIndex } from '../plugins/urlSearchPlugin.ts'
 
 const logger = createLogger()
 const warn = logger.warn
@@ -63,7 +63,10 @@ export const shared: UserConfig<DefaultTheme.Config> = {
     }
   },
   markdown: {
-    emoji: { defs, shortcuts: aliases },
+    // Keep attrs after the MultiMarkdown table plugin. VitePress's built-in
+    // registration runs too early and crashes while processing table tokens.
+    attrs: false,
+    emoji: { definitions: defs },
     config(md) {
       configureMarkdown(md)
     }

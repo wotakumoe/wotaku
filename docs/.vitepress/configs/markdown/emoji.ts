@@ -7,7 +7,7 @@
  */
 import type { IconifyJSON } from '@iconify-json/octicon'
 import type { MarkdownRenderer } from 'vitepress'
-import { iconTooltips } from './tooltip'
+import { iconTooltips } from './tooltip.ts'
 
 // Icons that need to be used should be imported here
 import { icons as akar } from '@iconify-json/akar-icons'

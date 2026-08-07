@@ -710,7 +710,7 @@ table tr:nth-child(odd) {
     & > .items {
       @apply overflow-hidden pt-9;
 
-      & > .VPSidebarItem {
+      & > li > .VPSidebarItem {
         @apply cursor-pointer;
       }
     }
@@ -736,7 +736,7 @@ table tr:nth-child(odd) {
     & > .items {
       @apply pt-8;
 
-      & > .VPSidebarItem {
+      & > li > .VPSidebarItem {
         @apply cursor-pointer;
       }
     }
@@ -771,13 +771,13 @@ table tr:nth-child(odd) {
     }
 
     & > .items {
-      & > .VPSidebarItem {
+      & > li > .VPSidebarItem {
         @apply pl-4 border-l dark:border-l-neutral-600 rounded-none
           transition-all duration-100 ease-out;
 
         /* Separation between nested table of content */
         &:not(.collapsible),
-        &.collapsible > .items > .VPSidebarItem {
+        &.collapsible > .items > li > .VPSidebarItem {
           &:hover,
           &:focus,
           &.is-active.has-active {
@@ -857,7 +857,7 @@ table tr:nth-child(odd) {
           & > .items {
             @apply grid border-0 pl-0;
 
-            & > .VPSidebarItem {
+            & > li > .VPSidebarItem {
               @apply border-l pl-4 dark:border-l-neutral-600;
             }
 
@@ -868,7 +868,7 @@ table tr:nth-child(odd) {
               }
             }
 
-            & > .VPSidebarItem {
+            & > li > .VPSidebarItem {
               @apply min-h-8;
             }
           }
