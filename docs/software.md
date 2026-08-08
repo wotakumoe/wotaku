@@ -137,8 +137,8 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
-| ^^ | [Paperback](https://paperback.moe/) [:src:](https://github.com/Paperback-iOS/app) [:e:](/ext/ios#paperback) |
-| ^^ | [Suwatte](https://www.suwatte.app/) [:src:](https://github.com/Suwatte/Suwatte) [:e:](/ext/ios#suwatte) [||Converter||](https://web.archive.org/web/20250801192039/https://seyden.github.io/SuwatteConverter/suwatte) |
+| ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/ios#paperback) |
+| ^^ | [Suwatte](https://www.suwatte.app/) :cs: [:e:](/ext/ios#suwatte) [||Converter||](https://web.archive.org/web/20250801192039/https://seyden.github.io/SuwatteConverter/suwatte) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
@@ -316,7 +316,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | **Metadata**  | [ComicTagger](https://github.com/comictagger/comictagger) | :win::app::lin: |
 | ^^          | [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) | :win::app::lin: |
 | **Cover**     | [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) | :win: |
-| ^^          | [Icaros](https://www.videohelp.com/software/Icaros) :cs: | :win: |
+| ^^          | [Icaros](https://github.com/Xanashi/Icaros) :cs: | :win: |
 | **Others**    | [MangaJaNai](https://github.com/the-database/MangaJaNai) | :win: |
 | ^^            | [MangaJaNai Converter GUI](https://github.com/the-database/MangaJaNaiConverterGui) | :win: |
 | ^^          | [XpdfReader](https://www.xpdfreader.com/index.html) | :win::lin: |
