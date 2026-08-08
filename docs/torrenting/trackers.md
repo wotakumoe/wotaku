@@ -81,7 +81,6 @@ og:
 == Greek
 
 - [AnimeClipse](http://www.animeclipse.com/index.php)
-- [Sick-Fansubs](https://sickfansubs.com/)
 
 == Portuguese
 

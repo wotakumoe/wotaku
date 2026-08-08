@@ -314,7 +314,6 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 - [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
-- [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Cineby](https://www.cineby.at/)
 - :rd: [JP learning focused](/japan/immersion#watching)
@@ -386,7 +385,6 @@ Some content may not be available depending on your region.
 
 - [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
-- [OneTouch TV](https://onetouchtv.xyz/) :hd:
 
 == Download
 
