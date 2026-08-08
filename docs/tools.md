@@ -232,7 +232,7 @@ og:
 | ^^ | [FFmpeg.wasm](https://ffmpegwasm.netlify.app/) [:src:](https://github.com/ffmpegwasm/ffmpeg.wasm) | :web: |
 | ^^ | [FFmpeg Batch AV Converter](https://github.com/eibols/ffmpeg_batch) | :win: |
 | **MKVToolNix** | [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui/) | :win::app::lin: |
-| ^^ | [MKVcleaver](https://www.videohelp.com/software/MKVcleaver) | :win::cs: |
+| ^^ | [MKVcleaver](https://blogs.sapib.ca/apps/mkvcleaver/) | :win::cs: |
 | ^^ | [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper) | :win: |
 
 - :rd: [Encoding & Fansubbing Guides](/misc?t=encoding-fansubbing)
