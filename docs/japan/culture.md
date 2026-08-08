@@ -112,6 +112,7 @@ og:
 - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
 - [Okonomiyaki World](https://okonomiyakiworld.com/index.html)
 - [Delish Kitchen](https://delishkitchen.tv/)
+- [Japan Food Addict](https://www.japanfoodaddict.com/)
 - [Just Hungry](https://www.justhungry.com/recipes)
 
 == YouTube
