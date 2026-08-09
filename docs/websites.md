@@ -85,8 +85,7 @@ outline: 2
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
 | ^^ | [TsukiHime](https://tsukihime.org/) :ddl::usnt::cc: |
-| **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) |
-| ^^ | [Chauthanh](https://chauthanh.info/) :acc: |
+| **Reuploads** :ddl: | [Chauthanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
@@ -314,6 +313,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 - [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
+- [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Cineby](https://www.cineby.at/)
 - :rd: [JP learning focused](/japan/immersion#watching)
@@ -369,6 +369,7 @@ Some content may not be available depending on your region.
 
 <collapsible title="Utility sites">
 
+- [FlixHop](https://flixhop.com/)
 - [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
 - [uNoGS](https://unogs.com/)
 
@@ -385,6 +386,7 @@ Some content may not be available depending on your region.
 
 - [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
+- [OneTouch TV](https://onetouchtv.xyz/) :hd:
 
 == Download
 

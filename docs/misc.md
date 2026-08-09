@@ -91,8 +91,7 @@ outline: 2
 | ^^ | [AnimeDB](https://animedb.jp/) :ljp: |
 | **OST** | [AnimeSongs.org](https://animesongs.org/) |
 | ^^ | [Aniplaylist](https://aniplaylist.com/) |
-| **Landmarks** | [anitabi](https://anitabi.cn/) :s::lcn: [:src:](https://github.com/anitabi/anitabi.cn-document) |
-| ^^ | [Flubber’s Fluttering Anime Pilgrimage](https://furaba-animeseichi.blog.jp/) :ljp: |
+| **Landmarks** | [Flubber’s Fluttering Anime Pilgrimage](https://furaba-animeseichi.blog.jp/) :ljp: |
 | ^^ | [Anime Tourism](https://anime-tourism.jp/) :ded::ljp: |
 | **Others** | [Anime Filler Guide](https://www.animefillerguide.com/) |
 | ^^ | :rd: [General DB](/websites?t=info-db) |

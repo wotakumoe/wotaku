@@ -644,7 +644,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [ZeePubs](https://zeepubs.wordpress.com/)
 
 ### News
-- [ANMOSugoi](https://www.anmosugoi.com/)
 - [RamenParaDos](https://ramenparados.com/)
 
 ### Software
