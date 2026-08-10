@@ -18,14 +18,13 @@ og:
 ::: tabs
 
 == Extension
-- [uBlock Origin](https://github.com/gorhill/uBlock) [:s:](https://github.com/gorhill/uBlock)
+- [uBlock Origin](https://github.com/gorhill/uBlock) :s:
 - [uBO Lite](https://github.com/uBlockOrigin/uBOL-home)
 - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
 == Filters
 - [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
 - [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist)
-- [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists) [:s:](https://github.com/hagezi/dns-blocklists)
 - [Yokoffing Filterlists](https://github.com/yokoffing/filterlists)
 
 == Apps
