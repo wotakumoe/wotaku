@@ -492,7 +492,7 @@ Some content may not be available depending on your region.
 == Legal
 
 - [Comics Kingdom](https://comicskingdom.com/)
-- [DC Universe Infinite](https://www.dcuniverseinfinite.com/) <tooltip>Available in the United States, the United Kingdom, Canada, Australia and New Zealand.</tooltip>
+- [DC Universe Infinite](https://www.dcuniverseinfinite.com/) ==DCUniverse==
 - [GlobalComix](https://globalcomix.com/)
 - [GoComics](https://www.gocomics.com/)
 - [Marvel Unlimited](https://www.marvel.com/unlimited)

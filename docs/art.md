@@ -32,7 +32,8 @@ og:
 - [Charaforio](https://charaforio.com/en)
 - [Instagram](https://www.instagram.com/)
 - [Newgrounds](https://www.newgrounds.com/art)
-- [Nico Nico Seiga](https://seiga.nicovideo.jp/) <tooltip>The site is now region locked, use a VPN with JP servers to access it.</tooltip>
+- [Nico Nico Seiga](https://seiga.nicovideo.jp/) ==NicoNicoSeiga==
+- [ShoulderPick](https://pick.shoulder.fan/)
 - [Tumblr](https://www.tumblr.com/)
 
 </Collapsible>
@@ -92,7 +93,7 @@ og:
 | Category | Website |
 | :--- | :--- |
 | **Production** | [Character Design References](https://characterdesignreferences.com/) [:x:](https://x.com/CDReferences) |
-| ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: <tooltip>The patreon-walled materials will eventually become free.</tooltip> |
+| ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: ==SettaiDreams==
 | ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
 | ^^ | :prev: [Sakuga.video](https://sakuga.video/) [:src:](https://github.com/sakuga-video/sakuga-video.github.io) |
 | **Promo** | [Apple TV Artwork Finder](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) |
@@ -154,6 +155,7 @@ og:
 - [Ko-fi](https://ko-fi.com/)
 - [Patreon](https://www.patreon.com/)
 - [pixivFANBOX](https://www.fanbox.cc/) :ljp:
+- [Shoulder](https://shoulder.fan/)
 
 :::
 
