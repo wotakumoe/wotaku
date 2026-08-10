@@ -168,19 +168,19 @@ Some content may not be available depending on your region.
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Comix](https://comix.to/)  ==Comix== | 91k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 20k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 38k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 42k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
 <collapsible title="More">
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
 | [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
-| [MangaBall](https://mangaball.net/)  | 153k | :msync: | :ps::up: | :ls: | :cmnt: |
+| [MangaBall](https://mangaball.net/)  | 154k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 78k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [MangaK](https://mangak.io/home) | 26k | :no: | :ss: | :sp::ls: | :cmnt: |
+| [MangaK](https://mangak.io/home) | 27k | :no: | :ss: | :sp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/)  ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
-| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 84k | :no: | :ss: | :ls: | :cmnt: |
+| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 86k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
 
 </collapsible>
@@ -412,13 +412,14 @@ Some content may not be available depending on your region.
 
 == Portals
 
-- [Tokunation](https://news.tokunation.com/)
-- [The Tokusatsu Network](https://tokusatsunetwork.com/)
-- [Tsuburaya Productions](https://tsuburaya-prod.com/)
-- [JEFusion](https://jefusion.blogspot.com/) x||Spoilers||
-- [Morphin' Legacy](https://morphinlegacy.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
+- [JEFusion](https://jefusion.blogspot.com/) x||Spoilers||
+- [Kaiju & Tokusatsu Home Theatre](https://kaijuhometheatre.substack.com/)
+- [Morphin' Legacy](https://morphinlegacy.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
+- [The Tokusatsu Network](https://tokusatsunetwork.com/)
+- [Tokunation](https://news.tokunation.com/)
+- [Tsuburaya Productions](https://tsuburaya-prod.com/)
 
 == Legal
 

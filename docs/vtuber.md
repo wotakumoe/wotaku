@@ -27,6 +27,7 @@ og:
 
 - [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
 - [Hololist](https://hololist.net/)
+- [hololive Dreams Database](https://holodori.best/)
 - [ironmouse Model Index](https://www.ironmousemodelindex.com/)
 
 == Stats

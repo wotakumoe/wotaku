@@ -202,11 +202,12 @@ og:
 
 | Category | Software | Platform |
 | :--- | :--- | :--- |
-| **sub provider** | [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku) | |
+| **Sub provider** | [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku) | |
 | ^^ | [mpv jimaku](https://github.com/ZXY101/mpv-jimaku) | |
 | ^^ | [SubPlz](https://github.com/kanjieater/SubPlz/) | :win::lin: |
 | ^^ | [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) | :win::app::lin: |
-| **tools** | [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv) | |
+| **Tools** | [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv) | |
+| ^^ | [auto sub retimer easy](https://github.com/shoui520/auto-sub-retimer-easy) | :win: |
 | ^^ | [bazarr-subsync](https://github.com/friedrich-de/bazarr-sync-my-subs) | |
 | ^^ | [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) [:src:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter) | :web: |
 | ^^ | [mpv retiming scripts](https://github.com/Ulidtsoa01/mpv-retiming-scripts) | |
@@ -214,7 +215,7 @@ og:
 | ^^ | [mpv subversive](https://github.com/nairyosangha/mpv-subversive) | |
 | **srs** | [subs2srs](https://subs2srs.sourceforge.net/) | :win: |
 | ^^ | [subtitles-rs](https://github.com/emk/subtitles-rs) | :app::lin: |
-| **others** | [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) | :web: |
+| **Others** | [Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) | :web: |
 | ^^ | [Resource list for subtitle-related things](https://rentry.co/jpsub) | |
 | ^^ | [General subtitle tools](/tools?t=video-2) | |
 
