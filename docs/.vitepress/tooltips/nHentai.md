@@ -1,1 +1,1 @@
-Most popular. Decent UI, but compresses images.
+Most popular. Decent UI and great search, but compresses images.

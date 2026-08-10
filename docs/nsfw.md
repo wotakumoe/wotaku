@@ -42,20 +42,19 @@ og:
 == Manga
 
 - [E-Hentai](https://e-hentai.org/) :s: [:help:](https://e-hentaitagsearch.blogspot.com/) ==EHentai==
-- [Akuma](https://akuma.moe/) ==Akuma==
+- [Akuma](https://akuma.moe/) ==EHclone==
 - [HDoujin](https://hdoujin.org/) :s: ==HDoujin==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
 - [IMHentai](https://imhentai.xxx/) [:prx:](https://i.wotaku.wiki/p/proxy#imhentai) ==IMHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
 - [Schale Network](https://shupogaki.moe/) :s: [:alt:](https://niyaniya.moe/) ==SchaleNetwork==
-- [Yabai](https://yabai.si/g) ==Yabai==
+- [Yabai](https://yabai.si/g) ==EHclone==
 
 <collapsible title="English-only">
 
 - [EAHentai](https://eahentai.com/)
 - [Hentai Nexus](https://hentainexus.com/) ==HenTalkNexus==
-- [HentaiFox](https://hentaifox.com/)
 - [HentaiRead](https://hentairead.com/)
 - [HenTalk](https://hentalk.pw/) ==HenTalkNexus==
 - [Wholesome Hentai God List](https://wholesomelist.com/)
