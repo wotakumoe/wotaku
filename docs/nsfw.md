@@ -203,10 +203,10 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 == Database
 | Category | Websites |
 |-|-|
-| Database | [DOJINDB](https://dojindb.net/) :ljp: |
+| **Database** | [DOJINDB](https://dojindb.net/) :ljp: |
 | ^^ | [Doujinshi.info](https://www.doujinshi.info/) [:src:](https://github.com/doujinshi-info/frontend-nuxt) |
 | ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :s::ljp: |
-| Info | [Fapservice](https://fapservice.com/) |
+| **Info** | [Fapservice](https://fapservice.com/) |
 | ^^   | [PornhwaDB](https://pornhwadb.com/) |
 | ^^   | [Yuri Scenes](https://yuriscenes.com/) |
 
@@ -215,17 +215,17 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 
 | Categories | Software |
 | :--- | :--- |
-| Stream | [MissAV](https://missav.ws/) |
+| **Stream** | [MissAV](https://missav.ws/) |
 | ^^ | [JAVGG](https://javgg.net/) [:alt:](https://javgg.co/) |
 | ^^ | [JavGuru](https://jav.guru/) |
 | ^^ | [JAVSeen](https://javseen.tv/) |
 | ^^ | [SexTB](https://sextb.net/) [:alt:](https://sextb.date/) |
-| Torrent | [141JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/) |
+| **Torrent** | [141JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/) |
 | ^^ | [OneJAV](https://onejav.com/) |
 | ^^ | [ProjectJav](https://projectjav.com/) |
 | ^^ | [Sukebei](https://sukebei.nyaa.si/?c=2_2) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/?cat=15) [:alt:](https://tokyo-tosho.net/?cat=15) |
-| Others | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
+| **Others** | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
 | ^^ | [Gravure Princess](https://idol.gravureprincess.date/) |
 | ^^ | [Mabui Onna](https://mabui-onna.com/) |
 | ^^ | [X-IDOL](https://xidol.net/) [:prx:](https://i.wotaku.wiki/p/proxy#x-idol) |
@@ -235,7 +235,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 
 | Categories | Software |
 | :--- | :--- |
-| General | [Comic Looms](https://github.com/MapoMagpie/comic-looms) |
+| **General** | [Comic Looms](https://github.com/MapoMagpie/comic-looms) |
 | ^^ | [Eza's Image Glutton](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton) |
 | ^^ | [Image Board Enhancer](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more) |
 | ^^ | [Kemer Enhancement](https://sleazyfork.org/en/scripts/472096-kemer-enhance) |
@@ -243,10 +243,10 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | ^^ | [MALSync Adult](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition) |
 | ^^ | [Manga Loader NSFW](https://sleazyfork.org/en/scripts/483574-manga-loader-nsfw-download) |
 | ^^ | [Manga OnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) |
-| ExHentai | [E(x)-Hentai Tags Preview](https://github.com/fp555/exh-tags-preview) |
+| **ExHentai** | [E(x)-Hentai Tags Preview](https://github.com/fp555/exh-tags-preview) |
 | ^^ | [ExResurrect](https://sleazyfork.org/en/scripts/411277-exresurrect) |
 | ^^ | [Let's panda!](https://sleazyfork.org/en/scripts/33979-let-s-panda) |
-| nHentai | [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:src:](https://github.com/Tsuk1ko/nhentai-helper) |
+| **nHentai** | [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:src:](https://github.com/Tsuk1ko/nhentai-helper) |
 | ^^ | [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa) |
 | ^^ | [Nhentai Manga Loader](https://github.com/longkidkoolstar/Nhentai-Manga-Loader) |
 
