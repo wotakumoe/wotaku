@@ -564,6 +564,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 == Server
 - [Airsonic](https://airsonic.github.io/)
 - [Euterpe](https://listen-to-euterpe.eu/)
+- [Funkwhale](https://www.funkwhale.audio/)
 - [koel](https://koel.dev/)
 - [Jellyfin](https://jellyfin.org/)
 - [Mopidy](https://mopidy.com/)
