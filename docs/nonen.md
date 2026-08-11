@@ -280,6 +280,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | :--- | :--- |
 | **Anime** | [An1me](https://an1me.to/) |
 | ^^ | [AnimeClipse](http://www.animeclipse.com/index.php) :mag: |
+| ^^ | [Sick-Fansubs](https://sickfansubs.com/) :mag: |
 
 
 ## Hebrew
