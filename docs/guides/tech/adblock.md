@@ -25,6 +25,7 @@ og:
 == Filters
 - [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
 - [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist)
+- [Hagezi DNS Blocklists](https://gitlab.com/hagezi/mirror) :s:
 - [Yokoffing Filterlists](https://github.com/yokoffing/filterlists)
 
 == Apps
