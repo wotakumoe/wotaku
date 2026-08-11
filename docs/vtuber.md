@@ -27,7 +27,6 @@ og:
 
 - [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
 - [Hololist](https://hololist.net/)
-- [hololive Dreams Database](https://holodori.best/)
 - [ironmouse Model Index](https://www.ironmousemodelindex.com/)
 
 == Stats
@@ -65,6 +64,7 @@ og:
 - [ENreco Archive](https://enreco-archive.net/#0/0)
 - [HoloCalender](https://calendar.holofun.net/)
 - [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef==
+- [Hololive Dreams Database](https://holodori.best/)
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page)
 - [Immerhate Archive](https://immerhate.holofun.net/)
 - [Inaversary](https://otako.fans/)
