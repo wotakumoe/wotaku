@@ -63,7 +63,7 @@ og:
 
 - [ENreco Archive](https://enreco-archive.net/#0/0)
 - [HoloCalender](https://calendar.holofun.net/)
-- [HoloEN Fan Website](https://holoen.fans/en) [:src:](https://github.com/GoldElysium/hef-website) ==hef==
+- [HoloEN Fan Website](https://holoen.fans/en) :ded: [:src:](https://github.com/GoldElysium/hef-website)
 - [Hololive Dreams Database](https://holodori.best/)
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page)
 - [Immerhate Archive](https://immerhate.holofun.net/)
