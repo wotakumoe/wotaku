@@ -1770,6 +1770,12 @@ html.effects-disabled {
   cursor: help;
 }
 
+/* Base icon wrapper for consistent alignment */
+.icon {
+  display: inline-block;
+  vertical-align: -0.125em;
+}
+
 /* Fixed-position tooltip rendered into <body> by JS to escape table overflow clipping */
 .icon-tip-popup {
   position: fixed;

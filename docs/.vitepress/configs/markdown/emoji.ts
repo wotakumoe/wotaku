@@ -261,7 +261,7 @@ export function renderEmojiMarkup(markup: string) {
   const wrap = (cls: string) =>
     tip
       ? `<span class="icon-tip" data-tip="${tip}" tabindex="-1"><span class="${cls}"></span></span>`
-      : `<span class="${cls}"></span>`
+      : `<span class="icon"><span class="${cls}"></span></span>`
 
   // Check for custom icon aliases first
   if (customIconAliases[markup]) return wrap(`i-${customIconAliases[markup]}`)
