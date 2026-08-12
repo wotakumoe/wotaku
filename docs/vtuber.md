@@ -26,6 +26,7 @@ og:
 == Database
 
 - [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki)
+- [Good VTuber Subs](https://coffee-amusement-eac.notion.site/Good-VTuber-Subs-f4e14bfd7f3749c385b55b98913b99c8) :ded:
 - [Hololist](https://hololist.net/)
 - [ironmouse Model Index](https://www.ironmousemodelindex.com/)
 
