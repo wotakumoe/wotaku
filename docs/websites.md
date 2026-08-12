@@ -85,7 +85,7 @@ outline: 2
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
 | ^^ | [TsukiHime](https://tsukihime.org/) :ddl::usnt::cc: |
-| **Reuploads** :ddl: | [Chauthanh](https://chauthanh.info/) :acc: |
+| **Reuploads** :ddl: | [ChauThanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
@@ -326,6 +326,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/GYahYNWutE) |
 | ^^ | [EXT Torrents](https://ext.to/) [:alt:](https://extto.com/) |
 | **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
+| ^^ | [ChauThanh](https://chauthanh.info/) :acc: |
 | ^^ | [Dramaday](https://dramaday.me/) :ckr: |
 | ^^ | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
