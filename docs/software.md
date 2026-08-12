@@ -337,6 +337,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [Debrid Media Manager](https://debridmediamanager.com/) [:src:](https://github.com/debridmediamanager/debrid-media-manager) |
 | ^^         | [Jackett Addon](https://github.com/aymene69/stremio-jackett) |
 | ^^         | [Addon Manager](https://stremio-addon-manager.vercel.app/) [:src:](https://github.com/pancake3000/stremio-addon-manager) |
+| ^^         | [Stremio Status](https://status.stremio-status.com/) |
 
 == Others
 
