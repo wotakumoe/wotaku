@@ -34,6 +34,7 @@ og:
 
 - [VSTATS](https://www.vstats.jp/) :ljp:
 - [VRabi](https://vrabi.net/) :ljp:
+- [VMato](https://data.vmato.jp/) :ljp: [:x:](https://x.com/Vmato_data)
 - [TwitchTracker](https://twitchtracker.com/)
 - [Streams Charts](https://streamscharts.com/)
 - [Live Streamer Ranking](https://live-ranking.userlocal.jp/vtuber-ranking) :ljp:
