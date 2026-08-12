@@ -60,7 +60,7 @@ og:
 | Category | Websites |
 | :--- | :--- |
 | **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?c=1_0&q=%E6%97%A5</tooltip> |
-| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/GYahYNWutE) |
+| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
 | **Direct** :ddl: | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) |
 | ^^ | [JPFiles](https://jpfiles.net/) :host: |

@@ -28,12 +28,12 @@ og:
 | ----------- | ------------------------------------------------------------------------ |
 | General     | [AnimeBytes](https://animebytes.tv/)                                     |
 | ^^          | [BakaBT](https://bakabt.me/) [:help:](https://wiki.bakabt.me/index.php/Sign_up) |
-| Anime       | [AnimeZ](https://animez.to/) [:d:](https://discord.gg/GYahYNWutE)        |
+| Anime       | [AnimeZ](https://animez.to/) [:d:](https://discord.gg/r46CFUEBNu)        |
 | ^^          | [Oldtoons](https://oldtoons.world/)                                      |
 | ^^          | [U2](https://u2.dmhy.org/portal.php)                                     |
 | Books       | [MyAnonamouse](https://myanonamouse.net/)                                |
 | Games       | [Gazelle Games](https://gazellegames.net/)                               |
-| Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/GYahYNWutE)      |
+| Live Action | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/r46CFUEBNu)      |
 | ^^          | [AsianCinema](https://eiga.moi/)                                         |
 | ^^          | [JPTVTS](https://jptvts.us/)                                             |
 | Music       | [Redacted](https://redacted.sh/) [:help:](https://interviewfor.red/en/index.html) |
@@ -41,7 +41,7 @@ og:
 | ^^          | [Orpheus](https://orpheus.network/)                                      |
 | ^^          | [Bemaniso](https://bemaniso.ws/)                                         |
 | ^^          | [Aidoru](https://aidoru-online.me/)                                      |
-| NSFW        | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/GYahYNWutE)    |
+| NSFW        | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/r46CFUEBNu)    |
 | ^^          | [Empornium](https://www.empornium.sx/)                                   |
 
 ::: tip Related resources

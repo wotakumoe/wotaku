@@ -323,7 +323,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | Category | Websites |
 | :--- | :--- |
 | **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
-| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/GYahYNWutE) |
+| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
 | ^^ | [EXT Torrents](https://ext.to/) [:alt:](https://extto.com/) |
 | **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
 | ^^ | [ChauThanh](https://chauthanh.info/) :acc: |
@@ -394,7 +394,7 @@ Some content may not be available depending on your region.
 - [Zekozimo](https://zekozimo.blogspot.com/) :s: ||General||
 - [KRDL](https://krdl.moe/) :s:
 - [Nyaa](https://nyaa.si/) :mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
-- [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/GYahYNWutE)
+- [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/r46CFUEBNu)
 - [Bereke Scrubs](https://berekescrubs.wordpress.com/)
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
 - [Metallic Subs](https://metallicsubs.wordpress.com/)
