@@ -85,7 +85,8 @@ outline: 2
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
 | ^^ | [TsukiHime](https://tsukihime.org/) :ddl::usnt::cc: |
-| **Reuploads** :ddl: | [ChauThanh](https://chauthanh.info/) :acc: |
+| **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) |
+| ^^ | [ChauThanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
 | ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
