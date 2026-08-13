@@ -97,6 +97,7 @@ outline: 2
 
 - [aniDB](https://anidb.net/) :acc:
 - [Seadex](https://releases.moe/)
+- :prev: [StaticDex](https://dattebayo13.github.io/staticdex/)
 - [Sneedex](https://static.sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 
