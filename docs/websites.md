@@ -96,7 +96,8 @@ outline: 2
 <collapsible title="Related resources">
 
 - [aniDB](https://anidb.net/) :acc:
-- [Seadex](https://releases.moe/)
+- [SeaDex](https://releases.moe/) [:src:](https://github.com/seadex-moe/seadex)
+- :prev: [SeaDex Mirror](https://seadex.pages.dev/) [:src:](https://github.com/EithonX/seadex-mirror)
 - :prev: [StaticDex](https://dattebayo13.github.io/staticdex/) [:src:](https://github.com/dattebayo13/staticdex)
 - [Sneedex](https://static.sneedex.moe/) :ded:
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
