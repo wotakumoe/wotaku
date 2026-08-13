@@ -62,7 +62,6 @@ og:
 | ^^ | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^ | [Pixiv Yearbook](https://pixiv.navirank.com/) |
 | **Twitter** | [Twicomi](https://twicomi.com/) :ljp: |
-| ^^ | [Twoucan](https://twoucan.com/) :ljp: |
 | ^^ | [Twiman](https://twiman.net/) :ljp: |
 | ^^ | [Buhitter](https://buhitter.com/) :ljp: |
 | ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) ||Nitter|| |
