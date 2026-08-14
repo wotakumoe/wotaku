@@ -140,7 +140,7 @@ On the other hand, aggregators like [**KickassAnime**](https://kaa.lt/) & [**Ani
 
 <Collapsible title="Which player should I use?">
 
-For android, use [**mpvEx**](https://github.com/marlboro-advance/mpvEx). For PC, use [**mpv**](https://mpv.io/). You can find alt ui and forks [**here**](/tools#mpv).
+For android, use [**mpv-android**](https://github.com/mpv-android/mpv-android). For PC, use [**mpv**](https://mpv.io/). You can find alt ui and forks [**here**](/tools#mpv).
 
 </Collapsible>
 

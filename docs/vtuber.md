@@ -13,7 +13,6 @@ og:
 == Alt viewer
 
 - [Holodex](https://holodex.net/) :s: [:src:](https://github.com/HolodexNet/Holodex)
-- [Amatsukaze](https://amatsukaze.rl404.com/) [:src:](https://github.com/rl404/amatsukaze)
 - [Bācharu Toshokan](https://bacharu.io/)
 
 == Archive

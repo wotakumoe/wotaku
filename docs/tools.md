@@ -30,7 +30,8 @@ og:
 
 | Category | Software |
 | :--- | :--- |
-| **Local** | [mpvEx](https://github.com/marlboro-advance/mpvEx) :s: [:n:](https://marlboro-advance.github.io/mpvEx/) |
+| **Local** | [mpv-android](https://play.google.com/store/apps/details?id=is.xyz.mpv) [:src:](https://github.com/mpv-android/mpv-android) |
+| ^^ | [mpvEx](https://github.com/marlboro-advance/mpvEx) [:n:](https://marlboro-advance.github.io/mpvEx/) |
 | ^^ | ^[MX Player](Don't install the Play Store version as it was bought by Amazon, use Balatan's mod instead.) :s::cs: |
 | **Online** | [Grayjay](https://grayjay.app/) [:src:](https://gitlab.futo.org/videostreaming/grayjay) |
 | ^^ | [Libretube](https://libretube.dev/) [:src:](https://github.com/libre-tube/LibreTube) |

@@ -85,6 +85,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Anime** | [Anime Balkan](https://animebalkan.org/) |
+| ^^ | [AnimeOverdose](https://www.anime-overdose.com/) |
 | ^^ | [Anime Srbija](https://www.animesrbija.com/) |
 | ^^ | [AniPiece](https://anipiece.net/) |
 | ^^ | [Ranime](https://ranime.net/) |
