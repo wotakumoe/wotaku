@@ -87,7 +87,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Anime** | [Anime Balkan](https://animebalkan.org/) |
 | ^^ | [Anime Srbija](https://www.animesrbija.com/) |
 | ^^ | [AniPiece](https://anipiece.net/) |
-| ^^ | [BalkanFlix](https://www.balkanflix.com/) |
 | ^^ | [Ranime](https://ranime.net/) |
 | **Cartoon** | [Gledaj Crtaće](https://www.gledajcrtace.rs/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |
@@ -645,6 +644,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [ZeePubs](https://zeepubs.wordpress.com/)
 
 ### News
+- [ANMOSugoi](https://www.anmosugoi.com/)
 - [RamenParaDos](https://ramenparados.com/)
 
 ### Software

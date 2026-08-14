@@ -44,10 +44,6 @@ og:
 - url: https://github.com/Gian-Fr/ItalianProvider
 - raw: https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json
 
-== Kraptor
-- url: https://github.com/Kraptor123/cs-kraptor
-- raw: https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/repo.json
-
 == NetMirror
 - url: https://github.com/Sushan64/NetMirror-Extension/
 - raw: https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/builds/Netflix.json
