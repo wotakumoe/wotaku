@@ -46,7 +46,6 @@ og:
 | Category | Websites |
 | :--- | :--- |
 | **General** | [Anisub](https://anisub.tv/) |
-| ^^ | [Cineby](https://www.cineby.at/) |
 | ^^ | [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh) |
 | **Anime** | [Bettermelon](https://bettermelon.ru/) |
 | ^^ | [JP Classics](https://animation.filmarchives.jp/index.html) :hd: |
