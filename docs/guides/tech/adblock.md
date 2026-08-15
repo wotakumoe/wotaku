@@ -72,7 +72,7 @@ Adding a lot of filters to your adblocker (that you don't specifically need) can
 |--------|-----------|-|
 | **Captcha** | [Buster](https://github.com/dessant/buster) | :ff::cr: |  
 | ^^     | [NopeCHA](https://nopecha.com/) | :ff::cr: |  
-| **Paywall** | [Bypass All Shortlinks Debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) :s: | :js: | 
+| **Paywall** | [Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) :s: | :js: | 
 | ^^     | [AdsBypasser](https://adsbypasser.github.io/) [:src:](https://github.com/adsbypasser/adsbypasser) | :js: |
 | ^^     | [Bye Bye Paywall](https://byebyepaywall.com/en/) | :web: |  
 | ^^     | [Bypass.city](https://bypass.city/how-to-install-userscript) | :js: |
