@@ -319,6 +319,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Aether](https://aether.bar/) [:prx:](https://rentry.co/aetherdomains)
+- [Z-Stream](https://zstream.mov/)
 - :rd: [JP learning focused](/japan/immersion#watching)
 
 == Download

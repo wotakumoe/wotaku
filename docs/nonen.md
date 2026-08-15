@@ -247,7 +247,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Anime** | [German Fansubbers' Index](https://anime-fansubs.de/) |
 | ^^ | [Amalgam Fansubs](https://amalgam-fansubs.moe/) :strm::ddl: |
 | ^^ | [Anime Archive](https://anime-archive.com/) :ded::ddl: |
-| ^^ | [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host: + :len: |
 | ^^ | [AniWorld](https://aniworld.to/) :strm: + :len: |
 | ^^ | [FireAnime](https://fireani.me/) :strm: + :len: |
 | ^^ | [Melon-Subs](https://melon-subs.de/) :ded::ddl: |
@@ -345,7 +344,6 @@ Most apps in [**software**](/software) supports multilingual sources
 
 ### Manga
 - [Komiku](https://komiku.org/)
-- [Komikcast](https://v3.komikcast.fit/)
 - [Komik Indo](https://komikindo.ch/)
 - [Megaheya](https://mangaheya.net/) :acc:
 - [Softkomik](https://softkomik.co/)
@@ -477,7 +475,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon245.asia/) [:prx:](https://yatoonlink.com/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
-| ^^ | [Anilife](https://anilife.live/) |
 | ^^ | [Anissia](https://anissia.net/) |
 
 
