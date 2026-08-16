@@ -134,6 +134,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
 - [Copymanga](https://www.copy20.com/) :ero: [:alt:](https://www.2025copy.com/)
+- [Dumanwu](https://dumanwu.com/)
 - [Komiic](https://komiic.com/) :ero:
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
