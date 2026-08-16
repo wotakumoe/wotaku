@@ -371,7 +371,8 @@ outline: 2
  
 | Category  | Websites | Tracker |  
 |-----------|----------|---------|  
-| **Stats** | [Anistats](https://mayudev.github.io/anistats/) [:src:](https://github.com/mayudev/anistats) | :al: |  
+| **Stats** | [Sekai](https://sekai.rl404.com/) [:src:](https://github.com/rl404/sekai) :s: | :mal: |  
+| ^^        | [Anistats](https://mayudev.github.io/anistats/) [:src:](https://github.com/mayudev/anistats) | :al: |   
 | ^^        | [anime.plus](https://anime.plus/) [:src:](https://github.com/anime-plus/graph) | :mal: |  
 | ^^        | [KitsuStats](https://drumber.github.io/KitsuStats/#/) [:src:](https://github.com/Drumber/KitsuStats) | :k: |  
 | ^^        | [MAL Badges](https://www.mal-badges.com/) | :mal: |  
