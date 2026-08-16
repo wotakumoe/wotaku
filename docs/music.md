@@ -473,11 +473,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 == Script
 | Script | Platform |
 | :--- | :--- |
-| [Ame](https://gitlab.com/SuperSaltyGamer/ame) | Various |
-| [bleh](https://bleh.katelyn.moe/) | Lastfm |
-| [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock) | Deezer |
-| [Gallery Mode for Lists](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic) | RateYourMusic |
-| [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts) | MusicBrainz|
+| [Ame](https://gitlab.com/SuperSaltyGamer/ame) | **Various** |
+| [bleh](https://bleh.yuzu.pet/) | **Lastfm** |
+| [dzunlock](https://uhwotgit.fly.dev/uhwot/dzunlock) | **Deezer** |
+| [Gallery Mode for Lists](https://greasyfork.org/en/scripts/434865-gallery-mode-for-lists-rateyourmusic) | **RateYourMusic** |
+| [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts) | **MusicBrainz** |
 
 
 == Converter & Ripper
