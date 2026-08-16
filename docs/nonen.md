@@ -87,7 +87,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Anime** | [Anime Balkan](https://animebalkan.org/) |
 | ^^ | [AnimeOverdose](https://www.anime-overdose.com/) |
 | ^^ | [Anime Srbija](https://www.animesrbija.com/) |
-| ^^ | [AniPiece](https://anipiece.net/) |
+| ^^ | [AniPiece](https://anipiece.net/pocetna) |
 | ^^ | [Ranime](https://ranime.net/) |
 | **Cartoon** | [Gledaj Crtaće](https://www.gledajcrtace.rs/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |
@@ -287,14 +287,14 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| Anime | [AnimeIL-TV](https://www.animeil-tv.com/) |
-| Manga | [Mangashelf](https://mangashelf.co.il/) |
+| **Anime** | [AnimeIL-TV](https://www.animeil-tv.com/) |
+| **Manga** | [Mangashelf](https://mangashelf.co.il/) |
 
 ## Hungarian
 
 | Category | Website |
 | :--- | :--- |
-| Anime | [AnimeDrive](https://animedrive.hu/) |
+| **Anime** | [AnimeDrive](https://animedrive.hu/) |
 | ^^ | [MagyarAnime](https://magyaranime.eu/) :acc: |
 
 ## Indian
