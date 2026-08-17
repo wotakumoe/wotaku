@@ -242,7 +242,6 @@ For publisher platforms, some of the series are website-exclusive, while others 
 | ^^           | [Dongman Manhua](https://www.dongmanmanhua.cn/) :lcn:            | General              | Long-Strip  | App Focused  | Point       |
 | ^^           | [WEBTOON China](https://www.webtoons.com/zh-hant/) :lcn:          | General             | Long-Strip  | App Focused  | Point       |
 | ^^           | [Naver Series](https://series.naver.com/) :lkr:                   | General              | Both       | Web + App   | Point |
-| NHN		   | [Comico](https://www.comico.jp/) :ljp:								| General				| Long-Strip | Web + App | Point |
 | Kakao        | [KakaoPage](https://page.kakao.com/) :lkr:                       | General              | Long-Strip  | Web + App    | Point       |
 | ^^           | [KAKAO WEBTOON](https://webtoon.kakao.com/) :lkr:                | General              | Long-Strip  | Web + App    | Point       |
 | ^^           | [Tapas](https://tapas.io/)                                       | General              | Long-Strip  | Web + App    | Point       |
