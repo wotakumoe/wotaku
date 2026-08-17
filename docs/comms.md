@@ -74,12 +74,12 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Great Discord Links Hub](https://discord.gg/9KGMzP2) ||Scan groups||
 - [J-Novel Club](https://discord.gg/WmRnnFvfS3)
 - [Kagane](https://discord.gg/FqXt7rmnV3)
+- [r/Manga](https://discord.gg/manga)
+- [r/MangaPiracy](https://discord.gg/ZgMtAyxFSU)
 - [MangaBaka](https://discord.gg/XYtPtMkbKs)
 - [MangaKatana](https://discord.gg/bXfTCCtdXQ)
 - [MANGA Plus by SHUEISHA](https://discord.gg/qAkpHxH)
 - [RanobeDB](https://discord.gg/ZeAnhGncFx)
-- [r/Manga](https://discord.gg/manga)
-- [r/MangaPiracy](https://discord.gg/ZgMtAyxFSU)
 - [Weekly Shounen Jump](https://discord.gg/3JmVH4s7ff)
 
 == Apps
@@ -103,11 +103,14 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Usagi](https://discord.gg/4AHskjwtj4)
 
 == Music
+- [am-dl](https://discord.gg/RQFt3y8dYj)
+- [Arcod](https://discord.gg/hgC6ZegbKD)
 - [Doujin Cafe](https://discord.gg/doujincafe)
 - [DoujinStyle](https://discord.gg/z2QDFdA)
+- [Lucida](https://discord.gg/dXEGRWqEbS)
 - [MikuDB](https://discord.gg/w9Dq25n)
+- [Monochrome](https://discord.gg/4DYm4artsN)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
-- [SquidBoard](https://discord.gg/hfjBQXpXJq)
 
 == Games
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
