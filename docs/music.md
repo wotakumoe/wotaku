@@ -384,7 +384,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [mAbook Audiobook Player](https://play.google.com/store/apps/details?id=mindmine.audiobook) :cs::fm: | :and: |
 | [Smart AudioBook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) :cs::fm: | :and: |
 | [Sirin Audiobook Player](https://play.google.com/store/apps/details?id=com.sirin.android) :cs::fm: | :and: |
-| [BookPlayer](https://apps.apple.com/app/id1138219998) [:src:](https://github.com/TortugaPower/BookPlayer) :fm: | :ios: |
+| [BookPlayer](https://bookplayer.app/) [:src:](https://github.com/TortugaPower/BookPlayer) :fm: | :and::ios: |
 
 
 == Tools
