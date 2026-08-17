@@ -616,7 +616,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [HentaiLA](https://hentaila.com/hub) :ero: |
 | ^^ | [HentaiJL](https://hentaijl.com/) :ero: |
 | **Download** | [Japan Paw!](https://japanpaw.com/) |
-| ^^ | [SphinxAnime](https://sphinxanime.com/) |
 | ^^ | [Nekomitai](https://nekomitai.net/) |
 | ^^ | [Ivanime](https://www.ivanime.com/) |
 | ^^ | [DW Anime](https://dw-anime.net/) |
