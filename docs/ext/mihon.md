@@ -42,13 +42,6 @@ og:
 - raw: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.pb
 - data: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.json
 
-== Yūzōnō
-- url: https://yuzono.github.io
-- src: https://github.com/yuzono/tachiyomi-extensions
-- note: By Komikku dev. Mirrors Keiyoushi repo with a few extra extensions
-- raw: https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.pb
-- data: https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.json
-
 == Fucked by FAKKU
 - url: https://github.com/mojuru/cursed-manga-repo
 - note: Removed extensions from Keiyoushi due to DMCA by FAKKU. Maintained by Kommikku dev.
