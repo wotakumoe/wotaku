@@ -194,10 +194,10 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^       | [Bangumi Renamer](https://github.com/nuthx/bangumi-renamer) |
 | **Manga** | [Miru App](https://miru.js.org/) [:src:](https://github.com/miru-project/miru-app) |
 | ^^       | [Venra](https://github.com/venera-app/venera) |
-| ^^       | [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) ||Downloader|| |
-| ^^       | [Bilibili manga watermark remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
+| ^^       | [Bilibili Manga Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) |
+| ^^       | [Bilibili Manga Watermark Remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) |
 | **Others** | [JProxy](https://github.com/LuckyPuppy514/jproxy) ||Downloader|| |
-| ^^        | [Novel downloader](https://github.com/404-novel-project/novel-downloader) |
+| ^^        | [Novel Downloader](https://github.com/404-novel-project/novel-downloader) |
 | ^^        | [PicACG Qt](https://github.com/tonquer/picacg-qt) :win::app::lin: |
 
 ### Others
@@ -309,7 +309,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
 | ^^ | [Anime Salt](https://animesalt.link/) + :len: |
 | ^^ | [Anime World India](https://watchanimeworld.top/) + :len: |
-| ^^ | [AniMoye](https://animoye.com/) + :len: |
 | ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
 | ^^ | [Dora Bash](https://dorabash.in/) + :len: |
 | ^^ | [Kartoons](https://kartoons.me/home) |
