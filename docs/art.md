@@ -57,15 +57,18 @@ og:
 | :--- | :--- |
 | **Booru** | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
 | ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy/danbooru-viewer) |
+| ^^ | [Gelbooru-Go](https://gel.bloat.cat/) [:src:](https://git.bloat.cat/vlnst/gelbooru-go) |
 | ^^ | [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/) |
-| **Pixiv** | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/PixivFE/PixivFE) |
+| **Pixiv** | [LiteXiv](https://codeberg.org/LiteXiv/LiteXiv) |
+| ^^ | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/PixivFE/PixivFE) |
 | ^^ | [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer) |
 | ^^ | [Pixiv Yearbook](https://pixiv.navirank.com/) |
 | **Twitter** | [Twicomi](https://twicomi.com/) :ljp: |
 | ^^ | [Twiman](https://twiman.net/) :ljp: |
 | ^^ | [Buhitter](https://buhitter.com/) :ljp: |
 | ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) ||Nitter|| |
-| **Others** | [Pixnoy](https://www.pixnoy.com/) ||Instagram|| |
+| **Others** | [bloat.cat](https://bloat.cat/) |
+| ^^ | [Pixnoy](https://www.pixnoy.com/) ||Instagram|| |
 
 == Others
 | Type | Website |
