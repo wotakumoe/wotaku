@@ -254,9 +254,5 @@ gallery-dl "Madokami URL"
 5. Now go to the Source page and click on Madokami to read/download the available manga.
 :::
 
-::: warning WEBP issue
-The Madokami extension by Keiyoushi uses Madokami's web reader instead of downloading the files like other downloaders (so that you can load the manga page by page). Madokami's web reader can't read `.webp` files, resulting in errors in Mihon and its forks as well.
-:::
-
 == iOS
 You can access Madokami on [Aidoku](https://aidoku.app/), [Paperback](https://paperback.moe/) and [Suwatte](https://www.suwatte.app/) via their respective [extensions](/ext/ios).
