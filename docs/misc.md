@@ -22,7 +22,6 @@ outline: 2
 - [Kitsu](https://kitsu.app/explore/anime)
 - [Kurozora](https://kurozora.app/)
 - [NeoApo](https://neoapo.com/) :ljp:
-- [Sakuhin Database](https://sakuhindb.com/) :ljp:
 
 </collapsible>
 
