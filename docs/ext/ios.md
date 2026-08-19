@@ -132,29 +132,6 @@ You can install v0.8 extensions in the v0.9 Paperback client, but you can't inst
 
 ::: extrepo {scheme=suwatte}
 
-== Mantton
-- url: https://aegir.mantton.com/
-- raw: https://kotatsu-83g.pages.dev/suwatte/aegir.json
-
-== Jishnu
-- url: https://jishnusen.github.io/SuwatteSources/
-- src: https://github.com/jishnusen/SuwatteSources
-- raw: https://kotatsu-83g.pages.dev/suwatte/jishnu.json
-
-== Seb
-- url: https://sebzzzzzzzzzzzzzzzz.github.io/sources/
-- raw: https://kotatsu-83g.pages.dev/suwatte/seb.json
-
-== Community
-- url: https://community.suwatte.app/
-- raw: https://kotatsu-83g.pages.dev/suwatte/suwatte-community.json
-
-:::
-
-## Suwatte (v7)
-
-::: extrepo {scheme=suwatte}
-
 == Bergelmir
 - url: https://bergelmir.mantton.com/
 - raw: https://bergelmir.mantton.com/sources.json
