@@ -518,6 +518,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 | ^^ | [TV Tropes](https://tvtropes.org/) |
 | **Manga** | [AnniversaryJump](https://www.anniversaryjump.com/?lang=en) |
 | ^^ | [HUNTER×HUNTER Hiatus Chart](https://hiatus-hiatus.github.io/) [:src:](https://github.com/hiatus-hiatus/hiatus-hiatus.github.io) |
+| ^^ | [Inazuma](https://inazuma.rl404.com/) [:src:](https://github.com/rl404/inazuma) |
 | ^^ | [Skip and Loafer](https://skip-and-loafer.mikeblocky.com/#home) |
 | ^^ | [Vagabond Hiatus Chart](https://vagabond-hiatus-chart.vercel.app/) [:src:](https://github.com/falsepopsky/vagabond-hiatus-chart) |
 | **Others** | [AIDN](https://aidn.jp/contents/) |
