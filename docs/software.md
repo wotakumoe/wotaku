@@ -35,6 +35,7 @@ og:
 | ^^ | [Komikku](https://komikku-app.github.io/) :s: [:src:](https://github.com/komikku-app/komikku) [:n:](https://github.com/komikku-app/komikku-preview) |
 | ^^ | [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:src:](https://github.com/jobobby04/TachiyomiSY) [:n:](https://github.com/jobobby04/TachiyomiSYPreview) |
 | ^^ | [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:src:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk) |
+| ^^ | [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:src:](https://github.com/Jays2Kings/tachiyomiJ2K) |
 | **Kotatsu** | [Usagi](https://yumemi.moe/) [:src:](https://github.com/UsagiApp/Usagi) |
 | ^^ | [Futon](https://futon.wtf/) [:src:](https://github.com/AppFuton/Futon) |
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
