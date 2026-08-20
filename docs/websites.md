@@ -215,7 +215,8 @@ Some of the series/services may not be available depending on your region.
 
 | Category | Websites | Payment |
 | :--- | :--- | :--- |
-| **General** | [Omoi](https://www.omoi.com/) | :free::paid::sub: |
+| **General** | [MangaPlaza](https://mangaplaza.com/) | :free::coin::sub: |
+| ^^ | [Omoi](https://www.omoi.com/) | :free::paid::sub: |
 | ^^ | [Renta!](https://www.ebookrenta.com/) | :free::coin: |
 | ^^ | [Yen Press](https://yenpress.com/) | :paid: |
 | **Chapter** | [Comikey](https://comikey.com/) | :free::coin: |
@@ -228,7 +229,6 @@ Some of the series/services may not be available depending on your region.
 | ^^ | [Shonen Jump](https://www.viz.com/sj-offer) | :free::sub: |
 | **Volume** | [Kodansha USA](https://kodansha.us/) | :paid: |
 | ^^ | [Manga Mavericks](https://store.mangamavericks.com/) | :paid: |
-| ^^ | [Manga Mirai](https://mangamirai.com/) | :free::paid: |
 | ^^ | [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
 | ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
 | ^^ | [TOKYOPOP](https://tokyopop.com/) | :paid: |
