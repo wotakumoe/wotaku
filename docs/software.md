@@ -138,6 +138,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
+| ^^ | [TachiyomiAzIOS](https://github.com/az4521/TachiyomiAzIOS) [:e:](/ext/mihon) |
 | ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/ios#paperback) |
 | ^^ | [Suwatte](https://suwatte.mantton.com/) :cs: [:e:](/ext/ios#suwatte) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
