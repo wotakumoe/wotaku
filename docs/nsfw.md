@@ -227,7 +227,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | **Others** | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
 | ^^ | [Gravure Princess](https://idol.gravureprincess.date/) |
 | ^^ | [Mabui Onna](https://mabui-onna.com/) |
-| ^^ | [X-IDOL](https://xidol.net/) [:prx:](https://i.wotaku.wiki/p/proxy#x-idol) |
+| ^^ | [X-IDOL](https://x-idol.net/) [:prx:](https://i.wotaku.wiki/p/proxy#x-idol) |
 | ^^ | :rd: [Japanese DDL](/nonen#direct) |
 
 == Scripts
