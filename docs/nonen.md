@@ -68,7 +68,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Novels** | [Hizo Manga](https://hizomanga.net/) |
 | **NSFW** | [Arabs Hentai](https://arabshentai.com/) |
 | ^^ | [Hentai Time](https://hentai-time.com/) |
-| ^^ | [NXX Hentai](https://nxxhentai.net/) |
 | ^^ | [Risto Hentai](https://ristohentai.com/) |
 | ^^ | [Saudi Hentai](https://saudihentai.com/) |
 
