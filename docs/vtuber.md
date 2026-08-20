@@ -70,6 +70,7 @@ og:
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page)
 - [Immerhate Archive](https://immerhate.holofun.net/)
 - [Inaversary](https://otako.fans/)
+- [Mumei Soundboard](https://mumei-cute.com/)
 - [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex)
 - [Raora's Kitchen](https://raoras-kitchen.pages.dev/)
 
