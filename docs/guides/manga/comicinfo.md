@@ -117,7 +117,7 @@ These websites focus on Manhwa, Manhua and OEL.
 | [INKR](https://comics.inkr.com/)                  | Varies<sup>2</sup> |  :no: |
 | [Lezhin](https://www.lezhinus.com/en)            | 1280x <sup>3</sup>              | :no: |
 | [Line Webtoon](https://www.webtoons.com/en/)     | 720-800x                        | :yes:|
-| [MangaToon](https://mangatoon.mobi/en) | Varies<sup>4</sup> | :no: |
+| [MangaToon](https://mangatoon.mobi/) | Varies<sup>4</sup> | :no: |
 | [Manta](https://manta.net/en) <sup>5</sup>       | 720x                            | :yes: |
 | [Tapas](https://tapas.io/)   <sup>5</sup>        | 940x                            | :yes: |
 | [Tappytoon](https://www.tappytoon.com/en/comics/discover)<sup>5</sup> | 720x                       | :yes: |
