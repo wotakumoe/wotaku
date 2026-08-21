@@ -466,10 +466,10 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc121.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon5.com/) |
-| ^^ | [Funbe](https://funbe667.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe668.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [MoneyToon](https://mtoon149.asia/) |
 | ^^ | [NameeToon](https://namee109.asia/) |
-| ^^ | [TOONKOR](https://tkor145.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [TOONKOR](https://tkor146.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf482.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon224.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
