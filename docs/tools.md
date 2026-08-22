@@ -396,7 +396,6 @@ og:
 - [Ame](https://gitlab.com/SuperSaltyGamer/ame)
 - [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:src:](https://github.com/Purfview/Discogs-Scout)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
-- [Slav Art User Scripts](https://rentry.org/slavartuserscripts)
 
 == Misc
 
