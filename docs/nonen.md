@@ -407,13 +407,12 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.land/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
-- [Sen Manga](https://raw.senmanga.com/)
 - [Soraraw](https://soraraw.com/)
 
 </Collapsible>
 
 ::: tip More
-[Multi-lingual](#multi-language) websites also upload raw chapters. Although won't be as fast as dedicated.
+[Multi-lingual](#manga) websites also upload raw chapters, but don't update as fast as dedicated ones.
 :::
 
 ### Download
