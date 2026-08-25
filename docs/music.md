@@ -111,7 +111,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Monochrome](https://monochrome.tf/) [:prx:](https://github.com/monochrome-music/monochrome/blob/main/INSTANCES.md#official-instance) [:src:](https://github.com/monochrome-music/monochrome) | **Amazon** |
 | [am-dl](https://am-dl.pages.dev/) ==am-dl== | **Apple** |
 | [Arcod](https://www.arcod.xyz/) :acc: | **Qobuz** |
-| [Rhythmax](https://tidal-dl.pages.dev/) | **Tidal** |
+| [Rhythmax](https://tidal-dl.pages.dev/) [:src:](https://github.com/ODSkyler/tidal-proxy) | **Tidal** |
 
 == Doujin
 
