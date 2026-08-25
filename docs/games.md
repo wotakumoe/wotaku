@@ -140,6 +140,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Smogon University](https://www.smogon.com/) [:poke:](https://www.smogon.com/dex/)
 - [Pokéos](https://www.pokeos.com/) [:poke:](https://www.pokeos.com/pokedex/)
 - [PokéJungle](https://pokejungle.net/) ||News||
+- [PokémonPalette](https://pokemonpalette.com/)
 
 == Fan Games
 
