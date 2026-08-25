@@ -60,6 +60,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 ::: tabs
 
 == Database
+- [Catsuka Shopping](https://www.catsuka.com/shopping/)
 - [Figurapedia](https://figurapedia.com/)
 - [Figure Community](https://figure.community/)
 - [Figure Memo](https://figurememo.com/)
@@ -141,6 +142,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Play-Asia](https://www.play-asia.com/)
 - [Robert's Anime Corner Store](https://www.animecornerstore.com/)
 - [Sentai Store](https://www.sentaifilmworks.com/)
+- [Video Games Plus](https://videogamesplus.ca/)
 - [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
 
