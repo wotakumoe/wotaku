@@ -306,6 +306,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Stream** | [Aniflix](https://aniflix.us/) |
 | ^^ | [AnimeLok](https://animelok.live/home) + :len: |
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
+| ^^ | [Anime World India](https://watchanimeworld.one/) + :len: |
 | ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
 | ^^ | [Dora Bash](https://dorabash.in/) + :len: |
 | ^^ | [Kartoons](https://kartoons.me/home) |
