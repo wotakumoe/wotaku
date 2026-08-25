@@ -80,10 +80,10 @@ og:
 
 | Category | Websites |
 | :--- | :--- |
-| **General** | [Globe TV](https://globetv.app/) |
+| **General** | [Famelack](https://famelack.com/jp) |
+| ^^ | [Globe TV](https://globetv.app/) |
 | ^^ | [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) [||JP||](https://iptv-org.github.io/iptv/countries/jp.m3u) [||JPN||](https://iptv-org.github.io/iptv/languages/jpn.m3u) |
 | ^^ | [Search TV](https://searchtv.net/) |
-| ^^ | [TV Garden](https://famelack.com/jp) |
 | **Japan** | [AQ Stream](https://aqstream.com/jp) |
 | ^^ | [FAST ch](https://fastv.jp/) :hd: |
 | ^^ | [Japanese TV](https://mov3.co/) :hd: |
