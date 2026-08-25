@@ -59,6 +59,14 @@ og:
 == copymanga-copy20
 - url: https://github.com/LittleSurvival/copymanga-copy20
 - raw: https://raw.githubusercontent.com/LittleSurvival/copymanga-copy20/repo/index.min.json
+
+== FelipeGFA
+- url: https://felipegfa.github.io/
+- src: https://github.com/FelipeGFA/fonte-extensoes
+- note: Focuses on PT-BR
+- raw: https://raw.githubusercontent.com/FelipeGFA/extensoes/refs/heads/repo/index.pb
+- data: https://raw.githubusercontent.com/FelipeGFA/extensoes/refs/heads/repo/index.json
+
 :::
 
 ## How-to
