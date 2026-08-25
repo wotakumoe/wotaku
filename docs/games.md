@@ -140,7 +140,6 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Smogon University](https://www.smogon.com/) [:poke:](https://www.smogon.com/dex/)
 - [Pokéos](https://www.pokeos.com/) [:poke:](https://www.pokeos.com/pokedex/)
 - [PokéJungle](https://pokejungle.net/) ||News||
-- [PokémonPalette](https://pokemonpalette.com/)
 
 == Fan Games
 
@@ -159,6 +158,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - Nuzlocke Chart [:and:](https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart) [:ios:](https://apps.apple.com/app/id1573090300)
 - [PKHeX](https://github.com/kwsch/PKHeX)
 - [Poké Transporter GB](https://github.com/Striaton-Lab-Team/Poke_Transporter_GB)
+- [Pokémon Palette](https://pokemonpalette.com/) [:src:](https://github.com/yassenshopov/pokemonpalette)
 - [Pokémon Type Calculator](https://www.pkmn.help/pokedex/)
 - [Stat Calculator](https://veekun.com/dex/gadgets/stat_calculator)
 - [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/)
