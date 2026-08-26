@@ -242,7 +242,7 @@ og:
 
 | Software | Platforms |
 | :--- | :--- |
-| [hibiki](https://github.com/hajisensai/hibiki) | :and::win: |
+| [Fushi](https://github.com/hajisensai/Fushi) | :and::ios::win::app: |
 | [jidoujisho](https://github.com/arianneorpilla/jidoujisho) :ded: | :and: |
 | :prev: [shiroikumanojisho](https://github.com/ShiroiKuma0/shiroikumanojisho) | :and: |
 | [Niratan](https://github.com/W1ght/Niratan) | :app: |

@@ -66,8 +66,9 @@ og:
 | **Twitter** | [Twicomi](https://twicomi.com/) :ljp: |
 | ^^ | [Twiman](https://twiman.net/) :ljp: |
 | ^^ | [Buhitter](https://buhitter.com/) :ljp: |
-| ^^ | [X Cancelled](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) ||Nitter|| |
 | **Others** | [bloat.cat](https://bloat.cat/) |
+| ^^ | :prev: [rimgo](https://rimgo.bloat.cat/trending) ||Imgur|| |
+| ^^ | :prev: [Priviblur](https://pb.bloat.cat/explore/trending) ||Tumblr|| |
 | ^^ | [Pixnoy](https://www.pixnoy.com/) ||Instagram|| |
 
 == Others
