@@ -181,7 +181,7 @@ og:
 | ^^        | [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs: |
 | ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) ||Fanbox|| |
 | **Others** | [Wallflow](https://github.com/ammargitham/WallFlow) |
-| ^^        | [Piko Twitter](https://github.com/crimera/piko) [||Builds||](https://github.com/crimera/twitter-apk) |
+| ^^        | [Piko Twitter](https://github.com/crimera/piko) |
 | ^^        | [RWalls](https://github.com/mehulpillai30/RWalls) |
 | ^^        | [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3) |
 
