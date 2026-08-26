@@ -464,7 +464,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [FreeToon](https://foc122.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon5.com/) |
 | ^^ | [Funbe](https://funbe669.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [MoneyToon](https://mtoon149.asia/) |
+| ^^ | [MoneyToon](https://mtoon150.asia/) |
 | ^^ | [NameeToon](https://namee110.asia/) |
 | ^^ | [TOONKOR](https://tkor147.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf484.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
