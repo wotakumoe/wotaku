@@ -185,7 +185,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 - [DLsite](https://www.dlsite.com/index.html)
 - :prev: [DLwatcher](https://dlwatcher.com/)
 - [FAKKU](https://www.fakku.net/games)
-- [JAST](https://jastusa.com/)
+- [JAST](https://jaststore.com/)
 - [Johren](https://www.johren.games/)
 - [MangaGamer](https://www.mangagamer.com/)
 
