@@ -153,8 +153,11 @@ You can also set up your client to do this automatically by adding it to the **C
 2. Update all the modules and restart FMD2 after the update is complete. You can check the update process in `Options > Websites > Modules`
 3. Then go to `Options > Websites > Accounts` and add your Madokami credentials. After that select Madokami and click apply.
 4. Set the number of downloaded files per task at the same time under `Options > Connections > Downloads` to 3.
-5. Now go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
-6. After it loads the chapters, select the chapters you want to download and click **Download**
+5. Navigate to the [**Madokami Website**](https://manga.madokami.al/) and login using the credentials you established for the IRC channel earlier.
+6. Search for the manga that you are wanting to download. Note that you will likely need to use the romanized version of the name to find it. Further note that you should find a **path** that starts with **Manga** rather than **Raws**, unless you want to read untranslated manga. 
+7. Once you find the proper path, click on it, then copy the URL. 
+8. Now go to **Manga info** and paste the URL in **Input URL here** and click :right-arrow:
+9. After it loads the chapters, select the chapters you want to download and click **Download**
 :::
 
 <div class="video_wrapper"><iframe src="https://youtube.com/embed/BR3GR8S_Oqo" frameborder="0" allowfullscreen></iframe></div>
