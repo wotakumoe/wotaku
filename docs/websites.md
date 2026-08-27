@@ -265,13 +265,13 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 | Category | Websites |
 | :--- | :--- |
-| **General** | [Elscione's Library](https://server.elscione.com/) :ddl: [:alt:](https://server.elsci.one/) |
 | **Official** | [cyrisia](https://cyrisia.com/) |
 | ^^ | [LNori](https://lnori.com/library) |
 | ^^ | [Ranobe](https://staging.ranobe.app/) :acc: ||AlpinDale|| |
 | **FanTL** | [Novel Updates](https://www.novelupdates.com/) |
 | ^^ | [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page) |
 | ^^ | [Ranobes](https://ranobes.top/) |
+| **General** | [Elscione's Library](https://server.elscione.com/) :ddl: [:alt:](https://server.elsci.one/) |
 
 == Nyaa
 - [AlpinDale](https://nyaa.si/user/AlpinDale)
