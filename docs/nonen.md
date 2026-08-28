@@ -462,12 +462,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc122.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
 | ^^ | [FRToon](https://frtoon5.com/) |
-| ^^ | [Funbe](https://funbe669.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe670.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [MoneyToon](https://mtoon150.asia/) |
 | ^^ | [NameeToon](https://namee110.asia/) |
-| ^^ | [TOONKOR](https://tkor147.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf484.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [Wolf 2](https://wftoon225.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [TOONKOR](https://tkor148.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Wolf](https://wfwf486.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf 2](https://wftoon226.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
 | ^^ | [YaToon](https://yatoon246.asia/) [:prx:](https://yatoonlink.com/) |
@@ -628,7 +628,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [KuManga](https://www.kumanga.com/index.php)
 - [Leemiau](https://leemiau.com/)
 - [LexMangas](https://www.lexmangas.com/)
-- [MangaCrab](https://mangacrab.org/) :ero:
+- [MangaCrab](https://es.mangacrab.org/) :ero:
 - [MangaOni](https://manga-oni.com/)
 - [NOVA](https://novelasligeras.net/)
 
