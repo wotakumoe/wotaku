@@ -51,7 +51,7 @@ og:
 | ^^ | [JP Classics](https://animation.filmarchives.jp/index.html) :hd: |
 | **Live Action** | [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd: [:prx:](https://asiaflix.xyz/) |
 | ^^ | [OneTouch TV](https://onetouchtv.xyz/) :hd: |
-| ^^ | [JP-Films](https://jp-films.com/) :fm: |
+| ^^ | [Kodasusaka](https://kodasusaka.com/) |
 | ^^ | [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub|| |
 
 == Download
