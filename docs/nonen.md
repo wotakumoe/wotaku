@@ -218,7 +218,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | :--- | :--- |
 | **Anime** | [AnimeKO](https://v4.animeko.ws/) |
 | ^^ | [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/) + :len: |
-| ^^ | [AnimesUltra](https://ww.animesultra.org/) |
+| ^^ | [AnimesUltra](https://v2.animesultra.org/) |
 | ^^ | [Fluneo](https://myfluneo.eu/) |
 | ^^ | [FRAnime](https://franime.fr/) |
 | ^^ | [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai) |
@@ -403,7 +403,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Rawkuma](https://rawkuma.net/)
 - [Raw FREE](https://rawfree.voto/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.help/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.world/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Soraraw](https://soraraw.com/)
 
@@ -695,7 +695,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyencw.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenuv.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [qManga](https://qmanga.art/) |
 | **Novels** | [Hako](https://docln.net/) |
