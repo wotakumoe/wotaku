@@ -365,7 +365,7 @@ outline: 2
 | **Search** | [SauceNAO](https://saucenao.com/) :s: |
 | ^^         | [Trace](https://trace.moe/) [:src:](https://github.com/soruly/trace.moe) |
 | ^^         | [ascii2d](https://ascii2d.net/) |
-| ^^         | [Multi-service image search](https://iqdb.org/?ckatt=1) |
+| ^^         | [Multi-service image search](https://iqdb.org/) |
 | **Others** | [Slowpoke Pics](https://slow.pics/) |
 
 
