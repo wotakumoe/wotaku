@@ -323,8 +323,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^                  | [Uta-Net](https://www.uta-net.com/) :ljp: |
 | ^^                  | [UtaTen](https://utaten.com/) :ljp: |
 | ^^                  | [Make Believe Mailer](https://mbmelodies.substack.com/) :s: |
-| **Doujin & Vocaloid** | [Vocasphere](https://vocasphere.net/) |
-| ^^                  | [Merami fan](https://meramifan.wordpress.com/) :s: |
+| **Doujin & Vocaloid** | [Merami fan](https://meramifan.wordpress.com/) :s: |
 | ^^                  | [Touhou Memories](https://touhou-memories.com/) |
 | ^^                  | [Hatsune Miku](https://x.com/cfm_miku_en) |
 
