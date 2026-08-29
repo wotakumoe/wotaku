@@ -30,6 +30,11 @@ og:
 - url: https://github.com/Moomooo95/aidoku-french-sources
 - raw: https://moomooo95.github.io/aidoku-french-sources/index.min.json
 
+== Popmango
+- url: https://poppingmangosources.github.io/popmango-aidoku-sources/
+- src: https://github.com/PoppingMangoSources/popmango-aidoku-sources
+- raw: https://poppingmangosources.github.io/popmango-aidoku-sources/index.min.json
+
 == Smexhy
 - url: https://smexhy.github.io/yomu-aidoku-sources/
 - src: https://github.com/Smexhy/yomu-aidoku-sources
@@ -59,6 +64,11 @@ og:
 - src: https://github.com/karrot0/KakarotExtension/
 - raw: https://karrot0.github.io/KakarotExtension/0.9/stable/versioning.json
 
+== Kitty
+- url: https://kittycatgit.github.io/kitty-extensions-0.9/
+- src: https://github.com/kittycatgit/kitty-extensions-0.9
+- raw: https://kittycatgit.github.io/kitty-extensions-0.9/versioning.json
+
 == Lucifer
 - url: https://read.pirate.vodka/
 - src: https://github.com/LucifersCircle/pirate.vodka-extensions
@@ -70,7 +80,7 @@ og:
 - raw: https://paperback.nyzz.me/versioning.json
 
 == Popmango
-- url: https://poppingmangosources.github.io/general-extensions-mangago/0.9/test/
+- url: https://poppingmangosources.github.io/popmango-paperback-sources/all/#paperback-0-9
 - src: https://github.com/PoppingMangoSources/general-extensions-mangago
 - raw: https://poppingmangosources.github.io/general-extensions-mangago/0.9/test/versioning.json
 
@@ -108,6 +118,11 @@ og:
 - url: https://xdkinso.github.io/kinso-extensions-v0.8/
 - src: https://github.com/xdKinso/kinso-extensions-v0.8
 - raw: https://xdkinso.github.io/kinso-extensions-v0.8/versioning.json
+
+== Popmango
+- url: https://poppingmangosources.github.io/popmango-paperback-sources/all/#paperback-0-8
+- src: https://github.com/PoppingMangoSources/popmango-paperback-sources
+- raw: https://poppingmangosources.github.io/popmango-paperback-sources/0.8/versioning.json
 
 == Shadorig
 - url: https://shadorig.github.io/real-extensions/sources/
