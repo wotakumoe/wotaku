@@ -130,7 +130,7 @@ Most apps in [**software**](/software) supports multilingual sources
 ### Comics
 - [69xinshu](https://www.69shuba.com/)
 - [8Comic](https://www.8comic.com/)
-- [Antbyw](https://www.antbyw.com/)
+- [Antbyw](https://www.antbyw.com/plugin.php?id=jameson_manhua)
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
 - [Copymanga](https://www.copy20.com/) :ero: [:alt:](https://www.2025copy.com/)

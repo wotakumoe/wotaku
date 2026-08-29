@@ -100,7 +100,7 @@ outline: 2
 | Category | Websites |
 | --- | --- |
 | **General** | [MangaUpdates](https://www.mangaupdates.com/) :s: |
-| ^^ | [Manba](https://manba.co.jp/) :s::ljp: |
+| ^^ | [Manba](https://manba.co.jp/) :s::ljp: ==Manba== |
 | ^^ | [MangaSeek](https://mangaseek.net/) :ljp: |
 | ^^ | [Comic Vine](https://comicvine.gamespot.com/) |
 | **Magazine** | [Manga Properties](https://manga.properties/) |
@@ -365,7 +365,7 @@ outline: 2
 | **Search** | [SauceNAO](https://saucenao.com/) :s: |
 | ^^         | [Trace](https://trace.moe/) [:src:](https://github.com/soruly/trace.moe) |
 | ^^         | [ascii2d](https://ascii2d.net/) |
-| ^^         | [Multi-service image search](https://iqdb.org/) |
+| ^^         | [Multi-service image search](https://iqdb.org/?ckatt=1) |
 | **Others** | [Slowpoke Pics](https://slow.pics/) |
 
 
