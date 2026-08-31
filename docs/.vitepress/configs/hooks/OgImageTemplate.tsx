@@ -1,4 +1,4 @@
-/** @jsx react-jsx **/
+import React from 'react'
 
 type OgImageTemplateProps = {
   title: string
