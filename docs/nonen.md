@@ -661,7 +661,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Türk Anime TV](https://www.turkanime.tv/) |
 | **Manga** | [Manga-TR](https://manga-tr.com/index.html) |
 | ^^ | [Sadscans](https://sadscans.net/) |
-| ^^ | [Tortuga Ceviri](https://tortuga-ceviri.com/) |
 | **Others** | [AnimeListem](https://animelistesi.com/) |
 | ^^ | [KesifAsya](https://kesifasya.com/) |
 | ^^ | [Web Drama Turkey](https://webdramaturkey2.com/) |
