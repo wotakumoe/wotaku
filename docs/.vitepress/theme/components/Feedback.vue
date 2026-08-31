@@ -47,40 +47,58 @@ const loading = ref<boolean>(false)
 const error = ref<unknown>(null)
 const success = ref<boolean>(false)
 
+// Generate or retrieve stable visitor ID from localStorage
+function getVisitorId(): string {
+  const key = 'wotaku_visitor_id'
+  let id = localStorage.getItem(key)
+  if (!id || id.length !== 32) {
+    id = crypto.randomUUID().replace(/-/g, '').slice(0, 32)
+    localStorage.setItem(key, id)
+  }
+  return id
+}
+
 const isDisabled = computed(() => {
   return (
-    !feedback.message.length ||
-    feedback.message.length < 5 ||
-    feedback.message.length > 1000
+    !feedback.content.length ||
+    feedback.content.length < 5 ||
+    feedback.content.length > 2000
   )
 })
 
 // prettier-ignore
 const feedback = reactive<
-  Pick<FeedbackType, 'message' | 'page'> & Partial<Pick<FeedbackType, 'type'>>
+  Pick<FeedbackType, 'content' | 'page'> & Partial<Pick<FeedbackType, 'type' | 'name'>>
 >({
   page: getURL(props.heading!),
-  message: ''
+  content: '',
+  name: ''
 })
 
 const selectedOption = ref(feedbackOptions[0])
 
-async function handleSubmit(type?: FeedbackType['type']) {
-  if (type) {
-    feedback.type = type
-    selectedOption.value = getFeedbackOption(type)!
-  }
-  loading.value = true
+function selectType(type: FeedbackType['type']) {
+  feedback.type = type
+  selectedOption.value = getFeedbackOption(type)!
+  error.value = null
+}
 
-  const body: FeedbackType = {
-    message: feedback.message,
+async function handleSubmit() {
+  loading.value = true
+  success.value = true
+  error.value = null
+
+  const body = {
+    content: feedback.content,
     type: feedback.type!,
     page: feedback.page,
-    ...(props.heading && { heading: props.heading })
+    visitorId: getVisitorId(),
+    ...(props.heading && { heading: props.heading }),
+    ...(feedback.name && { name: feedback.name })
   }
 
   try {
-    const response = await fetch('https://wotaku.tasky.workers.dev', {
+    const response = await fetch('https://wotaku-feedback.duckling.workers.dev/api/feedback', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -90,13 +108,11 @@ async function handleSubmit(type?: FeedbackType['type']) {
 
     const data = await response.json()
     if (data.error) {
+      success.value = false
       error.value = data.error
-      return
-    }
-    if (data.status === 'ok') {
-      success.value = true
     }
   } catch (err) {
+    success.value = false
     error.value = err
   } finally {
     loading.value = false
@@ -152,7 +168,7 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
               v-for="item in feedbackOptions"
               :key="item.value"
               class="bg-bg border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
-              @click="handleSubmit(item.value)"
+              @click="selectType(item.value)"
             >
               <span :class="[item.icon, 'mr-1 inline-block align-middle']" />
               <span class="align-middle">{{ item.label }}</span>
@@ -244,11 +260,20 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
             </details>
           </div>
           <textarea
-            v-model="feedback.message"
+            v-model="feedback.content"
             autofocus
             class="feedback-textarea bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
             :placeholder="prompt"
           />
+          <input
+            v-model="feedback.name"
+            maxlength="50"
+            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full border border-$vp-c-divider rounded px-3 py-1.5 mt-2 b-rd-4 border-2 border-solid text-sm"
+            placeholder="Name (optional)"
+          />
+          <p v-if="error" class="text-red-400 text-sm mt-1">
+            Failed to send: {{ String(error) }}
+          </p>
           <p class="desc mb-2">
             If you want a reply to your feedback, feel free to mention a contact
             in the message or join our

@@ -6,11 +6,7 @@
     "format": "dprint fmt",
     "docs:dev": "vitepress dev docs",
     "docs:build": "NODE_OPTIONS='--max-old-space-size=8192' vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "api:prepare": "nitropack prepare",
-    "api:dev": "nitropack dev",
-    "api:build": "nitropack build",
-    "api:preview": "node .output/server/index.mjs"
+    "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
     "@fmhy/components": "^0.0.3",
@@ -27,7 +23,6 @@
     "dprint": "^0.50.2",
     "floating-vue": "^5.2.2",
     "gray-matter": "^4.0.3",
-    "itty-fetcher": "^1.0.10",
     "lucide-vue-next": "^0.553.0",
     "mark.js": "^8.11.1",
     "markdown-it": "^14.1.0",
@@ -37,8 +32,6 @@
     "medium-zoom": "^1.1.0",
     "minisearch": "^7.2.0",
     "motion-v": "^1.7.4",
-    "nitro-cors": "^0.7.1",
-    "nitropack": "^2.10.4",
     "oxc-minify": "^0.96.0",
     "pathe": "^2.0.3",
     "react": "^19.2.6",

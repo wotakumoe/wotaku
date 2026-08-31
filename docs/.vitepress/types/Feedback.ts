@@ -8,7 +8,7 @@
 import z from 'zod'
 
 export const FeedbackSchema = z.object({
-  message: z.string().min(5).max(1000),
+  content: z.string().min(5).max(2000),
   type: z.enum([
     'submit',
     'update',
@@ -18,8 +18,9 @@ export const FeedbackSchema = z.object({
     'other'
   ]),
   page: z.string().url(),
-  // For heading based feedback
-  heading: z.string().min(3).max(20).optional()
+  heading: z.string().min(3).max(50).optional(),
+  name: z.string().min(1).max(50).optional(),
+  visitorId: z.string().length(32)
 })
 
 export interface Option {
