@@ -574,12 +574,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 == Android
 
-- [Tempus](https://github.com/eddyizm/tempus) :s:
+- [Tempus](https://eddyizm.github.io/tempus/) :s: [:src:](https://github.com/eddyizm/tempus)
 - [Castafiore](https://github.com/sawyerf/Castafiore) :ff::cr:
-- [Navic](https://navic.app/)
-- [Ultrasonic](https://ultrasonic.gitlab.io/)
-- [Plexamp](https://www.plex.tv/plexamp/) :fm:
-- [Symfonium](https://symfonium.app/) :paid:
+- [Navic](https://navic.app/) [:src:](https://github.com/ssalggnikool/Navic)
+- [Ultrasonic](https://ultrasonic.gitlab.io/) [:src:](https://gitlab.com/ultrasonic/ultrasonic)
+- [Plexamp](https://www.plex.tv/plexamp/) :cs::fm:
+- [Symfonium](https://symfonium.app/) :cs::paid:
 
 == iOS
 
