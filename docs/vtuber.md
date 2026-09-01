@@ -84,9 +84,9 @@ og:
 == Stats
 
 - [Hololive Spotify Stats](https://holo-spotify-stats.jirikunes.eu/) [:src:](https://github.com/kunesj/holo-spotify-stats)
-- [Hololive Livestream Activity Statistics](https://holopro-yt-livestream-activity-statistics.streamlit.app/) [:src:](https://github.com/risbi0/Hololive-Production-Livestream-Activity-Statistics)
 - [HoloChatStats](https://holochatstats.info/) [:src:](https://github.com/mipacd/HoloChatStats)
-- [Holotracker](https://trackholo.live/en/)
+- [HoloLogs](https://logs.holofun.net/)
+- [HoloTracker](https://trackholo.live/en/)
 - [Holouta Songs](https://www.youtube.com/@hololivesongs9790/) :ljp:
 
 == Others
