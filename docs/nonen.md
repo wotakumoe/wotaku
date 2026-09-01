@@ -460,17 +460,17 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [FreeToon](https://foc123.asia/) [:prx:](https://xn--9r2b17bn28a.com/) |
+| ^^ | [FreeToon](https://foc123.asia/) |
 | ^^ | [FRToon](https://frtoon5.com/) |
-| ^^ | [Funbe](https://funbe670.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [MoneyToon](https://mtoon150.asia/) |
+| ^^ | [Funbe](https://funbe671.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [MoneyToon](https://mtoon151.asia/) |
 | ^^ | [NameeToon](https://namee111.asia/) |
-| ^^ | [TOONKOR](https://tkor148.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [NewXToon](https://newxtoon1.com/) |
+| ^^ | [TOONKOR](https://tkor149.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf488.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon226.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [XToon](https://t4.xtoon365.com/) [:prx:](https://xn--9t4b31dr7o.com/) |
-| ^^ | [YaToon](https://yatoon246.asia/) [:prx:](https://yatoonlink.com/) |
+| ^^ | [YaToon](https://yatoon246.asia/) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
 | ^^ | [Anissia](https://anissia.net/) |
 
@@ -540,7 +540,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Anime** | [AniDUB](https://v13.anidub.digital/) |
 | ^^ | [AniFilm](https://anifilm.pro/) |
 | ^^ | [AniLiberty](https://aniliberty.top/) ||Sub|| |
-| ^^ | [AniMan](https://animan.ru/) |
 | ^^ | [AnimeJoy](https://animejoy.ru/) |
 | ^^ | [Animelayer](http://animelayer.ru/) :mag: |
 | ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
@@ -696,7 +695,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
 | **Hentai** | [DuaLeoTruyen](https://dualeotruyenuv.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
-| ^^ | [qManga](https://qmanga.art/) |
 | **Novels** | [Hako](https://docln.net/) |
 | ^^ | [Metruyenhot](https://metruyenhotvn.com/) |
 | ^^ | [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) |
