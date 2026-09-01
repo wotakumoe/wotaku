@@ -387,6 +387,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Category | Client | Platform |
 |---|---|---|
 | **General** | [Plezy](https://plezy.app/) [:src:](https://github.com/edde746/plezy) | :and::ios::win::app::lin: |
+| ^^ | [Symfonium](https://symfonium.app/) :paid: | :and: |
 | ^^ | [Infuse](https://apps.apple.com/app/id1136220934) :sub: | :ios: |
 | ^^ | [BookPlayer](https://bookplayer.app/) [:src:](https://github.com/TortugaPower/BookPlayer) :fm: | :and::ios: |
 | **Audiobookshelf** | [Plappa](https://plappa.me/) | :ios: |
