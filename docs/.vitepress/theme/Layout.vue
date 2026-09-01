@@ -1315,39 +1315,6 @@ onMounted(() => {
   initTitleOnly()
   nextTick(setupManualCopyButtons)
 
-  // ping
-  if (import.meta.env.PROD) {
-    const API = 'https://ping.duckling.workers.dev'
-    let vid = localStorage.getItem('_wa_vid')
-    if (!vid) {
-      vid = Array.from(crypto.getRandomValues(new Uint8Array(16)))
-        .map(b => b.toString(16).padStart(2, '0')).join('')
-      localStorage.setItem('_wa_vid', vid)
-    }
-    let currentPage = location.pathname
-    function ping() {
-      const page = location.pathname
-      const isPageview = page !== currentPage
-      currentPage = page
-      fetch(API, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ v: vid, p: page, t: isPageview ? 'pageview' : 'heartbeat' }),
-        keepalive: true
-      })
-    }
-    ping()
-    setInterval(ping, 10000)
-    let lastPath = location.pathname + location.hash
-    setInterval(() => {
-      if (location.pathname + location.hash !== lastPath) {
-        lastPath = location.pathname + location.hash
-        currentPage = ''
-        ping()
-      }
-    }, 1000)
-  }
-
   // Icon tooltip: fixed-position popup appended to <body> to escape table overflow clipping
   const tooltipEl = document.createElement('div')
   tooltipEl.className = 'icon-tip-popup'
