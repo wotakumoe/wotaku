@@ -67,7 +67,7 @@ outline: 2
 - [Chiki Animation 3D](https://chikianimation.online/) [:tg:](https://t.me/Dimensional_Animation)
 - [Crimson Subs](https://crimsonfansubs.com/)
 - [donghua.site](https://donghua.site/)
-- [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://telegram.me/DonghuaStream_com)
+- [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://t.me/DonghuaStream_com)
 - [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)
@@ -319,8 +319,8 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
-- [Aether](https://aether.ist/) [:prx:](https://rentry.co/aetherdomains)
 - [Z-Stream](https://zstream.mov/)
+- [Aether](https://aether.ist/) [:prx:](https://rentry.co/aetherdomains)
 - :rd: [JP learning focused](/japan/immersion#watching)
 
 == Download
