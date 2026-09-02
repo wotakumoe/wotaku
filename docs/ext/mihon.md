@@ -58,6 +58,7 @@ og:
 
 == copymanga-copy20
 - url: https://github.com/LittleSurvival/copymanga-copy20
+- note: Focuses on Chinese (zh-CN) sources
 - raw: https://raw.githubusercontent.com/LittleSurvival/copymanga-copy20/repo/index.min.json
 
 == FelipeGFA
