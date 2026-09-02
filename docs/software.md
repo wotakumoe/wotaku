@@ -25,7 +25,7 @@ og:
 | [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :mal::al::simkl: | :no: |
-| [NyanTV](https://nyantv.vercel.app/) [:src:](https://github.com/NyanTV/NyanTV) [:e:](/ext/mihon) | :ddl: | :mal::al::simkl: | :tv: |
+| [NyanTV](https://nyantv.vercel.app/) [:src:](https://gitlab.com/NyanTV/NyanTV) [:e:](/ext/mihon) | :ddl: | :mal::al::simkl: | :tv: |
 
 == Manga 
 
