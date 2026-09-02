@@ -470,7 +470,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Wolf](https://wfwf488.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon226.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [YaToon](https://yatoon246.asia/) |
+| ^^ | [YaToon](https://yatoon247.asia/) [:tg:](https://t.me/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
 | ^^ | [Anissia](https://anissia.net/) |
 
