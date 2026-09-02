@@ -540,6 +540,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Anime** | [AniDUB](https://v13.anidub.digital/) |
 | ^^ | [AniFilm](https://anifilm.pro/) |
 | ^^ | [AniLiberty](https://aniliberty.top/) ||Sub|| |
+| ^^ | [AniMan](https://animan.ru/) |
 | ^^ | [AnimeJoy](https://animejoy.ru/) |
 | ^^ | [Animelayer](http://animelayer.ru/) :mag: |
 | ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
