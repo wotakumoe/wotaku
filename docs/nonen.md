@@ -696,6 +696,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
 | **Hentai** | [DuaLeoTruyen](https://dualeotruyenuv.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
+| ^^ | [HentaiVN](https://hentaivn.show/) |
 | **Novels** | [Hako](https://docln.net/) |
 | ^^ | [Metruyenhot](https://metruyenhotvn.com/) |
 | ^^ | [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel) |
