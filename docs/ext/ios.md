@@ -119,6 +119,11 @@ og:
 - src: https://github.com/xdKinso/kinso-extensions-v0.8
 - raw: https://xdkinso.github.io/kinso-extensions-v0.8/versioning.json
 
+== Kitty
+- url: https://kittycatgit.github.io/kitty-extensions-0.8/
+- src: https://github.com/kittycatgit/kitty-extensions-0.8
+- raw: https://kittycatgit.github.io/kitty-extensions-0.8/versioning.json
+
 == Popmango
 - url: https://poppingmangosources.github.io/popmango-paperback-sources/all/#paperback-0-8
 - src: https://github.com/PoppingMangoSources/popmango-paperback-sources
