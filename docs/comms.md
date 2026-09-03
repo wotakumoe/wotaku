@@ -159,75 +159,75 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 ::: tabs
 
 == Anime, Manga & Novels
-- [Anime](https://old.reddit.com/r/anime/)
-- [Doujinshi](https://old.reddit.com/r/doujinshi/)
-- [Light Novels](https://old.reddit.com/r/LightNovels/)
-- [Manga Piracy](https://old.reddit.com/r/mangapiracy/)
-- [Manga](https://old.reddit.com/r/manga/)
-- [Manga Collectors](https://old.reddit.com/r/MangaCollectors/)
-- [Manhua](https://old.reddit.com/r/Manhua/)
-- [Manhwa](https://old.reddit.com/r/manhwa/)
-- [Visual Novels](https://old.reddit.com/r/visualnovels/)
+- [Anime](https://www.reddit.com/r/anime/)
+- [Doujinshi](https://www.reddit.com/r/doujinshi/)
+- [Light Novels](https://www.reddit.com/r/LightNovels/)
+- [Manga Piracy](https://www.reddit.com/r/mangapiracy/)
+- [Manga](https://www.reddit.com/r/manga/)
+- [Manga Collectors](https://www.reddit.com/r/MangaCollectors/)
+- [Manhua](https://www.reddit.com/r/Manhua/)
+- [Manhwa](https://www.reddit.com/r/manhwa/)
+- [Visual Novels](https://www.reddit.com/r/visualnovels/)
 
 == Music
-- [Vocaloid](https://old.reddit.com/r/vocaloid/)
-- [VocaTorrent](https://old.reddit.com/r/VocaTorrent/)
+- [Vocaloid](https://www.reddit.com/r/vocaloid/)
+- [VocaTorrent](https://www.reddit.com/r/VocaTorrent/)
 
 == Tokusatsu
-- [Tokusatsu](https://old.reddit.com/r/Tokusatsu/)
-- [Gamera](https://old.reddit.com/r/Gamera/)
-- [GARO](https://old.reddit.com/r/GARO/)
-- [Godzilla](https://old.reddit.com/r/Godzilla/)
-- [Kaiju](https://old.reddit.com/r/Kaiju/)
-- [Kamen Rider](https://old.reddit.com/r/KamenRider/)
-- [King Kong](https://old.reddit.com/r/kingkong/)
-- [Monsterverse](https://old.reddit.com/r/Monsterverse/)
-- [Mothra](https://old.reddit.com/r/Mothra/)
-- [Power Rangers](https://old.reddit.com/r/PowerRangers/)
-- [Super Sentai](https://old.reddit.com/r/SuperSentai/)
-- [Ultraman](https://old.reddit.com/r/Ultraman/)
+- [Tokusatsu](https://www.reddit.com/r/Tokusatsu/)
+- [Gamera](https://www.reddit.com/r/Gamera/)
+- [GARO](https://www.reddit.com/r/GARO/)
+- [Godzilla](https://www.reddit.com/r/Godzilla/)
+- [Kaiju](https://www.reddit.com/r/Kaiju/)
+- [Kamen Rider](https://www.reddit.com/r/KamenRider/)
+- [King Kong](https://www.reddit.com/r/kingkong/)
+- [Monsterverse](https://www.reddit.com/r/Monsterverse/)
+- [Mothra](https://www.reddit.com/r/Mothra/)
+- [Power Rangers](https://www.reddit.com/r/PowerRangers/)
+- [Super Sentai](https://www.reddit.com/r/SuperSentai/)
+- [Ultraman](https://www.reddit.com/r/Ultraman/)
 
 == Games
 
-- [GachaGaming](https://old.reddit.com/r/gachagaming/)
-- [Nikke](https://old.reddit.com/r/NikkeMobile/)
-- [osu!](https://old.reddit.com/r/osugame/)
-- [Pokémon](https://old.reddit.com/r/pokemon/)
-- [Touhou](https://old.reddit.com/r/touhou/)
-- [UmaMusume](https://old.reddit.com/r/UmaMusume/)
-- [Yu-Gi-Oh!](https://old.reddit.com/r/yugioh/)
+- [GachaGaming](https://www.reddit.com/r/gachagaming/)
+- [Nikke](https://www.reddit.com/r/NikkeMobile/)
+- [osu!](https://www.reddit.com/r/osugame/)
+- [Pokémon](https://www.reddit.com/r/pokemon/)
+- [Touhou](https://www.reddit.com/r/touhou/)
+- [UmaMusume](https://www.reddit.com/r/UmaMusume/)
+- [Yu-Gi-Oh!](https://www.reddit.com/r/yugioh/)
 
 == Merch
 
-- [Anime Deals](https://old.reddit.com/r/AnimeDeals/)
-- [Anime Figures](https://old.reddit.com/r/AnimeFigures/)
-- [Anime Merchandise](https://old.reddit.com/r/AnimeMerchandise/)
-- [Manga Collectors](https://old.reddit.com/r/MangaCollectors/)
-- [Gunpla](https://old.reddit.com/r/Gunpla/)
-- [Nendoroid](https://old.reddit.com/r/Nendoroid/)
-- [Dakimakuras](https://old.reddit.com/r/Dakimakuras/) :ero:
+- [Anime Deals](https://www.reddit.com/r/AnimeDeals/)
+- [Anime Figures](https://www.reddit.com/r/AnimeFigures/)
+- [Anime Merchandise](https://www.reddit.com/r/AnimeMerchandise/)
+- [Manga Collectors](https://www.reddit.com/r/MangaCollectors/)
+- [Gunpla](https://www.reddit.com/r/Gunpla/)
+- [Nendoroid](https://www.reddit.com/r/Nendoroid/)
+- [Dakimakuras](https://www.reddit.com/r/Dakimakuras/) :ero:
 
 == Japan
 
-- [AJATT](https://old.reddit.com/r/ajatt/)
-- [Bento](https://old.reddit.com/r/Bento/)
-- [Japan Life](https://old.reddit.com/r/japanlife/)
-- [Japan Pics](https://old.reddit.com/r/japanpics/)
-- [Japan Travel](https://old.reddit.com/r/JapanTravel/)
-- [Learn Japanese](https://old.reddit.com/r/LearnJapanese/)
+- [AJATT](https://www.reddit.com/r/ajatt/)
+- [Bento](https://www.reddit.com/r/Bento/)
+- [Japan Life](https://www.reddit.com/r/japanlife/)
+- [Japan Pics](https://www.reddit.com/r/japanpics/)
+- [Japan Travel](https://www.reddit.com/r/JapanTravel/)
+- [Learn Japanese](https://www.reddit.com/r/LearnJapanese/)
 
 == NSFW
 
-- [r/hentai](https://old.reddit.com/r/hentai/)
-- [r/Artistic_Hentai](https://old.reddit.com/r/Artistic_Hentai/)
-- [r/doujinshi](https://old.reddit.com/r/doujinshi/)
-- [r/ecchi](https://old.reddit.com/r/ecchi/)
-- [r/hentaimemes](https://old.reddit.com/r/hentaimemes/)
-- [r/HENTAI_GIF](https://old.reddit.com/r/HENTAI_GIF/)
-- [r/pornhwa](https://old.reddit.com/r/pornhwa/)
-- [r/rule34](https://old.reddit.com/r/rule34/)
-- [r/thighdeology](https://old.reddit.com/r/thighdeology/)
-- [r/wholesomehentai](https://old.reddit.com/r/wholesomehentai/)
+- [r/hentai](https://www.reddit.com/r/hentai/)
+- [r/Artistic_Hentai](https://www.reddit.com/r/Artistic_Hentai/)
+- [r/doujinshi](https://www.reddit.com/r/doujinshi/)
+- [r/ecchi](https://www.reddit.com/r/ecchi/)
+- [r/hentaimemes](https://www.reddit.com/r/hentaimemes/)
+- [r/HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF/)
+- [r/pornhwa](https://www.reddit.com/r/pornhwa/)
+- [r/rule34](https://www.reddit.com/r/rule34/)
+- [r/thighdeology](https://www.reddit.com/r/thighdeology/)
+- [r/wholesomehentai](https://www.reddit.com/r/wholesomehentai/)
 
 :::
 

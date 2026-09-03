@@ -47,9 +47,9 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 | ^^ | [Garage Kit Guide](https://www.plumworkshop.com/gk-compendium/part-1-bg-supplies) | Muntoe |
 | Gunpla | [Gunpla Guide - Get Me Started](https://docs.google.com/document/d/1Tr8UyF2Xg5Ojqw0sxcO7oIG7IIsJPes3lMO5pHZKu5o/pub) | Gelgoog Guy |
 | ^^ | [Layman’s Gunpla Guide](https://otakurevolution.com/content/laymans-gunpla-guide) | Falldog |
-| ^^ | [Gunpla Wiki](https://old.reddit.com/r/Gunpla/wiki/) | r/Gunpla |
+| ^^ | [Gunpla Wiki](https://www.reddit.com/r/Gunpla/wiki/) | r/Gunpla |
 | Music | [Supporting doujin music artists/circles](https://meramifan.wordpress.com/guide/) | Meramifan |
-| ^^ | [Music Stuff from Japan](https://old.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/) | Dimsim |
+| ^^ | [Music Stuff from Japan](https://www.reddit.com/r/japanesemusic/comments/dagaj8/how_to_buy_music_stuff_from_japan_a_guide/) | Dimsim |
 | Others | [Arcade Sticks 101](https://docs.google.com/document/d/1fYqVRt_99AGFv7k7oBuEsW5POb50PdTdT5qirqZLS6w/edit) | chastetiddy |
 | ^^ | [A Comprehensive Guide to Dakimakuras](https://daki.info/) | nanatabiber |
 | ^^ | [Fumo Buying guide](https://fumo.website/) [:src:](https://github.com/Ununoctium117/fumosite) | Ununoctium117 |
@@ -98,7 +98,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [MOEPOP](https://www.ruru-berryz.com/) [:x:](https://x.com/Ruru_Berryz) ||General||
 
 == Others
-- [Buying Visual Novels](https://old.reddit.com/r/visualnovels/wiki/buy)
+- [Buying Visual Novels](https://www.reddit.com/r/visualnovels/wiki/buy)
 - [Dakindex!](https://dakidex.com/) :ero:
 - [Omiai](https://omiai-dakimakura.com/) :ero:
 - [Sailor Moon Fan Network](https://sailormoonfannetwork.com/)

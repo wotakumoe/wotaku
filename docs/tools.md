@@ -273,8 +273,8 @@ og:
 
 <Collapsible title="Related resources">
 
-- [r/usenet](https://old.reddit.com/r/usenet/)
-- [r/UsenetInvites](https://old.reddit.com/r/UsenetInvites/)
+- [r/usenet](https://www.reddit.com/r/usenet/)
+- [r/UsenetInvites](https://www.reddit.com/r/UsenetInvites/)
 - [A Guideline to usenet and how to setup Automation](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)
 
 </Collapsible>

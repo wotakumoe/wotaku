@@ -411,9 +411,9 @@ outline: 2
 
 | Type | Resource |
 | :--- | :--- |
-| **Anime** | [r/Anime](https://old.reddit.com/r/anime/wiki/recommendations/) |
+| **Anime** | [r/Anime](https://www.reddit.com/r/anime/wiki/recommendations/) |
 | ^^ | [/r/anime Awards](https://animeawards.moe/) [:src:](https://github.com/r-anime/awards-web) |
-| ^^ | [The Ultimate Anime Recommendation Flowchart](https://old.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/) [:alt:](https://rentry.org/ultimatebackup) |
+| ^^ | [The Ultimate Anime Recommendation Flowchart](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/) [:alt:](https://rentry.org/ultimatebackup) |
 | ^^ | [Sprout Anime Recommender](https://anime.ameo.dev/) :s::mal::al: |
 | **Manga** | [MangaBaka Recommendations](https://mangabaka.org/my/recommendations) :s::acc: |
 | ^^ | [Mitsukeru](https://mitsukeru.timschneeberger.me/) [:src:](https://github.com/timschneeb/Mitsukeru) :al: |

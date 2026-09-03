@@ -20,7 +20,7 @@ og:
 - [Perdition's Guide](https://perdition-japanese.github.io/posts/how-to-study-japanese/)
 - [A Year to Learn Japanese](https://docs.google.com/document/d/10bRzVblKVOsQJjTc2PIi1Gbj_LrsJCkMkh0SutXCZdI/edit)
 - [Japanese with Anime](https://www.japanesewithanime.com/)
-- [r/LearnJapanese Starter's Guide](https://old.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
+- [r/LearnJapanese Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide/)
 - [Jazzy's Guide](https://rentry.co/jazzy180)
 - [Mordraug's Personal Japanese Observations Diary](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit)
 
@@ -244,7 +244,7 @@ og:
 | ^^          | [The Kodansha Kanji Learner's Course](https://www.amazon.com/dp/1568365268) |
 | ^^          | [Kanji Look and Learn](https://www.amazon.com/dp/4789013499) |
 | ^^          | [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874) |
-| **Reading** | [Tadoku Books](https://old.reddit.com/r/LearnJapanese/comments/19bitqy/2024_updated_free_tadoku_graded_reader_pdfs_2681/) ||General|| |
+| **Reading** | [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/19bitqy/2024_updated_free_tadoku_graded_reader_pdfs_2681/) ||General|| |
 | **Vocabulary** | [JLPT Tango N5](https://www.amazon.com/dp/4872179811) [||N4||](https://www.amazon.com/dp/487217982X) |
 | **Grammar** | [Genki Textbook Volume 1](https://www.amazon.com/dp/4789017303) [||Workbook||](https://www.amazon.com/dp/4789017311) |
 | ^^          | [Genki Textbook Volume 2](https://www.amazon.com/dp/478901732X) [||Workbook||](https://www.amazon.com/dp/4789017338) |

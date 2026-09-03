@@ -154,7 +154,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | Artist / Author / Pub | Article | Used in |
 |-|-|-|
 | **Akutami Gege** | [Jujutsu Kaisen](https://shonenjumpplus.com/episode/10834108156650001170) | [Release Terms](/glossary/manga#release-terms) |
-| **Atelier du Noir** | [Kilroy Was Here](https://old.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/) | [Scanlation](/glossary/manga#scanlation) |
+| **Atelier du Noir** | [Kilroy Was Here](https://www.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/) | [Scanlation](/glossary/manga#scanlation) |
 | **Chomoran** | [Sachi's Monstrous Appetite](https://comics.inkr.com/title/2255-sachi-s-monstrous-appetite-1-4) | [Technical Terms](/glossary/manga#technical-terms) |
 | **DUBU** | [Solo Leveling](https://www.tappytoon.com/en/book/solo-leveling-official) | [Panel Terms](/glossary/manga#panel-terms) |
 | **DUBU** | [Solo Leveling, Vol. 2 (comic)](https://yenpress.com/titles/9781975319458-solo-leveling-vol-2-comic) | [Panel Terms](/glossary/manga#panel-terms) |
