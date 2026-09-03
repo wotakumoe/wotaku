@@ -119,7 +119,7 @@ og:
 - [Kanji Koohii](https://kanji.koohii.com/)
 - [Kenji Sugimoto](https://www.kenjisugimoto.com/shuji/index.html?shuji=%E3%81%8A%E6%89%8B%E6%9C%AC)
 - [Onomato Project](https://onomatoproject.com/)
-- [The Tiny Japanese Practice Tool](https://japanese.thetinywisdom.com/)
+- [The Tiny Japanese Toolkit](https://thetinyjapanese.com/)
 
 
 == Pitch Accent
