@@ -1,1 +1,1 @@
-Big library, but difficult to navigate.
+Big but difficult to navigate library, compresses images from E-Hentai.
