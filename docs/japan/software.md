@@ -270,6 +270,7 @@ og:
 
 | Software | Platforms |
 | :--- | :--- |
+| [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) | :ios: |
 | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
 | [Chimahon](https://github.com/sohilsayed/chimahon) :s: | :and: |
 | [Hoshi Reader](https://github.com/Manhhao/Hoshi-Reader) | :ios: |
