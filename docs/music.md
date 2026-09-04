@@ -242,6 +242,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Tools**          | [Exportify](https://exportify.app/) [:src:](https://github.com/watsonbox/exportify) |
 | ^^                 | [MixMoose](https://mixmoose.com/) |
 | ^^                 | [Lyricpost](https://palinkiewicz.github.io/lyricpost/) [:src:](https://github.com/palinkiewicz/lyricpost) |
+| ^^                 | [Playlist Sorter](https://www.playlistsorter.com/) |
 | ^^                 | [Spotify Dedup](https://spotify-dedup.com/) [:src:](https://github.com/JMPerez/spotify-dedup/) |
 | ^^                 | [Spotlistr](https://www.spotlistr.com/) |
 
