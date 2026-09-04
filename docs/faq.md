@@ -88,7 +88,7 @@ Rippers upload what they like, without following any specific schedule (even in 
 | **Android**| Local     | [Perfect viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) :cs: |
 | ^^        | Online    | [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon) |
 | **iOS**   | Local     | [YACReader](https://apps.apple.com/app/id635717885) :paid::cs: |
-| ^^        | Online    | [Aidoku](https://github.com/Aidoku/Aidoku) |
+| ^^        | Online    | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) |
 | **PC**    | Local     | [OpenComic](https://github.com/ollm/OpenComic) :s::win::app::lin: |
 | ^^        | ^^        | [CDisplayEx](https://www.cdisplayex.com/) :win::cs: |
 | ^^        | ^^        | [YACReader](https://www.yacreader.com/) :win::app::lin: |
