@@ -38,8 +38,8 @@ og:
 - [Adguard](https://adguard-dns.io/en/welcome.html)
 - [Control D](https://controld.com/)
 - [dnswarden](https://dnswarden.com/index.html)
-- [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
 - [RethinkDNS](https://rethinkdns.com/)
+- [Quad9](https://quad9.net/)
 
 <collapsible title="Extra DNS info">
 
@@ -50,7 +50,6 @@ og:
 | [Control D](https://controld.com/) | :cca: | :yes: | :no: |
 | [dnswarden](https://dnswarden.com/index.html) | :cswi: | :yes: | N/A  |
 | [DNS.SB](https://dns.sb/) [:src:](https://github.com/dns-sb/) | :cge: | :no: | N/A |
-| [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | :cswe: | :yes: | N/A |
 | [Quad9](https://quad9.net/) | :cswi: | :no: | N/A |
 
 </collapsible>
