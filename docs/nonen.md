@@ -311,8 +311,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Kartoons](https://kartoons.me/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
 | ^^ | [ToonStream](https://toon-stream.site/home/) + :len: |
-| **DDL** | [Anime Shrine](https://animeshrine.xyz/) + :len: |
-| ^^ | [AnimeVilla](https://animevilla.org/) :ero: |
+| **DDL** | [AnimeVilla](https://animevilla.org/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
 | ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
 | ^^ | [Puretoons](https://puretoons.in/) + :len: |
@@ -462,16 +461,16 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc123.asia/) |
 | ^^ | [FRToon](https://frtoon5.com/) |
-| ^^ | [Funbe](https://funbe671.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe672.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [GoodToon](https://www.goodtoon002.com/) [:tg:](https://t.me/goodtoon_001) |
 | ^^ | [MoneyToon](https://mtoon151.asia/) |
 | ^^ | [NameeToon](https://namee111.asia/) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
-| ^^ | [TOONKOR](https://tkor149.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [Wolf](https://wfwf488.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [Wolf 2](https://wftoon226.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [TOONKOR](https://tkor150.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Wolf](https://wfwf492.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
+| ^^ | [Wolf 2](https://wftoon227.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [YaToon](https://yatoon247.asia/) [:tg:](https://t.me/yatoonlink) |
+| ^^ | [YaToon](https://yatoon248.asia/) [:tg:](https://t.me/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
 | ^^ | [Anissia](https://anissia.net/) |
 
