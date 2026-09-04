@@ -463,6 +463,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [FreeToon](https://foc123.asia/) |
 | ^^ | [FRToon](https://frtoon5.com/) |
 | ^^ | [Funbe](https://funbe671.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [GoodToon](https://www.goodtoon002.com/) [:tg:](https://t.me/goodtoon_001) |
 | ^^ | [MoneyToon](https://mtoon151.asia/) |
 | ^^ | [NameeToon](https://namee111.asia/) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
