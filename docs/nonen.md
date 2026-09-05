@@ -133,7 +133,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Antbyw](https://www.antbyw.com/plugin.php?id=jameson_manhua)
 - [Baozimh.com](https://www.baozimh.com/)
 - [Baozimh.org](https://baozimh.org/)
-- [Copymanga](https://www.copy20.com/) :ero: [:alt:](https://www.2025copy.com/)
+- [Copymanga](https://www.copy20.com/) :ero: [:alt:](https://www.copy4000.com/)
 - [Dumanwu](https://dumanwu.com/)
 - [Komiic](https://komiic.com/) :ero:
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
@@ -330,7 +330,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Kuramanime](https://kuramanime.red/) |
 | ^^ | [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime) |
 | ^^ | [Megaheya](https://mangaheya.net/) :acc: |
-| ^^ | [Mynimeku](https://www.mynimeku.com/) |
 | ^^ | [NekoPoi](https://nekopoi.care/) :ero: |
 | ^^ | [Otaku Desu](https://otakudesu.cloud/) |
 | ^^ | [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/) |
