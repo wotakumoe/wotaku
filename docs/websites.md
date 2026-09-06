@@ -39,7 +39,6 @@ outline: 2
 | [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
-| :prev: [AniDB](https://anidb.app/) ==AniDB== | :yes: | :no: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
 
 </collapsible>
