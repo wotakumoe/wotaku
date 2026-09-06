@@ -694,7 +694,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyenuv.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenlr.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [HentaiVN](https://hentaivn.show/) |
 | **Novels** | [Hako](https://docln.net/) |
