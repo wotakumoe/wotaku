@@ -96,11 +96,12 @@ og:
 - [Oreno3D](https://oreno3d.com/)
 - [Pawchive](https://pawchive.pw/)
 - [Pixiv](https://www.pixiv.net/)
-- [R34 Vault](https://www.rule34vault.com/)
+- [Rule 34](https://rule34.xxx/)
 - [yande.re](https://yande.re/)
 
-<collapsible title="Frontends">
+<collapsible title="Front-ends">
 
+- [bakemono](https://bakemono.app/)
 - [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview)
 - [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy/danbooru-viewer)
 - [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
