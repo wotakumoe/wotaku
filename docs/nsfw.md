@@ -96,6 +96,7 @@ og:
 - [Oreno3D](https://oreno3d.com/)
 - [Pawchive](https://pawchive.pw/)
 - [Pixiv](https://www.pixiv.net/)
+- [R34 Vault](https://www.rule34vault.com/)
 - [yande.re](https://yande.re/)
 
 <collapsible title="Frontends">
