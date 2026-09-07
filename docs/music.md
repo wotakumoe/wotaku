@@ -221,6 +221,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Tracklist** | [tagger.site](https://martinbarker.me/tagger) |
 | **Others**   | [Instafest](https://www.instafest.app/) |
 |    ^^      | [Jukebox](https://jukebox.today/) |
+|    ^^      | [RYM Autolist Maker](https://zettaexa.github.io/autolists/) [:src:](https://github.com/zettaexa/autolists) |
 |    ^^      | [Songle](https://songle.jp/) |
 |    ^^      | [Songlink](https://odesli.co/) |
 |    ^^      | [Songstats](https://songstats.com/) |
