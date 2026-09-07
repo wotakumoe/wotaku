@@ -70,6 +70,7 @@ og:
 | ^^ | :prev: [rimgo](https://rimgo.bloat.cat/trending) ||Imgur|| |
 | ^^ | :prev: [Priviblur](https://pb.bloat.cat/explore/trending) ||Tumblr|| |
 | ^^ | [Pixnoy](https://www.pixnoy.com/) ||Instagram|| |
+| ^^ | [XCancel](https://xcancel.com/) [:src:](https://github.com/zedeus/nitter) ||Nitter|| |
 
 == Others
 | Type | Website |
