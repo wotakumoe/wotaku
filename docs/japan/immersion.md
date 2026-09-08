@@ -121,8 +121,8 @@ og:
 - [NHK News Web Easy](https://news.web.nhk/news/easy/)
 - [Easy Japanese](https://japanese.todaiinews.com/)
 - [e-douwa](https://www.e-douwa.com/)
+- [Free Tadoku Books](https://tadoku.org/japanese/en/free-books-en/)
 - [Satori Reader](https://www.satorireader.com/)
-- [Tadoku](https://tadoku.org/japanese/)
 - [Watanoc](https://watanoc.com/)
 - [Yomujp](https://yomujp.com/)
 
