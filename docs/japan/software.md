@@ -202,7 +202,7 @@ og:
 
 | Category | Software | Platform |
 | :--- | :--- | :--- |
-| **Sub provider** | [Emby Jimaku](https://github.com/bpwhelan/Emby.Jimaku) | |
+| **Sub provider** | [Jimakufin](https://github.com/bpwhelan/Jimakufin) | |
 | ^^ | [mpv jimaku](https://github.com/ZXY101/mpv-jimaku) | |
 | ^^ | [SubPlz](https://github.com/kanjieater/SubPlz/) | :win::lin: |
 | ^^ | [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) | :win::app::lin: |
