@@ -100,7 +100,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [NyanTV](https://discord.gg/y2vaFPXs4F)
 - [Sora](https://discord.gg/XR3SrmUbpd)
 - [Suwatte](https://discord.gg/8wmkXsT6h5)
-- [Usagi](https://discord.gg/4AHskjwtj4)
 
 == Music
 - [am-dl](https://discord.gg/RQFt3y8dYj)
@@ -129,6 +128,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [r/pornhwa](https://discord.gg/epjkRVp7gD)
 - [r/rule34](https://discord.gg/zMrMhpZ)
 - [r/wholesomehentai](https://discord.gg/aqttTca)
+- [Rule34.xxx](https://discord.gg/rule34xxx)
 - [Tsumino](https://discord.gg/v6RfNfA7WW)
 
 == Japan
