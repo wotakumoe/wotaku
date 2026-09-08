@@ -32,10 +32,6 @@ og:
 - url: https://github.com/SaurabhKaperwan/CSX
 - raw: https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json
 
-== CuxPlug
-- url: https://github.com/ycngmn/CuxPlug
-- raw: https://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json
-
 == doGior
 - url: https://github.com/doGior/doGiorsHadEnough
 - raw: https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/repo.json
