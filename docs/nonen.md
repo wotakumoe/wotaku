@@ -397,7 +397,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://i.wotaku.wiki/p/proxy#raw1001)
-- [RawBaka](https://rawbaka.com/)
+- [RawBaka](https://rawbaka.site/)
 - [Rawkuma](https://rawkuma.net/)
 - [Raw FREE](https://rawfree.buzz/)
 - [RAW LAZY](https://rawlazy.io/)
@@ -431,7 +431,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
 | [DL-Raw](https://dl-raw.si/) | :yes: | :yes: | :yes: |
-| [DLRaw.net](https://dlraw.app/category/raw-manga/) [:prx:](https://i.wotaku.wiki/p/proxy#dlraw) | :yes: | :yes: | :yes: |
+| [DLRaw.net](https://dlraw.tv/category/raw-manga/) [:prx:](https://i.wotaku.wiki/p/proxy#dlraw) | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
@@ -459,13 +459,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc124.asia/) |
-| ^^ | [FRToon](https://frtoon5.com/) |
-| ^^ | [Funbe](https://funbe672.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [Funbe](https://funbe673.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [GoodToon](https://www.goodtoon002.com/) [:tg:](https://t.me/goodtoon_001) |
 | ^^ | [MoneyToon](https://mtoon151.asia/) |
 | ^^ | [NameeToon](https://namee112.asia/) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
-| ^^ | [TOONKOR](https://tkor150.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [TOONKOR](https://tkor151.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf492.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon227.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
