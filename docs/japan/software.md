@@ -93,11 +93,11 @@ og:
 
 | Category | Software |
 | :--- | :--- |
-| **Android** | [jidoujisho](https://github.com/arianneorpilla/jidoujisho) :s: |
-| ^^ | [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3) |
+| **Android** | [Aedict3 Japanese Dictionary](https://play.google.com/store/apps/details?id=sk.baka.aedict3) |
 | ^^ | [Kaku Japanese Dictionary (OCR)](https://github.com/0xbad1d3a5/Kaku) |
 | ^^ | [Nani?](https://f-droid.org/en/packages/eu.lepiller.nani/) |
 | ^^ | [Rin](https://github.com/kamui-fin/rin) |
+| ^^ | [shiroikumanojisho](https://github.com/ShiroiKuma0/shiroikumanojisho) |
 | **iOS** | [Kantan Manga](https://apps.apple.com/app/id1518666365) |
 | ^^ | [Shiori Reader](https://apps.apple.com/app/id6744979827) |
 | ^^ | [Shirabe Jisho](https://ricoapps.com/) [:ios:](https://apps.apple.com/app/id1005203380) |
@@ -231,7 +231,7 @@ og:
 
 :::
 
-## OCR
+## Immersion Tools
 
 ::: info WIP
 :::
@@ -243,8 +243,7 @@ og:
 | Software | Platforms |
 | :--- | :--- |
 | [Fushi](https://fushi.moe/) [:src:](https://github.com/hajisensai/Fushi) | :and::ios::win::app: |
-| [jidoujisho](https://github.com/arianneorpilla/jidoujisho) :ded: | :and: |
-| :prev: [shiroikumanojisho](https://github.com/ShiroiKuma0/shiroikumanojisho) | :and: |
+| [shiroikumanojisho](https://github.com/ShiroiKuma0/shiroikumanojisho) | :and: |
 | [Niratan](https://github.com/W1ght/Niratan) | :app: |
 | [OwOCR](https://github.com/AuroraWright/owocr) | :py: |
 
