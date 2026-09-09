@@ -58,6 +58,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Animezid](https://animezid.cam/) |
 | ^^ | [Arabic Toons](https://www.arabic-toons.com/) |
 | ^^ | [Kawaii Anime](https://kawaiianime.cc/) |
+| ^^ | [Mirai Anime](https://miraianime.net/) |
 | ^^ | [Risto Anime](https://ristoanime.me/) |
 | ^^ | [WitAnime](https://witanime.you/) |
 | **Manga** | [3asQ](https://3asq.online/) |
