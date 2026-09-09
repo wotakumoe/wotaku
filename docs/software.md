@@ -125,10 +125,11 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 ::: tabs
 
 == Anime
-- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX)
-- [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio)
+- [Eclipse](https://apps.apple.com/app/id6779367402) [:src:](https://github.com/Soupy-dev/Eclipse) [:tf:](https://testflight.apple.com/join/FDXvrxVg)
 - [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio)
 
 
 == Manga
@@ -136,10 +137,10 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
-| ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/ios#paperback) |
-| ^^ | [Suwatte](https://suwatte.mantton.com/) :cs: [:e:](/ext/ios#suwatte) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
+| ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/ios#paperback) |
+| ^^ | [Suwatte](https://suwatte.mantton.com/) :cs: [:e:](/ext/ios#suwatte) |
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
 | **Local** | [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
 | ^^ | [Panels](https://apps.apple.com/app/id1236567663) :fm::sub::cs: |
