@@ -17,7 +17,7 @@ og:
 
 == Anime
 - [AmateurSubs](https://amateursubs.com/) :ddl: [||Nyaa||](https://sukebei.nyaa.si/user/denis18312)
-- [Anibd](https://anibd.app/anime-seasontype/ani16/) [:alt:](https://ani.lol/anime-seasontype/ani16/)
+- [Anibd](https://anibd.app/anime-seasontype/ani16/) [:prx:](https://i.wotaku.wiki/p/proxy#anibd)
 - [Hanime](https://hanime.tv/home) :hd:
 - [Hanime1](https://hanime1.me/) :ljp::lcn:
 - [Hentai.tv](https://hentai.tv/)
