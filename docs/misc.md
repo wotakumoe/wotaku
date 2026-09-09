@@ -233,7 +233,7 @@ outline: 2
 | **Blog / Interview** | [Anime Blog Tracker](https://aniblogtracker.app/index.php) :s: [:src:](https://github.com/AniBlogTracker) ||Aggregator|| |  
 | ^^ | [Anime Nano](https://www.animenano.com/) ||Aggregator|| |  
 | ^^ | [Halcyon Realms](https://halcyonrealms.com/) :s: [:rss:](https://halcyonrealms.com/subscribe/) |  
-| ^^ | [Rumic World](https://www.furinkan.com/) [:x:](https://x.com/rumicworld1) ||Rumiko Takahashi|| |
+| ^^ | [Rumic World](https://www.furinkan.com/) [:x:](https://x.com/rumicworld1) [:yt:](https://www.youtube.com/@TheRumicWorld) ||Rumiko Takahashi|| |
 
 == Anime
 
