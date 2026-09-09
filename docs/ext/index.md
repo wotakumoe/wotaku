@@ -40,6 +40,7 @@ og:
 - Kototoro : (Mihon), (Aniyomi), (Kotatsu), (LNReader), (Legado), (IReader);
 - Mangayomi : (Mihon), (Aniyomi), (Mangayomi);
 - Tsundoku : (Mihon), (LNReader), (Tsundoku), (Shosetsu);
+- Usagi : (Kotatsu), (Mihon), (LNreader);
 :::
 
 
