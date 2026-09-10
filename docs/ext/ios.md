@@ -43,11 +43,6 @@ og:
 == Suiyuran
 - url: https://github.com/suiyuran/aidoku-zh-sources
 - raw: https://raw.githubusercontent.com/suiyuran/aidoku-zh-sources/refs/heads/main/public/index.min.json
-
-== Skittyblock
-- url: https://github.com/Skittyblock/aidoku-community-sources
-- note: Unmaintained
-- raw: https://skitty.xyz/aidoku-community-sources/index.min.json
 :::
 
 ## Paperback
