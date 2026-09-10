@@ -218,7 +218,8 @@ i am so tired of this shit lol. every fork works differently. just use mihon or 
 == Novel Sourcery
 - url: https://novelsourcery.github.io/
 - src: https://github.com/NovelSourcery/extensions-source
-- raw: https://raw.githubusercontent.com/novelsourcery/extensions/repo/index.min.json
+- raw: https://raw.githubusercontent.com/NovelSourcery/extensions/repo/index.pb
+- data: https://raw.githubusercontent.com/NovelSourcery/extensions/repo/index.json
 
 == Shotetsu Compatability
 - url: https://github.com/wasu-code/novel-compat-shosetsu
