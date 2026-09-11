@@ -126,6 +126,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Nyaa Pantsu](https://ouo.si/) |
 | **Others** | [BangumiD](https://bgmd.bytex.space/) [:src:](https://github.com/iota9star/bgmd) |
 | ^^ | [Bangumi Staff Statistics](https://search.bgmss.fun/) [:src:](https://github.com/AcuLY/BangumiStaffStats) |
+| ^^ | [TSDM](https://www.tsdm39.com/) :acc: |
 
 ### Comics
 - [69xinshu](https://www.69shuba.com/)
