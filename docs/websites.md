@@ -191,7 +191,7 @@ Some content may not be available depending on your region.
 
 - [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
 - [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
 - [Library Genesis+](https://libgen.li/) [:prx:](https://open-slum.org/)
 - [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
@@ -289,7 +289,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [JNovel Codex](https://jnovelcodex.web.app/index.html)
 - [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha==
 - [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
 - [Library Genesis+](https://libgen.li/) [:prx:](https://open-slum.org/)
 - [Z-Library](https://z-lib.sk/) [:prx:](https://open-slum.org/)
 
@@ -329,7 +329,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
 | ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
 | ^^ | [EXT Torrents](https://ext.to/) [:alt:](https://extto.com/) |
-| **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect) [:js:](https://greasyfork.org/en/scripts/585901-111477-enhancements) |
+| **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect) [:js:](https://greasyfork.org/en/scripts/585901) |
 | ^^ | [ChauThanh](https://chauthanh.info/) :acc: |
 | ^^ | [Dramaday](https://dramaday.me/) :ckr: |
 | ^^ | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
@@ -460,7 +460,7 @@ Some content may not be available depending on your region.
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
 == Download
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262-show-external-downloads) ==AnnasArchive==
+- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
 - [ComicsCodes](https://comics.codes/)
 - [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:

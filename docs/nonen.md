@@ -210,7 +210,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Script**  | [AniList Chinese](https://github.com/soruly/AniList-chinese) |
 | ^^          | [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) |
 | ^^          | [EhSyringe](https://github.com/EhTagTranslation/EhSyringe) |
-| ^^          | [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B) |
+| ^^          | [Score comparison assistant](https://greasyfork.org/en/scripts/451809) |
 
 
 ## French

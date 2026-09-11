@@ -277,7 +277,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | :prev: [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin::cmd: |
 | ^^ | [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujinDownloader== | :win: |
 | **Specific cases** | [BookWalker Downloader](https://gist.github.com/GolyBidoof/6c9cbff7644c7078520fe45e3bcf039f) | :js: |
-| ^^ | [Clip Studio Reader](https://greasyfork.org/en/scripts/481576-clip-studio-reader-downloader) [:src:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
+| ^^ | [Clip Studio Reader](https://greasyfork.org/en/scripts/481576) [:src:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
 | ^^ | [Getjump](https://github.com/eggplants/getjump) | :py: |
 | ^^ | [Mangaplus Downloader NG](https://github.com/l0westbob/mloader) | :py: |
 | ^^ | [Mangaplus Downloader](https://github.com/hurlenko/mloader/) ||Old|| | :py: |

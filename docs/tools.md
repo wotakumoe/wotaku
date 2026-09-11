@@ -353,31 +353,31 @@ og:
 == Anime
 
 - [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
-- [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus) [:src:](https://github.com/Deatthwing/anime-website-buttons-plus)
+- [Anime Website Buttons Plus](https://greasyfork.org/en/scripts/398046) [:src:](https://github.com/Deatthwing/anime-website-buttons-plus)
 - [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll)
-- [Find on Nyaa](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
+- [Find on Nyaa](https://greasyfork.org/en/scripts/379776)
 - [MAL-Sync](https://github.com/MALSync/MALSync)
 - [NyaaBlue](https://releases.moe/about/)
 
 == AniList
 
-- [AniList Activity-Feed Filter](https://greasyfork.org/en/scripts/475234-anilist-activity-feed-filter)
-- [AniList External Links](https://greasyfork.org/en/scripts/442599-AniList-external-links)
+- [AniList Activity-Feed Filter](https://greasyfork.org/en/scripts/475234)
+- [AniList External Links](https://greasyfork.org/en/scripts/442599)
 - [AniList Extras](https://github.com/pilar6195/AniList-Extras)
-- [AniList Unlimited](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header) [:src:](https://github.com/mysticflute/ani-list-unlimited)
-- [Anisongs](https://greasyfork.org/en/scripts/374785-anisongs)
-- [Automail](https://greasyfork.org/en/scripts/370473-automail) [:src:](https://github.com/hohMiyazawa/Automail)
+- [AniList Unlimited](https://greasyfork.org/en/scripts/404465) [:src:](https://github.com/mysticflute/ani-list-unlimited)
+- [Anisongs](https://greasyfork.org/en/scripts/374785)
+- [Automail](https://greasyfork.org/en/scripts/370473) [:src:](https://github.com/hohMiyazawa/Automail)
 
 == MyAnimeList
 
-- [Affinity to you](https://greasyfork.org/en/scripts/423918-affinity-to-you)
-- [Auto Date Add](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
-- [Endless MAL Search Pages](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages)
-- [MAL Clean JS](https://greasyfork.org/en/scripts/480965-mal-clean-js)
-- [MAL Dubs](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs) [:src:](https://github.com/MAL-Dubs/MAL-Dubs)
-- [MAL English Titles](https://greasyfork.org/en/scripts/420200-mal-english-titles) [:src:](https://github.com/Animorphs/MAL-English-Titles)
-- [MAL tierlist](https://greasyfork.org/en/scripts/474521-mal-tierlist)
-- [Series Highlighter](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
+- [Affinity to you](https://greasyfork.org/en/scripts/423918)
+- [Auto Date Add](https://greasyfork.org/en/scripts/407730)
+- [Endless MAL Search Pages](https://greasyfork.org/en/scripts/409957)
+- [MAL Clean JS](https://greasyfork.org/en/scripts/480965)
+- [MAL Dubs](https://greasyfork.org/en/scripts/376546) [:src:](https://github.com/MAL-Dubs/MAL-Dubs)
+- [MAL English Titles](https://greasyfork.org/en/scripts/420200) [:src:](https://github.com/Animorphs/MAL-English-Titles)
+- [MAL tierlist](https://greasyfork.org/en/scripts/474521)
+- [Series Highlighter](https://greasyfork.org/en/scripts/424774)
 
 == Manga
 
@@ -387,22 +387,22 @@ og:
 == Games
 
 - [CS RIN RU Enhanced](https://github.com/Altansar69/CS.RIN.RU-Enhanced-external)
-- Game DL Links on [:gog:](https://greasyfork.org/en/scripts/481134-gog-to-free-download-site) [:steam:](https://greasyfork.org/en/scripts/481139-steam-to-free-download-site)
+- Game DL Links on [:gog:](https://greasyfork.org/en/scripts/481134) [:steam:](https://greasyfork.org/en/scripts/481139-steam-to-free-download-site)
 - [VN(db) Userscripts](https://github.com/MarvNC/vn-userscripts)
 - [VNDB:Re](https://userstyles.world/style/13179/)
 
 == Music
 
 - [Ame](https://gitlab.com/SuperSaltyGamer/ame)
-- [Discogs Scout](https://greasyfork.org/en/scripts/439452-discogs-scout) [:src:](https://github.com/Purfview/Discogs-Scout)
+- [Discogs Scout](https://greasyfork.org/en/scripts/439452) [:src:](https://github.com/Purfview/Discogs-Scout)
 - [MusicBrainz Userscripts](https://musicbrainz.org/doc/Guides/Userscripts)
 
 == Misc
 
 - [Bypass All Shortlinks Debloated](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated)
-- [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214-fix-brave-bug-for-youtube-live-chat)
+- [Fix Brave Bug for YouTube Live Chat](https://greasyfork.org/en/scripts/474214)
 - [Fandom Fixed](https://github.com/squabbled/FandomFixed)
-- [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089-pkga-youtube-theater-mode)
+- [PKGA YouTube Theater Mode](https://greasyfork.org/en/scripts/442089)
 
 :::
 

@@ -454,7 +454,7 @@ Only use this if you know what you're getting yourselves into. Recommended board
 | ^^ | [KurobaEx](https://github.com/K1rakishou/Kuroba-Experimental) | :and: |
 | ^^ | [TUI-Chan](https://github.com/tuqqu/tui-chan) | :win: |
 | **Extension** / Script | [4chan X](https://github.com/ccd0/4chan-x) | :cr::js: |
-| ^^ | [Desu X](https://greasyfork.org/en/scripts/483282-desu-x-enhancement-script-for-desuarchive-org) | :js: |
+| ^^ | [Desu X](https://greasyfork.org/en/scripts/483282) | :js: |
 | ^^ | [Dollchan](https://github.com/SthephanShinkufag/Dollchan-Extension-Tools/) | :ff::js: |
 | **4chan X themeing** | [OneeChan](https://github.com/KevinParnell/OneeChan) | :js: |
 | ^^ | [StyleChan](https://github.com/3nly/StyleChan) | :js: |
