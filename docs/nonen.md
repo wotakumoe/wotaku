@@ -267,6 +267,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Anime Community Germany](https://anime-community-germany.de/)
 - [Animexx](https://www.animexx.de/)
 - [aniSearch](https://www.anisearch.de/forum/categories)
+- [BisaBoard](https://community.bisafans.de/)
 - [Data-Load](https://www.data-load.me/) :ddl::host::acc:
 - [littleAkiba](https://www.littleakiba.ch/)
 - [myGully](https://mygully.com/) :ddl::host::acc:
