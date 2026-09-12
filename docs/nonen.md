@@ -386,7 +386,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.diy/)
+- [Dokiraw](https://dokiraw.im/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://i.wotaku.wiki/p/proxy#kl-manga)
 - [MangaFire](https://mangafire.to/)
@@ -395,14 +395,14 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 <Collapsible title="More">
 
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://i.wotaku.wiki/p/proxy#mangarawspoil)
-- [Manga Raw (.ad)](https://mangarawad.asia/)
+- [Manga Raw (.ad)](https://mangarawad.diy/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://i.wotaku.wiki/p/proxy#raw1001)
 - [RawBaka](https://rawbaka.site/)
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.buzz/)
+- [Raw FREE](https://rawfree.mom/)
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.email/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
@@ -462,12 +462,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc124.asia/) |
-| ^^ | [Funbe](https://funbe673.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [GoodToon](https://www.goodtoon003.com/) [:tg:](https://t.me/goodtoon_url) |
+| ^^ | [Funbe](https://funbe674.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [GoodToon](https://www.goodtoon004.com/) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon151.asia/) |
 | ^^ | [NameeToon](https://namee112.asia/) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
-| ^^ | [TOONKOR](https://tkor151.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [TOONKOR](https://tkor152.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf492.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon227.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
