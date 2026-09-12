@@ -110,6 +110,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [MikuDB](https://discord.gg/w9Dq25n)
 - [Monochrome](https://discord.gg/4DYm4artsN)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
+- [UtaTime](https://discord.gg/8dspgw2pBX)
 
 == Games
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
