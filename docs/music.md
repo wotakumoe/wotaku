@@ -19,11 +19,11 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 == Anime
 - [AnimeThemes](https://animethemes.moe/) :s: [:src:](https://github.com/AnimeThemes) [:alt:](https://themes.moe/)
 - [Animusic](https://animusic.moe/)
-- [Karaoke Mugen](https://kara.moe)
-- [Lyrical Nonsense](https://www.lyrical-nonsense.com/global/)
 - [Anisong Database](https://anisongdb.com/) [:src:](https://github.com/xSardine/AMQ-Artists-DB) [:alt:](https://43d.github.io/player/#/)
+- [Karaoke Mugen](https://kara.moe)
 - [popDNSLC](https://pop.dnslc.net/)
 - [Squidify](https://www.squidify.org/) [:alt:](https://www.squidify.net/) [:help:](https://docs.squidify.org/)
+- [UtaTime](https://www.utatime.com/global/)
 - [One Piece Tracklist](http://onepiecetracklist.com/)
 
 == AMVs
