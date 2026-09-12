@@ -34,6 +34,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [VocaVerse Network](https://vocaverse.network/)
 
 == Games
+- [Bulbagarden](https://bulbagarden.net/forums/)
 - [RetroGameTalk](https://retrogametalk.com/forums/)
 - [The VG Resource](https://www.vg-resource.com/)
 - [YGOPro Deck](https://ygoprodeck.com/forum/)
@@ -43,6 +44,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Japanese Language Stack Exchange](https://japanese.stackexchange.com/)
 - [My Language Exchange](https://www.mylanguageexchange.com/)
 - [renshuu](https://www.renshuu.org/)
+- [WaniKani Community](https://community.wanikani.com/)
 
 == Others
 - [My Figure Collection](https://myfigurecollection.net/)
