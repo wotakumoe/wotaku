@@ -305,7 +305,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Stream** | [Aniflix](https://aniflix.us/) |
-| ^^ | [AnimeLok](https://animelok.live/home) + :len: |
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
 | ^^ | [Anime Salt](https://animesalt.cx/) + :len: |
 | ^^ | [Anime World India](https://watchanimeworld.one/) + :len: |
@@ -333,6 +332,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Kuramanime](https://kuramanime.red/) |
 | ^^ | [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime) |
 | ^^ | [Megaheya](https://mangaheya.net/) :acc: |
+| ^^ | [Mynimeku](https://www.mynimeku.com/) |
 | ^^ | [NekoPoi](https://nekopoi.care/) :ero: |
 | ^^ | [Otaku Desu](https://otakudesu.cloud/) |
 | ^^ | [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/) |
@@ -345,6 +345,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Komiku](https://komiku.org/)
 - [Komik Indo](https://komikindo.ch/)
 - [Megaheya](https://mangaheya.net/) :acc:
+- [Mynimeku](https://www.mynimeku.com/)
 - [Softkomik](https://softkomik.co/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
