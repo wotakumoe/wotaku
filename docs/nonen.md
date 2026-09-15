@@ -219,7 +219,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | :--- | :--- |
 | **Anime** | [AnimeKO](https://v4.animeko.ws/) |
 | ^^ | [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/) + :len: |
-| ^^ | [AnimesUltra](https://v2.animesultra.org/) |
 | ^^ | [Fluneo](https://myfluneo.eu/) |
 | ^^ | [FRAnime](https://franime.fr/) |
 | ^^ | [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai) |
@@ -232,7 +231,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | **Manga** | [Japscan](https://www.japscan.foo/) |
 | ^^ | [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc: |
 | ^^ | [Mangadraft](https://www.mangadraft.com/) |
-| ^^ | [Mangakawaii](https://www.mangakawaii.io/) |
 | ^^ | [Planete-BD](https://planete-bd.org/) |
 | ^^ | [Raijin Scans](https://raijin-scans.fr/) |
 | ^^ | [Sushi-Scan](https://sushiscan.net/) |
