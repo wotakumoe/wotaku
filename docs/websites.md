@@ -24,7 +24,6 @@ outline: 2
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
-| [Miruro](https://www.miruro.to/) :scrpr: [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Re:ANIME](https://reanime.to/home) [:prx:](https://reindex.to/) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
@@ -40,23 +39,12 @@ outline: 2
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
+| [AniLight](https://anilight.live/) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
+| [AnimeX](https://animex.one/home) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
+| [Miruro](https://www.miruro.to/) :scrpr: [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
 
 </collapsible>
 
-== Scrapers
-
-| Websites | Login | Tracking | Sub |
-|----------|-------|----------|-----|
-| [AniLight](https://anilight.live/) | :yes: | :sync::ie: | :cc::oc: |
-| [AnimeX](https://animex.one/home) | :yes: | :sync::ie: | :cc::oc: |
-| [Luna](https://luna-stream.me/) | :yes: | :sync: | :cc::oc: |
-
-::: scrapetable
-- AniLight : (AnimePahe, Raye), (Anibd, Misora), (Anidb, Near), (AniNeko, Light & Rem), (Anikoto, Kiwi Meg & Misa), (AllManga, Ryu);
-- AnimeX : (Anidb, kiwi), (Anibd, beep), (AniNeko, mimi), (AnimeOnsen, vee, SD), (AllManga, huzz miku & mochi), (Animeverse, neko), (Anikoto, koto & yuki);
-- Luna: (Anikoto, Orion & Zenith), (Aniwave, Nova), (Anibd, Helios), (Anidb, Polaris), (AnimeGG, Pulsar), (Allmanga, Quasar), (Anineko, Vega), (AnimeHeaven, CrysOline), (Animeverse, Cosmos);
-- Miruro : (AnimeDunya, dune, SD), (Anidb, pewe), (AnimeGG, cog & moo), (AnimePahe, kiwi & telli), (AniNeko, bonk & twin), (KickAssAnime, hop & kuz), (AllManga, ally & nun), (Anikoto, bun & bee);
-:::
 
 == Donghua
 
