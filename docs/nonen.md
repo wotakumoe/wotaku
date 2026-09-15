@@ -405,7 +405,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Rawkuma](https://rawkuma.net/)
 - [Raw FREE](https://rawfree.mom/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.email/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.cyou/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Soraraw](https://soraraw.com/)
 
@@ -462,17 +462,17 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [FreeToon](https://foc124.asia/) |
+| ^^ | [FreeToon](https://foc125.asia/) |
 | ^^ | [Funbe](https://funbe674.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [GoodToon](https://www.goodtoon004.com/) [:tg:](https://t.me/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon151.asia/) |
-| ^^ | [NameeToon](https://namee112.asia/) |
+| ^^ | [MoneyToon](https://mtoon153.asia/) |
+| ^^ | [NameeToon](https://namee113.asia/) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
 | ^^ | [TOONKOR](https://tkor152.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf492.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon227.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [YaToon](https://yatoon249.asia/) [:tg:](https://t.me/yatoonlink) |
+| ^^ | [YaToon](https://yatoon250.asia/) [:tg:](https://t.me/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
 | ^^ | [Anissia](https://anissia.net/) |
 
