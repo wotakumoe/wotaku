@@ -188,7 +188,7 @@ Some content may not be available depending on your region.
 
 <collapsible title="DDL from rippers">
 
-- Nyaa descriptions: [**1r0n**](https://nyaa.si/user/tsuna69), [**LuCaZ**](https://nyaa.si/user/LuCaZ), [**Shizu**](https://nyaa.si/user/wolfsbanes), [**Stick**](https://nyaa.si/user/dumbboy58)
+- Nyaa descriptions: [**LuCaZ**](https://nyaa.si/user/LuCaZ), [**Shizu**](https://nyaa.si/?c=3_1&q=%22%28Shizu%29%22), [**Stick**](https://nyaa.si/user/dumbboy58)
 - 4chan archives: [**Danke**](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/), [**XRA**](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/)
 - Personal sheet: [**4str0**](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)
 
