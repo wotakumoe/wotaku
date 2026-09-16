@@ -132,12 +132,19 @@ outline: 2
 
 == Events
 
-- [alley.moe](https://alley.moe/)
-- [Circle.ms](https://portal.circle.ms/) :ljp:
-- [Doujin Event Navi](https://shimeken.com/events) :ljp:
-- [FanCons](https://fancons.com/) [:alt:](https://animecons.com/)
-- [Kettokomu](https://ketto.com/) :ljp:
-- [UpcomingCons](https://upcomingcons.com/)
+| Category | Websites |
+| :--- | :--- |
+| :cjp: **Portal** | [Circle.ms](https://portal.circle.ms/) |
+| :cjp: **Index** | [Doujin Event Navi](https://shimeken.com/events) |
+| ^^ | [Kettokomu](https://ketto.com/) |
+| :cjp: **Organizer** | [Akaboo](https://www.akaboo.jp/index.html) |
+| ^^ | [Comiket](https://www.comiket.co.jp/) |
+| ^^ | [Comitia](https://www.comitia.co.jp/) |
+| ^^ | [Gataket](https://gataket.com/) |
+| ^^ | [Studio YOU](https://www.youyou.co.jp/index.html) |
+| :global: **Index** | [alley.moe](https://alley.moe/) |
+| ^^ | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
+| ^^ | [UpcomingCons](https://upcomingcons.com/) |
 
 :::
 
