@@ -168,7 +168,7 @@ Some content may not be available depending on your region.
 | [MangaBall](https://mangaball.net/)  | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 78k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [MangaK](https://mangak.io/home) | 27k | :no: | :ss: | :sp::ls: | :cmnt: |
+| [MangaK](https://mangak.io/home) | 40k | :no: | :ss: | :sp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/)  ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 89k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
