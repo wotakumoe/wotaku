@@ -7,7 +7,7 @@
 -->
 <script setup lang="ts">
 import { useRouter, withBase } from 'vitepress'
-import { computed, reactive, ref } from 'vue'
+import { computed, onMounted, onUnmounted, reactive, ref } from 'vue'
 import {
   feedbackOptions,
   type FeedbackType,
@@ -60,6 +60,7 @@ function getVisitorId(): string {
 
 const isDisabled = computed(() => {
   return (
+    !feedback.type ||
     !feedback.content.length ||
     feedback.content.length < 5 ||
     feedback.content.length > 2000
@@ -72,18 +73,12 @@ const feedback = reactive<
 >({
   page: getURL(props.heading!),
   content: '',
-  name: ''
+  name: '',
+  type: undefined
 })
 
-const selectedOption = ref(feedbackOptions[0])
-
-function selectType(type: FeedbackType['type']) {
-  feedback.type = type
-  selectedOption.value = getFeedbackOption(type)!
-  error.value = null
-}
-
 async function handleSubmit() {
+  if (!feedback.type) return
   loading.value = true
   success.value = true
   error.value = null
@@ -120,11 +115,41 @@ async function handleSubmit() {
 }
 
 const isCardShown = ref<boolean>(false)
-const helpfulText = props.heading
-  ? 'What do you think about this section?'
-  : 'What do you think about this page?'
 const prompt = computed(() => getPrompt())
-const toggleCard = () => (isCardShown.value = !isCardShown.value)
+const toggleCard = () => {
+  isCardShown.value = !isCardShown.value
+  if (!isCardShown.value && success.value) {
+    success.value = false
+    feedback.content = ''
+    feedback.type = undefined
+    error.value = null
+  }
+}
+
+const typeOpen = ref<boolean>(false)
+const typeRootRef = ref<HTMLDivElement>()
+const typePlaceholder = {
+  label: 'Feedback type',
+  icon: 'i-lucide:circle-question-mark',
+  value: undefined
+} as const
+const selectedType = computed(
+  () => (feedback.type ? getFeedbackOption(feedback.type) : undefined) ?? typePlaceholder
+)
+
+function selectFeedbackType(type: FeedbackType['type']) {
+  feedback.type = type
+  typeOpen.value = false
+}
+
+function onTypeDocClick(e: MouseEvent) {
+  if (typeRootRef.value && !typeRootRef.value.contains(e.target as Node)) {
+    typeOpen.value = false
+  }
+}
+
+onMounted(() => document.addEventListener('click', onTypeDocClick, true))
+onUnmounted(() => document.removeEventListener('click', onTypeDocClick, true))
 </script>
 
 <template>
@@ -154,151 +179,85 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   </template>
 
   <Transition name="fade" mode="out-in">
-    <div
-      v-if="isCardShown"
-      :class="['border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid px-6 pt-3', success ? 'pb-3' : 'pb-6']"
-    >
+    <div v-if="isCardShown" class="feedback-wrap">
       <Transition name="fade" mode="out-in">
-        <div v-if="!feedback.type">
-          <p class="heading">
-            {{ helpfulText }}
-          </p>
-          <div class="flex flex-wrap gap-2">
-            <button
-              v-for="item in feedbackOptions"
-              :key="item.value"
-              class="bg-bg border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
-              @click="selectType(item.value)"
-            >
-              <span :class="[item.icon, 'mr-1 inline-block align-middle']" />
-              <span class="align-middle">{{ item.label }}</span>
-            </button>
-          </div>
-        </div>
-        <div v-else-if="feedback.type && !success" class="pt-2">
-          <div class="mb-3">
-            <span class="text-[22px] font-bold flex items-center gap-2">
-              <span :class="getFeedbackOption(feedback.type)?.icon" />
-              {{ getFeedbackOption(feedback.type)?.label }}
-            </span>
-          </div>
-
-          <div v-if="feedback.type === 'submit'" class="mb-2 text-sm">
-            <details>
-              <summary class="flex items-center gap-1">
-                <span class="i-iconoir-nav-arrow-right arrow-right" />
-                <span class="i-iconoir-nav-arrow-down arrow-down" />
-                <span class="i-lucide-shield-x bg-cerise-400" />
-                Things we won't add in the wiki
-              </summary>
-              <ol>
-                <li>
-                  Websites that are only or primarily for generative AI
-                  (Chatbot, roleplaying bot, ai art generator etc.)
-                </li>
-                <li>
-                  Sites that
-                  <ul>
-                    <li>imitate other websites</li>
-                    <li>have very small libraries</li>
-                    <li>only feature MTL'd works</li>
-                    <li>are mostly paywalled</li>
-                    <li>sell unofficial merch</li>
-                    <li>exlusively sell sex toys</li>
-                  </ul>
-                </li>
-                <li>Adult content sites similar to OnlyFans</li>
-                <li>
-                  Software that's too general (for example Windows OS related or
-                  Tweaking for privacy)
-                </li>
-                <li>Sites focused on lolicon or furry stuff</li>
-                <li>
-                  Sites scraping only a couple popular sources
-                </li>
-                <li>
-                  Sites scraping the servers of other scrapers
-                </li>
-                <li>
-                  Sites found in the Unsafe lists of
-                  <a
-                    href="https://privateers.wiki/unsafe"
-                    class="text-primary text-underline font-semibold"
-                  >
-                    Privateersclub
-                  </a>
-                  and/or
-                  <a
-                    href="https://rentry.org/pgames#untrusted-sites"
-                    class="text-primary text-underline font-semibold"
-                  >
-                    r/PiratedGames
-                  </a>
-                  .
-                </li>
-              </ol>
-            </details>
-            <details>
-              <summary class="flex items-center gap-1">
-                <span class="i-iconoir-nav-arrow-right arrow-right" />
-                <span class="i-iconoir-nav-arrow-down arrow-down" />
-                <span class="i-lucide-shield-alert bg-yellow-400" />
-                Things we will try to avoid
-              </summary>
-              <ol>
-                <li>Closed source software (with good FOSS alternatives)</li>
-                <li>
-                  Sites that only use hosters such Katfile, Nitroflare,
-                  DDownload and Rapidgator
-                </li>
-                <li>
-                  Sites that aren't primarily for anime but have it as a side
-                  product
-                </li>
-                <li>Things that are too niche and/or have a small userbase</li>
-              </ol>
-            </details>
-          </div>
+        <div v-if="!success">
           <textarea
             v-model="feedback.content"
             autofocus
-            class="feedback-textarea bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
+            class="feedback-textarea"
             :placeholder="prompt"
           />
-          <input
-            v-model="feedback.name"
-            maxlength="50"
-            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full border border-$vp-c-divider rounded px-3 py-1.5 mt-2 b-rd-4 border-2 border-solid text-sm"
-            placeholder="Name (optional)"
-          />
+
+          <div class="feedback-row">
+            <input
+              v-model="feedback.name"
+              maxlength="50"
+              class="feedback-name"
+              placeholder="Name (optional)"
+            />
+            <div
+              ref="typeRootRef"
+              class="fb-type-select"
+              :class="{ 'fb-type-select--open': typeOpen }"
+            >
+              <button
+                type="button"
+                class="fb-type-trigger"
+                :class="{ 'fb-type-trigger--placeholder': !feedback.type }"
+                aria-haspopup="listbox"
+                :aria-expanded="typeOpen"
+                :aria-label="`Feedback type: ${selectedType.label}`"
+                @click="typeOpen = !typeOpen"
+              >
+                <span :class="selectedType.icon" class="fb-type-icon" aria-hidden="true" />
+                <span class="fb-type-label">{{ selectedType.label }}</span>
+                <span
+                  class="fb-type-chevron i-lucide:chevron-down"
+                  :class="{ 'fb-type-chevron--open': typeOpen }"
+                  aria-hidden="true"
+                />
+              </button>
+
+              <div v-show="typeOpen" class="fb-type-options" role="listbox">
+                <button
+                  v-for="item in feedbackOptions"
+                  :key="item.value"
+                  type="button"
+                  role="option"
+                  class="fb-type-option"
+                  :class="{ 'fb-type-option--selected': feedback.type === item.value }"
+                  :aria-selected="feedback.type === item.value"
+                  :aria-label="item.label"
+                  @click="selectFeedbackType(item.value)"
+                >
+                  <span :class="item.icon" class="fb-type-icon" aria-hidden="true" />
+                  <span class="fb-type-label">{{ item.label }}</span>
+                </button>
+              </div>
+            </div>
+            <button
+              type="submit"
+              class="feedback-send"
+              :disabled="isDisabled || loading"
+              @click="handleSubmit()"
+            >
+              {{ loading ? 'Sending...' : 'Send' }}
+              <span class="i-lucide:mail-check" />
+            </button>
+          </div>
           <p v-if="error" class="text-red-400 text-sm mt-1">
             Failed to send: {{ String(error) }}
           </p>
-          <p class="desc mb-2">
-            If you want a reply to your feedback, feel free to mention a contact
-            in the message or join our
-            <a
-              class="text-primary text-underline font-semibold"
-              href="https://discord.gg/wZMuSGpZ8s"
-            >
-              Discord.
-            </a>
-          </p>
-          <div class="flex flex-row gap-2">
-            <button
-              class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
-              @click="feedback.type = undefined"
-            >
-              <span class="i-lucide:arrow-left-from-line">close</span>
-            </button>
-            <button
-              type="submit"
-              style="background-color: #438afe; border-color: #438afe;" class="border rounded-lg transition-colors duration-250 inline-flex items-center gap-1 text-14px font-500 leading-1.5 px-3 py-1.5 text-center align-middle whitespace-nowrap disabled:opacity-50 text-white hover:brightness-110 disabled:opacity-50"
-              :disabled="isDisabled"
-              @click="handleSubmit()"
-            >
-              Send Feedback <span class="i-lucide:mail-check" />
-            </button>
+          <div class="tip custom-block mt-2">
+            <p class="custom-block-title">README</p>
+            <p>
+              Read the
+              <a href="https://i.wotaku.wiki/p/rules" target="_blank" rel="noopener noreferrer"><strong>RULES</strong></a>
+              before submitting URLs. If you want a reply to your feedback,
+              feel free to join our
+              <a href="https://discord.gg/wZMuSGpZ8s" target="_blank" rel="noopener noreferrer">Discord server.</a>
+            </p>
           </div>
         </div>
         <div v-else>
@@ -363,42 +322,202 @@ const toggleCard = () => (isCardShown.value = !isCardShown.value)
   opacity: 0.75;
 }
 
-.feedback-textarea {
+.feedback-wrap {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.feedback-textarea,
+.feedback-name,
+.fb-type-trigger {
+  border: 2px solid var(--vp-c-brand-soft);
+  border-radius: 12px;
+  background-color: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
   font-size: 14px;
+  outline: none;
+  transition: border-color 0.25s, box-shadow 0.25s;
+}
+
+.feedback-textarea:hover,
+.feedback-name:hover,
+.fb-type-trigger:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.feedback-textarea:focus,
+.feedback-name:focus,
+.fb-type-select--open .fb-type-trigger {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
+}
+
+.feedback-textarea {
+  width: 100%;
+  min-height: 160px;
+  padding: 0.75rem 0.9rem;
+  resize: vertical;
 }
 
 .feedback-textarea::placeholder {
-  font-size: 12px;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+  opacity: 0.55;
 }
 
-details summary {
+.feedback-name::placeholder {
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+  opacity: 0.55;
+}
+
+.feedback-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 8px;
+  margin-top: 8px;
+  align-items: stretch;
+}
+
+@media (max-width: 640px) {
+  .feedback-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.feedback-name {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  line-height: 1.4;
+}
+
+.fb-type-select {
+  position: relative;
+  width: 100%;
+}
+
+.fb-type-trigger {
   display: flex;
   align-items: center;
-  gap: 0.25rem;
+  gap: 8px;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  padding: 0.5rem 0.75rem;
+  line-height: 1.4;
   cursor: pointer;
-  list-style: none;
 }
 
-details summary::-webkit-details-marker {
-  display: none;
-}
-
-details summary .arrow-right {
-  display: inline-block;
+.fb-type-icon {
   flex-shrink: 0;
+  width: 16px;
+  height: 16px;
 }
 
-details summary .arrow-down {
-  display: none;
+.fb-type-label {
+  flex: 1;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fb-type-trigger--placeholder .fb-type-icon,
+.fb-type-trigger--placeholder .fb-type-label {
+  opacity: 0.55;
+}
+
+.fb-type-chevron {
   flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  color: var(--vp-c-text-2);
+  transition: transform 0.2s ease;
 }
 
-details[open] summary .arrow-right {
-  display: none;
+.fb-type-chevron--open {
+  transform: rotate(180deg);
 }
 
-details[open] summary .arrow-down {
-  display: inline-block;
+.fb-type-options {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  max-height: 240px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2px;
+  padding: 4px;
+  border-radius: 12px;
+  border: 2px solid var(--vp-c-brand-1);
+  background: var(--vp-c-bg-elv);
+  box-shadow: var(--vp-shadow-2);
+}
+
+.fb-type-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 8px;
+  border-radius: 8px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: var(--vp-c-text-1);
+  font-size: 13px;
+  width: 100%;
+  transition: background-color 0.15s;
+}
+
+.fb-type-option:hover {
+  background-color: var(--vp-c-bg-soft);
+}
+
+.fb-type-option--selected {
+  background-color: var(--vp-c-brand-soft);
+}
+
+.fb-type-option--selected .fb-type-label {
+  font-weight: 600;
+}
+
+.fb-type-option--selected:hover {
+  background-color: var(--vp-c-brand-soft);
+}
+
+.feedback-send {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid var(--vp-c-brand-1);
+  border-radius: 12px;
+  background-color: var(--vp-c-brand-1);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: filter 0.25s, opacity 0.25s;
+}
+
+:global(html.dark) .feedback-send {
+  color: #000;
+}
+
+.feedback-send:hover:not(:disabled) {
+  filter: brightness(1.1);
+}
+
+.feedback-send:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .fade-enter-active,
