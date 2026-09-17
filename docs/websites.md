@@ -157,20 +157,20 @@ Some content may not be available depending on your region.
 | [Kagane](https://kagane.to/)  ==Kagane== | 39k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Comix](https://comix.to/)  ==Comix== | 92k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 22k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 43k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 45k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
 <collapsible title="More">
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
 | [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
-| [MangaBall](https://mangaball.net/)  | 154k | :msync: | :ps::up: | :ls: | :cmnt: |
+| [MangaBall](https://mangaball.net/)  | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 78k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [MangaK](https://mangak.io/home) | 27k | :no: | :ss: | :sp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/)  ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
-| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 87k | :no: | :ss: | :ls: | :cmnt: |
+| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 89k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
 
 </collapsible>
