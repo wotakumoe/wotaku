@@ -17,21 +17,13 @@ og:
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |
 | [Re:ANIME](https://reanime.to/home) [:prx:](https://reindex.to/) ==ReANIME== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: |
-
-
-<Collapsible title="More">
-
-| Websites | Login | Tracking |
-|----------|-------|----------|
-| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) [:alt:](https://mkissa.to/anime) | :yes: | :msync: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: |
 | [Anime-Dunya](https://anime-dunya.com/en) :hd: | :yes: | :no: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) :hd: | :yes: | :msync: |
 
-</Collapsible>
-
 ### Manga
+
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.to/)  ==Kagane== | 39k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
