@@ -35,6 +35,7 @@ outline: 2
 |----------|-------|----------|-----|
 | [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) [:alt:](https://mkissa.to/anime) | :yes: | :msync: | :cc::oc: |
 | [Anibd](https://anibd.app/) [:prx:](https://i.wotaku.wiki/p/proxy#anibd) | :yes: | :no: | :oc: |
+| [AniEmpire](https://aniempire.net/) | :no: | :no: | :cc::oc: |
 | [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
