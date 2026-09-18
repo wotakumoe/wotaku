@@ -7,7 +7,7 @@
 -->
 <script setup lang="ts">
 import { useRouter, withBase } from 'vitepress'
-import { computed, onMounted, onUnmounted, reactive, ref } from 'vue'
+import { computed, onMounted, onUnmounted, reactive, ref, watch } from 'vue'
 import {
   feedbackOptions,
   type FeedbackType,
@@ -130,7 +130,7 @@ const typeOpen = ref<boolean>(false)
 const typeRootRef = ref<HTMLDivElement>()
 const typePlaceholder = {
   label: 'Feedback type',
-  icon: 'i-lucide:circle-question-mark',
+  icon: undefined as string | undefined,
   value: undefined
 } as const
 const selectedType = computed(
@@ -148,7 +148,82 @@ function onTypeDocClick(e: MouseEvent) {
   }
 }
 
-onMounted(() => document.addEventListener('click', onTypeDocClick, true))
+// Success celebration: floating twemoji, single ~3s burst with random lanes.
+// Pick an icon + depth layer here; size/opacity/timing derive from the layer.
+type CelebrateLayer = 'front' | 'mid' | 'back'
+
+const CELEBRATE_ICONS: { icon: string; layer: CelebrateLayer }[] = [
+  { icon: 'i-twemoji-red-heart', layer: 'front' },
+  { icon: 'i-twemoji-growing-heart', layer: 'front' },
+  { icon: 'i-twemoji-green-heart', layer: 'front' },
+  { icon: 'i-twemoji-yellow-heart', layer: 'mid' },
+  { icon: 'i-twemoji-folded-hands', layer: 'mid' },
+  { icon: 'i-twemoji-purple-heart', layer: 'mid' },
+  { icon: 'i-twemoji-beating-heart', layer: 'mid' },
+  { icon: 'i-twemoji-orange-heart', layer: 'back' },
+  { icon: 'i-twemoji-blue-heart', layer: 'back' },
+  { icon: 'i-twemoji-brown-heart', layer: 'back' },
+  { icon: 'i-twemoji-white-heart', layer: 'back' },
+  { icon: 'i-twemoji-black-heart', layer: 'back' },
+  { icon: 'i-twemoji-sparkling-heart', layer: 'back' },
+  { icon: 'i-twemoji-glowing-star', layer: 'back' }
+]
+
+const LAYER_STYLE = {
+  front: { minSize: 24, maxSize: 30, minOpacity: 0.95, maxOpacity: 1, z: 2, blur: '0px', minDuration: 1.9, maxDuration: 2.1 },
+  mid: { minSize: 16, maxSize: 22, minOpacity: 0.8, maxOpacity: 0.9, z: 0, blur: '0px', minDuration: 2, maxDuration: 2.3 },
+  back: { minSize: 12, maxSize: 15, minOpacity: 0.4, maxOpacity: 0.55, z: 0, blur: '1px', minDuration: 2.1, maxDuration: 2.3 }
+} as const
+
+interface CelebrationParticle {
+  icon: string
+  left: string
+  delay: string
+  duration: string
+  size: string
+  opacity: string
+  z: number
+  blur: string
+}
+
+function makeParticle(
+  def: (typeof CELEBRATE_ICONS)[number],
+  index: number,
+  randomize: boolean
+): CelebrationParticle {
+  const style = LAYER_STYLE[def.layer]
+  const pick = (min: number, max: number) =>
+    randomize ? min + Math.random() * (max - min) : (min + max) / 2
+  return {
+    icon: def.icon,
+    left: randomize
+      ? `${(2 + Math.random() * 92).toFixed(1)}%`
+      : `${(((index + 0.5) / CELEBRATE_ICONS.length) * 100).toFixed(1)}%`,
+    delay: `${pick(0, 0.7).toFixed(2)}s`,
+    duration: `${pick(style.minDuration, style.maxDuration).toFixed(2)}s`,
+    size: `${Math.round(pick(style.minSize, style.maxSize))}px`,
+    opacity: `${pick(style.minOpacity, style.maxOpacity).toFixed(2)}`,
+    z: style.z,
+    blur: style.blur
+  }
+}
+
+const celebrationIcons = ref<CelebrationParticle[]>(
+  CELEBRATE_ICONS.map((def, i) => makeParticle(def, i, false))
+)
+
+function rollCelebration() {
+  celebrationIcons.value = CELEBRATE_ICONS.map((def, i) => makeParticle(def, i, true))
+}
+
+watch(success, (v) => {
+  if (v) rollCelebration()
+})
+
+onMounted(() => {
+  document.addEventListener('click', onTypeDocClick, true)
+  if (success.value) rollCelebration()
+})
 onUnmounted(() => document.removeEventListener('click', onTypeDocClick, true))
 </script>
 
@@ -210,7 +285,7 @@ onUnmounted(() => document.removeEventListener('click', onTypeDocClick, true))
                 :aria-label="`Feedback type: ${selectedType.label}`"
                 @click="typeOpen = !typeOpen"
               >
-                <span :class="selectedType.icon" class="fb-type-icon" aria-hidden="true" />
+                <span v-if="selectedType.icon" :class="selectedType.icon" class="fb-type-icon" aria-hidden="true" />
                 <span class="fb-type-label">{{ selectedType.label }}</span>
                 <span
                   class="fb-type-chevron i-lucide:chevron-down"
@@ -260,8 +335,25 @@ onUnmounted(() => document.removeEventListener('click', onTypeDocClick, true))
             </p>
           </div>
         </div>
-        <div v-else>
+        <div v-else class="feedback-success">
           <p class="heading">Thanks for your feedback!</p>
+          <span
+            v-for="(item, i) in celebrationIcons"
+            :key="i"
+            class="fb-celebrate"
+            :class="item.icon"
+            aria-hidden="true"
+            :style="{
+              left: item.left,
+              width: item.size,
+              height: item.size,
+              zIndex: item.z,
+              filter: `blur(${item.blur})`,
+              '--fb-peak': item.opacity,
+              animationDelay: item.delay,
+              animationDuration: item.duration
+            }"
+          />
         </div>
       </Transition>
     </div>
@@ -473,8 +565,10 @@ onUnmounted(() => document.removeEventListener('click', onTypeDocClick, true))
   transition: background-color 0.15s;
 }
 
-.fb-type-option:hover {
-  background-color: var(--vp-c-bg-soft);
+.fb-type-option:hover,
+.fb-type-option:focus-visible {
+  background-color: var(--vp-c-brand-soft);
+  outline: none;
 }
 
 .fb-type-option--selected {
@@ -483,10 +577,6 @@ onUnmounted(() => document.removeEventListener('click', onTypeDocClick, true))
 
 .fb-type-option--selected .fb-type-label {
   font-weight: 600;
-}
-
-.fb-type-option--selected:hover {
-  background-color: var(--vp-c-brand-soft);
 }
 
 .feedback-send {
@@ -518,6 +608,62 @@ onUnmounted(() => document.removeEventListener('click', onTypeDocClick, true))
 .feedback-send:disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+
+.feedback-success {
+  border: 2px solid var(--vp-c-brand-1);
+  border-radius: 12px;
+  background-color: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 120px;
+  padding: 1rem;
+  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
+  position: relative;
+  overflow: hidden;
+}
+
+.feedback-success .heading {
+  margin: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.fb-celebrate {
+  position: absolute;
+  bottom: -28px;
+  opacity: 0;
+  pointer-events: none;
+  animation-name: fb-float-up;
+  animation-timing-function: linear;
+  animation-iteration-count: 1;
+}
+
+@keyframes fb-float-up {
+  0% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+  15% {
+    opacity: var(--fb-peak, 0.9);
+  }
+  70% {
+    opacity: var(--fb-peak, 0.9);
+  }
+  100% {
+    transform: translateY(-160px);
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fb-celebrate {
+    animation: none;
+    display: none;
+  }
 }
 
 .fade-enter-active,

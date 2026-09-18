@@ -83,6 +83,20 @@ const safelist = [
   'i-lucide:languages',
   'i-lucide:shield',
   'i-twemoji-no-one-under-eighteen',
+  'i-twemoji-red-heart',
+  'i-twemoji-orange-heart',
+  'i-twemoji-yellow-heart',
+  'i-twemoji-green-heart',
+  'i-twemoji-blue-heart',
+  'i-twemoji-purple-heart',
+  'i-twemoji-brown-heart',
+  'i-twemoji-black-heart',
+  'i-twemoji-white-heart',
+  'i-twemoji-sparkling-heart',
+  'i-twemoji-beating-heart',
+  'i-twemoji-growing-heart',
+  'i-twemoji-folded-hands',
+  'i-twemoji-glowing-star',
   ...Array.from(new Set([...Object.values(LANG_FLAG_ICONS), LANG_FLAG_FALLBACK])).map(
     (icon) => `i-twemoji-${icon}`
   )

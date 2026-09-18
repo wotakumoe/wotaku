@@ -31,17 +31,17 @@ export interface Option {
 
 export const feedbackOptions: Option[] = [
   {
-    label: 'Submit link',
+    label: 'Submit URL',
     icon: 'i-lucide:circle-plus',
     value: 'submit'
   },
   {
-    label: 'Update link',
+    label: 'Update URL',
     icon: 'i-lucide:circle-alert',
     value: 'update'
   },
   {
-    label: 'Report bad / dead link',
+    label: 'Report URL',
     icon: 'i-lucide:circle-x',
     value: 'report'
   },
