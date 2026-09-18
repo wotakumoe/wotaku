@@ -46,7 +46,7 @@ og:
 
 ::: tip Related resources
 - [InstallGentoo Wiki](https://igwiki.lyci.de//wiki/Private_trackers) :s:
-- [Invite route graph](https://inviteroute.github.io/graph/)
+- [Invite Route Graph](https://inviteroute.github.io/graph/) :ded: [:src:](https://github.com/inviteroute/graph)
 :::
 
 :::
