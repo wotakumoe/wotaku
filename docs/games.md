@@ -265,7 +265,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 | **Unofficial** | [Dueling Book](https://www.duelingbook.com/) ||Manual|| |
 | ^^ | :prev: [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) |
 | ^^ | [Dueling Nexus](https://duelingnexus.com/welcome) ||Automatic|| |
-| ^^ | [EDO Pro](https://projectignis.github.io/index.html) ||Automatic|| |
+| ^^ | [EDO Pro](https://projectignis.github.io/index.html) [:src:](https://github.com/ProjectIgnis) ||Automatic|| |
 | ^^ | [YGO Omega](https://omega.duelistsunite.org/) [:src:](https://github.com/duelists-unite/omega-releases) ||Automatic|| |
 | **Alt Formats** | [Format Library](https://www.formatlibrary.com/) |
 | ^^ | [Edison Format](https://www.edisonformat.net/) |
