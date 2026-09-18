@@ -68,6 +68,7 @@ og:
 - [HoloEN Fan Website](https://holoen.fans/en) :ded: [:src:](https://github.com/GoldElysium/hef-website)
 - [Hololive Dreams Database](https://holodori.best/)
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page)
+- [Hololive Fusion Generator](https://hololive-fusion-generator.toomuchofheaven.com/) :ded: [:src:](https://github.com/vaexenc/hololive-fusion-generator)
 - [Immerhate Archive](https://immerhate.holofun.net/)
 - [Inaversary](https://otako.fans/)
 - [Mumei Soundboard](https://mumei-cute.com/)
