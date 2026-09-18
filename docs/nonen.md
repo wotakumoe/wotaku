@@ -384,7 +384,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.im/)
+- [Dokiraw](https://dokiraw.click/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [KL Manga](https://old.klz9.com/) [:prx:](https://i.wotaku.wiki/p/proxy#kl-manga)
 - [MangaFire](https://mangafire.to/)
@@ -393,16 +393,16 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 <Collapsible title="More">
 
 - [Manga Raw (.ac)](https://mangaraw.ac/) [:prx:](https://i.wotaku.wiki/p/proxy#mangarawspoil)
-- [Manga Raw (.ad)](https://mangarawad.diy/)
+- [Manga Raw (.ad)](https://mangarawad.beer/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) [:prx:](https://i.wotaku.wiki/p/proxy#raw1001)
 - [RawBaka](https://rawbaka.site/)
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.mom/)
+- [Raw FREE](https://rawfree.pics/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.cyou/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.actor/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Soraraw](https://soraraw.com/)
 
@@ -459,11 +459,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [FreeToon](https://foc126.asia/) |
+| ^^ | [FreeToon](https://foc127.asia/) |
 | ^^ | [Funbe](https://funbe675.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [GoodToon](https://www.goodtoon004.com/) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon153.asia/) |
-| ^^ | [NameeToon](https://namee114.asia/) |
+| ^^ | [NameeToon](https://namee115.asia/) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
 | ^^ | [TOONKOR](https://tkor153.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf492.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
