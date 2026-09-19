@@ -92,8 +92,7 @@ og:
 | [qBittorrent](https://www.qbittorrent.org/) [:alt:](https://qbittorrent.github.io/qBittorrent-website/) [:src:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
 | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | :win::app::lin::cmd: | :yes: | :no: | :yes: |
-
-<Collapsible title="More">
+<more>
 
 | Software | OS | DDL | P2P | FOSS |
 |-|-|-|-|-|
@@ -104,8 +103,6 @@ og:
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :yes: | :no: | :yes: |
 | [Persepolis](https://persepolisdm.github.io/) [:src:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
 | [TIXATI](https://www.tixati.com/) | :win::lin: | :no: | :yes: | :no: |
-
-</Collapsible>
 
 <Collapsible title="Related resources">
 

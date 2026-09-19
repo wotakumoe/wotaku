@@ -27,9 +27,7 @@ outline: 2
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Re:ANIME](https://reanime.to/home) [:prx:](https://reindex.to/) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
-
-
-<collapsible title="More">
+<more>
 
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
@@ -42,9 +40,6 @@ outline: 2
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) | :yes: | :msync: | :oc: |
-
-</collapsible>
-
 
 == Donghua
 
@@ -159,8 +154,7 @@ Some content may not be available depending on your region.
 | [Comix](https://comix.to/)  ==Comix== | 92k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 45k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
-
-<collapsible title="More">
+<more>
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
@@ -172,8 +166,6 @@ Some content may not be available depending on your region.
 | [MangaFire](https://mangafire.to/)  ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 89k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
-
-</collapsible>
 
 == Download
 
