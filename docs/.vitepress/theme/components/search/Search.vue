@@ -848,7 +848,7 @@ function buildDocExcerpt(docId: string): Promise<void> {
       const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
       div.querySelectorAll<HTMLInputElement>('.table-more-checkbox').forEach(
         (box) => {
-          box.checked = true
+          box.setAttribute('checked', '')
         }
       )
       headings.forEach((heading) => {
