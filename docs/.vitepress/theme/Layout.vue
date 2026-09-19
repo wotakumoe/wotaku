@@ -106,7 +106,22 @@ if (!import.meta.env.SSR) {
       if (!searchNavigated) return
       attempts++
       const currentHash = window.location.hash.slice(1)
-      if (!currentHash) return
+      if (!currentHash) {
+        if (attempts < 5) {
+          requestAnimationFrame(retryHighlight)
+          return
+        }
+        expandTablesForTerms(getSearchTerms(searchQuery))
+        const docRoot = document.querySelector<HTMLElement>('.VPDoc .vp-doc')
+        if (docRoot) highlightSearchResult(docRoot)
+        const tablePath = getOpenTableMorePath()
+        if (tablePath.length) {
+          window.history.replaceState(null, '', buildUrl({ tables: tablePath }))
+          rewriteAnchorLinks()
+        }
+        resetSearchNavigation()
+        return
+      }
       const target = getTargetByHash(currentHash)
       if (target) {
         scanSectionForTerms(
@@ -424,6 +439,13 @@ const tableContainsTerms = (t: HTMLElement, terms: string[]) => {
 const expandTableMoreEl = (t: HTMLElement) => {
   const box = getTableMoreCheckbox(t)
   if (box && !box.checked) box.checked = true
+}
+
+const expandTablesForTerms = (terms: string[]) => {
+  if (!terms.length) return
+  document.querySelectorAll('table').forEach((t) => {
+    if (tableContainsTerms(t, terms)) expandTableMoreEl(t)
+  })
 }
 
 const scanSectionForTerms = (
@@ -820,7 +842,18 @@ const tryOpenAnchoredContent = async () => {
       (selectedTabs
         ? getSelectedTabScrollTarget(selectedTabs)
         : document.querySelector<HTMLElement>('.VPDoc') ?? undefined)
-    if (searchNavigated) highlightSearchResult(scrollTarget)
+    if (searchNavigated) {
+      const terms = getSearchTerms(searchQuery)
+      scrollTarget?.querySelectorAll('table').forEach((t) => {
+        if (tableContainsTerms(t, terms)) expandTableMoreEl(t)
+      })
+      highlightSearchResult(scrollTarget)
+      const tablePath = getOpenTableMorePath()
+      if (tablePath.length) {
+        window.history.replaceState(null, '', buildUrl({ tables: tablePath }))
+        rewriteAnchorLinks()
+      }
+    }
     resetSearchNavigation()
     if (openedCollapsible) {
       scrollToElement(openedCollapsible, false)
