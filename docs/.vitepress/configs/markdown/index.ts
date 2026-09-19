@@ -28,6 +28,7 @@ import { extRepoPlugin } from './extRepoPlugin'
 import { nestedContainersPlugin } from './nestedContainers'
 import { scrapeTablePlugin } from './scrapeTablePlugin'
 import markdownSteps from './steps'
+import { tableMorePlugin } from './tableMore'
 import { tabsMarkdownPlugin } from './tabs'
 
 export function configureMarkdown(md: MarkdownRenderer) {
@@ -50,6 +51,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   renderTooltip(md)
   renderInlineTooltip(md)
   md.use(markdownSteps)
+  md.use(tableMorePlugin)
   md.use(scrapeTablePlugin)
   md.use(extRepoPlugin)
   renderHighlight(md)
@@ -260,9 +262,7 @@ function injectSearchHeadings(src: string) {
       i + 1,
       0,
       '',
-      `${indent}${
-        '#'.repeat(headingLevel)
-      } ${headingTitle} {#${
+      `${indent}${'#'.repeat(headingLevel)} ${headingTitle} {#${
         getCollapsibleHeadingAnchor(collapsibleAnchor)
       } .collapsible-search-heading}`,
       ''

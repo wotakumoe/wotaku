@@ -1,0 +1,85 @@
+/* Expandable table sections ("<more>" marker). Pure CSS toggle
+   (hidden checkbox + :has()): no JS, SSR-safe. */
+
+.vp-doc table tbody.table-more-hidden {
+  display: none;
+}
+
+.vp-doc table:has(.table-more-checkbox:checked) tbody.table-more-hidden {
+  display: table-row-group;
+}
+
+.table-more-toggle-row > td {
+  padding: 0 !important;
+  text-align: center;
+}
+
+.table-more-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4em;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  user-select: none;
+}
+
+.table-more-label:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.table-more-label:focus-within .table-more-text,
+.table-more-label:focus-within .table-more-icon {
+  color: var(--vp-c-brand-1);
+}
+
+/* Keep the checkbox keyboard-focusable but invisible. */
+.table-more-checkbox {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.table-more-icon {
+  transition: transform 0.2s;
+}
+
+.vp-doc table:has(.table-more-checkbox:checked) .table-more-icon {
+  transform: rotate(180deg);
+}
+
+.table-more-text--less {
+  display: none;
+}
+
+.vp-doc table:has(.table-more-checkbox:checked) .table-more-text--more {
+  display: none;
+}
+
+.vp-doc table:has(.table-more-checkbox:checked) .table-more-text--less {
+  display: inline;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .table-more-icon {
+    transition: none;
+  }
+}
+
+/* Respect the "Effects: OFF" site setting. */
+html.effects-disabled .table-more-icon {
+  transition: none;
+}
+
+@media print {
+  .vp-doc table tbody.table-more-hidden {
+    display: table-row-group !important;
+  }
+
+  .vp-doc table tbody.table-more-toggle {
+    display: none !important;
+  }
+}

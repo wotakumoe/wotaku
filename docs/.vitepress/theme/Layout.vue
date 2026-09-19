@@ -6,11 +6,7 @@
   All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
 -->
 <script setup lang="ts">
-import {
-  useEventListener,
-  useStorage,
-  useThrottleFn
-} from '@vueuse/core'
+import { useEventListener, useStorage, useThrottleFn } from '@vueuse/core'
 import { getScrollOffset, useData, useRoute } from 'vitepress'
 import type { DefaultTheme as Theme } from 'vitepress'
 import VPSidebarGroup from 'vitepress/dist/client/theme-default/components/VPSidebarGroup.vue'
@@ -26,16 +22,24 @@ import {
   watchEffect
 } from 'vue'
 import { sidebar } from '../configs/constants'
-import { useBookmarks, BOOKMARK_CHANGE_EVENT } from './composables/useBookmarks'
 import AnnouncementPill from './components/AnnouncementPill.vue'
-import SiteFooter from './components/SiteFooter.vue'
+import NavActions from './components/NavActions.vue'
 import NotFoundComponent from './components/NotFound.vue'
 import { NolebaseEnhancedReadabilitiesScreenMenu } from './components/settings'
-import NavActions from './components/NavActions.vue'
 import SidebarCard from './components/SidebarCard.vue'
-import { AccentBgStorageKey, AccentBgStrengthStorageKey, AccentColorStorageKey } from './constants'
+import SiteFooter from './components/SiteFooter.vue'
+import { BOOKMARK_CHANGE_EVENT, useBookmarks } from './composables/useBookmarks'
 import { useEffects } from './composables/useEffects'
-import { applyFavicons, removeFavicons, useFavicons } from './composables/useFavicons'
+import {
+  applyFavicons,
+  removeFavicons,
+  useFavicons
+} from './composables/useFavicons'
+import {
+  AccentBgStorageKey,
+  AccentBgStrengthStorageKey,
+  AccentColorStorageKey
+} from './constants'
 import { searchResultHighlightMode } from './searchState'
 
 const route = useRoute()
@@ -84,6 +88,12 @@ if (!import.meta.env.SSR) {
       if (target) {
         void nextTick(() => {
           if (searchNavigated) {
+            scanSectionForTerms(
+              target,
+              getSearchTerms(searchQuery),
+              () => {},
+              expandTableMoreEl
+            )
             highlightSearchResult(target)
             resetSearchNavigation()
           }
@@ -99,6 +109,12 @@ if (!import.meta.env.SSR) {
       if (!currentHash) return
       const target = getTargetByHash(currentHash)
       if (target) {
+        scanSectionForTerms(
+          target,
+          getSearchTerms(searchQuery),
+          () => {},
+          expandTableMoreEl
+        )
         highlightSearchResult(target)
         resetSearchNavigation()
       } else if (attempts < 15) {
@@ -130,7 +146,6 @@ const removeSearchResultHighlights = () => {
     (highlight) => highlight.replaceWith(...highlight.childNodes)
   )
 }
-
 
 let highlightTerm = ''
 let highlightTabPath: string[] | null = null
@@ -164,7 +179,9 @@ const applyHighlightWithin = (root: HTMLElement, term: string) => {
   const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
     acceptNode(node) {
       const parent = node.parentElement
-      if (!parent || parent.closest('.search-result-highlight, script, style')) {
+      if (
+        !parent || parent.closest('.search-result-highlight, script, style')
+      ) {
         return NodeFilter.FILTER_REJECT
       }
       return NodeFilter.FILTER_ACCEPT
@@ -225,7 +242,7 @@ const highlightSearchResult = (target?: HTMLElement) => {
   )
   highlightTabPath = panel ? getPanelTabPath(panel) : null
   highlightTerm = term
-  
+
   if (!applyHighlightWithin(target, term)) {
     const docRoot = document.querySelector<HTMLElement>('.VPDoc .vp-doc')
     if (docRoot) {
@@ -271,6 +288,7 @@ const getScrollTargetForAnchor = (target: HTMLElement) => {
 
 const TAB_QUERY_PARAM = 't'
 const COLLAPSIBLE_QUERY_PARAM = 'c'
+const TABLE_MORE_QUERY_PARAM = 'm'
 
 const getRequestedAnchorPath = (param: string) => {
   const value = new URLSearchParams(window.location.search).get(param)
@@ -283,29 +301,43 @@ const getRequestedAnchorPath = (param: string) => {
 const getRequestedTabPath = () => getRequestedAnchorPath(TAB_QUERY_PARAM)
 const getRequestedCollapsiblePath = () =>
   getRequestedAnchorPath(COLLAPSIBLE_QUERY_PARAM)
+const getRequestedTableMorePath = () =>
+  getRequestedAnchorPath(TABLE_MORE_QUERY_PARAM)
 
 const encodeAnchorList = (anchors: string[]) =>
   anchors.map((anchor) => encodeURIComponent(anchor)).join(',')
 
 const buildUrl = (
-  options: { tabs?: string[]; collapsibles?: string[]; hash?: string } = {}
+  options: {
+    tabs?: string[]
+    collapsibles?: string[]
+    tables?: string[]
+    hash?: string
+  } = {}
 ) => {
   const params = new URLSearchParams(window.location.search)
   const currentTabs = params.get(TAB_QUERY_PARAM)
   const currentCollapsibles = params.get(COLLAPSIBLE_QUERY_PARAM)
+  const currentTables = params.get(TABLE_MORE_QUERY_PARAM)
   params.delete(TAB_QUERY_PARAM)
   params.delete(COLLAPSIBLE_QUERY_PARAM)
+  params.delete(TABLE_MORE_QUERY_PARAM)
 
   const tabs = options.tabs ??
     (currentTabs ? currentTabs.split(',').filter(Boolean) : [])
   const collapsibles = options.collapsibles ??
     (currentCollapsibles ? currentCollapsibles.split(',').filter(Boolean) : [])
+  const tables = options.tables ??
+    (currentTables ? currentTables.split(',').filter(Boolean) : [])
 
   const queryParts = [
     params.toString(),
     tabs.length ? `${TAB_QUERY_PARAM}=${encodeAnchorList(tabs)}` : '',
     collapsibles.length
       ? `${COLLAPSIBLE_QUERY_PARAM}=${encodeAnchorList(collapsibles)}`
+      : '',
+    tables.length
+      ? `${TABLE_MORE_QUERY_PARAM}=${encodeAnchorList(tables)}`
       : ''
   ].filter(Boolean)
 
@@ -374,6 +406,73 @@ const queueTabQueryUpdateForSelection = (target: EventTarget | null) => {
 
 const COLLAPSIBLE_SELECTOR = 'details[data-collapsible-anchor]'
 
+const detailsContainsTerms = (d: HTMLElement, terms: string[]) => {
+  if (!terms.length) return false
+  const text = (d.textContent ?? '').toLowerCase()
+  return terms.every((term) => text.includes(term))
+}
+
+// Expand tables whose hidden rows hold all searched terms.
+const tableContainsTerms = (t: HTMLElement, terms: string[]) => {
+  if (!terms.length) return false
+  const hidden = t.querySelector('tbody.table-more-hidden')
+  const text = ((hidden ?? t).textContent ?? '').toLowerCase()
+  return terms.every((term) => text.includes(term))
+}
+
+const expandTableMoreEl = (t: HTMLElement) => {
+  const box = getTableMoreCheckbox(t)
+  if (box && !box.checked) box.checked = true
+}
+
+const scanSectionForTerms = (
+  target: HTMLElement,
+  terms: string[],
+  onDetails: (d: HTMLElement) => void,
+  onTable: (t: HTMLElement) => void
+) => {
+  const tagName = target.tagName
+  if (tagName.length !== 2 || tagName[0] !== 'H') return
+  const level = +tagName[1]
+  if (level < 1 || level > 6 || !terms.length) return
+
+  let sibling = target.nextElementSibling
+
+  while (sibling) {
+    const siblingTag = sibling.tagName
+    if (
+      siblingTag.length === 2 && siblingTag[0] === 'H' &&
+      +siblingTag[1] <= level
+    ) break
+
+    if (siblingTag === 'DETAILS') {
+      if (detailsContainsTerms(sibling as HTMLElement, terms)) {
+        onDetails(sibling as HTMLElement)
+      }
+    }
+
+    const nested = sibling.getElementsByTagName('details')
+    for (let i = 0, len = nested.length; i < len; i++) {
+      if (detailsContainsTerms(nested[i], terms)) onDetails(nested[i])
+    }
+
+    if (siblingTag === 'TABLE') {
+      if (tableContainsTerms(sibling as HTMLElement, terms)) {
+        onTable(sibling as HTMLElement)
+      }
+    }
+
+    const nestedTables = sibling.getElementsByTagName('table')
+    for (let i = 0, len = nestedTables.length; i < len; i++) {
+      if (tableContainsTerms(nestedTables[i], terms)) {
+        onTable(nestedTables[i])
+      }
+    }
+
+    sibling = sibling.nextElementSibling
+  }
+}
+
 const getOpenCollapsiblePath = (details: HTMLElement) => {
   const path: string[] = []
   let el: HTMLElement | null = details
@@ -430,6 +529,34 @@ const queueCollapsibleQueryUpdate = (target: EventTarget | null) => {
   }
 }
 
+const updateQueryForTableMore = async (table: HTMLElement) => {
+  await nextTick()
+  await nextFrame()
+
+  const tables = getOpenTableMorePath()
+  const tabPath = getEnclosingTabPath(table)
+
+  const nextUrl = buildUrl({
+    tabs: tabPath.length ? tabPath : undefined,
+    tables
+  })
+  const currentUrl =
+    `${window.location.pathname}${window.location.search}${window.location.hash}`
+  if (nextUrl === currentUrl) return
+
+  window.history.pushState(null, '', nextUrl)
+  rewriteAnchorLinks()
+}
+
+const queueTableMoreQueryUpdate = (target: EventTarget | null) => {
+  if (!(target instanceof HTMLElement)) return
+
+  const box = target.closest<HTMLInputElement>('.table-more-checkbox')
+  if (!box) return
+  const table = box.closest<HTMLElement>('table')
+  if (table) void updateQueryForTableMore(table)
+}
+
 const selectCollapsiblesByPath = async (collapsiblePath: string[]) => {
   let root: ParentNode = document
   let opened: HTMLElement | undefined
@@ -451,6 +578,45 @@ const selectCollapsiblesByPath = async (collapsiblePath: string[]) => {
   }
 
   return opened
+}
+
+const TABLE_MORE_SELECTOR = 'table[data-table-more]'
+
+const getTableMoreCheckbox = (table: HTMLElement) =>
+  table.querySelector<HTMLInputElement>('.table-more-checkbox')
+
+const selectTablesByPath = async (anchors: string[]) => {
+  let opened: HTMLTableElement | undefined
+
+  for (const anchor of anchors) {
+    const table = document.querySelector<HTMLTableElement>(
+      `table[data-table-more="${CSS.escape(anchor)}"]`
+    )
+    if (!table) continue
+
+    const box = getTableMoreCheckbox(table)
+    if (box && !box.checked) {
+      box.checked = true
+      await nextTick()
+      await nextFrame()
+    }
+    opened = table
+  }
+
+  return opened
+}
+
+const getOpenTableMorePath = () => {
+  const anchors: string[] = []
+  document.querySelectorAll<HTMLTableElement>(TABLE_MORE_SELECTOR).forEach(
+    (table) => {
+      if (getTableMoreCheckbox(table)?.checked) {
+        const anchor = table.dataset.tableMore
+        if (anchor) anchors.push(anchor)
+      }
+    }
+  )
+  return anchors
 }
 
 const TAB_LINK_MARKER = 'tab-'
@@ -585,44 +751,19 @@ const openCollapsibles = async (target: HTMLElement) => {
 
   const tagName = activeTarget.tagName
   if (tagName.length === 2 && tagName[0] === 'H') {
-    const level = +tagName[1]
-    if (level >= 1 && level <= 6) {
-      const terms = getSearchTerms(searchQuery)
-      const detailsContainsTerms = (d: HTMLElement) => {
-        if (!terms.length) return false
-        const text = (d.textContent ?? '').toLowerCase()
-        return terms.every((term) => text.includes(term))
+    const terms = getSearchTerms(searchQuery)
+    scanSectionForTerms(
+      activeTarget,
+      terms,
+      (d) => {
+        ;(d as HTMLDetailsElement).open = true
+        if (scrollTarget === activeTarget) scrollTarget = d
+      },
+      (t) => {
+        expandTableMoreEl(t)
+        if (scrollTarget === activeTarget) scrollTarget = t
       }
-
-      let sibling = activeTarget.nextElementSibling
-
-      while (sibling) {
-        const siblingTag = sibling.tagName
-        if (
-          siblingTag.length === 2 && siblingTag[0] === 'H' &&
-          +siblingTag[1] <= level
-        ) break
-
-        if (siblingTag === 'DETAILS') {
-          if (detailsContainsTerms(sibling as HTMLElement)) {
-            ;(sibling as HTMLDetailsElement).open = true
-            if (scrollTarget === activeTarget) {
-              scrollTarget = sibling as HTMLElement
-            }
-          }
-        }
-
-        const nested = sibling.getElementsByTagName('details')
-        for (let i = 0, len = nested.length; i < len; i++) {
-          if (detailsContainsTerms(nested[i])) {
-            nested[i].open = true
-            if (scrollTarget === activeTarget) scrollTarget = nested[i]
-          }
-        }
-
-        sibling = sibling.nextElementSibling
-      }
-    }
+    )
   }
 
   await nextTick()
@@ -649,6 +790,10 @@ const tryOpenAnchoredContent = async () => {
   const openedCollapsible = requestedCollapsibles.length
     ? await selectCollapsiblesByPath(requestedCollapsibles)
     : undefined
+  const requestedTables = getRequestedTableMorePath()
+  const openedTable = requestedTables.length
+    ? await selectTablesByPath(requestedTables)
+    : undefined
   const hash = window.location.hash.slice(1)
 
   if (!hash) {
@@ -662,6 +807,8 @@ const tryOpenAnchoredContent = async () => {
       scrollToElement(openedCollapsible, false)
     } else if (selectedTabs) {
       scrollToElement(getSelectedTabScrollTarget(selectedTabs), false)
+    } else if (openedTable) {
+      scrollToElement(openedTable, false)
     }
     return
   }
@@ -686,14 +833,16 @@ const tryOpenAnchoredContent = async () => {
     await openCollapsibles(target)
     highlightSearchResult(target)
     const collapsiblePath = getOpenCollapsiblePath(target)
-    if (collapsiblePath.length) {
+    const tablePath = getOpenTableMorePath()
+    if (collapsiblePath.length || tablePath.length) {
       const tabPath = getEnclosingTabPath(target)
       window.history.replaceState(
         null,
         '',
         buildUrl({
           tabs: tabPath.length ? tabPath : undefined,
-          collapsibles: collapsiblePath
+          collapsibles: collapsiblePath,
+          tables: tablePath
         })
       )
       rewriteAnchorLinks()
@@ -833,7 +982,8 @@ const setupOutlineFollow = () => {
   followActiveOutlineLink()
 }
 
-const BOOKMARK_SVG = `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>`
+const BOOKMARK_SVG =
+  `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>`
 
 function syncTocBookmarkStates() {
   const path = route.path
@@ -877,14 +1027,20 @@ let tocRaf = 0
 
 function scanTocItems(path: string) {
   // Desktop sidebar — VPDocOutlineItem is called with :root="true"
-  document.querySelectorAll<HTMLElement>('.VPDocOutlineItem.root > li').forEach(li => addBookmarkBtnToLi(li, path))
+  document.querySelectorAll<HTMLElement>('.VPDocOutlineItem.root > li').forEach(
+    li => addBookmarkBtnToLi(li, path)
+  )
   // Mobile dropdown — VPDocOutlineItem is called without root prop, so the ul gets class "nested"
-  document.querySelectorAll<HTMLElement>('.VPLocalNavOutlineDropdown .outline > .VPDocOutlineItem > li').forEach(li => addBookmarkBtnToLi(li, path))
+  document.querySelectorAll<HTMLElement>(
+    '.VPLocalNavOutlineDropdown .outline > .VPDocOutlineItem > li'
+  ).forEach(li => addBookmarkBtnToLi(li, path))
 }
 
 function setupTocBookmarks() {
   const path = route.path
-  document.querySelectorAll<HTMLElement>('.toc-bookmark-btn').forEach(btn => btn.remove())
+  document.querySelectorAll<HTMLElement>('.toc-bookmark-btn').forEach(btn =>
+    btn.remove()
+  )
   scanTocItems(path)
 
   // Mobile dropdown items are v-if rendered on open — watch for them being added
@@ -903,7 +1059,9 @@ onMounted(tryOpenAnchoredContent)
 onMounted(rewriteAnchorLinksDeferred)
 onMounted(() => nextTick(setupOutlineFollow))
 onMounted(() => nextTick(setupTocBookmarks))
-onMounted(() => window.addEventListener('scroll', onMobileOutlineScroll, { passive: true }))
+onMounted(() =>
+  window.addEventListener('scroll', onMobileOutlineScroll, { passive: true })
+)
 onUnmounted(() => window.removeEventListener('scroll', onMobileOutlineScroll))
 watch(() => route.data, () => {
   void tryOpenAnchoredContent()
@@ -987,7 +1145,10 @@ watch(faviconsEnabled, (enabled) => {
 
 watch(
   () => route.path,
-  () => nextTick(() => { if (faviconsEnabled.value) applyFavicons(document) }),
+  () =>
+    nextTick(() => {
+      if (faviconsEnabled.value) applyFavicons(document)
+    }),
   { flush: 'post' }
 )
 
@@ -1000,56 +1161,56 @@ const accentPalettes: Record<string, PaletteEntry> = {
     500: 'oklch(0.626 0.098 247.46)',
     600: 'oklch(0.523 0.081 246.86)',
     700: 'oklch(0.43 0.066 246.75)',
-    800: 'oklch(0.335 0.052 246.76)',
+    800: 'oklch(0.335 0.052 246.76)'
   },
   asuka: {
     400: 'oklch(0.740 0.210 32)',
     500: 'oklch(0.650 0.240 30)',
     600: 'oklch(0.555 0.238 28)',
     700: 'oklch(0.455 0.205 26)',
-    800: 'oklch(0.370 0.165 24)',
+    800: 'oklch(0.370 0.165 24)'
   },
   irys: {
     400: 'oklch(0.716 0.188 5.18)',
     500: 'oklch(0.659 0.237 8.99)',
     600: 'oklch(0.584 0.229 10.32)',
     700: 'oklch(0.538 0.213 9.67)',
-    800: 'oklch(0.475 0.187 5.94)',
+    800: 'oklch(0.475 0.187 5.94)'
   },
   inanis: {
     400: 'oklch(0.762 0.073 302.02)',
     500: 'oklch(0.663 0.102 301.22)',
     600: 'oklch(0.580 0.119 301.34)',
     700: 'oklch(0.508 0.114 301.00)',
-    800: 'oklch(0.452 0.094 302.20)',
+    800: 'oklch(0.452 0.094 302.20)'
   },
   baelz: {
     400: 'oklch(0.720 0.215 22.00)',
     500: 'oklch(0.640 0.255 22.00)',
     600: 'oklch(0.555 0.268 22.00)',
     700: 'oklch(0.472 0.248 22.00)',
-    800: 'oklch(0.395 0.208 22.00)',
+    800: 'oklch(0.395 0.208 22.00)'
   },
   amelia: {
     400: 'oklch(0.800 0.085 75.49)',
     500: 'oklch(0.710 0.090 72.47)',
     600: 'oklch(0.594 0.085 69.07)',
     700: 'oklch(0.496 0.078 72.12)',
-    800: 'oklch(0.391 0.062 68.86)',
+    800: 'oklch(0.391 0.062 68.86)'
   },
   suisei: {
     400: 'oklch(0.827 0.096 224.60)',
     500: 'oklch(0.740 0.119 230.91)',
     600: 'oklch(0.645 0.127 236.29)',
     700: 'oklch(0.548 0.120 241.26)',
-    800: 'oklch(0.451 0.106 244.63)',
+    800: 'oklch(0.451 0.106 244.63)'
   },
   miku: {
     400: 'oklch(0.788 0.133 184.43)',
     500: 'oklch(0.711 0.123 185.28)',
     600: 'oklch(0.607 0.104 187.31)',
     700: 'oklch(0.515 0.086 189.60)',
-    800: 'oklch(0.441 0.071 190.95)',
+    800: 'oklch(0.441 0.071 190.95)'
   },
   fubuki: {
     dark: {
@@ -1057,16 +1218,16 @@ const accentPalettes: Record<string, PaletteEntry> = {
       500: 'oklch(0.78 0 0)',
       600: 'oklch(0.68 0 0)',
       700: 'oklch(0.58 0 0)',
-      800: 'oklch(0.48 0 0)',
+      800: 'oklch(0.48 0 0)'
     },
     light: {
       400: 'oklch(0.52 0 0)',
       500: 'oklch(0.42 0 0)',
       600: 'oklch(0.32 0 0)',
       700: 'oklch(0.22 0 0)',
-      800: 'oklch(0.12 0 0)',
-    },
-  },
+      800: 'oklch(0.12 0 0)'
+    }
+  }
 }
 
 const accentColor = useStorage(AccentColorStorageKey, 'ayanami')
@@ -1091,7 +1252,7 @@ const accentBgTokens: Record<'dark' | 'light', Record<string, TintEntry>> = {
     '--wk-c-menu-bg': [0.295, 0.032],
     '--wk-c-nav-solid-bg': [0.2, 0.024],
     '--nav-pill-bg': [0.205, 0.024, 0.7],
-    '--wk-fs-header-divider': [0.44, 0.02, 0.65],
+    '--wk-fs-header-divider': [0.44, 0.02, 0.65]
   },
   light: {
     '--vp-c-bg': [0.986, 0.012],
@@ -1107,13 +1268,15 @@ const accentBgTokens: Record<'dark' | 'light', Record<string, TintEntry>> = {
     '--wk-c-menu-bg': [0.928, 0.026],
     '--wk-c-nav-solid-bg': [0.986, 0.012],
     '--nav-pill-bg': [0.99, 0.01, 0.8],
-    '--wk-fs-header-divider': [0.715, 0.02, 0.25],
-  },
+    '--wk-fs-header-divider': [0.715, 0.02, 0.25]
+  }
 }
-const accentBgTokenKeys = [...new Set([
-  ...Object.keys(accentBgTokens.dark),
-  ...Object.keys(accentBgTokens.light),
-])]
+const accentBgTokenKeys = [
+  ...new Set([
+    ...Object.keys(accentBgTokens.dark),
+    ...Object.keys(accentBgTokens.light)
+  ])
+]
 
 const applyAccentTheme = () => {
   if (import.meta.env.SSR) return
@@ -1126,14 +1289,26 @@ const applyAccentTheme = () => {
     el.style.setProperty('--vp-c-brand-1', shades['400'])
     el.style.setProperty('--vp-c-brand-2', shades['500'])
     el.style.setProperty('--vp-c-brand-3', shades['700'])
-    el.style.setProperty('--vp-c-brand-soft', `color-mix(in srgb, ${shades['500']} 20%, transparent)`)
-    el.style.setProperty('--vp-c-sidebar-active', `color-mix(in srgb, ${shades['500']} 15%, transparent)`)
+    el.style.setProperty(
+      '--vp-c-brand-soft',
+      `color-mix(in srgb, ${shades['500']} 20%, transparent)`
+    )
+    el.style.setProperty(
+      '--vp-c-sidebar-active',
+      `color-mix(in srgb, ${shades['500']} 15%, transparent)`
+    )
   } else {
     el.style.setProperty('--vp-c-brand-1', shades['500'])
     el.style.setProperty('--vp-c-brand-2', shades['600'])
     el.style.setProperty('--vp-c-brand-3', shades['800'])
-    el.style.setProperty('--vp-c-brand-soft', `color-mix(in srgb, ${shades['400']} 40%, transparent)`)
-    el.style.setProperty('--vp-c-sidebar-active', `color-mix(in srgb, ${shades['800']} 15%, transparent)`)
+    el.style.setProperty(
+      '--vp-c-brand-soft',
+      `color-mix(in srgb, ${shades['400']} 40%, transparent)`
+    )
+    el.style.setProperty(
+      '--vp-c-sidebar-active',
+      `color-mix(in srgb, ${shades['800']} 15%, transparent)`
+    )
   }
 
   for (const key of accentBgTokenKeys) el.style.removeProperty(key)
@@ -1145,7 +1320,8 @@ const applyAccentTheme = () => {
     if (parsed) {
       // Tint scales with the accent's own chroma (full tint at C >= 0.10,
       // grayscale accents stay gray), then with the intensity preset.
-      const strength = Math.min(1, Number(parsed[1]) / 0.10) * userStrength * 1.5
+      const strength = Math.min(1, Number(parsed[1]) / 0.10) * userStrength *
+        1.5
       const hue = parsed[2]
       const tokens = accentBgTokens[isDark.value ? 'dark' : 'light']
       for (const [key, [l, c, alpha]] of Object.entries(tokens)) {
@@ -1177,15 +1353,25 @@ function initTitleOnly() {
   })
 }
 
+// Browsers restore checkbox state on reload; always start collapsed.
+function resetTableMoreInRoot(root: ParentNode) {
+  root.querySelectorAll<HTMLInputElement>('.table-more-checkbox:checked')
+    .forEach((el) => {
+      el.checked = false
+    })
+}
+
 // Wrap bare tables in their own scroll container so they scroll independently of sibling content.
 function wrapTablesInRoot(root: ParentNode) {
-  root.querySelectorAll<HTMLTableElement>('table:not(.scrape-table)').forEach(table => {
-    if (table.parentElement?.classList.contains('table-scroll')) return
-    const wrapper = document.createElement('div')
-    wrapper.className = 'table-scroll'
-    table.replaceWith(wrapper)
-    wrapper.appendChild(table)
-  })
+  root.querySelectorAll<HTMLTableElement>('table:not(.scrape-table)').forEach(
+    table => {
+      if (table.parentElement?.classList.contains('table-scroll')) return
+      const wrapper = document.createElement('div')
+      wrapper.className = 'table-scroll'
+      table.replaceWith(wrapper)
+      wrapper.appendChild(table)
+    }
+  )
 }
 
 function initCopyButtonsInRoot(root: ParentNode) {
@@ -1269,6 +1455,7 @@ let copyButtonObserver: MutationObserver | null = null
 
 function setupManualCopyButtons() {
   wrapTablesInRoot(document)
+  resetTableMoreInRoot(document)
   initCopyButtonsInRoot(document)
 
   copyButtonObserver?.disconnect()
@@ -1278,6 +1465,7 @@ function setupManualCopyButtons() {
         if (!(node instanceof HTMLElement)) continue
         if (node.classList.contains('plugin-tabs--content')) {
           wrapTablesInRoot(node)
+          resetTableMoreInRoot(node)
           initCopyButtonsInRoot(node)
           if (faviconsEnabled.value) applyFavicons(node)
           reapplyHighlightIfNeeded(node)
@@ -1285,6 +1473,7 @@ function setupManualCopyButtons() {
           node.querySelectorAll<HTMLElement>('.plugin-tabs--content').forEach(
             (panel) => {
               wrapTablesInRoot(panel)
+              resetTableMoreInRoot(panel)
               initCopyButtonsInRoot(panel)
               if (faviconsEnabled.value) applyFavicons(panel)
               reapplyHighlightIfNeeded(panel)
@@ -1302,7 +1491,10 @@ watch(
   () => {
     highlightTerm = ''
     highlightTabPath = null
-    nextTick(() => { initTitleOnly(); setupManualCopyButtons() })
+    nextTick(() => {
+      initTitleOnly()
+      setupManualCopyButtons()
+    })
   },
   { flush: 'post' }
 )
@@ -1314,6 +1506,11 @@ onMounted(() => {
 
   initTitleOnly()
   nextTick(setupManualCopyButtons)
+
+  // bfcache can restore the <more> table checkboxes as checked.
+  window.addEventListener('pageshow', (e) => {
+    if (e.persisted) resetTableMoreInRoot(document)
+  })
 
   // Icon tooltip: fixed-position popup appended to <body> to escape table overflow clipping
   const tooltipEl = document.createElement('div')
@@ -1419,6 +1616,11 @@ onMounted(() => {
     if (!e.isTrusted) return
     queueTabQueryUpdateForSelection(e.target)
     queueCollapsibleQueryUpdate(e.target)
+  })
+
+  useEventListener(document, 'change', (e: Event) => {
+    if (!e.isTrusted) return
+    queueTableMoreQueryUpdate(e.target)
   })
 
   useEventListener(document, 'keydown', (e: KeyboardEvent) => {
