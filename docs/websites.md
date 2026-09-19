@@ -28,11 +28,8 @@ outline: 2
 | [Re:ANIME](https://reanime.to/home) [:prx:](https://reindex.to/) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 
+<more>
 
-<collapsible title="More">
-
-| Websites | Login | Tracking | Sub |
-|----------|-------|----------|-----|
 | [Anibd](https://anibd.app/) [:prx:](https://i.wotaku.wiki/p/proxy#anibd) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
 | [AniLight](https://anilight.live/) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
@@ -42,9 +39,6 @@ outline: 2
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) | :yes: | :msync: | :oc: |
-
-</collapsible>
-
 
 == Donghua
 
@@ -160,10 +154,8 @@ Some content may not be available depending on your region.
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 45k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
 
-<collapsible title="More">
+<more>
 
-| Websites | Library ==Library== | Tracking | Sources | Layout | Social |
-|----------|---------------------|----------|---------|--------|--------|
 | [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaBall](https://mangaball.net/)  | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 78k | :msync: | :ss: | :ls: | :cmnt: |
@@ -172,8 +164,6 @@ Some content may not be available depending on your region.
 | [MangaFire](https://mangafire.to/)  ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 89k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
-
-</collapsible>
 
 == Download
 

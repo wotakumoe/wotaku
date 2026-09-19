@@ -846,6 +846,11 @@ function buildDocExcerpt(docId: string): Promise<void> {
         document.createElement = originalCreateElement
       }
       const headings = div.querySelectorAll('h1, h2, h3, h4, h5, h6')
+      div.querySelectorAll<HTMLInputElement>('.table-more-checkbox').forEach(
+        (box) => {
+          box.setAttribute('checked', '')
+        }
+      )
       headings.forEach((heading) => {
         const href = heading.querySelector('a')?.getAttribute('href')
         const hashIndex = href?.indexOf('#') ?? -1

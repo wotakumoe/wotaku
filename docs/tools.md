@@ -93,10 +93,8 @@ og:
 | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | :win::app::lin::cmd: | :yes: | :no: | :yes: |
 
-<Collapsible title="More">
+<more>
 
-| Software | OS | DDL | P2P | FOSS |
-|-|-|-|-|-|
 | [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) | :win::app::lin::cmd: | :yes: | :yes: | :yes: |
 | [BiglyBT](https://www.biglybt.com/) [:src:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |
@@ -104,8 +102,6 @@ og:
 | [MegaBasterd](https://github.com/tonikelope/megabasterd) | :win::app::lin: | :yes: | :no: | :yes: |
 | [Persepolis](https://persepolisdm.github.io/) [:src:](https://github.com/persepolisdm/persepolis) | :win::app::lin: | :yes: | :no: | :yes: |
 | [TIXATI](https://www.tixati.com/) | :win::lin: | :no: | :yes: | :no: |
-
-</Collapsible>
 
 <Collapsible title="Related resources">
 
