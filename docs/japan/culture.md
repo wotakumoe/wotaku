@@ -176,7 +176,7 @@ og:
 
 == Otaku
 
-- [Anime Figures 101](https://youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
+- [Anime Figures 101](https://www.youtube.com/playlist?list=PL67Usptllz-RMadnMX0oCWXqdiD2pAHnS)
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
 - :prev: [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)

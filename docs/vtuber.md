@@ -176,17 +176,17 @@ og:
 
 == Animatics
 - [9am](https://www.youtube.com/@9amKR/) :ded: [||EN||](https://www.youtube.com/@9amEN/)
-- [Applisaur](https://youtube.com/@applisaur)
+- [Applisaur](https://www.youtube.com/@applisaur)
 - [ばかくん三世](https://www.youtube.com/@bakakunsansei)
 - [Coomfus](https://www.youtube.com/@Coomfus/) :ded:
 - [エビフライ / Ebihurai](https://www.youtube.com/@Ebihuraii) [||EN||](https://www.youtube.com/@EbihuraiIEN)
-- [FuwaFuwa](https://youtube.com/@FuwaFuwa%E8%BB%9F%E8%B6%B4%E8%B6%B4)
+- [FuwaFuwa](https://www.youtube.com/@FuwaFuwa_35)
 - [hikipanda](https://www.youtube.com/@hikipanda) :lkr:
 - [カイ / Kai](https://www.youtube.com/@%E3%82%AB%E3%82%A4-w3d) [||EN||](https://www.youtube.com/@kai_en8684/)
 - [かたくりこ](https://www.youtube.com/@katakuriko)
 - [くまいゆうき / Kamai Yuki](https://www.youtube.com/@kumayuki55) [||EN||](https://www.youtube.com/@KumaiYuki_EN/)
 - [Khelly](https://www.youtube.com/@Khelly_Ch/)
-- [もちみこ / Mochimiko](https://www.youtube.com/mochimikoJP) [||EN||](https://youtube.com/@mochimikoen)
+- [もちみこ / Mochimiko](https://www.youtube.com/mochimikoJP) [||EN||](https://www.youtube.com/@mochimikoen)
 - [もものふ&あおつき / momonofu & aotuki](https://www.youtube.com/@momonofuaotuki/) [||EN||](https://www.youtube.com/@momonofuen1427/)
 - [ニコニコニコたん手描き切り抜き (Niconiconico-tan Tegaki Kirinuki)](https://www.youtube.com/@25tan_ouen_tegaki) :ljp:
 - [noeee](https://www.youtube.com/@noeee/)
