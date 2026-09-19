@@ -19,9 +19,13 @@ og:
 | [Animetail](https://github.com/Animetailapp/Animetail) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :mag::usnt: | :mal::al::k::simkl: | :tv::cast::dlna: |
 | [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
-| [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.gg/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
-| [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: | :tv::cast: |
 | [Animiru](https://github.com/quickdesh/Animiru)  [:e:](/ext/mihon) | :ddl: | :mal::al::k::simkl: | :no: |
+
+| [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.gg/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
+
+<more>
+
+| [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: | :tv::cast: |
 | [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :mal::al::simkl: | :no: |
@@ -36,6 +40,13 @@ og:
 | ^^ | [TachiyomiSY](https://mihon.app/forks/TachiyomiSY/) [:src:](https://github.com/jobobby04/TachiyomiSY) [:n:](https://github.com/jobobby04/TachiyomiSYPreview) |
 | ^^ | [TachiyomiAZ](https://mihon.app/forks/TachiyomiAZ/) [:src:](https://github.com/az4521/tachiyomiAZ) [:n:](https://crafty.moe/tachiyomiAZ.apk) |
 | ^^ | [TachiyomiJ2K](https://mihon.app/forks/TachiyomiJ2K/) [:src:](https://github.com/Jays2Kings/tachiyomiJ2K) |
+| ^^ | [Yōkai](https://mihon.app/forks/Yokai/) [:src:](https://github.com/null2264/yokai) [:n:](https://github.com/null2264/yokai-nightly) |
+| **Local** | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) :fm::cs: |
+| ^^ | [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs: |
+| ^^ | [CDisplayEx](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :fm::cs: |
+
+<more>
+
 | **Kotatsu** | [Usagi](https://yumemi.moe/) [:src:](https://github.com/UsagiApp/Usagi) |
 | ^^ | [Futon](https://futon.wtf/) [:src:](https://github.com/AppFuton/Futon) |
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
@@ -43,9 +54,6 @@ og:
 | **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
-| **Local** | [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer) :fm::cs: |
-| ^^ | [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs: |
-| ^^ | [CDisplayEx](https://play.google.com/store/apps/details?id=com.progdigy.cdisplay.free) :fm::cs: |
 
 ![Tachiyomi forks flowchart](/diagram/tachi.svg)
 
@@ -272,6 +280,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [gallery-dl](https://codeberg.org/mikf/gallery-dl/) [:help:](https://gdl-org.github.io/docs/) | :win::app::lin::cmd: |
 | ^^ | :prev: [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin::cmd: |
 | ^^ | [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujinDownloader== | :win: |
+
+<more>
+
 | **Specific cases** | [BookWalker Downloader](https://gist.github.com/GolyBidoof/6c9cbff7644c7078520fe45e3bcf039f) | :js: |
 | ^^ | [Clip Studio Reader](https://greasyfork.org/en/scripts/481576) [:src:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
 | ^^ | [Getjump](https://github.com/eggplants/getjump) | :py: |
@@ -368,6 +379,9 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^         | [Kavita](https://www.kavitareader.com/) [:src:](https://github.com/Kareadita/Kavita) |
 | ^^         | [LANraragi](https://sugoi.gitbook.io/lanraragi/dev) [:src:](https://github.com/Difegue/LANraragi) |
 | ^^         | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) |
+
+<more>
+
 | **Novels**     | [Kavita](https://www.kavitareader.com/) :s: [:src:](https://github.com/Kareadita/Kavita) |
 | ^^         | [Komga](https://komga.org/) [:src:](https://github.com/gotson/komga) |
 | ^^         | [Calibre-Web](https://github.com/janeczku/calibre-web) |
@@ -402,13 +416,13 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Category   | Tools |
 |----------- |--------------|
 | **General**    | [MAL-Sync](https://github.com/MALSync/MALSync) |
-| [**Jellyfin**](https://jellyfin.org/) | [Jellyfin-RPC](https://github.com/JustRadical/jellyfin-rpc) |
+| **Jellyfin** | [Jellyfin-RPC](https://github.com/JustRadical/jellyfin-rpc) |
 | ^^         | [Jellyfin MAL Metadata Plugin](https://github.com/ryandash/jellyfin-plugin-myanimelist) |
 | ^^         | [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-plugin-shikimori) |
-| [**Kavita**](https://www.kavitareader.com/) | [komf](https://github.com/Snd-R/komf) [:js:](https://github.com/Snd-R/komf-userscript) |
-| [**Komga**](https://komga.org/)| [komf](https://github.com/Snd-R/komf) [:js:](https://github.com/Snd-R/komf-userscript)  |
+| **Kavita** | [komf](https://github.com/Snd-R/komf) [:js:](https://github.com/Snd-R/komf-userscript) |
+| **Komga**| [komf](https://github.com/Snd-R/komf) [:js:](https://github.com/Snd-R/komf-userscript)  |
 | ^^         | [Komga Bulk Download Helper](https://github.com/darthmooguy/komga-bulk-download-helper) :js: |
-| [**Plex**](https://www.plex.tv/your-media/) | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) |
+| **Plex** | [Plex to AniList Sync](https://github.com/RickDB/PlexAniSync) |
 | ^^         | [AniBridge](https://anibridge.eliasbenb.dev/) [:src:](https://github.com/anibridge/anibridge) |
 | **Others**     | [Tailscale](https://tailscale.com/) |
 

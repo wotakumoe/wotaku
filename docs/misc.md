@@ -174,6 +174,9 @@ outline: 2
 | ^^ | [Anime Countdown](https://animecountdown.com/) |  
 | ^^ | [Anisaki](https://anisaki.vercel.app/) [:src:](https://github.com/BayuDC/anisaki) |  
 | **Monthly** | [Anica](https://anica.jp/) :acc: |  
+
+<more>
+
 | **Dub** | [Anime Dubs Release Calendar](https://teamup.com/ksdhpfjcouprnauwda) |  
 | ^^ | [English Dubbed Anime Lovers](https://english-dubbed.com/) | 
 | ^^ | [Kenny Stryker’s English dublist](https://myanimelist.net/forum/?topicid=1692966) |
