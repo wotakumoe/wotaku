@@ -191,10 +191,9 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Unyo](https://github.com/K3vinb5/unyo-app) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
+
 <more>
 
-| Program | OS | Source | Tracker |
-|-|-|-|-|
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
 | [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:src:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
 | [Curd](https://github.com/Wraient/curd) | :win::app::lin::cmd: | :ddl: | :al: |

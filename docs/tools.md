@@ -92,10 +92,9 @@ og:
 | [qBittorrent](https://www.qbittorrent.org/) [:alt:](https://qbittorrent.github.io/qBittorrent-website/) [:src:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
 | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | :win::app::lin::cmd: | :yes: | :no: | :yes: |
+
 <more>
 
-| Software | OS | DDL | P2P | FOSS |
-|-|-|-|-|-|
 | [aria2](https://aria2.github.io/) [:src:](https://github.com/aria2/aria2) | :win::app::lin::cmd: | :yes: | :yes: | :yes: |
 | [BiglyBT](https://www.biglybt.com/) [:src:](https://github.com/BiglySoftware/BiglyBT) | :win::app::lin::bsd: | :no: | :yes: | :yes: |
 | [Gopeed](https://gopeed.com/) [:src:](https://github.com/GopeedLab/gopeed) | :win::app::lin: | :yes: | :yes: | :yes: |

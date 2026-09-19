@@ -131,12 +131,10 @@ export function tableMorePlugin(md: MarkdownIt): void {
       if (silent) return true
 
       // Full table follows: let the table parser handle it, merge later.
-      const next1 = startLine + 1 < endLine
-        ? getLine(state, startLine + 1)
-        : ''
-      const next2 = startLine + 2 < endLine
-        ? getLine(state, startLine + 2)
-        : ''
+      let line = startLine + 1
+      while (line < endLine && getLine(state, line).trim() === '') line++
+      const next1 = line < endLine ? getLine(state, line) : ''
+      const next2 = line + 1 < endLine ? getLine(state, line + 1) : ''
       const fullTableFollows = isPipeLine(next1) && isDelimiterRow(next2)
 
       const marker = state.push('table_more', '', 0)
@@ -148,8 +146,6 @@ export function tableMorePlugin(md: MarkdownIt): void {
         return true
       }
 
-      // Else consume pipe rows as bare continuation rows (no header needed).
-      let line = startLine + 1
       let rows = 0
       while (line < endLine && isPipeLine(getLine(state, line))) {
         const cells = splitCells(getLine(state, line))

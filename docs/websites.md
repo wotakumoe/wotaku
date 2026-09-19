@@ -27,10 +27,9 @@ outline: 2
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Re:ANIME](https://reanime.to/home) [:prx:](https://reindex.to/) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
+
 <more>
 
-| Websites | Login | Tracking | Sub |
-|----------|-------|----------|-----|
 | [Anibd](https://anibd.app/) [:prx:](https://i.wotaku.wiki/p/proxy#anibd) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
 | [AniLight](https://anilight.live/) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
@@ -154,10 +153,9 @@ Some content may not be available depending on your region.
 | [Comix](https://comix.to/)  ==Comix== | 92k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 45k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+
 <more>
 
-| Websites | Library ==Library== | Tracking | Sources | Layout | Social |
-|----------|---------------------|----------|---------|--------|--------|
 | [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaBall](https://mangaball.net/)  | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 78k | :msync: | :ss: | :ls: | :cmnt: |
