@@ -50,6 +50,33 @@ function isDelimiterRow(line: string): boolean {
     cells.every((c) => /^:?-+:?$/.test(c.trim()))
 }
 
+function colspanOf(td: any): number {
+  const cols = td ? td.attrGet('colspan') : null
+  return cols === null ? 1 : cols
+}
+
+function prevRowCells(tokens: any[]): any[] {
+  let end = tokens.length - 1
+  while (
+    end >= 0 &&
+    (tokens[end].type === 'table_close' || tokens[end].type === 'tbody_close')
+  ) end--
+  if (end < 0 || tokens[end].type !== 'tr_close') return []
+  const cells: any[] = []
+  let k = end - 1
+  while (k >= 0 && tokens[k].type !== 'tr_open') {
+    if (tokens[k].type === 'td_open' || tokens[k].type === 'th_open') {
+      cells.unshift(tokens[k])
+    }
+    k--
+  }
+  const cols: any[] = []
+  for (const td of cells) {
+    for (let w = 0; w < colspanOf(td); w++) cols.push(td)
+  }
+  return cols
+}
+
 function findTableClose(tokens: any[], from: number): number {
   let depth = 0
   for (let j = from; j < tokens.length; j++) {
@@ -137,6 +164,7 @@ export function tableMorePlugin(md: MarkdownIt): void {
       const next2 = line + 1 < endLine ? getLine(state, line + 1) : ''
       const fullTableFollows = isPipeLine(next1) && isDelimiterRow(next2)
 
+      let up: any[] = prevRowCells(state.tokens)
       const marker = state.push('table_more', '', 0)
       marker.map = [startLine, startLine + 1]
       marker.content = ''
@@ -151,16 +179,33 @@ export function tableMorePlugin(md: MarkdownIt): void {
         const cells = splitCells(getLine(state, line))
         const trOpen = state.push('tr_open', 'tr', 1)
         trOpen.map = [line, line + 1]
+        const cur: any[] = []
+        let c = 0
         let openTd: any = null
+        let openStart = 0
         let span = 1
         const flush = () => {
-          if (openTd && span > 1) openTd.attrJoin('colspan', String(span))
-          openTd = null
-          span = 1
+          if (openTd) {
+            if (span > 1) openTd.attrSet('colspan', span)
+            for (let k = 0; k < span; k++) cur[openStart + k] = openTd
+            openTd = null
+            span = 1
+          }
         }
         for (const raw of cells) {
+          if (raw.trim() === '^^' && c < up.length && up[c]) {
+            flush()
+            const above = up[c]
+            const rs = above.attrGet('rowspan')
+            above.attrSet('rowspan', rs === null ? 2 : rs + 1)
+            const w = colspanOf(above)
+            for (let k = 0; k < w; k++) cur[c + k] = above
+            c += w
+            continue
+          }
           if (raw === '' && openTd) {
             span++
+            c++
             continue
           }
           flush()
@@ -172,9 +217,12 @@ export function tableMorePlugin(md: MarkdownIt): void {
           inline.children = []
           state.push('td_close', 'td', -1)
           openTd = td
+          openStart = c
+          c++
         }
         flush()
         state.push('tr_close', 'tr', -1)
+        up = cur
         rows++
         line++
       }
