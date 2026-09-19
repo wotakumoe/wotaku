@@ -33,15 +33,15 @@ outline: 2
 
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
-| [All Manga](https://allmanga.to/anime?tr=sub&cty=ALL) [:alt:](https://mkissa.to/anime) | :yes: | :msync: | :cc::oc: |
 | [Anibd](https://anibd.app/) [:prx:](https://i.wotaku.wiki/p/proxy#anibd) | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
+| [AniLight](https://anilight.live/) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
-| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
-| [AniLight](https://anilight.live/) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
 | [AnimeX](https://animex.one/home) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
+| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
+| [MKissa](https://mkissa.to/anime) | :yes: | :msync: | :oc: |
 
 </collapsible>
 
