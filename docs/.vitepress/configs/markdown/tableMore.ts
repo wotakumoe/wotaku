@@ -110,11 +110,9 @@ function countTableCols(tokens: any[], tableCloseIdx: number): number {
 function stampTableAnchor(state: any, tokens: any[], tableCloseIdx: number) {
   const openIdx = findTableOpen(tokens, tableCloseIdx)
   if (openIdx === -1) return
-  state.env.__tableMoreCount = (state.env.__tableMoreCount ?? 0) + 1
-  tokens[openIdx].attrJoin(
-    'data-table-more',
-    `table-more-${state.env.__tableMoreCount}`
-  )
+  const n = state.env.__tableMoreCount ?? 0
+  state.env.__tableMoreCount = n + 1
+  tokens[openIdx].attrJoin('data-table-more', String(n))
 }
 
 export function tableMorePlugin(md: MarkdownIt): void {

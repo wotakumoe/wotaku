@@ -384,8 +384,9 @@ const updateQueryForSelectedTab = async (tabs: HTMLElement) => {
   if (!tabPath.length) return
 
   const collapsibles = getOpenCollapsiblePath(tabs)
+  const tables = getOpenTableMorePath(tabs)
 
-  const nextUrl = buildUrl({ tabs: tabPath, collapsibles })
+  const nextUrl = buildUrl({ tabs: tabPath, collapsibles, tables })
   const currentUrl =
     `${window.location.pathname}${window.location.search}${window.location.hash}`
   if (nextUrl === currentUrl) return
@@ -506,9 +507,11 @@ const updateQueryForCollapsible = async (details: HTMLElement) => {
 
   const collapsiblePath = getOpenCollapsiblePath(details)
   const tabPath = getEnclosingTabPath(details)
+  const tables = getOpenTableMorePath()
 
   const nextUrl = buildUrl({
     tabs: tabPath.length ? tabPath : [],
+    tables,
     collapsibles: collapsiblePath
   })
   const currentUrl =
@@ -554,7 +557,19 @@ const queueTableMoreQueryUpdate = (target: EventTarget | null) => {
   const box = target.closest<HTMLInputElement>('.table-more-checkbox')
   if (!box) return
   const table = box.closest<HTMLElement>('table')
-  if (table) void updateQueryForTableMore(table)
+  if (!table) return
+  if (box.checked) {
+    // Accordion: opening one closes the others so only it stays in the URL.
+    document.querySelectorAll<HTMLTableElement>(TABLE_MORE_SELECTOR).forEach(
+      (other) => {
+        if (other !== table) {
+          const otherBox = getTableMoreCheckbox(other)
+          if (otherBox) otherBox.checked = false
+        }
+      }
+    )
+  }
+  void updateQueryForTableMore(table)
 }
 
 const selectCollapsiblesByPath = async (collapsiblePath: string[]) => {
@@ -606,9 +621,9 @@ const selectTablesByPath = async (anchors: string[]) => {
   return opened
 }
 
-const getOpenTableMorePath = () => {
+const getOpenTableMorePath = (root: ParentNode = document) => {
   const anchors: string[] = []
-  document.querySelectorAll<HTMLTableElement>(TABLE_MORE_SELECTOR).forEach(
+  root.querySelectorAll<HTMLTableElement>(TABLE_MORE_SELECTOR).forEach(
     (table) => {
       if (getTableMoreCheckbox(table)?.checked) {
         const anchor = table.dataset.tableMore
@@ -708,7 +723,11 @@ const selectLegacyTabHash = async (hash: string) => {
 
   const tabs = button.closest<HTMLElement>('.plugin-tabs')
   if (tabs) {
-    window.history.replaceState(null, '', buildUrlWithTabs([hash]))
+    window.history.replaceState(
+      null,
+      '',
+      buildUrl({ tabs: [hash], tables: getOpenTableMorePath(tabs) })
+    )
   }
   return tabs
 }
@@ -1467,6 +1486,7 @@ function setupManualCopyButtons() {
           wrapTablesInRoot(node)
           resetTableMoreInRoot(node)
           initCopyButtonsInRoot(node)
+          void selectTablesByPath(getRequestedTableMorePath())
           if (faviconsEnabled.value) applyFavicons(node)
           reapplyHighlightIfNeeded(node)
         } else {
@@ -1475,6 +1495,7 @@ function setupManualCopyButtons() {
               wrapTablesInRoot(panel)
               resetTableMoreInRoot(panel)
               initCopyButtonsInRoot(panel)
+              void selectTablesByPath(getRequestedTableMorePath())
               if (faviconsEnabled.value) applyFavicons(panel)
               reapplyHighlightIfNeeded(panel)
             }
