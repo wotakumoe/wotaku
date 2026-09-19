@@ -186,6 +186,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 |-|-|-|-|
 | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k::simkl: |
 | [Stremio](https://www.stremio.com/) :cs::fm::sub: [:e:](#tab-stremio) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
+| [Harbor](https://harbor.elfhosted.com/) [:src:](https://github.com/harborstremio/harbor) [:e:](#tab-stremio) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Unyo](https://github.com/K3vinb5/unyo-app) | :win::app::lin: | :ddl: | :al: |
