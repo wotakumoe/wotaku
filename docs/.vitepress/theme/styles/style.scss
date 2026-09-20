@@ -555,15 +555,10 @@ main figure figcaption {
   display: none;
 }
 
-/** Fix for markdown-it-merge-cells */
-.vp-doc table tr:nth-child(even),
-.vp-doc table tr:nth-child(odd) {
-  background-color: transparent !important;
-}
-
-table tr:nth-child(even),
-table tr:nth-child(odd) {
-  background-color: transparent !important;
+/** Two-tone rows, applied per-cell so rowspan cells keep the default color */
+.vp-doc table tbody tr:nth-child(even) td:not([rowspan]),
+table tbody tr:nth-child(even) td:not([rowspan]) {
+  background-color: var(--vp-c-bg-soft);
 }
 
 .vp-doc table tr,
