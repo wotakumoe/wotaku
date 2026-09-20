@@ -561,6 +561,13 @@ table tbody tr:nth-child(even) td:not([rowspan]) {
   background-color: var(--vp-c-bg-soft);
 }
 
+.vp-doc table tbody td[rowspan],
+.vp-doc table tbody th[rowspan],
+table tbody td[rowspan],
+table tbody th[rowspan] {
+  background-color: var(--vp-c-bg);
+}
+
 .vp-doc table tr,
 .vp-doc table td,
 .vp-doc table th {
