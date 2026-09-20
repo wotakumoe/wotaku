@@ -21,6 +21,7 @@ og:
 - [uBlock Origin](https://github.com/gorhill/uBlock) :s:
 - [uBO Lite](https://github.com/uBlockOrigin/uBOL-home)
 - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html)
+- [wBlock](https://skula.me/project/wblock/) :sfr: [:src:](https://github.com/0xCUB3/wBlock)
 
 == Filters
 - [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt)
