@@ -71,6 +71,7 @@ og:
 - [Hololive Fusion Generator](https://hololive-fusion-generator.toomuchofheaven.com/) :ded: [:src:](https://github.com/vaexenc/hololive-fusion-generator)
 - [Immerhate Archive](https://immerhate.holofun.net/)
 - [Inaversary](https://otako.fans/)
+- [Kanataso Archive](https://search.kanataso.com/) :jp:
 - [Mumei Soundboard](https://mumei-cute.com/)
 - [Musicdex](https://music.holodex.net/) :s: [:src:](https://github.com/HolodexNet/Musicdex)
 - [Raora's Kitchen](https://raoras-kitchen.pages.dev/)
