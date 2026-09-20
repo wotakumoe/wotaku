@@ -51,30 +51,107 @@ function isDelimiterRow(line: string): boolean {
 }
 
 function colspanOf(td: any): number {
-  const cols = td ? td.attrGet('colspan') : null
-  return cols === null ? 1 : cols
+  const cols = td ? Number(td.attrGet('colspan')) : NaN
+  return Number.isFinite(cols) && cols > 0 ? Math.floor(cols) : 1
+}
+
+function rowspanOf(td: any): number {
+  const rs = td ? Number(td.attrGet('rowspan')) : NaN
+  return Number.isFinite(rs) && rs > 0 ? Math.floor(rs) : 1
 }
 
 function prevRowCells(tokens: any[]): any[] {
   let end = tokens.length - 1
-  while (
-    end >= 0 &&
-    (tokens[end].type === 'table_close' || tokens[end].type === 'tbody_close')
-  ) end--
-  if (end < 0 || tokens[end].type !== 'tr_close') return []
-  const cells: any[] = []
-  let k = end - 1
-  while (k >= 0 && tokens[k].type !== 'tr_open') {
-    if (tokens[k].type === 'td_open' || tokens[k].type === 'th_open') {
-      cells.unshift(tokens[k])
+  while (end >= 0 && tokens[end].type === 'table_close') end--
+  if (end < 0 || tokens[end].type !== 'tbody_close') return []
+  let open = end
+  let depth = 0
+  while (open >= 0) {
+    if (tokens[open].type === 'tbody_close') depth++
+    else if (tokens[open].type === 'tbody_open') {
+      depth--
+      if (depth === 0) break
     }
-    k--
+    open--
   }
-  const cols: any[] = []
-  for (const td of cells) {
-    for (let w = 0; w < colspanOf(td); w++) cols.push(td)
+  if (open < 0) return []
+  const rows: any[][] = []
+  let cur: any[] | null = null
+  for (let k = open + 1; k < end; k++) {
+    const t = tokens[k]
+    if (t.type === 'tr_open') cur = []
+    else if (t.type === 'tr_close') {
+      if (cur) rows.push(cur)
+      cur = null
+    } else if (
+      cur && (t.type === 'td_open' || t.type === 'th_open')
+    ) {
+      cur.push(t)
+    }
   }
-  return cols
+  const remaining: number[] = []
+  const holder: any[] = []
+  let owners: any[] = []
+  for (const row of rows) {
+    const next: any[] = []
+    let c = 0
+    for (const td of row) {
+      while ((remaining[c] ?? 0) > 0) {
+        next[c] = holder[c]
+        c++
+      }
+      const w = colspanOf(td)
+      for (let k = 0; k < w; k++) next[c + k] = td
+      const rs = rowspanOf(td)
+      if (rs > 1) {
+        for (let k = 0; k < w; k++) {
+          remaining[c + k] = rs
+          holder[c + k] = td
+        }
+      }
+      c += w
+    }
+    while ((remaining[c] ?? 0) > 0) {
+      next[c] = holder[c]
+      c++
+    }
+    for (let k = 0; k < remaining.length; k++) {
+      if (remaining[k] > 0) remaining[k]--
+    }
+    owners = next
+  }
+  return owners
+}
+
+function cloneCellContent(state: any, owner: any) {
+  const tokens = state.tokens
+  const idx = tokens.indexOf(owner)
+  if (idx === -1) return
+  const end = tokens.length
+  let depth = 1
+  for (let k = idx + 1; k < end && depth > 0; k++) {
+    const t = tokens[k]
+    const isOpen = (t.type === 'td_open' || t.type === 'th_open') &&
+      t.nesting === 1
+    const isClose = (t.type === 'td_close' || t.type === 'th_close') &&
+      t.nesting === -1
+    if (isOpen) {
+      depth++
+    } else if (isClose) {
+      depth--
+      if (depth === 0) break
+    } else {
+      const cp = state.push(t.type, t.tag, t.nesting)
+      cp.attrs = t.attrs ? t.attrs.map((a: any) => [a[0], a[1]]) : t.attrs
+      cp.content = t.content
+      cp.map = t.map ? t.map.slice() : t.map
+      cp.children = []
+      cp.block = t.block
+      cp.info = t.info
+      cp.markup = t.markup
+      cp.meta = t.meta ? { ...t.meta } : t.meta
+    }
+  }
 }
 
 function findTableClose(tokens: any[], from: number): number {
@@ -165,6 +242,7 @@ export function tableMorePlugin(md: MarkdownIt): void {
       const fullTableFollows = isPipeLine(next1) && isDelimiterRow(next2)
 
       let up: any[] = prevRowCells(state.tokens)
+      const emitted = new Set(state.tokens)
       const marker = state.push('table_more', '', 0)
       marker.map = [startLine, startLine + 1]
       marker.content = ''
@@ -196,10 +274,31 @@ export function tableMorePlugin(md: MarkdownIt): void {
           if (raw.trim() === '^^' && c < up.length && up[c]) {
             flush()
             const above = up[c]
-            const rs = above.attrGet('rowspan')
-            above.attrSet('rowspan', rs === null ? 2 : rs + 1)
             const w = colspanOf(above)
-            for (let k = 0; k < w; k++) cur[c + k] = above
+            if (emitted.has(above)) {
+              const td = state.push(
+                above.tag === 'th' ? 'th_open' : 'td_open',
+                above.tag,
+                1
+              )
+              td.attrs = above.attrs
+                ? above.attrs
+                  .filter((a: any) => a[0] !== 'rowspan')
+                  .map((a: any) => [a[0], a[1]])
+                : []
+              if (w > 1) td.attrSet('colspan', w)
+              cloneCellContent(state, above)
+              state.push(
+                above.tag === 'th' ? 'th_close' : 'td_close',
+                above.tag,
+                -1
+              )
+              for (let k = 0; k < w; k++) cur[c + k] = td
+            } else {
+              const rs = rowspanOf(above)
+              above.attrSet('rowspan', rs + 1)
+              for (let k = 0; k < w; k++) cur[c + k] = above
+            }
             c += w
             continue
           }
