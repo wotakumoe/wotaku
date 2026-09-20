@@ -48,6 +48,10 @@ og:
 - url: https://github.com/phisher98/cloudstream-extensions-phisher
 - raw: https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json
 
+== Raghav
+- url: https://github.com/KSHITIJ8473/raghav
+- raw: https://raw.githubusercontent.com/KSHITIJ8473/raghav/refs/heads/builds/repo.json
+
 == Redowan
 - url: https://github.com/redowan99/Redowan-CloudStream
 - raw: https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json
