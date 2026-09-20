@@ -16,11 +16,10 @@ og:
 
 | App | Source | Tracker | TV |
 |-|-|-|-|
-| [Animetail](https://github.com/Animetailapp/Animetail) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
+| [Animiru](https://github.com/quickdesh/Animiru)  [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :cast: |
 | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :mag::usnt: | :mal::al::k::simkl: | :tv::cast::dlna: |
 | [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
-| [Animiru](https://github.com/quickdesh/Animiru)  [:e:](/ext/mihon) | :ddl: | :mal::al::k::simkl: | :no: |
-
+| [Animetail](https://github.com/Animetailapp/Animetail) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.gg/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
 
 <more>
