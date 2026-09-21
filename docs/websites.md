@@ -327,7 +327,8 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | ^^ | [MPAJ](https://www.eiren.org/) :ljp: |
 | ^^ | [MyDramaList](https://mydramalist.com/) |
 | ^^ | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
-| **General** | [IMDb](https://www.imdb.com/) |
+| **General** | [aniSearch](https://www.anisearch.com/movie) |
+| ^^ | [IMDb](https://www.imdb.com/) |
 | ^^ | [Kinorium](https://en.kinorium.com/) |
 | ^^ | [Letterboxd](https://letterboxd.com/) |
 | ^^ | [SIMKL](https://simkl.com/) |
