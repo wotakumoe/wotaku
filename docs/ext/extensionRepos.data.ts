@@ -249,7 +249,18 @@ function findMarkdownFiles(dir: string): string[] {
 function collectIndexUrls(): string[] {
   const urls = new Set<string>()
   const blockRe = /:::\s*extrepo[^\n]*\n([\s\S]*?)\n\s*:::/g
-  const rowRe = /^\s*-\s*(?:raw|manga|anime|novel|data)\s*:\s*(https?:\/\/\S+)\s*$/gim
+  const rowRe = /^\s*-\s*(raw|manga|anime|novel|data)\s*:\s*(https?:\/\/\S+)\s*$/i
+  const headingRe = /^\s*==\s+.+$/
+  const buildRe = /^\s*--\s+.+$/
+
+  function flushEntry(plainRaws: string[], variantUrls: string[], buildRaws: string[], dataUrls: string[]): void {
+    for (const url of variantUrls) urls.add(url)
+    for (const url of buildRaws) urls.add(url)
+    for (const url of dataUrls) urls.add(url)
+    if (dataUrls.length === 0) {
+      for (const url of plainRaws) urls.add(url)
+    }
+  }
 
   for (const file of findMarkdownFiles(DOCS_DIR)) {
     const src = readFileSync(file, 'utf-8')
@@ -257,9 +268,38 @@ function collectIndexUrls(): string[] {
     let block: RegExpExecArray | null
     blockRe.lastIndex = 0
     while ((block = blockRe.exec(src))) {
-      rowRe.lastIndex = 0
-      let row: RegExpExecArray | null
-      while ((row = rowRe.exec(block[1]))) urls.add(row[1].trim())
+      let plainRaws: string[] = []
+      let variantUrls: string[] = []
+      let buildRaws: string[] = []
+      let dataUrls: string[] = []
+      let inEntry = false
+      let inBuild = false
+
+      for (const line of block[1].split('\n')) {
+        if (headingRe.test(line)) {
+          if (inEntry) flushEntry(plainRaws, variantUrls, buildRaws, dataUrls)
+          plainRaws = []
+          variantUrls = []
+          buildRaws = []
+          dataUrls = []
+          inEntry = true
+          inBuild = false
+          continue
+        }
+        if (buildRe.test(line)) {
+          inBuild = true
+          continue
+        }
+        const row = rowRe.exec(line)
+        if (row && inEntry) {
+          const key = row[1].toLowerCase()
+          const url = row[2].trim()
+          if (key === 'data') dataUrls.push(url)
+          else if (key === 'raw') (inBuild ? buildRaws : plainRaws).push(url)
+          else variantUrls.push(url)
+        }
+      }
+      if (inEntry) flushEntry(plainRaws, variantUrls, buildRaws, dataUrls)
     }
   }
   return [...urls]
