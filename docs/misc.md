@@ -174,6 +174,7 @@ outline: 2
 | ^^ | [Anime Countdown](https://animecountdown.com/) |  
 | ^^ | [Anisaki](https://anisaki.vercel.app/) [:src:](https://github.com/BayuDC/anisaki) |  
 | **Monthly** | [Anica](https://anica.jp/) :acc: |  
+| ^^ | [aniSearch Calendar](https://www.anisearch.com/anime/calendar) |
 
 <more>
 
@@ -194,12 +195,11 @@ outline: 2
 
 | Type | Website |
 |-|-|
-| **General** | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/AurelicButter/Myneworm) |
+| **General** | [aniSearch Calendar](https://www.anisearch.com/manga/calendar) |
+| ^^      | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/AurelicButter/Myneworm) |
 | ^^      | [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss) |
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
-| **Manga**   | [Otaku Calendar](https://otakucalendar.com/) |
-| ^^      | [Whakoom](https://en.whakoom.com/) :fm: |
-| ^^      | [Sumikko Comic](https://comic.sumikko.info/) :s::ljp: [:rss:](https://comic.sumikko.info/rss.xml) |
+| **Manga**   | [Sumikko Comic](https://comic.sumikko.info/) :s::ljp: [:rss:](https://comic.sumikko.info/rss.xml) |
 | **Light Novel** | [RanobeDB](https://ranobedb.org/releases/calendar) :s: [:src:](https://github.com/Blastose/ranobedb) |
 | ^^      | [Light Novel Releases](https://lnrelease.github.io/) [:src:](https://github.com/LNRelease/lnrelease.github.io) |
 | ^^      | [Sumikko Novel](https://novel.sumikko.info/) :ljp: [:rss:](https://novel.sumikko.info/rss.xml) |
