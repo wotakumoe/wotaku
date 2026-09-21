@@ -413,7 +413,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 #### Direct
 
 ::: warning Slow download
-All websites listed here use slow host sites to store files, unless noted otherwise.
+All websites listed here use slow host sites to store files, unless noted otherwise. You can try [Get4All](https://get4all.org/) for fast downloads.
 :::
 
 | Site | Manga | Novel | Magazine |
