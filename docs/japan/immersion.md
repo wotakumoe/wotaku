@@ -86,6 +86,7 @@ og:
 | ^^ | [Search TV](https://searchtv.net/) |
 | **Japan** | [AQ Stream](https://aqstream.com/jp) |
 | ^^ | [FAST ch](https://fastv.jp/) :hd: |
+| ^^ | [Japanese TV](https://mov3.co/) :hd: |
 | ^^ | [Japanese IPTV Playlist](https://gitflic.ru/project/reaperc/jp-iptv) |
 | ^^ | [takelab](https://github.com/take2560/takelab) |
 | ^^ | [TVer](https://tver.jp/) ==TVer== |
