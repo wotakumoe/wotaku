@@ -311,7 +311,7 @@ outline: 2
 | Category | Websites |
 | :--- | :--- |
 | **General** | [CosmoDNA](https://www.ourstarblazers.com/vault/) |
-| ^^ | [Digital World Archive](https://digitalworldarchive.wordpress.com/) [:x:](https://x.com/RavelMonte) ||Digimon|| |
+| ^^ | [Digital World Archive](https://digitalworldarchive.wordpress.com/) [:yt:](https://www.youtube.com/@DigitalWorldArchive) [:x:](https://x.com/RavelMonte) ||Digimon|| |
 | ^^ |[MAD ANGLER PRESS](https://retroanimechris.blogspot.com/) [:iarch:](https://archive.org/details/@madanglerpress) [:x:](https://x.com/retroanimechris) |
 | ^^ | [Media Monster](https://archive.org/details/@media-monster_alt) :iarch: [:x:](https://x.com/nuwawawon) |
 | ^^ | [MercuryFalcon](https://www.youtube.com/@MercuryFalcon/) :yt: [:x:](https://x.com/MercuryFalcon) |
