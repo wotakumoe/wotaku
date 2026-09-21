@@ -20,15 +20,8 @@ og:
 
 == Secozzi
 - url: https://github.com/Secozzi/aniyomi-extensions
-- raw: https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.min.json
-
-== Claudemirovsky
-- url: https://github.com/Claudemirovsky/cursedyomi-extensions
-- raw: https://raw.githubusercontent.com/Claudemirovsky/cursedyomi-extensions/repo/index.min.json
-
-== hollow
-- url: https://codeberg.org/hollow/aniyomi-extensions-fr
-- raw: https://codeberg.org/hollow/aniyomi-extensions-fr/media/branch/repo/index.min.json
+- raw: https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.pb
+- data: https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.json
 :::
 
 ## Manga
