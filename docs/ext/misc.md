@@ -155,10 +155,8 @@ og:
 - url: https://github.com/Shebyyy/kotatsu-multi-parsers
 -- Kotatsu-Redo
 - raw: https://kotatsu-83g.pages.dev/kotatsu/kotatsu-parsers-redo.json
--- YakaTeam
+-- Gekkoushi
 - raw: https://kotatsu-83g.pages.dev/kotatsu/yakateam-kotatsu-parsers.json
--- TamerAli-0
-- raw: https://kotatsu-83g.pages.dev/kotatsu/tamerali-kotatsu-parsers.json
 -- Kaisoku
 - raw: https://kotatsu-83g.pages.dev/kotatsu/kaisoku-parsers.json
 -- hany18h
