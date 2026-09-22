@@ -113,7 +113,6 @@ og:
 - [EPUB.moe](https://epub.moe/)
 - [Japanese Learner's Anthology](https://nyaa.si/?q=PeepoHappyBooks) :mag:
 - [lolibrary index](https://lolibrary.moe/)
-- [Moe Library](https://books.moelibrary.cc/)
 - [TMW eBook Collection](https://nyaa.si/?q=TMW+eBook) :mag:
 
 == Easy Reading
