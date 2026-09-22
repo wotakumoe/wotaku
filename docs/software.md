@@ -403,7 +403,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | **Jellyfin** | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) | :win: |
 | ^^ | [Streamyfin](https://github.com/streamyfin/streamyfin) | :and::ios: |
 | **Komga** | [Komelia](https://github.com/Snd-R/Komelia) | :and::win::lin: |
-| ^^ | [KMReader](https://kmworks.github.io/kmreader/) [:src:](https://github.com/everpcpc/KMReader) | :ios::app: |
+| ^^ | [KMReader](https://kmworks.github.io/kmreader/) [:src:](https://github.com/kmworks/kmreader) | :ios::app: |
 | ^^ | [Komik](https://pruizlezcano.github.io/komic/) :fm: | :ios: |
 | **LANraragi** | [Ichaival](https://github.com/Utazukin/Ichaival) | :and: |
 | ^^ | [LANreader](https://github.com/Doraemoe/LANreader) | :ios: |
