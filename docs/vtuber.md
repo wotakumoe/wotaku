@@ -53,6 +53,7 @@ og:
 - [VTuber Newsdrop](https://vtubernewsdrop.com/)
 - [VTBs in Bilibili!](https://vtbs.moe/) :lcn: [:src:](https://github.com/dd-center/vtbs.moe/)
 - [臺灣 VTuber 列表](https://taiwanvtuberdata.github.io/) :ltw: [:src:](https://github.com/TaiwanVtuberData/TaiwanVtuberTrackingData)
+- [Cafe Laid-Back](https://www.yubarirei-non-official.com/) :ljp:
 - [Mogu](https://mogu.holopirates.moe/)
 
 :::
