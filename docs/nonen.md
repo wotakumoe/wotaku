@@ -208,7 +208,7 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AnimeKO](https://v4.animeko.ws/) |
+| **Anime** | [AnimeKO](https://animeko.ws/) |
 | ^^ | [Anime-Sama](https://anime-sama.to/) [:prx:](https://anime-sama.pw/) + :len: |
 | ^^ | [Fluneo](https://myfluneo.eu/) |
 | ^^ | [FRAnime](https://franime.fr/) |
@@ -453,7 +453,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [FreeToon](https://foc127.asia/) |
 | ^^ | [Funbe](https://funbe676.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
-| ^^ | [GoodToon](https://www.goodtoon004.com/) [:tg:](https://t.me/goodtoon_url) |
+| ^^ | [GoodToon](https://www.goodtoon005.com/) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon154.asia/) |
 | ^^ | [NameeToon](https://namee115.asia/) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
