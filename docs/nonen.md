@@ -451,11 +451,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
-| ^^ | [FreeToon](https://foc127.asia/) |
+| ^^ | [FreeToon](https://foc128.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe676.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [GoodToon](https://www.goodtoon005.com/) [:tg:](https://t.me/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon154.asia/) |
-| ^^ | [NameeToon](https://namee115.asia/) |
+| ^^ | [MoneyToon](https://mtoon154.asia/) [:tg:](https://t.me/mtoonopen) |
+| ^^ | [NameeToon](https://namee116.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
 | ^^ | [TOONKOR](https://tkor154.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf492.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
