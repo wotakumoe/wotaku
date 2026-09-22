@@ -150,7 +150,7 @@ File naming schemes are kind of optional, not every upload has to follow the sam
 
 | Part | Description |
 |-|-|
-| **Publisher** | **CaaS (Chapters as a Service)** sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, Tapas etc. |
+| **Publisher** | **CaaS (Chapters as a Service)** sites release chapters indvidually instead of volume. Examples: Manga Plus, Manga UP!, Comikey, etc. |
 | ^^ | **Volume** websites sells the whole volume with better quality. Example: VIZ, Kodansha, Square Enix etc. |
 | **Source** | **Digital:** Nowadays the primary source is digital, since it's easier to rip and usually higher quality. |
 | ^^ | **c2c:** In the case of scans, the most used tag is c2c - cover to cover. Example: Trite, XRA. |

@@ -217,7 +217,6 @@ Some of the series/services may not be available depending on your region.
 | :--- | :--- |
 | [Lezhin](https://www.lezhinus.com/en) | :free::coin::sub: |
 | [Manta](https://manta.net/en) | :free::coin::sub: |
-| [Tapas](https://tapas.io/) | :free::coin: |
 | [Tappytoon](https://www.tappytoon.com/en/comics/discover) | :free::coin::sub: |
 | [Toomics](https://toomics.com/en/) | :free::coin::sub: |
 | [TopToon](https://global.toptoon.com/) | :free::coin::sub: |

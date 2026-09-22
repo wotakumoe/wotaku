@@ -49,8 +49,8 @@ Original: ~~Blurry downscales for anything that would be above that on other pla
 | [J-Novel Club](https://j-novel.club/)         | x3840      | :yes: | :yes: | Own Store |
 | [Kaiten Books](https://www.kaitenbooks.com/)  | ~x2400     | :yes: | :yes: | Own Store |
 | [Kodansha USA](https://kodansha.us/)         | ~3000<sup>4</sup> | :no: | :yes: | Humble Bundle / Neon Ichiban |
-| [Medibang](https://medibang.itch.io/) <sup>5</sup>   | x2048 | - | :no: | - |
-| Media Do/Coamix <sup>5</sup> | x1800 | - | :no: | - |
+| [Medibang](https://medibang.itch.io/)<sup>5</sup>   | x2048 | - | :no: | - |
+| **Media Do/Coamix**<sup>5</sup> | x1800 | - | :no: | - |
 | [Omoi](https://www.omoi.com/)                | x4800<sup>7</sup> | :yes: | :yes: | Own Store |
 | [Seven Seas Entertainment](https://sevenseasentertainment.com/) | x3000<sup>6</sup> | :no: | :yes: | GlobalComix |
 | [Square Enix Manga & Books](https://squareenixmangaandbooks.square-enix-games.com/en-us)| ~x2230 | :no: | :yes: | Same Everywhere |
@@ -113,15 +113,15 @@ These websites focus on Manhwa, Manhua and OEL.
 
 | Platform                                         | Resolution { class="compact" } |  SFW |
 |--------------------------------------------------|--------------------------------|----- |
-| [Toptoon](https://global.toptoon.com/) <sup>1</sup> | 720x                       | :no: |
+| [Toptoon](https://global.toptoon.com/)<sup>1</sup> | 720x                       | :no: |
 | [INKR](https://comics.inkr.com/)                  | Varies<sup>2</sup> |  :no: |
-| [Lezhin](https://www.lezhinus.com/en)            | 1280x <sup>3</sup>              | :no: |
+| [Lezhin](https://www.lezhinus.com/en)            | 1280x<sup>3</sup>              | :no: |
 | [Line Webtoon](https://www.webtoons.com/en/)     | 720-800x                        | :yes:|
 | [MangaToon](https://mangatoon.mobi/) | Varies<sup>4</sup> | :no: |
-| [Manta](https://manta.net/en) <sup>5</sup>       | 720x                            | :yes: |
-| [Tapas](https://tapas.io/)   <sup>5</sup>        | 940x                            | :yes: |
+| [Manta](https://manta.net/en)<sup>5</sup>       | 720x                            | :yes: |
+| **Tapas**<sup>5</sup>        | 940x                            | :yes: |
 | [Tappytoon](https://www.tappytoon.com/en/comics/discover)<sup>5</sup> | 720x                       | :yes: |
-| [Toomics](https://toomics.com/en/) <sup>6</sup> | 720x                       | :no: |
+| [Toomics](https://toomics.com/en/)<sup>6</sup> | 720x                       | :no: |
 | [WebNovel](https://www.webnovel.com/) | 800x | :no: |
 
 <collapsible title="Note">
