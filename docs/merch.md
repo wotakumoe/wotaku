@@ -141,7 +141,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Play-Asia](https://www.play-asia.com/)
 - [Robert's Anime Corner Store](https://www.animecornerstore.com/)
 - [Video Games Plus](https://videogamesplus.ca/)
-- [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
 
 == Anime
@@ -156,6 +155,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [honto](https://honto.jp/)
 - [InStockTrades](https://www.instocktrades.com/)
 - [Mangaoh](https://www.mangaoh.co.jp/)
+- [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [Waterstones](https://www.waterstones.com/)
 
 == Figures / Merch
