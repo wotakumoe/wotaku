@@ -278,13 +278,13 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [JAM](https://redsquirrel87.com/jam) :cs: | :win::lin: |
 | ^^ | [gallery-dl](https://codeberg.org/mikf/gallery-dl/) [:help:](https://gdl-org.github.io/docs/) | :win::app::lin::cmd: |
 | ^^ | :prev: [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin::cmd: |
+| ^^ | [getjmanga](https://github.com/eggplants/getjmanga) | :py: |
 | ^^ | [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujinDownloader== | :win: |
 
 <more>
 
 | **Specific cases** | [BookWalker Downloader](https://gist.github.com/GolyBidoof/6c9cbff7644c7078520fe45e3bcf039f) | :js: |
 | ^^ | [Clip Studio Reader](https://greasyfork.org/en/scripts/481576) [:src:](https://github.com/MrCocoNuat/clip-studio-reader-downloader) | :js: |
-| ^^ | [Getjump](https://github.com/eggplants/getjump) | :py: |
 | ^^ | [Mangaplus Downloader NG](https://github.com/l0westbob/mloader) | :py: |
 | ^^ | [Mangaplus Downloader](https://github.com/hurlenko/mloader/) ||Old|| | :py: |
 | **Novels** | [Epublifier](https://github.com/maoserr/epublifier) | :ff::cr: |
