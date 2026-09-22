@@ -131,7 +131,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [animate](https://www.animate-onlineshop.jp/)
 - [CDJapan](https://www.cdjapan.co.jp/)
 - [DiabolikDVD](https://diabolikdvd.com/)
-- [Discotek Media](https://www.discotekmedia.com/)
 - [FAKKU](https://www.fakku.net/)
 - [HMV & Books](https://www.hmv.co.jp/)
 - [Mandarake](https://www.mandarake.co.jp/)
@@ -141,10 +140,23 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Mercari](https://www.mercari.com/)
 - [Play-Asia](https://www.play-asia.com/)
 - [Robert's Anime Corner Store](https://www.animecornerstore.com/)
-- [Sentai Store](https://www.sentaifilmworks.com/)
 - [Video Games Plus](https://videogamesplus.ca/)
 - [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
+
+== Anime
+
+- [Discotek Media](https://www.discotekmedia.com/)
+- [GKIDS Store](https://store.gkids.com/)
+- [Sentai Store](https://www.sentaifilmworks.com/)
+
+== Manga
+
+- [Barnes & Noble](https://www.barnesandnoble.com/)
+- [honto](https://honto.jp/)
+- [InStockTrades](https://www.instocktrades.com/)
+- [Mangaoh](https://www.mangaoh.co.jp/)
+- [Waterstones](https://www.waterstones.com/)
 
 == Figures / Merch
 
@@ -160,14 +172,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Nin-Nin Game](https://www.nin-nin-game.com/en/)
 - [Otaku Mode](https://otakumode.com/) ||SFW||
 - [Show.Z Store](https://showzstore.com/)
-
-== Manga
-
-- [Barnes & Noble](https://www.barnesandnoble.com/)
-- [honto](https://honto.jp/)
-- [InStockTrades](https://www.instocktrades.com/)
-- [Mangaoh](https://www.mangaoh.co.jp/)
-- [Waterstones](https://www.waterstones.com/)
 
 == Digital Music
 
