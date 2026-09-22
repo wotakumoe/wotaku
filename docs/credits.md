@@ -39,13 +39,13 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Default link embed |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
 | **幸原ゆゆ (Kouhara Yuyu)** | [ミクさん :ribbon:](https://x.com/k0uhara/status/2065399096417116646) | Miku sidebar art |
-| **LuLuLu** | [zZZ :octopus:](https://x.com/Lucferz13/status/1916598270476140660) | Ina'nis sidebar art |
 | **megamiceto** | [Brazilian Miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
 | **Non** | [おら、この学校さ入るだ。](https://www.pixiv.net/en/artworks/146410560) | Fubuki sidebar art |
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed |
 | **raeji** | [Wotaku logo](https://x.com/raeji__/status/2054928392529879511) | [Home logo and favicon](/) |
 | **Rayillu** | [Winter Ame](https://www.pixiv.net/en/artworks/114186479) | Watson sidebar art |
+| **RETICLES** | [Abyssal Hymn](https://www.youtube.com/watch?v=Snvkb-GOuBw) | Ina'nis sidebar art |
 | **Ring** | [Mahō Shōjo](https://www.pixiv.net/en/artworks/94104639) | Merch link embed |
 | **あーる✒︎うぉーかー (R. Walker)** | [エヴァのアスカ](https://x.com/Walk43049101Art/status/2044370168604975199) | Asuka sidebar art |
 | **SeraphimThrone** | [じーーーー](https://x.com/SeraphimThrone/status/1993508812586930238) | IRyS sidebar art |
@@ -93,6 +93,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | ^^ | [Mio Akiyama](https://yande.re/post/show/255575) | Music banner |
 | ^^ | [Mio Naganohara](https://www.zerochan.net/520314)                                                  | Random banner       |
 | **Lacie Walker** | [Eto Yoshimura](https://www.zerochan.net/1880948) | 4chan banner |
+| **LuLuLu** | [zZZ :octopus:](https://x.com/Lucferz13/status/1916598270476140660) | Ina'nis sidebar art |
 | **MeLonPanz** | [sharkkkkkk !!!](https://www.pixiv.net/en/artworks/86516526) | Favicon |
 | **Mogudan** | [Mogudan Illust Works](https://www.fakku.net/hentai/mogudan-illust-works-english) | [NSFW banners](/nsfw) |
 | **森倉円 (Morikura En)**    | [Kizuna Ai Profile Art](https://en.namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%20%EC%95%84%EC%9D%B4)   | Vtuber banner       |
