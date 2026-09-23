@@ -126,32 +126,34 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 == General
 
-- [Amazon](https://www.amazon.com/)
-- [AmiAmi](https://www.amiami.com)
-- [animate](https://www.animate-onlineshop.jp/)
-- [CDJapan](https://www.cdjapan.co.jp/)
+| Category | Websites |
+|---|---|
+| **General** | [Amazon](https://www.amazon.com/) |
+| ^^ | [AmiAmi](https://www.amiami.com) :cjp: |
+| ^^ | [animate](https://www.animate.shop/) :cjp: |
+| ^^ | [CDJapan](https://www.cdjapan.co.jp/) :cjp: |
+| ^^ | [HMV&Books](https://www.hmv.co.jp/) :cjp: |
+| ^^ | [Play-Asia](https://www.play-asia.com/) |
+| **Special** | [Mandarake](https://www.mandarake.co.jp/) :cjp: |
+| ^^ | [Melonbooks](https://www.melonbooks.co.jp/) :cjp: |
+| ^^ | [Mercari](https://jp.mercari.com/en) :cjp: |
+| **Lesser Known** | [Media Blasters](https://mb-storefront.com/) |
+| ^^ | [Robert's Anime Corner Store](https://www.animecornerstore.com/) |
+| **Others** | [Video Games Plus](https://videogamesplus.ca/) |
+
+== Anime & Live-Action
+
 - [DiabolikDVD](https://diabolikdvd.com/)
-- [FAKKU](https://www.fakku.net/)
-- [HMV & Books](https://www.hmv.co.jp/)
-- [Mandarake](https://www.mandarake.co.jp/)
-- [Media Blasters](https://mb-storefront.com/)
-- [MediaOCD](https://mediaocd.com/)
-- [Melonbooks](https://www.melonbooks.co.jp/)
-- [Mercari](https://www.mercari.com/)
-- [Play-Asia](https://www.play-asia.com/)
-- [Robert's Anime Corner Store](https://www.animecornerstore.com/)
-- [Video Games Plus](https://videogamesplus.ca/)
-- [YESASIA](https://www.yesasia.com/global/en/home.html)
-
-== Anime
-
 - [Discotek Media](https://www.discotekmedia.com/)
 - [GKIDS Store](https://store.gkids.com/)
+- [MediaOCD](https://mediaocd.com/)
 - [Sentai Store](https://www.sentaifilmworks.com/)
+- [YESASIA](https://www.yesasia.com/global/en/home.html)
 
 == Manga
 
 - [Barnes & Noble](https://www.barnesandnoble.com/)
+- [FAKKU](https://www.fakku.net/)
 - [honto](https://honto.jp/)
 - [InStockTrades](https://www.instocktrades.com/)
 - [Mangaoh](https://www.mangaoh.co.jp/)
@@ -180,6 +182,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Ototoy](https://ototoy.jp/)
 - [Qobuz](https://www.qobuz.com/us-en/shop)
 - [Recochoku](https://recochoku.jp/)
+- [YESASIA](https://www.yesasia.com/global/en/home.html)
+
 :::
 
 
