@@ -278,7 +278,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [JAM](https://redsquirrel87.com/jam) :cs: | :win::lin: |
 | ^^ | [gallery-dl](https://codeberg.org/mikf/gallery-dl/) [:help:](https://gdl-org.github.io/docs/) | :win::app::lin::cmd: |
 | ^^ | :prev: [Media Downloader](https://github.com/mhogomchungu/media-downloader) | :win::app::lin::cmd: |
-| ^^ | [getjmanga](https://github.com/eggplants/getjmanga) | :py: |
+| ^^ | [getjmanga](https://github.com/eggplants/getjmanga) | :win::app::lin::cmd::py: |
 | ^^ | [HDoujin Downloader](https://doujindownloader.com/) :cs: ==HDoujinDownloader== | :win: |
 
 <more>
