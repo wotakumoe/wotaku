@@ -114,6 +114,7 @@ Some content may not be available depending on your region.
 | ^^ | [Beyblade Official](https://www.youtube.com/@beyblade-official) |
 | ^^ | [Cardfight!! Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
 | ^^ | [Chibi Maruko Channel](https://www.youtube.com/@chibimarukochannelofficial) |
+| ^^ | [Chiikawa Official](https://www.youtube.com/@chiikawa.international) |
 | ^^ | [Gundam Channel INTL](https://www.youtube.com/@GundamInfo) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
 | ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
