@@ -289,7 +289,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^ | [Mangaplus Downloader](https://github.com/hurlenko/mloader/) ||Old|| | :py: |
 | **Novels** | [Epublifier](https://github.com/maoserr/epublifier) | :ff::cr: |
 | ^^ | [Lightnovel Crawler](https://github.com/lncrawl/lightnovel-crawler) | :win::app::lin::dock: |
-| ^^ | [LNCrawler](https://github.com/Binit06/LNCrawler) | :and: |
 | ^^ | [WebtoEpub](https://github.com/dteviot/WebToEpub) | :ff::cr: |
 | **DRM** | [KeyDive](https://github.com/hyugogirubato/KeyDive/) ||L3|| | :py: |
 | ^^ | [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | :win::lin: |
