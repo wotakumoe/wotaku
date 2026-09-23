@@ -141,7 +141,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | ^^ | [Robert's Anime Corner Store](https://www.animecornerstore.com/) |
 | **Others** | [Video Games Plus](https://videogamesplus.ca/) |
 
-== Anime & Live-Action
+== Blu-ray / DVD
 
 - [DiabolikDVD](https://diabolikdvd.com/)
 - [Discotek Media](https://www.discotekmedia.com/)
@@ -150,15 +150,17 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Sentai Store](https://www.sentaifilmworks.com/)
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
 
-== Manga
+== Books
 
 - [Barnes & Noble](https://www.barnesandnoble.com/)
+- [Books-A-Million](https://www.booksamillion.com/)
 - [FAKKU](https://www.fakku.net/)
-- [honto](https://honto.jp/)
+- [honto](https://honto.jp/) :cjp:
 - [InStockTrades](https://www.instocktrades.com/)
-- [Mangaoh](https://www.mangaoh.co.jp/)
+- [Mangaoh](https://www.mangaoh.co.jp/) :cjp:
 - [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [Waterstones](https://www.waterstones.com/)
+- [Yen Press](https://yenpress.com/)
 
 == Figures / Merch
 
@@ -178,10 +180,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 == Digital Music
 
 - [Bandcamp](https://bandcamp.com/)
-- [Mora](https://mora.jp/)
-- [Ototoy](https://ototoy.jp/)
+- [Mora](https://mora.jp/) :cjp:
+- [Ototoy](https://ototoy.jp/) :cjp:
 - [Qobuz](https://www.qobuz.com/us-en/shop)
-- [Recochoku](https://recochoku.jp/)
+- [Recochoku](https://recochoku.jp/) :cjp:
 - [YESASIA](https://www.yesasia.com/global/en/home.html)
 
 :::
