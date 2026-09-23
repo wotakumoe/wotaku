@@ -157,10 +157,20 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [FAKKU](https://www.fakku.net/)
 - [honto](https://honto.jp/) :cjp:
 - [InStockTrades](https://www.instocktrades.com/)
+- [Kinokuniya](https://www.kinokuniya.com/)
 - [Mangaoh](https://www.mangaoh.co.jp/) :cjp:
 - [VIZ Shop](https://shop.viz.com/) ||SFW||
 - [Waterstones](https://www.waterstones.com/)
 - [Yen Press](https://yenpress.com/)
+
+== Digital Music
+
+- [Bandcamp](https://bandcamp.com/)
+- [Mora](https://mora.jp/) :cjp:
+- [Ototoy](https://ototoy.jp/) :cjp:
+- [Qobuz](https://www.qobuz.com/us-en/shop)
+- [Recochoku](https://recochoku.jp/) :cjp:
+- [YESASIA](https://www.yesasia.com/global/en/home.html)
 
 == Figures / Merch
 
@@ -176,15 +186,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Nin-Nin Game](https://www.nin-nin-game.com/en/)
 - [Otaku Mode](https://otakumode.com/) ||SFW||
 - [Show.Z Store](https://showzstore.com/)
-
-== Digital Music
-
-- [Bandcamp](https://bandcamp.com/)
-- [Mora](https://mora.jp/) :cjp:
-- [Ototoy](https://ototoy.jp/) :cjp:
-- [Qobuz](https://www.qobuz.com/us-en/shop)
-- [Recochoku](https://recochoku.jp/) :cjp:
-- [YESASIA](https://www.yesasia.com/global/en/home.html)
 
 :::
 
