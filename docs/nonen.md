@@ -500,7 +500,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Anime** | [AniBunker](https://www.anibunker.com/) |
 | ^^ | [AnimeFire](https://animefire.plus/) |
 | ^^ | [CXTv](https://www.cxtv.com.br/) ||TV|| |
-| ^^ | [Geekdot](https://geekdot.live/) ||TV|| |
 | ^^ | [Goyabu](https://goyabu.io/inicio-2) |
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
 | ^^ | [Muito Hentai](https://www.muitohentai.com/) :ero: |
