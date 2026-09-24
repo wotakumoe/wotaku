@@ -53,7 +53,7 @@ og:
 |  Eyecatch  | The animated sequence before the ad break or the end of the first part. It's generally a still frame. [Example](https://www.youtube.com/watch?v=vIZf2qfXeSI)  |
 | Insert song | A song or musical piece that occurs within the body of the anime. [Example](https://www.youtube.com/watch?v=1_PWdjym25g) |
 |  ED |   The ending sequence of the anime.  |
-|  Mixed ED  |  Same as Mixed OP but for ED. [Chainsaw-man Ep 12](https://www.youtube.com/watch?v=2ikL1vGhMLw) & [Relife Ep 13](https://animethemes.moe/anime/relife/ED13-NCBD1080)  |
+|  Mixed ED  |  Same as Mixed OP but for ED. [Chainsaw-man Ep 12](https://www.youtube.com/watch?v=2ikL1vGhMLw) & [Relife Ep 13](https://www.youtube.com/watch?v=CuVdPQECu5A)  |
 |  Omake  |   An extra portion of the episode. Generally a filler. [Example](https://www.youtube.com/watch?v=Dtu_1bzSmL8)   |
 |  Preview  |   Shows a glimpse of the next episode which is generally an action sequence. This is also used as PV.   |
 
