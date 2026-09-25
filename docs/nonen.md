@@ -223,7 +223,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc: |
 | ^^ | [Mangadraft](https://www.mangadraft.com/) |
 | ^^ | [Planete-BD](https://planete-bd.org/) |
-| ^^ | [Raijin Scans](https://raijin-scans.fr/) |
 | ^^ | [Sushi-Scan](https://sushiscan.net/) |
 | **Others** | [Hyakanime](https://hyakanime.fr/) |
 | ^^ | [Nautiljon](https://www.nautiljon.com/) |
@@ -323,7 +322,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Megaheya](https://mangaheya.net/) :acc: |
 | ^^ | [Mynimeku](https://www.mynimeku.com/) |
 | ^^ | [NekoPoi](https://nekopoi.care/) :ero: |
-| ^^ | [Otaku Desu](https://otakudesu.cloud/) |
 | ^^ | [Samehadaku](https://v2.samehadaku.how/) [:prx:](https://samehadaku.care/) |
 | **DDL** | [Kusonime](https://kusonime.com/) |
 | ^^ | [Meownime](https://meownime.ltd/) |
@@ -457,12 +455,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [MoneyToon](https://mtoon155.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee116.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
-| ^^ | [TOONKOR](https://tkor155.com/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
+| ^^ | [TOONKOR](https://toonkor0.org/%EC%9B%B9%ED%88%B0) [:prx:](https://korsite.net/) |
 | ^^ | [Wolf](https://wfwf492.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [Wolf 2](https://wftoon227.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [WToon](https://wtwt335.com/) [:prx:](https://xn--ph1bph0az41x.com/) |
 | ^^ | [YaToon](https://yatoon252.asia/) [:tg:](https://t.me/yatoonlink) |
-| **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://i.wotaku.wiki/p/proxy#annie24) |
+| **Anime** | [Annie24](https://ohli24.net/) [:prx:](https://korsite.net/) |
 | ^^ | [Anissia](https://anissia.net/) |
 
 
@@ -684,7 +682,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyenwk.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenbw.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [HentaiVN](https://hentaivn.show/) |
 | **Novels** | [Hako](https://docln.net/) |
