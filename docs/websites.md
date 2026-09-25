@@ -355,7 +355,7 @@ Some content may not be available depending on your region.
 
 - [JustWatch](https://www.justwatch.com/) :s: [||JP||](https://www.justwatch.com/jp)
 - [FlixHop](https://flixhop.com/)
-- [uNoGS](http://unogs.com/)
+- [uNoGS](https://unogs.com/)
 
 </collapsible>
 
