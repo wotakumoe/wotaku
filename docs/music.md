@@ -94,8 +94,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Format | Website | Type | Host |
 |-|-|-|-|
-| **FLAC + MP3** | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) | :mag: | :no: |
-| ^^ | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: [:prx:](https://i.wotaku.wiki/p/proxy#sitting-on-clouds) | :ddl: | :sm::smf: |
+| **FLAC + MP3** | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== | :mag: | :no: |
+| ^^ | [Sitting on Clouds](https://www.sittingonclouds.net/) :s: ==m:sitting-on-clouds== | :ddl: | :sm::smf: |
 | ^^ | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | **MP3** | [Nipponsei](https://nipponsei.minglong.org/tracker/) | :mag: | :no: |
 | ^^ | [OS Anime](https://osanime.com/) | :ddl: | own |
@@ -127,8 +127,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Type | Host |
 |-|-|-|
-| [Nyaa](https://nyaa.si/) [:prx:](https://i.wotaku.wiki/p/nyaa) | :mag: | :no: |
-| [Sitting on Clouds](https://www.sittingonclouds.net/) [:prx:](https://i.wotaku.wiki/p/proxy#sitting-on-clouds) | :ddl: | :sm::smf: |
+| [Nyaa](https://nyaa.si/) ==m:nyaa== | :mag: | :no: |
+| [Sitting on Clouds](https://www.sittingonclouds.net/) ==m:sitting-on-clouds== | :ddl: | :sm::smf: |
 | [SquidBoard](https://www.squid-board.org/) :acc: | :ddl: | :sgd::sm::smf: |
 | [HCS VGM Archive](https://vgm.hcs64.com/) | :ddl: | own |
 | [VGM Preservation Foundation](https://www.vgmpf.com/Wiki/index.php) | :ddl: | own |
@@ -139,7 +139,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Website | Type | Host |
 |-|-|-|
 | [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | :no: |
-| [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) | :ddl: | :host: |
+| [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: ==m:asia-media-blog== | :ddl: | :host: |
 | [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
 
 :::

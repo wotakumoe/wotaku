@@ -17,7 +17,7 @@ og:
 
 == Anime
 - [AmateurSubs](https://amateursubs.com/) :ddl: [||Nyaa||](https://sukebei.nyaa.si/user/denis18312)
-- [Anibd](https://anibd.app/anime-seasontype/ani16/) [:prx:](https://i.wotaku.wiki/p/proxy#anibd)
+- [Anibd](https://anibd.app/anime-seasontype/ani16/) ==m:anibd==
 - [Hanime](https://hanime.tv/home) :hd:
 - [Hanime1](https://hanime1.me/) :ljp::lcn:
 - [Hentai.tv](https://hentai.tv/)
@@ -45,7 +45,7 @@ og:
 - [Akuma](https://akuma.moe/) ==EHclone==
 - [HDoujin](https://hdoujin.org/) :s: ==HDoujin==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
-- [IMHentai](https://imhentai.xxx/) [:prx:](https://i.wotaku.wiki/p/proxy#imhentai) ==IMHentai==
+- [IMHentai](https://imhentai.xxx/) ==m:imhentai== ==IMHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
 - [Schale Network](https://shupogaki.moe/) :s: [:alt:](https://niyaniya.moe/) ==SchaleNetwork==
@@ -170,7 +170,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 
 
 - [Anime-Sharing](https://www.anime-sharing.com/) :acc:
-- [Asia Media Blog](https://asiamediablog.com/media/game/) :host: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog)
+- [Asia Media Blog](https://asiamediablog.com/media/game/) :host: ==m:asia-media-blog==
 - [CPG Repacks](https://cpgrepacks.site)
 - [Craneanime](https://blog.craneanime.xyz/)
 - [Eroge Download](https://erogedownload.com/)
@@ -226,10 +226,10 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | ^^ | [ProjectJav](https://projectjav.com/) |
 | ^^ | [Sukebei](https://sukebei.nyaa.si/?c=2_2) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/?cat=15) [:alt:](https://tokyo-tosho.net/?cat=15) |
-| **Others** | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
+| **Others** | [Asia Media Blog](https://asiamediablog.com/media/idol/) :host: ==m:asia-media-blog== |
 | ^^ | [Gravure Princess](https://idol.gravureprincess.date/) |
 | ^^ | [Mabui Onna](https://mabui-onna.com/) |
-| ^^ | [X-IDOL](https://x-idol.net/) [:prx:](https://i.wotaku.wiki/p/proxy#x-idol) |
+| ^^ | [X-IDOL](https://x-idol.net/) ==m:x-idol== |
 | ^^ | :rd: [Japanese DDL](/nonen#direct) |
 
 == Scripts

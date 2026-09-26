@@ -24,6 +24,12 @@ function getFaviconManifest() {
   return faviconManifestPromise
 }
 
+export async function resolveFaviconUrl(domain: string): Promise<string | null> {
+  const icons = await getFaviconManifest()
+  const path = icons[domain.toLowerCase()]
+  return path ? `${FAVICON_BASE_URL}${path}` : null
+}
+
 function showGlobeFallback(el: HTMLElement) {
   const span = document.createElement('span')
   span.className = 'wk-favicon wk-favicon-fallback i-lucide:globe'

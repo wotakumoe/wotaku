@@ -7,6 +7,7 @@ import Fb from './components/Fb.vue'
 import Feedback from './components/Feedback.vue'
 import Highlight from './components/Highlight.vue'
 import LinkInline from './components/LinkInline.vue'
+import MirrorTooltip from './components/MirrorTooltip.vue'
 import ScrapeTable from './components/ScrapeTable.vue'
 import Tooltip from './components/Tooltip.vue'
 
@@ -16,6 +17,7 @@ export function registerGlobalComponents(app: App) {
   app.component('Block', Block)
   app.component('Authors', Authors)
   app.component('Tooltip', Tooltip)
+  app.component('MirrorTooltip', MirrorTooltip)
   app.component('Feedback', Feedback)
   app.component('fb', Fb)
   app.component('Collapsible', Collapsible)

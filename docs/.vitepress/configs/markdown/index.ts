@@ -14,6 +14,7 @@ import { imgLazyload } from '@mdit/plugin-img-lazyload'
 import { imgSize } from '@mdit/plugin-img-size'
 import MdReg from 'markdown-it-regexp'
 import type { MarkdownRenderer } from 'vitepress'
+import { getMirror } from '../../utils/mirrors'
 import {
   getCollapsibleHeadingAnchor,
   getTabAnchor,
@@ -48,6 +49,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
     aotolabel: true
   })
   md.use(attrs)
+  renderMirrorTooltip(md)
   renderTooltip(md)
   renderInlineTooltip(md)
   md.use(markdownSteps)
@@ -68,6 +70,29 @@ function renderInlineTooltip(md: MarkdownRenderer) {
         md.renderInline(hint) +
         '</template></VTooltip>'
     )
+  )
+}
+
+function renderMirrorTooltip(md: MarkdownRenderer) {
+  md.use(
+    MdReg(/==m:(.+?)==/, ([, cont]: string[]) => {
+      const id = cont.trim()
+
+      if (/^https?:\/\/\S+$/i.test(id)) {
+        const safeUrl = id.replace(/"/g, '&quot;')
+        return `<a href="${safeUrl}" target="_blank" rel="noopener noreferrer"><span class="icon-tip" data-tip="Mirrors" tabindex="-1"><span class="i-material-symbols-directions-alt"></span></span></a>`
+      }
+
+      const item = getMirror(id)
+      if (!item) return `No mirror found for ${id}`
+
+      const title = (item.title || item.id).replace(/"/g, '&quot;')
+      const src = (item.src || '').replace(/"/g, '&quot;')
+      const note = (item.note || '').replace(/"/g, '&quot;')
+      const mirrorsAttr = JSON.stringify(item.mirrors).replace(/'/g, '&#39;')
+
+      return `<MirrorTooltip id="${id}" title="${title}" src="${src}" note="${note}" note-type="${item.noteType}" mirrors='${mirrorsAttr}' />`
+    })
   )
 }
 
