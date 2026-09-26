@@ -114,7 +114,8 @@ og:
 - [EPUB.moe](https://epub.moe/)
 - [Japanese Learner's Anthology](https://nyaa.si/?q=PeepoHappyBooks) :mag:
 - [lolibrary index](https://lolibrary.moe/)
-- [TMW eBook Collection](https://nyaa.si/?q=TMW+eBook) :mag:
+- [Moe Library](https://books.moelibrary.cc/)
+- [TMW eBook Collection](https://nyaa.si/?q=TMW+EPUB) :mag:
 
 == Easy Reading
 - [NHK News Web Easy](https://news.web.nhk/news/easy/)
