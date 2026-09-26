@@ -57,9 +57,7 @@ function isDelimiterRow(line: string): boolean {
 
 const isMoreMarker = (line: string) => /^<more\s*\/?>$/i.test(line.trim())
 
-// Find `<more>` table blocks and their `data-table-more` anchors in
-// document order, mirroring tableMorePlugin: the marker must directly
-// follow a (delimiter-row) table and hidden rows must follow the marker.
+// Find `data-table-more` anchors in document order (mirrors tableMorePlugin).
 function findTableMoreBlocks(lines: string[]): TableMoreBlock[] {
   const blocks: TableMoreBlock[] = []
   const n = lines.length
@@ -71,7 +69,7 @@ function findTableMoreBlocks(lines: string[]): TableMoreBlock[] {
       i++
       continue
     }
-    // Walk back over blanks: must sit directly after a table run.
+    // Marker must directly follow a table run.
     let t = i - 1
     while (t >= 0 && lines[t].trim() === '') t--
     if (t < 0 || !isPipeLine(lines[t])) {
@@ -91,7 +89,7 @@ function findTableMoreBlocks(lines: string[]): TableMoreBlock[] {
       i++
       continue
     }
-    // Hidden rows after the marker: bare pipe lines or a full table.
+    // Hidden rows: bare pipe lines or a full table.
     let h = i + 1
     while (h < n && lines[h].trim() === '') h++
     let hiddenEnd = -1
@@ -99,7 +97,7 @@ function findTableMoreBlocks(lines: string[]): TableMoreBlock[] {
       if (
         h + 1 < n && isPipeLine(lines[h + 1]) && isDelimiterRow(lines[h + 1])
       ) {
-        // Full second table: needs at least one body row.
+        // Full second table needs a body row.
         if (h + 2 < n && isPipeLine(lines[h + 2])) {
           let e = h + 2
           while (e + 1 < n && isPipeLine(lines[e + 1])) e++
@@ -153,7 +151,7 @@ function extractSearchMetadataFromMarkdown(
 
   const getMirrorUrls = (id: string) => {
     if (mirrorCache.has(id)) return mirrorCache.get(id)
-    // Direct URL form: ==m:https://example.com/== (no mirror file needed)
+    // Direct URL form needs no mirror file.
     if (/^https?:\/\/\S+$/i.test(id)) {
       let title = id
       try {
@@ -254,9 +252,7 @@ function extractSearchMetadataFromMarkdown(
   const getTabsDepth = () =>
     containerStack.filter((name) => name === 'tabs').length
 
-  // Mirror-part-1 helper: table-more (`<more>`) blocks in document order.
-  // Anchor numbers must match the renderer's `data-table-more` counter,
-  // which stamps qualifying blocks sequentially in a single page render.
+  // Anchors must match the renderer `data-table-more` counter.
   const tableMoreBlocks = findTableMoreBlocks(lines)
 
   const tablesForLine = (idx: number): string[] => {
@@ -362,8 +358,7 @@ function extractSearchMetadataFromMarkdown(
         tabPath[depth - 1] = anchor
         tabPath.length = depth
 
-        // The markdown renderer injects a hidden H3 for each tab label.
-        // Mirror that heading so search can deep-link to the selected tab.
+        // Mirror injected tab headings for deep-linking.
         setHeading(2, parsed.label, headingAnchor)
       }
       continue
@@ -387,9 +382,7 @@ function extractSearchMetadataFromMarkdown(
         nextLine++
       }
 
-      // The markdown renderer injects searchable headings for collapsibles
-      // that don't already start with a heading. Mirror that anchor so URL
-      // search can deep-link into and auto-open those collapsibles.
+      // Mirror injected collapsible headings for deep-linking.
       if (!/^#{1,6}\s+/.test(lines[nextLine]?.trim() ?? '')) {
         setHeading(
           containerStack.includes('tabs') ? 3 : 2,
@@ -433,9 +426,13 @@ function extractSearchMetadataFromMarkdown(
       const mirror = getMirrorUrls(id)
       if (!mirror) continue
       const label = getMirrorMainLabel(line, mirror.title)
+      const srcNorm = mirror.src.trim()
       for (const href of [mirror.src, ...mirror.mirrors]) {
         if (!href) continue
-        pushLink(href.trim(), label, i, { mirror: id })
+        const h = href.trim()
+        // File src is the normal link; only mirrors get flagged.
+        const isMainSrc = mirror.mirrors.length > 0 && h === srcNorm
+        pushLink(h, label, i, isMainSrc ? undefined : { mirror: id })
       }
     }
   }
