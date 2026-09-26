@@ -14,7 +14,7 @@ og:
 
 | Category   | Websites |
 |------------|----------|
-| General    | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
+| General    | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== |
 | ^^         | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
 | Anime      | [AniRena](https://www.anirena.com/) |
 | ^^         | [nekoBT](https://nekobt.to/) |

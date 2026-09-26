@@ -46,10 +46,10 @@ og:
 | Category | Websites |
 | :--- | :--- |
 | **General** | [Anisub](https://anisub.tv/) |
-| ^^ | [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh) |
+| ^^ | [Kisskh](https://kisskh.co/) :hd: ==m:kisskh== |
 | **Anime** | [Bettermelon](https://bettermelon.ru/) |
 | ^^ | [JP Classics](https://animation.filmarchives.jp/index.html) :hd: |
-| **Live Action** | [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd: [:prx:](https://asiaflix.xyz/) |
+| **Live Action** | [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd: ==m:https://asiaflix.xyz/== |
 | ^^ | [OneTouch TV](https://onetouchtv.xyz/) :hd: |
 | ^^ | [Kodasusaka](https://kodasusaka.com/) |
 | ^^ | [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub|| |
@@ -58,7 +58,7 @@ og:
 
 | Category | Websites |
 | :--- | :--- |
-| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?c=1_0&q=%E6%97%A5</tooltip> |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?c=1_0&q=%E6%97%A5</tooltip> |
 | ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
 | **Direct** :ddl: | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) |
@@ -100,7 +100,7 @@ og:
 ::: tabs
 
 == General
-- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
+- [Nyaa](https://nyaa.si/) :mag: ==m:nyaa==
 
 == Manga
 - [Bilingual Manga](https://bilingualmanga.org/) :s: [||Backup||](https://github.com/B-M-dev/Bilingual_Manga-home-)
@@ -138,7 +138,7 @@ og:
 ::: tabs
 
 == Audiobooks
-- [Nyaa.si](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
+- [Nyaa.si](https://nyaa.si/) :s::mag: ==m:nyaa==
 - [TMW Audiobook Collection](https://nyaa.si/?q=TMW+Audiobook) :mag: [||Index||](https://coreaudio.netlify.app/)
 - [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)

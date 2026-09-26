@@ -25,19 +25,19 @@ outline: 2
 |----------|-------|----------|-----|
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
-| [Re:ANIME](https://reanime.to/home) [:prx:](https://reindex.to/) ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to/== ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 
 <more>
 
-| [Anibd](https://anibd.app/) [:prx:](https://i.wotaku.wiki/p/proxy#anibd) | :yes: | :no: | :oc: |
+| [Anibd](https://anibd.app/) ==m:anibd== | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
 | [AniLight](https://anilight.live/) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [AnimeX](https://animex.one/home) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
 | [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
-| [Miruro](https://www.miruro.to/) :scrpr: [:prx:](https://www.miruro.com) | :yes: | :sync::msync: | :cc::oc: |
+| [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | :yes: | :sync::msync: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) | :yes: | :msync: | :oc: |
 
 == Donghua
@@ -60,17 +60,17 @@ outline: 2
 
 | Category | Websites |
 | :--- | :--- |
-| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== |
 | ^^ | [AniRena](https://www.anirena.com/) |
 | ^^ | [nekoBT](https://nekobt.to/) |
 | ^^ | [Shana Project](https://www.shanaproject.com/) |
 | ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
 | ^^ | [TsukiHime](https://tsukihime.org/) :ddl::usnt::cc: |
-| **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) [:prx:](https://i.wotaku.wiki/p/proxy#tokyo-insider) |
+| **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) ==m:tokyo-insider== |
 | ^^ | [ChauThanh](https://chauthanh.info/) :acc: |
 | **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
-| ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
+| ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) ==m:asia-media-blog== |
 | ^^ | [urajp](https://urajp.se/) |
 | **Dubtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) :ded: |
 
@@ -168,10 +168,10 @@ Some content may not be available depending on your region.
 
 == Download
 
-- [Nyaa](https://nyaa.si/) :s::mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
+- [Nyaa](https://nyaa.si/) :s::mag: ==m:nyaa==
 - [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
-- [Library Genesis+](https://libgen.li/) [:prx:](https://open-slum.org/)
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org/== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org/==
 - [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [Internet Archive](https://archive.org/)
@@ -267,9 +267,9 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [JNovel Codex](https://jnovelcodex.web.app/index.html)
 - [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha==
 - [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
-- [Library Genesis+](https://libgen.li/) [:prx:](https://open-slum.org/)
-- [Z-Library](https://z-lib.sk/) [:prx:](https://open-slum.org/)
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org/== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org/==
+- [Z-Library](https://z-lib.sk/) ==m:https://open-slum.org/==
 
 == Legal
 
@@ -292,19 +292,19 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 == Online
 
-- [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
-- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
+- [Asiaflix](https://asiaflix.net/) :hd: ==m:https://asiaflix.xyz/==
+- [Kisskh](https://kisskh.co/) :hd: ==m:kisskh==
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Cinecat](https://cinecat.eu/)
-- [Aether](https://aether.ist/) [:prx:](https://rentry.co/aetherdomains)
+- [Aether](https://aether.ist/) ==m:https://rentry.co/aetherdomains==
 - :rd: [JP learning focused](/japan/immersion#watching)
 
 == Download
 
 | Category | Websites |
 | :--- | :--- |
-| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: [:prx:](https://i.wotaku.wiki/p/nyaa) |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== |
 | ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
 | ^^ | [EXT Torrents](https://ext.to/) [:alt:](https://extto.com/) |
 | **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect) [:js:](https://greasyfork.org/en/scripts/585901) |
@@ -314,7 +314,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
 | **JP Sites** :host: | [JPFiles](https://jpfiles.net/) |
 | ^^ | [AnimeRSS](https://animerss.com/) |
-| ^^ | [Asia Media Blog](https://asiamediablog.com/) [:prx:](https://i.wotaku.wiki/p/proxy#asia-media-blog) |
+| ^^ | [Asia Media Blog](https://asiamediablog.com/) ==m:asia-media-blog== |
 | ^^ | [urajp](https://urajp.se/) |
 
 == Info / DB
@@ -368,15 +368,15 @@ Some content may not be available depending on your region.
 
 == Online
 
-- [Asiaflix](https://asiaflix.net/) :hd: [:prx:](https://asiaflix.xyz/)
-- [Kisskh](https://kisskh.co/) :hd: [:prx:](https://i.wotaku.wiki/p/proxy#kisskh)
+- [Asiaflix](https://asiaflix.net/) :hd: ==m:https://asiaflix.xyz/==
+- [Kisskh](https://kisskh.co/) :hd: ==m:kisskh==
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 
 == Download
 
 - [Zekozimo](https://zekozimo.blogspot.com/) :s: ||General||
 - [KRDL](https://krdl.moe/) :s:
-- [Nyaa](https://nyaa.si/) :mag: [:prx:](https://i.wotaku.wiki/p/nyaa)
+- [Nyaa](https://nyaa.si/) :mag: ==m:nyaa==
 - [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/r46CFUEBNu)
 - [Bereke Scrubs](https://berekescrubs.wordpress.com/)
 - [Megabeast Empire](https://megabeastempire.wordpress.com/)
@@ -439,12 +439,12 @@ Some content may not be available depending on your region.
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
 == Download
-- [Anna's Archive](https://annas-archive.gl/) [:prx:](https://open-slum.org/) [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org/== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
 - [ComicsCodes](https://comics.codes/)
 - [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [GetComics](https://getcomics.org/) :s:
-- [Library Genesis+](https://libgen.li/) [:prx:](https://open-slum.org/)
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org/==
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) ||Vintage||
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
