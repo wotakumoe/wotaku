@@ -18,7 +18,7 @@ og:
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to/== ==ReANIME== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
-| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: |
+| [Animotvslash](https://www.animotvslash.org/) [:prx:](https://animotv.ru/) | :yes: | :no: |
 | [Anime-Dunya](https://anime-dunya.com/en) :hd: | :yes: | :no: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) :hd: | :yes: | :msync: |
 
