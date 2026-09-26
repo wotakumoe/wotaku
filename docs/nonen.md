@@ -17,8 +17,8 @@ og:
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | :yes: | :no: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
 | [Anime-Dunya](https://anime-dunya.com/en) :hd: | :yes: | :no: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) :hd: | :yes: | :msync: |
 
@@ -390,7 +390,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [RAW 1001](https://raw1001.net/home) ==m:raw1001==
 - [RawBaka](https://rawbaka.site/)
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.pics/)
+- [Raw FREE](https://rawfree.bid/)
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.locker/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
