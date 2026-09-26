@@ -27,6 +27,7 @@ outline: 2
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | :yes: | :no: | :cc::oc: |
 
 <more>
 
@@ -36,7 +37,6 @@ outline: 2
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [AnimeX](https://animex.one/home) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
-| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | :yes: | :no: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | :yes: | :sync::msync: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) | :yes: | :msync: | :oc: |
 
