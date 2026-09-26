@@ -49,7 +49,7 @@ og:
 | ^^ | [Kisskh](https://kisskh.co/) :hd: ==m:kisskh== |
 | **Anime** | [Bettermelon](https://bettermelon.ru/) |
 | ^^ | [JP Classics](https://animation.filmarchives.jp/index.html) :hd: |
-| **Live Action** | [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd: ==m:https://asiaflix.xyz/== |
+| **Live Action** | [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd: ==m:https://asiaflix.xyz== |
 | ^^ | [OneTouch TV](https://onetouchtv.xyz/) :hd: |
 | ^^ | [Kodasusaka](https://kodasusaka.com/) |
 | ^^ | [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub|| |

@@ -15,10 +15,10 @@ og:
 |----------|-------|----------|
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to/== ==ReANIME== | :yes: | :sync::ie::msync: |
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: |
-| [Animotvslash](https://www.animotvslash.org/) [:prx:](https://animotv.ru/) | :yes: | :no: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | :yes: | :no: |
 | [Anime-Dunya](https://anime-dunya.com/en) :hd: | :yes: | :no: |
 | [AnimeOnsen](https://www.animeonsen.xyz/) :hd: | :yes: | :msync: |
 
@@ -106,7 +106,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Bimibimi](https://www.bimiacg14.net/) |
 | ^^ | [MoMoVod](https://momovod.app/show/30.html) |
 | ^^ | [XG Cartoon](https://www.xgcartoon.com/) |
-| ^^ | [Yinghuacd](https://www.yinhuadm.cc/) ==m:http://yinhuadm.one/== |
+| ^^ | [Yinghuacd](https://www.yinhuadm.cc/) ==m:http://yinhuadm.one== |
 | **Torrent** | [ACG](https://acg.rip/) |
 | ^^ | [ACGNX](https://share.acgnx.se/) |
 | ^^ | [Anime Garden](https://animes.garden/) |
@@ -209,7 +209,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Anime** | [AnimeKO](https://animeko.ws/) |
-| ^^ | [Anime-Sama](https://anime-sama.to/) ==m:https://anime-sama.pw/== + :len: |
+| ^^ | [Anime-Sama](https://anime-sama.to/) ==m:https://anime-sama.pw== + :len: |
 | ^^ | [Fluneo](https://myfluneo.eu/) |
 | ^^ | [FRAnime](https://franime.fr/) |
 | ^^ | [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai) |
@@ -316,13 +316,13 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| **Stream** | [Anichin](https://z1.anichin.blog/) ==m:https://anichin.bio/== |
+| **Stream** | [Anichin](https://z1.anichin.blog/) ==m:https://anichin.bio== |
 | ^^ | [Kuramanime](https://kuramanime.red/) |
 | ^^ | [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime) |
 | ^^ | [Megaheya](https://mangaheya.net/) :acc: |
 | ^^ | [Mynimeku](https://www.mynimeku.com/) |
 | ^^ | [NekoPoi](https://nekopoi.care/) :ero: |
-| ^^ | [Samehadaku](https://v2.samehadaku.how/) ==m:https://samehadaku.care/== |
+| ^^ | [Samehadaku](https://v2.samehadaku.how/) ==m:https://samehadaku.care== |
 | **DDL** | [Kusonime](https://kusonime.com/) |
 | ^^ | [Meownime](https://meownime.ltd/) |
 | **Info** | [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/) |
@@ -346,7 +346,7 @@ Most apps in [**software**](/software) supports multilingual sources
 ### Websites
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AnimeSaturn](https://www.animesaturn.net/) ==m:https://www.animesaturn.me/== |
+| **Anime** | [AnimeSaturn](https://www.animesaturn.net/) ==m:https://www.animesaturn.me== |
 | ^^ | [AnimeUnity](https://www.animeunity.to/) |
 | ^^ | [AnimeWorld](https://www.animeworld.ac/) |
 | ^^ | [One Piece Power](https://onepiecepower.com/anime18/lista-anime2) |
@@ -448,19 +448,19 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Websites |
 | :--- | :--- |
-| **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com/== |
+| **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [FreeToon](https://foc129.asia/) [:tg:](https://t.me/foclink) |
-| ^^ | [Funbe](https://funbe677.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net/== |
+| ^^ | [Funbe](https://funbe677.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon005.com/) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon155.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee117.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
-| ^^ | [TOONKOR](https://toonkor0.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net/== |
-| ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com/== |
-| ^^ | [Wolf 2](https://wftoon227.com/) ==m:https://xn--ph1bph0az41x.com/== |
-| ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com/== |
+| ^^ | [TOONKOR](https://toonkor0.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
+| ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |
+| ^^ | [Wolf 2](https://wftoon227.com/) ==m:https://xn--ph1bph0az41x.com== |
+| ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [YaToon](https://yatoon252.asia/) [:tg:](https://t.me/yatoonlink) |
-| **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net/== |
+| **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 
 

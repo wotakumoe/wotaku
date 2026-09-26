@@ -25,7 +25,7 @@ outline: 2
 |----------|-------|----------|-----|
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to/== ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 
 <more>
@@ -36,7 +36,7 @@ outline: 2
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [AnimeX](https://animex.one/home) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
-| [Animotvslash](https://www.animotvslash.org/) [:prx:](https://animotv.ru/) | :yes: | :no: | :cc::oc: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | :yes: | :no: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | :yes: | :sync::msync: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) | :yes: | :msync: | :oc: |
 
@@ -170,8 +170,8 @@ Some content may not be available depending on your region.
 
 - [Nyaa](https://nyaa.si/) :s::mag: ==m:nyaa==
 - [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org/== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
-- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org/==
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org==
 - [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [Internet Archive](https://archive.org/)
@@ -267,9 +267,9 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [JNovel Codex](https://jnovelcodex.web.app/index.html)
 - [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha==
 - [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami)
-- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org/== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
-- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org/==
-- [Z-Library](https://z-lib.sk/) ==m:https://open-slum.org/==
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org==
+- [Z-Library](https://z-lib.sk/) ==m:https://open-slum.org==
 
 == Legal
 
@@ -292,7 +292,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 == Online
 
-- [Asiaflix](https://asiaflix.net/) :hd: ==m:https://asiaflix.xyz/==
+- [Asiaflix](https://asiaflix.net/) :hd: ==m:https://asiaflix.xyz==
 - [Kisskh](https://kisskh.co/) :hd: ==m:kisskh==
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
@@ -368,7 +368,7 @@ Some content may not be available depending on your region.
 
 == Online
 
-- [Asiaflix](https://asiaflix.net/) :hd: ==m:https://asiaflix.xyz/==
+- [Asiaflix](https://asiaflix.net/) :hd: ==m:https://asiaflix.xyz==
 - [Kisskh](https://kisskh.co/) :hd: ==m:kisskh==
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 
@@ -439,12 +439,12 @@ Some content may not be available depending on your region.
 - [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
 
 == Download
-- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org/== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
 - [ComicsCodes](https://comics.codes/)
 - [Desuarchive](https://desuarchive.org/) :f:
 - :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
 - [GetComics](https://getcomics.org/) :s:
-- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org/==
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org==
 - [Old Comics World](https://oldcomicsworld.blogspot.com/) ||Vintage||
 - [TheLongbox](https://thelongbox.net/) :host::acc:
 
