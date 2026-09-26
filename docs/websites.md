@@ -36,7 +36,7 @@ outline: 2
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [AnimeX](https://animex.one/home) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
-| [Animotvslash](https://www.animotvslash.org/) [:alt:](https://animotvslash.nl/home/) | :yes: | :no: | :cc::oc: |
+| [Animotvslash](https://www.animotvslash.org/) [:prx:](https://animotv.ru/) | :yes: | :no: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | :yes: | :sync::msync: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) | :yes: | :msync: | :oc: |
 
