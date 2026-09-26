@@ -1,4 +1,5 @@
-import { writeFileSync } from 'node:fs'
+import matter from 'gray-matter'
+import { existsSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { renderEmojiShortcodes } from '../configs/markdown/emoji'
 import {
@@ -54,6 +55,70 @@ function extractSearchMetadataFromMarkdown(
   }[] = []
   let currentAnchor = ''
   let extrepoEntryName: string | null = null
+
+  const mirrorCache = new Map<
+    string,
+    { src: string; mirrors: string[]; title: string } | null
+  >()
+
+  const getMirrorUrls = (id: string) => {
+    if (mirrorCache.has(id)) return mirrorCache.get(id)
+    // Direct URL form: ==m:https://example.com/== (no mirror file needed)
+    if (/^https?:\/\/\S+$/i.test(id)) {
+      let title = id
+      try {
+        title = new URL(id).hostname.replace(/^www\./i, '')
+      } catch {
+        /* keep raw */
+      }
+      const entry = { src: id, mirrors: [] as string[], title }
+      mirrorCache.set(id, entry)
+      return entry
+    }
+    try {
+      const filePath = join(
+        process.cwd(),
+        'docs/.vitepress/mirrors',
+        `${id}.md`
+      )
+      if (!existsSync(filePath)) {
+        mirrorCache.set(id, null)
+        return null
+      }
+      const fileContent = readFileSync(filePath, 'utf-8')
+      const { data, content } = matter(fileContent)
+      const src = typeof data.src === 'string' ? data.src.trim() : ''
+      const title = typeof data.title === 'string' && data.title.trim()
+        ? data.title.trim()
+        : id
+      const urls: string[] = []
+      const seen = new Set<string>()
+      for (const m of content.matchAll(/https?:\/\/[^\s<>"')\]]+/g)) {
+        const url = m[0].replace(/[.,;:!?]+$/, '')
+        if (!seen.has(url) && url !== src) {
+          seen.add(url)
+          urls.push(url)
+        }
+      }
+      const entry = { src, mirrors: urls, title }
+      mirrorCache.set(id, entry)
+      return entry
+    } catch {
+      mirrorCache.set(id, null)
+      return null
+    }
+  }
+
+  const getMirrorMainLabel = (line: string, fallback: string) => {
+    const linkRE = /\[([^\]]*)\]\((https?:\/\/[^)]+)\)/g
+    let m: RegExpExecArray | null
+    while ((m = linkRE.exec(line)) !== null) {
+      const label = m[1].trim()
+      if (!label || /^:.*:$/.test(label)) continue
+      return renderEmojiShortcodes(label)
+    }
+    return fallback
+  }
 
   const body = src.startsWith('---')
     ? src.replace(/^---[\s\S]*?---\n?/, '')
@@ -143,7 +208,9 @@ function extractSearchMetadataFromMarkdown(
       }
     }
 
-    if (containerStack.includes('extrepo') && !containerStack.includes('tabs')) {
+    if (
+      containerStack.includes('extrepo') && !containerStack.includes('tabs')
+    ) {
       const extrepoHeadingMatch = line.match(/^\s*==\s+(.+)$/)
       if (extrepoHeadingMatch) {
         extrepoEntryName = extrepoHeadingMatch[1].trim()
@@ -233,6 +300,20 @@ function extractSearchMetadataFromMarkdown(
     while ((m = bareRE.exec(line)) !== null) {
       const href = m[1].trim()
       pushLink(href, href)
+    }
+
+    const mirrorRE = /==m:(.+?)==/g
+    let pm: RegExpExecArray | null
+    while ((pm = mirrorRE.exec(line)) !== null) {
+      const id = pm[1].trim()
+      if (!id) continue
+      const mirror = getMirrorUrls(id)
+      if (!mirror) continue
+      const label = getMirrorMainLabel(line, mirror.title)
+      for (const href of [mirror.src, ...mirror.mirrors]) {
+        if (!href) continue
+        pushLink(href.trim(), label)
+      }
     }
   }
 
