@@ -39,7 +39,7 @@ import Credits from './.vitepress/theme/components/Contributors.vue'
 | **幾田 (Ikuta)** | [Copy](https://x.com/ikuta41/status/1733423740644684243/) | Default link embed |
 | **konijnsate** | [Moiré vs Non-Moiré Pattern Comparison](https://tips.clip-studio.com/en-us/articles/3489) | [Manga glossary example](/glossary/manga#artist-side) |
 | **幸原ゆゆ (Kouhara Yuyu)** | [ミクさん :ribbon:](https://x.com/k0uhara/status/2065399096417116646) | Miku sidebar art |
-| **megamiceto** | [Brazilian Miku](https://x.com/megamiceto/status/1826372184731955667) | Non-English link embed |
+| **megamiceto** | [Brazilian Miku](https://danbooru.donmai.us/posts/8043386) | Non-English link embed |
 | **neggo** | [extra tips](https://x.com/neggoartz/status/1834776522801971603) | Torrent link embed |
 | **Non** | [おら、この学校さ入るだ。](https://www.pixiv.net/en/artworks/146410560) | Fubuki sidebar art |
 | **queasyS** | [Ishtar and Ereshkigal - FGO](https://www.pixiv.net/en/artworks/112928609) | NSFW link embed |

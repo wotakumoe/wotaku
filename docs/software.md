@@ -133,7 +133,6 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 
 == Anime
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX)
-- [Eclipse](https://apps.apple.com/app/id6779367402) [:src:](https://github.com/Soupy-dev/Eclipse) [:tf:](https://testflight.apple.com/join/FDXvrxVg)
 - [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio)
