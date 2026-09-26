@@ -278,6 +278,8 @@ const filteredUrlResults = computed((): UrlResult[] => {
       anchor: link.anchor,
       titles: link.titles,
       tabs: link.tabs,
+      tables: link.tables,
+      mirror: link.mirror,
       highlighted: highlightUrl(link.href, query)
     })
   }
@@ -1294,7 +1296,7 @@ function navigateToUrlResult(item: UrlResult) {
     [getPageLabel(item.pageId, pageMeta), ...item.titles, item.linkText].map(
       toHistoryPathHtml
     ).filter(Boolean),
-    buildResultHref(item.pageId, item.tabs, item.anchor),
+    buildResultHref(item.pageId, item.tabs, item.anchor, item.tables),
     item.linkText
   )
   window.dispatchEvent(
@@ -1306,7 +1308,7 @@ function navigateToUrlResult(item: UrlResult) {
       }
     })
   )
-  router.go(buildResultHref(item.pageId, item.tabs, item.anchor))
+  router.go(buildResultHref(item.pageId, item.tabs, item.anchor, item.tables))
   showSearch.value = false
 }
 
@@ -1612,6 +1614,17 @@ function onMouseMove(e: MouseEvent) {
                           class="url-path-current"
                           v-html="item.linkText"
                         />
+                        <template v-if="item.mirror">
+                          <ArrowRight
+                            stroke-width="2"
+                            :size="18"
+                            class="mx-0.5"
+                          />
+                          <span
+                            class="i-material-symbols-directions-alt url-mirror-icon"
+                            title="Mirror"
+                          />
+                        </template>
                       </div>
                       <a
                         :href="item.href"
@@ -1995,8 +2008,16 @@ svg {
   color: var(--vp-c-text-2);
 }
 
+.url-mirror-icon {
+  flex: none;
+  width: 18px;
+  height: 18px;
+  color: var(--vp-c-text-3);
+}
+
 .url-link {
   align-self: flex-start;
+  min-width: 0;
   max-width: 100%;
   color: var(--vp-c-text-1);
   font-size: 0.95rem;

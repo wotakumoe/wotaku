@@ -19,6 +19,8 @@ export interface PageLink {
   anchor: string
   titles: string[]
   tabs?: string[]
+  tables?: string[]
+  mirror?: string
 }
 
 export interface TabTarget {
@@ -32,12 +34,100 @@ interface PageSearchMetadata {
   tabTargets: TabTarget[]
 }
 
+interface TableMoreBlock {
+  anchor: string
+  startLine: number
+  endLine: number
+}
+
+const isPipeLine = (line: string) => line.trim().startsWith('|')
+
+function splitTableCells(line: string): string[] {
+  let s = line.trim()
+  if (s.startsWith('|')) s = s.slice(1)
+  if (s.endsWith('|') && !s.endsWith('\\|')) s = s.slice(0, -1)
+  return s.split(/(?<!\\)\|/)
+}
+
+function isDelimiterRow(line: string): boolean {
+  const cells = splitTableCells(line)
+  return cells.length > 0 &&
+    cells.every((cell) => /^:?-+:?$/.test(cell.trim()))
+}
+
+const isMoreMarker = (line: string) => /^<more\s*\/?>$/i.test(line.trim())
+
+// Find `<more>` table blocks and their `data-table-more` anchors in
+// document order, mirroring tableMorePlugin: the marker must directly
+// follow a (delimiter-row) table and hidden rows must follow the marker.
+function findTableMoreBlocks(lines: string[]): TableMoreBlock[] {
+  const blocks: TableMoreBlock[] = []
+  const n = lines.length
+  let count = 0
+  let i = 0
+
+  while (i < n) {
+    if (!isMoreMarker(lines[i])) {
+      i++
+      continue
+    }
+    // Walk back over blanks: must sit directly after a table run.
+    let t = i - 1
+    while (t >= 0 && lines[t].trim() === '') t--
+    if (t < 0 || !isPipeLine(lines[t])) {
+      i++
+      continue
+    }
+    let runStart = t
+    while (runStart - 1 >= 0 && isPipeLine(lines[runStart - 1])) runStart--
+    let hasDelimiter = false
+    for (let k = runStart; k <= t; k++) {
+      if (isDelimiterRow(lines[k])) {
+        hasDelimiter = true
+        break
+      }
+    }
+    if (!hasDelimiter) {
+      i++
+      continue
+    }
+    // Hidden rows after the marker: bare pipe lines or a full table.
+    let h = i + 1
+    while (h < n && lines[h].trim() === '') h++
+    let hiddenEnd = -1
+    if (h < n && isPipeLine(lines[h])) {
+      if (
+        h + 1 < n && isPipeLine(lines[h + 1]) && isDelimiterRow(lines[h + 1])
+      ) {
+        // Full second table: needs at least one body row.
+        if (h + 2 < n && isPipeLine(lines[h + 2])) {
+          let e = h + 2
+          while (e + 1 < n && isPipeLine(lines[e + 1])) e++
+          hiddenEnd = e
+        }
+      } else {
+        let e = h
+        while (e + 1 < n && isPipeLine(lines[e + 1])) e++
+        hiddenEnd = e
+      }
+    }
+    if (hiddenEnd === -1) {
+      i++
+      continue
+    }
+    blocks.push({ anchor: String(count++), startLine: runStart, endLine: hiddenEnd })
+    i = hiddenEnd + 1
+  }
+
+  return blocks
+}
+
 function extractSearchMetadataFromMarkdown(
   src: string,
   pageId: string
 ): PageSearchMetadata {
   const links: PageLink[] = []
-  const seenLinks = new Set<string>()
+  const seenLinks = new Map<string, PageLink>()
   const tabTargets = new Map<string, TabTarget>()
   const headingStack: string[] = []
   const slugCounts = new Map<string, number>()
@@ -164,24 +254,57 @@ function extractSearchMetadataFromMarkdown(
   const getTabsDepth = () =>
     containerStack.filter((name) => name === 'tabs').length
 
-  const pushLink = (href: string, linkText: string) => {
+  // Mirror-part-1 helper: table-more (`<more>`) blocks in document order.
+  // Anchor numbers must match the renderer's `data-table-more` counter,
+  // which stamps qualifying blocks sequentially in a single page render.
+  const tableMoreBlocks = findTableMoreBlocks(lines)
+
+  const tablesForLine = (idx: number): string[] => {
+    const out: string[] = []
+    for (const block of tableMoreBlocks) {
+      if (idx >= block.startLine && idx <= block.endLine) out.push(block.anchor)
+    }
+    return out
+  }
+
+  const pushLink = (
+    href: string,
+    linkText: string,
+    lineIdx: number,
+    extra?: { mirror?: string }
+  ) => {
     const tabs = getCurrentTabPath()
+    const tables = tablesForLine(lineIdx)
     const key = [
       href,
       currentAnchor,
       tabs.join('/')
     ].join('\x00')
-    if (seenLinks.has(key)) return
+    const existing = seenLinks.get(key)
+    if (existing) {
+      if (tables.length) {
+        const merged = [...existing.tables ?? []]
+        for (const anchor of tables) {
+          if (!merged.includes(anchor)) merged.push(anchor)
+        }
+        existing.tables = merged
+      }
+      if (extra?.mirror && !existing.mirror) existing.mirror = extra.mirror
+      return
+    }
 
-    seenLinks.add(key)
-    links.push({
+    const link: PageLink = {
       href,
       linkText,
       pageId,
       anchor: currentAnchor,
       titles: getTitles(),
-      ...(tabs.length ? { tabs } : {})
-    })
+      ...(tabs.length ? { tabs } : {}),
+      ...(tables.length ? { tables } : {}),
+      ...(extra?.mirror ? { mirror: extra.mirror } : {})
+    }
+    seenLinks.set(key, link)
+    links.push(link)
   }
 
   for (let i = 0; i < lines.length; i++) {
@@ -222,7 +345,7 @@ function extractSearchMetadataFromMarkdown(
           /^\s*-\s*(?:url|raw|src|manga|anime|novel)\s*:\s*(\S+)/
         )
         if (fieldMatch) {
-          pushLink(fieldMatch[1].trim(), extrepoEntryName)
+          pushLink(fieldMatch[1].trim(), extrepoEntryName, i)
           continue
         }
       }
@@ -293,13 +416,13 @@ function extractSearchMetadataFromMarkdown(
     const linkRE = /\[([^\]]*)\]\((https?:\/\/[^)]+)\)/g
     let m: RegExpExecArray | null
     while ((m = linkRE.exec(line)) !== null) {
-      pushLink(m[2].trim(), renderEmojiShortcodes(m[1].trim()))
+      pushLink(m[2].trim(), renderEmojiShortcodes(m[1].trim()), i)
     }
 
     const bareRE = /<(https?:\/\/[^>]+)>/g
     while ((m = bareRE.exec(line)) !== null) {
       const href = m[1].trim()
-      pushLink(href, href)
+      pushLink(href, href, i)
     }
 
     const mirrorRE = /==m:(.+?)==/g
@@ -312,7 +435,7 @@ function extractSearchMetadataFromMarkdown(
       const label = getMirrorMainLabel(line, mirror.title)
       for (const href of [mirror.src, ...mirror.mirrors]) {
         if (!href) continue
-        pushLink(href.trim(), label)
+        pushLink(href.trim(), label, i, { mirror: id })
       }
     }
   }
@@ -327,7 +450,7 @@ function getPageId(page: string) {
 }
 
 function getDedupedLinks() {
-  const seen = new Set<string>()
+  const seen = new Map<string, number>()
   const deduped: PageLink[] = []
 
   for (const metadata of collectedByPage.values()) {
@@ -336,10 +459,16 @@ function getDedupedLinks() {
         link.href,
         link.pageId,
         link.anchor,
-        link.tabs?.join('/') ?? ''
+        link.tabs?.join('/') ?? '',
+        link.tables?.join('/') ?? ''
       ].join('\x00')
-      if (seen.has(key)) continue
-      seen.add(key)
+      const idx = seen.get(key)
+      if (idx !== undefined) {
+        // Keep the mirror-tagged entry so the indicator survives.
+        if (link.mirror && !deduped[idx].mirror) deduped[idx] = link
+        continue
+      }
+      seen.set(key, deduped.length)
       deduped.push(link)
     }
   }

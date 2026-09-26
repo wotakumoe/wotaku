@@ -40,6 +40,8 @@ export interface PageGroupCount {
 
 export interface UrlResult {
   tabs?: string[]
+  tables?: string[]
+  mirror?: string
   href: string
   linkText: string
   pageId: string

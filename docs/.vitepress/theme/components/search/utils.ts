@@ -103,7 +103,12 @@ export function getPageOrder(key: string, pageMeta: Map<string, { label: string;
   return pageMeta.get(key)?.order ?? Number.MAX_SAFE_INTEGER
 }
 
-export function buildResultHref(pageId: string, tabs?: string[], anchor = '') {
+export function buildResultHref(
+  pageId: string,
+  tabs?: string[],
+  anchor = '',
+  tables?: string[]
+) {
   const params: string[] = []
   if (tabs?.length) {
     params.push(`t=${tabs.map((tab) => encodeURIComponent(tab)).join(',')}`)
@@ -119,6 +124,10 @@ export function buildResultHref(pageId: string, tabs?: string[], anchor = '') {
     if (anchor && !isRedundantTabHeading) {
       hash = `#${encodeURIComponent(anchor)}`
     }
+  }
+
+  if (tables?.length) {
+    params.push(`m=${tables.map((table) => encodeURIComponent(table)).join(',')}`)
   }
 
   const query = params.length ? `?${params.join('&')}` : ''
