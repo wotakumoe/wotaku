@@ -33,7 +33,6 @@ outline: 2
 
 | [Anibd](https://anibd.app/) ==m:anibd== | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
-| [AniLight](https://anilight.live/) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
 | [AnimeX](https://animex.one/home) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
@@ -150,10 +149,10 @@ Some content may not be available depending on your region.
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.to/) ==Kagane== | 39k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
-| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 92k | :ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
+| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 92k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 45k | :ie::sync: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
 
 <more>
 
