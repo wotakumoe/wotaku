@@ -24,14 +24,12 @@ outline: 2
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | :yes: | :no: | :cc::oc: |
 
 <more>
 
-| [Anibd](https://anibd.app/) ==m:anibd== | :yes: | :no: | :oc: |
 | [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
@@ -150,7 +148,7 @@ Some content may not be available depending on your region.
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.to/) ==Kagane== | 39k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 93k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ps::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
 
