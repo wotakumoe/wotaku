@@ -1,0 +1,2 @@
+- Recent encodes have been pretty decent.
+- Older ones are rather generic and more hit or miss.

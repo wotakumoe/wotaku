@@ -1,0 +1,2 @@
+- Huge library, but really irregular quality.
+- UI is less dire than before.

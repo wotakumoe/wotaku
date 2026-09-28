@@ -1,0 +1,6 @@
+- Estimated and rounded up.
+- Includes all origins (JP/KR/CN).
+- Entries without content have been excluded.
+- In case of different entries for sub and dub, only sub is counted.
+- These stats are not monitored in real time.
+- Will be updated periodically.

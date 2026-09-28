@@ -1,5 +1,5 @@
-- Approximate and rounded up
-- Includes all types of comics
-- Some numbers may be inflated due to doujin & duplicates
-- These stats are not monitored in real time
-- Will be updated occasionally
+- Estimated and rounded up.
+- Includes all types of comics.
+- Some numbers may be inflated due to doujins & duplicates.
+- These stats are not monitored in real time.
+- Will be updated periodically.

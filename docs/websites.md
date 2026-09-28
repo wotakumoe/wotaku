@@ -21,13 +21,13 @@ outline: 2
 
 == Online
 
-| Websites | Library | Login | Tracking | Sub |
-|----------|---------|-------|----------|-----|
+| Websites | Library ==LibraryAni== | Login | Tracking | Sub |
+|----------|------------------------|-------|----------|-----|
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 5.2k | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |  :cc: |
-| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | 2.9k | :yes: | :no: | :cc::oc: |
-| [ani.pm](https://ani.pm/) | 8.9k | :yes: | :sync::ie::msync: | :cc::oc: |
-| [MKissa](https://mkissa.to/anime) | 11.9k | :yes: | :msync: | :oc: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | 2.9k | :yes: | :no: | :cc::oc: |
+| [ani.pm](https://ani.pm/) ==anipm== | 8.9k | :yes: | :sync::ie::msync: | :cc::oc: |
+| [MKissa](https://mkissa.to/anime) ==MKissa== | 11.9k | :yes: | :msync: | :oc: |
 
 <more>
 
