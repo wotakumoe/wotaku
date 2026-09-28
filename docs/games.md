@@ -259,9 +259,9 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 | Type | Simulators |
 |---|---|
-| **Official** | [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/) |
-| ^^ | [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/) |
-| ^^ | [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) ||Companion|| |
+| **Official** | [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/) |
+| ^^ | [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/) |
+| ^^ | :prev: [Yu-Gi-Oh! Neuron](https://www.konami.com/yugioh/neuron/en/) |
 | **Unofficial** | [Dueling Book](https://www.duelingbook.com/) ||Manual|| |
 | ^^ | :prev: [Dungeon Duel Monsters](https://mikaygo.itch.io/ddm) |
 | ^^ | [Dueling Nexus](https://duelingnexus.com/welcome) ||Automatic|| |
