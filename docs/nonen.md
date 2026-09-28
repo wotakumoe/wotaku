@@ -29,6 +29,7 @@ og:
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 93k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
+| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ms: | :ls::lsg: | :no: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 
 ::: tip Apps
@@ -420,7 +421,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
-| [DL-Raw](https://dl-raw.si/) | :yes: | :yes: | :yes: |
+| [DL-Raw](https://dl-raw.si/) ==m:dl-raw== | :yes: | :yes: | :yes: |
 | [DLRaw.net](https://dlraw.tv/category/raw-manga/) ==m:dlraw== | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
@@ -625,7 +626,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [ZeePubs](https://zeepubs.wordpress.com/)
 
 ### News
-- [ANMOSugoi](https://www.anmosugoi.com/)
 - [RamenParaDos](https://ramenparados.com/)
 
 ### Software
@@ -648,8 +648,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Türk Anime TV](https://www.turkanime.tv/) |
 | **Manga** | [Manga-TR](https://manga-tr.com/index.html) |
 | ^^ | [Sadscans](https://sadscans.net/) |
-| **Others** | [AnimeListem](https://animelistesi.com/) |
-| ^^ | [KesifAsya](https://kesifasya.com/) |
+| **Others** | [KesifAsya](https://kesifasya.com/) |
 | ^^ | [Web Drama Turkey](https://webdramaturkey2.com/) |
 
 ## Ukranian

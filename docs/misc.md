@@ -403,7 +403,7 @@ outline: 2
 | **General** | [3x3 Generator](https://gqgs.github.io/3x3-generator/) [:src:](https://github.com/gqgs/3x3-generator/) | :no: | 5x5 |
 | ^^ | [GomiTier](https://www.gomitier.tech/) | :yes: | - |
 | ^^ | [grids.fun](https://grids.fun/) | :yes: | 6x6 |
-| ^^ | [Topsters 3](https://topsters.org/) | :yes: | 12x12 |
+| ^^ | [Topsters 3](https://topsters.org/) :s: | :yes: | 12x12 |
 | **Games** | [My 9 Games](https://my9games.com/) | :no: | 3x3 |
 | ^^ | [Routecard](https://vn-tier-list.vercel.app/) | :yes: | - |
 | **Music** | [My Top 9 Otaku Songs](https://otaku-song.pages.dev/) :ljp: | :no: | 3x3 |
@@ -412,7 +412,7 @@ outline: 2
 - 3x3 Generator : (Anime, AniList & MyAnimeList & Kitsu), (Manga, AniList & MyAnimeList & Kitsu), (Music, LastFM), (Game, RAWG & IGDB), (Visual Novel, VNDB);
 - GomiTier: (Anime, AniList & MyAnimeList), (Manga, AniList & MyAnimeList);
 - Lists.fun : (Anime, MyAnimeList), (Music, MusicBrainZ), (Live Action, TMDB), (Game, IGDB), (Tabletop, BoardGameGeek & Scryfall & Pokeapi);
-- Topsters 3 : (Live Action, TMDB), (Music, LastFM), (Book, Internet Archive), (Game, IGDB);
+- Topsters 3 : (Anime, TMDB), (Manga, Open Library), (Live Action, TMDB), (Music, LastFM), (Book, Internet Archive), (Game, IGDB);
 - My 9 Games : (Game, IGDB);
 - Routecard : (Visual Novel, VNDB);
 - My Top 9 Otaku Songs : (Music, Apple Music);

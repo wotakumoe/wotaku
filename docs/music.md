@@ -108,10 +108,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [DoubleDouble](https://doubledouble.top/) | ^^ |
 | [Lucida](https://lucida.to/) | ^^ |
 | [Squid.wtf](https://squid.wtf/) | ^^ |
-| [Monochrome](https://monochrome.st/) [:src:](https://github.com/monochrome-music/monochrome) | **Amazon** |
 | [am-dl](https://am-dl.pages.dev/) ==am-dl== | **Apple** |
 | [Arcod](https://www.arcod.xyz/) :acc: | **Qobuz** |
-| [Rhythmax](https://tidal-dl.pages.dev/) [:src:](https://github.com/ODSkyler/tidal-proxy) | **Tidal** |
+| [Rhythmax](https://tidal.odskyler.com/) [:src:](https://github.com/ODSkyler/tidal-proxy) | **Tidal** |
 
 == Doujin
 
@@ -162,7 +161,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 == Aggregators
 
 - [FMSTREAM](https://fmstream.org/)
-- [Globe Radio](https://globeradio.app/)
 - [Japanese Radio](https://radio.nogi46.me/)
 - [RadioBrowser](https://www.radio-browser.info/) [:src:](https://gitlab.com/radiobrowser/radiobrowser-web-angular)
 - [Radio Garden](https://radio.garden/)
