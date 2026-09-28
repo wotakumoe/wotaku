@@ -247,6 +247,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 | **FanTL** | [Novel Updates](https://www.novelupdates.com/) |
 | ^^ | [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page) |
 | ^^ | [Ranobes](https://ranobes.top/) |
+| ^^ | [Witch Cult Translations](https://witchculttranslation.com/) |
 | **General** | [Elscione's Library](https://server.elscione.com/) :ddl: [:alt:](https://server.elsci.one/) |
 
 == Nyaa
