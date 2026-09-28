@@ -99,6 +99,11 @@ og:
 - src: https://github.com/paperback-ios/extensions
 - raw: https://paperback-ios.github.io/extensions/main/versioning.json
 
+== Gabe
+- url: https://gabrielcwt.github.io/gabe-extensions/0.8/
+- src: https://github.com/GabrielCWT/gabe-extensions
+- raw: https://raw.githubusercontent.com/GabrielCWT/gabe-extensions/refs/heads/gh-pages/0.8/versioning.json
+
 == Ivan
 - url: https://ivanmatthew.github.io/ivans-paperback-extensions/paperback-0.8/
 - src: https://github.com/ivanmatthew/ivans-paperback-extensions
