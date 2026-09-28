@@ -24,6 +24,7 @@ outline: 2
 | Websites | Login | Tracking | Sub |
 |----------|-------|----------|-----|
 | [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | :yes: | :no: | :cc::oc: |
