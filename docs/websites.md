@@ -159,9 +159,9 @@ Some content may not be available depending on your region.
 | [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 78k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [XComic](https://xcomic.me/) ==XComic== | 94k | :no: | :ms: | :ls::lsg: | :no: |
 | [MangaK](https://mangak.io/home) | 40k | :no: | :ss: | :sp::ls: | :cmnt: |
-| [MangaFire](https://mangafire.to/) ==m:xcomic== ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
+| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ms: | :ls::lsg: | :no: |
+| [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 90k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
 
