@@ -21,23 +21,23 @@ outline: 2
 
 == Online
 
-| Websites | Login | Tracking | Sub |
-|----------|-------|----------|-----|
-| [KickassAnime](https://kaa.lt/) ==KAA== | :yes: | :msync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | :yes: | :no: |  :cc: |
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | :yes: | :sync::ie::msync: | :cc: |
-| [AniZone](https://anizone.to/) ==AniZone== | :no: | :msync: | :cc: |
-| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | :yes: | :no: | :cc::oc: |
+| Websites | Library | Login | Tracking | Sub |
+|----------|---------|-------|----------|-----|
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 5.2k | :yes: | :sync::ie::msync: | :cc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |  :cc: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== | 2.9k | :yes: | :no: | :cc::oc: |
+| [ani.pm](https://ani.pm/) | 8.9k | :yes: | :sync::ie::msync: | :cc::oc: |
+| [MKissa](https://mkissa.to/anime) | 11.9k | :yes: | :msync: | :oc: |
 
 <more>
 
-| [ani.pm](https://ani.pm/) | :yes: | :sync::ie::msync: | :cc::oc: |
-| [AniHQ](https://anihq.cc/home/) | :yes: | :no: | :oc: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | :yes: | :sync::ie::msync: | :cc: |
-| [AnimePahe](https://animepahe.pw/) ==Animepahe== | :no: | :msync: | :oc: |
-| [AnimeX](https://animex.one/home) :scrpr: | :yes: | :sync::ie: | :cc::oc: |
-| [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | :yes: | :sync::msync: | :cc::oc: |
-| [MKissa](https://mkissa.to/anime) | :yes: | :msync: | :oc: |
+| [AniHQ](https://anihq.cc/home/) | 5.8k | :yes: | :no: | :oc: |
+| [AnimePahe](https://animepahe.pw/) ==Animepahe== | 6.5k | :no: | :msync: | :oc: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | 2.1k | :yes: | :sync::ie::msync: | :cc: |
+| [AniZone](https://anizone.to/) ==AniZone== | 2.2k | :no: | :msync: | :cc: |
+| [KickassAnime](https://kaa.lt/) ==KAA== | 3.7k | :yes: | :msync: | :cc: |
+| [AnimeX](https://animex.one/home) :scrpr: | - | :yes: | :sync::ie: | :cc::oc: |
+| [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
 
 == Donghua
 
