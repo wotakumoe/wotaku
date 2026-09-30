@@ -145,10 +145,10 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/ios#paperback) |
-| ^^ | [Suwatte](https://suwatte.app/) :cs: [:ios:](https://apps.apple.com/app/id6448855813) [:tf:](https://testflight.apple.com/join/8JYvZH1n) [:e:](/ext/ios#suwatte) |
+| ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/ios#suwatte) |
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
-| **Local** | [YACReader](https://ios.yacreader.com/) :s::paid::cs: [:ios:](https://apps.apple.com/app/id635717885) [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
-| ^^ | [Panels](https://apps.apple.com/app/id1236567663) :fm::sub::cs: |
+| **Local** | [YACReader](https://www.yacreader.com/) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
+| ^^ | [Panels](https://www.panels.app/) :fm::sub::cs: |
 | ^^ | [iComics](https://apps.apple.com/app/id493845493) :paid::cs: |
 | ^^ | [SideBooks](https://apps.apple.com/app/id409777225) :cs: |
 
