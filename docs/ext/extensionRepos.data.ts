@@ -107,7 +107,19 @@ interface PaperbackIndex {
 }
 
 interface CloudstreamRepo {
+  name?: string
   pluginLists: string[]
+}
+
+interface CloudstreamRepoListItem {
+  url: string
+  verified?: boolean
+}
+
+export interface RepoListEntry {
+  label: string
+  indexUrl: string
+  repoUrl?: string
 }
 
 interface CloudstreamPlugin {
@@ -307,6 +319,81 @@ function collectIndexUrls(): string[] {
 
 function cachePathFor(url: string): string {
   return join(CACHE_DIR, `${Buffer.from(url).toString('base64url')}.json`)
+}
+
+function collectRepoListUrls(): string[] {
+  const urls = new Set<string>()
+  const blockRe = /:::\s*extrepo\s*\{([^}]*)\}/g
+
+  for (const file of findMarkdownFiles(DOCS_DIR)) {
+    const src = readFileSync(file, 'utf-8')
+
+    let match: RegExpExecArray | null
+    blockRe.lastIndex = 0
+    while ((match = blockRe.exec(src))) {
+      const from = match[1].match(/(?:^|\s)from=(?:"([^"]+)"|'([^']+)'|(\S+))/)
+      if (from) urls.add((from[1] ?? from[2] ?? from[3]).trim())
+    }
+  }
+  return [...urls]
+}
+
+function isCloudstreamRepoList(json: unknown): json is Array<string | CloudstreamRepoListItem> {
+  if (!Array.isArray(json) || json.length === 0) return false
+  return json.every(item => {
+    if (typeof item === 'string') return /^https?:\/\//.test(item)
+    if (item && typeof item === 'object') {
+      const rec = item as Record<string, unknown>
+      // LNReader plugins also carry a `url` field — rule those out.
+      if ('name' in rec || 'lang' in rec || 'baseUrl' in rec || 'baseURL' in rec) return false
+      return typeof rec.url === 'string' && /^https?:\/\//.test(rec.url)
+    }
+    return false
+  })
+}
+
+function inferRepoUrl(rawUrl: string): string | undefined {
+  try {
+    const u = new URL(rawUrl)
+    const parts = u.pathname.split('/').filter(Boolean)
+    if (u.hostname === 'raw.githubusercontent.com' && parts.length >= 2) {
+      return `https://github.com/${parts[0]}/${parts[1]}`
+    }
+    const dashRaw = u.pathname.indexOf('/-/raw/')
+    if (dashRaw > 0) return `${u.origin}${u.pathname.slice(0, dashRaw)}`
+    const rawSeg = parts.indexOf('raw')
+    if (rawSeg > 1) return `${u.origin}/${parts.slice(0, rawSeg).join('/')}`
+  } catch {
+    return undefined
+  }
+  return undefined
+}
+
+function inferLabel(rawUrl: string): string {
+  const repoUrl = inferRepoUrl(rawUrl)
+  if (repoUrl) {
+    try {
+      const parts = new URL(repoUrl).pathname.split('/').filter(Boolean)
+      if (parts.length >= 2) return `${parts[parts.length - 2]}/${parts[parts.length - 1]}`
+      if (parts.length === 1) return decodeURIComponent(parts[0])
+    } catch {
+      // fall through to raw-URL fallback below
+    }
+  }
+  try {
+    const parts = new URL(rawUrl).pathname.split('/').filter(Boolean)
+    return decodeURIComponent(parts[parts.length - 2] ?? parts[parts.length - 1] ?? rawUrl)
+  } catch {
+    return rawUrl
+  }
+}
+
+function repoListLabel(indexUrl: string, repoJson: unknown): string {
+  if (repoJson && typeof repoJson === 'object' && !Array.isArray(repoJson)) {
+    const name = (repoJson as { name?: unknown }).name
+    if (typeof name === 'string' && name.trim() !== '') return name.trim()
+  }
+  return inferLabel(indexUrl)
 }
 
 async function fetchIndex(url: string): Promise<unknown> {
@@ -832,6 +919,7 @@ export interface ExtensionRepoData {
   sites: Record<string, RepoData>
   soraAuthors: Record<string, SoraAuthorRepo[]>
   echoAuthors: Record<string, EchoAuthorRepo[]>
+  repoLists: Record<string, RepoListEntry[]>
 }
 
 export declare const data: ExtensionRepoData
@@ -840,10 +928,35 @@ export default {
   watch: ['../**/*.md'],
   async load(): Promise<ExtensionRepoData> {
     const urls = collectIndexUrls()
+    const listUrls = collectRepoListUrls()
+    const listUrlSet = new Set(listUrls)
     const sites: Record<string, RepoData> = {}
     const soraAuthors: Record<string, SoraAuthorRepo[]> = {}
     const echoAuthors: Record<string, EchoAuthorRepo[]> = {}
+    const repoLists: Record<string, RepoListEntry[]> = {}
+    await Promise.all(listUrls.map(async listUrl => {
+      const json = await fetchIndex(listUrl)
+      if (!isCloudstreamRepoList(json)) {
+        repoLists[listUrl] = []
+        return
+      }
+      const indexUrls = [...new Set(json.map(item => typeof item === 'string' ? item : item.url))]
+      const repoJsons = await Promise.all(indexUrls.map(url => fetchIndex(url)))
+      const entries: RepoListEntry[] = indexUrls.map((indexUrl, i) => ({
+        label: repoListLabel(indexUrl, repoJsons[i]),
+        indexUrl,
+        repoUrl: inferRepoUrl(indexUrl)
+      }))
+      entries.sort((a, b) => a.label.localeCompare(b.label))
+      repoLists[listUrl] = entries
+      await Promise.all(indexUrls.map(async (indexUrl, i) => {
+        if (indexUrl in sites) return
+        sites[indexUrl] = await toRepoData(indexUrl, repoJsons[i])
+      }))
+    }))
     await Promise.all(urls.map(async url => {
+      if (listUrlSet.has(url)) return
+      if (url in sites) return
       const json = await fetchIndex(url)
       if (isSoraRepoIndex(json)) {
         const result = await loadSoraRepoIndex(url, json)
@@ -861,6 +974,6 @@ export default {
       }
       sites[url] = await toRepoData(url, json)
     }))
-    return { sites, soraAuthors, echoAuthors }
+    return { sites, soraAuthors, echoAuthors, repoLists }
   }
 }

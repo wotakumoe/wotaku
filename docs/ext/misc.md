@@ -10,59 +10,15 @@ og:
 
 ## Cloudstream
 
-::: extrepo {scheme=cloudstreamrepo}
-
-== MegaRepo
-- url: https://github.com/self-similarity/MegaRepo/
-- raw: https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json
-
-== Aniyomi Compat
-- url: https://github.com/CranberrySoup/AniyomiCompatExtension
-- raw: https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json
-
-== CakesTwix
-- url: https://github.com/CakesTwix/cloudstream-extensions-uk
-- raw: https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json
+::: extrepo {scheme=cloudstreamrepo from=https://raw.githubusercontent.com/recloudstream/cs-repos/refs/heads/master/repos-db.json}
 
 == CloudX
 - url: https://github.com/Asm0d3usX/CloudX-V2
 - raw: https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/repo.json
 
-== CSX
-- url: https://github.com/SaurabhKaperwan/CSX
-- raw: https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json
-
-== doGior
-- url: https://github.com/doGior/doGiorsHadEnough
-- raw: https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/repo.json
-
-== Gian-Fr
-- url: https://github.com/Gian-Fr/ItalianProvider
-- raw: https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json
-
 == NetMirror
 - url: https://github.com/Sushan64/NetMirror-Extension/
 - raw: https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/builds/Netflix.json
-
-== Phisher
-- url: https://github.com/phisher98/cloudstream-extensions-phisher
-- raw: https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json
-
-== Raghav
-- url: https://github.com/KSHITIJ8473/raghav
-- raw: https://raw.githubusercontent.com/KSHITIJ8473/raghav/refs/heads/builds/repo.json
-
-== Redowan
-- url: https://github.com/redowan99/Redowan-CloudStream
-- raw: https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json
-
-== Reflex
-- url: https://github.com/Reflex755/ReflexRepo
-- raw: https://raw.githubusercontent.com/Reflex755/ReflexRepo/refs/heads/builds/repo.json
-
-== Tearrs
-- url: https://gitlab.com/tearrs/cloudstream-vietnamese
-- raw: https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json
 
 == zzikozz
 - url: https://codeberg.org/zzikozz/frencharchive/

@@ -164,6 +164,7 @@ export function extRepoPlugin(md: MarkdownIt): void {
 
       const attrs = parseAttrs(params)
       const scheme = attrs.scheme || 'mihon'
+      const from = attrs.from
 
       const rows: ParsedRepoRow[] = []
       for (const entry of parseEntries(bodyLines)) {
@@ -205,10 +206,11 @@ export function extRepoPlugin(md: MarkdownIt): void {
       }
 
       const reposJson = JSON.stringify(rows).replace(/'/g, '&#39;')
+      const fromAttr = from ? ` from="${from.replace(/"/g, '&quot;')}"` : ''
 
       const token = state.push('html_block', '', 0)
       token.map = [startLine, nextLine]
-      token.content = `<ExtensionRepos scheme="${scheme}" :repos='${reposJson}' />\n`
+      token.content = `<ExtensionRepos scheme="${scheme}"${fromAttr} :repos='${reposJson}' />\n`
 
       state.line = found ? nextLine + 1 : nextLine
       return true

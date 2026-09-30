@@ -14,15 +14,33 @@ const { tooltip } = provideTooltip()
 const repoData = data.sites
 const soraAuthors = data.soraAuthors
 const echoAuthors = data.echoAuthors
+const repoLists = data.repoLists ?? {}
 
 const props = defineProps<{
   repos: Repo[]
   scheme: string
+  from?: string
 }>()
+
+const baseRepos = computed<Repo[]>(() => {
+  const list = props.from ? repoLists[props.from] ?? [] : []
+  const auto: Repo[] = list.map(entry => ({
+    name: entry.repoUrl
+      ? `<a href="${entry.repoUrl}" target="_blank" rel="noopener noreferrer">${escapeHtml(entry.label)}</a>`
+      : escapeHtml(entry.label),
+    indexUrl: entry.indexUrl,
+    repoName: entry.label,
+    repoUrl: entry.repoUrl
+  }))
+  const manualByUrl = new Map(props.repos.map(repo => [repo.indexUrl, repo]))
+  const merged = [...auto.filter(repo => !manualByUrl.has(repo.indexUrl)), ...props.repos]
+  merged.sort((a, b) => stripHtml(a.name).localeCompare(stripHtml(b.name)))
+  return merged
+})
 
 const resolvedRepos = computed<Repo[]>(() => {
   const result: Repo[] = []
-  for (const repo of props.repos) {
+  for (const repo of baseRepos.value) {
     const authors = soraAuthors[repo.indexUrl] ?? echoAuthors[repo.indexUrl]
     if (!authors?.length) {
       result.push(repo)
