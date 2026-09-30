@@ -49,7 +49,6 @@ og:
 | **Kotatsu** | [Usagi](https://yumemi.moe/) [:src:](https://github.com/UsagiApp/Usagi) |
 | ^^ | [Futon](https://futon.wtf/) [:src:](https://github.com/AppFuton/Futon) |
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
-| ^^ | [Kototoro](https://github.com/Kototoro-app/Kototoro) |
 | **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
@@ -401,7 +400,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | **Jellyfin** | [Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim) | :win: |
 | ^^ | [Streamyfin](https://github.com/streamyfin/streamyfin) | :and::ios: |
 | **Komga** | [Komelia](https://github.com/Snd-R/Komelia) | :and::win::lin: |
-| ^^ | [KMReader](https://kmworks.github.io/kmreader/) [:src:](https://github.com/kmworks/kmreader) | :ios::app: |
+| ^^ | [KMReader](https://kmworks.date/reader/) [:src:](https://github.com/kmworks/kmreader) | :ios::app: |
 | ^^ | [Komik](https://pruizlezcano.github.io/komic/) :fm: | :ios: |
 | **LANraragi** | [Ichaival](https://github.com/Utazukin/Ichaival) | :and: |
 | ^^ | [LANreader](https://github.com/Doraemoe/LANreader) | :ios: |
