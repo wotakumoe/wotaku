@@ -96,7 +96,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Hayase](https://discord.gg/TRQEr9evRA)
 - [Komikku](https://discord.gg/85jB7V5AJR)
 - [Kotatsu-Redo](https://discord.gg/sfPJSQNxfW)
-- [Kototoro](https://discord.gg/xBXvPz7tr7)
 - [Mangayomi](https://discord.gg/EjfBuYahsP)
 - [Mihon](https://discord.gg/mihon)
 - [NyanTV](https://discord.gg/y2vaFPXs4F)
