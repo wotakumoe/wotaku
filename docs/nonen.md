@@ -418,7 +418,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Site | Manga | Novel | Magazine |
 |------|:-----:|:-----:|:--------:|
 | [888DL](https://888dl.ps/) | :yes: | :yes: | :yes: |
-| [A-z Manga](https://www.a-zmanga.net/) | :yes: | :yes: | :yes: |
 | [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
@@ -587,9 +586,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Website |
 | :--- | :--- |
 | **Stream** | [AnimeAV1](https://animeav1.com/) |
-| ^^ | [MonosChinos](https://monoschinos.st/) |
 | ^^ | [AnimeOnlineNinja](https://ver.animeonline.ninja/) |
-| ^^ | [Latanime](https://latanime.org/) ||Dub|| |
 | ^^ | [Estrenos Anime](https://estrenosanime.net/home) |
 | ^^ | [JKAnime](https://jkanime.net/) |
 | ^^ | [TioAnime](https://tioanime.com/) |
