@@ -533,7 +533,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [AnimeJoy](https://animejoy.ru/) |
 | ^^ | [Animelayer](http://animelayer.ru/) :mag: |
 | ^^ | [AnimeLIB](https://animelib.org/ru) [:alt:](https://anilib.me/ru) |
-| ^^ | [AnimeStars](https://animestars.org/) ||Aggregator|| |
+| ^^ | [Animesss](https://animesss.com/) ||Aggregator|| |
 | ^^ | [Animevost](https://animevost.org/) |
 | ^^ | [MAL to Kodik](https://mal-to-kodik.github.io/) ||Aggregator|| |
 | ^^ | [One Pace RU](https://onepace-ru.tilda.ws/) |
