@@ -659,6 +659,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Unimay Media](https://unimay.media/) |
 | ^^ | [HentaiUKR](https://hentaiukr.com/) :ero: |
 | **Manga** | [Manga.in.ua](https://manga.in.ua/) |
+| ^^ | [MangaGeeks](https://www.mangageeks.com.ua/) |
 | ^^ | [Zenko](https://zenko.online/) |
 | **Others** | [BambooUA](https://bambooua.com/) |
 | ^^ | [Hikka](https://hikka.io/) |
