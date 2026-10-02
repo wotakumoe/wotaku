@@ -98,7 +98,6 @@ og:
 - [Hololive merch information](https://merch-matome.com/) :ljp: [:x:](https://x.com/hololive_goods)
 - [hololive TODAY](https://hololivetoday.com/)
 - [Hololive Tsuushin](https://hololive-tsuushin.com/) :ljp:
-- [Hololive Member Sorter](https://hololive.sorter.ufal.my.id/)
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/)
 
 :::
