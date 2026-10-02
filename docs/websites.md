@@ -164,7 +164,7 @@ Some content may not be available depending on your region.
 | [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 90k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
-| [Dynasty Reader](https://dynasty-scans.com/) | TBD | :msync: | :ss::up: | :sp: | :frm: |
+| [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | 3.9k | :msync: | :ss::up: | :sp: | :frm: |
 
 == Download
 
