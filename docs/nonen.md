@@ -584,6 +584,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Stream** | [AnimeAV1](https://animeav1.com/) |
 | ^^ | [AnimeOnlineNinja](https://ver.animeonline.ninja/) |
+| ^^ | [Latanime](https://latanime.org/) ||Dub|| |
 | ^^ | [Estrenos Anime](https://estrenosanime.net/home) |
 | ^^ | [JKAnime](https://jkanime.net/) |
 | ^^ | [TioAnime](https://tioanime.com/) |
