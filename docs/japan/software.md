@@ -272,8 +272,9 @@ og:
 | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) | :ios: |
 | [Capture2text](https://capture2text.sourceforge.net/) | :win: |
 | [Chimahon](https://github.com/sohilsayed/chimahon) :s: | :and: |
-| [Hoshi Reader](https://github.com/Manhhao/Hoshi-Reader) | :ios: |
 | [Hoshi Reader Android](https://github.com/HuangAntimony/Hoshi-Reader-Android) | :and: |
+| [Hoshi Reader Desktop](https://github.com/Manhhao/Hoshi-Reader-Desktop) | :win::app: |
+| [Hoshi Reader iOS](https://github.com/Manhhao/Hoshi-Reader) | :ios: |
 | [Lancet](https://github.com/Ajatt-Tools/lancet) | :win::py: |
 | [OCR Manga Reader](https://ocrmangareaderforandroid.sourceforge.net/) [:src:](https://sourceforge.net/projects/ocrmangareaderforandroid/) | :and: |
 | [PopLingo](https://play.google.com/store/apps/details?id=com.aktaris.chattranslator) | :and: |
