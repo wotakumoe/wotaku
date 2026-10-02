@@ -107,7 +107,7 @@ og:
 | Category | Software |
 | :--- | :--- |
 | **Android** | [Japanese Kanji Study](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy) |
-| ^^ | [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) [:src:](https://github.com/blastrock/kakugo) |
+| ^^ | [Kakugo](https://f-droid.org/packages/org.kaqui/) [:src:](https://github.com/blastrock/kakugo) |
 | ^^ | [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji) |
 | ^^ | [Kata](https://play.google.com/store/apps/details?id=im.dacer.kata) |
 | ^^ | [kawaiiNihongo](https://play.google.com/store/apps/details?id=de.mardukcorp.kawaiinihongo) |
