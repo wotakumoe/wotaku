@@ -449,11 +449,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc129.asia/) [:tg:](https://t.me/foclink) |
+| ^^ | [FreeToon](https://foc130.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe678.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon005.com/) [:tg:](https://t.me/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon155.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee117.asia/) [:tg:](https://t.me/nameetoonlink) |
+| ^^ | [MoneyToon](https://mtoon156.asia/) [:tg:](https://t.me/mtoonopen) |
+| ^^ | [NameeToon](https://namee118.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
 | ^^ | [TOONKOR](https://toonkor1.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |
