@@ -430,13 +430,13 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Type | Addon |
 | :--- | :--- |
-| Component | [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow) |
+| **Component** | [Coverflow](https://www.foobar2000.org/components/view/foo_chronflow) |
 | ^^ | [Discord Rich Presence Integration](https://github.com/s0hv/foo_discord_rich) [:help:](https://s0hv.github.io/foo_discord_rich/) [:alt:](https://github.com/realoksi/foobar2000-catbox) |
 | ^^ | [Encoder Pack](https://www.foobar2000.org/encoderpack) |
 | ^^ | [ESLyric](https://github.com/ESLyric/release) |
 | ^^ | [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) |
 | ^^ | [ReplayGain DSP](https://www.foobar2000.org/components/view/foo_dsp_replaygain) |
-| Theme | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) |
+| **Theme** | [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN) |
 | ^^ | [Eole](https://github.com/Ottodix/Eole-foobar-theme) |
 
 </Collapsible>
@@ -444,10 +444,10 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 == Online Player
 | Source | Player | Platform |
 | :--- | :--- | :--- |
-| Spotify | [Spicetify](https://spicetify.app/) | :win::app::lin: |
+| **Spotify** | [Spicetify](https://spicetify.app/) | :win::app::lin: |
 | ^^ | [SPOTX](https://github.com/SpotX-Official/SpotX) | :win: |
 | ^^ | [Official Spotify full installers](https://loadspot.pages.dev/versions) | :win::app::lin: |
-| Youtube | [Limusic](https://simohypers.github.io/limusic/) [:src:](https://github.com/SimoHypers/limusic) | :win::app::lin: |
+| **Youtube** | [Limusic](https://simohypers.github.io/limusic/) [:src:](https://github.com/SimoHypers/limusic) | :win::app::lin: |
 | ^^ | [Pear Desktop](https://github.com/pear-devs/pear-desktop) | :win::app::lin: |
 | ^^ | [ytmdesktop2](https://youtube-music.app/) [:src:](https://github.com/Venipa/ytmdesktop2) | :win::app::lin: |
 
@@ -485,12 +485,12 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 == Converter & Ripper
 | Category | Player | Platform |
 | :--- | :--- | :--- |
-| General | [FFmpeg](https://ffmpeg.org/) | :win::app::lin: |
+| **General** | [FFmpeg](https://ffmpeg.org/) | :win::app::lin: |
 | ^^ | [SoX](https://sourceforge.net/projects/sox/) | :win::app: |
-| Converter | [CUETools](http://cue.tools/wiki/CUETools) [:src:](https://github.com/gchudov/cuetools.net) | :win: |
+| **Converter** | [CUETools](http://cue.tools/wiki/CUETools) [:src:](https://github.com/gchudov/cuetools.net) | :win: |
 | ^^ | [dBpoweramp](https://www.dbpoweramp.com/) :cs: ||Trialware|| | :win::app: |
 | ^^ | [fre:ac](https://www.freac.org/) [:src:](https://github.com/enzo1982/freac) | :win::app::lin: |
-| Ripper | [Cyanrip](https://github.com/cyanreg/cyanrip) | :win::lin::bsd: |
+| **Ripper** | [Cyanrip](https://github.com/cyanreg/cyanrip) | :win::lin::bsd: |
 | ^^ | [Exact Audio Copy](https://exactaudiocopy.de/) | :win: |
 | ^^ | [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html) | :app: |
 | ^^ | [Whipper](https://github.com/whipper-team/whipper) | :lin: |
@@ -510,36 +510,37 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Category | Player | Platform |
 | :--- | :--- | :--- |
-| Checker / Visualizer | [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :cs: | :win::app: |
+| **Checker / Visualizer** | [Bitter](https://www.stillwellaudio.com/plugins/bitter/) :cs: | :win::app: |
 | ^^ | [cambia LogTools](https://logs.musichoarders.xyz/) [:src:](https://github.com/arg274/cambia) | :ff::cr: |
 | ^^ | [loggers](https://gitlab.com/SuperSaltyGamer/loggers) | :win: |
 | ^^ | [Sonic Visualiser](https://www.sonicvisualiser.org/) [:src:](https://github.com/sonic-visualiser/sonic-visualiser/) | :win::app::lin: |
 | ^^ | [Spek](https://www.spek.cc/) :s: [:src:](https://github.com/alexkay/spek) | :win::app::lin: |
-| Tagger | [MP3Tag](https://www.mp3tag.de/en/) :cs: | :win::app: |
+| **Tagger** | [beets](https://beets.io/) [:src:](https://github.com/beetbox/beets) [:help:](https://beets.readthedocs.io/en/stable/index.html) | :py: |
+| ^^ | [Kid3](https://kid3.kde.org/) | :win::app::lin::and: |
+| ^^ | [MP3Tag](https://www.mp3tag.de/en/) :cs: | :win::app: |
 | ^^ | [MusicBrainz Picard](https://picard.musicbrainz.org/) [:src:](https://github.com/metabrainz/picard) | :win::app::lin: |
 | ^^ | [TagScanner](https://www.xdlab.ru/en/) :cs: | :win: |
-| ^^ | [beets](https://beets.io/) [:src:](https://github.com/beetbox/beets) [:help:](https://beets.readthedocs.io/en/stable/index.html) | :py: |
-| Others | [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) | :win: |
-| ^^ | [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) | :win: |
+| **Others** | [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) | :win: |
 | ^^ | [JamesDSP](https://flathub.org/en/apps/me.timschneeberger.jdsp4linux) | :lin: |
 | ^^ | [Karaoke Mugen](https://mugen.karaokes.moe/en/) [:src:](https://gitlab.com/karaokemugen/code/karaokemugen-app) | :win::app::lin: |
-| ^^ | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | :win::app::lin: |
 | ^^ | [Music Presence](https://github.com/ungive/discord-music-presence) :cs: | :win::app::lin: |
+| ^^ | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | :win::app::lin: |
+| ^^ | [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) | :win: |
 
 == Vocaloid
 
 | Category | Player | Platform |
 | :--- | :--- | :--- |
-| Editors | [Vocaloid](https://www.vocaloid.com/en/) :cs: | :win::app: |
+| **Editors** | [Vocaloid](https://www.vocaloid.com/en/) :cs: | :win::app: |
 | ^^ | [Synthesizer V](https://dreamtonics.com/synthesizerv/) :cs: | :win::app: |
 | ^^ | [Piapro Studio](https://piaprostudio.com/?lang=en) :cs: | :win::app: |
 | ^^ | [CeVIO](https://cevio.jp/) :cs: | :win: |
 | ^^ | [OpenUtau](https://www.openutau.com/) [:src:](https://github.com/openutau/OpenUtau) | :win::app::lin: |
-| DAW | [Ableton](https://www.ableton.com/en/) :cs: | :win::app: |
+| **DAW** | [Ableton](https://www.ableton.com/en/) :cs: | :win::app: |
 | ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
 | ^^ | [FL Studio](https://www.image-line.com/) :cs: | :win::app: |
 | ^^ | [Studio One](https://www.fender.com/products/fender-studio-pro) :cs: | :win: |
-| Related Links | [SynthV.info](https://synthv.info/) | :no: |
+| **Related Links** | [SynthV.info](https://synthv.info/) | :no: |
 | ^^ | [CeVIO Voice Database Installer Archive](https://docs.google.com/spreadsheets/d/1blPdn7UuNNSUbTs3FRtBV5mdDUCf728NJC7yZhOae-M/edit) | :no: |
 | ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
 
