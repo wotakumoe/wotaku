@@ -51,7 +51,6 @@ outline: 2
 - [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)
-- [Myanime](https://myanime.live/)
 - [WowTopix](https://wowtopix.com/)
 
 
