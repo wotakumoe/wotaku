@@ -19,8 +19,6 @@ og:
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | 2.1k | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) ==AniZone== | 2.2k | :no: | :msync: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | 3.7k | :yes: | :msync: |
-| [Anime-Dunya](https://anime-dunya.com/en) :hd: | TBD | :yes: | :no: |
-| [AnimeOnsen](https://www.animeonsen.xyz/) :hd: | TBD | :yes: | :msync: |
 
 ### Manga
 
@@ -331,7 +329,6 @@ Most apps in [**software**](/software) supports multilingual sources
 
 ### Manga
 - [Komiku](https://komiku.org/)
-- [Komik Indo](https://komikindo.ch/)
 - [Megaheya](https://mangaheya.net/) :acc:
 - [Mynimeku](https://www.mynimeku.com/)
 - [Softkomik](https://softkomik.co/)
