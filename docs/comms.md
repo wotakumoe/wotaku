@@ -72,6 +72,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Atsumaru](https://discord.gg/Tj4QmEF4uV)
 - [BookWalker](https://discord.gg/QvyAYY2H9H)
 - [Doujinshi.info](https://discord.gg/xeZXvEB9uw)
+- [Dynasty Scans](https://discord.gg/e4sbY8S)
 - [Elscione's Library](https://discord.gg/zSpYj4GJVv)
 - [Great Discord Links Hub](https://discord.gg/9KGMzP2) ||Scan groups||
 - [J-Novel Club](https://discord.gg/WmRnnFvfS3)
