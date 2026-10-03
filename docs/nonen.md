@@ -297,7 +297,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Anime World India](https://watchanimeworld.one/) + :len: |
 | ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
 | ^^ | [Dora Bash](https://dorabash.in/) + :len: |
-| ^^ | [Kartoons](https://kartoons.me/home) |
+| ^^ | [Kartoons](https://kartoons.to/home) |
 | ^^ | [PirateXPlay](https://piratexplay.cc/home) + :len: |
 | ^^ | [ToonStream](https://toonstream.us/home/) + :len: |
 | **DDL** | [AnimeVilla](https://animevilla.org/) :ero: |
@@ -448,7 +448,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [FreeToon](https://foc130.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe678.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
-| ^^ | [GoodToon](https://www.goodtoon005.com/) [:tg:](https://t.me/goodtoon_url) |
+| ^^ | [GoodToon](https://www.goodtoon006.com/) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon156.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee118.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
@@ -678,7 +678,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
 | ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyenbw.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenpet.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [HentaiVN](https://hentaivn.show/) |
 | **Novels** | [Hako](https://docln.net/) |
