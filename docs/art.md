@@ -76,7 +76,6 @@ og:
 | :--- | :--- |
 | **Archive** | [Irodori Art Archive](https://irodori-art-archive.com/) :ljp: |
 | ^^ | [Pawchive](https://pawchive.pw/) |
-| ^^ | :prev: [bakemono](https://bakemono.app/) |
 | **Games** | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
 | **Wallpaper** | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
