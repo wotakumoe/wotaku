@@ -240,6 +240,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AniWorld](https://aniworld.to/) :strm: + :len: |
 | ^^ | [FireAnime](https://fireani.me/) :strm: + :len: |
 | ^^ | [Melon-Subs](https://melon-subs.de/) :ded::ddl: |
+| ^^ | [Yamayurikai Subs](https://yamayurikai-subs.eu/) :ded::ddl: |
 | **Manga** | [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host: |
 | ^^ | [Manga-Tube](https://manga-tube.me/) |
 | **Info / News** | [aniSearch](https://www.anisearch.de/) + :len: |
