@@ -606,6 +606,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 ### Manga
 - [Absorbiendo Mangas](https://absorbiendomangas2.blogspot.com/)
+- [AnimeBbg](https://animebbg.net/) :ero:
 - [AnzManga](https://www.anzmanga25.com/)
 - [HeavenManga](https://heavenmanga.com/)
 - [InManga](https://inmanga.com/)
