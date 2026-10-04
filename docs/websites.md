@@ -115,6 +115,7 @@ Some content may not be available depending on your region.
 | ^^ | [Gundam Channel INTL](https://www.youtube.com/@GundamInfo) |
 | ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
 | ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
+| ^^ | [Suikoden: The Anime](https://www.youtube.com/@SuikodenTheAnime-EN) |
 
 == Others
 
