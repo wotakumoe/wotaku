@@ -24,7 +24,7 @@ og:
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/) ==Kagane== | 39k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.to/) ==Kagane== | TBD | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 93k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
