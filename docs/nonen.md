@@ -209,6 +209,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | :--- | :--- |
 | **Anime** | [AnimeKO](https://animeko.ws/) |
 | ^^ | [Anime-Sama](https://anime-sama.to/) ==m:https://anime-sama.pw== + :len: |
+| ^^ | [Aniverse](https://aniverse.fr/home) |
 | ^^ | [Fluneo](https://myfluneo.eu/) |
 | ^^ | [FRAnime](https://franime.fr/) |
 | ^^ | [FanKai](http://fankai.fr/) [:alt:](https://linktr.ee/FanKai) |
@@ -218,9 +219,11 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Streaming-integrale](https://streaming-integrale.com/) |
 | ^^ | [Voiranime](https://voir-anime.to/) [:d:](https://discord.gg/js2P2HT) |
 | ^^ | [Vostfree](https://ipv4.vostfree.ws/) |
-| **Manga** | [Japscan](https://www.japscan.foo/) |
+| **Manga** | [Aniverse](https://aniverse.fr/manga) |
+| ^^ | [Japscan](https://www.japscan.foo/) |
 | ^^ | [LPEBK](https://www.lpebk.com/forumv2/) :ddl::acc: |
 | ^^ | [Mangadraft](https://www.mangadraft.com/) |
+| ^^ | [Mangakawaii](https://www.mangakawaii.fr/) |
 | ^^ | [Planete-BD](https://planete-bd.org/) |
 | ^^ | [Sushi-Scan](https://sushiscan.net/) |
 | **Others** | [Hyakanime](https://hyakanime.fr/) |
@@ -293,6 +296,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | Category | Website |
 | :--- | :--- |
 | **Stream** | [Aniflix](https://aniflix.us/) |
+| ^^ | [Anime Bash India](https://animebashindia.me/home) |
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
 | ^^ | [Anime Salt](https://animesalt.cx/) + :len: |
 | ^^ | [Anime World India](https://watchanimeworld.one/) + :len: |
@@ -373,7 +377,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.icu/)
+- [Dokiraw](https://dokiraw.link/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [KL Manga](https://old.klz9.com/) ==m:kl-manga==
 - [MangaFire](https://mangafire.to/)
@@ -382,16 +386,16 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 <Collapsible title="More">
 
 - [Manga Raw (.ac)](https://mangaraw.ac/) ==m:mangarawspoil==
-- [Manga Raw (.ad)](https://mangarawad.casa/)
+- [Manga Raw (.ad)](https://mangarawad.wiki/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
 - [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) ==m:raw1001==
 - [RawBaka](https://rawbaka.site/)
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.bid/)
+- [Raw FREE](https://rawfree.llc/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.locker/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.media/home/)
 - [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
 - [Soraraw](https://soraraw.com/)
 
@@ -448,11 +452,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc130.asia/) [:tg:](https://t.me/foclink) |
+| ^^ | [FreeToon](https://foc131.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe678.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon006.com/) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon156.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee118.asia/) [:tg:](https://t.me/nameetoonlink) |
+| ^^ | [NameeToon](https://namee119.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
 | ^^ | [TOONKOR](https://toonkor1.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |

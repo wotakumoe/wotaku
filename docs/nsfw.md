@@ -100,7 +100,6 @@ og:
 
 <collapsible title="Front-ends">
 
-- [bakemono](https://bakemono.app/)
 - [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview)
 - [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy/danbooru-viewer)
 - [Moeview](https://moeview.app/) [:alt:](https://moeview.cocomi.eu.org/)
