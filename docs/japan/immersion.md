@@ -141,6 +141,7 @@ og:
 == Audiobooks
 - [Nyaa.si](https://nyaa.si/) :s::mag: ==m:nyaa==
 - [TMW Audiobook Collection](https://nyaa.si/?q=TMW+Audiobook) :mag: [||Index||](https://coreaudio.netlify.app/)
+- [Librivox](https://librivox.org/)
 - [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
 
 == Podcasts
