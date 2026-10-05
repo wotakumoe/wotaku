@@ -110,6 +110,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Squid.wtf](https://squid.wtf/) | ^^ |
 | [am-dl](https://am-dl.pages.dev/) ==am-dl== | **Apple** |
 | [Arcod](https://www.arcod.xyz/) :acc: | **Qobuz** |
+| [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
 | [Rhythmax](https://tidal.odskyler.com/) [:src:](https://github.com/ODSkyler/tidal-proxy) | **Tidal** |
 
 == Doujin
@@ -152,11 +153,11 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Quality | Tag |
 |---------|---------|-----|
-| [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [MP3 128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | General |
-| [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [MP3 128](https://www.j1fm.tokyo/listen/) | General |
-| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ios:](https://apps.apple.com/app/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | Vaporwave |
-| [Wapchan](https://radio.wapchan.org/public/wapfm) | [OPUS 192](https://radio.wapchan.org/public/wapfm/playlist.pls) | City Pop |
-| [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | City Pop |
+| [asia DREAM radio](https://asiadreamradio.torontocast.stream/stations/en/index.html) | [MP3 128](https://asiadreamradio.torontocast.stream/stations/newstream.html) | **General** |
+| [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [MP3 128](https://www.j1fm.tokyo/listen/) | ^^ |
+| [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ios:](https://apps.apple.com/app/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | **Vaporwave** |
+| [Wapchan](https://radio.wapchan.org/public/wapfm) | [OPUS 192](https://radio.wapchan.org/public/wapfm/playlist.pls) | **City Pop** |
+| [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | ^^ |
 
 == Aggregators
 
