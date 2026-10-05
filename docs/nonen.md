@@ -22,14 +22,14 @@ og:
 
 ### Manga
 
-| Websites | Library ==Library== | Tracking | Sources | Layout | Social |
-|----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/) ==Kagane== | TBD | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 93k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
-| [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
-| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ms: | :ls::lsg: | :no: |
-| [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
+| Websites | Tracking | Sources | Layout | Social |
+|----------|----------|---------|--------|--------|
+| [Kagane](https://kagane.to/) ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaBall](https://mangaball.net/) | :msync: | :ps::up: | :ls: | :cmnt: |
+| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | :no: | :ms: | :ls::lsg: | :no: |
+| [MangaFire](https://mangafire.to/) ==MangaFire== | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 
 ::: tip Apps
 Most apps in [**software**](/software) supports multilingual sources
