@@ -1,4 +1,4 @@
 - Best for manhwa, but has lots of manga too.
 - Allows user uploads and adds new titles upon request.
-- Scrapes official sources, uploads from Nyaa rippers and select scanlators.
+- Scrapes official sources, MangaDex and Nyaa uploads.
 - Offers high-quality uploads without watermarks.
