@@ -147,7 +147,7 @@ Some content may not be available depending on your region.
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/) ==Kagane== | TBD | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.to/) ==Kagane== | 90k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 93k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
