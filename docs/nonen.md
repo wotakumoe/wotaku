@@ -503,7 +503,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [CXTv](https://www.cxtv.com.br/) ||TV|| |
 | ^^ | [Goyabu](https://goyabu.io/inicio-2) |
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
-| ^^ | [Muito Hentai](https://www.muitohentai.com/) :ero: |
+| ^^ | [Watch Anime Hentai](https://www.watchanimehentai.com/) :ero: |
 | ^^ | [:tg: Toonami na Era do Telegram](https://t.me/toonamibr) |
 | **Manga** | [Ler Mangas](https://lermangas.me/) :ljp::lkr::lcn::ero: |
 | ^^ | [Tao Sect](https://taosect.com/) :ljp::lkr::lcn::ero: |
@@ -595,12 +595,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Estrenos Anime](https://estrenosanime.net/home) |
 | ^^ | [JKAnime](https://jkanime.net/) |
 | ^^ | [TioAnime](https://tioanime.com/) |
-| ^^ | [AnimeJL](https://www.anime-jl.net/) :ero: |
 | ^^ | [Mundo Donghua](https://www.mundodonghua.com/) |
 | ^^ | [Tio Donghua](https://tiodonghua.com/) |
 | ^^ | [Veraanimes](https://wwv.veranimes.net/) |
 | ^^ | [HentaiLA](https://hentaila.com/hub) :ero: |
-| ^^ | [HentaiJL](https://hentaijl.com/) :ero: |
+| ^^ | [Watch Anime Hentai](https://www.watchanimehentai.com/) :ero: |
 | **Download** | [Japan Paw!](https://japanpaw.com/) |
 | ^^ | [SphinxAnime](https://sphinxanime.com/) |
 | ^^ | [Nekomitai](https://nekomitai.net/) |
