@@ -149,7 +149,7 @@ Some content may not be available depending on your region.
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.to/) ==Kagane== | 90k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 93k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | 48k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
 
@@ -157,14 +157,14 @@ Some content may not be available depending on your region.
 
 | [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
-| [Mangahub](https://mangahub.io/) | 78k | :msync: | :ss: | :ls: | :cmnt: |
+| [Mangahub](https://mangahub.io/) | 79k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [MangaK](https://mangak.io/home) | 40k | :no: | :ss: | :sp::ls: | :cmnt: |
+| [MangaK](https://mangak.io/home) | 41k | :no: | :ss: | :sp::ls: | :cmnt: |
 | [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ms: | :ls::lsg: | :no: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 90k | :no: | :ss: | :ls: | :cmnt: |
 | [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
-| [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | 3.9k | :msync: | :ss::up: | :sp: | :frm: |
+| [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | 4k | :msync: | :ss::up: | :sp: | :frm: |
 
 == Download
 
