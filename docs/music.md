@@ -157,7 +157,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [J1 Radio](https://www.j1fm.tokyo/player/j1hits/) | [MP3 128](https://www.j1fm.tokyo/listen/) | ^^ |
 | [Nightwave Plaza](https://plaza.one/) [:and:](https://play.google.com/store/apps/details?id=one.plaza.nightwaveplaza) [:ios:](https://apps.apple.com/app/id1532678227) [:src:](https://github.com/nightwaveplaza/plaza) | [MP3 128](https://plaza.one/plaza.m3u) | **Vaporwave** |
 | [Wapchan](https://radio.wapchan.org/public/wapfm) | [OPUS 192](https://radio.wapchan.org/public/wapfm/playlist.pls) | **City Pop** |
-| [Yumi Co. Radio](https://yumicoradio.net/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | ^^ |
+| [Yumi Co. Radio](https://yumicoradio.net/) [:and:](https://f-droid.org/packages/net.yumicoradio.android/) | [MP3 256](https://yumicoradio.net/public/yumi_co._radio/playlist.m3u) | ^^ |
 
 == Aggregators
 
