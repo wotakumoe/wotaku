@@ -132,8 +132,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | ^^ | [Hentoid](https://codeberg.org/VioletKnight/Hentoid) |
 | ^^ | [Jasmine](https://github.com/ComicSparks/jasmine) |
 | ^^ | [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [:e:](/ext/mihon) |
-| E-Hentai | [EhViewer-FooIbar](https://github.com/FooIbar/EhViewer) |
-| ^^ | [EhViewer-UjuiUjuMandan](https://github.com/UjuiUjuMandan/EhViewer) |
+| E-Hentai | [EhViewer-UjuiUjuMandan](https://github.com/UjuiUjuMandan/EhViewer) |
 | ^^ | [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer) |
 | ^^ | [JHenTai](https://github.com/jiangtian616/JHenTai) |
 | nHentai | [NClientV3](https://github.com/maxwai/NClientV3) |
