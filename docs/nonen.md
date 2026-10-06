@@ -286,8 +286,7 @@ Most apps in [**software**](/software) supports multilingual sources
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [AnimeDrive](https://animedrive.hu/) |
-| ^^ | [MagyarAnime](https://magyaranime.eu/) :acc: |
+| **Anime** | [MagyarAnime](https://magyaranime.eu/) :acc: |
 
 ## Indian
 
@@ -333,6 +332,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Indonesian Fansubbers' Index](https://www.fansub.id/home) |
 
 ### Manga
+- [Komik Indo](https://komikindo.ch/)
 - [Komiku](https://komiku.org/)
 - [Megaheya](https://mangaheya.net/) :acc:
 - [Mynimeku](https://www.mynimeku.com/)
@@ -453,12 +453,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [FreeToon](https://foc131.asia/) [:tg:](https://t.me/foclink) |
-| ^^ | [Funbe](https://funbe678.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
+| ^^ | [Funbe](https://funbe679.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon006.com/) [:tg:](https://t.me/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon156.asia/) [:tg:](https://t.me/mtoonopen) |
+| ^^ | [MoneyToon](https://mtoon157.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee119.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
-| ^^ | [TOONKOR](https://toonkor1.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
+| ^^ | [TOONKOR](https://toonkor2.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon227.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
