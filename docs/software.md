@@ -125,7 +125,7 @@ og:
 ## iOS
 
 ::: tip Sideloading apps on Apple devices
-Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.github.io/ios-sideloading/) & [**The Apple Wiki**](https://theapplewiki.com/wiki/Main_Page) for info and guides on jailbreaking and sideloading.
+Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios-sideloading/) & [**The Apple Wiki**](https://theapplewiki.com/wiki/Main_Page) for info and guides on jailbreaking and sideloading.
 :::
 
 ::: tabs
