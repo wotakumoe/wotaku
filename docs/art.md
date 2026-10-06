@@ -78,6 +78,7 @@ og:
 | ^^ | [Pawchive](https://pawchive.pw/) |
 | **Games** | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
+| ^^ | [VGMaps](https://www.vgmaps.com/) [:x:](https://x.com/VGMaps) ||SFW|| |
 | **Wallpaper** | [Anihonetwallpaper](https://anihonetwallpaper.com/) ||SFW|| |
 | ^^ | [Anime Pictures](https://anime-pictures.net/) |
 | ^^ | [Frutiger Aero Archive](https://frutigeraeroarchive.org/wallpapers) |
