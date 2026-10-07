@@ -172,7 +172,6 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 - [Craneanime](https://blog.craneanime.xyz/)
 - [Eroge Download](https://erogedownload.com/)
 - [F95Zone](https://f95zone.to/) :acc:
-- [Gamcore](https://gamcore.com/)
 - [HSuki](https://www.h-suki.com/en/games)
 - [Kimochi](https://kimochi.info)
 - [Ryuugames](https://www.ryuugames.com/)
