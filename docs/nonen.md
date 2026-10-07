@@ -379,8 +379,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 ### Online
 - [Dokiraw](https://dokiraw.link/)
 - [Free PDF Library](https://pdftoshokan.com/)
+- [Hachiraw](https://hachiraw.net/)
 - [KL Manga](https://old.klz9.com/) ==m:kl-manga==
-- [MangaFire](https://mangafire.to/)
 - [MangaKuro](https://mangakuro.net/home)
 
 <Collapsible title="More">
@@ -389,10 +389,9 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Manga Raw (.ad)](https://mangarawad.wiki/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [MangarawJP](https://mangarawjp.me/)
-- [Pixiv Comics](https://comic.pixiv.net/)
 - [RAW 1001](https://raw1001.net/home) ==m:raw1001==
-- [RawBaka](https://rawbaka.site/)
 - [Rawkuma](https://rawkuma.net/)
+- [RawSakura](https://rawsakura.org/)
 - [Raw FREE](https://rawfree.llc/)
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.media/home/)
@@ -419,6 +418,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Site | Manga | Novel | Magazine |
 |------|:-----:|:-----:|:--------:|
+| [678DL](https://678dl.net/) [x||R18||](https://r18.678dl.net/) | :yes: | :yes: | :no: |
 | [888DL](https://888dl.ps/) | :yes: | :yes: | :yes: |
 | [A-z Manga](https://www.a-zmanga.net/) | :yes: | :yes: | :yes: |
 | [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
