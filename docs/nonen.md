@@ -26,10 +26,10 @@ og:
 |----------|----------|---------|--------|--------|
 | [Kagane](https://kagane.to/) ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaDotNet](https://mangadot.net/) ==Mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaDot](https://mangadot.net/) ==Mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/) | :msync: | :ps::up: | :ls: | :cmnt: |
 | [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | :no: | :ms: | :ls::lsg: | :no: |
-| [MangaFire](https://mangafire.to/) ==MangaFire== | :ie::msync: | :ps: | :sp::dp::ls: | :no: |
+| [MangaFire](https://mangafire.to/) ==MangaFire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
 
 ::: tip Apps
 Most apps in [**software**](/software) supports multilingual sources
@@ -134,7 +134,6 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Yoyomanga](https://www.yoyomanga.com/)
 
 ### Novels
-- [23qb](https://www.23qb.net/)
 - [EPUB.moe](https://epub.moe/)
 - [ESJ Zone](https://www.esjzone.cc/)
 - [Light Novel](https://www.lightnovel.fun/)
@@ -456,7 +455,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Funbe](https://funbe679.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon006.com/) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon157.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee119.asia/) [:tg:](https://t.me/nameetoonlink) |
+| ^^ | [NameeToon](https://namee120.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
 | ^^ | [TOONKOR](https://toonkor2.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |
