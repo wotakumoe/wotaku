@@ -387,14 +387,12 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Manga Raw (.ac)](https://mangaraw.ac/) ==m:mangarawspoil==
 - [Manga Raw (.ad)](https://mangarawad.wiki/)
 - [Manga Raw (.best)](https://mangaraw.best/)
-- [MangarawJP](https://mangarawjp.me/)
 - [RAW 1001](https://raw1001.net/home) ==m:raw1001==
 - [Rawkuma](https://rawkuma.net/)
-- [RawSakura](https://rawsakura.org/)
 - [Raw FREE](https://rawfree.llc/)
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.media/home/)
-- [RawUwU](https://rawuwu.net/) [:alt:](https://rawdevart.art/)
+- [RawUwU](https://rawuwu.net/) ==m:rawuwu==
 - [Soraraw](https://soraraw.com/)
 
 </Collapsible>
