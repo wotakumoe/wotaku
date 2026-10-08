@@ -242,7 +242,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 
 | Category | Websites |
 | :--- | :--- |
-| **Official** | [cyrisia](https://cyrisia.com/) |
+| **Official** | [cyrisia](https://cyrisia.com/?type=ln) |
 | ^^ | [Ranobe](https://staging.ranobe.app/) :acc: ||AlpinDale|| |
 | **FanTL** | [Novel Updates](https://www.novelupdates.com/) |
 | ^^ | [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page) |
