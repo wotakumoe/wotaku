@@ -73,9 +73,8 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Doujinshi.info](https://discord.gg/xeZXvEB9uw)
 - [Dynasty Scans](https://discord.gg/e4sbY8S)
 - [Elscione's Library](https://discord.gg/zSpYj4GJVv)
-- [Great Discord Links Hub](https://discord.gg/9KGMzP2) ||Scan groups||
+- [Great Discord Links Hub](https://discord.gg/9KGMzP2) ||Scanlators||
 - [J-Novel Club](https://discord.gg/WmRnnFvfS3)
-- [Kagane](https://discord.gg/FqXt7rmnV3)
 - [r/Manga](https://discord.gg/manga)
 - [r/MangaPiracy](https://discord.gg/ZgMtAyxFSU)
 - [MangaBaka](https://discord.gg/XYtPtMkbKs)
@@ -110,7 +109,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [DoujinStyle](https://discord.gg/z2QDFdA)
 - [Lucida](https://discord.gg/dXEGRWqEbS)
 - [MikuDB](https://discord.gg/w9Dq25n)
-- [Monochrome](https://discord.gg/4DYm4artsN)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [UtaTime](https://discord.gg/8dspgw2pBX)
 
