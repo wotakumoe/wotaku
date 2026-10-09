@@ -497,6 +497,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Anime** | [AniBunker](https://www.anibunker.com/) |
 | ^^ | [AnimeFire](https://animefire.plus/) |
 | ^^ | [CXTv](https://www.cxtv.com.br/) ||TV|| |
+| ^^ | [Geekdot](https://geekdot.live/) ||TV|| |
 | ^^ | [Goyabu](https://goyabu.io/inicio) |
 | ^^ | [Hinata Soul](https://www.hinatasoul.com/) |
 | ^^ | [Watch Anime Hentai](https://www.watchanimehentai.com/) :ero: |
