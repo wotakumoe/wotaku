@@ -205,6 +205,7 @@ outline: 2
 | ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :ljp: [:rss:](https://bunko.sumikko.info/rss.xml) |
 
 == Manga & Novels Publisher
+- [Bookwalker](https://bookwalker.com/calendar) [||JP||](https://bookwalker.jp/schedule/)
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
 - [Dark Horse](https://www.darkhorse.com/books/upcoming/)
 - [J-Novel Club](https://j-novel.club/calendar)
