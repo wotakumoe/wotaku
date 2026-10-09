@@ -240,7 +240,6 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Anime Archive](https://anime-archive.com/) :ded::ddl: |
 | ^^ | [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host: + :len: |
 | ^^ | [AniWorld](https://aniworld.to/) :strm: + :len: |
-| ^^ | [FireAnime](https://fireani.me/) :strm: + :len: |
 | ^^ | [Melon-Subs](https://melon-subs.de/) :ded::ddl: |
 | ^^ | [Yamayurikai Subs](https://yamayurikai-subs.eu/) :ded::ddl: |
 | **Manga** | [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host: |
@@ -451,7 +450,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [FreeToon](https://foc131.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe679.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
-| ^^ | [GoodToon](https://www.goodtoon006.com/) [:tg:](https://t.me/goodtoon_url) |
+| ^^ | [GoodToon](https://www.goodtoon007.com/) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon157.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee120.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
@@ -459,7 +458,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon227.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [YaToon](https://yatoon254.asia/) [:tg:](https://t.me/yatoonlink) |
+| ^^ | [YaToon](https://yatoon255.asia/) [:tg:](https://t.me/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 
@@ -599,7 +598,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Watch Anime Hentai](https://www.watchanimehentai.com/) :ero: |
 | **Download** | [Japan Paw!](https://japanpaw.com/) |
 | ^^ | [SphinxAnime](https://sphinxanime.com/) |
-| ^^ | [Nekomitai](https://nekomitai.net/) |
 | ^^ | [Ivanime](https://www.ivanime.com/) |
 | ^^ | [DW Anime](https://dw-anime.net/) |
 | ^^ | [Az-Animex](https://www.az-animex.com/) |
