@@ -151,7 +151,7 @@ Some content may not be available depending on your region.
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 79k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt: |
 
 <more>
 
