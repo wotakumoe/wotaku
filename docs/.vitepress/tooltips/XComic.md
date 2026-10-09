@@ -1,3 +1,4 @@
 - Has the Bato and Mangapark dumps (cleaned up and grouped).
 - Now scrapes and reuploads from Comix without any alterations.
+- Still suffers from duped sources.
 - Uses old Bato UI.

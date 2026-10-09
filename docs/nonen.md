@@ -11,7 +11,7 @@ og:
 
 ### Anime
 
-| Websites | Library ==LibraryAni== | Login | Tracking |
+| Websites | Library ==Library== | Login | Tracking |
 |----------|------------------------|-------|----------|
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 5.2k | :yes: | :sync::ie::msync: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |
@@ -28,8 +28,8 @@ og:
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/) | :msync: | :ps::up: | :ls: | :cmnt: |
-| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | :no: | :ms: | :ls::lsg: | :no: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
+| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | :no: | :ps: | :ls::lsg: | :no: |
 
 ::: tip Apps
 Most apps in [**software**](/software) supports multilingual sources

@@ -21,7 +21,7 @@ outline: 2
 
 == Online
 
-| Websites | Library ==LibraryAni== | Login | Tracking | Sub |
+| Websites | Library ==Library== | Login | Tracking | Sub |
 |----------|------------------------|-------|----------|-----|
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 5.2k | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |  :cc: |
@@ -155,15 +155,15 @@ Some content may not be available depending on your region.
 
 <more>
 
-| [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 79k | :msync: | :ss: | :ls: | :cmnt: |
-| [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [MangaK](https://mangak.io/home) | 41k | :no: | :ss: | :sp::ls: | :cmnt: |
-| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ms: | :ls::lsg: | :no: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
+| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ps: | :ls::lsg: | :no: |
+| [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
+| [MangaK](https://mangak.io/home) | 41k | :no: | :ss: | :sp::ls: | :cmnt: |
+| [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 90k | :no: | :ss: | :ls: | :cmnt: |
-| [Like Manga](https://likemanga.ink/) | 40k | :msync: | :ss: | :ls: | :cmnt: |
+| [Like Manga](https://likemanga.ink/) ==m:like-manga== | 40k | :msync: | :ss: | :ls: | :cmnt: |
 | [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | 4k | :msync: | :ss::up: | :sp: | :frm: |
 
 == Download
