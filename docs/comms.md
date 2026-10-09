@@ -121,7 +121,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [r/Yugioh](https://discord.gg/yugioh)
 
 == NSFW
-
+- [FAKKU](https://discord.gg/SCjbSWkMHB)
 - [Hanako's Hideout](https://discord.gg/jVvSbYB)
 - [hanime.tv Community](https://discord.gg/hanime-tv)
 - [HenTalk](https://discord.gg/jUv3a6EHeY)
@@ -133,7 +133,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Tsumino](https://discord.gg/v6RfNfA7WW)
 
 == Japan
-
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [jpdb.io](https://discord.gg/jWwVD7D2sZ)
 - [Marshall's Server](https://discord.gg/ejmrfwSYAH)
