@@ -196,7 +196,6 @@ outline: 2
 | Type | Website |
 |-|-|
 | **General** | [aniSearch Calendar](https://www.anisearch.com/manga/calendar) |
-| ^^      | [Mynewworm](https://myneworm.katsurin.com/) [:src:](https://github.com/AurelicButter/Myneworm) |
 | ^^      | [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2) :s: [:rss:](https://otakucalendar.com/rss) |
 | ^^      | [Yatta-Tachi](https://yattatachi.com/tag/releases) | 
 | **Manga**   | [Sumikko Comic](https://comic.sumikko.info/) :s::ljp: [:rss:](https://comic.sumikko.info/rss.xml) |
