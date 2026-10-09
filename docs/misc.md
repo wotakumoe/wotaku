@@ -191,7 +191,7 @@ outline: 2
 | ^^ | [TVmaze](https://www.tvmaze.com/) |
 | ^^ | [Yatta-Tachi Movie Schedule](https://yattatachi.com/2026-anime-japanese-films-coming-to-u-s-theaters-online) |
 
-== Manga & Novels Third-party
+== Books - Third-party
 
 | Type | Website |
 |-|-|
@@ -204,8 +204,9 @@ outline: 2
 | ^^      | [Sumikko Novel](https://novel.sumikko.info/) :ljp: [:rss:](https://novel.sumikko.info/rss.xml) |
 | ^^      | [Sumikko Bunko](https://bunko.sumikko.info/) :ljp: [:rss:](https://bunko.sumikko.info/rss.xml) |
 
-== Manga & Novels Publisher
-- [Bookwalker](https://bookwalker.com/calendar) [||JP||](https://bookwalker.jp/schedule/)
+== Books - Publishers
+
+- [BookWalker](https://bookwalker.com/calendar) [||JP||](https://bookwalker.jp/schedule/)
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
 - [Dark Horse](https://www.darkhorse.com/books/upcoming/)
 - [J-Novel Club](https://j-novel.club/calendar)
