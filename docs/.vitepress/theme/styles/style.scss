@@ -1778,6 +1778,13 @@ html.effects-disabled {
   vertical-align: -0.125em;
 }
 
+/* adds space betn mirror and tooltip button */
+
+.mirror-wrapper + .v-popper.v-popper--theme-vp-tooltip,
+.v-popper.v-popper--theme-vp-tooltip + .mirror-wrapper {
+  margin-left: 0.25em;
+}
+
 /* Fixed-position tooltip rendered into <body> by JS to escape table overflow clipping */
 .icon-tip-popup {
   position: fixed;
