@@ -150,7 +150,7 @@ Some content may not be available depending on your region.
 | [Kagane](https://kagane.to/) ==Kagane== | 90k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 79k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
-| [Toonkotsu](https://toonkotsu.com/) | 85k | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
+| [Toonkotsu](https://toonkotsu.com/) ==Toonkotsu== | 85k | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt::frm: |
 
 <more>
@@ -159,7 +159,7 @@ Some content may not be available depending on your region.
 | [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ps: | :ls::lsg: | :no: |
-| [OniSaga](https://onisaga.com/home) | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
+| [OniSaga](https://onisaga.com/home) ==OniSaga== | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaK](https://mangak.io/home) | 41k | :no: | :ss: | :sp::ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | 79k | :msync: | :ss: | :ls: | :cmnt: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
