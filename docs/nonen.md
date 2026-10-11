@@ -13,12 +13,12 @@ og:
 
 | Websites | Library ==Library== | Login | Tracking |
 |----------|------------------------|-------|----------|
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 5.2k | :yes: | :sync::ie::msync: |
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 6.4k | :yes: | :sync::ie::msync: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | 2.9k | :yes: | :no: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | 2.1k | :yes: | :sync::ie::msync: |
-| [AniZone](https://anizone.to/) ==AniZone== | 2.2k | :no: | :msync: |
-| [KickassAnime](https://kaa.lt/) ==KAA== | 3.7k | :yes: | :msync: |
+| [AniZone](https://anizone.to/) ==AniZone== | 2.3k | :no: | :msync: |
+| [KickassAnime](https://kaa.lt/) ==KAA== | 3.8k | :yes: | :msync: |
 
 ### Manga
 
