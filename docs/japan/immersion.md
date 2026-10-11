@@ -24,7 +24,7 @@ og:
 | Video Games | [Game Gengo](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview) |
 
 ::: scrapetable {Topics}
-- Jiten : (Anime), (Audio), (Live Action), (Manga), (Non-Fiction), (Novels), (Light Novels), (Video Games), (Visual Novels), (Web Novels);
+- Jiten : (Anime), (Audio), (Live Action), (Manga), (Non-Fiction), (Novels), (Light Novels), (Video Games), (Visual Novels), (Web Novels), (YouTube);
 - JPDB : (Anime), (Novels), (Light Novels), (Visual Novels), (Web Novels), (Live Action);
 - Kuri : (Anime), (Manga), (Novels), (Light Novels), (Visual Novels), (Video Games), (Live Action), (YouTube), (VTubers), (Podcasts);
 - Jo-Mako : (Course), (Anime), (Video Games), (Visual Novels), (Manga), (Live Action);
