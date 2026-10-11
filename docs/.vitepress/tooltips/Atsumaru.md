@@ -1,2 +1,2 @@
-- Mostly scrapes Weeb Central, but has own uploads too.
+- A large portion of the library comes from Weeb Central.
 - Transcodes images to WebP.
