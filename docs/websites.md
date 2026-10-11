@@ -23,7 +23,7 @@ outline: 2
 
 | Websites | Library ==Library== | Login | Tracking | Sub |
 |----------|------------------------|-------|----------|-----|
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 5.2k | :yes: | :sync::ie::msync: | :cc: |
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 6.4k | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |  :cc: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | 2.9k | :yes: | :no: | :cc::oc: |
 | [ani.pm](https://ani.pm/) ==anipm== | 8.9k | :yes: | :sync::ie::msync: | :cc::oc: |
@@ -34,8 +34,8 @@ outline: 2
 | [AniHQ](https://anihq.cc/home/) | 5.8k | :yes: | :no: | :oc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | 6.5k | :no: | :msync: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | 2.1k | :yes: | :sync::ie::msync: | :cc: |
-| [AniZone](https://anizone.to/) ==AniZone== | 2.2k | :no: | :msync: | :cc: |
-| [KickassAnime](https://kaa.lt/) ==KAA== | 3.7k | :yes: | :msync: | :cc: |
+| [AniZone](https://anizone.to/) ==AniZone== | 2.3k | :no: | :msync: | :cc: |
+| [KickassAnime](https://kaa.lt/) ==KAA== | 3.8k | :yes: | :msync: | :cc: |
 | [AnimeX](https://animex.one/home) :scrpr: | - | :yes: | :sync::ie: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
 
