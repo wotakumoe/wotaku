@@ -451,7 +451,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [FreeToon](https://foc132.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe680.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon007.com/) [:tg:](https://t.me/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon157.asia/) [:tg:](https://t.me/mtoonopen) |
+| ^^ | [MoneyToon](https://mtoon158.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee120.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
 | ^^ | [TOONKOR](https://toonkor3.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
@@ -680,10 +680,9 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [AnimeVsub](https://animevsub.eu.org/) [:src:](https://github.com/anime-vsub/desktop-web) |
 | ^^ | [Unime](https://unime.vercel.app/) [:src:](https://github.com/huy232/Unime) |
 | ^^ | [WebLinhTinh](https://weblinhtinh1.net/) |
-| **Comics** | [Goc Truyen Tranh](https://goctruyentranh.com/) |
-| ^^ | [NhatTruyen](https://nhattruyenqq.com/) |
+| **Comics** | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyenpet.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenvie.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [HentaiVN](https://hentaivn.show/) |
 | **Novels** | [Hako](https://docln.net/) |
