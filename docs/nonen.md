@@ -451,7 +451,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [FreeToon](https://foc132.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe680.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
-| ^^ | [GoodToon](https://www.goodtoon007.com/) [:tg:](https://t.me/goodtoon_url) |
+| ^^ | [GoodToon](https://www.goodtoon007.com/?mcat=webtoon) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon158.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee120.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
