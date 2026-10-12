@@ -74,17 +74,17 @@ og:
 
 ## Hayase
 
-::: extrepo {scheme=hayase}
+::: extrepo {scheme=hayase, manual}
 
-== Default
+== Subtitle
 - url: https://exten.pages.dev/
 - raw: https://exten.pages.dev/index.json
 
-== Dub
-- raw: https://exten.pages.dev/dub/index.json
-
 == Multi-Subs
 - raw: https://exten.pages.dev/multi/index.json
+
+== English Dub
+- raw: https://exten.pages.dev/dub/index.json
 
 == Hentai
 - raw: https://exten.pages.dev/hentai/index.json
