@@ -26,7 +26,7 @@ og:
 
 ## Manga
 
-::: extrepo {scheme=mihon}
+::: extrepo {scheme=mihon,manual}
 
 == Keiyoushi
 - url: https://keiyoushi.github.io/

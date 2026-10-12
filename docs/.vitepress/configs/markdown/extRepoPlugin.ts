@@ -40,20 +40,26 @@ interface ParsedRepoEntry {
   builds?: ParsedRepoBuild[]
 }
 
+import { parseExtRepoAttrs } from '../../../ext/extensionRepos/attrs'
+
 // Parser
 
-function parseAttrs(info: string): Record<string, string> {
-  const match = info.match(/\{([^}]*)\}/)
-  if (!match) return {}
-  const attrs: Record<string, string> = {}
-  for (const pair of match[1].split(/\s+/).filter(Boolean)) {
-    const [key, value] = pair.split('=')
-    if (key && value) attrs[key] = value.replace(/^["']|["']$/g, '')
-  }
-  return attrs
+function isManualOrder(attrs: Record<string, string>): boolean {
+  if (attrs.order !== undefined) return attrs.order === 'manual'
+  const manual = attrs.manual?.toLowerCase()
+  return manual === 'true' || manual === '1'
 }
 
-const FIELD_KEYS = new Set(['url', 'src', 'raw', 'note', 'manga', 'anime', 'novel', 'data'])
+const FIELD_KEYS = new Set([
+  'url',
+  'src',
+  'raw',
+  'note',
+  'manga',
+  'anime',
+  'novel',
+  'data'
+])
 
 function parseEntries(bodyLines: string[]): ParsedRepoEntry[] {
   const entries: ParsedRepoEntry[] = []
@@ -88,7 +94,19 @@ function parseEntries(bodyLines: string[]): ParsedRepoEntry[] {
         if (key === 'raw') currentBuild.raw = value
         continue
       }
-      if (FIELD_KEYS.has(key)) current[key as 'url' | 'src' | 'raw' | 'note' | 'manga' | 'anime' | 'novel' | 'data'] = value
+      if (FIELD_KEYS.has(key)) {
+        current[
+          key as
+            | 'url'
+            | 'src'
+            | 'raw'
+            | 'note'
+            | 'manga'
+            | 'anime'
+            | 'novel'
+            | 'data'
+        ] = value
+      }
     }
   }
   if (current) entries.push(current)
@@ -101,13 +119,21 @@ function nameMarkdown(entry: ParsedRepoEntry): string {
   return entry.src ? `${label} [:src:](${entry.src})` : label
 }
 
-function buildVariants(entry: ParsedRepoEntry): ParsedRepoVariant[] | undefined {
-  const typeCount = [entry.manga, entry.anime, entry.novel].filter(Boolean).length
+function buildVariants(
+  entry: ParsedRepoEntry
+): ParsedRepoVariant[] | undefined {
+  const typeCount =
+    [entry.manga, entry.anime, entry.novel].filter(Boolean).length
   if (typeCount === 0) return undefined
 
   const variants: ParsedRepoVariant[] = []
   if (typeCount > 1) {
-    variants.push({ label: 'All-in-One', mangaUrl: entry.manga, animeUrl: entry.anime, novelUrl: entry.novel })
+    variants.push({
+      label: 'All-in-One',
+      mangaUrl: entry.manga,
+      animeUrl: entry.anime,
+      novelUrl: entry.novel
+    })
   }
   if (entry.manga) variants.push({ label: 'Manga', mangaUrl: entry.manga })
   if (entry.anime) variants.push({ label: 'Anime', animeUrl: entry.anime })
@@ -149,7 +175,10 @@ export function extRepoPlugin(md: MarkdownIt): void {
         if (p < m && state.sCount[nextLine] < state.blkIndent) break
 
         let cnt = 0
-        while (p < m && state.src[p] === MARKER) { p++; cnt++ }
+        while (p < m && state.src[p] === MARKER) {
+          p++
+          cnt++
+        }
         if (cnt >= markerCount && state.src.slice(p, m).trim() === '') {
           found = true
           break
@@ -162,9 +191,10 @@ export function extRepoPlugin(md: MarkdownIt): void {
         bodyLines.push(state.src.slice(state.bMarks[i], state.eMarks[i]))
       }
 
-      const attrs = parseAttrs(params)
+      const attrs = parseExtRepoAttrs(params)
       const scheme = attrs.scheme || 'mihon'
       const from = attrs.from
+      const manualAttr = isManualOrder(attrs) ? ' manual' : ''
 
       const rows: ParsedRepoRow[] = []
       for (const entry of parseEntries(bodyLines)) {
@@ -180,7 +210,13 @@ export function extRepoPlugin(md: MarkdownIt): void {
             .filter((b): b is Required<ParsedRepoBuild> => Boolean(b.raw))
             .map(b => ({ label: b.label, mangaUrl: b.raw }))
           if (groupVariants.length) {
-            rows.push({ name, indexUrl: groupVariants[0].mangaUrl!, note, data: entry.data, variants: groupVariants })
+            rows.push({
+              name,
+              indexUrl: groupVariants[0].mangaUrl!,
+              note,
+              data: entry.data,
+              variants: groupVariants
+            })
           }
           continue
         }
@@ -210,7 +246,8 @@ export function extRepoPlugin(md: MarkdownIt): void {
 
       const token = state.push('html_block', '', 0)
       token.map = [startLine, nextLine]
-      token.content = `<ExtensionRepos scheme="${scheme}"${fromAttr} :repos='${reposJson}' />\n`
+      token.content =
+        `<ExtensionRepos scheme="${scheme}"${fromAttr}${manualAttr} :repos='${reposJson}' />\n`
 
       state.line = found ? nextLine + 1 : nextLine
       return true

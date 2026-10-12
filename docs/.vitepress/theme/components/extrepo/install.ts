@@ -14,17 +14,24 @@ interface InstallOpts {
   suwatteListUrl?: string
 }
 
-const INSTALL_URL_BUILDERS: Record<string, (repo: Repo, opts?: InstallOpts) => string> = {
+const INSTALL_URL_BUILDERS: Record<
+  string,
+  (repo: Repo, opts?: InstallOpts) => string
+> = {
   aidoku: repo => `aidoku://addSourceList?url=${repo.indexUrl}`,
   mihon: repo => `mihon://extension-store?url=${repo.indexUrl}`,
-  paperback: repo => `paperback://addRepo?displayName=${encodeURIComponent(stripHtml(repo.name))}&url=${paperbackBase(repo.indexUrl)}`,
+  paperback: repo =>
+    `paperback://addRepo?displayName=${
+      encodeURIComponent(stripHtml(repo.name))
+    }&url=${paperbackBase(repo.indexUrl)}`,
   suwatte: (repo, opts) => {
     const listUrl = opts?.suwatteListUrl ?? suwatteBase(repo.indexUrl)
     return opts?.suwatteV6
       ? `suwatte://list?url=${listUrl}`
       : `suwatte://AddSourceList?list=${encodeURIComponent(listUrl)}`
   },
-  cloudstreamrepo: repo => `cloudstreamrepo://${repo.indexUrl.replace(/^https?:\/\//, '')}`,
+  cloudstreamrepo: repo =>
+    `cloudstreamrepo://${repo.indexUrl.replace(/^https?:\/\//, '')}`,
   hayase: repo => `hayase://extensions/install?url=${repo.indexUrl}`,
   legado: repo => `legado://import/bookSource?src=${repo.indexUrl}`,
   lnreader: repo => `lnreader://repo/add?url=${repo.indexUrl}`
@@ -34,11 +41,9 @@ const INSTALL_URL_BUILDERS: Record<string, (repo: Repo, opts?: InstallOpts) => s
 const MANUAL_ONLY_SCHEMES = new Set(['manual'])
 
 // Schemes with no install or copy action
-const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora', 'echo'])
+const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'echo'])
 
 const NO_COPY_SCHEMES = new Set(['suwatte', 'echo'])
-
-const COPYABLE_BROWSE_ONLY_SCHEMES = new Set(['sora'])
 
 export function isBrowseOnly(scheme: string): boolean {
   return BROWSE_ONLY_SCHEMES.has(scheme)
@@ -48,14 +53,16 @@ export function hasCopyButton(scheme: string): boolean {
   return !NO_COPY_SCHEMES.has(scheme)
 }
 
-export function hasBrowseOnlyCopyButton(scheme: string): boolean {
-  return COPYABLE_BROWSE_ONLY_SCHEMES.has(scheme)
-}
-
-export function installHref(scheme: string, repo: Repo, opts?: InstallOpts): string | null {
+export function installHref(
+  scheme: string,
+  repo: Repo,
+  opts?: InstallOpts
+): string | null {
   const build = INSTALL_URL_BUILDERS[scheme]
   if (build) return build(repo, opts)
-  if (MANUAL_ONLY_SCHEMES.has(scheme) || BROWSE_ONLY_SCHEMES.has(scheme)) return null
+  if (MANUAL_ONLY_SCHEMES.has(scheme) || BROWSE_ONLY_SCHEMES.has(scheme)) {
+    return null
+  }
   return `${scheme}://add-repo?url=${repo.indexUrl}`
 }
 
@@ -67,7 +74,9 @@ export function copyValue(scheme: string, indexUrl: string): string {
 
 export function mangayomiHref(repo: Repo, variant: RepoVariant): string {
   const params: string[] = []
-  if (repo.repoName) params.push(`repo_name=${encodeURIComponent(repo.repoName)}`)
+  if (repo.repoName) {
+    params.push(`repo_name=${encodeURIComponent(repo.repoName)}`)
+  }
   if (repo.repoUrl) params.push(`repo_url=${repo.repoUrl}`)
   if (variant.mangaUrl) params.push(`manga_url=${variant.mangaUrl}`)
   if (variant.animeUrl) params.push(`anime_url=${variant.animeUrl}`)
@@ -75,12 +84,29 @@ export function mangayomiHref(repo: Repo, variant: RepoVariant): string {
   return `mangayomi://add-repo?${params.join('&')}`
 }
 
-export function mangayomiLiveContainerHref(repo: Repo, variant: RepoVariant): string {
-  return `livecontainer://open-url?url=${btoa(mangayomiHref(repo, variant))}`
+export function mangayomiLiveContainerHref(
+  repo: Repo,
+  variant: RepoVariant
+): string {
+  return `livecontainer://open-url?url=${
+    b64encodeUnicode(mangayomiHref(repo, variant))
+  }`
+}
+
+// btoa throws on non-latin1 chars, so encode UTF-8 first.
+function b64encodeUnicode(s: string): string {
+  const bytes = new TextEncoder().encode(s)
+  let bin = ''
+  for (let i = 0; i < bytes.length; i += 0x8000) {
+    bin += String.fromCharCode(...bytes.subarray(i, i + 0x8000))
+  }
+  return btoa(bin)
 }
 
 // mangayomi all in one
 export function mangayomiCopyValue(variant: RepoVariant): string | null {
-  const urls = [variant.mangaUrl, variant.animeUrl, variant.novelUrl].filter(Boolean)
+  const urls = [variant.mangaUrl, variant.animeUrl, variant.novelUrl].filter(
+    Boolean
+  )
   return urls.length === 1 ? urls[0]! : null
 }
