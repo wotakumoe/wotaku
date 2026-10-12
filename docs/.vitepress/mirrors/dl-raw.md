@@ -3,5 +3,5 @@ src: https://dl-raw.si/
 title: DL-Raw
 ---
 
-- https://dlraw.me/home/
+- https://dlraw.me/
 - https://mangazip.co/home/
