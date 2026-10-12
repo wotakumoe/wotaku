@@ -17,8 +17,10 @@ defineEmits<{
 }>()
 
 const primary = computed(() => props.sites[0])
-const highestRated = computed(() => props.sites.find(site => site.rating === 'nsfw')
-  ?? props.sites.find(site => site.rating === 'suggestive'))
+const highestRated = computed(() =>
+  props.sites.find(site => site.rating === 'nsfw') ??
+    props.sites.find(site => site.rating === 'suggestive')
+)
 
 const groupName = computed(() => {
   const wordLists = props.sites.map(site => site.name.trim().split(/\s+/))
@@ -32,7 +34,10 @@ const groupName = computed(() => {
   if (common.length > 0) return common.join(' ')
 
   const label = langLabel(primary.value.lang)
-  const stripped = primary.value.name.replace(new RegExp(`\\s*${label}$`, 'i'), '').trim()
+  const stripped = primary.value.name.replace(
+    new RegExp(`\\s*${label}$`, 'i'),
+    ''
+  ).trim()
   return stripped || primary.value.name
 })
 </script>
@@ -47,7 +52,7 @@ const groupName = computed(() => {
     @click="$emit('toggle')"
   >
     <div class="ext-site-row">
-      <LazyIcon class="ext-site-icon" :src="primary.icon" :alt="primary.name" />
+      <LazyIcon :src="primary.icon" :alt="primary.name" />
       <span
         class="ext-site-name-text"
         :aria-label="groupName"
@@ -69,100 +74,27 @@ const groupName = computed(() => {
         @mouseleave="hideTooltip"
       />
     </div>
-    <span v-if="primary.repoName" class="ext-site-repo">{{ primary.repoName }}</span>
+    <span v-if="primary.repoName" class="ext-site-repo">{{
+      primary.repoName
+    }}</span>
   </button>
 </template>
 
-<style scoped>
-.ext-site-cell {
-  display: flex;
-  flex-direction: column;
-  gap: 0;
-  padding: 6px 8px;
-  border-radius: 6px;
-  border: 1px solid var(--vp-c-divider);
-  background-color: var(--vp-c-bg-soft);
-  min-width: 0;
-  color: var(--vp-c-text-1) !important;
-  text-decoration: none !important;
-  transition: border-color 0.2s, background-color 0.2s;
-}
+<style scoped src="./siteCellShared.css"></style>
 
+<style scoped>
 .ext-site-group {
   width: 100%;
   font: inherit;
   text-align: left;
   cursor: pointer;
 }
-
 .ext-site-group:hover,
 .ext-site-group-active {
   border-color: var(--vp-c-brand-1);
   background-color: var(--vp-c-bg);
 }
-
-.ext-site-row {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  min-width: 0;
-}
-
-.ext-site-icon {
-  width: 18px;
-  height: 18px;
-  border-radius: 4px;
-  flex-shrink: 0;
-  object-fit: contain;
-}
-
-.ext-site-icon-fallback {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--vp-c-text-3);
-}
-
-.ext-site-icon-loading {
-  background-color: var(--vp-c-bg-mute, var(--vp-c-bg-soft));
-}
-
-.ext-site-name-text {
-  display: block;
-  flex: 1;
-  min-width: 0;
-}
-
-.ext-site-name-inner {
-  display: block;
-  font-size: 12.5px;
-  font-weight: 600;
-  line-height: 1.2;
-  color: var(--vp-c-text-1);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.ext-site-nsfw,
-.ext-site-layers {
-  flex-shrink: 0;
-  font-size: 12px;
-}
-
 .ext-site-layers {
   color: var(--vp-c-brand-1);
-}
-
-.ext-site-repo {
-  display: block;
-  padding-left: 24px;
-  font-size: 10.5px;
-  font-weight: 400;
-  line-height: 1.1;
-  color: var(--vp-c-text-2);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 </style>

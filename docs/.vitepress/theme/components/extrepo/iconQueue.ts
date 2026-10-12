@@ -1,16 +1,20 @@
-const MAX_CONCURRENT_MOBILE = 6
-const MAX_CONCURRENT_DESKTOP = 24
+import { MAX_CONCURRENT_DESKTOP, MAX_CONCURRENT_MOBILE } from './constants'
 
-function maxConcurrent(): number {
-  if (typeof window === 'undefined') return MAX_CONCURRENT_DESKTOP
-  return window.matchMedia('(max-width: 767px)').matches ? MAX_CONCURRENT_MOBILE : MAX_CONCURRENT_DESKTOP
+let limit = MAX_CONCURRENT_DESKTOP
+if (typeof window !== 'undefined') {
+  const mq = window.matchMedia('(max-width: 767px)')
+  const sync = () => {
+    limit = mq.matches ? MAX_CONCURRENT_MOBILE : MAX_CONCURRENT_DESKTOP
+  }
+  sync()
+  mq.addEventListener('change', sync)
 }
 
 let active = 0
 const queue: (() => Promise<void>)[] = []
 
 function pump() {
-  while (active < maxConcurrent() && queue.length) {
+  while (active < limit && queue.length) {
     const job = queue.shift()!
     active++
     job().finally(() => {
@@ -20,7 +24,12 @@ function pump() {
   }
 }
 
-export function scheduleIconLoad(load: () => Promise<void>) {
-  queue.push(load)
+// Returns a cancel fn that drops the job if it hasn't started yet.
+export function scheduleIconLoad(load: () => Promise<void>): () => void {
+  let cancelled = false
+  queue.push(() => cancelled ? Promise.resolve() : load())
   pump()
+  return () => {
+    cancelled = true
+  }
 }

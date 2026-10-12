@@ -1,6 +1,6 @@
 ---
 title: iOS Apps Extension Repos
-customDescription: Extension Repos & Guides for Aidoku, Sora & Suwatte
+customDescription: Extension Repos & Guides for Aidoku, Paperback & Suwatte
 feedback: no
 og:
     image: /embed/ios.png
@@ -137,15 +137,6 @@ og:
 
 ::: warning Compatibility
 You can install v0.8 extensions in the v0.9 Paperback client, but you can't install v0.9 extensions in the v0.8 client.
-:::
-
-## Sora
-
-::: extrepo {scheme=sora}
-
-== Sources
-- raw: https://kotatsu-83g.pages.dev/sora/index.json
-
 :::
 
 ## Suwatte

@@ -1,4 +1,4 @@
-import { inject, provide, ref, type InjectionKey } from 'vue'
+import { inject, type InjectionKey, provide, ref } from 'vue'
 
 interface TooltipState {
   text: string
@@ -13,11 +13,21 @@ interface TooltipCtx {
 
 const KEY: InjectionKey<TooltipCtx> = Symbol('ext-tooltip')
 
+let hoverable: boolean | undefined
+
+function canHover(): boolean {
+  if (hoverable === undefined) {
+    hoverable = typeof window !== 'undefined' &&
+      window.matchMedia('(hover: hover)').matches
+  }
+  return hoverable
+}
+
 export function provideTooltip() {
   const tooltip = ref<TooltipState | null>(null)
 
   function show(e: MouseEvent, text: string) {
-    if (typeof window === 'undefined' || !window.matchMedia('(hover: hover)').matches) return
+    if (!canHover()) return
     const rect = (e.currentTarget as HTMLElement).getBoundingClientRect()
     tooltip.value = { text, x: rect.left + rect.width / 2, y: rect.top }
   }
@@ -33,6 +43,10 @@ export function provideTooltip() {
 
 export function useTooltip(): TooltipCtx {
   const ctx = inject(KEY)
-  if (!ctx) throw new Error('useTooltip() must be called within a component tree wrapped by provideTooltip()')
+  if (!ctx) {
+    throw new Error(
+      'useTooltip() must be called within a component tree wrapped by provideTooltip()'
+    )
+  }
   return ctx
 }

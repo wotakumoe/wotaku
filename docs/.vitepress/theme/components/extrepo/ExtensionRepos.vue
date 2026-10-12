@@ -1,54 +1,124 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue'
-import { data } from '../../../../ext/extensionRepos.data'
-import { escapeHtml, langLabel, stripHtml } from './helpers'
+import { refDebounced } from '@vueuse/core'
+import { computed, onUnmounted, ref } from 'vue'
+import { SEARCH_DEBOUNCE_MS, STATUS_TICK_MS } from './constants'
+import { escapeHtml, stripHtml } from './helpers'
 import { mangayomiCopyValue } from './install'
 import RepoRow from './RepoRow.vue'
 import SettingsMenu from './SettingsMenu.vue'
 import SiteGrid from './SiteGrid.vue'
 import type { MatchedSite, RatingFilter, Repo } from './types'
+import { indexSites, useRepoFilter } from './useRepoFilter'
+import { provideRepoStore } from './useRepoStore'
 import { provideTooltip } from './useTooltip'
 
 const { tooltip } = provideTooltip()
-
-const repoData = data.sites
-const soraAuthors = data.soraAuthors
-const echoAuthors = data.echoAuthors
-const repoLists = data.repoLists ?? {}
 
 const props = defineProps<{
   repos: Repo[]
   scheme: string
   from?: string
+  manual?: boolean
 }>()
 
+const {
+  store,
+  loading,
+  refreshing,
+  refreshFailed,
+  loadFailed,
+  updatedAt,
+  loadMs,
+  refresh,
+  retry
+} = provideRepoStore(props.scheme)
+
+const ticked = ref(false)
+let tickTimer: ReturnType<typeof setTimeout> | undefined
+
+onUnmounted(() => {
+  if (tickTimer) clearTimeout(tickTimer)
+})
+
+async function onStatusClick() {
+  if (loading.value || refreshing.value) return
+  if (loadFailed.value) {
+    await retry()
+    return
+  }
+  ticked.value = false
+  if (tickTimer) clearTimeout(tickTimer)
+  await refresh()
+  if (!refreshFailed.value) {
+    ticked.value = true
+    tickTimer = setTimeout(() => {
+      ticked.value = false
+    }, STATUS_TICK_MS)
+  }
+}
+
+const busy = computed(() => loading.value || refreshing.value)
+const failed = computed(() => loadFailed.value || refreshFailed.value)
+
+const statusIcon = computed(() => {
+  if (busy.value) return 'i-lucide:loader-circle'
+  if (failed.value) return 'i-lucide:x'
+  if (ticked.value) return 'i-lucide:check'
+  return 'i-lucide:refresh-cw'
+})
+
+const statusTitle = computed(() => {
+  const ms = loadMs.value !== null ? ` (${loadMs.value}ms)` : ''
+  if (loading.value) return `Loading sites…${ms}`
+  if (refreshing.value) return 'Refreshing…'
+  if (failed.value) return `Loading failed${ms} — click to retry`
+  if (ticked.value) return 'Database refreshed'
+  if (updatedAt.value) {
+    return `Database refreshed at ${new Date(updatedAt.value).toLocaleTimeString()}`
+  }
+  return `Refresh data${ms}`
+})
+
+const repoData = computed(() => store.value?.sites ?? {})
+const echoAuthors = computed(() => store.value?.echoAuthors ?? {})
+const repoLists = computed(() => store.value?.repoLists ?? {})
+
 const baseRepos = computed<Repo[]>(() => {
-  const list = props.from ? repoLists[props.from] ?? [] : []
+  const list = props.from ? repoLists.value[props.from] ?? [] : []
   const auto: Repo[] = list.map(entry => ({
     name: entry.repoUrl
-      ? `<a href="${entry.repoUrl}" target="_blank" rel="noopener noreferrer">${escapeHtml(entry.label)}</a>`
+      ? `<a href="${entry.repoUrl}" target="_blank" rel="noopener noreferrer">${
+        escapeHtml(entry.label)
+      }</a>`
       : escapeHtml(entry.label),
     indexUrl: entry.indexUrl,
     repoName: entry.label,
     repoUrl: entry.repoUrl
   }))
   const manualByUrl = new Map(props.repos.map(repo => [repo.indexUrl, repo]))
-  const merged = [...auto.filter(repo => !manualByUrl.has(repo.indexUrl)), ...props.repos]
-  merged.sort((a, b) => stripHtml(a.name).localeCompare(stripHtml(b.name)))
+  const merged = [
+    ...auto.filter(repo => !manualByUrl.has(repo.indexUrl)),
+    ...props.repos
+  ]
+  if (!props.manual) {
+    merged.sort((a, b) => stripHtml(a.name).localeCompare(stripHtml(b.name)))
+  }
   return merged
 })
 
 const resolvedRepos = computed<Repo[]>(() => {
   const result: Repo[] = []
   for (const repo of baseRepos.value) {
-    const authors = soraAuthors[repo.indexUrl] ?? echoAuthors[repo.indexUrl]
+    const authors = echoAuthors.value[repo.indexUrl]
     if (!authors?.length) {
       result.push(repo)
       continue
     }
     for (const author of authors) {
       const name = author.repoUrl
-        ? `<a href="${author.repoUrl}" target="_blank" rel="noopener noreferrer">${escapeHtml(author.label)}</a>`
+        ? `<a href="${author.repoUrl}" target="_blank" rel="noopener noreferrer">${
+          escapeHtml(author.label)
+        }</a>`
         : escapeHtml(author.label)
       result.push({ name, indexUrl: author.indexUrl, repoName: author.label })
     }
@@ -57,24 +127,22 @@ const resolvedRepos = computed<Repo[]>(() => {
 })
 
 const query = ref('')
+const debouncedQuery = refDebounced(query, SEARCH_DEBOUNCE_MS)
 const langFilter = ref('')
 const ratingFilter = ref<RatingFilter>('all')
 const contentTypeFilter = ref('')
-const excludedStreamTypes = ref<Set<string>>(new Set())
-const excludedQualities = ref<Set<string>>(new Set())
 const showBroken = ref(false)
 
-const allSites = computed<MatchedSite[]>(() => {
+const allSites = computed(() => {
   const sites: MatchedSite[] = []
   for (const repo of resolvedRepos.value) {
     if (repo.variants?.length) {
-      // search fix for variations of setup. (mangayomi and kotatsu)
       const sameRepoName = repo.repoName ? stripHtml(repo.name) : undefined
       for (const variant of repo.variants) {
         const url = mangayomiCopyValue(variant)
         if (!url) continue
         const repoName = sameRepoName ?? variant.label
-        for (const site of repoData[url]?.sites ?? []) {
+        for (const site of repoData.value[url]?.sites ?? []) {
           sites.push({ ...site, repoName })
         }
       }
@@ -82,62 +150,19 @@ const allSites = computed<MatchedSite[]>(() => {
     }
     const repoName = stripHtml(repo.name)
     const dataUrl = repo.data ?? repo.indexUrl
-    for (const site of repoData[dataUrl]?.sites ?? []) {
+    for (const site of repoData.value[dataUrl]?.sites ?? []) {
       sites.push({ ...site, repoName })
     }
   }
-  return sites
+  return indexSites(sites)
 })
 
-const availableContentTypes = computed(() => {
-  const types = new Set<string>()
-  for (const site of allSites.value) if (site.contentType) types.add(site.contentType)
-  return [...types].sort()
-})
-const hasContentTypes = computed(() => availableContentTypes.value.length > 0)
-
-const availableStreamTypes = computed(() => {
-  const types = new Set<string>()
-  for (const site of allSites.value) if (site.streamType) types.add(site.streamType)
-  return [...types].sort()
-})
-const hasStreamTypes = computed(() => availableStreamTypes.value.length > 0)
-
-const availableQualities = computed(() => {
-  const types = new Set<string>()
-  for (const site of allSites.value) if (site.quality) types.add(site.quality)
-  return [...types].sort()
-})
-const hasQualities = computed(() => availableQualities.value.length > 0)
-
-const hasRatings = computed(() => allSites.value.some(site => site.rating !== 'safe'))
-const hasSuggestive = computed(() => allSites.value.some(site => site.rating === 'suggestive'))
-const hasMultiLanguage = computed(() => allSites.value.some(site => site.lang.toLowerCase() === 'all'))
-const hasBroken = computed(() => allSites.value.some(site => site.isBroken))
-
-const availableLangs = computed(() => {
-  const codes = new Set(allSites.value.map(site => site.lang))
-  codes.delete('all')
-  return [...codes].sort((a, b) => langLabel(a).localeCompare(langLabel(b)))
-})
-
-const isFiltering = computed(() => {
-  return query.value.trim() !== '' || langFilter.value !== '' || ratingFilter.value !== 'all'
-    || contentTypeFilter.value !== '' || excludedStreamTypes.value.size > 0 || excludedQualities.value.size > 0
-})
-
-const filteredSites = computed(() => {
-  const q = query.value.trim().toLowerCase()
-  return allSites.value.filter(site => {
-    if (site.isBroken && !showBroken.value) return false
-    if (q && !site.name.toLowerCase().includes(q) && !site.url.toLowerCase().includes(q)) return false
-    if (langFilter.value && site.lang !== langFilter.value) return false
-    if (ratingFilter.value !== 'all' && site.rating !== ratingFilter.value) return false
-    if (contentTypeFilter.value && site.contentType !== contentTypeFilter.value) return false
-    if (site.streamType && excludedStreamTypes.value.has(site.streamType)) return false
-    if (site.quality && excludedQualities.value.has(site.quality)) return false
-    return true
-  })
+const { facets, isFiltering, filteredSites } = useRepoFilter(allSites, {
+  query: debouncedQuery,
+  langFilter,
+  ratingFilter,
+  contentTypeFilter,
+  showBroken
 })
 </script>
 
@@ -148,24 +173,33 @@ const filteredSites = computed(() => {
         <span class="i-lucide:search" />
         <input v-model="query" type="text" placeholder="Search all sites…" />
       </div>
+      <button
+        type="button"
+        class="ext-status-btn"
+        :class="{
+          spinning: busy,
+          'is-failed': !busy && failed,
+          'is-ok': !busy && !failed && ticked
+        }"
+        :disabled="busy"
+        :title="statusTitle"
+        aria-label="Reload site data"
+        @click="onStatusClick"
+      >
+        <span :class="statusIcon" />
+      </button>
       <SettingsMenu
         v-model:lang-filter="langFilter"
         v-model:rating-filter="ratingFilter"
         v-model:content-type-filter="contentTypeFilter"
-        v-model:stream-type-filter="excludedStreamTypes"
-        v-model:quality-filter="excludedQualities"
         v-model:show-broken="showBroken"
-        :available-langs="availableLangs"
-        :has-multi-language="hasMultiLanguage"
-        :has-ratings="hasRatings"
-        :has-suggestive="hasSuggestive"
-        :available-content-types="availableContentTypes"
-        :has-content-types="hasContentTypes"
-        :available-stream-types="availableStreamTypes"
-        :has-stream-types="hasStreamTypes"
-        :available-qualities="availableQualities"
-        :has-qualities="hasQualities"
-        :has-broken="hasBroken"
+        :available-langs="facets.availableLangs"
+        :has-multi-language="facets.hasMultiLanguage"
+        :has-ratings="facets.hasRatings"
+        :has-suggestive="facets.hasSuggestive"
+        :available-content-types="facets.availableContentTypes"
+        :has-content-types="facets.availableContentTypes.length > 0"
+        :has-broken="facets.hasBroken"
       />
     </div>
 
@@ -178,7 +212,13 @@ const filteredSites = computed(() => {
     />
 
     <div v-else>
-      <RepoRow v-for="repo in resolvedRepos" :key="repo.indexUrl" :repo="repo" :scheme="scheme" :show-broken="showBroken" />
+      <RepoRow
+        v-for="repo in resolvedRepos"
+        :key="repo.indexUrl"
+        :repo="repo"
+        :scheme="scheme"
+        :show-broken="showBroken"
+      />
     </div>
   </div>
 
@@ -187,7 +227,9 @@ const filteredSites = computed(() => {
       v-if="tooltip"
       class="ext-fixed-tooltip"
       :style="{ left: tooltip.x + 'px', top: tooltip.y + 'px' }"
-    >{{ tooltip.text }}</div>
+    >
+      {{ tooltip.text }}
+    </div>
   </Teleport>
 </template>
 
@@ -198,7 +240,6 @@ const filteredSites = computed(() => {
   border-radius: var(--radius-xl, 12px);
   overflow: hidden;
 }
-
 .ext-toolbar {
   display: flex;
   flex-wrap: wrap;
@@ -208,7 +249,6 @@ const filteredSites = computed(() => {
   background-color: var(--vp-c-bg-soft);
   border-bottom: 1px solid var(--vp-c-divider);
 }
-
 .ext-search {
   display: flex;
   align-items: center;
@@ -220,7 +260,6 @@ const filteredSites = computed(() => {
   background-color: var(--vp-c-bg);
   color: var(--vp-c-text-2);
 }
-
 .ext-search input {
   flex: 1;
   min-width: 0;
@@ -230,7 +269,49 @@ const filteredSites = computed(() => {
   color: var(--vp-c-text-1);
   font-size: 13px;
 }
-
+.ext-status-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  color: var(--vp-c-text-1);
+  opacity: 0.55;
+  cursor: pointer;
+  transition: opacity 0.25s;
+}
+.ext-status-btn:hover:not(:disabled) {
+  opacity: 1;
+}
+.ext-status-btn:disabled {
+  cursor: default;
+}
+.ext-status-btn span {
+  font-size: 15px;
+}
+.ext-status-btn.spinning span {
+  animation: ext-spin 1s linear infinite;
+}
+.ext-status-btn.is-failed {
+  color: var(--vp-c-red-2, #e5484d);
+  opacity: 1;
+}
+.ext-status-btn.is-ok {
+  color: var(--vp-c-green-1, #3dd68c);
+  opacity: 1;
+}
+@keyframes ext-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+html.effects-disabled .ext-status-btn.spinning span {
+  animation: none;
+}
 .ext-fixed-tooltip {
   position: fixed;
   z-index: 9999;
