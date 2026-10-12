@@ -306,21 +306,16 @@ og:
 - [Animepahe Plus](https://github.com/hwk929/Animepahe-plus) :ff:
 - [Anime Skip Player](https://anime-skip.com/) :cr::ff: [:src:](https://github.com/anime-skip/player)
 - [Aniskip](https://github.com/aniskip/aniskip-extension) :cr::ff:
-- [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons) :cr::ff:
 - [Streaming enhanced](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) :cr::ff:
 - [Substital](https://substital.com/) :cs: :cr::ff:
 
 == Manga
 
-- [All Manga Reader](https://www.allmangasreader.com/) [:src:](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) :cr::ff:
 - [Image Max URL](https://github.com/qsniyg/maxurl) :ff:
-- [Manganato Enhancer](https://github.com/sn0w12/ManganatoEnhancer) :cr:
-- [Similar Manga](https://github.com/similar-manga/similar) :cr:
 
 == Tracker
 
-- [MALSync](https://malsync.moe/) :s::cr::ff: [:src:](https://github.com/MALSync/MALSync) 
-- [MAL Redesigned](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) :cr::ff: [:src:](https://github.com/HritikVaishnav/Myanimelist-Redesigned)
+- [MALSync](https://malsync.moe/) :s::cr::ff: [:src:](https://github.com/MALSync/MALSync)
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler) :cr::ff:
 
 == Image
