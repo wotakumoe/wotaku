@@ -45,7 +45,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Anime4up](https://w1.anime4up.rest/home8/) |
 | ^^ | [Animeblkom](https://blkom.com/) |
 | ^^ | [Animerco](https://eta.animerco.org/) |
-| ^^ | [Animezid](https://animezid.cam/) |
+| ^^ | [Animezid](https://animezid.org/) |
 | ^^ | [Arabic Toons](https://www.arabic-toons.com/) |
 | ^^ | [Kawaii Anime](https://kawaiianime.cc/) |
 | ^^ | [Mirai Anime](https://miraianime.net/) |
@@ -376,7 +376,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.link/)
+- [Dokiraw](https://dokiraw.guru/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [Hachiraw](https://hachiraw.net/)
 - [KL Manga](https://old.klz9.com/) ==m:kl-manga==
@@ -385,13 +385,13 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 <Collapsible title="More">
 
 - [Manga Raw (.ac)](https://mangaraw.ac/) ==m:mangarawspoil==
-- [Manga Raw (.ad)](https://mangarawad.wiki/)
+- [Manga Raw (.ad)](https://mangarawad.link/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [RAW 1001](https://raw1001.net/home) ==m:raw1001==
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.llc/)
+- [Raw FREE](https://rawfree.you/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.media/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://ww1.jmanga.media/home/)
 - [RawUwU](https://rawuwu.net/) ==m:rawuwu==
 - [Soraraw](https://soraraw.com/)
 
@@ -449,17 +449,17 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc132.asia/) [:tg:](https://t.me/foclink) |
+| ^^ | [FreeToon](https://foc133.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe680.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon007.com/?mcat=webtoon) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon158.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee120.asia/) [:tg:](https://t.me/nameetoonlink) |
+| ^^ | [NameeToon](https://namee121.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
 | ^^ | [TOONKOR](https://toonkor3.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon227.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [YaToon](https://yatoon255.asia/) [:tg:](https://t.me/yatoonlink) |
+| ^^ | [YaToon](https://yatoon256.asia/) [:tg:](https://t.me/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 
