@@ -227,6 +227,7 @@ const typeTrigger = computed(() =>
 <style scoped>
 .ext-settings {
   position: relative;
+  flex-shrink: 0;
 }
 .ext-settings-btn {
   display: flex;

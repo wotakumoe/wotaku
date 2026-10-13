@@ -243,7 +243,7 @@ const { facets, isFiltering, filteredSites } = useRepoFilter(allSites, {
 }
 .ext-toolbar {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   align-items: center;
   gap: 8px;
   padding: 10px;
@@ -254,7 +254,8 @@ const { facets, isFiltering, filteredSites } = useRepoFilter(allSites, {
   display: flex;
   align-items: center;
   gap: 6px;
-  flex: 1 1 200px;
+  flex: 1 1 auto;
+  min-width: 0;
   padding: 6px 10px;
   border-radius: 8px;
   border: 1px solid var(--vp-c-divider);
@@ -270,10 +271,14 @@ const { facets, isFiltering, filteredSites } = useRepoFilter(allSites, {
   color: var(--vp-c-text-1);
   font-size: 13px;
 }
+.ext-search > span {
+  flex-shrink: 0;
+}
 .ext-status-btn {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
   width: 30px;
   height: 30px;
   padding: 0;
