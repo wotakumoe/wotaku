@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { refDebounced } from '@vueuse/core'
-import { computed, onUnmounted, ref } from 'vue'
+import { computed, nextTick, onUnmounted, ref, watch } from 'vue'
 import { SEARCH_DEBOUNCE_MS, STATUS_TICK_MS } from './constants'
 import { escapeHtml, stripHtml } from './helpers'
 import { mangayomiCopyValue } from './install'
@@ -38,6 +38,39 @@ let tickTimer: ReturnType<typeof setTimeout> | undefined
 
 onUnmounted(() => {
   if (tickTimer) clearTimeout(tickTimer)
+})
+
+let lastCorrectedHash: string | null = null
+
+function correctAnchorScroll() {
+  if (typeof window === 'undefined') return
+  const hash = window.location.hash
+  if (!hash || hash.length < 2 || hash === lastCorrectedHash) return
+  const raw = hash.slice(1)
+  let id = raw
+  try {
+    id = decodeURIComponent(raw)
+  } catch {
+  }
+  const target = document.getElementById(id) ?? document.getElementById(raw)
+  if (!target) return
+  lastCorrectedHash = hash
+  void nextTick(() => {
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        const navBar = document.querySelector<HTMLElement>('.VPNavBar')
+        const navOffset = navBar ? navBar.offsetHeight : 0
+        window.scrollTo({
+          top: target.getBoundingClientRect().top + window.scrollY - navOffset,
+          behavior: 'auto'
+        })
+      })
+    })
+  })
+}
+
+watch(loading, (value, oldValue) => {
+  if (oldValue && !value) correctAnchorScroll()
 })
 
 async function onStatusClick() {
