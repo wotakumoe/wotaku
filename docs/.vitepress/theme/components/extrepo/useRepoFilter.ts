@@ -30,12 +30,14 @@ export function useRepoFilter(
     const contentTypes = new Set<string>()
     const langs = new Set<string>()
     let hasRatings = false
+    let hasMixed = false
     let hasSuggestive = false
     let hasMultiLanguage = false
     let hasBroken = false
     for (const site of allSites.value) {
       if (site.contentType) contentTypes.add(site.contentType)
       if (site.rating !== 'safe') hasRatings = true
+      if (site.rating === 'mixed') hasMixed = true
       if (site.rating === 'suggestive') hasSuggestive = true
       if (site.isBroken) hasBroken = true
       if (typeof site.lang !== 'string') continue
@@ -48,6 +50,7 @@ export function useRepoFilter(
         langLabel(a).localeCompare(langLabel(b))
       ),
       hasRatings,
+      hasMixed,
       hasSuggestive,
       hasMultiLanguage,
       hasBroken

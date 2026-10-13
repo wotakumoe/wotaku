@@ -299,7 +299,7 @@ function repoListLabel(indexUrl: string, repoJson: unknown): string {
 
 function ratingFromLevel(level: number): Rating {
   if (level >= 2) return 'nsfw'
-  if (level >= 1) return 'suggestive'
+  if (level >= 1) return 'mixed'
   return 'safe'
 }
 
@@ -764,7 +764,7 @@ function toRepoDataLNReader(plugins: LNReaderPlugin[]): RepoSite[] {
 
 const CONTENT_WARNING_RATING: Record<string, Rating> = {
   CONTENT_WARNING_NSFW: 'nsfw',
-  CONTENT_WARNING_MIXED: 'suggestive',
+  CONTENT_WARNING_MIXED: 'mixed',
   CONTENT_WARNING_SAFE: 'safe'
 }
 

@@ -19,7 +19,8 @@ defineEmits<{
 const primary = computed(() => props.sites[0])
 const highestRated = computed(() =>
   props.sites.find(site => site.rating === 'nsfw') ??
-    props.sites.find(site => site.rating === 'suggestive')
+    props.sites.find(site => site.rating === 'suggestive') ??
+    props.sites.find(site => site.rating === 'mixed')
 )
 
 const groupName = computed(() => {

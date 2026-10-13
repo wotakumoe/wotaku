@@ -69,7 +69,9 @@ export function ratingIcon(rating: Rating): string {
 }
 
 export function ratingTitle(rating: Rating): string {
-  return rating === 'nsfw' ? 'NSFW' : 'Mature'
+  if (rating === 'nsfw') return 'NSFW'
+  if (rating === 'suggestive') return 'Mature'
+  return 'Mixed'
 }
 
 export function contentTypeLabel(type: string): string {

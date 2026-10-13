@@ -11,6 +11,7 @@ const props = defineProps<{
   availableLangs: string[]
   hasMultiLanguage: boolean
   hasRatings: boolean
+  hasMixed: boolean
   hasSuggestive: boolean
   contentTypeFilter: string
   availableContentTypes: string[]
@@ -110,8 +111,14 @@ const ratingOptions = computed<FilterOption[]>(() => {
     { value: 'all', label: 'All' },
     { value: 'safe', label: 'Safe' }
   ]
-  if (props.hasSuggestive) opts.push({ value: 'suggestive', label: 'Mature' })
-  opts.push({ value: 'nsfw', label: props.hasSuggestive ? 'Adult' : 'NSFW' })
+  if (props.hasMixed) opts.push({ value: 'mixed', label: 'Mixed' })
+  if (props.hasSuggestive) {
+    opts.push({ value: 'suggestive', label: 'Mature' })
+  }
+  opts.push({
+    value: 'nsfw',
+    label: props.hasMixed || props.hasSuggestive ? 'Adult' : 'NSFW'
+  })
   return opts
 })
 
@@ -149,7 +156,7 @@ const typeTrigger = computed(() =>
         ref="menuRef"
         class="ext-settings-menu VPMenu"
         :class="{
-          'ext-settings-menu--wide': hasSuggestive || hasContentTypes
+          'ext-settings-menu--wide': hasMixed || hasSuggestive || hasContentTypes
         }"
         :style="menuStyle"
       >
@@ -182,12 +189,16 @@ const typeTrigger = computed(() =>
                 <strong>Safe</strong>
                 <span>Only entries with no mature content</span>
               </div>
+              <div v-if="hasMixed" class="rating-help-option">
+                <strong>Mixed</strong>
+                <span>Includes mixed content</span>
+              </div>
               <div v-if="hasSuggestive" class="rating-help-option">
                 <strong>Mature</strong>
-                <span>Includes suggestive content</span>
+                <span>Includes mature content</span>
               </div>
               <div class="rating-help-option">
-                <strong>{{ hasSuggestive ? 'Adult' : 'NSFW' }}</strong>
+                <strong>{{ hasMixed || hasSuggestive ? 'Adult' : 'NSFW' }}</strong>
                 <span>Includes explicit adult content</span>
               </div>
             </div>

@@ -196,6 +196,7 @@ const { facets, isFiltering, filteredSites } = useRepoFilter(allSites, {
         :available-langs="facets.availableLangs"
         :has-multi-language="facets.hasMultiLanguage"
         :has-ratings="facets.hasRatings"
+        :has-mixed="facets.hasMixed"
         :has-suggestive="facets.hasSuggestive"
         :available-content-types="facets.availableContentTypes"
         :has-content-types="facets.availableContentTypes.length > 0"

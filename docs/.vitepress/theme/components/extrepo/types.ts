@@ -1,4 +1,4 @@
-export type Rating = 'safe' | 'suggestive' | 'nsfw'
+export type Rating = 'safe' | 'mixed' | 'suggestive' | 'nsfw'
 export type RatingFilter = 'all' | Rating
 
 export interface RepoVariant {
