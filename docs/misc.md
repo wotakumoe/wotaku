@@ -142,7 +142,7 @@ outline: 2
 | ^^ | [Comitia](https://www.comitia.co.jp/) |
 | ^^ | [Gataket](https://gataket.com/) |
 | ^^ | [Studio YOU](https://www.youyou.co.jp/index.html) |
-| :global: **Index** | [alley.moe](https://alley.moe/) |
+| :global: **Index** | [alley.moe](https://alley.moe/) [:x:](https://x.com/alleydotmoe) |
 | ^^ | [FanCons](https://fancons.com/) [:alt:](https://animecons.com/) |
 | ^^ | [UpcomingCons](https://upcomingcons.com/) |
 
