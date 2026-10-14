@@ -50,7 +50,7 @@ og:
 
 :::steps
 1. Download `qjpegxl6.dll` from the latest release [**here**](https://github.com/novomesk/qt-jpegxl-image-plugin).
-2. Go to `C:\Program Files\YACReader\imageformats\` and move the file there. Done.
+2. Put the file in `C:\Program Files\YACReader\imageformats\`. Done.
 :::
 
 :::
