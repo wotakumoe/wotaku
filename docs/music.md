@@ -58,7 +58,7 @@ If you wanna learn about the audio basics, read our [**audio glossary**](/glossa
 |-|-|-|-|-|-|
 | [Amazon Music](https://music.amazon.com/) | :sub: | Opus 320 | 24/192 | Dolby Atmos, Sony 360 | General |
 | [Apple Music](https://music.apple.com/) | :sub: | AAC 256 | 24/192 | Dolby Atmos | General |
-| [Deezer](https://www.deezer.com/) | :sub:<sup>1</sup> | MP3 320 | 16/44.1 | :no: | General |
+| [Deezer](https://www.deezer.com/) | :sub:<sup>1</sup> | MP3 320 | 24/192 | :no: | General |
 | [Qobuz](https://play.qobuz.com/) | :sub: | MP3 320 | 24/192 | :no: | Western |
 | [Spotify](https://open.spotify.com/) | :fm::sub: | [Varies](https://support.spotify.com/bd-en/article/audio-quality/) | 24/44.1<sup>2</sup> | :no: | General |
 | [Tidal](https://tidal.com/) | :sub: | AAC 320 | 24/192 | Dolby Atmos | Western |
@@ -140,6 +140,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|-|
 | [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | :no: |
 | [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: ==m:asia-media-blog== | :ddl: | :host: |
+| [JPOP.si](https://jpop.si/) | :ddl: | :host: |
 | [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
 
 :::
