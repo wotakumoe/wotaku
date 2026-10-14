@@ -147,4 +147,9 @@ You can install v0.8 extensions in the v0.9 Paperback client, but you can't inst
 - url: https://bergelmir.mantton.com/
 - raw: https://bergelmir.mantton.com/sources.json
 
+== ldez
+- url: https://ld3z.github.io/suwatte-sources/
+- src: https://github.com/ld3z/suwatte-sources
+- raw: https://ld3z.github.io/suwatte-sources/sources.json
+
 :::
