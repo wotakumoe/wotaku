@@ -206,6 +206,7 @@ outline: 2
 
 == Books - Publishers
 
+- [Alien Books](https://www.alienbooks.com/upcoming-releases)
 - [BookWalker](https://bookwalker.com/calendar) [||JP||](https://bookwalker.jp/schedule/)
 - [Cross Infinite World](https://www.crossinfworld.com/Calendar.html)
 - [Dark Horse](https://www.darkhorse.com/books/upcoming/)
@@ -216,7 +217,7 @@ outline: 2
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
 - [SuBLime](https://www.sublimemanga.com/calendar) :ero:
 - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
-- [TITAN Comics](https://titan-comics.com/manga/)
+- [Titan Comics](https://titan-comics.com/manga/)
 - [TOKYOPOP](https://tokyopop.com/collections/comingsoon)
 - [VIZ](https://www.viz.com/calendar/ )
 - [Yen Press](https://yenpress.com/calendar)
