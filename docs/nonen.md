@@ -421,10 +421,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
-| [DL-Raw](https://dl-raw.si/) ==m:dl-raw== | :yes: | :yes: | :yes: |
-| [DLRaw.net](https://dlraw.tv/category/raw-manga/) ==m:dlraw== | :yes: | :yes: | :yes: |
+| [DLRaw](https://dlraw.me/) ==m:dlraw== | :yes: | :yes: | :yes: |
+| [DL-Raw](https://dl-raw.si/) | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 | [JPFiles](https://jpfiles.net/) | :yes: | :yes: | :yes: |
+| [MangaRaw](https://mangaraw.shop/) | :yes: | :yes: | :yes: |
 | [Manga ZIP](https://manga-zip.is/post) | :yes: | :no: | :yes: |
 | [Manga Zone](http://www.manga-zone.org/) | :yes: | :no: | :yes: |
 | [RawInstant](https://rawinstant.net/manga/) | :yes: | :yes: | :yes: |
@@ -459,7 +460,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon227.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [YaToon](https://yatoon256.asia/) [:tg:](https://t.me/yatoonlink) |
+| ^^ | [YaToon](https://yatoon257.asia/) [:tg:](https://t.me/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 
