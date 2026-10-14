@@ -22,7 +22,7 @@ outline: 2
 == Online
 
 | Websites | Library ==Library== | Login | Tracking | Sub |
-|----------|------------------------|-------|----------|-----|
+|----------|---------------------|-------|----------|-----|
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 6.4k | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |  :cc: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | 2.9k | :yes: | :no: | :cc::oc: |
@@ -36,6 +36,7 @@ outline: 2
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | 2.1k | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | 2.3k | :no: | :msync: | :cc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | 3.8k | :yes: | :msync: | :cc: |
+| [MMani](https://mmani.com/) | TBD | :yes: | :no: | :oc: |
 | [AnimeX](https://animex.one/home) :scrpr: | - | :yes: | :sync::ie: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
 
@@ -147,7 +148,7 @@ Some content may not be available depending on your region.
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/) ==Kagane== | 90k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.org/) ==Kagane== | 90k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 79k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Toonkotsu](https://toonkotsu.com/) ==Toonkotsu== | 85k | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |

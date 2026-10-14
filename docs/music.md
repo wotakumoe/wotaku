@@ -138,7 +138,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Type | Host |
 |-|-|-|
-| [RuTracker.org](https://rutracker.org/forum/index.php) | :mag: | :no: |
+| [RuTracker](https://rutracker.org/forum/index.php) | :mag: | :no: |
 | [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: ==m:asia-media-blog== | :ddl: | :host: |
 | [JPOP.si](https://jpop.si/) | :ddl: | :host: |
 | [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
@@ -542,9 +542,9 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
 | ^^ | [FL Studio](https://www.image-line.com/) :cs: | :win::app: |
 | ^^ | [Studio One](https://www.fender.com/products/fender-studio-pro) :cs: | :win: |
-| **Related Links** | [SynthV.info](https://synthv.info/) | :no: |
+| **Related Links** | [SynthV Resources & Guides](https://synthv.info/) | :no: |
 | ^^ | [CeVIO Voice Database Installer Archive](https://docs.google.com/spreadsheets/d/1blPdn7UuNNSUbTs3FRtBV5mdDUCf728NJC7yZhOae-M/edit) | :no: |
-| ^^ | [RuTracker.org](https://rutracker.org/forum/index.php) | :no: |
+| ^^ | [RuTracker](https://rutracker.org/forum/index.php) | :no: |
 
 <collapsible title="Introduction / Guide">
 

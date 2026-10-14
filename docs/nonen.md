@@ -12,7 +12,7 @@ og:
 ### Anime
 
 | Websites | Library ==Library== | Login | Tracking |
-|----------|------------------------|-------|----------|
+|----------|---------------------|-------|----------|
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 6.4k | :yes: | :sync::ie::msync: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | 2.9k | :yes: | :no: |
@@ -24,7 +24,7 @@ og:
 
 | Websites | Tracking | Sources | Layout | Social |
 |----------|----------|---------|--------|--------|
-| [Kagane](https://kagane.to/) ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.org/) ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/) | :msync: | :ps::up: | :ls: | :cmnt: |
