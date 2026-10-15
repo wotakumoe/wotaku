@@ -36,7 +36,6 @@ outline: 2
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | 2.1k | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | 2.3k | :no: | :msync: | :cc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | 3.8k | :yes: | :msync: | :cc: |
-| [MMani](https://mmani.com/) | TBD | :yes: | :no: | :oc: |
 | [AnimeX](https://animex.one/home) :scrpr: | - | :yes: | :sync::ie: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
 
