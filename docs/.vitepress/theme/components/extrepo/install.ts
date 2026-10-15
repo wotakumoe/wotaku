@@ -33,7 +33,6 @@ const INSTALL_URL_BUILDERS: Record<
   cloudstreamrepo: repo =>
     `cloudstreamrepo://${repo.indexUrl.replace(/^https?:\/\//, '')}`,
   hayase: repo => `hayase://extensions/install?url=${repo.indexUrl}`,
-  legado: repo => `legado://import/bookSource?src=${repo.indexUrl}`,
   lnreader: repo => `lnreader://repo/add?url=${repo.indexUrl}`
 }
 

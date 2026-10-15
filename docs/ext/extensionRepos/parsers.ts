@@ -118,12 +118,6 @@ interface HayaseExtension {
   languages?: string[]
 }
 
-interface LegadoBookSource {
-  bookSourceName: string
-  bookSourceUrl: string
-  bookSourceGroup?: string
-}
-
 interface LNReaderPlugin {
   name: string
   lang: string
@@ -535,22 +529,6 @@ function toRepoDataHayase(extensions: HayaseExtension[]): RepoSite[] {
   return sites
 }
 
-function toRepoDataLegado(sources: LegadoBookSource[]): RepoSite[] {
-  const seen = new Set<string>()
-  const sites: RepoSite[] = []
-  for (const source of sources) {
-    const lang = normalizeLang(source.bookSourceGroup ?? 'all')
-    addSite(seen, `${source.bookSourceName}::${lang}`, sites, {
-      name: source.bookSourceName,
-      lang,
-      icon: '',
-      url: source.bookSourceUrl,
-      rating: 'safe'
-    })
-  }
-  return sites
-}
-
 function toRepoDataMangayomi(sources: MangayomiSource[]): RepoSite[] {
   const seen = new Set<string>()
   const sites: RepoSite[] = []
@@ -811,9 +789,7 @@ async function toRepoData(
 
   if (Array.isArray(json)) {
     const first = json[0] as Record<string, unknown> | undefined
-    if (first && 'bookSourceUrl' in first) {
-      sites = toRepoDataLegado(json as LegadoBookSource[])
-    } else if (first && 'manifestVersion' in first) {
+    if (first && 'manifestVersion' in first) {
       sites = toRepoDataHayase(json as HayaseExtension[])
     } else if (first && 'iconUrl' in first && 'site' in first) {
       sites = toRepoDataLNReader(json as LNReaderPlugin[])

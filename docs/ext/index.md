@@ -36,7 +36,7 @@ og:
 - Cloudstream : (Cloudstream), (Aniyomi);
 - Dantotsu : (Mihon), (Aniyomi), (LNreader);
 - Futon : (Kotatsu), (Mihon);
-- IReader : (IReader), (LNreader), (Legado);
+- IReader : (IReader), (LNreader);
 - Mangayomi : (Mihon), (Aniyomi), (Mangayomi);
 - Tsundoku : (Mihon), (LNReader), (Tsundoku), (Shosetsu);
 - Usagi : (Kotatsu), (Mihon), (LNreader);

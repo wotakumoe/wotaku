@@ -134,31 +134,6 @@ og:
 i am so tired of this shit lol. every fork works differently. just use mihon or its forks.
 :::
 
-## Legado
-
-::: extrepo {scheme=legado}
-
-== rektpartyaftermath
-- url: https://github.com/rektpartyaftermath/Legado-booksource-collection
-- raw: https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/AllBooksource.json
-
-== ZWolken's Japanese light novels
-- url: https://github.com/ZWolken/Light-Novel-Yuedu-Source
-- raw: https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/Japan_based_bookSource.json
-
-== ZWolken's Chinese light novels
-- url: https://github.com/ZWolken/Light-Novel-Yuedu-Source
-- raw: https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/China_based_bookSource.json
-
-== ZWolken's Japanese raw light novels
-- url: https://github.com/ZWolken/Light-Novel-Yuedu-Source
-- raw: https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/Japanese_original_bookSource.json
-
-== ZWolken all sources
-- url: https://github.com/ZWolken/Light-Novel-Yuedu-Source
-- raw: https://github.com/ZWolken/Light-Novel-Yuedu-Source/releases/latest/download/All_bookSource.json
-:::
-
 ## LNReader
 
 ::: extrepo {scheme=lnreader}
