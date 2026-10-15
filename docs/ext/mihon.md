@@ -64,7 +64,9 @@ og:
 
 ## How-to
 
-### Adding store
+::: tabs
+
+== Adding store
 - **Auto:** Click on **Install** and there will be a pop-up window in the app. Click **Add**.
 - **Manual:**
   - Copy the **URL**.
@@ -73,7 +75,7 @@ og:
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/3l5SdGkNIpY" frameborder="0" allowfullscreen></iframe></div>
 
-### Adding Extension
+== Adding Extension
 
 :::steps
 1. After [**adding the store**](#adding-store), go to **Home -> :mdi-compass: Browse -> Extensions**.
@@ -82,3 +84,5 @@ og:
 :::
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/IpMcwDqftB0" frameborder="0" allowfullscreen></iframe></div>
+
+:::
