@@ -74,7 +74,7 @@ outline: 2
 <collapsible title="Related resources">
 
 - [aniDB](https://anidb.net/) :acc:
-- [SeaDex](https://releases.moe/) [:src:](https://github.com/seadex-moe/seadex)
+- [SeaDex](https://seadex.moe/) [:src:](https://github.com/seadex-moe/seadex)
 - :prev: [SeaDex Mirror](https://seadex.pages.dev/) [:src:](https://github.com/EithonX/seadex-mirror)
 - :prev: [StaticDex](https://dattebayo13.github.io/staticdex/) [:src:](https://github.com/dattebayo13/staticdex)
 - [Sneedex](https://static.sneedex.moe/) :ded:
@@ -148,14 +148,14 @@ Some content may not be available depending on your region.
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.org/) ==Kagane== | 90k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 79k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Toonkotsu](https://toonkotsu.com/) ==Toonkotsu== | 85k | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
+| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 79k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt::frm: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
 
 <more>
 
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ps: | :ls::lsg: | :no: |

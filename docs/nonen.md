@@ -25,8 +25,8 @@ og:
 | Websites | Tracking | Sources | Layout | Social |
 |----------|----------|---------|--------|--------|
 | [Kagane](https://kagane.org/) ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
+| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaBall](https://mangaball.net/) | :msync: | :ps::up: | :ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | :no: | :ps: | :ls::lsg: | :no: |
@@ -450,12 +450,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [FreeToon](https://foc133.asia/) [:tg:](https://t.me/foclink) |
-| ^^ | [Funbe](https://funbe680.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
+| ^^ | [Funbe](https://funbe681.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon007.com/?mcat=webtoon) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon158.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee121.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [NewXToon](https://newxtoon1.com/) |
-| ^^ | [TOONKOR](https://toonkor3.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
+| ^^ | [TOONKOR](https://toonkor4.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf492.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon227.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |

@@ -348,7 +348,7 @@ og:
 - [Bye Spoilers - Crunchyroll](https://github.com/zAlfok/ByeSpoilers-Crunchyroll)
 - [Find on Nyaa](https://greasyfork.org/en/scripts/379776)
 - [MAL-Sync](https://github.com/MALSync/MALSync)
-- [NyaaBlue](https://releases.moe/about/)
+- [NyaaBlue](https://seadex.moe/about/)
 
 == AniList
 

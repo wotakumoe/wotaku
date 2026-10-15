@@ -84,7 +84,7 @@ If you want to learn more about the audio basics, read our [**audio glossary**](
 - In this case, Shellshock has just merged the spreads and repacked the volumes. <br> ![](/nyaa/red3.png)
 
 == Blue
-- Rated best by [Seadex](https://releases.moe/), visible with their [script](https://releases.moe/nyaablue.user.js). <br> ![](/nyaa/blu.png)
+- Rated best by [Seadex](https://seadex.moe/), visible with their [script](https://seadex.moe/nyaablue.user.js). <br> ![](/nyaa/blu.png)
 
 == Uncoded
 - Most of the torrents are uncoded, which means you have to judge by the title and description.

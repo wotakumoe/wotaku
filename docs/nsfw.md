@@ -32,6 +32,7 @@ og:
 <Collapsible title="More">
 
 - [HenVids](https://henvids.com/)
+- [MMani](https://mmani.com/)
 - [Rule34video](https://rule34video.com/)
 - [SakuraCircle](https://sakuracircle.com/) :ddl::ded: [||Nyaa||](https://sukebei.nyaa.si/user/Tennouji)
 - [UnderHentai](https://www.underhentai.net/) :strm::ddl:
