@@ -255,4 +255,4 @@ gallery-dl "Madokami URL"
 :::
 
 == iOS
-You can access Madokami on [Aidoku](https://aidoku.app/), [Paperback](https://paperback.moe/) and [Suwatte](https://suwatte.app/) via their respective [extensions](/ext/ios).
+You can access Madokami on [Aidoku](https://aidoku.app/), [Paperback](https://paperback.moe/) and [Suwatte](https://suwatte.app/) via their respective extensions ([Aidoku](/ext/aidoku), [Paperback](/ext/paperback), [Suwatte](/ext/suwatte)).
