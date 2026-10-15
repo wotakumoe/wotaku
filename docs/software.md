@@ -17,14 +17,14 @@ og:
 | App | Source | Tracker | TV |
 |-|-|-|-|
 | [Animiru](https://github.com/quickdesh/Animiru)  [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :cast: |
-| [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :mag::usnt: | :mal::al::k::simkl: | :tv::cast::dlna: |
+| [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/hayase) | :mag::usnt: | :mal::al::k::simkl: | :tv::cast::dlna: |
 | [Anikku](https://anikku-app.github.io/) [:src:](https://github.com/komikku-app/anikku) [:n:](https://github.com/komikku-app/anikku-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 
 <more>
 
 | [Animetail](https://github.com/Animetailapp/Animetail) [:n:](https://github.com/Animetailapp/Animetail-preview) [:e:](/ext/mihon) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :mal::al::simkl: | :no: |
-| [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/misc#cloudstream) | :ddl::mag: | :mal::al::simkl: | :tv::cast: |
+| [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/cloudstream) | :ddl::mag: | :mal::al::simkl: | :tv::cast: |
 | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.gg/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
 | [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
@@ -107,7 +107,7 @@ og:
 | Category | Software | Platform |
 |-|-|-|
 | **Reader** | [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) | :and::lin: |
-| ^^         | :prev: [rakuyomi](https://github.com/tachibana-shin/rakuyomi) [:e:](/ext/ios#aidoku) | :lin: |
+| ^^         | :prev: [rakuyomi](https://github.com/tachibana-shin/rakuyomi) [:e:](/ext/aidoku) | :lin: |
 | **General**    | [Calibre](https://calibre-ebook.com/) :s: [:src:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
 | **Conversion** | [Kindle Comic Converter](https://github.com/ciromattia/kcc)                         | :win::app::lin::dock: |
 | **Transfer**   | [send2ereader](https://github.com/daniel-j/send2ereader)                            | :win::app::lin::dock: |
@@ -132,7 +132,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 
 == Anime
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX)
-- [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase)
+- [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/hayase)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio)
 
@@ -141,11 +141,11 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 
 | Category | Apps |
 | :--- | :--- |
-| **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/ios#aidoku) |
+| **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
-| ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/ios#paperback) |
-| ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/ios#suwatte) |
+| ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/paperback) |
+| ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
 | **Local** | [YACReader](https://www.yacreader.com/) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
 | ^^ | [Panels](https://www.panels.app/) :fm::sub::cs: |
@@ -189,7 +189,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 
 | Program | OS | Source | Tracker |
 |-|-|-|-|
-| [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/misc#hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k::simkl: |
+| [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k::simkl: |
 | [Stremio](https://www.stremio.com/) :cs::fm::sub: [:e:](#tab-stremio) | :win::app::lin: | :mag::ddl: | :mal::al::simkl: |
 | [Harbor](https://harbor.elfhosted.com/) [:src:](https://github.com/harborstremio/harbor) [:e:](#tab-stremio) | :win::app::lin: | :mag::ddl: | :mal::al::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |

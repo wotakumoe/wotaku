@@ -366,7 +366,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 == Online Player
 | Category   | Links   |
 |------------|---------|
-| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:e:](/ext/misc#echo) ==echo== |
+| **General** | [Echo](https://github.com/brahmkshatriya/echo) :s::and: [:e:](/ext/echo) ==echo== |
 | ^^         | [Revanced](https://revanced.app/) :and: [:src:](https://github.com/revanced) |
 | ^^         | [Soundbound](https://soundbound.app/) :and::cs: |
 | **YouTube** | [Metrolist](https://metrolist.meowery.eu/) :and: [:src:](https://github.com/MetrolistGroup/Metrolist) |

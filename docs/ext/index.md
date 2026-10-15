@@ -14,18 +14,54 @@ og:
 
 # Extension Repos
 
+## Android
+
 <Deck>
   <Card title="Mihon & Aniyomi" href="/ext/mihon">
-    Mihon & Aniyomi-based repos
+    Manga & Anime
+  </Card>
+  <Card title="Cloudstream" href="/ext/cloudstream">
+    Anime & Live Action
+  </Card>
+  <Card title="Echo" href="/ext/echo">
+    Music, Anime & Live Action
+  </Card>
+  <Card title="IReader" href="/ext/ireader">
+    Novels
+  </Card>
+  <Card title="Kotatsu" href="/ext/kotatsu">
+    Manga
+  </Card>
+  <Card title="LNReader" href="/ext/lnreader">
+    Novels
+  </Card>
+  <Card title="Tsundoku" href="/ext/tsundoku">
+    Novels
+  </Card>
+</Deck>
+
+## iOS
+
+<Deck>
+  <Card title="Aidoku" href="/ext/aidoku">
+    Manga
+  </Card>
+  <Card title="Paperback" href="/ext/paperback">
+    Manga
+  </Card>
+  <Card title="Suwatte" href="/ext/suwatte">
+    Manga & Novels
+  </Card>
+</Deck>
+
+## Multi
+
+<Deck>
+  <Card title="Hayase" href="/ext/hayase">
+    Anime & Live Action
   </Card>
   <Card title="Mangayomi" href="/ext/mangayomi">
-    Mangayomi repos
-  </Card>
-  <Card title="iOS" href="/ext/ios">
-    iOS anime and manga repos
-  </Card>
-  <Card title="Miscellaneous" href="/ext/misc">
-    Repos for the rest of the apps
+    Manga, Anime & Novels
   </Card>
 </Deck>
 

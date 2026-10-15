@@ -164,32 +164,96 @@ export const homeCards: HomeCard[] = [
     id: 'ext-mihon',
     icon: ':lucide-puzzle:',
     title: 'Mihon & Aniyomi',
-    details: 'Mihon & Aniyomi-based extension repos',
+    details: 'Manga & Anime',
     link: '/ext/mihon',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-cloudstream',
+    icon: ':lucide-puzzle:',
+    title: 'Cloudstream',
+    details: 'Anime & Live Action',
+    link: '/ext/cloudstream',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-echo',
+    icon: ':lucide-puzzle:',
+    title: 'Echo',
+    details: 'Music, Anime & Live Action',
+    link: '/ext/echo',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-ireader',
+    icon: ':lucide-puzzle:',
+    title: 'IReader',
+    details: 'Novels',
+    link: '/ext/ireader',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-kotatsu',
+    icon: ':lucide-puzzle:',
+    title: 'Kotatsu',
+    details: 'Manga',
+    link: '/ext/kotatsu',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-lnreader',
+    icon: ':lucide-puzzle:',
+    title: 'LNReader',
+    details: 'Novels',
+    link: '/ext/lnreader',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-tsundoku',
+    icon: ':lucide-puzzle:',
+    title: 'Tsundoku',
+    details: 'Novels',
+    link: '/ext/tsundoku',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-aidoku',
+    icon: ':lucide-puzzle:',
+    title: 'Aidoku',
+    details: 'Manga',
+    link: '/ext/aidoku',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-paperback',
+    icon: ':lucide-puzzle:',
+    title: 'Paperback',
+    details: 'Manga',
+    link: '/ext/paperback',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-suwatte',
+    icon: ':lucide-puzzle:',
+    title: 'Suwatte',
+    details: 'Manga & Novels',
+    link: '/ext/suwatte',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-hayase',
+    icon: ':lucide-puzzle:',
+    title: 'Hayase',
+    details: 'Anime & Live Action',
+    link: '/ext/hayase',
     section: 'Extensions'
   },
   {
     id: 'ext-mangayomi',
     icon: ':lucide-puzzle:',
     title: 'Mangayomi',
-    details: 'Mangayomi-based extension repos',
+    details: 'Manga, Anime & Novels',
     link: '/ext/mangayomi',
-    section: 'Extensions'
-  },
-  {
-    id: 'ext-ios',
-    icon: ':lucide-puzzle:',
-    title: 'iOS Extensions',
-    details: 'iOS anime and manga repos',
-    link: '/ext/ios',
-    section: 'Extensions'
-  },
-  {
-    id: 'ext-misc',
-    icon: ':lucide-puzzle:',
-    title: 'Misc Extensions',
-    details: 'Extension repos for other apps',
-    link: '/ext/misc',
     section: 'Extensions'
   },
   {
@@ -459,10 +523,36 @@ export const sidebar: DefaultTheme.Sidebar = [
     collapsed: true,
     link: '/ext',
     items: [
-        { text: 'Mihon & Aniyomi', link: '/ext/mihon' },
-          { text: 'Mangayomi', link: '/ext/mangayomi' },
-          { text: 'iOS apps', link: '/ext/ios' },
-          { text: 'Miscellaneous', link: '/ext/misc' }
+          {
+            text: 'Android',
+            collapsed: true,
+            items: [
+              { text: 'Mihon & Aniyomi', link: '/ext/mihon' },
+              { text: 'Cloudstream', link: '/ext/cloudstream' },
+              { text: 'Echo', link: '/ext/echo' },
+              { text: 'IReader', link: '/ext/ireader' },
+              { text: 'Kotatsu', link: '/ext/kotatsu' },
+              { text: 'LNReader', link: '/ext/lnreader' },
+              { text: 'Tsundoku', link: '/ext/tsundoku' }
+            ]
+          },
+          {
+            text: 'iOS',
+            collapsed: true,
+            items: [
+              { text: 'Aidoku', link: '/ext/aidoku' },
+              { text: 'Paperback', link: '/ext/paperback' },
+              { text: 'Suwatte', link: '/ext/suwatte' }
+            ]
+          },
+          {
+            text: 'Multi',
+            collapsed: true,
+            items: [
+              { text: 'Hayase', link: '/ext/hayase' },
+              { text: 'Mangayomi', link: '/ext/mangayomi' }
+            ]
+          }
     ]
   },
   {
