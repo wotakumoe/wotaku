@@ -158,14 +158,21 @@ Some content may not be available depending on your region.
 
 | [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
-| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ps: | :ls::lsg: | :no: |
 | [OniSaga](https://onisaga.com/home) ==OniSaga== | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaK](https://mangak.io/home) | 41k | :no: | :ss: | :sp::ls: | :cmnt: |
-| [Mangahub](https://mangahub.io/) | 79k | :msync: | :ss: | :ls: | :cmnt: |
+| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ps: | :ls::lsg: | :no: |
+| [MKissa](https://mkissa.to/manga) | 63k | :msync: | :ss: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 90k | :no: | :ss: | :ls: | :cmnt: |
-| [Like Manga](https://likemanga.ink/) ==m:like-manga== | 40k | :msync: | :ss: | :ls: | :cmnt: |
+| [Mangahub](https://mangahub.io/) | 79k | :msync: | :ss: | :ls: | :cmnt: |
+
+<more>
+
 | [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | 4k | :msync: | :ss::up: | :sp: | :frm: |
+| [MangaGo](https://www.mangago.me/) | 20k | :no: | :ss::up: | :sp::ls: | :frm: |
+| [MangaVyVy](https://mangavyvy.com/) [:alt:](https://mangavyvy.net/) | 82k | :no: | :ss: | :sp::ls: | :cmnt::frm: |
+| [Like Manga](https://likemanga.ink/) ==m:like-manga== | 40k | :msync: | :ss: | :ls: | :cmnt: |
+| [Yaoi.me](https://yaoi.me/) | 45k | :ie: | :ms: | :sp::dp::ls: | :cmnt::frm: |
+| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 90k | :no: | :ss: | :ls: | :cmnt: |
 
 == Download
 
