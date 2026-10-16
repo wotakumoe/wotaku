@@ -9,6 +9,10 @@ export function suwatteBase(indexUrl: string): string {
   return indexUrl.replace(/\/sources\.json$/, '')
 }
 
+export function manaBase(indexUrl: string): string {
+  return indexUrl.replace(/\/sources\.json$/, '')
+}
+
 interface InstallOpts {
   suwatteV6?: boolean
   suwatteListUrl?: string
@@ -37,7 +41,7 @@ const INSTALL_URL_BUILDERS: Record<
 }
 
 // Apps with no deep-link install scheme;
-const MANUAL_ONLY_SCHEMES = new Set(['manual'])
+const MANUAL_ONLY_SCHEMES = new Set(['manual', 'mana'])
 
 // Schemes with no install or copy action
 const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'echo'])
@@ -68,6 +72,7 @@ export function installHref(
 export function copyValue(scheme: string, indexUrl: string): string {
   if (scheme === 'paperback') return paperbackBase(indexUrl)
   if (scheme === 'suwatte') return suwatteBase(indexUrl)
+  if (scheme === 'mana') return manaBase(indexUrl)
   return indexUrl
 }
 

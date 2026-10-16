@@ -155,6 +155,20 @@ interface SuwatteCatalogIndex {
   sources: SuwatteCatalogSource[]
 }
 
+interface ManaSource {
+  id?: string
+  name: string
+  thumbnail?: string
+  website?: string
+  rating?: number
+  supportedLanguages?: string[]
+}
+
+interface ManaIndex {
+  repositoryName?: string
+  sources: ManaSource[]
+}
+
 interface KotatsuSite {
   name: string
   lang: string
@@ -596,6 +610,34 @@ function toRepoDataSuwatte(
   return { sites, listUrl }
 }
 
+function toRepoDataMana(iconBase: string, index: ManaIndex): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+  for (const source of index.sources ?? []) {
+    if (!source?.name) continue
+    const langs = source.supportedLanguages?.length
+      ? source.supportedLanguages
+      : ['all']
+    const icon = source.thumbnail
+      ? (/^https?:\/\//i.test(source.thumbnail)
+        ? source.thumbnail
+        : `${iconBase}/assets/${source.thumbnail}`)
+      : ''
+    const rating = ratingFromLevel(source.rating ?? 0)
+    for (const rawLang of langs) {
+      const lang = normalizeLang(rawLang.split(/[_-]/)[0] ?? rawLang)
+      addSite(seen, `${source.name}::${lang}`, sites, {
+        name: source.name,
+        lang,
+        icon,
+        url: source.website ?? '',
+        rating
+      })
+    }
+  }
+  return sites
+}
+
 function toRepoDataKotatsu(index: KotatsuIndex): RepoSite[] {
   const seen = new Set<string>()
   const sites: RepoSite[] = []
@@ -809,6 +851,12 @@ async function toRepoData(
     'iconURL' in (json as AidokuIndex).sources[0]
   ) {
     sites = toRepoDataAidoku(iconBase, json as AidokuIndex)
+  } else if (
+    (json as ManaIndex).sources?.length &&
+    ('supportedLanguages' in (json as ManaIndex).sources[0] ||
+      'environment' in (json as ManaIndex).sources[0])
+  ) {
+    sites = toRepoDataMana(iconBase, json as ManaIndex)
   } else if (
     (json as SuwatteCatalogIndex).sources?.length &&
     'thumbnail' in (json as SuwatteCatalogIndex).sources[0]

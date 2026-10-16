@@ -143,6 +143,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
+| ^^ | [Mana](https://testflight.apple.com/join/x2nujKx9) :tf: [:d:](https://discord.gg/3mTaMqvVuG)
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/paperback) |
 | ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |

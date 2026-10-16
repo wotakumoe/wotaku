@@ -46,6 +46,9 @@ og:
   <Card title="Aidoku" href="/ext/aidoku">
     Manga
   </Card>
+  <Card title="Mana" href="/ext/mana">
+    Manga
+  </Card>
   <Card title="Paperback" href="/ext/paperback">
     Manga
   </Card>
@@ -73,6 +76,7 @@ og:
 - Dantotsu : (Mihon), (Aniyomi), (LNreader);
 - Futon : (Kotatsu), (Mihon);
 - IReader : (IReader), (LNreader);
+- Mana : (Mana), (Mihon);
 - Mangayomi : (Mihon), (Aniyomi), (Mangayomi);
 - Tsundoku : (Mihon), (LNReader), (Tsundoku), (Shosetsu);
 - Usagi : (Kotatsu), (Mihon), (LNreader);

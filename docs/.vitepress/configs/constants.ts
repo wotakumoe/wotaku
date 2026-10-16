@@ -233,6 +233,14 @@ export const homeCards: HomeCard[] = [
     section: 'Extensions'
   },
   {
+    id: 'ext-mana',
+    icon: ':lucide-puzzle:',
+    title: 'Mana',
+    details: 'Manga',
+    link: '/ext/mana',
+    section: 'Extensions'
+  },
+  {
     id: 'ext-suwatte',
     icon: ':lucide-puzzle:',
     title: 'Suwatte',
@@ -541,6 +549,7 @@ export const sidebar: DefaultTheme.Sidebar = [
             collapsed: true,
             items: [
               { text: 'Aidoku', link: '/ext/aidoku' },
+              { text: 'Mana', link: '/ext/mana' },
               { text: 'Paperback', link: '/ext/paperback' },
               { text: 'Suwatte', link: '/ext/suwatte' }
             ]
