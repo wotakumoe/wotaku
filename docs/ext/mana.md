@@ -14,6 +14,11 @@ og:
 - src: https://github.com/karrot0/kakarot-extensions-mana
 - raw: https://karrot0.github.io/kakarot-extensions-mana/main/sources.json
 
+== Kitty
+- url: https://kittycatgit.github.io/mana-sources/main/
+- src: https://github.com/kittycatgit/mana-sources
+- raw: https://kittycatgit.github.io/mana-sources/main/sources.json
+
 == Lucifer
 - url: https://mana.pirate.vodka/
 - src: https://github.com/LucifersCircle/mana-extensions
