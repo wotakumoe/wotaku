@@ -352,7 +352,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [AnimeWorld](https://www.animeworld.ac/) |
 | ^^ | [One Piece Power](https://onepiecepower.com/anime18/lista-anime2) |
 | **Manga** | [MangaWorld](https://www.mangaworld.mx/) |
-| ^^ | [One Piece Power](https://onepiecepower.com/manga8/lista-manga2) |
+| ^^ | [One Piece Power](https://onepiecepower.com/manga8/lista-manga3) |
 | **NSFW** | [HentaiSaturn](https://www.hentaisaturn.tv/) |
 | ^^ | [HentaiWorld](https://www.hentaiworld.me/) |
 | ^^ | [MangaWorldAdult](https://www.mangaworldadult.net/) |
@@ -383,14 +383,14 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 <Collapsible title="More">
 
-- [Manga Raw (.ac)](https://mangaraw.ac/) ==m:mangarawspoil==
 - [Manga Raw (.ad)](https://mangarawad.link/)
 - [Manga Raw (.best)](https://mangaraw.best/)
+- [Manga Raw (.lc)](https://mangaraw.lc/) ==m:mangarawspoil==
 - [RAW 1001](https://raw1001.net/home) ==m:raw1001==
 - [Rawkuma](https://rawkuma.net/)
 - [Raw FREE](https://rawfree.you/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://ww1.jmanga.media/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.buzz/home/)
 - [RawUwU](https://rawuwu.net/) ==m:rawuwu==
 - [Soraraw](https://soraraw.com/)
 
@@ -449,11 +449,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc133.asia/) [:tg:](https://t.me/foclink) |
+| ^^ | [FreeToon](https://foc134.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe681.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon007.com/?mcat=webtoon) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon159.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee121.asia/) [:tg:](https://t.me/nameetoonlink) |
+| ^^ | [NameeToon](https://namee122.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [New XToon](https://newxtoon2.com/) [:tg:](https://t.me/newxtoon) |
 | ^^ | [TOONKOR](https://toonkor4.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf517.com/) ==m:https://xn--ph1bph0az41x.com== |
@@ -683,7 +683,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [WebLinhTinh](https://weblinhtinh1.net/) |
 | **Comics** | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyenvie.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenbet.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [HentaiVN](https://hentaivn.show/) |
 | **Novels** | [Hako](https://docln.net/) |
