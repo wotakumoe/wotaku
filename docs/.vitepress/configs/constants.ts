@@ -252,7 +252,7 @@ export const homeCards: HomeCard[] = [
     id: 'ext-hayase',
     icon: ':lucide-puzzle:',
     title: 'Hayase',
-    details: 'Anime & Live Action',
+    details: 'Anime',
     link: '/ext/hayase',
     section: 'Extensions'
   },
