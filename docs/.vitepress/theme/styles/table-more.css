@@ -5,8 +5,21 @@
   display: none;
 }
 
-.vp-doc table:has(.table-more-checkbox:checked) tbody.table-more-hidden {
+/* Show hidden only when its own toggle is checked. */
+.vp-doc
+  table tbody.table-more-toggle:has(.table-more-checkbox:checked)
+  + tbody.table-more-hidden {
   display: table-row-group;
+}
+
+/* Hide later sections after first unchecked toggle. */
+.vp-doc
+  table tbody.table-more-toggle:has(.table-more-checkbox:not(:checked))
+  ~ tbody.table-more-toggle,
+.vp-doc
+  table tbody.table-more-toggle:has(.table-more-checkbox:not(:checked))
+  ~ tbody.table-more-hidden {
+  display: none !important;
 }
 
 .table-more-toggle-row > td {
@@ -47,7 +60,7 @@
   transition: transform 0.2s;
 }
 
-.vp-doc table:has(.table-more-checkbox:checked) .table-more-icon {
+.table-more-toggle:has(.table-more-checkbox:checked) .table-more-icon {
   transform: rotate(180deg);
 }
 
@@ -55,11 +68,11 @@
   display: none;
 }
 
-.vp-doc table:has(.table-more-checkbox:checked) .table-more-text--more {
+.table-more-toggle:has(.table-more-checkbox:checked) .table-more-text--more {
   display: none;
 }
 
-.vp-doc table:has(.table-more-checkbox:checked) .table-more-text--less {
+.table-more-toggle:has(.table-more-checkbox:checked) .table-more-text--less {
   display: inline;
 }
 
@@ -75,7 +88,10 @@ html.effects-disabled .table-more-icon {
 }
 
 @media print {
-  .vp-doc table tbody.table-more-hidden {
+  .vp-doc table tbody.table-more-hidden,
+  .vp-doc
+    table tbody.table-more-toggle:has(.table-more-checkbox:not(:checked))
+    ~ tbody.table-more-hidden {
     display: table-row-group !important;
   }
 

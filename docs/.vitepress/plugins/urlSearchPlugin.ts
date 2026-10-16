@@ -93,6 +93,7 @@ function findTableMoreBlocks(lines: string[]): TableMoreBlock[] {
     let h = i + 1
     while (h < n && lines[h].trim() === '') h++
     let hiddenEnd = -1
+    let firstIsFullTable = false
     if (h < n && isPipeLine(lines[h])) {
       if (
         h + 1 < n && isPipeLine(lines[h + 1]) && isDelimiterRow(lines[h + 1])
@@ -102,6 +103,7 @@ function findTableMoreBlocks(lines: string[]): TableMoreBlock[] {
           let e = h + 2
           while (e + 1 < n && isPipeLine(lines[e + 1])) e++
           hiddenEnd = e
+          firstIsFullTable = true
         }
       } else {
         let e = h
@@ -113,8 +115,40 @@ function findTableMoreBlocks(lines: string[]): TableMoreBlock[] {
       i++
       continue
     }
-    blocks.push({ anchor: String(count++), startLine: runStart, endLine: hiddenEnd })
-    i = hiddenEnd + 1
+    // One block per <more> section; anchors mirror the renderer counter.
+    if (firstIsFullTable) {
+      blocks.push({
+        anchor: String(count++),
+        startLine: runStart,
+        endLine: hiddenEnd
+      })
+      i = hiddenEnd + 1
+      continue
+    }
+    blocks.push({
+      anchor: String(count++),
+      startLine: runStart,
+      endLine: hiddenEnd
+    })
+    let end = hiddenEnd
+    while (true) {
+      let m = end + 1
+      while (m < n && lines[m].trim() === '') m++
+      if (m >= n || !isMoreMarker(lines[m])) break
+      let h2 = m + 1
+      while (h2 < n && lines[h2].trim() === '') h2++
+      if (h2 >= n || !isPipeLine(lines[h2])) break
+      // Bare rows only; stop at repeated header.
+      if (
+        h2 + 1 < n && isPipeLine(lines[h2 + 1]) &&
+        isDelimiterRow(lines[h2 + 1])
+      ) break
+      let e = h2
+      while (e + 1 < n && isPipeLine(lines[e + 1])) e++
+      blocks.push({ anchor: String(count++), startLine: h2, endLine: e })
+      end = e
+    }
+    i = end + 1
   }
 
   return blocks

@@ -431,14 +431,18 @@ const detailsContainsTerms = (d: HTMLElement, terms: string[]) => {
 // Expand tables whose hidden rows hold all searched terms.
 const tableContainsTerms = (t: HTMLElement, terms: string[]) => {
   if (!terms.length) return false
-  const hidden = t.querySelector('tbody.table-more-hidden')
-  const text = ((hidden ?? t).textContent ?? '').toLowerCase()
+  const hiddens = t.querySelectorAll('tbody.table-more-hidden')
+  const text = (hiddens.length
+    ? Array.from(hiddens).map((h) => h.textContent ?? '').join(' ')
+    : t.textContent ?? ''
+  ).toLowerCase()
   return terms.every((term) => text.includes(term))
 }
 
 const expandTableMoreEl = (t: HTMLElement) => {
-  const box = getTableMoreCheckbox(t)
-  if (box && !box.checked) box.checked = true
+  for (const box of getTableMoreCheckboxes(t)) {
+    if (!box.checked) box.checked = true
+  }
 }
 
 const expandTablesForTerms = (terms: string[]) => {
@@ -580,16 +584,27 @@ const queueTableMoreQueryUpdate = (target: EventTarget | null) => {
   if (!box) return
   const table = box.closest<HTMLElement>('table')
   if (!table) return
+  const boxes = getTableMoreCheckboxes(table)
+  const idx = boxes.indexOf(box)
+  // Keep each table's open set a prefix so the URL stays serial.
   if (box.checked) {
+    boxes.forEach((b, j) => {
+      if (j < idx && !b.checked) b.checked = true
+    })
     // Accordion: opening one closes the others so only it stays in the URL.
-    document.querySelectorAll<HTMLTableElement>(TABLE_MORE_SELECTOR).forEach(
+    document.querySelectorAll<HTMLTableElement>('table').forEach(
       (other) => {
         if (other !== table) {
-          const otherBox = getTableMoreCheckbox(other)
-          if (otherBox) otherBox.checked = false
+          for (const otherBox of getTableMoreCheckboxes(other)) {
+            if (otherBox.checked) otherBox.checked = false
+          }
         }
       }
     )
+  } else {
+    boxes.forEach((b, j) => {
+      if (j > idx && b.checked) b.checked = false
+    })
   }
   void updateQueryForTableMore(table)
 }
@@ -617,23 +632,40 @@ const selectCollapsiblesByPath = async (collapsiblePath: string[]) => {
   return opened
 }
 
-const TABLE_MORE_SELECTOR = 'table[data-table-more]'
+const TABLE_MORE_SELECTOR = '.table-more-toggle[data-table-more]'
 
-const getTableMoreCheckbox = (table: HTMLElement) =>
-  table.querySelector<HTMLInputElement>('.table-more-checkbox')
+const getTableMoreCheckboxes = (table: HTMLElement) =>
+  Array.from(
+    table.querySelectorAll<HTMLInputElement>('.table-more-checkbox')
+  )
 
+// Open requested sections plus earlier ones in the same table.
 const selectTablesByPath = async (anchors: string[]) => {
   let opened: HTMLTableElement | undefined
 
   for (const anchor of anchors) {
-    const table = document.querySelector<HTMLTableElement>(
-      `table[data-table-more="${CSS.escape(anchor)}"]`
+    const toggle = document.querySelector<HTMLElement>(
+      `.table-more-toggle[data-table-more="${CSS.escape(anchor)}"]`
     )
+    if (!toggle) continue
+    const table = toggle.closest<HTMLTableElement>('table')
     if (!table) continue
 
-    const box = getTableMoreCheckbox(table)
-    if (box && !box.checked) {
-      box.checked = true
+    const boxes = getTableMoreCheckboxes(table)
+    const target = toggle.querySelector<HTMLInputElement>(
+      '.table-more-checkbox'
+    )
+    const targetIdx = target ? boxes.indexOf(target) : -1
+    let changed = false
+    boxes.forEach((box, idx) => {
+      if (targetIdx === -1 || idx <= targetIdx) {
+        if (!box.checked) {
+          box.checked = true
+          changed = true
+        }
+      }
+    })
+    if (changed) {
       await nextTick()
       await nextFrame()
     }
@@ -645,10 +677,10 @@ const selectTablesByPath = async (anchors: string[]) => {
 
 const getOpenTableMorePath = (root: ParentNode = document) => {
   const anchors: string[] = []
-  root.querySelectorAll<HTMLTableElement>(TABLE_MORE_SELECTOR).forEach(
-    (table) => {
-      if (getTableMoreCheckbox(table)?.checked) {
-        const anchor = table.dataset.tableMore
+  root.querySelectorAll<HTMLElement>(TABLE_MORE_SELECTOR).forEach(
+    (toggle) => {
+      if (toggle.querySelector('.table-more-checkbox:checked')) {
+        const anchor = toggle.dataset.tableMore
         if (anchor) anchors.push(anchor)
       }
     }

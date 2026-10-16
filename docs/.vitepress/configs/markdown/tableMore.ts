@@ -12,8 +12,8 @@ const ROW_TOKEN_TYPES = new Set([
   'inline'
 ])
 
-function buildToggleHtml(cols: number): string {
-  return `<tbody class="table-more-toggle">\n` +
+function buildToggleHtml(cols: number, anchor: string): string {
+  return `<tbody class="table-more-toggle" data-table-more="${anchor}">\n` +
     `<tr class="table-more-toggle-row">\n` +
     `<td colspan="${cols}">\n` +
     `<label class="table-more-label">\n` +
@@ -78,6 +78,71 @@ function prevRowCells(tokens: any[]): any[] {
   const rows: any[][] = []
   let cur: any[] | null = null
   for (let k = open + 1; k < end; k++) {
+    const t = tokens[k]
+    if (t.type === 'tr_open') cur = []
+    else if (t.type === 'tr_close') {
+      if (cur) rows.push(cur)
+      cur = null
+    } else if (
+      cur && (t.type === 'td_open' || t.type === 'th_open')
+    ) {
+      cur.push(t)
+    }
+  }
+  const remaining: number[] = []
+  const holder: any[] = []
+  let owners: any[] = []
+  for (const row of rows) {
+    const next: any[] = []
+    let c = 0
+    for (const td of row) {
+      while ((remaining[c] ?? 0) > 0) {
+        next[c] = holder[c]
+        c++
+      }
+      const w = colspanOf(td)
+      for (let k = 0; k < w; k++) next[c + k] = td
+      const rs = rowspanOf(td)
+      if (rs > 1) {
+        for (let k = 0; k < w; k++) {
+          remaining[c + k] = rs
+          holder[c + k] = td
+        }
+      }
+      c += w
+    }
+    while ((remaining[c] ?? 0) > 0) {
+      next[c] = holder[c]
+      c++
+    }
+    for (let k = 0; k < remaining.length; k++) {
+      if (remaining[k] > 0) remaining[k]--
+    }
+    owners = next
+  }
+  return owners
+}
+
+function isTableMoreCloser(t: any): boolean {
+  return t?.type === 'html_block' && typeof t.content === 'string' &&
+    t.content.includes('</tbody>')
+}
+
+// Owners for chained <more>; cross-tbody ^^ clones via emitted check.
+function chainedRowOwners(tokens: any[]): any[] {
+  let closeIdx = -1
+  for (let k = tokens.length - 1; k >= 0; k--) {
+    if (tokens[k].type === 'table_close') {
+      closeIdx = k
+      break
+    }
+  }
+  if (closeIdx === -1) return []
+  const openIdx = findTableOpen(tokens, closeIdx)
+  if (openIdx === -1) return []
+  const rows: any[][] = []
+  let cur: any[] | null = null
+  for (let k = openIdx; k < tokens.length; k++) {
     const t = tokens[k]
     if (t.type === 'tr_open') cur = []
     else if (t.type === 'tr_close') {
@@ -211,12 +276,11 @@ function countTableCols(tokens: any[], tableCloseIdx: number): number {
   return 0
 }
 
-function stampTableAnchor(state: any, tokens: any[], tableCloseIdx: number) {
-  const openIdx = findTableOpen(tokens, tableCloseIdx)
-  if (openIdx === -1) return
+// One global serial anchor per <more> section, in document order.
+function nextSectionAnchor(state: any): string {
   const n = state.env.__tableMoreCount ?? 0
   state.env.__tableMoreCount = n + 1
-  tokens[openIdx].attrJoin('data-table-more', String(n))
+  return String(n)
 }
 
 export function tableMorePlugin(md: MarkdownIt): void {
@@ -229,19 +293,45 @@ export function tableMorePlugin(md: MarkdownIt): void {
       if (!MARKER_RE.test(state.src.slice(pos, max).trim())) {
         return false
       }
-      // Only a marker directly after a table; otherwise literal text.
+      // Marker after table or previous <more> section; else literal text.
       const prev = state.tokens[state.tokens.length - 1]
-      if (!prev || prev.type !== 'table_close') return false
+      const afterTable = !!prev && prev.type === 'table_close'
+      let afterChained = !!prev && isTableMoreCloser(prev)
+      if (afterChained) {
+        // Guard against arbitrary </tbody> html.
+        let lastClose = -1
+        for (let k = state.tokens.length - 1; k >= 0; k--) {
+          if (state.tokens[k].type === 'table_close') {
+            lastClose = k
+            break
+          }
+        }
+        let hasMarker = false
+        if (lastClose !== -1) {
+          for (let k = lastClose + 1; k < state.tokens.length; k++) {
+            if (state.tokens[k].type === 'table_more') {
+              hasMarker = true
+              break
+            }
+          }
+        }
+        if (!hasMarker) afterChained = false
+      }
+      if (!afterTable && !afterChained) return false
       if (silent) return true
 
       // Full table follows: let the table parser handle it, merge later.
+      // Chained sections support bare rows only.
       let line = startLine + 1
       while (line < endLine && getLine(state, line).trim() === '') line++
       const next1 = line < endLine ? getLine(state, line) : ''
       const next2 = line + 1 < endLine ? getLine(state, line + 1) : ''
       const fullTableFollows = isPipeLine(next1) && isDelimiterRow(next2)
+      if (afterChained && fullTableFollows) return false
 
-      let up: any[] = prevRowCells(state.tokens)
+      let up: any[] = afterTable
+        ? prevRowCells(state.tokens)
+        : chainedRowOwners(state.tokens)
       const emitted = new Set(state.tokens)
       const marker = state.push('table_more', '', 0)
       marker.map = [startLine, startLine + 1]
@@ -390,8 +480,6 @@ export function tableMorePlugin(md: MarkdownIt): void {
           if (t.type === 'tbody_open') t.attrJoin('class', 'table-more-hidden')
         }
 
-        stampTableAnchor(state, tokens, i)
-
         // Toggle + hidden rows go inside the first table, before its close.
         const marker = tokens[i + 1]
         marker.type = 'html_block'
@@ -401,7 +489,7 @@ export function tableMorePlugin(md: MarkdownIt): void {
         marker.children = null
         marker.info = ''
         marker.markup = ''
-        marker.content = buildToggleHtml(cols)
+        marker.content = buildToggleHtml(cols, nextSectionAnchor(state))
 
         const merged = tokens.slice(0, i)
         merged.push(marker)
@@ -413,59 +501,66 @@ export function tableMorePlugin(md: MarkdownIt): void {
         continue
       }
 
-      // bare continuation rows follow the marker.
+      // Chained bare rows: one toggle per <more> section.
       if (tokens[i + 2]?.type === 'tr_open') {
-        let j = i + 2
-        while (j < tokens.length && ROW_TOKEN_TYPES.has(tokens[j].type)) j++
-        const closer = tokens[j]
-        if (
-          !closer || closer.type !== 'html_block' ||
-          !closer.content.includes('</tbody>')
-        ) {
-          i++
-          continue
+        let j = i + 1
+        const sections: { marker: any; kept: any[]; closer: any }[] = []
+        while (tokens[j]?.type === 'table_more') {
+          const rStart = j + 1
+          if (tokens[rStart]?.type !== 'tr_open') break
+          let k = rStart
+          while (k < tokens.length && ROW_TOKEN_TYPES.has(tokens[k].type)) k++
+          const closer = tokens[k]
+          if (!isTableMoreCloser(closer)) break
+          const kept = tokens.slice(rStart, k)
+          const hidden = kept.filter((t) => t.type === 'tr_open').length
+          if (hidden === 0) {
+            j = k + 1
+            continue
+          }
+          sections.push({ marker: tokens[j], kept, closer })
+          j = k + 1
         }
-        const kept = tokens.slice(i + 2, j)
-        const hidden = kept.filter((t) => t.type === 'tr_open').length
-        if (hidden === 0) {
-          tokens.splice(i + 1, j - i)
+        if (sections.length === 0) {
+          i++
           continue
         }
 
         let cols = countTableCols(tokens, i)
         if (cols <= 0) {
-          const firstTr = kept.findIndex((t) => t.type === 'tr_open')
-          const end = kept.findIndex(
+          const firstKept = sections[0].kept
+          const firstTr = firstKept.findIndex((t) => t.type === 'tr_open')
+          const end = firstKept.findIndex(
             (t, idx) => idx > firstTr && t.type === 'tr_close'
           )
           cols = countCells(
-            kept,
+            firstKept,
             firstTr,
-            end === -1 ? kept.length : end,
+            end === -1 ? firstKept.length : end,
             'td_open'
           )
         }
         if (cols <= 0) cols = 1
 
-        stampTableAnchor(state, tokens, i)
+        const segment: any[] = []
+        for (const s of sections) {
+          const m = s.marker
+          m.type = 'html_block'
+          m.tag = ''
+          m.nesting = 0
+          m.attrs = null
+          m.children = null
+          m.info = ''
+          m.markup = ''
+          m.content = buildToggleHtml(cols, nextSectionAnchor(state)) +
+            '<tbody class="table-more-hidden">\n'
+          segment.push(m, ...s.kept, s.closer)
+        }
 
-        const marker = tokens[i + 1]
-        marker.type = 'html_block'
-        marker.tag = ''
-        marker.nesting = 0
-        marker.attrs = null
-        marker.children = null
-        marker.info = ''
-        marker.markup = ''
-        marker.content = buildToggleHtml(cols) +
-          '<tbody class="table-more-hidden">\n'
-
-        // Move the toggle + bare rows inside the first table.
-        const segment = tokens.slice(i + 1, j + 1)
         const merged = tokens.slice(0, i)
         merged.push(...segment)
         merged.push(tokens[i])
-        merged.push(...tokens.slice(j + 1))
+        merged.push(...tokens.slice(j))
         tokens.splice(0, tokens.length, ...merged)
         i += segment.length + 1
         continue
