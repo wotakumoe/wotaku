@@ -61,7 +61,7 @@ og:
 
 <Deck>
   <Card title="Hayase" href="/ext/hayase">
-    Anime & Live Action
+    Anime
   </Card>
   <Card title="Mangayomi" href="/ext/mangayomi">
     Manga, Anime & Novels
