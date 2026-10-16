@@ -358,6 +358,19 @@ main figure figcaption {
   object-fit: contain !important;
 }
 
+// no sidebar for 404 page
+@media (min-width: 960px) {
+  .VPContent.has-sidebar:has(> .NotFoundPage) {
+    padding-left: 0;
+  }
+}
+
+@media (min-width: 1440px) {
+  .VPContent.has-sidebar:has(> .NotFoundPage) {
+    padding-right: 0;
+  }
+}
+
 @media (min-width: 1440px) {
   :root {
     --vp-layout-max-width: 100% !important;

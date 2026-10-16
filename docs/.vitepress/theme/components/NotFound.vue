@@ -13,7 +13,7 @@ const imageSize = ref('550px') // Fixed size for the image
 </script>
 
 <template>
-  <div class="flex min-h-[calc(100vh-4rem)] items-center justify-center p-4">
+  <div class="NotFoundPage flex min-h-[calc(100vh-4rem)] items-center justify-center p-4">
     <div class="text-center">
       <img
         :style="{ width: imageSize, height: 'auto' }"
