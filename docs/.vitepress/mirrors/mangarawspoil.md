@@ -1,5 +1,5 @@
 ---
-src: https://mangaraw.ac/
+src: https://mangaraw.lc/
 title: Manga Raw
 ---
 
