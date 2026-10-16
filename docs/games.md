@@ -199,6 +199,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 ::: tabs
 == Database / News
 - [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+- :prev: [Touhou Dictionary](https://nsk.sh/touhou/dict/)
 - [Touhou Yomoyama News](https://touhou-project.news/) :ljp:
  
 == Downloads
@@ -230,8 +231,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 |-|-|
 | **Info / Wiki** | [THB Wiki](https://thwiki.cc/) :lcn: |
 | ^^          | [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) |
-| ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
-| ^^          | :prev: [Touhou Dictionary](https://nsk.sh/touhou/dict/) |
+| ^^          | [Touhou Memories](https://touhou-memories.com/) |
 | ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit) |
 | **Music**       | [Gensokyo Radio](https://gensokyoradio.net/) ||256kbps|| |
 | ^^          | [Touhou Disc](https://alist.thdisc.tk) |
