@@ -229,7 +229,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 | Section | Websites |
 |-|-|
-| **Info / Wiki** | [THB Wiki](https://thwiki.cc/) :lcn: |
+| **Info / Wiki** | [THB Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5) :lcn: |
 | ^^          | [Touhou Doujinshi Index](https://scarlet.nsk.sh/) [:src:](https://github.com/nanoskript/touhou-doujinshi-index) |
 | ^^          | [Touhou Memories](https://touhou-memories.com/) |
 | ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit) |

@@ -41,15 +41,19 @@ outline: 2
 
 == Donghua
 
-- [Animekhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
+- [Anime4i](https://anime4i.com/) [:tg:](https://t.me/anime4iz)
+- [Anime Cube](https://animecube.live/) [:tg:](https://t.me/animecubehub)
+- [AnimeKhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
 - [AnimeXin](https://animexin.dev/)
 - [Chiki Animation 2D](https://chikianimation.com/) [:tg:](https://t.me/Donghuanewofficial)
 - [Chiki Animation 3D](https://chikianimation.online/) [:tg:](https://t.me/Dimensional_Animation)
 - [donghua.site](https://donghua.site/)
 - [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://t.me/DonghuaStream_com)
 - [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
+- [H-Donghua](https://h-donghua.com/) [:d:](https://discord.gg/XfJd7YC2XW%20) [:tg:](https://t.me/h_donghua)
 - [LM Anime](https://lmanime.com/)
 - [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)
+- [Narul Donghua](https://naruldonghua.com/) [:tg:](https://t.me/Narudonghuachat)
 - [WowTopix](https://wowtopix.com/)
 
 

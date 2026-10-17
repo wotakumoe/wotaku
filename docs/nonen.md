@@ -375,7 +375,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.guru/)
+- [Dokiraw](https://dokiraw.cam/)
 - [Free PDF Library](https://pdftoshokan.com/)
 - [Hachiraw](https://hachiraw.net/)
 - [KL Manga](https://old.klz9.com/) ==m:kl-manga==
@@ -383,12 +383,12 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 <Collapsible title="More">
 
-- [Manga Raw (.ad)](https://mangarawad.link/)
+- [Manga Raw (.ad)](https://mangarawad.city/)
 - [Manga Raw (.best)](https://mangaraw.best/)
 - [Manga Raw (.lc)](https://mangaraw.lc/) ==m:mangarawspoil==
 - [RAW 1001](https://raw1001.net/home) ==m:raw1001==
 - [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.you/)
+- [Raw FREE](https://rawfree.blue/)
 - [RAW LAZY](https://rawlazy.io/)
 - [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.buzz/home/)
 - [RawUwU](https://rawuwu.net/) ==m:rawuwu==

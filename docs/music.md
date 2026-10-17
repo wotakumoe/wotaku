@@ -286,7 +286,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^          | [Utaite Key](https://utaite-key.info/) |
 | **Touhou**  | [TouhouDB](https://touhoudb.com/) |
 | ^^          | [Touhou Wiki](https://en.touhouwiki.net/wiki/Touhou_Wiki) |
-| ^^          | [THB Wiki](https://thwiki.cc/) |
+| ^^          | [THB Wiki](https://thwiki.cc/%E9%A6%96%E9%A1%B5) |
 | ^^          | [Touhou Spotify Music](https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit) |
 | **Scrobbler** | [Last.fm](https://www.last.fm/) :s: |
 | ^^          | [ListenBrainz](https://listenbrainz.org/) |
