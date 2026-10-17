@@ -125,7 +125,7 @@ Some content may not be available depending on your region.
 
 | Category | Websites |
 | :--- | :--- |
-| [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en/watch) |
+| [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en) |
 | ^^ | [Unofficial Site](https://onepace.co/) |
 | ^^ | [Stremio Addon](https://stremio-addons.net/addons/one-pace-addon) |
 | ^^ | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
