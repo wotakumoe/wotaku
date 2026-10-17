@@ -676,7 +676,7 @@ function parseEchoRepo(
   ownerUrl: string
 } | undefined {
   const githubMatch = updateUrl.match(
-    /^https:\/\/api\.github\.com\/repos\/([^/]+)\/([^/]+)\/releases$/
+    /^https:\/\/api\.github\.com\/repos\/([^/]+)\/([^/]+)\/releases(?:\/|$)/
   )
   if (githubMatch) {
     const [, owner, repo] = githubMatch
@@ -689,7 +689,7 @@ function parseEchoRepo(
     }
   }
   const gitlabMatch = updateUrl.match(
-    /^https:\/\/(gitlab\.com)\/api\/v4\/projects\/([^/]+)\/releases\b/
+    /^https:\/\/(gitlab\.com)\/api\/v4\/projects\/([^/]+)\/releases(?:\/|$)/
   )
   if (gitlabMatch) {
     const [, host, encodedPath] = gitlabMatch
