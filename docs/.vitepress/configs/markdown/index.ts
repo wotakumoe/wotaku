@@ -50,6 +50,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   })
   md.use(attrs)
   renderMirrorTooltip(md)
+  renderLibrarySize(md)
   renderTooltip(md)
   renderInlineTooltip(md)
   md.use(markdownSteps)
@@ -57,6 +58,15 @@ export function configureMarkdown(md: MarkdownRenderer) {
   md.use(scrapeTablePlugin)
   md.use(extRepoPlugin)
   renderHighlight(md)
+}
+
+function renderLibrarySize(md: MarkdownRenderer) {
+  md.use(
+    MdReg(/==l:(.+?)==/, ([, name]: string[]) => {
+      const site = name.trim().replace(/"/g, '&quot;')
+      return `<LibrarySize name="${site}" />`
+    })
+  )
 }
 
 function renderInlineTooltip(md: MarkdownRenderer) {

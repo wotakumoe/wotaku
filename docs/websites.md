@@ -23,19 +23,19 @@ outline: 2
 
 | Websites | Library ==Library== | Login | Tracking | Sub |
 |----------|---------------------|-------|----------|-----|
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | 6.4k | :yes: | :sync::ie::msync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | 3.4k | :yes: | :no: |  :cc: |
-| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | 2.9k | :yes: | :no: | :cc::oc: |
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | ==l:reanime== | :yes: | :sync::ie::msync: | :cc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :no: |  :cc: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: | :cc::oc: |
 | [ani.pm](https://ani.pm/) ==anipm== | 8.9k | :yes: | :sync::ie::msync: | :cc::oc: |
-| [MKissa](https://mkissa.to/anime) ==MKissa== | 11.9k | :yes: | :msync: | :oc: |
+| [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :yes: | :msync: | :oc: |
 
 <more>
 
-| [AniHQ](https://anihq.cc/home/) | 5.8k | :yes: | :no: | :oc: |
-| [AnimePahe](https://animepahe.pw/) ==Animepahe== | 6.5k | :no: | :msync: | :oc: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | 2.1k | :yes: | :sync::ie::msync: | :cc: |
-| [AniZone](https://anizone.to/) ==AniZone== | 2.3k | :no: | :msync: | :cc: |
-| [KickassAnime](https://kaa.lt/) ==KAA== | 3.8k | :yes: | :msync: | :cc: |
+| [AniHQ](https://anihq.cc/home/) | ==l:anihq== | :yes: | :no: | :oc: |
+| [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :no: | :msync: | :oc: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: | :cc: |
+| [AniZone](https://anizone.to/) ==AniZone== | ==l:anizone== | :no: | :msync: | :cc: |
+| [KickassAnime](https://kaa.lt/) ==KAA== | ==l:kaa== | :yes: | :msync: | :cc: |
 | [AnimeX](https://animex.one/home) :scrpr: | - | :yes: | :sync::ie: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
 
@@ -147,32 +147,32 @@ Some content may not be available depending on your region.
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.si/) ==m:https://kagane.org/== ==Kagane== | 90k | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaDot](https://mangadot.net/) ==Mangadotnet== | 47k | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
-| [Toonkotsu](https://toonkotsu.com/) ==Toonkotsu== | 85k | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
-| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | 79k | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | 11k | :msync: | :ss: | :lsg: | :cmnt::frm: |
-| [Atsumaru](https://atsu.moe/) ==Atsumaru== | 27k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
+| [Kagane](https://kagane.si/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaDot](https://mangadot.net/) ==Mangadotnet== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
+| [Toonkotsu](https://toonkotsu.com/) ==Toonkotsu== | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
+| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | ==l:comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | ==l:weebcentral== | :msync: | :ss: | :lsg: | :cmnt::frm: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | ==l:atsumaru== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
 
 <more>
 
-| [MangaBall](https://mangaball.net/) | 155k | :msync: | :ps::up: | :ls: | :cmnt: |
-| [MangaFire](https://mangafire.to/) ==MangaFire== | 78k | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
-| [OniSaga](https://onisaga.com/home) ==OniSaga== | 77k | :ie: | :ss::up: | :sp::dp::ls: | :no: |
-| [MangaK](https://mangak.io/home) | 41k | :no: | :ss: | :sp::ls: | :cmnt: |
-| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | 94k | :no: | :ps: | :ls::lsg: | :no: |
-| [MKissa](https://mkissa.to/manga) | 63k | :msync: | :ss: | :sp::dp::ls: | :cmnt::frm: |
-| [MangaKatana](https://mangakatana.com/) | 28k | :ie::msync: | :ss: | :ls: | :cmnt: |
-| [Mangahub](https://mangahub.io/) | 79k | :msync: | :ss: | :ls: | :cmnt: |
+| [MangaBall](https://mangaball.net/) | ==l:mangaball== | :msync: | :ps::up: | :ls: | :cmnt: |
+| [MangaFire](https://mangafire.to/) ==MangaFire== | ==l:mangafire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
+| [OniSaga](https://onisaga.com/home) ==OniSaga== | ==l:onisaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |
+| [MangaK](https://mangak.io/home) | ==l:mangak== | :no: | :ss: | :sp::ls: | :cmnt: |
+| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | ==l:xcomic== | :no: | :ps: | :ls::lsg: | :no: |
+| [MKissa](https://mkissa.to/manga) | ==l:mkissa manga== | :msync: | :ss: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaKatana](https://mangakatana.com/) | ==l:mangakatana== | :ie::msync: | :ss: | :ls: | :cmnt: |
+| [Mangahub](https://mangahub.io/) | ==l:mangahub== | :msync: | :ss: | :ls: | :cmnt: |
 
 <more>
 
-| [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | 4k | :msync: | :ss::up: | :sp: | :frm: |
-| [MangaGo](https://www.mangago.me/) | 20k | :no: | :ss::up: | :sp::ls: | :frm: |
-| [MangaVyVy](https://mangavyvy.com/) [:alt:](https://mangavyvy.net/) | 82k | :no: | :ss: | :sp::ls: | :cmnt::frm: |
-| [Like Manga](https://likemanga.ink/) ==m:like-manga== | 40k | :msync: | :ss: | :ls: | :cmnt: |
-| [Yaoi.me](https://yaoi.me/) | 45k | :ie: | :ms: | :sp::dp::ls: | :cmnt::frm: |
-| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | 90k | :no: | :ss: | :ls: | :cmnt: |
+| [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | ==l:dynastyscans== | :msync: | :ss::up: | :sp: | :frm: |
+| [MangaGo](https://www.mangago.me/) | ==l:mangago== | :no: | :ss::up: | :sp::ls: | :frm: |
+| [MangaVyVy](https://mangavyvy.com/) [:alt:](https://mangavyvy.net/) | ==l:vyvymanga== | :no: | :ss: | :sp::ls: | :cmnt::frm: |
+| [Like Manga](https://likemanga.ink/) ==m:like-manga== | ==l:likemanga== | :msync: | :ss: | :ls: | :cmnt: |
+| [Yaoi.me](https://yaoi.me/) | ==l:yaoi== | :ie: | :ms: | :sp::dp::ls: | :cmnt::frm: |
+| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | ==l:zinmanga== | :no: | :ss: | :ls: | :cmnt: |
 
 == Download
 
