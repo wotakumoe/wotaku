@@ -390,7 +390,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 - [Rawkuma](https://rawkuma.net/)
 - [Raw FREE](https://rawfree.blue/)
 - [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.buzz/home/)
+- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.voto/home/)
 - [RawUwU](https://rawuwu.net/) ==m:rawuwu==
 - [Soraraw](https://soraraw.com/)
 
