@@ -81,6 +81,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [Ranime](https://ranime.net/) |
 | **Cartoon** | [Gledaj Crtaće](https://www.gledajcrtace.rs/) |
 | **Manga** | [L&B Pirates](https://lnbmange.com/) |
+| ^^ | [Manga Balkan](https://mangabalkan.org/) |
 | **News** | [Potamanime](https://potamanime.rs/) |
 
 
