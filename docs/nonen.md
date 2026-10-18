@@ -14,7 +14,7 @@ og:
 | Websites | Library ==Library== | Login | Tracking |
 |----------|---------------------|-------|----------|
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | ==l:reanime== | :yes: | :sync::ie::msync: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :no: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) ==AniZone== | ==l:anizone== | :no: | :msync: |
