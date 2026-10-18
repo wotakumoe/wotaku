@@ -375,26 +375,28 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 :::
 
 ### Online
-- [Dokiraw](https://dokiraw.cam/)
-- [Free PDF Library](https://pdftoshokan.com/)
-- [Hachiraw](https://hachiraw.net/)
-- [KL Manga](https://old.klz9.com/) ==m:kl-manga==
-- [MangaKuro](https://mangakuro.net/home)
 
-<Collapsible title="More">
+| Websites | Library ==Library== |
+|----------|---------------------|
+| [Dokiraw](https://dokiraw.cam/) | ==l:dokiraw== |
+| [Free PDF Library](https://pdftoshokan.com/) | :no: |
+| [Hachiraw](https://hachiraw.net/) | ==l:hachiraw== |
+| [KL Manga](https://old.klz9.com/) ==m:kl-manga== | ==l:klmanga== |
+| [MangaKuro](https://mangakuro.net/home) | ==l:mangakuro== |
 
-- [Manga Raw (.ad)](https://mangarawad.city/)
-- [Manga Raw (.best)](https://mangaraw.best/)
-- [Manga Raw (.lc)](https://mangaraw.lc/) ==m:mangarawspoil==
-- [RAW 1001](https://raw1001.net/home) ==m:raw1001==
-- [Rawkuma](https://rawkuma.net/)
-- [Raw FREE](https://rawfree.blue/)
-- [RAW LAZY](https://rawlazy.io/)
-- [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.voto/home/)
-- [RawUwU](https://rawuwu.net/) ==m:rawuwu==
-- [Soraraw](https://soraraw.com/)
+<more>
 
-</Collapsible>
+| [Manga Raw (.ad)](https://mangarawad.city/) | ==l:mangarawad== |
+| [Manga Raw (.best)](https://mangaraw.best/) | ==l:mangarawbest== |
+| [Manga Raw (.lc)](https://mangaraw.lc/) ==m:mangarawspoil== | :no: |
+| [RAW 1001](https://raw1001.net/home) ==m:raw1001== | ==l:raw1001== |
+| [Rawkuma](https://rawkuma.net/) | ==l:rawkuma== |
+| [Raw FREE](https://rawfree.blue/) | ==l:rawfree== |
+| [RAW LAZY](https://rawlazy.io/) | :no: |
+| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.voto/home/) | ==l:rawotaku== |
+| [RawUwU](https://rawuwu.net/) ==m:rawuwu== | ==l:rawuwu== |
+| [Soraraw](https://soraraw.com/) | :no: |
+
 
 ::: tip More
 [Multilingual](#manga) websites also upload raw chapters, but don't update as fast as dedicated ones.

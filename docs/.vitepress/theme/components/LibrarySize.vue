@@ -14,6 +14,7 @@ type Library = {
   anime: Record<string, Entry>
   manga: Record<string, Entry>
   donghua: Record<string, Entry>
+  raw: Record<string, Entry>
 }
 
 // One shared request per page, regardless of how many markers are used.
@@ -23,7 +24,7 @@ function load(): Promise<Library> {
   if (!pending) {
     pending = fetch(LIBRARY_URL)
       .then(res => (res.ok ? res.json() : Promise.reject(res.status)))
-      .catch(() => ({ anime: {}, manga: {}, donghua: {} }) as Library)
+      .catch(() => ({ anime: {}, manga: {}, donghua: {}, raw: {} }) as Library)
   }
   return pending
 }
@@ -32,7 +33,7 @@ const normalize = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '')
 
 function lookup(lib: Library, name: string): string | undefined {
   const wanted = normalize(name)
-  for (const section of [lib.manga, lib.anime, lib.donghua]) {
+  for (const section of [lib.raw, lib.manga, lib.anime, lib.donghua]) {
     for (const [site, entry] of Object.entries(section ?? {})) {
       if (normalize(site) === wanted) return entry.size
     }
