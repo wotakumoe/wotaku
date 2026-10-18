@@ -41,20 +41,23 @@ outline: 2
 
 == Donghua
 
-- [Anime4i](https://anime4i.com/) [:tg:](https://t.me/anime4iz)
-- [Anime Cube](https://animecube.live/) [:tg:](https://t.me/animecubehub)
-- [AnimeKhor](https://animekhor.org/) [:tg:](https://t.me/AnimeKhorOfficial)
-- [AnimeXin](https://animexin.dev/)
-- [Chiki Animation 2D](https://chikianimation.com/) [:tg:](https://t.me/Donghuanewofficial)
-- [Chiki Animation 3D](https://chikianimation.online/) [:tg:](https://t.me/Dimensional_Animation)
-- [donghua.site](https://donghua.site/)
-- [Donghua Stream](https://donghuastream.org/) [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://t.me/DonghuaStream_com)
-- [Dongsub](https://www.dongsub.net/) [:tg:](https://t.me/dongsub)
-- [H-Donghua](https://h-donghua.com/) [:d:](https://discord.gg/XfJd7YC2XW%20) [:tg:](https://t.me/h_donghua)
-- [LM Anime](https://lmanime.com/)
-- [Lucifer Donghua](https://luciferdonghua.in/) [:tg:](https://t.me/luciferdonghuaz)
-- [Narul Donghua](https://naruldonghua.com/) [:tg:](https://t.me/Narudonghuachat)
-- [WowTopix](https://wowtopix.com/)
+| Websites | Library ==Library== | Social |
+|----------|---------------------|--------|
+| [Anime4i](https://anime4i.com/) | ==l:anime4i== | [:tg:](https://t.me/anime4iz) |
+| [Anime Cube](https://animecube.live/) | ==l:animecube== | [:tg:](https://t.me/animecubehub) |
+| [AnimeKhor](https://animekhor.org/) | ==l:animekhor== | [:tg:](https://t.me/AnimeKhorOfficial) |
+| [AnimeXin](https://animexin.dev/) | ==l:animexin== | :no: |
+| [Chiki Animation 2D](https://chikianimation.com/) | ==l:chiki2d== | [:tg:](https://t.me/Donghuanewofficial) |
+| [Chiki Animation 3D](https://chikianimation.online/) | ==l:chiki3d== | [:tg:](https://t.me/Dimensional_Animation) |
+
+<more>
+
+| [Donghua Stream](https://donghuastream.org/) | ==l:donghuastream== | [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://t.me/DonghuaStream_com) |
+| [Dongsub](https://www.dongsub.net/) | ==l:dongsub== | [:tg:](https://t.me/dongsub) |
+| [LM Anime](https://lmanime.com/) | ==l:lmanime== | :no: |
+| [Lucifer Donghua](https://luciferdonghua.in/) | ==l:luciferdonghua== | [:tg:](https://t.me/luciferdonghuaz) |
+| [Narul Donghua](https://naruldonghua.com/) | ==l:naruldonghua== | [:tg:](https://t.me/Narudonghuachat) |
+| [WowTopix](https://wowtopix.com/) | ==l:wowtopix== | :no: |
 
 
 == Download
