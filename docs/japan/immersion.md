@@ -16,8 +16,7 @@ og:
 | ^^ | [Jo-Mako](https://docs.google.com/spreadsheets/d/1IytlD4JjYO5-38wP6VbFNjHQDaDEsx4WWi2Rs-gaamk/htmlview) |
 | ^^ | [Natively](https://learnnatively.com/) |
 | ^^ | [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8) |
-| Visual Novels | [VN Club](https://vnclub.org/) |
-| ^^ | [Alanae](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
+| Visual Novels | [Alanae](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
 | ^^ | [Jamal](https://anacreondjt.gitlab.io/vn-chart/) |
 | ^^ | [Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit) |
 | Light Novels | [Moeclub](https://bookmeter.com/users/1313898/) |
