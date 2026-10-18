@@ -24,7 +24,7 @@ outline: 2
 | Websites | Library ==Library== | Login | Tracking | Sub |
 |----------|---------------------|-------|----------|-----|
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== ==ReANIME== | ==l:reanime== | :yes: | :sync::ie::msync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :no: |  :cc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: |  :cc: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: | :cc::oc: |
 | [ani.pm](https://ani.pm/) ==anipm== | ==l:anipm== | :yes: | :sync::ie::msync: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :yes: | :msync: | :oc: |
