@@ -140,6 +140,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 |-|-|-|
 | [RuTracker](https://rutracker.org/forum/index.php) | :mag: | :no: |
 | [Asia Media Blog](https://asiamediablog.com/media/music/) :ero: ==m:asia-media-blog== | :ddl: | :host: |
+| [JPFiles](https://jpfiles.net/download/japanese/japanese-music) | :ddl: | :host: |
 | [JPOP.si](https://jpop.si/) | :ddl: | :host: |
 | [The T-SQUARE Plaza](https://tsquareplaza.blogspot.com/) | :ddl: | :sgd: |
 
