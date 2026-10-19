@@ -29,6 +29,7 @@ og:
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
 | [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [NyanTV](https://nyantv.vercel.app/) [:src:](https://gitlab.com/NyanTV/NyanTV) [:e:](/ext/mihon) | :ddl: | :mal::al::simkl: | :tv: |
+| [Yokan](https://github.com/prabarxx/Yokan) | :ddl::mag: | :al: | :no: |
 
 == Manga 
 
