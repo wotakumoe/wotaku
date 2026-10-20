@@ -456,12 +456,12 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [FreeToon](https://foc134.asia/) [:tg:](https://t.me/foclink) |
-| ^^ | [Funbe](https://funbe681.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
+| ^^ | [Funbe](https://funbe682.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon007.com/?mcat=webtoon) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon159.asia/) [:tg:](https://t.me/mtoonopen) |
 | ^^ | [NameeToon](https://namee122.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [New XToon](https://newxtoon2.com/) [:tg:](https://t.me/newxtoon) |
-| ^^ | [TOONKOR](https://toonkor4.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
+| ^^ | [TOONKOR](https://toonkor5.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf517.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon233.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
