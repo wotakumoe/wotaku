@@ -2,15 +2,14 @@ import { useStorage } from '@vueuse/core'
 import { computed } from 'vue'
 
 import { data as announcements } from '../announcements.data'
-import { AnnouncementsReadKey } from '../constants'
-import { announcementsEnabled, ensureNavItemsLoaded } from '../navItemsState'
+import { AnnouncementsEnabledKey, AnnouncementsReadKey } from '../constants'
 
 export type { Announcement, AnnouncementType } from '../announcements.data'
 
 export function useAnnouncements() {
-  ensureNavItemsLoaded()
-
-  const enabled = computed(() => announcementsEnabled.value)
+  // on by default
+  const enabledPref = useStorage(AnnouncementsEnabledKey, 'on')
+  const enabled = computed(() => enabledPref.value !== 'off')
 
   const readIds = useStorage<string[]>(AnnouncementsReadKey, [])
   const readSet = computed(() => new Set(readIds.value))
@@ -34,6 +33,7 @@ export function useAnnouncements() {
 
   return {
     announcements,
+    enabledPref,
     enabled,
     isRead,
     markRead,

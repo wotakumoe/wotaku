@@ -29,11 +29,6 @@ export interface TabTarget {
   tabs: string[]
 }
 
-export interface RandomLinkPage {
-  pageId: string
-  links: string[]
-}
-
 interface PageSearchMetadata {
   links: PageLink[]
   tabTargets: TabTarget[]
@@ -537,42 +532,11 @@ export function collectPageLinks(src: string, page: string) {
   collectedByPage.set(pageId, extractSearchMetadataFromMarkdown(src, pageId))
 }
 
-function getRandomLinks(links: PageLink[]): RandomLinkPage[] {
-  const byPage = new Map<string, Set<string>>()
-
-  for (const link of links) {
-    if (!/^https?:\/\//i.test(link.href)) continue
-    const pageId = normalizePageId(link.pageId)
-    let hrefs = byPage.get(pageId)
-    if (!hrefs) {
-      hrefs = new Set()
-      byPage.set(pageId, hrefs)
-    }
-    hrefs.add(link.href)
-  }
-
-  return [...byPage.entries()]
-    .sort(([a], [b]) => a.localeCompare(b))
-    .map(([pageId, hrefs]) => ({ pageId, links: [...hrefs] }))
-}
-
-function normalizePageId(pageId: string) {
-  const trimmed = pageId.replace(/\/+$/, '')
-  return trimmed || '/'
-}
-
 export function writeUrlSearchIndex(outDir: string) {
   const links = getDedupedLinks()
   const linksPath = join(outDir, 'url-search-index.json')
   writeFileSync(linksPath, JSON.stringify(links), 'utf-8')
   console.log(`[url-search] wrote ${links.length} links -> ${linksPath}`)
-
-  const randomLinks = getRandomLinks(links)
-  const randomLinksPath = join(outDir, 'random-links.json')
-  writeFileSync(randomLinksPath, JSON.stringify(randomLinks), 'utf-8')
-  console.log(
-    `[url-search] wrote ${randomLinks.length} random pages -> ${randomLinksPath}`
-  )
 
   const tabTargets = getDedupedTabTargets()
   const tabTargetsPath = join(outDir, 'tab-search-index.json')
@@ -592,14 +556,6 @@ export function urlSearchDevPlugin() {
           const deduped = getDedupedLinks()
           res.setHeader('Content-Type', 'application/json')
           res.end(JSON.stringify(deduped))
-        }
-      )
-      server.middlewares.use(
-        '/random-links.json',
-        (_req: any, res: any) => {
-          const links = getRandomLinks(getDedupedLinks())
-          res.setHeader('Content-Type', 'application/json')
-          res.end(JSON.stringify(links))
         }
       )
       server.middlewares.use(
