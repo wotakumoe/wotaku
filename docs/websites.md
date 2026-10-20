@@ -35,6 +35,7 @@ outline: 2
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :no: | :msync: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) ==AniZone== | ==l:anizone== | :no: | :msync: | :cc: |
+| [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: | :cc: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | ==l:kaa== | :yes: | :msync: | :cc: |
 | [AnimeX](https://animex.one/home) :scrpr: | - | :yes: | :sync::ie: | :cc::oc: |
 | [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
