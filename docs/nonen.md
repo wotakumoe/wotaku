@@ -18,7 +18,7 @@ og:
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) ==AniZone== | ==l:anizone== | :no: | :msync: |
-| [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: | :cc: |
+| [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | ==l:kaa== | :yes: | :msync: |
 
 ### Manga
