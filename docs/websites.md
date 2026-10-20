@@ -157,7 +157,7 @@ Some content may not be available depending on your region.
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.si/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
-| [Toonkotsu](https://toonkotsu.com/) ==Toonkotsu== | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
+| [Toonkotsu](https://toonkotsu.com/) | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | ==l:comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | ==l:weebcentral== | :msync: | :ss: | :lsg: | :cmnt::frm: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | ==l:atsumaru== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
