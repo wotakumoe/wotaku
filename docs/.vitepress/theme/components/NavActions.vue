@@ -3,14 +3,16 @@ import { Moon, Search, Settings, Sun } from 'lucide-vue-next'
 import { useData } from 'vitepress'
 // @ts-ignore
 import VPSocialLink from 'vitepress/dist/client/theme-default/components/VPSocialLink.vue'
-import { inject } from 'vue'
+import { computed, inject } from 'vue'
 
 import { navActions } from '../navActions'
+import { ensureNavItemsLoaded, isNavItemEnabled } from '../navItemsState'
 import { openSearch } from '../searchState'
 import { openSettings } from '../settingsState'
-import NolebaseEnhancedReadabilitiesMenu from './settings/Menu.vue'
-import BookmarksPanel from './BookmarksPanel.vue'
 import AnnouncementsPanel from './AnnouncementsPanel.vue'
+import BookmarksPanel from './BookmarksPanel.vue'
+import NavRandomLink from './NavRandomLink.vue'
+import NolebaseEnhancedReadabilitiesMenu from './settings/Menu.vue'
 import SettingsPanel from './SettingsPanel.vue'
 
 const ICON_SIZE = 18
@@ -20,60 +22,93 @@ const { isDark } = useData()
 const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   isDark.value = !isDark.value
 })
+
+ensureNavItemsLoaded()
+
+function isActionEnabled(action: (typeof navActions)[number]) {
+  switch (action.type) {
+    case 'announcement':
+      return isNavItemEnabled('announcements')
+    case 'bookmarks':
+      return isNavItemEnabled('bookmarks')
+    case 'random':
+      return isNavItemEnabled('random')
+    case 'link':
+      return isNavItemEnabled('social')
+    default:
+      return true
+  }
+}
+
+const visibleNavActions = computed(() => navActions.filter(isActionEnabled))
 </script>
 
 <template>
   <div class="nav-actions-container">
-  <div class="nav-actions" role="group" aria-label="Site actions">
-    <template v-for="(action, i) in navActions" :key="i">
-      <div class="nav-action" :class="`nav-action--${action.type}`">
-        <button
-          v-if="action.type === 'search'"
-          type="button"
-          class="nav-action-btn"
-          aria-label="Search"
-          aria-keyshortcuts="/ control+k meta+k"
-          @click="openSearch()"
-        >
-          <Search :size="ICON_SIZE" :stroke-width="ICON_STROKE" />
-        </button>
-
-        <button
-          v-else-if="action.type === 'appearance'"
-          type="button"
-          class="nav-action-btn"
-          :aria-label="isDark ? 'Switch to light theme' : 'Switch to dark theme'"
-          @click="toggleAppearance()"
-        >
-          <Moon :size="ICON_SIZE" :stroke-width="ICON_STROKE" class="nav-appearance-moon" />
-          <Sun :size="ICON_SIZE" :stroke-width="ICON_STROKE" class="nav-appearance-sun" />
-        </button>
-
-        <VPSocialLink
-          v-else-if="action.type === 'link'"
-          :icon="action.icon"
-          :link="action.link"
-          :aria-label="action.label"
-          :me="false"
-        />
-
-        <template v-else-if="action.type === 'settings'">
-          <NolebaseEnhancedReadabilitiesMenu />
+    <div class="nav-actions" role="group" aria-label="Site actions">
+      <template
+        v-for="action in visibleNavActions"
+        :key="action.type === 'link' ? action.link : action.type"
+      >
+        <div class="nav-action" :class="`nav-action--${action.type}`">
           <button
+            v-if="action.type === 'search'"
             type="button"
-            class="nav-action-btn nav-settings-mobile"
-            aria-label="Settings"
-            @click="openSettings()"
+            class="nav-action-btn"
+            aria-label="Search"
+            aria-keyshortcuts="/ control+k meta+k"
+            @click="openSearch()"
           >
-            <Settings :size="ICON_SIZE" :stroke-width="ICON_STROKE" />
+            <Search :size="ICON_SIZE" :stroke-width="ICON_STROKE" />
           </button>
-        </template>
-        <BookmarksPanel v-else-if="action.type === 'bookmarks'" />
-        <AnnouncementsPanel v-else-if="action.type === 'announcement'" />
-      </div>
-    </template>
-  </div>
-  <SettingsPanel />
+
+          <button
+            v-else-if="action.type === 'appearance'"
+            type="button"
+            class="nav-action-btn"
+            :aria-label="isDark
+            ? 'Switch to light theme'
+            : 'Switch to dark theme'"
+            @click="toggleAppearance()"
+          >
+            <Moon
+              :size="ICON_SIZE"
+              :stroke-width="ICON_STROKE"
+              class="nav-appearance-moon"
+            />
+            <Sun
+              :size="ICON_SIZE"
+              :stroke-width="ICON_STROKE"
+              class="nav-appearance-sun"
+            />
+          </button>
+
+          <VPSocialLink
+            v-else-if="action.type === 'link'"
+            :icon="action.icon"
+            :link="action.link"
+            :aria-label="action.label"
+            :me="false"
+          />
+
+          <template v-else-if="action.type === 'settings'">
+            <NolebaseEnhancedReadabilitiesMenu />
+            <button
+              type="button"
+              class="nav-action-btn nav-settings-mobile"
+              aria-label="Settings"
+              @click="openSettings()"
+            >
+              <Settings :size="ICON_SIZE" :stroke-width="ICON_STROKE" />
+            </button>
+          </template>
+          <BookmarksPanel v-else-if="action.type === 'bookmarks'" />
+          <NavRandomLink v-else-if="action.type === 'random'" />
+          <AnnouncementsPanel v-else-if="action.type === 'announcement'" />
+        </div>
+      </template>
+    </div>
+    <SettingsPanel />
   </div>
 </template>
 
@@ -106,14 +141,16 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   justify-content: center;
 }
 
-/* collapse the slot when announcements are disabled */
-.nav-action--announcement:empty {
-  display: none;
-}
-
 /* Social links move to the full-screen menu on phones. */
 .nav-action--link {
   display: none;
+}
+
+@media (max-width: 359.9px) {
+  .nav-actions {
+    --nav-pill-item-size: 1.625rem;
+    --nav-pill-gap: 0;
+  }
 }
 
 @media (min-width: 768px) {
@@ -137,13 +174,15 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   height: 100%;
   color: var(--vp-c-text-1);
   opacity: 0.55;
-  transition:
-    opacity 0.25s,
-    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: opacity 0.25s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.nav-action-btn:hover { opacity: 1; }
-.nav-action-btn:active { transform: scale(0.94); }
+.nav-action-btn:hover {
+  opacity: 1;
+}
+.nav-action-btn:active {
+  transform: scale(0.94);
+}
 
 .nav-actions :deep(.VPSocialLink) {
   width: 100% !important;
@@ -158,7 +197,9 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   color: var(--vp-c-text-1) !important;
   opacity: 1;
 }
-.nav-actions :deep(.VPSocialLink:active) { transform: scale(0.94); }
+.nav-actions :deep(.VPSocialLink:active) {
+  transform: scale(0.94);
+}
 .nav-actions :deep(.VPSocialLink > span) {
   width: var(--nav-pill-icon-size) !important;
   height: var(--nav-pill-icon-size) !important;
@@ -183,7 +224,8 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   }
 }
 
-.nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout .button) {
+.nav-action--settings
+  :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout .button) {
   width: 100% !important;
   height: 100% !important;
   padding: 0 !important;
@@ -196,10 +238,12 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
     opacity 0.25s,
     transform 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
 }
-.nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout:hover .button) {
+.nav-action--settings
+  :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout:hover .button) {
   opacity: 1;
 }
-.nav-action--settings :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout .button:active) {
+.nav-action--settings
+  :deep(.VPNolebaseEnhancedReadabilitiesMenuFlyout .button:active) {
   transform: scale(0.94);
 }
 
@@ -212,11 +256,16 @@ const toggleAppearance = inject<() => void>('toggle-appearance', () => {
   height: var(--nav-pill-icon-size);
 }
 
-.nav-action--settings :deep(.vpi-chevron-down) { display: none; }
-
+.nav-action--settings :deep(.vpi-chevron-down) {
+  display: none;
+}
 </style>
 
 <style>
-html.dark .nav-appearance-sun { display: none; }
-html:not(.dark) .nav-appearance-moon { display: none; }
+html.dark .nav-appearance-sun {
+  display: none;
+}
+html:not(.dark) .nav-appearance-moon {
+  display: none;
+}
 </style>
