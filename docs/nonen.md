@@ -425,7 +425,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
-| [DLRaw](https://dlraw.me/) ==m:dlraw== | :yes: | :yes: | :yes: |
+| [DLRaw](https://dlraw.tv/home/) ==m:dlraw== | :yes: | :yes: | :yes: |
 | [DL-Raw](https://dl-raw.si/) | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 
