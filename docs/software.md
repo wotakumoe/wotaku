@@ -74,7 +74,7 @@ og:
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
 | ^^ | [Quicknovel](https://github.com/LagradOst/QuickNovel) |
 | ^^ | [Ranobe](https://github.com/ranobe-org/ranobe) |
-| ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) |
+| ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) [:e:](/ext/shosetsu) |
 | ^^ | [Tsundoku](https://tsundoku-otaku.github.io/) [:src:](https://github.com/tsundoku-otaku/tsundoku) |
 | **Local** | [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs: |
 | ^^ | [Librera Reader](https://github.com/foobnix/LibreraReader) |
