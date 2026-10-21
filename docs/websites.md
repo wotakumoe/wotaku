@@ -178,7 +178,7 @@ Some content may not be available depending on your region.
 | [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | ==l:dynastyscans== | :msync: | :ss::up: | :sp: | :frm: |
 | [MangaGo](https://www.mangago.me/) | ==l:mangago== | :no: | :ss::up: | :sp::ls: | :frm: |
 | [MangaVyVy](https://mangavyvy.com/) [:alt:](https://mangavyvy.net/) | ==l:vyvymanga== | :no: | :ss: | :sp::ls: | :cmnt::frm: |
-| [Like Manga](https://likemanga.ink/) ==m:like-manga== | ==l:likemanga== | :msync: | :ss: | :ls: | :cmnt: |
+| [Like Manga](https://likemanga.ink/) | ==l:likemanga== | :msync: | :ss: | :ls: | :cmnt: |
 | [Yaoi.me](https://yaoi.me/) | ==l:yaoi== | :ie: | :ms: | :sp::dp::ls: | :cmnt::frm: |
 | [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | ==l:zinmanga== | :no: | :ss: | :ls: | :cmnt: |
 
