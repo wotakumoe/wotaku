@@ -28,7 +28,7 @@ export function createMediumZoomProvider(app: App, router: Router) {
   const zoom = mediumZoom()
   zoom.refresh = () => {
     zoom.detach()
-    zoom.attach(':not(a) > img:not(.image-src)')
+    zoom.attach(':not(a) > img:not(.image-src):not(.no-zoom)')
   }
   app.provide(mediumZoomSymbol, zoom)
   watch(

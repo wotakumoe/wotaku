@@ -3,6 +3,7 @@ import { defineAsyncComponent } from 'vue'
 import Authors from './components/Authors.vue'
 import Block from './components/Block.vue'
 import Collapsible from './components/Collapsible.vue'
+import CrossAppSupport from './components/crossapp/CrossAppSupport.vue'
 import Fb from './components/Fb.vue'
 import Feedback from './components/Feedback.vue'
 import Highlight from './components/Highlight.vue'
@@ -28,5 +29,6 @@ export function registerGlobalComponents(app: App) {
   app.component('fb', Fb)
   app.component('Collapsible', Collapsible)
   app.component('ScrapeTable', ScrapeTable)
+  app.component('CrossAppSupport', CrossAppSupport)
   app.component('ExtensionRepos', ExtensionRepos)
 }

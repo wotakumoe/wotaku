@@ -1,30 +1,13 @@
 ---
-title: Mihon, Aniyomi & Dantotsu Extension Stores
-customDescription: Extension Stores & Guides for Mihon, Aniyomi & Dantotsu
+title: Mihon Extension Stores
+customDescription: Extension Stores & Guides for Mihon
 outline: 2
 feedback: no
 og:
     image: /embed/extension.png
 ---
 
-# Mihon & Aniyomi
-
-## Anime
-
-::: extrepo {scheme=aniyomi}
-
-== Yūzōnō
-- url: https://yuzono.github.io
-- src: https://github.com/yuzono/anime-extensions
-- raw: https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json
-
-== Secozzi
-- url: https://github.com/Secozzi/aniyomi-extensions
-- raw: https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.pb
-- data: https://raw.githubusercontent.com/Secozzi/aniyomi-extensions/refs/heads/repo/index.json
-:::
-
-## Manga
+## Mihon
 
 ::: extrepo {scheme=mihon,manual}
 

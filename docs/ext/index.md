@@ -14,11 +14,18 @@ og:
 
 # Extension Repos
 
+## Cross-app Support
+
+<CrossAppSupport />
+
 ## Android
 
 <Deck>
-  <Card title="Mihon & Aniyomi" href="/ext/mihon">
-    Manga & Anime
+  <Card title="Mihon" href="/ext/mihon">
+    Manga
+  </Card>
+  <Card title="Aniyomi" href="/ext/aniyomi">
+    Anime
   </Card>
   <Card title="Cloudstream" href="/ext/cloudstream">
     Anime & Live Action
@@ -33,6 +40,9 @@ og:
     Manga
   </Card>
   <Card title="LNReader" href="/ext/lnreader">
+    Novels
+  </Card>
+  <Card title="Shosetsu" href="/ext/shosetsu">
     Novels
   </Card>
   <Card title="Tsundoku" href="/ext/tsundoku">
@@ -67,25 +77,3 @@ og:
     Manga, Anime & Novels
   </Card>
 </Deck>
-
-
-## Cross-app Support
-::: scrapetable
-- Anymex : (Mihon), (Aniyomi), (Mangayomi), (Kotatsu), (Cloudstream), (LNReader);
-- Cloudstream : (Cloudstream), (Aniyomi);
-- Dantotsu : (Mihon), (Aniyomi), (LNreader);
-- Futon : (Kotatsu), (Mihon);
-- IReader : (IReader), (LNreader);
-- Mana : (Mana), (Mihon);
-- Mangayomi : (Mihon), (Aniyomi), (Mangayomi);
-- Tsundoku : (Mihon), (LNReader), (Tsundoku), (Shosetsu);
-- Usagi : (Kotatsu), (Mihon), (LNreader);
-:::
-
-
-::: tip README
-- To use Mihon/Aniyomi extensions in Mangayomi, Anymex or Dartotsu, you have to enable apkbridge.
-- [**Anymex**](https://github.com/RyanYuuki/AnymeX) doesn't support Mihon, Aniyomi and Cloudstream extensions in iOS.
-- Similarly [**Mangayomi**](https://github.com/kodjodevf/mangayomi) doesn't support Mihon and Aniyomi extensions in iOS.
-
-:::
