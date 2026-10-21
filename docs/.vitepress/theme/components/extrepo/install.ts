@@ -54,12 +54,19 @@ const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'echo'])
 
 const NO_COPY_SCHEMES = new Set(['suwatte', 'echo'])
 
+// Schemes where the per-site action is install-only.
+const NO_SITE_COPY_SCHEMES = new Set(['mana'])
+
 export function isBrowseOnly(scheme: string): boolean {
   return BROWSE_ONLY_SCHEMES.has(scheme)
 }
 
 export function hasCopyButton(scheme: string): boolean {
   return !NO_COPY_SCHEMES.has(scheme)
+}
+
+export function hasSiteCopyButton(scheme: string): boolean {
+  return hasCopyButton(scheme) && !NO_SITE_COPY_SCHEMES.has(scheme)
 }
 
 export function installHref(

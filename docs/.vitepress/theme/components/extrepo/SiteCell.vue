@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { langFlagClass, ratingIcon, ratingTitle } from './helpers'
-import { hasCopyButton } from './install'
+import { hasSiteCopyButton } from './install'
 import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
 import { useCopy } from './useCopy'
@@ -70,7 +70,7 @@ async function copyInstallUrl() {
       <span class="i-lucide:download" />
     </a>
     <button
-      v-if="site.installUrl && hasCopyButton(scheme ?? '')"
+      v-if="site.installUrl && hasSiteCopyButton(scheme ?? '')"
       class="ext-site-copy-btn"
       type="button"
       :aria-label="`Copy ${site.name} url`"
