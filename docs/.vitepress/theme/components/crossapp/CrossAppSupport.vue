@@ -335,6 +335,16 @@ onBeforeUnmount(() => resizeObserver?.disconnect())
   background-color: var(--vp-c-bg);
 }
 
+@media (max-width: 767px) {
+  .ca-box {
+    max-height: min(360px, 55vh);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+}
+
 .ca-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
