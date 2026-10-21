@@ -232,7 +232,7 @@ const { facets, isFiltering, filteredSites } = useRepoFilter(allSites, {
         :has-mixed="facets.hasMixed"
         :has-suggestive="facets.hasSuggestive"
         :available-content-types="facets.availableContentTypes"
-        :has-content-types="facets.availableContentTypes.length > 0"
+        :has-content-types="facets.availableContentTypes.length > 1"
         :has-broken="facets.hasBroken"
       />
     </div>

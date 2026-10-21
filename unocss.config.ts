@@ -64,7 +64,23 @@ const customIcons = {
   // Add more custom icons here as needed
 }
 
+const platformIcons = [
+  'and',
+  'ios',
+  'win',
+  'app',
+  'lin',
+  'bsd',
+  'cmd',
+  'web'
+]
+  .map((token) => aliases[token])
+  .filter(Boolean)
+  .map((icon) => `i-${icon}`)
+
 const safelist = [
+  ...platformIcons,
+  'i-lucide-monitor',
   ...Object.entries(colors).flatMap(([group, shades]) =>
     Object.keys(shades).flatMap((shade) => [
       `text-${group}-${shade}`,

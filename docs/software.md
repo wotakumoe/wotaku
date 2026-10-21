@@ -27,6 +27,7 @@ og:
 | [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/cloudstream) | :ddl::mag: | :mal::al::simkl: | :tv::cast: |
 | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.gg/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
+| [Dartotsu](https://github.com/aayush2622/Dartotsu) | :ddl::mag: | :mal::al::k::simkl: | :tv: |
 | [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [NyanTV](https://nyantv.vercel.app/) [:src:](https://gitlab.com/NyanTV/NyanTV) [:e:](/ext/mihon) | :ddl: | :mal::al::simkl: | :tv: |
 
@@ -73,7 +74,7 @@ og:
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
 | ^^ | [Quicknovel](https://github.com/LagradOst/QuickNovel) |
 | ^^ | [Ranobe](https://github.com/ranobe-org/ranobe) |
-| ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) |
+| ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) [:e:](/ext/shosetsu) |
 | ^^ | [Tsundoku](https://tsundoku-otaku.github.io/) [:src:](https://github.com/tsundoku-otaku/tsundoku) |
 | **Local** | [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) :fm::cs: |
 | ^^ | [Librera Reader](https://github.com/foobnix/LibreraReader) |
@@ -195,10 +196,11 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
 | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Unyo](https://github.com/K3vinb5/unyo-app) | :win::app::lin: | :ddl: | :al: |
-| [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/mangayomi) | :win::app::lin: | :ddl: | :mal::al::simkl: |
+| [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
 <more>
 
+| [Dartotsu](https://github.com/aayush2622/Dartotsu) [:e:](/ext/) | :win::app::lin: | :ddl::mag: | :mal::al::simkl: |
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
 | [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:src:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
 | [Curd](https://github.com/Wraient/curd) | :win::app::lin::cmd: | :ddl: | :al: |

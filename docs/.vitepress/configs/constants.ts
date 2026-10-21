@@ -163,9 +163,17 @@ export const homeCards: HomeCard[] = [
   {
     id: 'ext-mihon',
     icon: ':lucide-puzzle:',
-    title: 'Mihon & Aniyomi',
-    details: 'Manga & Anime',
+    title: 'Mihon',
+    details: 'Manga',
     link: '/ext/mihon',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-aniyomi',
+    icon: ':lucide-puzzle:',
+    title: 'Aniyomi',
+    details: 'Anime',
+    link: '/ext/aniyomi',
     section: 'Extensions'
   },
   {
@@ -206,6 +214,14 @@ export const homeCards: HomeCard[] = [
     title: 'LNReader',
     details: 'Novels',
     link: '/ext/lnreader',
+    section: 'Extensions'
+  },
+  {
+    id: 'ext-shosetsu',
+    icon: ':lucide-puzzle:',
+    title: 'Shosetsu',
+    details: 'Novels',
+    link: '/ext/shosetsu',
     section: 'Extensions'
   },
   {
@@ -535,12 +551,14 @@ export const sidebar: DefaultTheme.Sidebar = [
             text: 'Android',
             collapsed: true,
             items: [
-              { text: 'Mihon & Aniyomi', link: '/ext/mihon' },
+              { text: 'Mihon', link: '/ext/mihon' },
+              { text: 'Aniyomi', link: '/ext/aniyomi' },
               { text: 'Cloudstream', link: '/ext/cloudstream' },
               { text: 'Echo', link: '/ext/echo' },
               { text: 'IReader', link: '/ext/ireader' },
               { text: 'Kotatsu', link: '/ext/kotatsu' },
               { text: 'LNReader', link: '/ext/lnreader' },
+              { text: 'Shosetsu', link: '/ext/shosetsu' },
               { text: 'Tsundoku', link: '/ext/tsundoku' }
             ]
           },
