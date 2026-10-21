@@ -624,6 +624,10 @@ function toRepoDataMana(iconBase: string, index: ManaIndex): RepoSite[] {
         : `${iconBase}/assets/${source.thumbnail}`)
       : ''
     const rating = ratingFromLevel(source.rating ?? 0)
+    const repoParam = encodeURIComponent(iconBase)
+    const installUrl = source.id
+      ? `mana://install-source?repo=${repoParam}&id=${encodeURIComponent(source.id)}`
+      : undefined
     for (const rawLang of langs) {
       const lang = normalizeLang(rawLang.split(/[_-]/)[0] ?? rawLang)
       addSite(seen, `${source.name}::${lang}`, sites, {
@@ -631,7 +635,8 @@ function toRepoDataMana(iconBase: string, index: ManaIndex): RepoSite[] {
         lang,
         icon,
         url: source.website ?? '',
-        rating
+        rating,
+        installUrl
       })
     }
   }

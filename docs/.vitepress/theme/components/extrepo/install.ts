@@ -41,11 +41,13 @@ const INSTALL_URL_BUILDERS: Record<
   cloudstreamrepo: repo =>
     `cloudstreamrepo://${repo.indexUrl.replace(/^https?:\/\//, '')}`,
   hayase: repo => `hayase://extensions/install?url=${repo.indexUrl}`,
-  lnreader: repo => `lnreader://repo/add?url=${repo.indexUrl}`
+  lnreader: repo => `lnreader://repo/add?url=${repo.indexUrl}`,
+  mana: repo =>
+    `mana://add-repo?url=${encodeURIComponent(manaBase(repo.indexUrl))}`
 }
 
 // Apps with no deep-link install scheme;
-const MANUAL_ONLY_SCHEMES = new Set(['manual', 'mana', 'shosetsu'])
+const MANUAL_ONLY_SCHEMES = new Set(['manual', 'shosetsu'])
 
 // Schemes with no install or copy action
 const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'echo'])
