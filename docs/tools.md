@@ -197,7 +197,7 @@ og:
 | Category | Resources | Platform |
 | :--- | :--- | :--- |
 | **General Video tools** | [FFmpeg](https://ffmpeg.org/) [:src:](https://github.com/FFmpeg/FFmpeg) | :win::app::lin::cmd: |
-| ^^ | [LosslessCut](https://mifi.no/losslesscut/) [:src:](https://github.com/mifi/lossless-cut) | :win::app::lin: |
+| ^^ | [LosslessCut](https://losslesscut.app/) [:src:](https://github.com/mifi/lossless-cut) | :win::app::lin: |
 | **General Sub tools** | [Aegisub](https://github.com/arch1t3cht/Aegisub) | :win::app::lin: |
 | ^^ | [Subtitle Edit](https://www.nikse.dk/subtitleedit) [:src:](https://github.com/SubtitleEdit/subtitleedit) | :win: |
 | **Encoding** | [AviSynth+](https://avs-plus.net/) [:src:](https://github.com/AviSynth/AviSynthPlus) | :win::app::lin: |
