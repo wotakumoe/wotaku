@@ -390,13 +390,9 @@ Some content may not be available depending on your region.
 
 == Download
 
-- [Zekozimo](https://zekozimo.blogspot.com/) :s: ||General||
-- [KRDL](https://krdl.moe/) :s:
+- [KRDL.moe](https://krdl.moe/) :ddl::acc:
 - [Nyaa](https://nyaa.si/) :mag: ==m:nyaa==
 - [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/r46CFUEBNu)
-- [Bereke Scrubs](https://berekescrubs.wordpress.com/)
-- [Megabeast Empire](https://megabeastempire.wordpress.com/)
-- [Metallic Subs](https://metallicsubs.wordpress.com/)
 
 == Wikis
 
