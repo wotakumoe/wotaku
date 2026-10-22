@@ -328,6 +328,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [SankanimeID](https://sankanime.web.id/id) |
 | ^^ | [Samehadaku](https://v2.samehadaku.how/) ==m:https://samehadaku.care== |
 | **DDL** | [Alqanime](https://alqanime.net/) |
+| ^^ | [Kusonime](https://kusonime.com/) |
 | ^^ | [Meownime](https://meownime.ltd/) |
 | **Info** | [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/) |
 | ^^ | [Indonesian Fansubbers' Index](https://www.fansub.id/home) |
@@ -457,17 +458,17 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc134.asia/) [:tg:](https://t.me/foclink) |
+| ^^ | [FreeToon](https://foc135.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe682.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon008.com/?pg=1&mcat=all) [:tg:](https://t.me/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon159.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee122.asia/) [:tg:](https://t.me/nameetoonlink) |
-| ^^ | [New XToon](https://newxtoon2.com/) [:tg:](https://t.me/newxtoon) |
+| ^^ | [NameeToon](https://namee123.asia/) [:tg:](https://t.me/nameetoonlink) |
+| ^^ | [New XToon](https://newxtoon3.com/) [:tg:](https://t.me/newxtoon) |
 | ^^ | [TOONKOR](https://toonkor5.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf517.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon233.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [YaToon](https://yatoon260.asia/) [:tg:](https://t.me/yatoonlink) |
+| ^^ | [YaToon](https://yatoon261.asia/) [:tg:](https://t.me/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 
