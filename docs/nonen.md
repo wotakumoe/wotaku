@@ -108,15 +108,17 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [MoMoVod](https://momovod.app/show/30.html) |
 | ^^ | [XG Cartoon](https://www.xgcartoon.com/) |
 | ^^ | [Yinghuacd](https://www.yinhuadm.cc/) ==m:http://yinhuadm.one== |
-| **Torrent** | [ACG](https://acg.rip/) |
+| **Torrent** | [ACG.RIP](https://acg.rip/) |
 | ^^ | [ACGNX](https://share.acgnx.se/) |
+| ^^ | [AniBT](https://anibt.net/) |
 | ^^ | [Anime Garden](https://animes.garden/) |
-| ^^ | [Bangumi](https://bangumi.moe/) |
+| ^^ | [Bangumi.moe](https://bangumi.moe/) |
 | ^^ | [DMHY](https://dmhy.org/) |
 | ^^ | [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter) |
 | ^^ | [MioBT](http://www.miobt.com/) |
 | ^^ | [Nyaa Pantsu](https://ouo.si/) |
 | **Others** | [BangumiD](https://bgmd.bytex.space/) [:src:](https://github.com/iota9star/bgmd) |
+| ^^ | [Bangumi Program Plans](https://bgm.tv/) |
 | ^^ | [Bangumi Staff Statistics](https://search.bgmss.fun/) [:src:](https://github.com/AcuLY/BangumiStaffStats) |
 | ^^ | [TSDM](https://www.tsdm39.com/) :acc: |
 
