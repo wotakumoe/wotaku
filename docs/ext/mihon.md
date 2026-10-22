@@ -18,11 +18,22 @@ og:
 - raw: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.pb
 - data: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.json
 
-== Fucked by FAKKU
+== Cursed Yuzono
 - url: https://github.com/mojuru/cursed-manga-repo
 - note: Removed extensions from Keiyoushi due to DMCA by FAKKU. Maintained by Kommikku dev.
 - raw: https://raw.githubusercontent.com/mojuru/cursed-manga-repo/repo/index.pb
 - data: https://raw.githubusercontent.com/mojuru/cursed-manga-repo/repo/index.json
+
+== FelipeGFA
+- url: https://felipegfa.github.io/
+- src: https://github.com/FelipeGFA/fonte-extensoes
+- note: Focuses on PT-BR
+- raw: https://raw.githubusercontent.com/FelipeGFA/extensoes/refs/heads/repo/index.pb
+- data: https://raw.githubusercontent.com/FelipeGFA/extensoes/refs/heads/repo/index.json
+
+== LittleSurvival
+- url: https://github.com/LittleSurvival/copymanga-copy20
+- raw: https://raw.githubusercontent.com/LittleSurvival/copymanga-copy20/repo/index.min.json
 
 == Kavita
 - url: https://github.com/Kareadita/tach-extension/
@@ -31,17 +42,6 @@ og:
 == Suwayomi
 - url: https://github.com/Suwayomi/tachiyomi-extension
 - raw: https://raw.githubusercontent.com/Suwayomi/tachiyomi-extension/repo/index.min.json
-
-== copymanga-copy20
-- url: https://github.com/LittleSurvival/copymanga-copy20
-- raw: https://raw.githubusercontent.com/LittleSurvival/copymanga-copy20/repo/index.min.json
-
-== FelipeGFA
-- url: https://felipegfa.github.io/
-- src: https://github.com/FelipeGFA/fonte-extensoes
-- note: Focuses on PT-BR
-- raw: https://raw.githubusercontent.com/FelipeGFA/extensoes/refs/heads/repo/index.pb
-- data: https://raw.githubusercontent.com/FelipeGFA/extensoes/refs/heads/repo/index.json
 
 :::
 
