@@ -143,12 +143,12 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
-| ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Mana](https://testflight.apple.com/join/x2nujKx9) :tf::cs: [:d:](https://discord.gg/3mTaMqvVuG) [:e:](/ext/mana) |
-| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/paperback) |
 | ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
+| ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) |
+| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | **Local** | [YACReader](https://www.yacreader.com/) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
 | ^^ | [Panels](https://www.panels.app/) :fm::sub::cs: |
 | ^^ | [iComics](https://apps.apple.com/app/id493845493) :paid::cs: |

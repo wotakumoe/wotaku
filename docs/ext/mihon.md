@@ -18,7 +18,7 @@ og:
 - raw: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.pb
 - data: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.json
 
-== Cursed Yuzono
+== Cursed Yūzōnō
 - url: https://github.com/mojuru/cursed-manga-repo
 - note: Removed extensions from Keiyoushi due to DMCA by FAKKU. Maintained by Kommikku dev.
 - raw: https://raw.githubusercontent.com/mojuru/cursed-manga-repo/repo/index.pb
