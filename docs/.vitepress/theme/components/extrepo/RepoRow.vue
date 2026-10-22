@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import { NOT_EXPANDABLE_REPOS } from './constants'
+import { groupSites } from './groupSites'
 import { stripHtml } from './helpers'
 import {
   copyValue,
@@ -37,6 +38,26 @@ const sites = computed(() => {
   const all = repoData.value[dataUrl]?.sites ?? []
   return props.showBroken ? all : all.filter(site => !site.isBroken)
 })
+const siteCount = computed(() => {
+  const countFor = (url: string | null | undefined) => {
+    const all = url ? repoData.value[url]?.sites ?? [] : []
+    const visible = props.showBroken
+      ? all
+      : all.filter(site => !site.isBroken)
+    return groupSites(visible).length
+  }
+  if (props.repo.variants?.length) {
+    return props.repo.variants.reduce(
+      (total, variant) => total + countFor(mangayomiCopyValue(variant)),
+      0
+    )
+  }
+  return countFor(props.repo.data ?? props.repo.indexUrl)
+})
+const siteCountTitle = computed(
+  () =>
+    `${siteCount.value} extension${siteCount.value === 1 ? '' : 's'} available`
+)
 const repoName = computed(() => stripHtml(props.repo.name))
 const isExpandable = computed(() => !NOT_EXPANDABLE_REPOS.has(repoName.value))
 const installUrl = computed(() =>
@@ -83,6 +104,11 @@ async function copyHeaderVariantUrl() {
     <div class="ext-repo-row">
       <div class="ext-repo-name">
         <span v-html="repo.name" />
+        <span
+          v-if="siteCount"
+          class="ext-repo-count"
+          :title="siteCountTitle"
+        >{{ siteCount }}</span>
         <VTooltip v-if="repo.note" theme="vp-tooltip">
           <button type="button" class="ext-note-btn" aria-label="Note">
             <span class="i-lucide:lightbulb" />

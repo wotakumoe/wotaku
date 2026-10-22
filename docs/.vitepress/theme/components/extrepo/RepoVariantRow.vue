@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
+import { groupSites } from './groupSites'
 import {
   mangayomiCopyValue,
   mangayomiHref,
@@ -37,6 +38,11 @@ const sites = computed(() => {
   const all = url ? repoData.value[url]?.sites ?? [] : []
   return props.showBroken ? all : all.filter(site => !site.isBroken)
 })
+const siteCount = computed(() => groupSites(sites.value).length)
+const siteCountTitle = computed(
+  () =>
+    `${siteCount.value} extension${siteCount.value === 1 ? '' : 's'} available`
+)
 
 async function copyVariantUrl() {
   if (!copyValue.value) return
@@ -47,7 +53,14 @@ async function copyVariantUrl() {
 <template>
   <div class="ext-repo-variant">
     <div class="ext-repo-variant-row">
-      <span class="ext-repo-variant-label">{{ variant.label }}</span>
+      <span class="ext-repo-variant-label">
+        {{ variant.label }}
+        <span
+          v-if="siteCount"
+          class="ext-repo-count"
+          :title="siteCountTitle"
+        >{{ siteCount }}</span>
+      </span>
       <div class="ext-repo-actions">
         <template v-if="showActions">
           <a class="ext-btn ext-btn-install" :href="installUrl">
@@ -115,6 +128,9 @@ async function copyVariantUrl() {
   border-top: 1px solid var(--vp-c-divider);
 }
 .ext-repo-variant-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   font-size: 13px;
   color: var(--vp-c-text-2);
 }
