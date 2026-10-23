@@ -393,7 +393,7 @@ Some content may not be available depending on your region.
 - [Nyaa](https://nyaa.si/) :mag: ==m:nyaa==
 - [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/r46CFUEBNu)
 - [Tokyo Toshokan](https://www.tokyotosho.info/) :mag: [:alt:](https://tokyo-tosho.net/)
-- [KRDL.moe](https://krdl.moe/) :host::acc:
+- [KRDL.moe](https://krdl.moe/) :ded::acc:
 
 == Wikis
 
