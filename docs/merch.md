@@ -133,7 +133,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | ^^ | [animate](https://www.animate.shop/) :cjp: |
 | ^^ | [CDJapan](https://www.cdjapan.co.jp/) :cjp: |
 | ^^ | [HMV&Books](https://www.hmv.co.jp/) :cjp: |
-| ^^ | [Play-Asia](https://www.play-asia.com/) |
+| ^^ | [Playasia](https://www.play-asia.com/) |
 | **Special** | [Mandarake](https://www.mandarake.co.jp/) :cjp: |
 | ^^ | [Melonbooks](https://www.melonbooks.co.jp/) :cjp: |
 | ^^ | [Mercari](https://jp.mercari.com/en) :cjp: |
