@@ -2,6 +2,7 @@
 import { refDebounced } from '@vueuse/core'
 import { computed, nextTick, onUnmounted, ref, watch } from 'vue'
 import { SEARCH_DEBOUNCE_MS, STATUS_TICK_MS } from './constants'
+import { groupSites } from './groupSites'
 import { escapeHtml, stripHtml } from './helpers'
 import { mangayomiCopyValue } from './install'
 import RepoRow from './RepoRow.vue'
@@ -197,6 +198,20 @@ const { facets, isFiltering, filteredSites } = useRepoFilter(allSites, {
   contentTypeFilter,
   showBroken
 })
+
+const totalExtensions = computed(() => {
+  const visible = showBroken.value
+    ? allSites.value
+    : allSites.value.filter(site => !site.isBroken)
+  return groupSites(visible).length
+})
+
+const searchPlaceholder = computed(() => {
+  const total = totalExtensions.value
+  return total
+    ? `Search all extensions (${total.toLocaleString()})…`
+    : 'Search all extensions…'
+})
 </script>
 
 <template>
@@ -204,7 +219,7 @@ const { facets, isFiltering, filteredSites } = useRepoFilter(allSites, {
     <div class="ext-toolbar">
       <div class="ext-search">
         <span class="i-lucide:search" />
-        <input v-model="query" type="text" placeholder="Search all sites…" />
+        <input v-model="query" type="text" :placeholder="searchPlaceholder" />
       </div>
       <button
         type="button"
