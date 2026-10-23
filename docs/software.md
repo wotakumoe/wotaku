@@ -93,7 +93,6 @@ og:
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
 | **MyAnimeList** | [DailyAL](https://github.com/JICA98/DailyAL) |
 | ^^           | [MoeList](https://moelist.net/) [:src:](https://github.com/axiel7/MoeList) |
-| ^^           | [Risuto](https://github.com/lexwilliam/Risuto) |
 | **Others**   | [Kitsune](https://github.com/Drumber/Kitsune) :k: |
 | ^^           | [Nekome](https://github.com/Chesire/Nekome) :k: |
 | ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) |
