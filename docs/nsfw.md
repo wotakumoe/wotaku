@@ -45,7 +45,7 @@ og:
 - [Akuma](https://akuma.moe/) ==EHclone==
 - [HDoujin](https://hdoujin.org/) :s: ==HDoujin==
 - [Hitomi](https://hitomi.la/) ==Hitomi==
-- [IMHentai](https://imhentai.xxx/) ==m:imhentai== ==IMHentai==
+- [IMHentai](https://imhentai.xxx/home/) ==m:imhentai== ==IMHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
 - [Schale Network](https://shupogaki.moe/) :s: [:alt:](https://niyaniya.moe/) ==SchaleNetwork==

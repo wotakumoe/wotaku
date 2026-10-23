@@ -1,5 +1,5 @@
 ---
-src: https://imhentai.xxx/
+src: https://imhentai.xxx/home/
 title: IMHentai
 ---
 
