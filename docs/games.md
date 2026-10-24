@@ -66,7 +66,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [Playnite](https://playnite.link/) [:src:](https://github.com/JosefNemec/Playnite/)
 
 == Game-specific
-- [Arks-Layer](https://arks-layer.com/index.php)
+- [Arks-Layer](https://arks-layer.com/)
 - [LunarCast Replay Database](http://replay.lunarcast.net/)
 - [Megami Tensei Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
 - [Sekai Viewer](https://sekai.best/) [:src:](https://github.com/Sekai-World/sekai-viewer)
