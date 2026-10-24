@@ -15,7 +15,11 @@ const props = defineProps<{
   scheme?: string
 }>()
 
-const copyTarget = computed(() => props.site.copyUrl ?? props.site.installUrl)
+const copyTarget = computed(() => {
+  const value = props.site.copyUrl ?? props.site.installUrl
+  const soraMatch = value?.match(/^sora:\/\/module\?url=(.+)$/)
+  return soraMatch ? soraMatch[1] : value
+})
 
 async function copyInstallUrl() {
   const value = copyTarget.value

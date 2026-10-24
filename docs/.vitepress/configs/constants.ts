@@ -265,6 +265,14 @@ export const homeCards: HomeCard[] = [
     section: 'Extensions'
   },
   {
+    id: 'ext-sora',
+    icon: ':lucide-puzzle:',
+    title: 'Sora',
+    details: 'Anime, Manga, Movies & Novels',
+    link: '/ext/sora',
+    section: 'Extensions'
+  },
+  {
     id: 'ext-hayase',
     icon: ':lucide-puzzle:',
     title: 'Hayase',
@@ -577,7 +585,8 @@ export const sidebar: DefaultTheme.Sidebar = [
               { text: 'Aidoku', link: '/ext/aidoku' },
               { text: 'Mana', link: '/ext/mana' },
               { text: 'Paperback', link: '/ext/paperback' },
-              { text: 'Suwatte', link: '/ext/suwatte' }
+              { text: 'Suwatte', link: '/ext/suwatte' },
+              { text: 'Sora', link: '/ext/sora' }
             ]
           },
           {

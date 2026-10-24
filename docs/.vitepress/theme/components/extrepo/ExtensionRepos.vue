@@ -114,6 +114,7 @@ const statusTitle = computed(() => {
 })
 
 const repoData = computed(() => store.value?.sites ?? {})
+const soraAuthors = computed(() => store.value?.soraAuthors ?? {})
 const echoAuthors = computed(() => store.value?.echoAuthors ?? {})
 const repoLists = computed(() => store.value?.repoLists ?? {})
 
@@ -143,7 +144,8 @@ const baseRepos = computed<Repo[]>(() => {
 const resolvedRepos = computed<Repo[]>(() => {
   const result: Repo[] = []
   for (const repo of baseRepos.value) {
-    const authors = echoAuthors.value[repo.indexUrl]
+    const authors = soraAuthors.value[repo.indexUrl] ??
+      echoAuthors.value[repo.indexUrl]
     if (!authors?.length) {
       result.push(repo)
       continue

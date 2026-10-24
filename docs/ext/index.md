@@ -65,6 +65,9 @@ og:
   <Card title="Suwatte" href="/ext/suwatte">
     Manga & Novels
   </Card>
+  <Card title="Sora" href="/ext/sora">
+    Anime, Manga, Novels & Live Action
+  </Card>
 </Deck>
 
 ## Multi

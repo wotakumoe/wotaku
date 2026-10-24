@@ -53,7 +53,7 @@ const MANUAL_ONLY_SCHEMES = new Set(['manual', 'shosetsu'])
 const NO_INSTALL_SCHEMES = new Set(['seanime'])
 
 // Schemes with no install or copy action
-const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'echo'])
+const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora', 'echo'])
 
 const NO_COPY_SCHEMES = new Set(['suwatte', 'echo'])
 

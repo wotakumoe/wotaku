@@ -33,7 +33,7 @@ const schemeModules = import.meta.glob<{ data: ExtensionRepoData }>(
 )
 
 function emptyData(): ExtensionRepoData {
-  return { sites: {}, echoAuthors: {}, repoLists: {} }
+  return { sites: {}, soraAuthors: {}, echoAuthors: {}, repoLists: {} }
 }
 
 // Never let a hung chunk or upstream fetch spin forever.
@@ -119,6 +119,7 @@ export function provideRepoStore(scheme: string): RepoStore {
       }
       store.value = {
         sites: { ...sites, ...fresh.sites },
+        soraAuthors: { ...prev.soraAuthors, ...fresh.soraAuthors },
         echoAuthors: { ...prev.echoAuthors, ...fresh.echoAuthors },
         repoLists: { ...prev.repoLists, ...fresh.repoLists }
       }

@@ -182,6 +182,36 @@ interface KotatsuIndex {
   sites: KotatsuSite[]
 }
 
+interface SoraRepoIndexEntry {
+  name: string
+  source: string
+  path?: string
+  error?: string
+}
+
+interface SoraRepoIndex {
+  repos: SoraRepoIndexEntry[]
+}
+
+interface SoraModule {
+  sourceName: string
+  iconUrl?: string
+  iconURL?: string
+  language?: string
+  baseUrl?: string
+  scriptUrl?: string
+  scriptURL?: string
+  wotaku_sourceName?: string
+  wotaku_language?: string[]
+  wotaku_type?: string[]
+}
+
+export interface SoraAuthorRepo {
+  label: string
+  repoUrl?: string
+  indexUrl: string
+}
+
 interface EchoExtension {
   id: string
   type: string
@@ -789,6 +819,98 @@ function loadEchoExtensionList(
   }
 }
 
+function isSoraRepoIndex(json: unknown): json is SoraRepoIndex {
+  return !!json && typeof json === 'object' &&
+    Array.isArray((json as SoraRepoIndex).repos)
+}
+
+function normalizeSoraLang(language: string | undefined): string {
+  const stripped = (language ?? '').replace(/\s*\([^)]*\)\s*$/, '').trim()
+  if (stripped.toLowerCase().startsWith('multi')) return 'all'
+  return normalizeLang(stripped)
+}
+
+function toRepoDataSoraModules(modules: SoraModule[]): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+
+  for (const mod of modules) {
+    const name = mod.wotaku_sourceName ?? mod.sourceName
+    const langs = mod.wotaku_language?.length
+      ? mod.wotaku_language
+      : [mod.language]
+    const scriptUrl = mod.scriptUrl ?? mod.scriptURL
+    const installUrl = scriptUrl?.replace(/\.js$/i, '.json')
+    for (const rawLang of langs) {
+      const lang = normalizeSoraLang(rawLang)
+      const key = `${name}::${lang}::${installUrl ?? ''}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      sites.push({
+        name,
+        lang,
+        icon: mod.iconUrl ?? mod.iconURL ?? '',
+        url: mod.baseUrl ?? '',
+        rating: 'safe',
+        contentType: mod.wotaku_type?.[0],
+        installUrl: installUrl ? `sora://module?url=${installUrl}` : undefined
+      })
+    }
+  }
+
+  return sortSites(sites)
+}
+
+async function loadSoraRepoIndex(
+  indexUrl: string,
+  index: SoraRepoIndex,
+  fetchJson: FetchJson
+): Promise<{
+  sites: RepoSite[]
+  authorRepos: SoraAuthorRepo[]
+  sitesByAuthor: Record<string, RepoData>
+}> {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+  const authorRepos: SoraAuthorRepo[] = []
+  const sitesByAuthor: Record<string, RepoData> = {}
+
+  const entries = index.repos.filter(repo => repo.path && !repo.error)
+  const fileUrls = entries.map(repo => new URL(repo.path!, indexUrl).toString())
+  const moduleLists = await mapLimit(
+    fileUrls,
+    FETCH_CONCURRENCY,
+    url => fetchJson(url)
+  )
+
+  entries.forEach((repo, i) => {
+    const modules = moduleLists[i]
+    const authorSites = Array.isArray(modules)
+      ? toRepoDataSoraModules(modules as SoraModule[])
+      : []
+    const fileUrl = fileUrls[i]
+    sitesByAuthor[fileUrl] = { sites: authorSites }
+    authorRepos.push({
+      label: repo.name,
+      repoUrl: repo.source?.replace(/\.git$/, ''),
+      indexUrl: fileUrl
+    })
+    for (const site of authorSites) {
+      const key = `${site.name}::${site.lang}::${site.installUrl ?? ''}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      sites.push(site)
+    }
+  })
+
+  authorRepos.sort((a, b) => a.label.localeCompare(b.label))
+  return {
+    sites: sortSites(sites),
+    authorRepos,
+    sitesByAuthor
+  }
+}
+
 function toRepoDataLNReader(plugins: LNReaderPlugin[]): RepoSite[] {
   const seen = new Set<string>()
   const sites: RepoSite[] = []
@@ -934,6 +1056,7 @@ async function toRepoData(
 
 export interface ExtensionRepoData {
   sites: Record<string, RepoData>
+  soraAuthors: Record<string, SoraAuthorRepo[]>
   echoAuthors: Record<string, EchoAuthorRepo[]>
   repoLists: Record<string, RepoListEntry[]>
 }
@@ -945,6 +1068,7 @@ export async function assembleSchemeData(
 ): Promise<ExtensionRepoData> {
   const listUrlSet = new Set(listUrls)
   const sites: Record<string, RepoData> = {}
+  const soraAuthors: Record<string, SoraAuthorRepo[]> = {}
   const echoAuthors: Record<string, EchoAuthorRepo[]> = {}
   const repoLists: Record<string, RepoListEntry[]> = {}
   const pendingByAuthor: Record<string, RepoData> = {}
@@ -1021,6 +1145,13 @@ export async function assembleSchemeData(
     const url = remaining[i]
     const json = jsons[i]
     if (json === undefined) continue
+    if (isSoraRepoIndex(json)) {
+      const result = await loadSoraRepoIndex(url, json, fetchJson)
+      sites[url] = { sites: result.sites }
+      soraAuthors[url] = result.authorRepos
+      Object.assign(pendingByAuthor, result.sitesByAuthor)
+      continue
+    }
     if (isEchoExtensionList(json)) {
       const result = loadEchoExtensionList(url, json)
       sites[url] = { sites: result.sites }
@@ -1031,5 +1162,5 @@ export async function assembleSchemeData(
     sites[url] = await toRepoData(url, json, fetchJson)
   }
   Object.assign(sites, pendingByAuthor)
-  return { sites, echoAuthors, repoLists }
+  return { sites, soraAuthors, echoAuthors, repoLists }
 }
