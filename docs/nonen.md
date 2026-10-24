@@ -308,7 +308,7 @@ Most apps in [**software**](/software) supports multilingual sources
 | ^^ | [ToonStream](https://toonstream.us/home/) + :len: |
 | **DDL** | [AnimeVilla](https://animevilla.org/) :ero: |
 | ^^ | [ATOZ CARTOONIST](https://www.atozcartoonist.com/) |
-| ^^ | [GokuHD](https://www.gokuhd.com/) + :len: |
+| ^^ | [GokuHD](https://gokuhd.cc/) + :len: |
 | ^^ | [Puretoons](https://puretoons.in/) + :len: |
 | ^^ | [SDToons](https://sdtoons.com/) :ero: + :len: |
 | ^^ | [Toonhub4u](https://toonhub4u.live/home/) + :len: |
@@ -340,7 +340,7 @@ Most apps in [**software**](/software) supports multilingual sources
 - [Komiku](https://komiku.org/)
 - [Megaheya](https://mangaheya.net/) :acc:
 - [Mynimeku](https://www.mynimeku.com/)
-- [Softkomik](https://softkomik.co/)
+- [Softkomik](https://softkomik.app/)
 - [YuuManga](https://yuumanga.blogspot.com/)
 
 ### Light Novels
@@ -384,7 +384,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Websites | Library ==Library== |
 |----------|---------------------|
-| [Dokiraw](https://dokiraw.cam/) | ==l:dokiraw== |
+| [Dokiraw](https://dokiraw.city/) | ==l:dokiraw== |
 | [Free PDF Library](https://pdftoshokan.com/) | ==l:pdftoshokan== |
 | [Hachiraw](https://hachiraw.net/) | ==l:hachiraw== |
 | [KL Manga](https://old.klz9.com/) ==m:kl-manga== | ==l:klmanga== |
@@ -392,14 +392,14 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 <more>
 
-| [Manga Raw (.ad)](https://mangarawad.city/) | ==l:mangarawad== |
+| [Manga Raw (.ad)](https://mangarawad.icu/) | ==l:mangarawad== |
 | [Manga Raw (.best)](https://mangaraw.best/) | ==l:mangarawbest== |
 | [Manga Raw (.lc)](https://mangaraw.lc/) ==m:mangarawspoil== | ==l:mangarawlc== |
 | [RAW 1001](https://raw1001.net/home) ==m:raw1001== | ==l:raw1001== |
 | [Rawkuma](https://rawkuma.net/) | ==l:rawkuma== |
-| [Raw FREE](https://rawfree.blue/) | ==l:rawfree== |
+| [Raw FREE](https://rawfree.click/) | ==l:rawfree== |
 | [RAW LAZY](https://rawlazy.io/) | ==l:rawlazy== |
-| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.voto/home/) | ==l:rawotaku== |
+| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.cool/home/) | ==l:rawotaku== |
 | [RawUwU](https://rawuwu.net/) ==m:rawuwu== | ==l:rawuwu== |
 | [Soraraw](https://soraraw.com/) | ==l:soraraw== |
 
@@ -460,11 +460,11 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc135.asia/) [:tg:](https://t.me/foclink) |
+| ^^ | [FreeToon](https://foc136.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe683.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon008.com/?pg=1&mcat=all) [:tg:](https://t.me/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon159.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee123.asia/) [:tg:](https://t.me/nameetoonlink) |
+| ^^ | [MoneyToon](https://mtoon160.asia/) [:tg:](https://t.me/mtoonopen) |
+| ^^ | [NameeToon](https://namee124.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [New XToon](https://newxtoon3.com/) [:tg:](https://t.me/newxtoon) |
 | ^^ | [TOONKOR](https://toonkor6.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf517.com/) ==m:https://xn--ph1bph0az41x.com== |
