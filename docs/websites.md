@@ -158,15 +158,15 @@ Some content may not be available depending on your region.
 | [Kagane](https://kagane.si/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Toonkotsu](https://toonkotsu.com/) | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
-| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | ==l:comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | ==l:weebcentral== | :msync: | :ss: | :lsg: | :cmnt::frm: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | ==l:atsumaru== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
 
 <more>
 
-| [MangaBall](https://mangaball.net/) | ==l:mangaball== | :msync: | :ps::up: | :ls: | :cmnt: |
+| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | ==l:comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | ==l:mangafire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [OniSaga](https://onisaga.com/home) ==OniSaga== | ==l:onisaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |
+| [MangaBall](https://mangaball.net/) | ==l:mangaball== | :msync: | :ps::up: | :ls: | :cmnt: |
 | [MangaK](https://mangak.io/home) | ==l:mangak== | :no: | :ss: | :sp::ls: | :cmnt: |
 | [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | ==l:xcomic== | :no: | :ps: | :ls::lsg: | :no: |
 | [MKissa](https://mkissa.to/manga) | ==l:mkissa manga== | :msync: | :ss: | :sp::dp::ls: | :cmnt::frm: |
