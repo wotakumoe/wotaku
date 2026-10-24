@@ -48,7 +48,7 @@ og:
 - [IMHentai](https://imhentai.xxx/home/) ==m:imhentai== ==IMHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
-- [Schale Network](https://shupogaki.moe/) :s: [:alt:](https://niyaniya.moe/) ==SchaleNetwork==
+- [Schale Network](https://niyaniya.moe/) :s: ==SchaleNetwork==
 - [Yabai](https://yabai.si/g) ==EHclone==
 
 <collapsible title="English-only">
