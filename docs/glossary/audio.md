@@ -365,9 +365,6 @@ The My Dress-Up Darling ED makes much more use of the extra frequency headroom, 
 
 In short, analyzing a file can help determine the authenticity of the quality. A FLAC file cant always be taken at face value. If it sounds low quality, it could potentially be the result of a bad transcode. Software such as spek allows the user to analyze music and prevent the sharing of low quality, unwanted encodes.
 
-::: info [**Click here**](https://drive.proton.me/urls/7RZE1Y1K70#7LWs2238Irn5) for higher res specs.
-:::
-
 ## Container
 
 Container is the extension name we see at the end of the file. This can be same as codec (e.g., **FLAC** & `.FLAC`) or different (e.g. **ALAC** & `.m4a`). Containers store all the data. The data is (typically) stored in different parts. These structures can change based on the container. This can be oversimplified like this: 
