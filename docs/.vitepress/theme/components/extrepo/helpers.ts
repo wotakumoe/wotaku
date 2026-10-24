@@ -74,12 +74,22 @@ export function ratingTitle(rating: Rating): string {
   return 'Mixed'
 }
 
+const CONTENT_TYPE_LABELS: Record<string, string> = {
+  plugin: 'Plugin',
+  'custom-source': 'Custom Source',
+  'onlinestream-provider': 'Online Streaming',
+  'manga-provider': 'Manga Provider',
+  'anime-torrent-provider': 'Anime Torrent'
+}
+
 export function contentTypeLabel(type: string): string {
   let hit = contentTypeCache.get(type)
   if (hit === undefined) {
-    hit = type.toLowerCase().split('_').map(word =>
-      word.charAt(0).toUpperCase() + word.slice(1)
-    ).join(' ')
+    const mapped = CONTENT_TYPE_LABELS[type.toLowerCase()]
+    hit = mapped ??
+      type.toLowerCase().split('_').map(word =>
+        word.charAt(0).toUpperCase() + word.slice(1)
+      ).join(' ')
     contentTypeCache.set(type, hit)
   }
   return hit

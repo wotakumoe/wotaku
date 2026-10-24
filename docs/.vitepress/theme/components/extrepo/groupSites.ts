@@ -10,10 +10,13 @@ export function groupSites(
 ): SiteGroup[] {
   const map = new Map<string, SiteGroup>()
   for (const site of sites) {
-    const key = site.url
-      ? 'url::' + (site.repoName ?? '') + '::' + site.url
+    const author = site.author ?? ''
+    const key = site.copyUrl
+      ? 'copy::' + (site.repoName ?? '') + '::' + site.copyUrl
+      : site.url
+      ? 'url::' + (site.repoName ?? '') + '::' + author + '::' + site.url
       : 'nourl::' + site.name + '::' + site.lang + '::' +
-        (site.repoName ?? '') + '::' + site.icon
+        (site.repoName ?? '') + '::' + author + '::' + site.icon
     let group = map.get(key)
     if (!group) {
       group = { key, sites: [] }

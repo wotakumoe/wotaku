@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import { langFlagClass, ratingIcon, ratingTitle } from './helpers'
 import { hasSiteCopyButton } from './install'
 import LazyIcon from './LazyIcon.vue'
@@ -14,8 +15,10 @@ const props = defineProps<{
   scheme?: string
 }>()
 
+const copyTarget = computed(() => props.site.copyUrl ?? props.site.installUrl)
+
 async function copyInstallUrl() {
-  const value = props.site.installUrl
+  const value = copyTarget.value
   if (!value) return
   await copy(value, value)
 }
@@ -55,8 +58,8 @@ async function copyInstallUrl() {
           @mouseleave="hideTooltip"
         />
       </div>
-      <span v-if="site.repoName" class="ext-site-repo">{{
-        site.repoName
+      <span v-if="site.author ?? site.repoName" class="ext-site-repo">{{
+        site.author ?? site.repoName
       }}</span>
     </component>
     <a
@@ -70,7 +73,7 @@ async function copyInstallUrl() {
       <span class="i-lucide:download" />
     </a>
     <button
-      v-if="site.installUrl && hasSiteCopyButton(scheme ?? '')"
+      v-if="copyTarget && hasSiteCopyButton(scheme ?? '')"
       class="ext-site-copy-btn"
       type="button"
       :aria-label="`Copy ${site.name} url`"
@@ -78,7 +81,7 @@ async function copyInstallUrl() {
       @mouseleave="hideTooltip"
       @click="copyInstallUrl"
     >
-      <span v-if="copiedKey === site.installUrl" class="i-lucide:check" />
+      <span v-if="copiedKey === copyTarget" class="i-lucide:check" />
       <span v-else class="i-lucide:copy" />
     </button>
   </div>

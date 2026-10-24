@@ -49,6 +49,9 @@ const INSTALL_URL_BUILDERS: Record<
 // Apps with no deep-link install scheme;
 const MANUAL_ONLY_SCHEMES = new Set(['manual', 'shosetsu'])
 
+// Schemes that keep the copy actions but never show an install link.
+const NO_INSTALL_SCHEMES = new Set(['seanime'])
+
 // Schemes with no install or copy action
 const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'echo'])
 
@@ -74,6 +77,7 @@ export function installHref(
   repo: Repo,
   opts?: InstallOpts
 ): string | null {
+  if (NO_INSTALL_SCHEMES.has(scheme)) return null
   const build = INSTALL_URL_BUILDERS[scheme]
   if (build) return build(repo, opts)
   if (MANUAL_ONLY_SCHEMES.has(scheme) || BROWSE_ONLY_SCHEMES.has(scheme)) {

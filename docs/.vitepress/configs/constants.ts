@@ -281,6 +281,14 @@ export const homeCards: HomeCard[] = [
     section: 'Extensions'
   },
   {
+    id: 'ext-seanime',
+    icon: ':lucide-puzzle:',
+    title: 'Seanime',
+    details: 'Anime, Manga, Torrents & Plugins',
+    link: '/ext/seanime',
+    section: 'Extensions'
+  },
+  {
     id: 'glossary-general',
     icon: ':lucide-book-open:',
     title: 'General Glossary',
@@ -577,7 +585,8 @@ export const sidebar: DefaultTheme.Sidebar = [
             collapsed: true,
             items: [
               { text: 'Hayase', link: '/ext/hayase' },
-              { text: 'Mangayomi', link: '/ext/mangayomi' }
+              { text: 'Mangayomi', link: '/ext/mangayomi' },
+              { text: 'Seanime', link: '/ext/seanime' }
             ]
           }
     ]

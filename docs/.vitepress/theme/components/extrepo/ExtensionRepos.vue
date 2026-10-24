@@ -9,7 +9,7 @@ import RepoRow from './RepoRow.vue'
 import SettingsMenu from './SettingsMenu.vue'
 import SiteGrid from './SiteGrid.vue'
 import type { MatchedSite, RatingFilter, Repo } from './types'
-import { indexSites, useRepoFilter } from './useRepoFilter'
+import { dedupeSites, indexSites, useRepoFilter } from './useRepoFilter'
 import { provideRepoStore } from './useRepoStore'
 import { provideTooltip } from './useTooltip'
 
@@ -203,7 +203,7 @@ const totalExtensions = computed(() => {
   const visible = showBroken.value
     ? allSites.value
     : allSites.value.filter(site => !site.isBroken)
-  return groupSites(visible).length
+  return groupSites(dedupeSites(visible)).length
 })
 
 const searchPlaceholder = computed(() => {

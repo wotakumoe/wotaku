@@ -135,6 +135,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 - [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/hayase)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio)
+- [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) [:e:](/ext/seanime) 
 
 
 == Manga
@@ -148,6 +149,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
+| ^^ | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) [:e:](/ext/seanime)  |
 | **Local** | [YACReader](https://www.yacreader.com/) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP) |
 | ^^ | [Panels](https://www.panels.app/) :fm::sub::cs: |
 | ^^ | [iComics](https://apps.apple.com/app/id493845493) :paid::cs: |
@@ -193,7 +195,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | [Hayase](https://hayase.watch/) [:src:](https://github.com/hayase-app) [:e:](/ext/hayase) | :win::app::lin: | :mag::material-symbols-newspaper-rounded: | :mal::al::k::simkl: |
 | [Stremio](https://www.stremio.com/) :cs::fm::sub: [:e:](#tab-stremio) | :win::app::lin: | :mag::ddl: | :mal::al::simkl: |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :win::app::lin: | :mag::ddl: | :mal::al::k: |
-| [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
+| [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) [:e:](/ext/seanime) | :win::app::lin: | :mag::ddl: | :mal::al::k::simkl: |
 | [Unyo](https://github.com/K3vinb5/unyo-app) | :win::app::lin: | :ddl: | :al: |
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) | :win::app::lin: | :ddl: | :mal::al::simkl: |
 
@@ -221,7 +223,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | :--- | :--- | :--- | :--- |
 | **Online** | [Mangayomi](https://github.com/kodjodevf/mangayomi) :s: | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :sp::dp::ls: |
-| ^^ | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) | :win::app::lin: | :sp::dp::ls: |
+| ^^ | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) [:e:](/ext/seanime) | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: | :sp: |
 | **Local** | [OpenComic](https://opencomic.app/) :s: [:src:](https://github.com/ollm/OpenComic) ==OpenComic== | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [YACReader](https://www.yacreader.com/) [:src:](https://github.com/YACReader/yacreader) ==YACReader== | :win::app::lin: | :sp::dp: |
@@ -371,7 +373,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 |----------- |----------|
 | **Anime**      | [Jellyfin](https://jellyfin.org/) :s: [:src:](https://github.com/jellyfin/jellyfin) |
 | ^^         | [Plex](https://www.plex.tv/your-media/) :cs: |
-| ^^         | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) |
+| ^^         | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) [:e:](/ext/seanime) |
 | **Manga**      | [Komga](https://komga.org/) :s: [:src:](https://github.com/gotson/komga) |
 | ^^         | [Kavita](https://www.kavitareader.com/) [:src:](https://github.com/Kareadita/Kavita) |
 | ^^         | [LANraragi](https://sugoi.gitbook.io/lanraragi/dev) [:src:](https://github.com/Difegue/LANraragi) |

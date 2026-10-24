@@ -198,6 +198,24 @@ export interface EchoAuthorRepo {
   indexUrl: string
 }
 
+interface SeanimeMarketplaceEntry {
+  id?: string
+  name: string
+  description?: string
+  author?: string
+  version?: string
+  type?: string
+  language?: string
+  lang?: string
+  icon?: string
+  manifestURI: string
+  payloadURI?: string
+  website?: string
+  workingTag?: boolean
+  brokenTag?: boolean
+  deprecatedTag?: boolean
+}
+
 const FETCH_TIMEOUT_MS = 15000
 const FETCH_CONCURRENCY = 10
 
@@ -817,6 +835,40 @@ function toRepoDataMihonNew(index: MihonIndex): RepoSite[] {
   return sortSites(sites)
 }
 
+function toRepoDataSeanime(entries: SeanimeMarketplaceEntry[]): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+  for (const ext of entries) {
+    if (!ext?.name || !ext?.manifestURI) continue
+    if (seen.has(ext.manifestURI)) continue
+    seen.add(ext.manifestURI)
+    const author = ext.author?.trim()
+    sites.push({
+      name: ext.name,
+      lang: normalizeLang(ext.lang ?? 'all'),
+      icon: ext.icon ?? '',
+      url: ext.website ?? '',
+      rating: 'safe',
+      contentType: ext.type ?? '',
+      isBroken: ext.brokenTag || ext.deprecatedTag ? true : undefined,
+      author: author || undefined,
+      copyUrl: ext.manifestURI
+    })
+  }
+  return sortSites(sites)
+}
+
+function isSeanimeMarketplaceList(
+  json: unknown
+): json is SeanimeMarketplaceEntry[] {
+  if (!Array.isArray(json) || json.length === 0) return false
+  const first = json[0]
+  return Boolean(
+    first && typeof first === 'object' &&
+      typeof (first as Record<string, unknown>).manifestURI === 'string'
+  )
+}
+
 async function toRepoData(
   indexUrl: string,
   json: unknown,
@@ -836,7 +888,9 @@ async function toRepoData(
 
   if (Array.isArray(json)) {
     const first = json[0] as Record<string, unknown> | undefined
-    if (first && 'manifestVersion' in first) {
+    if (isSeanimeMarketplaceList(json)) {
+      sites = toRepoDataSeanime(json)
+    } else if (first && 'manifestVersion' in first) {
       sites = toRepoDataHayase(json as HayaseExtension[])
     } else if (first && 'iconUrl' in first && 'site' in first) {
       sites = toRepoDataLNReader(json as LNReaderPlugin[])

@@ -27,6 +27,8 @@ export interface RepoSite {
   contentType?: string
   isBroken?: boolean
   installUrl?: string
+  author?: string
+  copyUrl?: string
 }
 
 export interface MatchedSite extends RepoSite {

@@ -21,6 +21,20 @@ export function indexSites(sites: MatchedSite[]): IndexedSite[] {
   }))
 }
 
+// dedupes seanime marketplace
+export function dedupeSites<T extends MatchedSite>(sites: T[]): T[] {
+  const seen = new Set<string>()
+  const out: T[] = []
+  for (const site of sites) {
+    if (site.copyUrl) {
+      if (seen.has(site.copyUrl)) continue
+      seen.add(site.copyUrl)
+    }
+    out.push(site)
+  }
+  return out
+}
+
 export function useRepoFilter(
   allSites: ComputedRef<IndexedSite[]>,
   state: RepoFilterState
@@ -69,7 +83,7 @@ export function useRepoFilter(
     const rating = state.ratingFilter.value
     const ctype = state.contentTypeFilter.value
     const showBroken = state.showBroken.value
-    return allSites.value.filter((site) => {
+    const filtered = allSites.value.filter((site) => {
       if (site.isBroken && !showBroken) return false
       if (q && !site.hay.includes(q)) return false
       if (lang && site.lang !== lang) return false
@@ -77,6 +91,7 @@ export function useRepoFilter(
       if (ctype && site.contentType !== ctype) return false
       return true
     })
+    return dedupeSites(filtered)
   })
 
   return { facets, isFiltering, filteredSites }

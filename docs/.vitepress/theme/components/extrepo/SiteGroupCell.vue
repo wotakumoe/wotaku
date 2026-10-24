@@ -75,8 +75,8 @@ const groupName = computed(() => {
         @mouseleave="hideTooltip"
       />
     </div>
-    <span v-if="primary.repoName" class="ext-site-repo">{{
-      primary.repoName
+    <span v-if="primary.author ?? primary.repoName" class="ext-site-repo">{{
+      primary.author ?? primary.repoName
     }}</span>
   </button>
 </template>

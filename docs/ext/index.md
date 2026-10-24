@@ -76,4 +76,7 @@ og:
   <Card title="Mangayomi" href="/ext/mangayomi">
     Manga, Anime & Novels
   </Card>
+  <Card title="Seanime" href="/ext/seanime">
+    Anime, Manga, Novels & others
+  </Card>
 </Deck>
