@@ -390,10 +390,13 @@ Some content may not be available depending on your region.
 
 == Download
 
-- [Nyaa](https://nyaa.si/) :mag: ==m:nyaa==
-- [AvistaZ](https://avistaz.to/) :mag::acc: [:d:](https://discord.gg/r46CFUEBNu)
-- [Tokyo Toshokan](https://www.tokyotosho.info/) :mag: [:alt:](https://tokyo-tosho.net/)
-- [KRDL.moe](https://krdl.moe/) :ded::acc:
+| Category | Websites |
+| :--- | :--- |
+| **Direct** :ddl: | [Toku DDL](https://i.wotaku.wiki/p/redirect) |
+| ^^ | [KRDL.moe](https://krdl.moe/) :ded::acc: |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== |
+| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
+| ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
 
 == Wikis
 
