@@ -21,7 +21,13 @@ interface AppEntry {
   platforms: string[]
   icon: string | null
   repos: string[]
+  comp?: string[]
   notes: string[]
+}
+
+interface OpenRepo extends Repo {
+  id: string
+  comp: boolean
 }
 
 interface Payload {
@@ -53,12 +59,18 @@ const openApp = computed(() =>
   apps.value.find(app => app.id === openId.value) ?? null
 )
 
-const openRepos = computed(() => {
-  if (!openApp.value || !payload.value) return []
-  return openApp.value.repos
-    .map(id => payload.value!.repos[id])
-    .filter((repo): repo is Repo => Boolean(repo))
+const openRepos = computed<OpenRepo[]>(() => {
+  const app = openApp.value
+  const repos = payload.value?.repos
+  if (!app || !repos) return []
+  const comp = new Set(app.comp ?? [])
+  return app.repos.flatMap(id => {
+    const repo = repos[id]
+    return repo ? [{ ...repo, id, comp: comp.has(id) }] : []
+  })
 })
+
+const hasCompRepo = computed(() => openRepos.value.some(repo => repo.comp))
 
 const openRowEnd = computed(() => {
   const app = openApp.value
@@ -294,9 +306,12 @@ onBeforeUnmount(() => resizeObserver?.disconnect())
                 <component
                   :is="repo.href ? 'a' : 'div'"
                   v-for="repo in openRepos"
-                  :key="repo.name"
+                  :key="repo.id"
                   class="ca-repo"
-                  :class="{ 'is-disabled': !repo.href }"
+                  :class="{
+                    'is-disabled': !repo.href,
+                    'is-comp': repo.comp
+                  }"
                   :href="repo.href ?? undefined"
                   :title="repo.href ? repo.name : 'No page yet'"
                 >
@@ -315,6 +330,16 @@ onBeforeUnmount(() => resizeObserver?.disconnect())
                   <span class="ca-repo-name">{{ repo.name }}</span>
                 </component>
               </div>
+
+              <p v-if="hasCompRepo" class="ca-comp-foot">
+                <span
+                  class="i-lucide-square-dashed ca-comp-icon"
+                  aria-hidden="true"
+                />
+                <span>
+                  App uses an extension as a compatibility layer. All the extensions / features may not work properly.
+                </span>
+              </p>
             </section>
           </template>
         </div>
@@ -569,6 +594,30 @@ onBeforeUnmount(() => resizeObserver?.disconnect())
 
 .ca-repo.is-disabled {
   opacity: 0.55;
+}
+
+.ca-repo.is-comp {
+  border-style: dashed;
+}
+
+.ca-comp-foot {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  margin: 6px 4px 2px;
+  font-size: 10.5px;
+  line-height: 1.4;
+  color: var(--vp-c-text-2);
+}
+
+.ca-comp-icon {
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  min-width: 0;
+  margin-top: 1px;
+  font-size: 12px;
+  line-height: 1;
 }
 
 .ca-repo-name {
