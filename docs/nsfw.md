@@ -48,7 +48,7 @@ og:
 - [IMHentai](https://imhentai.xxx/home/) ==m:imhentai== ==IMHentai==
 - [nHentai](https://nhentai.net/) ==nHentai==
 - [Panda Backup](https://panda.chaika.moe/) ==PandaBackup==
-- [Schale Network](https://niyaniya.moe/) :s: ==SchaleNetwork==
+- [Schale Network](https://niyaniya.moe/) :s: ==m:https://schale.network/mirrors== ==SchaleNetwork==
 - [Yabai](https://yabai.si/g) ==EHclone==
 
 <collapsible title="English-only">
@@ -56,7 +56,6 @@ og:
 - [EAHentai](https://eahentai.com/)
 - [Hentai Nexus](https://hentainexus.com/) ==HenTalkNexus==
 - [HentaiRead](https://hentairead.com/)
-- [HenTalk](https://hentalk.pw/) ==HenTalkNexus==
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 </collapsible>
