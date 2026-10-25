@@ -79,7 +79,13 @@ const CONTENT_TYPE_LABELS: Record<string, string> = {
   'custom-source': 'Custom Source',
   'onlinestream-provider': 'Online Streaming',
   'manga-provider': 'Manga Provider',
-  'anime-torrent-provider': 'Anime Torrent'
+  'anime-torrent-provider': 'Anime Torrent',
+  movie: 'Movie',
+  series: 'Series',
+  anime: 'Anime',
+  tv: 'TV',
+  channel: 'Channel',
+  other: 'Other'
 }
 
 export function contentTypeLabel(type: string): string {

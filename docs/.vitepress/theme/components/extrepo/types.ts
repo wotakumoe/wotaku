@@ -25,6 +25,7 @@ export interface RepoSite {
   url: string
   rating: Rating
   contentType?: string
+  contentTypes?: string[]
   isBroken?: boolean
   installUrl?: string
   author?: string

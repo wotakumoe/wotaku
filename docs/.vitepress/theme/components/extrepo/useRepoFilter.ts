@@ -50,6 +50,11 @@ export function useRepoFilter(
     let hasBroken = false
     for (const site of allSites.value) {
       if (site.contentType) contentTypes.add(site.contentType)
+      if (site.contentTypes) {
+        for (const type of site.contentTypes) {
+          if (type) contentTypes.add(type)
+        }
+      }
       if (site.rating !== 'safe') hasRatings = true
       if (site.rating === 'mixed') hasMixed = true
       if (site.rating === 'suggestive') hasSuggestive = true
@@ -88,7 +93,9 @@ export function useRepoFilter(
       if (q && !site.hay.includes(q)) return false
       if (lang && site.lang !== lang) return false
       if (rating !== 'all' && site.rating !== rating) return false
-      if (ctype && site.contentType !== ctype) return false
+      if (ctype && site.contentType !== ctype) {
+        if (!site.contentTypes?.includes(ctype)) return false
+      }
       return true
     })
     return dedupeSites(filtered)

@@ -217,6 +217,7 @@ interface StremioAddon {
   icon?: string | null
   manifestUrl: string
   configureUrl?: string | null
+  types?: string[] | null
   nsfw?: boolean
 }
 
@@ -612,6 +613,9 @@ function toRepoDataStremio(index: StremioCollection): RepoSite[] {
       icon: addon.icon ?? '',
       url: '',
       rating: addon.nsfw ? 'nsfw' : 'safe',
+      contentTypes: addon.types?.length
+        ? [...new Set(addon.types.filter(Boolean))]
+        : undefined,
       installUrl: addon.manifestUrl,
       copyUrl: addon.manifestUrl,
       configureUrl: addon.configureUrl ?? undefined
