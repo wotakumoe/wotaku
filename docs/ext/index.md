@@ -82,4 +82,7 @@ og:
   <Card title="Seanime" href="/ext/seanime">
     Anime, Manga, Novels & others
   </Card>
+  <Card title="Stremio" href="/ext/stremio">
+    Anime, Live Action & others
+  </Card>
 </Deck>

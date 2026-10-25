@@ -212,6 +212,18 @@ export interface SoraAuthorRepo {
   indexUrl: string
 }
 
+interface StremioAddon {
+  name?: string
+  icon?: string | null
+  manifestUrl: string
+  configureUrl?: string | null
+  nsfw?: boolean
+}
+
+interface StremioCollection {
+  addons?: StremioAddon[]
+}
+
 interface EchoExtension {
   id: string
   type: string
@@ -589,6 +601,21 @@ function toRepoDataHayase(extensions: HayaseExtension[]): RepoSite[] {
     }
   }
   return sites
+}
+
+function toRepoDataStremio(index: StremioCollection): RepoSite[] {
+  return (index.addons ?? [])
+    .filter((addon) => addon.manifestUrl)
+    .map((addon): RepoSite => ({
+      name: addon.name ?? addon.manifestUrl,
+      lang: 'all',
+      icon: addon.icon ?? '',
+      url: '',
+      rating: addon.nsfw ? 'nsfw' : 'safe',
+      installUrl: addon.manifestUrl,
+      copyUrl: addon.manifestUrl,
+      configureUrl: addon.configureUrl ?? undefined
+    }))
 }
 
 function toRepoDataMangayomi(sources: MangayomiSource[]): RepoSite[] {
@@ -1000,6 +1027,13 @@ async function toRepoData(
   let sites: RepoSite[]
   let suwatteV6: boolean | undefined
   let suwatteListUrl: string | undefined
+
+  if (
+    json && typeof json === 'object' &&
+    Array.isArray((json as StremioCollection).addons)
+  ) {
+    return { sites: toRepoDataStremio(json as StremioCollection) }
+  }
 
   if (
     json && typeof json === 'object' && !Array.isArray(json) &&

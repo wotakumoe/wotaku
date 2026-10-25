@@ -297,6 +297,14 @@ export const homeCards: HomeCard[] = [
     section: 'Extensions'
   },
   {
+    id: 'ext-stremio',
+    icon: ':lucide-puzzle:',
+    title: 'Stremio',
+    details: 'Movies & Series',
+    link: '/ext/stremio',
+    section: 'Extensions'
+  },
+  {
     id: 'glossary-general',
     icon: ':lucide-book-open:',
     title: 'General Glossary',
@@ -595,7 +603,8 @@ export const sidebar: DefaultTheme.Sidebar = [
             items: [
               { text: 'Hayase', link: '/ext/hayase' },
               { text: 'Mangayomi', link: '/ext/mangayomi' },
-              { text: 'Seanime', link: '/ext/seanime' }
+              { text: 'Seanime', link: '/ext/seanime' },
+              { text: 'Stremio', link: '/ext/stremio' }
             ]
           }
     ]

@@ -53,7 +53,7 @@ const MANUAL_ONLY_SCHEMES = new Set(['manual', 'shosetsu'])
 const NO_INSTALL_SCHEMES = new Set(['seanime'])
 
 // Schemes with no install or copy action
-const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora', 'echo'])
+const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora', 'echo', 'stremio'])
 
 const NO_COPY_SCHEMES = new Set(['suwatte', 'echo'])
 
@@ -92,6 +92,14 @@ export function copyValue(scheme: string, indexUrl: string): string {
   if (scheme === 'mana') return manaBase(indexUrl)
   if (scheme === 'shosetsu') return shosetsuBase(indexUrl)
   return indexUrl
+}
+
+export function stremioSoftwareHref(manifestUrl: string): string {
+  return `stremio://${manifestUrl.replace(/^[a-z]+:\/\//i, '')}`
+}
+
+export function stremioWebHref(manifestUrl: string): string {
+  return `https://web.stremio.com/#/addons?addon=${manifestUrl}`
 }
 
 export function mangayomiHref(repo: Repo, variant: RepoVariant): string {
