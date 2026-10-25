@@ -77,6 +77,7 @@ og:
 | [Manga18fx](https://manga18fx.com/) | :yes: | :yes: |
 | [ManhwaRead](https://manhwaread.com/) | :yes: | :no: |
 | [Omega Scans](https://omegascans.org/) :sub: ||Scan|| | :no: | :no: |
+| [PornhwaDB Reader](https://pornhwareader.com/) | :no: | :no: |
 | [RawDEX](https://rawdex.net/) :lkr: | :no: | :yes: |
 | [The Blank](https://theblank.net/) :sub: ||Scan|| | :no: | :no: |
 | [Toonily](https://toonily.com/) | :yes: | :no: |
