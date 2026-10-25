@@ -21,6 +21,10 @@ og:
 | [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: |
 | [KickassAnime](https://kaa.lt/) ==KAA== | ==l:kaa== | :yes: | :msync: |
 
+::: tip Torrents
+Multi-sub/dub release groups include [**Erai-raws**](https://nyaa.si/user/Erai-raws), [**ToonsHub**](https://www.toonshub.my.id/) & [**Varyg**](https://nyaa.si/user/varyg1001).
+:::
+
 ### Manga
 
 | Websites | Tracking | Sources | Layout | Social |
@@ -33,7 +37,7 @@ og:
 | [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | :no: | :ps: | :ls::lsg: | :no: |
 
 ::: tip Apps
-Most apps in [**software**](/software) supports multilingual sources
+Most apps in [**software**](/software) support multilingual sources.
 :::
 
 ## Arabic
