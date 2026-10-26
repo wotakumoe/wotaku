@@ -139,6 +139,7 @@ og:
 | ^^ | [SMPlayer](https://www.smplayer.info/) [:src:](https://github.com/smplayer-dev/smplayer) | :win::app::lin: |
 | ^^ | [MPC-HC](https://github.com/clsid2/mpc-hc) | :win: |
 | ^^ | [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) | :win: |
+| ^^ | [VLC Media Player](https://www.videolan.org/vlc/) ==VLC== | :win::app::lin: |
 
 == MPV
 

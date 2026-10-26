@@ -1,0 +1,2 @@
+- Used for playing ISOs and in case other players are giving you trouble.
+- May need color-corrective settings.

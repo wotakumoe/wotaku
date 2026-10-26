@@ -1,3 +1,2 @@
 - Generally good video quality.
-- Library isn't that big, but good for recently airing shows.
 - Has optimization issues and long buffer times, won't load at all on some devices.

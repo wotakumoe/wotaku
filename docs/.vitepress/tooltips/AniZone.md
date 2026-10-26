@@ -1,3 +1,0 @@
-- Re-encodes for smaller size.
-- Very small library.
-- Good for airing shows.

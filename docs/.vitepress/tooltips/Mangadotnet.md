@@ -1,4 +1,3 @@
-- Properly tagged releases are user-uploaded or scraped from scanlator sites without transcoding
-- Untagged releases are scraped from aggregators
-- Has volume release for some titles
-- Medium size library
+- Properly tagged releases are user-uploaded or scraped from scanlator sites without transcoding.
+- Untagged releases are scraped from aggregators.
+- Has volume release for some titles.
