@@ -1,2 +1,2 @@
-- Used for playing ISOs and in case other players are giving you trouble.
+- Used for playing ISOs and when other players give you trouble.
 - May need color-corrective settings.
