@@ -21,6 +21,7 @@ export interface Repo {
 export interface RepoSite {
   name: string
   lang: string
+  languages?: string[]
   icon: string
   url: string
   rating: Rating

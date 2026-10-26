@@ -85,4 +85,7 @@ og:
   <Card title="Stremio" href="/ext/stremio">
     Anime, Live Action & others
   </Card>
+  <Card title="Nuvio" href="/ext/nuvio">
+    Movies, Series & Live Action
+  </Card>
 </Deck>

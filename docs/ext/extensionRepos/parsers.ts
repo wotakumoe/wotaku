@@ -182,6 +182,23 @@ interface KotatsuIndex {
   sites: KotatsuSite[]
 }
 
+interface NuvioScraper {
+  name: string
+  icon?: string
+  logo?: string
+  description?: string
+  types?: string[]
+  supportedTypes?: string[]
+  language?: string[]
+  contentLanguage?: string[]
+  enabled?: boolean
+}
+
+interface NuvioManifest {
+  name?: string
+  scrapers?: NuvioScraper[]
+}
+
 interface SoraRepoIndexEntry {
   name: string
   source: string
@@ -404,7 +421,45 @@ const LANG_ALIASES: Record<string, string> = {
   thai: 'th',
   hindi: 'hi',
   malay: 'ms',
-  serbian: 'sr'
+  serbian: 'sr',
+  hin: 'hi',
+  tam: 'ta',
+  tel: 'te',
+  mal: 'ml',
+  kan: 'kn',
+  ben: 'bn',
+  ita: 'it',
+  jpn: 'ja',
+  kor: 'ko',
+  chi: 'zh',
+  ch: 'zh',
+  ger: 'de',
+  deu: 'de',
+  fra: 'fr',
+  fre: 'fr',
+  spa: 'es',
+  por: 'pt',
+  rus: 'ru',
+  ara: 'ar',
+  tur: 'tr',
+  pol: 'pl',
+  ukr: 'uk',
+  vie: 'vi',
+  tha: 'th',
+  ind: 'id',
+  may: 'ms',
+  msa: 'ms',
+  ba: 'bn',
+  kr: 'ko',
+  pe: 'fa',
+  nld: 'nl',
+  dut: 'nl',
+  swe: 'sv',
+  nor: 'no',
+  dan: 'da',
+  fin: 'fi',
+  ell: 'el',
+  heb: 'he'
 }
 
 const LANG_SUBSTRING_ALIASES: [RegExp, string][] = [
@@ -737,6 +792,51 @@ function toRepoDataKotatsu(index: KotatsuIndex): RepoSite[] {
     })
   }
   return sites
+}
+
+function nuvioLangs(scraper: NuvioScraper): string[] {
+  const raw = scraper.contentLanguage ?? scraper.language ?? []
+  return [
+    ...new Set(
+      raw
+        .filter(lang => typeof lang === 'string' && lang.trim() !== '')
+        .map(lang => normalizeLang(lang))
+    )
+  ]
+}
+
+function toRepoDataNuvio(manifest: NuvioManifest): RepoSite[] {
+  const seen = new Set<string>()
+  const sites: RepoSite[] = []
+  for (const scraper of manifest.scrapers ?? []) {
+    if (!scraper?.name || scraper.enabled === false) continue
+    const languages = nuvioLangs(scraper)
+    const lang = languages.length === 1 ? languages[0] : 'all'
+    const types = [
+      ...new Set(
+        (scraper.supportedTypes ?? scraper.types ?? []).filter(
+          (type): type is string => typeof type === 'string' && type !== ''
+        )
+      )
+    ]
+    const icon = scraper.logo ?? scraper.icon ?? ''
+    addSite(seen, `${scraper.name}::${lang}::${icon}`, sites, {
+      name: scraper.name,
+      lang,
+      languages: languages.length ? languages : undefined,
+      icon,
+      url: '',
+      rating: 'safe',
+      contentType: types[0],
+      contentTypes: types.length ? types : undefined
+    })
+  }
+  return sortSites(sites)
+}
+
+function isNuvioManifest(json: unknown): json is NuvioManifest {
+  return !!json && typeof json === 'object' && !Array.isArray(json) &&
+    Array.isArray((json as NuvioManifest).scrapers)
 }
 
 function isEchoExtensionList(json: unknown): json is EchoExtension[] {
@@ -1083,6 +1183,8 @@ async function toRepoData(
     suwatteV6 = (json as SuwatteCatalogIndex).catalogVersion === undefined
   } else if (Array.isArray((json as KotatsuIndex).sites)) {
     sites = toRepoDataKotatsu(json as KotatsuIndex)
+  } else if (isNuvioManifest(json)) {
+    sites = toRepoDataNuvio(json)
   } else {
     sites = toRepoDataPaperback(iconBase, json as PaperbackIndex)
   }

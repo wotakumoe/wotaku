@@ -62,6 +62,9 @@ export function useRepoFilter(
       if (typeof site.lang !== 'string') continue
       if (site.lang.toLowerCase() === 'all') hasMultiLanguage = true
       if (site.lang !== 'all') langs.add(site.lang)
+      for (const lang of site.languages ?? []) {
+        if (lang && lang !== 'all') langs.add(lang)
+      }
     }
     return {
       availableContentTypes: [...contentTypes].sort(),
@@ -91,7 +94,9 @@ export function useRepoFilter(
     const filtered = allSites.value.filter((site) => {
       if (site.isBroken && !showBroken) return false
       if (q && !site.hay.includes(q)) return false
-      if (lang && site.lang !== lang) return false
+      if (lang && site.lang !== lang && !site.languages?.includes(lang)) {
+        return false
+      }
       if (rating !== 'all' && site.rating !== rating) return false
       if (ctype && site.contentType !== ctype) {
         if (!site.contentTypes?.includes(ctype)) return false

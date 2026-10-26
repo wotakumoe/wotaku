@@ -50,7 +50,7 @@ const INSTALL_URL_BUILDERS: Record<
 const MANUAL_ONLY_SCHEMES = new Set(['manual', 'shosetsu'])
 
 // Schemes that keep the copy actions but never show an install link.
-const NO_INSTALL_SCHEMES = new Set(['seanime'])
+const NO_INSTALL_SCHEMES = new Set(['seanime', 'nuvio'])
 
 // Schemes with no install or copy action
 const BROWSE_ONLY_SCHEMES = new Set(['kotatsu', 'sora', 'echo', 'stremio'])

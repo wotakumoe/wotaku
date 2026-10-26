@@ -305,6 +305,14 @@ export const homeCards: HomeCard[] = [
     section: 'Extensions'
   },
   {
+    id: 'ext-nuvio',
+    icon: ':lucide-puzzle:',
+    title: 'Nuvio',
+    details: 'Movies & Series',
+    link: '/ext/nuvio',
+    section: 'Extensions'
+  },
+  {
     id: 'glossary-general',
     icon: ':lucide-book-open:',
     title: 'General Glossary',
@@ -340,7 +348,7 @@ export const homeCards: HomeCard[] = [
     id: 'glossary-nsfw',
     icon: ':lucide-book-open:',
     title: 'NSFW Glossary',
-    details: 'Things Jesus wouldn\'t want you to know',
+    details: "Things Jesus wouldn't want you to know",
     link: '/glossary/nsfw',
     section: 'Glossary'
   },
@@ -565,48 +573,49 @@ export const sidebar: DefaultTheme.Sidebar = [
     text: '<span class="i-twemoji-comet"></span> VTuber',
     link: '/vtuber'
   },
-    {
+  {
     text:
       '<span class="mr-2 w-4 h-4 bg-cover i-lucide:puzzle"></span> Extensions',
     collapsed: true,
     link: '/ext',
     items: [
-          {
-            text: 'Android',
-            collapsed: true,
-            items: [
-              { text: 'Mihon', link: '/ext/mihon' },
-              { text: 'Aniyomi', link: '/ext/aniyomi' },
-              { text: 'Cloudstream', link: '/ext/cloudstream' },
-              { text: 'Echo', link: '/ext/echo' },
-              { text: 'IReader', link: '/ext/ireader' },
-              { text: 'Kotatsu', link: '/ext/kotatsu' },
-              { text: 'LNReader', link: '/ext/lnreader' },
-              { text: 'Shosetsu', link: '/ext/shosetsu' },
-              { text: 'Tsundoku', link: '/ext/tsundoku' }
-            ]
-          },
-          {
-            text: 'iOS',
-            collapsed: true,
-            items: [
-              { text: 'Aidoku', link: '/ext/aidoku' },
-              { text: 'Mana', link: '/ext/mana' },
-              { text: 'Paperback', link: '/ext/paperback' },
-              { text: 'Suwatte', link: '/ext/suwatte' },
-              { text: 'Sora', link: '/ext/sora' }
-            ]
-          },
-          {
-            text: 'Multi',
-            collapsed: true,
-            items: [
-              { text: 'Hayase', link: '/ext/hayase' },
-              { text: 'Mangayomi', link: '/ext/mangayomi' },
-              { text: 'Seanime', link: '/ext/seanime' },
-              { text: 'Stremio', link: '/ext/stremio' }
-            ]
-          }
+      {
+        text: 'Android',
+        collapsed: true,
+        items: [
+          { text: 'Mihon', link: '/ext/mihon' },
+          { text: 'Aniyomi', link: '/ext/aniyomi' },
+          { text: 'Cloudstream', link: '/ext/cloudstream' },
+          { text: 'Echo', link: '/ext/echo' },
+          { text: 'IReader', link: '/ext/ireader' },
+          { text: 'Kotatsu', link: '/ext/kotatsu' },
+          { text: 'LNReader', link: '/ext/lnreader' },
+          { text: 'Shosetsu', link: '/ext/shosetsu' },
+          { text: 'Tsundoku', link: '/ext/tsundoku' }
+        ]
+      },
+      {
+        text: 'iOS',
+        collapsed: true,
+        items: [
+          { text: 'Aidoku', link: '/ext/aidoku' },
+          { text: 'Mana', link: '/ext/mana' },
+          { text: 'Paperback', link: '/ext/paperback' },
+          { text: 'Suwatte', link: '/ext/suwatte' },
+          { text: 'Sora', link: '/ext/sora' }
+        ]
+      },
+      {
+        text: 'Multi',
+        collapsed: true,
+        items: [
+          { text: 'Hayase', link: '/ext/hayase' },
+          { text: 'Mangayomi', link: '/ext/mangayomi' },
+          { text: 'Seanime', link: '/ext/seanime' },
+          { text: 'Stremio', link: '/ext/stremio' },
+          { text: 'Nuvio', link: '/ext/nuvio' }
+        ]
+      }
     ]
   },
   {
@@ -619,7 +628,7 @@ export const sidebar: DefaultTheme.Sidebar = [
         text: 'Anime',
         collapsed: true,
         items: [
-          { text: 'Disc Ripping', link: '/guides/anime/discrip' },
+          { text: 'Disc Ripping', link: '/guides/anime/discrip' }
         ]
       },
       {
@@ -679,7 +688,7 @@ export const sidebar: DefaultTheme.Sidebar = [
       { text: `Trackers`, link: '/torrenting/trackers' }
     ]
   },
-    {
+  {
     text:
       '<span class="mr-2 w-4 h-4 bg-cover i-uil:letter-japanese-a"></span> Japan',
     collapsed: true,

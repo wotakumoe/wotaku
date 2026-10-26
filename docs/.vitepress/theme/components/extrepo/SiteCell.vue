@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { langFlagClass, ratingIcon, ratingTitle } from './helpers'
+import { langFlagClass, langLabel, ratingIcon, ratingTitle } from './helpers'
 import { hasSiteCopyButton } from './install'
 import LazyIcon from './LazyIcon.vue'
 import type { RepoSite } from './types'
@@ -58,8 +58,8 @@ async function copyInstallUrl() {
           v-if="scheme !== 'stremio'"
           class="ext-site-lang"
           :class="langFlagClass(site.lang)"
-          :aria-label="site.lang"
-          @mouseenter="showTooltip($event, site.lang)"
+          :aria-label="langLabel(site.lang)"
+          @mouseenter="showTooltip($event, langLabel(site.lang))"
           @mouseleave="hideTooltip"
         />
       </div>
