@@ -33,4 +33,10 @@ og:
 - url: https://seyden.github.io/extensions-mana-generic/generic/
 - src: https://github.com/Seyden/extensions-mana-generic
 - raw: https://seyden.github.io/extensions-mana-generic/generic/sources.json
+
+== Dangobums
+- url: https://dangobums.github.io/mana-extensions/main/
+- src: https://github.com/dangobums/mana-extensions
+- raw: https://dangobums.github.io/mana-extensions/main/sources.json
+
 :::
