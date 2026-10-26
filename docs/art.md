@@ -19,7 +19,7 @@ og:
 
 - [ArtStation](https://www.artstation.com/)
 - [DeviantArt](https://www.deviantart.com/)
-- [Misskey Art Servers](https://rentry.org/wotakey)
+- [Misskey Art Servers](https://i.wotaku.wiki/p/misskey)
 - [Pixiv](https://www.pixiv.net/) :s:
 - :prev: [Pixivision](https://www.pixivision.net/en/)
 - [Twitter](https://x.com/) :s:
