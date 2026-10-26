@@ -38,7 +38,7 @@ outline: 2
 | [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: | :cc: |
 | [KickassAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: | :cc: |
 | [AnimeX](https://animex.one/home) :scrpr: | - | :yes: | :sync::ie: | :cc::oc: |
-| [Miruro](https://www.miruro.to/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
+| [Miruro](https://www.miruro.cx/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
 
 == Donghua
 
