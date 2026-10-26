@@ -658,8 +658,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Website |
 | :--- | :--- |
-| **Anime** | [Acheriya](https://acheriya.com/) |
-| ^^ | [Anizm](https://anizm.net/) |
+| **Anime** | [Anizm](https://anizm.net/) |
 | ^^ | [TRanimeizle](https://www.tranimeizle.co/) |
 | ^^ | [Türk Anime TV](https://www.turkanime.tv/) |
 | **Manga** | [Manga-TR](https://manga-tr.com/index.html) |
