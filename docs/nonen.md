@@ -16,6 +16,7 @@ og:
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :yes: | :sync::ie::msync: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: |
+| [ani.pm](https://ani.pm/) ==anipm== | ==l:anipm== | :yes: | :sync::ie::msync: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: |
 | [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: |
