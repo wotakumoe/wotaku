@@ -143,7 +143,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
-| ^^ | [Mana](https://testflight.apple.com/join/x2nujKx9) :tf::cs: [:d:](https://discord.gg/3mTaMqvVuG) [:e:](/ext/mana) |
+| ^^ | [Mana](https://testflight.apple.com/join/x2nujKx9) :tf::cs: [:e:](/ext/mana) [:d:](discord.gg/UPDd53D8un) |
 | ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/paperback) |
 | ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |
 | ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
