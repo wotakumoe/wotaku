@@ -216,9 +216,7 @@ interface StremioAddon {
   name?: string
   icon?: string | null
   manifestUrl: string
-  configureUrl?: string | null
   types?: string[] | null
-  nsfw?: boolean
 }
 
 interface StremioCollection {
@@ -612,13 +610,12 @@ function toRepoDataStremio(index: StremioCollection): RepoSite[] {
       lang: 'all',
       icon: addon.icon ?? '',
       url: '',
-      rating: addon.nsfw ? 'nsfw' : 'safe',
+      rating: 'safe',
       contentTypes: addon.types?.length
         ? [...new Set(addon.types.filter(Boolean))]
         : undefined,
-      installUrl: addon.manifestUrl,
-      copyUrl: addon.manifestUrl,
-      configureUrl: addon.configureUrl ?? undefined
+      installUrl: `stremio://${addon.manifestUrl.replace(/^[a-z]+:\/\//i, '')}`,
+      copyUrl: addon.manifestUrl
     }))
 }
 

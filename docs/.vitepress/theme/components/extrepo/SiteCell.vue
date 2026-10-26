@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import AddonInstallMenu from './AddonInstallMenu.vue'
 import { langFlagClass, ratingIcon, ratingTitle } from './helpers'
 import { hasSiteCopyButton } from './install'
 import LazyIcon from './LazyIcon.vue'
@@ -21,10 +20,6 @@ const copyTarget = computed(() => {
   const soraMatch = value?.match(/^sora:\/\/module\?url=(.+)$/)
   return soraMatch ? soraMatch[1] : value
 })
-
-const isStremioAddon = computed(() =>
-  props.scheme === 'stremio' && Boolean(props.site.installUrl)
-)
 
 async function copyInstallUrl() {
   const value = copyTarget.value
@@ -60,7 +55,7 @@ async function copyInstallUrl() {
           @mouseleave="hideTooltip"
         />
         <span
-          v-if="!isStremioAddon"
+          v-if="scheme !== 'stremio'"
           class="ext-site-lang"
           :class="langFlagClass(site.lang)"
           :aria-label="site.lang"
@@ -72,9 +67,8 @@ async function copyInstallUrl() {
         site.author ?? site.repoName
       }}</span>
     </component>
-    <AddonInstallMenu v-if="isStremioAddon" :site="site" />
     <a
-      v-else-if="site.installUrl"
+      v-if="site.installUrl"
       class="ext-site-install-btn"
       :href="site.installUrl"
       :aria-label="`Install ${site.name}`"

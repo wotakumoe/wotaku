@@ -94,14 +94,6 @@ export function copyValue(scheme: string, indexUrl: string): string {
   return indexUrl
 }
 
-export function stremioSoftwareHref(manifestUrl: string): string {
-  return `stremio://${manifestUrl.replace(/^[a-z]+:\/\//i, '')}`
-}
-
-export function stremioWebHref(manifestUrl: string): string {
-  return `https://web.stremio.com/#/addons?addon=${manifestUrl}`
-}
-
 export function mangayomiHref(repo: Repo, variant: RepoVariant): string {
   const params: string[] = []
   if (repo.repoName) {

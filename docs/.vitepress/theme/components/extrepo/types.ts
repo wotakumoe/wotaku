@@ -30,7 +30,6 @@ export interface RepoSite {
   installUrl?: string
   author?: string
   copyUrl?: string
-  configureUrl?: string
 }
 
 export interface MatchedSite extends RepoSite {
