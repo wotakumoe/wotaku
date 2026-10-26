@@ -298,6 +298,7 @@ outline: 2
 | ^^ | [Animerank](https://animerank.top/) :mal: |
 | ^^ | [Anime Karma List](https://animekarmalist.com/) |
 | ^^ | [Anime Stats](https://anime-stats.net/) :s::mal::al::k: | 
+| ^^ | [The Association of Japanese Animations](https://aja.gr.jp/english/japan-anime-data) |
 | **Manga & Novels** | [Billboard JAPAN](https://www.billboard-japan.com/charts/book/) |
 | ^^ |[CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
 | ^^ | :prev: [Paperback Ranking](http://bunkoranoberanking.blog.fc2.com/) :ljp: [:rss:](http://bunkoranoberanking.blog.fc2.com/?xml) |
