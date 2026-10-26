@@ -172,7 +172,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 
 | Website | Quality | Language |
 |---------|---------|----------|
-| [Anime(bits)](https://radio.animebits.moe/) | [FLAC](https://radio.animebits.moe/m3u/stream192.mp3.m3u) | :len: |
 | [Anison.fm](https://en.anison.fm/) | [MP3 320](https://anison.fm/anison.m3u) | :len::lru: |
 | [Greek Otaku Radio](https://goradio.gr/) | [MP3 320](http://192.99.4.210:2199/tunein/greekota.pls) | :len::lgr: |
 | [JPopSuki](http://jpopsuki.fm/) | [MP3 192](http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls) | :len: |
