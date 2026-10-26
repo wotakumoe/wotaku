@@ -172,6 +172,12 @@ export const shared: UserConfig<DefaultTheme.Config> = {
           replacement: fileURLToPath(
             new URL('../theme/components/NavBarSearch.vue', import.meta.url)
           )
+        },
+        {
+          find: /^\.\.\/composables\/sidebar$/,
+          replacement: fileURLToPath(
+            new URL('../theme/composables/sidebar.ts', import.meta.url)
+          )
         }
       ]
     }
