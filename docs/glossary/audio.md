@@ -685,7 +685,7 @@ Some popular vocaloid producers consist of [**Kikuo**](https://www.youtube.com/@
 
 ## Shibuya-kei
 
-[Shibuya-kei](https://en.wikipedia.org/wiki/Shibuya-kei) was born in the 90s and died in the early 2000s. The Shibuya part of the name points to the origin of sales of the music and kei points to a (supposed) type of person of the [Shibuya district](https://maps.app.goo.gl/NSagswXtigf5eV2b7). The sound is most concretely pop, but it pulls its inspiration mostly from various different types of jazz.
+[Shibuya-kei](https://en.wikipedia.org/wiki/Shibuya-kei) was born in the 90s and died in the early 2000s. The Shibuya part of the name points to the origin of sales of the music and kei points to a (supposed) type of person of the [Shibuya ward](https://en.wikipedia.org/wiki/Shibuya). The sound is most concretely pop, but it pulls its inspiration mostly from various different types of jazz.
 
 Bossa nova in particular seems to be a large inspiration. The genre featured a lot of french vocalists, and their musical influences bled into the genre. This can be seen within Shibuya-kei’s most recognizable group, Pizzicato Five, as well as vocalists such as Kahimi Karie. Cornelius more or less spearheaded the genre, with many self compositions as well as compositions released under their own label “Trattoria” dominating the scene. While the genre was quick to start and quick to die, it left an impact. Foreign listeners in particular were fond of the genre and it still remains an influential genre within Japan.
 
