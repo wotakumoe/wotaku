@@ -79,13 +79,13 @@ og:
   <Card title="Mangayomi" href="/ext/mangayomi">
     Manga, Anime & Novels
   </Card>
+  <Card title="Nuvio" href="/ext/nuvio">
+    Anime, Live Action & others
+  </Card>
   <Card title="Seanime" href="/ext/seanime">
     Anime, Manga, Novels & others
   </Card>
   <Card title="Stremio" href="/ext/stremio">
     Anime, Live Action & others
-  </Card>
-  <Card title="Nuvio" href="/ext/nuvio">
-    Movies, Series & Live Action
   </Card>
 </Deck>

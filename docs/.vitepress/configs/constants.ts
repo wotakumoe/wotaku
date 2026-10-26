@@ -289,6 +289,14 @@ export const homeCards: HomeCard[] = [
     section: 'Extensions'
   },
   {
+    id: 'ext-nuvio',
+    icon: ':lucide-puzzle:',
+    title: 'Nuvio',
+    details: 'Anime, Live Action & others',
+    link: '/ext/nuvio',
+    section: 'Extensions'
+  },
+  {
     id: 'ext-seanime',
     icon: ':lucide-puzzle:',
     title: 'Seanime',
@@ -302,14 +310,6 @@ export const homeCards: HomeCard[] = [
     title: 'Stremio',
     details: 'Movies & Series',
     link: '/ext/stremio',
-    section: 'Extensions'
-  },
-  {
-    id: 'ext-nuvio',
-    icon: ':lucide-puzzle:',
-    title: 'Nuvio',
-    details: 'Movies & Series',
-    link: '/ext/nuvio',
     section: 'Extensions'
   },
   {
@@ -611,9 +611,9 @@ export const sidebar: DefaultTheme.Sidebar = [
         items: [
           { text: 'Hayase', link: '/ext/hayase' },
           { text: 'Mangayomi', link: '/ext/mangayomi' },
+          { text: 'Nuvio', link: '/ext/nuvio' },
           { text: 'Seanime', link: '/ext/seanime' },
-          { text: 'Stremio', link: '/ext/stremio' },
-          { text: 'Nuvio', link: '/ext/nuvio' }
+          { text: 'Stremio', link: '/ext/stremio' }
         ]
       }
     ]
