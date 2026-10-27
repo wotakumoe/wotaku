@@ -111,7 +111,6 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [osu.direct](https://osu.direct/home)
 - [osu skinner](https://osuskinner.com/)
 - [osu!chan](https://osuchan.syrin.me/)
-- [osu!next Signature Generator](https://lemmmy.pw/osusig/)
 - [osu-pps](https://osu-pps.com)
 - [o!rdr](https://ordr.issou.best/)
 - [Web osu!mania](https://webosumania.com/) [:src:](https://github.com/HecticKiwi/Web-Osu-Mania)
