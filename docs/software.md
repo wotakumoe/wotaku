@@ -26,8 +26,8 @@ og:
 | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :ddl: | :mal::al::simkl: | :no: |
 | [Cloudstream](https://github.com/recloudstream/cloudstream) [:e:](/ext/cloudstream) | :ddl::mag: | :mal::al::simkl: | :tv::cast: |
 | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:d:](https://discord.gg/4HPZ5nAWwM) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) | :ddl::mag: | :mal::al: | :cast: |
-| [Mangayomi](https://github.com/kodjodevf/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
-| [Dartotsu](https://github.com/aayush2622/Dartotsu) | :ddl::mag: | :mal::al::k::simkl: | :tv: |
+| [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) | :ddl::mag: | :mal::al::k: | :no: |
+| [Dartotsu](https://github.com/aayush2622/Dartotsu) [:e:](/ext/) | :ddl::mag: | :mal::al::k::simkl: | :tv: |
 | [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [NyanTV](https://nyantv.vercel.app/) [:src:](https://gitlab.com/NyanTV/NyanTV) [:e:](/ext/mihon) | :ddl: | :mal::al::simkl: | :tv: |
 
@@ -52,7 +52,7 @@ og:
 | ^^ | [Kotatsu Redo](https://github.com/Kotatsu-Redo/Kotatsu-Redo) |
 | **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) |
-| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
+| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 
 ![Tachiyomi forks flowchart](/diagram/tachi.svg)
 
@@ -71,7 +71,7 @@ og:
 | :--- | :--- |
 | **Online** | [IReader](https://ireaderorg.netlify.app/) [:src:](https://github.com/IReaderorg/IReader) |
 | ^^ | [LN Reader](https://www.lnreader.app/) [:src:](https://github.com/LNReader/lnreader) |
-| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) |
+| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | ^^ | [Quicknovel](https://github.com/LagradOst/QuickNovel) |
 | ^^ | [Ranobe](https://github.com/ranobe-org/ranobe) |
 | ^^ | [Shosetsu](https://shosetsu.app/) [:src:](https://gitlab.com/shosetsuorg/shosetsu) [:e:](/ext/shosetsu) |
@@ -132,8 +132,9 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 
 == Anime
 - [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX)
+- [Dartotsu](https://github.com/aayush2622/Dartotsu) [:e:](/ext/)
 - [Hayase](https://hayase.watch/) :paid::cs::n: [:src:](https://github.com/hayase-app) [:e:](/ext/hayase)
-- [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi)
 - [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio)
 - [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) [:e:](/ext/seanime) 
 
@@ -157,7 +158,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 
 == Novel
 
-- [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi)
 - [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) :lcl:
 - [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
 
@@ -201,7 +202,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 
 <more>
 
-| [Dartotsu](https://github.com/aayush2622/Dartotsu) [:e:](/ext/) | :win::app::lin: | :ddl::mag: | :mal::al::simkl: |
+| [Dartotsu](https://github.com/aayush2622/Dartotsu) [:e:](/ext/) | :win::app::lin: | :ddl::mag: | :mal::al::k::simkl: |
 | [Toru](https://github.com/sweetbbak/toru) | :win::app::lin::cmd: | :mag: | :no: |
 | [Zenshin](https://hitarth-gg.github.io/zenshin-website/) [:src:](https://github.com/hitarth-gg/zenshin) | :win::app::lin: | :mag: | :al: |
 | [Curd](https://github.com/Wraient/curd) | :win::app::lin::cmd: | :ddl: | :al: |
@@ -221,7 +222,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 | Category | Software | Platform | Reading Mode |
 | :--- | :--- | :--- | :--- |
-| **Online** | [Mangayomi](https://github.com/kodjodevf/mangayomi) :s: | :win::app::lin: | :sp::dp::ls: |
+| **Online** | [Mangayomi](https://github.com/kodjodevf/mangayomi) :s: [:e:](/ext/mangayomi) | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) [:e:](/ext/seanime) | :win::app::lin: | :sp::dp::ls: |
 | ^^ | [Manga-tui](https://github.com/josueBarretogit/manga-tui) | :app::lin::cmd: | :sp: |
