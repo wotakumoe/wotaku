@@ -26,12 +26,11 @@ outline: 2
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: |  :cc: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: | :cc::oc: |
-| [ani.pm](https://ani.pm/) ==anipm== | ==l:anipm== | :yes: | :sync::ie::msync: | :cc::oc: |
+| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :yes: | :sync::ie: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :yes: | :msync: | :oc: |
 
 <more>
 
-| [AniHQ](https://anihq.cc/home/) | ==l:anihq== | :yes: | :no: | :oc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :no: | :msync: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: | :cc: |
@@ -157,7 +156,7 @@ Some content may not be available depending on your region.
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.si/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
-| [Toonkotsu](https://toonkotsu.com/) | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
+| [Toonkotsu](https://toonkotsu.com/) ==m:toonkotsu== | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | ==l:weebcentral== | :msync: | :ss: | :lsg: | :cmnt::frm: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | ==l:atsumaru== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
 
