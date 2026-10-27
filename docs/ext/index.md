@@ -25,7 +25,7 @@ og:
     Manga
   </Card>
   <Card title="Aniyomi" href="/ext/aniyomi">
-    Anime
+    Anime & Live Action
   </Card>
   <Card title="Cloudstream" href="/ext/cloudstream">
     Anime & Live Action
@@ -77,13 +77,13 @@ og:
     Anime
   </Card>
   <Card title="Mangayomi" href="/ext/mangayomi">
-    Manga, Anime & Novels
+    Manga, Anime, Novels & Live Action
   </Card>
   <Card title="Nuvio" href="/ext/nuvio">
     Anime, Live Action & others
   </Card>
   <Card title="Seanime" href="/ext/seanime">
-    Anime, Manga, Novels & others
+    Anime, Manga, Novels & Live Action
   </Card>
   <Card title="Stremio" href="/ext/stremio">
     Anime, Live Action & others
