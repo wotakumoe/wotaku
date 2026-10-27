@@ -177,7 +177,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [JPopSuki](http://jpopsuki.fm/) | [MP3 192](http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls) | :len: |
 | [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/) | :len: |
 | [R/a/dio](https://r-a-d.io/) | [MP3 192](https://r-a-d.io/assets/main.mp3.m3u) | :len: |
-| [Yggdrasil Radio](https://yggdrasilradio.com/) | [MP3 128](https://yggdrasilradio.com/yggdrasilradio_mp3_128kbps.pls) | :len: |
+| [Yggdrasil Radio](https://yggdrasilradio.com/) | [MP3 128](https://yggdrasilradio.com/yggdrasil_ca.pls) | :len: |
 | [AnimeRadio.de](https://www.animeradio.de/) | [MP3 192](https://www.animeradio.de/streams/hd.m3u) | :lge: |
 | [Japanradio.de](https://japanradio.de/) | [MP3 192](https://japanradio.de/player/japanradio.m3u) | :lge: |
 | [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :lge: |
