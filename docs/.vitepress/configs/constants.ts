@@ -172,7 +172,7 @@ export const homeCards: HomeCard[] = [
     id: 'ext-aniyomi',
     icon: ':lucide-puzzle:',
     title: 'Aniyomi',
-    details: 'Anime',
+    details: 'Anime & Live Action',
     link: '/ext/aniyomi',
     section: 'Extensions'
   },
@@ -284,7 +284,7 @@ export const homeCards: HomeCard[] = [
     id: 'ext-mangayomi',
     icon: ':lucide-puzzle:',
     title: 'Mangayomi',
-    details: 'Manga, Anime & Novels',
+    details: 'Manga, Anime, Novels & Live Action',
     link: '/ext/mangayomi',
     section: 'Extensions'
   },
@@ -300,7 +300,7 @@ export const homeCards: HomeCard[] = [
     id: 'ext-seanime',
     icon: ':lucide-puzzle:',
     title: 'Seanime',
-    details: 'Anime, Manga, Torrents & Plugins',
+    details: 'Anime, Manga, Novels & Live Action',
     link: '/ext/seanime',
     section: 'Extensions'
   },
