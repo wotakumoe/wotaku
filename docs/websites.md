@@ -31,6 +31,7 @@ outline: 2
 
 <more>
 
+| [AniHQ](https://anihq.cc/home/) | ==l:anihq== | :yes: | :no: | :oc: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :no: | :msync: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: | :cc: |
 | [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: | :cc: |
