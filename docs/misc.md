@@ -295,7 +295,6 @@ outline: 2
 | ^^ | [OtakuLab](https://0115765.com/) :ljp: |
 | ^^ | [UzuRepo](https://x.com/UzuRepo) :x: |
 | **Anime** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
-| ^^ | [Animerank](https://animerank.top/) :mal: |
 | ^^ | [Anime Karma List](https://animekarmalist.com/) |
 | ^^ | [Anime Stats](https://anime-stats.net/) :s::mal::al::k: | 
 | ^^ | [The Association of Japanese Animations](https://aja.gr.jp/english/japan-anime-data) |
