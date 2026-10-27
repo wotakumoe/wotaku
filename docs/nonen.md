@@ -34,7 +34,7 @@ Multi-sub/dub release groups include [**Erai-raws**](https://nyaa.si/user/Erai-r
 
 | Websites | Tracking | Sources | Layout | Social |
 |----------|----------|---------|--------|--------|
-| [Kagane](https://kagane.si/) ==m:https://kagane.org/== ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.cx/) ==m:https://kagane.org/== ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==Mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
