@@ -156,7 +156,7 @@ Some content may not be available depending on your region.
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.cx/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
-| [MangaDot](https://mangadot.net/) ==Mangadotnet== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaDot](https://mangadot.net/) ==MangaDot== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Toonkotsu](https://toonkotsu.com/) ==m:toonkotsu== | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | ==l:weebcentral== | :msync: | :ss: | :lsg: | :cmnt::frm: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | ==l:atsumaru== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
@@ -312,8 +312,8 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [Kisskh](https://kisskh.co/) :hd: ==m:kisskh==
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
-- [Cinecat](https://cinecat.eu/)
-- [Aether](https://aether.ist/) ==m:https://rentry.co/aetherdomains==
+- [Cinecat](https://cinecat.eu/) :scrpr:
+- [Aether](https://aether.st/) :scrpr: ==m:https://rentry.co/aetherdomains==
 - :rd: [JP learning focused](/japan/immersion#watching)
 
 == Download
