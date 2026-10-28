@@ -158,9 +158,17 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 
 == Novel
 
-- [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi)
-- [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) :lcl:
-- [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl:
+| Category | Apps |
+| :--- | :--- |
+| **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
+| ^^ | [Mana](https://testflight.apple.com/join/x2nujKx9) :tf::cs: [:e:](/ext/mana) [:d:](discord.gg/UPDd53D8un) |
+| ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/paperback) <tooltip>Only v0.9 supports novels</tooltip>  |
+| ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |
+| ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) |
+| ^^ | [Dartotsu](https://github.com/aayush2622/Dartotsu) [:e:](/ext/) |
+| ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
+| **Local** | [Readest](https://readest.com/) [:src:](https://github.com/readest/readest) :lcl: |
+| ^^ | [Yomu](https://www.yomu-reader.com/) :paid::cs::lcl: |
 
 == Trackers
 | Category       | Name & Links |

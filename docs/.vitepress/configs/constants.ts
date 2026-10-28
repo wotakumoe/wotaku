@@ -236,7 +236,7 @@ export const homeCards: HomeCard[] = [
     id: 'ext-aidoku',
     icon: ':lucide-puzzle:',
     title: 'Aidoku',
-    details: 'Manga',
+    details: 'Manga & Novels',
     link: '/ext/aidoku',
     section: 'Extensions'
   },
@@ -244,7 +244,7 @@ export const homeCards: HomeCard[] = [
     id: 'ext-paperback',
     icon: ':lucide-puzzle:',
     title: 'Paperback',
-    details: 'Manga',
+    details: 'Manga & Novels',
     link: '/ext/paperback',
     section: 'Extensions'
   },
@@ -252,7 +252,7 @@ export const homeCards: HomeCard[] = [
     id: 'ext-mana',
     icon: ':lucide-puzzle:',
     title: 'Mana',
-    details: 'Manga',
+    details: 'Manga & Novels',
     link: '/ext/mana',
     section: 'Extensions'
   },

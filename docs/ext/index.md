@@ -54,13 +54,13 @@ og:
 
 <Deck>
   <Card title="Aidoku" href="/ext/aidoku">
-    Manga
+    Manga & Novels
   </Card>
   <Card title="Mana" href="/ext/mana">
-    Manga
+    Manga & Novels
   </Card>
   <Card title="Paperback" href="/ext/paperback">
-    Manga
+    Manga & Novels
   </Card>
   <Card title="Suwatte" href="/ext/suwatte">
     Manga & Novels
