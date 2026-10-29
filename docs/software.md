@@ -53,6 +53,7 @@ og:
 | **Misc** | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) |
 | ^^ | [Dantotsu](https://github.com/itsmechinmoy/dantotsu-updater) [:src:](https://git.rebelonion.dev/rebelonion/Dantotsu) [:d:](https://discord.gg/4HPZ5nAWwM) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
+| ^^ | [Easemic](https://easemic.com/) [:src:](https://github.com/dirtyfancy/easemic) |
 
 ![Tachiyomi forks flowchart](/diagram/tachi.svg)
 
