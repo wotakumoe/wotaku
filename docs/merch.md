@@ -131,6 +131,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | **General** | [Amazon](https://www.amazon.com/) |
 | ^^ | [AmiAmi](https://www.amiami.com) :cjp: |
 | ^^ | [animate](https://www.animate.shop/) :cjp: |
+| ^^ | [Barnes & Noble](https://www.barnesandnoble.com/) |
 | ^^ | [CDJapan](https://www.cdjapan.co.jp/) :cjp: |
 | ^^ | [HMV&Books](https://www.hmv.co.jp/) :cjp: |
 | ^^ | [Playasia](https://www.play-asia.com/) |
@@ -143,6 +144,8 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 == Blu-ray / DVD
 
+- [All the Anime](https://www.alltheanime.com/)
+- [Anime On Line](https://www.anime-on-line.com/)
 - [DiabolikDVD](https://diabolikdvd.com/)
 - [Discotek Media](https://www.discotekmedia.com/)
 - [GKIDS Store](https://store.gkids.com/)
@@ -152,7 +155,6 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 == Books
 
-- [Barnes & Noble](https://www.barnesandnoble.com/)
 - [Books-A-Million](https://www.booksamillion.com/)
 - [FAKKU](https://www.fakku.net/)
 - [honto](https://honto.jp/) :cjp:
