@@ -252,7 +252,6 @@ Most apps in [**software**](/software) support multilingual sources.
 | ^^ | [Anime Archive](https://anime-archive.com/) :ded::ddl: |
 | ^^ | [Anime Loads](https://www.anime-loads.org/) :strm::ddl::host: + :len: |
 | ^^ | [AniWorld](https://aniworld.to/) :strm: + :len: |
-| ^^ | [FireAnime](https://fireani.me/) :strm: + :len: |
 | ^^ | [Melon-Subs](https://melon-subs.de/) :ded::ddl: |
 | ^^ | [Yamayurikai Subs](https://yamayurikai-subs.eu/) :ded::ddl: |
 | **Manga** | [ComicMafia](https://comicmafia.to/?s=manga) :ddl::host: |
@@ -469,17 +468,17 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | Category | Websites |
 | :--- | :--- |
 | **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc136.asia/) [:tg:](https://t.me/foclink) |
+| ^^ | [FreeToon](https://foc137.asia/) [:tg:](https://t.me/foclink) |
 | ^^ | [Funbe](https://funbe684.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [GoodToon](https://www.goodtoon008.com/?pg=1&mcat=all) [:tg:](https://t.me/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon160.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee124.asia/) [:tg:](https://t.me/nameetoonlink) |
+| ^^ | [MoneyToon](https://mtoon161.asia/) [:tg:](https://t.me/mtoonopen) |
+| ^^ | [NameeToon](https://namee125.asia/) [:tg:](https://t.me/nameetoonlink) |
 | ^^ | [New XToon](https://newxtoon3.com/) [:tg:](https://t.me/newxtoon) |
 | ^^ | [TOONKOR](https://toonkor7.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
 | ^^ | [Wolf](https://wfwf517.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon233.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [YaToon](https://yatoon263.asia/) [:tg:](https://t.me/yatoonlink) |
+| ^^ | [YaToon](https://yatoon264.asia/) [:tg:](https://t.me/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 
@@ -500,7 +499,6 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Frixy Subs](https://frixysubs.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
 - [Lycoris](https://www.lycoris.cafe/)
-- [NanaSubs](https://nanasubs.com.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Shinden](https://shinden.pl/main)
 - :prev: [Shinden client](https://github.com/Tsugumik/shinden-client)
