@@ -42,6 +42,6 @@ og:
 == Mana Books
 - url: https://mana-core.github.io/Books/
 - src: https://github.com/Mana-Core/Books
-- raw: https://mana-core.github.io/Books/main/sources.json
+- raw: https://mana-core.github.io/Books/sources.json
 
 :::
