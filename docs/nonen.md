@@ -499,6 +499,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [Frixy Subs](https://frixysubs.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
 - [Lycoris](https://www.lycoris.cafe/)
+- [NanaSubs](https://nanasubs.com.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Shinden](https://shinden.pl/main)
 - :prev: [Shinden client](https://github.com/Tsugumik/shinden-client)
