@@ -23,9 +23,9 @@ outline: 2
 
 | Websites | Library ==Library== | Login | Tracking | Sub |
 |----------|---------------------|-------|----------|-----|
+| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :yes: | :sync::ie: | :cc::oc: |
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: |  :cc: |
-| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :yes: | :sync::ie: | :cc::oc: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :yes: | :msync: | :oc: |
 
@@ -38,8 +38,6 @@ outline: 2
 | [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: | :cc: |
 | [Gotaku](https://gotaku.to/) | ==l:gotaku== | :yes: | :sync::ie: | :oc: |
 | [KickassAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: | :cc: |
-| [AnimeX](https://animex.one/home) :scrpr: | - | :yes: | :sync::ie: | :cc::oc: |
-| [Miruro](https://www.miruro.cx/) :scrpr: ==m:https://www.miruro.com== | - | :yes: | :sync::msync: | :cc::oc: |
 
 == Donghua
 
