@@ -39,4 +39,9 @@ og:
 - src: https://github.com/dangobums/mana-extensions
 - raw: https://dangobums.github.io/mana-extensions/main/sources.json
 
+== Mana Books
+- url: https://mana-core.github.io/Books/main/
+- src: https://github.com/Mana-Core/Books
+- raw: https://mana-core.github.io/Books/main/sources.json
+
 :::
