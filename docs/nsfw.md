@@ -137,6 +137,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | E-Hentai | [EhViewer-UjuiUjuMandan](https://github.com/UjuiUjuMandan/EhViewer) |
 | ^^ | [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer) |
 | ^^ | [JHenTai](https://github.com/jiangtian616/JHenTai) |
+| ^^ | [Easemic](https://easemic.com/) [:src:](https://github.com/dirtyfancy/easemic) |
 | nHentai | [NClientV3](https://github.com/maxwai/NClientV3) |
 | ^^ | [nhviewer universal](https://github.com/ttdyce/nhviewer-universal) |
 
