@@ -145,9 +145,8 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
 | ^^ | [Mana](https://testflight.apple.com/join/x2nujKx9) :tf::cs: [:e:](/ext/mana) [:d:](discord.gg/UPDd53D8un) |
-| ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/paperback) |
+| ^^ | [Paperback](https://paperback.moe/) :cs::sub: [:e:](/ext/paperback) |
 | ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |
-| ^^ | [Tachimanga](https://tachimanga.app/) :fm::sub::cs: [:e:](https://tachimanga.app/help/guides/adding-repos.html) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) |
 | ^^ | [Mangayomi](https://github.com/kodjodevf/mangayomi) [:e:](/ext/mangayomi) |
 | ^^ | [Seanime](https://seanime.app/) [:src:](https://github.com/5rahim/seanime) [:e:](/ext/seanime)  |
@@ -162,7 +161,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
 | ^^ | [Mana](https://testflight.apple.com/join/x2nujKx9) :tf::cs: [:e:](/ext/mana) [:d:](discord.gg/UPDd53D8un) |
-| ^^ | [Paperback](https://paperback.moe/) :cs: [:e:](/ext/paperback) <tooltip>Only v0.9 supports novels</tooltip>  |
+| ^^ | [Paperback](https://paperback.moe/) :cs::sub: [:e:](/ext/paperback) <tooltip>Only v0.9 supports novels</tooltip>  |
 | ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) |
 | ^^ | [Dartotsu](https://github.com/aayush2622/Dartotsu) [:e:](/ext/) |
