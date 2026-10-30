@@ -30,7 +30,7 @@ Multi-sub/dub release groups include [**Erai-raws**](https://nyaa.si/user/Erai-r
 
 | Websites | Tracking | Sources | Layout | Social |
 |----------|----------|---------|--------|--------|
-| [Kagane](https://kagane.cx/) ==m:https://kagane.org/== ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.moe/) ==m:https://kagane.org/== ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==MangaDot== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
@@ -463,18 +463,20 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Websites |
 | :--- | :--- |
-| **Comics** | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc137.asia/) [:tg:](https://t.me/foclink) |
-| ^^ | [Funbe](https://funbe684.com/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
-| ^^ | [GoodToon](https://www.goodtoon008.com/?pg=1&mcat=all) [:tg:](https://t.me/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon161.asia/) [:tg:](https://t.me/mtoonopen) |
-| ^^ | [NameeToon](https://namee125.asia/) [:tg:](https://t.me/nameetoonlink) |
-| ^^ | [New XToon](https://newxtoon3.com/) [:tg:](https://t.me/newxtoon) |
-| ^^ | [TOONKOR](https://toonkor7.org/%EC%9B%B9%ED%88%B0) ==m:https://korsite.net== |
-| ^^ | [Wolf](https://wfwf517.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [Wolf 2](https://wftoon233.com/) ==m:https://xn--ph1bph0az41x.com== |
+| **Comics** | [BlackToon](https://b5.blacktoon.black/) ==m:https://korsite.net== |
+| ^^ | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
+| ^^ | [FreeToon](https://foc137.asia/) [:tg:](https://t.me/s/foclink) |
+| ^^ | [Funbe](https://001.funbe.org/) [:tg:](https://t.me/s/funbe_new) |
+| ^^ | [GoodToon](https://www.goodtoon009.com/?pg=1&mcat=all) [:tg:](https://t.me/s/goodtoon_url) |
+| ^^ | [MoneyToon](https://mtoon161.asia/) |
+| ^^ | [NameeToon](https://namee125.asia/) [:tg:](https://t.me/s/nameetoonlink) |
+| ^^ | [NewToki](https://n5.newtoki.top/) ==m:https://korsite.net== |
+| ^^ | [New XToon](https://newxtoon4.com/) [:tg:](https://t.me/s/newxtoon) |
+| ^^ | [TOONKOR](https://001.toonkor.net/) [:tg:](https://t.me/s/toonkor_net) |
+| ^^ | [Wolf](https://wfwf527.com/) ==m:https://xn--ph1bph0az41x.com== |
+| ^^ | [Wolf 2](https://wftoon235.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [YaToon](https://yatoon264.asia/) [:tg:](https://t.me/yatoonlink) |
+| ^^ | [YaToon](https://yatoon264.asia/) [:tg:](https://t.me/s/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 

@@ -43,12 +43,12 @@ outline: 2
 
 | Websites | Library ==Library== | Social |
 |----------|---------------------|--------|
-| [Anime4i](https://anime4i.com/) | ==l:anime4i== | [:tg:](https://t.me/anime4iz) |
-| [Anime Cube](https://animecube.live/) | ==l:animecube== | [:tg:](https://t.me/animecubehub) |
-| [AnimeKhor](https://animekhor.org/) | ==l:animekhor== | [:tg:](https://t.me/AnimeKhorOfficial) |
+| [Anime4i](https://anime4i.com/) | ==l:anime4i== | [:tg:](https://t.me/s/anime4iz) |
+| [Anime Cube](https://animecube.live/) | ==l:animecube== | [:tg:](https://t.me/s/animecubehub) |
+| [AnimeKhor](https://animekhor.org/) | ==l:animekhor== | [:tg:](https://t.me/s/AnimeKhorOfficial) |
 | [AnimeXin](https://animexin.dev/) | ==l:animexin== | :no: |
-| [Chiki Animation 2D](https://chikianimation.com/) | ==l:chiki2d== | [:tg:](https://t.me/Donghuanewofficial) |
-| [Chiki Animation 3D](https://chikianimation.online/) | ==l:chiki3d== | [:tg:](https://t.me/Dimensional_Animation) |
+| [Chiki Animation 2D](https://chikianimation.com/) | ==l:chiki2d== | [:tg:](https://t.me/s/Donghuanewofficial) |
+| [Chiki Animation 3D](https://chikianimation.online/) | ==l:chiki3d== | [:tg:](https://t.me/s/Dimensional_Animation) |
 
 <more>
 
@@ -154,7 +154,7 @@ Some content may not be available depending on your region.
 
 | Websites | Library ==Library== | Tracking | Sources | Layout | Social |
 |----------|---------------------|----------|---------|--------|--------|
-| [Kagane](https://kagane.cx/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [Kagane](https://kagane.moe/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==MangaDot== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Toonkotsu](https://toonkotsu.com/) ==m:toonkotsu== | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | ==l:weebcentral== | :msync: | :ss: | :lsg: | :cmnt::frm: |
