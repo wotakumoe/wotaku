@@ -297,7 +297,8 @@ outline: 2
 | ^^ | [UzuRepo](https://x.com/UzuRepo) :x: |
 | **Anime** | [Animation Business Journal](http://animationbusiness.info/) :ljp: |
 | ^^ | [Anime Karma List](https://animekarmalist.com/) |
-| ^^ | [Anime Stats](https://anime-stats.net/) :s::mal::al::k: | 
+| ^^ | [Anime Stats](https://anime-stats.net/) :s::mal::al::k: |
+| ^^ | [The Anime Business by AnimEigo](https://www.youtube.com/playlist?list=PLbDKG4su-yK83aQi53z4cE46qxPH8JXyK) :yt: |
 | ^^ | [The Association of Japanese Animations](https://aja.gr.jp/english/japan-anime-data) |
 | **Manga & Novels** | [Billboard JAPAN](https://www.billboard-japan.com/charts/book/) |
 | ^^ |[CR500 Manga Ranking](http://shosekiranking.blog.fc2.com/) :ljp: [:rss:](http://shosekiranking.blog.fc2.com/?xml) [:x:](https://x.com/ComicRanking500) ==ComicRanking500== |
