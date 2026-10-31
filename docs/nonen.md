@@ -465,18 +465,18 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | :--- | :--- |
 | **Comics** | [BlackToon](https://b5.blacktoon.black/) ==m:https://korsite.net== |
 | ^^ | [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [FreeToon](https://foc137.asia/) [:tg:](https://t.me/s/foclink) |
+| ^^ | [FreeToon](https://foc138.asia/) [:tg:](https://t.me/s/foclink) |
 | ^^ | [Funbe](https://001.funbe.org/) [:tg:](https://t.me/s/funbe_new) |
 | ^^ | [GoodToon](https://www.goodtoon009.com/?pg=1&mcat=all) [:tg:](https://t.me/s/goodtoon_url) |
 | ^^ | [MoneyToon](https://mtoon161.asia/) |
-| ^^ | [NameeToon](https://namee125.asia/) [:tg:](https://t.me/s/nameetoonlink) |
+| ^^ | [NameeToon](https://namee126.asia/) [:tg:](https://t.me/s/nameetoonlink) |
 | ^^ | [NewToki](https://n5.newtoki.top/) ==m:https://korsite.net== |
 | ^^ | [New XToon](https://newxtoon4.com/) [:tg:](https://t.me/s/newxtoon) |
 | ^^ | [TOONKOR](https://001.toonkor.net/) [:tg:](https://t.me/s/toonkor_net) |
 | ^^ | [Wolf](https://wfwf527.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon235.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [YaToon](https://yatoon264.asia/) [:tg:](https://t.me/s/yatoonlink) |
+| ^^ | [YaToon](https://yatoon265.asia/) [:tg:](https://t.me/s/yatoonlink) |
 | **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 
