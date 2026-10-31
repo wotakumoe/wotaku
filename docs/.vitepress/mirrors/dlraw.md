@@ -3,5 +3,5 @@ src: https://dlraw.tv/home/
 title: DLRaw
 ---
 
-- https://ww19.13dl.app/home/
-- https://ww32.manga-zip.app/home/
+- https://ww20.13dl.app/home/
+- https://ww33.manga-zip.app/home/
