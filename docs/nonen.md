@@ -388,7 +388,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Websites | Library ==Library== |
 |----------|---------------------|
-| [Dokiraw](https://dokiraw.city/) | ==l:dokiraw== |
+| [Dokiraw](https://dokiraw.pink/) | ==l:dokiraw== |
 | [Free PDF Library](https://pdftoshokan.com/) | ==l:pdftoshokan== |
 | [Hachiraw](https://hachiraw.net/) | ==l:hachiraw== |
 | [KL Manga](https://old.klz9.com/) ==m:kl-manga== | ==l:klmanga== |
@@ -396,14 +396,14 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 <more>
 
-| [Manga Raw (.ad)](https://mangarawad.icu/) | ==l:mangarawad== |
+| [Manga Raw (.ad)](https://mangarawad.click/) | ==l:mangarawad== |
 | [Manga Raw (.best)](https://mangaraw.best/) | ==l:mangarawbest== |
 | [Manga Raw (.lc)](https://mangaraw.lc/) ==m:mangarawspoil== | ==l:mangarawlc== |
 | [RAW 1001](https://raw1001.net/home) ==m:raw1001== | ==l:raw1001== |
 | [Rawkuma](https://rawkuma.net/) | ==l:rawkuma== |
-| [Raw FREE](https://rawfree.click/) | ==l:rawfree== |
+| [Raw FREE](https://rawfree.gives/) | ==l:rawfree== |
 | [RAW LAZY](https://rawlazy.io/) | ==l:rawlazy== |
-| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.cool/home/) | ==l:rawotaku== |
+| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.golf/home/) | ==l:rawotaku== |
 | [RawUwU](https://rawuwu.net/) ==m:rawuwu== | ==l:rawuwu== |
 | [Soraraw](https://soraraw.com/) | ==l:soraraw== |
 
@@ -698,7 +698,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [WebLinhTinh](https://weblinhtinh1.net/) |
 | **Comics** | [NhatTruyen](https://nhattruyenqq.com/) |
 | ^^ | [TruyenQQ](https://truyenqqko.com/) |
-| **Hentai** | [DuaLeoTruyen](https://dualeotruyenday.com/) |
+| **Hentai** | [DuaLeoTruyen](https://dualeotruyenqo.com/) |
 | ^^ | [HentaiCube](https://hentaicube.xyz/) |
 | ^^ | [HentaiVN](https://hentaivn.show/) |
 | **Novels** | [Hako](https://docln.net/) |
