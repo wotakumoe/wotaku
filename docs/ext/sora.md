@@ -8,7 +8,7 @@ og:
 # Sora
 
 ::: warning README
-Sora / Luna repos are mostly abandonware. Kept here because some apps still support them (for some reason). Best to move to better apps (or OS).
+Sora/Luna repos are mostly abandonware, kept only because a few apps (for some reason) still support them. You're better off switching to better apps (or another OS).
 :::
 
 ::: extrepo {scheme=sora}
