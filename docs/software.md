@@ -435,6 +435,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 :::
 
-::: tip Mihon, Aniyomi & forks
-[**Android apps**](#manga-readers) that support the mihon extension system, can be used as clients for Jellyfin, Komga, Kavita & LANraragi. You can get extensions from [**here**](/ext/mihon).
+::: Extension-based apps
+Non-dedicated apps can also be used for some of these services. You can find a support overview and extension list [**here**](/ext/).
 :::
