@@ -121,7 +121,7 @@ og:
 | ^^                         | [VueTorrent](https://github.com/VueTorrent/VueTorrent) |  
 | **[Transmission](https://transmissionbt.com/)** | [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) |  
 | **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** | [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface) |  
-| ^^                         | [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui) |  
+| ^^                         | [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui-v2) |  
 | ^^                         | [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) |
 
 </Collapsible>
