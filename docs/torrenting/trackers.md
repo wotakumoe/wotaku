@@ -42,6 +42,7 @@ og:
 | ^^              | [Aidoru](https://aidoru-online.me/) |
 | **NSFW**        | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/r46CFUEBNu) |
 | ^^              | [Empornium](https://www.empornium.sx/) |
+| ^^              | [ClearJAV](https://clearjav.com/) |
 
 ::: tip Related resources
 - [InstallGentoo Wiki](https://igwiki.lyci.de//wiki/Private_trackers) :s:
