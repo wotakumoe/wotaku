@@ -415,7 +415,6 @@ Some content may not be available depending on your region.
 - [Kaiju & Tokusatsu Home Theatre](https://kaijuhometheatre.substack.com/)
 - [Morphin' Legacy](https://morphinlegacy.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
-- [The Tokusatsu Network](https://tokusatsunetwork.com/)
 - [Tokunation](https://news.tokunation.com/)
 - [Tsuburaya Productions](https://tsuburaya-prod.com/)
 
