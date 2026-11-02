@@ -435,6 +435,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 
 :::
 
-::: Extension-based apps
+::: tip Extension-based apps
 Non-dedicated apps can also be used for some of these services. You can find a support overview and extension list [**here**](/ext/).
 :::
