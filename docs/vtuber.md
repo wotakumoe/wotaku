@@ -127,7 +127,7 @@ og:
 | Category      | Name & Link |
 |--------------|------------|
 | **Streamlink** | [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) [:src:](https://github.com/streamlink/streamlink-twitch-gui) |
-| **yt-dlp**   | [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui) |
+| **yt-dlp**   | [yt-dlp GUI](https://github.com/kannagi0303/yt-dlp-gui-v2) |
 | ^^           | [yt-dlp GUI Installer](https://github.com/kazukikasama/youtube-dlp-gui-installer) |
 | ^^           | [yt-dlp interface](https://github.com/ErrorFlynn/ytdlp-interface) |
 | ^^           | [EasyExtractSenchou](https://github.com/ShimamuX/EasyExtractSenchou/) |
