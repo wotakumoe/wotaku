@@ -31,6 +31,7 @@ import { scrapeTablePlugin } from './scrapeTablePlugin'
 import markdownSteps from './steps'
 import { tableMorePlugin } from './tableMore'
 import { tabsMarkdownPlugin } from './tabs'
+import { themeRepoPlugin } from './themeRepoPlugin'
 
 export function configureMarkdown(md: MarkdownRenderer) {
   md.use(emojiRender)
@@ -57,6 +58,7 @@ export function configureMarkdown(md: MarkdownRenderer) {
   md.use(tableMorePlugin)
   md.use(scrapeTablePlugin)
   md.use(extRepoPlugin)
+  md.use(themeRepoPlugin)
   renderHighlight(md)
 }
 

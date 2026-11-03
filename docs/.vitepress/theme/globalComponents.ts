@@ -17,6 +17,10 @@ const ExtensionRepos = defineAsyncComponent(
   () => import('./components/extrepo').then(m => m.ExtensionRepos)
 )
 
+const ThemeRepos = defineAsyncComponent(
+  () => import('./components/themerepo').then(m => m.ThemeRepos)
+)
+
 export function registerGlobalComponents(app: App) {
   app.component('LinkInline', LinkInline)
   app.component('hl', Highlight)
@@ -31,4 +35,5 @@ export function registerGlobalComponents(app: App) {
   app.component('ScrapeTable', ScrapeTable)
   app.component('CrossAppSupport', CrossAppSupport)
   app.component('ExtensionRepos', ExtensionRepos)
+  app.component('ThemeRepos', ThemeRepos)
 }

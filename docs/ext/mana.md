@@ -7,6 +7,8 @@ og:
 ---
 # Mana
 
+## Extensions
+
 ::: extrepo {scheme=mana}
 
 == Kakarot
@@ -44,4 +46,13 @@ og:
 - src: https://github.com/Mana-Core/Books
 - raw: https://mana-core.github.io/Books/sources.json
 
+:::
+
+## Themes
+
+::: themerepo
+== Mana Themes
+- url: https://mana-core.github.io/themes/
+- src: https://github.com/Mana-Core/Themes
+- raw: https://mana-core.github.io/Themes/themes.json
 :::
