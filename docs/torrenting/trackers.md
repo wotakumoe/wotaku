@@ -55,11 +55,6 @@ og:
 
 ::: tabs
 
-== Catalan
-
-- [TotsRucs](http://www.totsrucs.cat/)
-- [UnionFansub](https://foro.unionfansub.com/) :acc:
-
 == Chinese
 
 | Category    | Websites |
@@ -74,26 +69,18 @@ og:
 | ^^          | [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter) |
 | ^^          | [Nyaa Pantsu](https://ouo.si/) |
 
-== German
+== Others
 
-- [AnimeWorld](https://animeworld.cx/) ||Private||
-- [RocketHD](https://rocket-hd.cc/) ||Private||
-
-== Greek
-
-- [AnimeClipse](http://www.animeclipse.com/index.php)
-- [Sick-Fansubs](https://sickfansubs.com/)
-
-== Portuguese
-
-- [DarkMahou](https://darkmahou.io/)
-
-== Russian
-- [Animelayer](http://animelayer.ru/) :acc:
-
-
-== Spanish
-
-- [Union Fansub](https://foro.unionfansub.com/) :acc:
+| Language    | Websites |
+|-------------|----------|
+| **Catalan** | [TotsRucs](http://www.totsrucs.cat/) |
+| ^^ | [UnionFansub](https://foro.unionfansub.com/) :acc: |
+| **German** | [AnimeWorld](https://animeworld.cx/) ||Private|| |
+| ^^ | [RocketHD](https://rocket-hd.cc/) ||Private|| |
+| **Greek** | [AnimeClipse](http://www.animeclipse.com/index.php) |
+| ^^ | [Sick-Fansubs](https://sickfansubs.com/) |
+| **Portuguese** | [DarkMahou](https://darkmahou.io/) |
+| **Russian** | [Animelayer](http://animelayer.ru/) :acc: |
+| **Spanish** | [Union Fansub](https://foro.unionfansub.com/) :acc: |
 
 :::
