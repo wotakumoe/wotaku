@@ -21,6 +21,13 @@ export const DEFAULT_THEME: ManaTheme = {
   }
 }
 
+export const IDENTITY_COLORS = [
+  'accent',
+  'background',
+  'secondaryBackground',
+  'tertiaryBackground'
+] as const
+
 export const resolveThemeColors = (
   colors?: Record<string, string>
 ): Record<string, string> => ({ ...DEFAULT_THEME.colors, ...(colors ?? {}) })

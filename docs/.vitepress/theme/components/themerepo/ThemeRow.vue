@@ -1,9 +1,18 @@
 <script setup lang="ts">
 import { computed } from 'vue'
+import { IDENTITY_COLORS } from '../../../../ext/themeRepos/defaults'
 import type { ManaTheme } from '../../../../ext/themeRepos/types'
 import { useCopy } from '../extrepo/useCopy'
 
-const props = defineProps<{ theme: ManaTheme; selected: boolean }>()
+const props = withDefaults(
+  defineProps<{
+    theme: ManaTheme
+    selected: boolean
+    mainOnly?: boolean
+    bigSwatches?: boolean
+  }>(),
+  { mainOnly: false, bigSwatches: false }
+)
 defineEmits<{ select: [] }>()
 
 const { copiedKey, copy } = useCopy()
@@ -14,38 +23,49 @@ const addThemeLink = computed(() =>
     : undefined
 )
 
-const swatches = computed(() =>
-  Object.entries(props.theme.colors)
+function formatColor(color: string): string {
+  return /^#[0-9a-f]{6}ff$/i.test(color) ? color.slice(0, 7) : color
+}
+
+const swatches = computed(() => {
+  const colors = props.theme.colors
+  if (props.mainOnly) {
+    return IDENTITY_COLORS
+      .filter(key => colors[key])
+      .map(key => ({ key, color: formatColor(colors[key]) }))
+  }
+  return Object.entries(colors)
     .sort(([a], [b]) => a.localeCompare(b))
-    .map(([key, color]) => ({ key, color }))
-)
+    .map(([key, color]) => ({ key, color: formatColor(color) }))
+})
 </script>
 
 <template>
   <div
     class="theme-row"
     :class="{ 'theme-row-selected': selected }"
+    role="button"
+    tabindex="0"
+    :aria-pressed="selected"
     @click="$emit('select')"
+    @keydown.enter.self.prevent="$emit('select')"
+    @keydown.space.self.prevent="$emit('select')"
   >
     <div class="theme-row-body">
-      <div class="theme-row-text">
-        <button
-          type="button"
-          class="theme-row-name"
-          :aria-pressed="selected"
-          :title="selected
-          ? 'Show default preview'
-          : `Preview ${theme.name}`"
-        >
-          {{ theme.name }}
-        </button>
-        <span v-if="theme.author" class="theme-row-author">
-          {{ theme.author }}
-        </span>
-      </div>
+      <button
+        type="button"
+        class="theme-row-name"
+        :aria-pressed="selected"
+        :title="selected
+        ? 'Show default preview'
+        : `Preview ${theme.name}`"
+      >
+        {{ theme.name }}
+      </button>
       <button
         type="button"
         class="theme-shades"
+        :class="{ 'theme-shades-big': bigSwatches }"
         :aria-pressed="selected"
         :aria-label="`Preview ${theme.name}`"
       >
@@ -53,42 +73,59 @@ const swatches = computed(() =>
           v-for="swatch in swatches"
           :key="swatch.key"
           class="theme-shade"
-          :style="{ backgroundColor: swatch.color }"
+          :class="{ 'theme-shade-big': bigSwatches }"
+          :style="bigSwatches
+          ? undefined
+          : { backgroundColor: swatch.color }"
           :title="`${swatch.key}: ${swatch.color}`"
-        />
+        >
+          <template v-if="bigSwatches">
+            <span
+              class="theme-shade-fill"
+              :style="{ backgroundColor: swatch.color }"
+            />
+            <span class="theme-shade-hex">{{
+              swatch.color.replace('#', '')
+            }}</span>
+          </template>
+        </span>
       </button>
     </div>
 
-    <a
-      v-if="addThemeLink"
-      class="theme-install"
-      :href="addThemeLink"
-      :aria-label="`Add ${theme.name} to Mana`"
-      :title="`Add ${theme.name} to Mana`"
-      @click.stop
-    >
-      <span class="theme-install-icon i-lucide:download" />
-      <span class="theme-install-label">Install</span>
-    </a>
+    <div class="theme-row-actions">
+      <a
+        v-if="addThemeLink"
+        class="ext-btn ext-btn-install"
+        :href="addThemeLink"
+        :aria-label="`Add ${theme.name} to Mana`"
+        :title="`Add ${theme.name} to Mana`"
+        @click.stop
+      >
+        <span class="i-lucide:download" />
+        <span class="ext-btn-install-label">Install</span>
+      </a>
 
-    <button
-      v-if="theme.raw"
-      type="button"
-      class="theme-copy"
-      :class="{ 'theme-copy-done': copiedKey === theme.raw }"
-      :aria-label="copiedKey === theme.raw
-      ? `Copied ${theme.name} URL`
-      : `Copy ${theme.name} URL`"
-      :title="copiedKey === theme.raw
-      ? 'Copied!'
-      : `Copy ${theme.name} JSON URL`"
-      @click.stop="copy(theme.raw, theme.raw)"
-    >
-      <span v-if="copiedKey === theme.raw" class="i-lucide:check" />
-      <span v-else class="i-lucide:copy" />
-    </button>
+      <button
+        v-if="theme.raw"
+        type="button"
+        class="ext-btn ext-btn-copy"
+        :class="{ 'theme-copy-done': copiedKey === theme.raw }"
+        :aria-label="copiedKey === theme.raw
+        ? `Copied ${theme.name} URL`
+        : `Copy ${theme.name} URL`"
+        :title="copiedKey === theme.raw
+        ? 'Copied!'
+        : `Copy ${theme.name} JSON URL`"
+        @click.stop="copy(theme.raw, theme.raw)"
+      >
+        <span v-if="copiedKey === theme.raw" class="i-lucide:check" />
+        <span v-else class="i-lucide:copy" />
+      </button>
+    </div>
   </div>
 </template>
+
+<style scoped src="../extrepo/repoRowShared.css"></style>
 
 <style scoped>
 .theme-row {
@@ -103,6 +140,10 @@ const swatches = computed(() =>
 .theme-row:hover {
   background-color: var(--vp-c-bg-soft);
 }
+.theme-row:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: -2px;
+}
 .theme-row-selected {
   border-left-color: var(--vp-c-brand-1);
   background-color: var(--vp-c-bg-soft);
@@ -114,11 +155,11 @@ const swatches = computed(() =>
   flex-direction: column;
   gap: 6px;
 }
-.theme-row-text {
-  min-width: 0;
+.theme-row-actions {
   display: flex;
-  flex-direction: column;
-  gap: 1px;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
 }
 .theme-row-name {
   min-width: 0;
@@ -136,14 +177,6 @@ const swatches = computed(() =>
   text-overflow: ellipsis;
   cursor: pointer;
 }
-.theme-row-author {
-  font-size: 12px;
-  line-height: 1.3;
-  color: var(--vp-c-text-3);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
 .theme-shades {
   width: 100%;
   display: flex;
@@ -159,69 +192,42 @@ const swatches = computed(() =>
   flex: 1;
   height: 100%;
 }
-.theme-copy {
-  flex-shrink: 0;
+.theme-shades-big {
+  height: auto;
+  gap: 6px;
+  border-radius: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.theme-shade-big {
+  flex: 1 0 48px;
+  min-width: 48px;
+  height: auto;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 32px;
-  height: 32px;
-  padding: 0;
-  border-radius: 8px;
+  flex-direction: column;
+  border-radius: 6px;
+  overflow: hidden;
   border: 1px solid var(--vp-c-divider);
   background-color: var(--vp-c-bg);
-  color: var(--vp-c-text-1);
-  cursor: pointer;
-  transition: border-color 0.2s, color 0.2s;
 }
-.theme-copy:hover {
-  border-color: var(--vp-c-brand-1);
-  color: var(--vp-c-brand-1);
+.theme-shade-fill {
+  width: 100%;
+  height: 42px;
+}
+.theme-shade-hex {
+  display: block;
+  padding: 4px 2px;
+  font-size: 10px;
+  line-height: 1.2;
+  text-align: center;
+  color: var(--vp-c-text-2);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .theme-copy-done {
   border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1);
-}
-.theme-copy span {
-  font-size: 15px;
-}
-.theme-install {
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 5px;
-  height: 32px;
-  padding: 0 10px;
-  border-radius: 8px;
-  border: 1px solid var(--vp-button-brand-border);
-  background-color: var(--vp-button-brand-bg);
-  color: var(--vp-button-brand-text) !important;
-  font-size: 13px;
-  font-weight: 600;
-  line-height: 1;
-  text-decoration: none !important;
-  transition: filter 0.2s, border-color 0.2s;
-}
-.theme-install:hover {
-  filter: brightness(1.08);
-  border-color: var(--vp-button-brand-hover-border);
-}
-.theme-install-icon {
-  font-size: 15px;
-}
-.theme-install-label {
-  white-space: nowrap;
-}
-
-@media (max-width: 767px) {
-  .theme-install {
-    width: 32px;
-    padding: 0;
-    gap: 0;
-  }
-  .theme-install-label {
-    display: none;
-  }
 }
 </style>
