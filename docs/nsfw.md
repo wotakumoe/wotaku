@@ -75,6 +75,7 @@ og:
 | [Manga District](https://mangadistrict.com/) ==MangaDistrict== | :yes: | :no: |
 | [Manga18](https://manga18.club/) | :no: | :no: |
 | [Manga18fx](https://manga18fx.com/) | :yes: | :yes: |
+| [ManhwaH](https://manhwah.com/) | :no: | :yes: |
 | [ManhwaRead](https://manhwaread.com/) | :yes: | :no: |
 | [Omega Scans](https://omegascans.org/) :sub: ||Scan|| | :no: | :no: |
 | [PornhwaDB Reader](https://pornhwareader.com/) | :no: | :no: |
