@@ -33,8 +33,8 @@ Multi-sub/dub release groups include [**Erai-raws**](https://nyaa.si/user/Erai-r
 | [Kagane](https://kagane.moe/) ==m:https://kagane.org/== ==Kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==MangaDot== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaBall](https://mangaball.com/) | :msync: | :ps::up: | :ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
-| [MangaBall](https://mangaball.net/) | :msync: | :ps::up: | :ls: | :cmnt: |
 | [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | :no: | :ps: | :ls::lsg: | :no: |
 
 ::: tip Apps
@@ -334,6 +334,7 @@ Most apps in [**software**](/software) support multilingual sources.
 | ^^ | [SankanimeID](https://sankanime.web.id/id) |
 | ^^ | [Samehadaku](https://v2.samehadaku.how/) ==m:https://samehadaku.care== |
 | **DDL** | [Alqanime](https://alqanime.net/) |
+| ^^ | [Bluraynime](https://bluraynime.my.id/) |
 | ^^ | [Kusonime](https://kusonime.com/) |
 | ^^ | [Meownime](https://meownime.ltd/) |
 | **Info** | [Database Tontonan Wibu Indonesia](https://db.silveryasha.id/) |
@@ -468,7 +469,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [FreeToon](https://foc138.asia/) [:tg:](https://t.me/s/foclink) |
 | ^^ | [Funbe](https://002.funbe.org/) [:tg:](https://t.me/s/funbe_up) |
 | ^^ | [GoodToon](https://www.goodtoon009.com/?pg=1&mcat=all) [:tg:](https://t.me/s/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon162.asia/) |
+| ^^ | [MoneyToon](https://mtoon163.asia/) |
 | ^^ | [NameeToon](https://namee126.asia/) [:tg:](https://t.me/s/nameetoonlink) |
 | ^^ | [NewToki](https://n6.newtoki.top/) ==m:https://korsite.net== |
 | ^^ | [New XToon](https://newxtoon4.com/) [:tg:](https://t.me/s/newxtoon) |
@@ -476,7 +477,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [Wolf](https://wfwf527.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [Wolf 2](https://wftoon235.com/) ==m:https://xn--ph1bph0az41x.com== |
 | ^^ | [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com== |
-| ^^ | [YaToon](https://yatoon265.asia/) [:tg:](https://t.me/s/yatoonlink) |
+| ^^ | [YaToon](https://yatoon266.asia/) |
 | **Anime** | [Annie24](https://ohli24.net/) ==m:https://korsite.net== |
 | ^^ | [Anissia](https://anissia.net/) |
 
