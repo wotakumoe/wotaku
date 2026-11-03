@@ -73,8 +73,7 @@ og:
 
 | Language    | Websites |
 |-------------|----------|
-| **Catalan** | [TotsRucs](http://www.totsrucs.cat/) |
-| ^^ | [UnionFansub](https://foro.unionfansub.com/) :acc: |
+| **Catalan** | [TotsRucs](http://forum.totsrucs.cat/) |
 | **German** | [AnimeWorld](https://animeworld.cx/) ||Private|| |
 | ^^ | [RocketHD](https://rocket-hd.cc/) ||Private|| |
 | **Greek** | [AnimeClipse](http://www.animeclipse.com/index.php) |
