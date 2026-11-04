@@ -14,6 +14,11 @@ og:
 - src: https://github.com/inkdex/extensions
 - raw: https://inkdex.github.io/extensions/0.9/stable/versioning.json
 
+== Hammy
+- url: https://pisshammy.github.io/HammyExtensions/
+- src: https://github.com/pisshammy/HammyExtensions
+- raw: https://pisshammy.github.io/HammyExtensions/versioning.json
+
 == Kakarot0
 - url: https://karrot0.github.io/KakarotExtension/0.9/stable/
 - src: https://github.com/karrot0/KakarotExtension/
