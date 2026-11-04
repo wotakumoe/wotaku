@@ -108,11 +108,12 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 - [osu!](https://osu.ppy.sh/) [:src:](https://github.com/ppy/osu) ||Official||
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
-- [osu.direct](https://osu.direct/home)
-- [osu skinner](https://osuskinner.com/)
-- [osu!chan](https://osuchan.syrin.me/)
-- [osu-pps](https://osu-pps.com)
 - [o!rdr](https://ordr.issou.best/)
+- [osu!chan](https://osuchan.syrin.me/)
+- [osu.direct](https://osu.direct/home)
+- [osu!next Signature Generator](https://lemmmy.pw/osusig/) [:src:](https://github.com/tmpim/osusig)
+- [osu-pps](https://osu-pps.com)
+- [osu skinner](https://osuskinner.com/)
 - [Web osu!mania](https://webosumania.com/) [:src:](https://github.com/HecticKiwi/Web-Osu-Mania)
 
 == Tools
