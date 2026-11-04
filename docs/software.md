@@ -107,7 +107,6 @@ og:
 | Category | Software | Platform |
 |-|-|-|
 | **Reader** | [KOReader](https://koreader.rocks/) [:src:](https://github.com/koreader/koreader) | :and::lin: |
-| ^^         | :prev: [rakuyomi](https://github.com/tachibana-shin/rakuyomi) [:e:](/ext/aidoku) | :lin: |
 | **General**    | [Calibre](https://calibre-ebook.com/) :s: [:src:](https://github.com/kovidgoyal/calibre) | :win::app::lin: |
 | **Conversion** | [Kindle Comic Converter](https://github.com/ciromattia/kcc)                         | :win::app::lin::dock: |
 | **Transfer**   | [send2ereader](https://github.com/daniel-j/send2ereader)                            | :win::app::lin::dock: |

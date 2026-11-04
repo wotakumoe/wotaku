@@ -107,8 +107,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Antra](https://antra.hoshi.cfd/) :acc: [:src:](https://github.com/anandprtp/Antra) | **Multiple** |
 | [DoubleDouble](https://doubledouble.top/) | ^^ |
 | [Lucida](https://lucida.to/) | ^^ |
-| [Squid.wtf](https://squid.wtf/) | ^^ |
 | [am-dl](https://am-dl.pages.dev/) ==am-dl== | **Apple** |
+| [Rhythmax](https://saavn.odskyler.com/) [:src:](https://github.com/ODSkyler/saavn-dl) | **JioSaavn** |
 | [Arcod](https://www.arcod.xyz/) :acc: | **Qobuz** |
 | [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
 | [Rhythmax](https://tidal.odskyler.com/) [:src:](https://github.com/ODSkyler/tidal-proxy) | **Tidal** |

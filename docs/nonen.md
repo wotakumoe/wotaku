@@ -399,7 +399,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | [Manga Raw (.ad)](https://mangarawad.click/) | ==l:mangarawad== |
 | [Manga Raw (.best)](https://mangaraw.best/) | ==l:mangarawbest== |
-| [Manga Raw (.lc)](https://mangaraw.lc/) ==m:mangarawspoil== | ==l:mangarawlc== |
+| [Manga Raw (.sc)](https://mangaraw.sc/) ==m:mangarawspoil== | ==l:mangarawlc== |
 | [RAW 1001](https://raw1001.net/home) ==m:raw1001== | ==l:raw1001== |
 | [Rawkuma](https://rawkuma.net/) | ==l:rawkuma== |
 | [Raw FREE](https://rawfree.gives/) | ==l:rawfree== |
@@ -469,7 +469,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [FreeToon](https://foc138.asia/) [:tg:](https://t.me/s/foclink) |
 | ^^ | [Funbe](https://002.funbe.org/) [:tg:](https://t.me/s/funbe_up) |
 | ^^ | [GoodToon](https://www.goodtoon009.com/?pg=1&mcat=all) [:tg:](https://t.me/s/goodtoon_url) |
-| ^^ | [MoneyToon](https://mtoon163.asia/) |
+| ^^ | [MoneyToon](https://mtoon164.asia/) |
 | ^^ | [NameeToon](https://namee126.asia/) [:tg:](https://t.me/s/nameetoonlink) |
 | ^^ | [NewToki](https://n6.newtoki.top/) ==m:https://korsite.net== |
 | ^^ | [New XToon](https://newxtoon4.com/) [:tg:](https://t.me/s/newxtoon) |
@@ -632,7 +632,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 - [HeavenManga](https://heavenmanga.com/)
 - [InManga](https://inmanga.com/)
 - [KuManga](https://www.kumanga.com/index.php)
-- [Leemiau](https://leemiau.com/)
+- [Leemiau](https://leer.lectovela.com/)
 - [LexMangas](https://www.lexmangas.com/)
 - [MangaCrab](https://es.mangacrab.org/) :ero:
 - [MangaOni](https://manga-oni.com/)
@@ -712,5 +712,4 @@ All websites listed here use slow host sites to store files, unless noted otherw
 
 | Category | Resources | Platform |
 |-|-|-|
-| **General** | [Hoyomi](https://github.com/tachibana-shin/hoyomi) | :and::ios: |
 | **Anime** | [Anime VSub](https://app.animevsub.eu.org/) [:src:](https://github.com/anime-vsub/app) | :and: |
