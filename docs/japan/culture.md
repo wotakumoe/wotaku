@@ -76,14 +76,12 @@ og:
 - [JNTO](https://www.japan.travel/en/us/)
 - [JRailPass](https://www.jrailpass.com/blog/)
 - [Kanpai!](https://www.kanpai-japan.com/)
-- [LIVE JAPAN](https://livejapan.com/)
 - [MATCHA](https://matcha-jp.com/en)
 - [Mini Tokyo 3D](https://minitokyo3d.com/) :s: [:src:](https://github.com/nagix/mini-tokyo-3d)
 - [Tokyo Cheapo](https://tokyocheapo.com/)
 
 == Japanese
 - [Omatsuri Japan](https://omatsurijapan.com/)
-- [Travel Research](https://www.homemate-research-tour.com/) :s:
 - [Japan 47 go](https://www.japan47go.travel/ja)
 - [Collabo Cafe](https://collabo-cafe.com/)
 - [Ghibli Museum](https://www.ghibli-museum.jp/en/)
