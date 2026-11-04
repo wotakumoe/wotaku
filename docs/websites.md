@@ -311,7 +311,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Cinecat](https://cinecat.eu/) :scrpr:
-- [Aether](https://aether.st/) :scrpr: ==m:https://rentry.co/aetherdomains==
+- [Aether](https://aether.ist/) :scrpr: ==m:https://rentry.co/aetherdomains==
 - :rd: [JP learning focused](/japan/immersion#watching)
 
 == Download
