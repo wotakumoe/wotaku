@@ -64,7 +64,7 @@ const knownAuthors = new Set<string>()
 const query = ref('')
 const debouncedQuery = refDebounced(query, SEARCH_DEBOUNCE_MS)
 const mainColorsOnly = ref(true)
-const bigSwatches = ref(true)
+const bigSwatches = ref(!isPhone.value)
 
 const isSearching = computed(() => debouncedQuery.value.trim().length > 0)
 const filteredGroups = computed<ThemeGroup[]>(() => {
