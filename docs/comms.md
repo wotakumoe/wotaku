@@ -59,10 +59,10 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 == Anime
 - [r/Anime](https://discord.gg/r-anime)
 - [Anime Soul](https://discord.gg/animesoul)
-- [Ass Anime Community](https://discord.gg/RD72pNRYFu)
 - [GJM - Subtitling Hub](https://discord.gg/0jeKKhzGn3EBNDI2)
+- [KickAssAnime](https://discord.gg/RD72pNRYFu)
 - [LiveChart](https://discord.gg/wSt8U52)
-- [Re:ANIME Community](https://discord.gg/SMNYA4Q6vD)
+- [Re:ANIME](https://discord.gg/SMNYA4Q6vD)
 - [Sonic Zone](https://discord.gg/bj5vmb96YT)
 - [SubsPlease](https://discord.gg/33Hxdas)
 - [ToonsHub](https://discord.gg/cTRhnt7N8B)
@@ -109,6 +109,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [DoujinStyle](https://discord.gg/z2QDFdA)
 - [Lucida](https://discord.gg/dXEGRWqEbS)
 - [MikuDB](https://discord.gg/w9Dq25n)
+- [Rhythmax](https://discord.gg/PAKgD6Jhfm)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [UtaTime](https://discord.gg/8dspgw2pBX)
 
@@ -123,10 +124,10 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 == NSFW
 - [FAKKU](https://discord.gg/SCjbSWkMHB)
 - [Hanako's Hideout](https://discord.gg/jVvSbYB)
-- [hanime.tv Community](https://discord.gg/hanime-tv)
+- [hanime.tv](https://discord.gg/hanime-tv)
 - [HenTalk](https://discord.gg/jUv3a6EHeY)
 - [Pornhwa Database](https://discord.gg/pjsHcU8Tah)
-- [r/pornhwa](https://discord.gg/epjkRVp7gD)
+- [r/pornhwa](https://discord.gg/KPBMAGrJv)
 - [r/rule34](https://discord.gg/zMrMhpZ)
 - [r/wholesomehentai](https://discord.gg/aqttTca)
 - [Rule34.xxx](https://discord.gg/rule34xxx)

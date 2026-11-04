@@ -20,7 +20,7 @@ og:
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: |
 | [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: |
 | [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: |
-| [KickassAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: |
+| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: |
 
 ::: tip Torrents
 Multi-sub/dub release groups include [**Erai-raws**](https://nyaa.si/user/Erai-raws), [**ToonsHub**](https://www.toonshub.my.id/) & [**Varyg**](https://nyaa.si/user/varyg1001).
@@ -680,6 +680,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | ^^ | [HentaiUKR](https://hentaiukr.com/) :ero: |
 | **Manga** | [Manga.in.ua](https://manga.in.ua/) |
 | ^^ | [MangaGeeks](https://www.mangageeks.com.ua/) |
+| ^^ | [UAManga](https://uamanga.com/) |
 | ^^ | [Zenko](https://zenko.online/) |
 | **Others** | [BambooUA](https://bambooua.com/) |
 | ^^ | [Hikka](https://hikka.io/) |

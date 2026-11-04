@@ -37,7 +37,7 @@ outline: 2
 | [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: | :cc: |
 | [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: | :cc: |
 | [Gotaku](https://gotaku.to/) | ==l:gotaku== | :yes: | :sync::ie: | :oc: |
-| [KickassAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: | :cc: |
+| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: | :cc: |
 
 == Donghua
 
