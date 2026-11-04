@@ -135,7 +135,7 @@ Some content may not be available depending on your region.
 | **Rerun Sites** :hd: | [BumpWorthy](https://www.bumpworthy.com/) |
 | ^^ | [Cartoons Network](https://cartooncartoons.thatsoretro.com/) |
 | ^^ | [RetroBlast](https://retroblast.tv/) |
-| ^^ | [Swim Rewind](https://swimrewind.com/) |
+| ^^ | [Spelunkr](https://spelunkr.tv/) |
 | ^^ | [Toonami Aftermath](https://www.toonamiaftermath.com/) |
 | ^^ | [Toonami Remastered](https://www.toonamiremastered.com/) |
 | **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
