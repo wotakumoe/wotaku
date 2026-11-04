@@ -29,7 +29,6 @@ og:
 | Site | Kana | Kanji | Grammar | Quiz | Books |
 |-|-|-|-|-|-|
 | [KanaDojo](https://kanadojo.com/) [:src:](https://github.com/lingdojo/kana-dojo) | :yes: | :yes: | :no: | :yes: | :no: |
-| [Meguro Language Center](https://www.mlcjapanese.co.jp/) | :yes: | :yes: | :yes: | :yes: | :no: |
 | [Nihongo NET](https://nihongokyoshi-net.com/) | :yes: | :yes: | :yes: | :yes: | :yes: |
 | [renshuu](https://www.renshuu.org/) | :yes: | :yes: | :yes: | :yes: | :yes: |
 | [Steven Kraft’s Japanese Projects](https://steven-kraft.com/projects/japanese/) | :no: | :no: | :no: | :yes: | :no: |
