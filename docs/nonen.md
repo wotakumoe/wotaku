@@ -303,6 +303,7 @@ Most apps in [**software**](/software) support multilingual sources.
 | **Stream** | [Aniflix](https://aniflix.us/) |
 | ^^ | [Anime Bash India](https://animebashindia.me/home) |
 | ^^ | [Anime Joker](https://animejoker.com/) + :len: |
+| ^^ | [AnimeLok](https://animelok.cc/home) + :len: |
 | ^^ | [Anime Salt](https://animesalt.cx/) + :len: |
 | ^^ | [Anime World India](https://watchanimeworld.one/) + :len: |
 | ^^ | [Desi Dub Anime](https://www.desidubanime.me/) |
