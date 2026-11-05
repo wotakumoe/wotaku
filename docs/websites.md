@@ -156,7 +156,7 @@ Some content may not be available depending on your region.
 |----------|---------------------|----------|---------|--------|--------|
 | [Kagane](https://kagane.moe/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaDot](https://mangadot.net/) ==MangaDot== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
-| [Toonkotsu](https://toonkotsu.com/) ==m:toonkotsu== | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
+| [Toonkotsu](https://toonkotsu.com/) | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
 | [Weeb Central](https://weebcentral.com/) ==WeebCentral== | ==l:weebcentral== | :msync: | :ss: | :lsg: | :cmnt::frm: |
 | [Atsumaru](https://atsu.moe/) ==Atsumaru== | ==l:atsumaru== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
 
