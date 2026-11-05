@@ -128,9 +128,10 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Category | Websites |
 |---|---|
-| **General** | [Amazon](https://www.amazon.com/) |
+| **General** | [Alibris](https://www.alibris.com/) |
+| ^^ | [Amazon](https://www.amazon.com/) |
 | ^^ | [AmiAmi](https://www.amiami.com) :cjp: |
-| ^^ | [animate](https://www.animate.shop/) :cjp: |
+| ^^ | [Animate](https://www.animate.shop/) :cjp: |
 | ^^ | [Barnes & Noble](https://www.barnesandnoble.com/) |
 | ^^ | [CDJapan](https://www.cdjapan.co.jp/) :cjp: |
 | ^^ | [HMV&Books](https://www.hmv.co.jp/) :cjp: |
