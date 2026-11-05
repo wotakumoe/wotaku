@@ -253,7 +253,6 @@ outline: 2
 | Category | Websites |  
 |----------|----------|  
 | **General** | [Anitrendz](https://anitrendz.net/news/) [:x:](https://x.com/anitrendz) |
-| ^^ | [Catsuka](https://www.catsuka.com/) :lfr: |
 | **Info / News** | [Anime Corner](https://animecorner.me/) [:x:](https://x.com/animecorner_ac) |  
 | ^^ | [Anime Freaks](https://times.abema.tv/anime) :ljp: |  
 | ^^ | [Anime News by AIR](https://x.com/AIR_News01) :x: |  
