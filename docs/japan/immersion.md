@@ -130,7 +130,7 @@ og:
 
 :::
 
-<Block icon="i-mdi-lightbulb-outline" link="/nonen#direct" >More in raw direct download</Block>
+<Block icon="i-mdi-lightbulb-outline" link="/nonen/japanese#direct" >More in raw direct download</Block>
 
 ## Listening
 

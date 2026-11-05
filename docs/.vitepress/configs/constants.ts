@@ -79,6 +79,198 @@ export const homeCards: HomeCard[] = [
     link: '/nonen'
   },
   {
+    id: 'nonen-multilingual',
+    icon: ':lucide-map:',
+    title: 'Multilingual',
+    details: 'Anime & manga with multi-language support',
+    link: '/nonen/multilingual',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-arabic',
+    icon: ':lucide-map:',
+    title: 'Arabic',
+    details: 'Anime, manga & novels',
+    link: '/nonen/arabic',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-chinese',
+    icon: ':lucide-map:',
+    title: 'Chinese',
+    details: 'Anime, manhua & novels',
+    link: '/nonen/chinese',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-hebrew',
+    icon: ':lucide-map:',
+    title: 'Hebrew',
+    details: 'Anime & manga',
+    link: '/nonen/hebrew',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-indian',
+    icon: ':lucide-map:',
+    title: 'Indian',
+    details: 'Anime & cartoons',
+    link: '/nonen/indian',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-indonesian',
+    icon: ':lucide-map:',
+    title: 'Indonesian',
+    details: 'Anime, manga & light novels',
+    link: '/nonen/indonesian',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-japanese',
+    icon: ':lucide-map:',
+    title: 'Japanese',
+    details: 'Raw manga & direct downloads',
+    link: '/nonen/japanese',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-korean',
+    icon: ':lucide-map:',
+    title: 'Korean',
+    details: 'Manhwa & anime',
+    link: '/nonen/korean',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-turkish',
+    icon: ':lucide-map:',
+    title: 'Turkish',
+    details: 'Anime & manga',
+    link: '/nonen/turkish',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-vietnamese',
+    icon: ':lucide-map:',
+    title: 'Vietnamese',
+    details: 'Anime, comics & novels',
+    link: '/nonen/vietnamese',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-balkan',
+    icon: ':lucide-map:',
+    title: 'Balkan',
+    details: 'Anime, cartoons & manga',
+    link: '/nonen/balkan',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-catalan',
+    icon: ':lucide-map:',
+    title: 'Catalan',
+    details: 'Anime & manga',
+    link: '/nonen/catalan',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-french',
+    icon: ':lucide-map:',
+    title: 'French',
+    details: 'Anime & manga',
+    link: '/nonen/french',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-german',
+    icon: ':lucide-map:',
+    title: 'German',
+    details: 'Anime, manga & communities',
+    link: '/nonen/german',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-greek',
+    icon: ':lucide-map:',
+    title: 'Greek',
+    details: 'Anime',
+    link: '/nonen/greek',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-hungarian',
+    icon: ':lucide-map:',
+    title: 'Hungarian',
+    details: 'Anime',
+    link: '/nonen/hungarian',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-italian',
+    icon: ':lucide-map:',
+    title: 'Italian',
+    details: 'Anime, manga & info',
+    link: '/nonen/italian',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-lithuanian',
+    icon: ':lucide-map:',
+    title: 'Lithuanian',
+    details: 'Anime',
+    link: '/nonen/lithuanian',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-polish',
+    icon: ':lucide-map:',
+    title: 'Polish',
+    details: 'Anime & apps',
+    link: '/nonen/polish',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-portuguese',
+    icon: ':lucide-map:',
+    title: 'Portuguese',
+    details: 'Anime, manga & tokusatsu',
+    link: '/nonen/portuguese',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-romanian',
+    icon: ':lucide-map:',
+    title: 'Romanian',
+    details: 'Anime',
+    link: '/nonen/romanian',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-russian',
+    icon: ':lucide-map:',
+    title: 'Russian',
+    details: 'Anime, manga & trackers',
+    link: '/nonen/russian',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-spanish',
+    icon: ':lucide-map:',
+    title: 'Spanish',
+    details: 'Anime, manga & light novels',
+    link: '/nonen/spanish',
+    section: 'Non-English'
+  },
+  {
+    id: 'nonen-ukrainian',
+    icon: ':lucide-map:',
+    title: 'Ukrainian',
+    details: 'Anime & manga',
+    link: '/nonen/ukrainian',
+    section: 'Non-English'
+  },
+  {
     id: 'nsfw',
     icon: ':lucide-ban:',
     title: 'NSFW',
@@ -558,10 +750,6 @@ export const sidebar: DefaultTheme.Sidebar = [
     link: '/games'
   },
   {
-    text: '<span class="i-lucide:map"></span> Non-English',
-    link: '/nonen'
-  },
-  {
     text: '<span class="i-lucide:ban"></span> NSFW',
     link: '/nsfw'
   },
@@ -572,6 +760,50 @@ export const sidebar: DefaultTheme.Sidebar = [
   {
     text: '<span class="i-twemoji-comet"></span> VTuber',
     link: '/vtuber'
+  },
+  {
+    text:
+      '<span class="mr-2 w-4 h-4 bg-cover i-lucide:map"></span> Non-English',
+    collapsed: true,
+    link: '/nonen',
+    items: [
+      { text: 'Multilingual', link: '/nonen/multilingual' },
+      {
+        text: 'Asia',
+        collapsed: true,
+        items: [
+          { text: 'Arabic', link: '/nonen/arabic' },
+          { text: 'Chinese', link: '/nonen/chinese' },
+          { text: 'Hebrew', link: '/nonen/hebrew' },
+          { text: 'Indian', link: '/nonen/indian' },
+          { text: 'Indonesian', link: '/nonen/indonesian' },
+          { text: 'Japanese', link: '/nonen/japanese' },
+          { text: 'Korean', link: '/nonen/korean' },
+          { text: 'Turkish', link: '/nonen/turkish' },
+          { text: 'Vietnamese', link: '/nonen/vietnamese' }
+        ]
+      },
+      {
+        text: 'Europe',
+        collapsed: true,
+        items: [
+          { text: 'Balkan', link: '/nonen/balkan' },
+          { text: 'Catalan', link: '/nonen/catalan' },
+          { text: 'French', link: '/nonen/french' },
+          { text: 'German', link: '/nonen/german' },
+          { text: 'Greek', link: '/nonen/greek' },
+          { text: 'Hungarian', link: '/nonen/hungarian' },
+          { text: 'Italian', link: '/nonen/italian' },
+          { text: 'Lithuanian', link: '/nonen/lithuanian' },
+          { text: 'Polish', link: '/nonen/polish' },
+          { text: 'Portuguese', link: '/nonen/portuguese' },
+          { text: 'Romanian', link: '/nonen/romanian' },
+          { text: 'Russian', link: '/nonen/russian' },
+          { text: 'Spanish', link: '/nonen/spanish' },
+          { text: 'Ukrainian', link: '/nonen/ukrainian' }
+        ]
+      }
+    ]
   },
   {
     text:

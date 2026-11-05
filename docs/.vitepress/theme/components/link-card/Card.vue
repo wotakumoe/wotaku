@@ -13,9 +13,12 @@ const props = defineProps<{
     :download="props.download ? '' : undefined"
     class="vp-card"
   >
-    <article class="vp-card-container">
+    <article
+      class="vp-card-container"
+      :class="{ 'vp-card-container--no-details': !$slots.default }"
+    >
       <h3 class="vp-card-title">{{ props.title }}</h3>
-      <p class="vp-card-details"><slot /></p>
+      <p v-if="$slots.default" class="vp-card-details"><slot /></p>
     </article>
   </a>
 </template>
@@ -44,6 +47,14 @@ const props = defineProps<{
   flex-direction: column;
   padding: 24px;
   height: 100%;
+}
+
+.vp-card-container--no-details {
+  justify-content: center;
+}
+
+.vp-card-container--no-details .vp-card-title {
+  margin-bottom: 0;
 }
 
 .vp-card-title {
