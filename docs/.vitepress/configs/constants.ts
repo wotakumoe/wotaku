@@ -72,14 +72,7 @@ export const homeCards: HomeCard[] = [
     link: '/games'
   },
   {
-    id: 'nonen',
-    icon: ':lucide-map:',
-    title: 'Non-English',
-    details: 'Otaku resources for other regions',
-    link: '/nonen'
-  },
-  {
-    id: 'nonen-multilingual',
+    id: 'multilingual',
     icon: ':lucide-map:',
     title: 'Multilingual',
     details: 'Anime & manga with multi-language support',
@@ -87,7 +80,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-arabic',
+    id: 'arabic',
     icon: ':lucide-map:',
     title: 'Arabic',
     details: 'Anime, manga & novels',
@@ -95,7 +88,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-chinese',
+    id: 'chinese',
     icon: ':lucide-map:',
     title: 'Chinese',
     details: 'Anime, manhua & novels',
@@ -103,15 +96,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-hebrew',
-    icon: ':lucide-map:',
-    title: 'Hebrew',
-    details: 'Anime & manga',
-    link: '/nonen/hebrew',
-    section: 'Non-English'
-  },
-  {
-    id: 'nonen-indian',
+    id: 'indian',
     icon: ':lucide-map:',
     title: 'Indian',
     details: 'Anime & cartoons',
@@ -119,7 +104,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-indonesian',
+    id: 'indonesian',
     icon: ':lucide-map:',
     title: 'Indonesian',
     details: 'Anime, manga & light novels',
@@ -127,7 +112,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-japanese',
+    id: 'japanese',
     icon: ':lucide-map:',
     title: 'Japanese',
     details: 'Raw manga & direct downloads',
@@ -135,7 +120,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-korean',
+    id: 'korean',
     icon: ':lucide-map:',
     title: 'Korean',
     details: 'Manhwa & anime',
@@ -143,7 +128,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-turkish',
+    id: 'turkish',
     icon: ':lucide-map:',
     title: 'Turkish',
     details: 'Anime & manga',
@@ -151,7 +136,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-vietnamese',
+    id: 'vietnamese',
     icon: ':lucide-map:',
     title: 'Vietnamese',
     details: 'Anime, comics & novels',
@@ -159,15 +144,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-balkan',
-    icon: ':lucide-map:',
-    title: 'Balkan',
-    details: 'Anime, cartoons & manga',
-    link: '/nonen/balkan',
-    section: 'Non-English'
-  },
-  {
-    id: 'nonen-catalan',
+    id: 'catalan',
     icon: ':lucide-map:',
     title: 'Catalan',
     details: 'Anime & manga',
@@ -175,7 +152,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-french',
+    id: 'french',
     icon: ':lucide-map:',
     title: 'French',
     details: 'Anime & manga',
@@ -183,7 +160,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-german',
+    id: 'german',
     icon: ':lucide-map:',
     title: 'German',
     details: 'Anime, manga & communities',
@@ -191,7 +168,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-greek',
+    id: 'greek',
     icon: ':lucide-map:',
     title: 'Greek',
     details: 'Anime',
@@ -199,7 +176,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-hungarian',
+    id: 'hungarian',
     icon: ':lucide-map:',
     title: 'Hungarian',
     details: 'Anime',
@@ -207,7 +184,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-italian',
+    id: 'italian',
     icon: ':lucide-map:',
     title: 'Italian',
     details: 'Anime, manga & info',
@@ -215,7 +192,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-lithuanian',
+    id: 'lithuanian',
     icon: ':lucide-map:',
     title: 'Lithuanian',
     details: 'Anime',
@@ -223,7 +200,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-polish',
+    id: 'polish',
     icon: ':lucide-map:',
     title: 'Polish',
     details: 'Anime & apps',
@@ -231,7 +208,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-portuguese',
+    id: 'portuguese',
     icon: ':lucide-map:',
     title: 'Portuguese',
     details: 'Anime, manga & tokusatsu',
@@ -239,7 +216,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-romanian',
+    id: 'romanian',
     icon: ':lucide-map:',
     title: 'Romanian',
     details: 'Anime',
@@ -247,7 +224,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-russian',
+    id: 'russian',
     icon: ':lucide-map:',
     title: 'Russian',
     details: 'Anime, manga & trackers',
@@ -255,7 +232,15 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-spanish',
+    id: 'serbian',
+    icon: ':lucide-map:',
+    title: 'Serbian',
+    details: 'Anime, cartoons & manga',
+    link: '/nonen/serbian',
+    section: 'Non-English'
+  },
+  {
+    id: 'spanish',
     icon: ':lucide-map:',
     title: 'Spanish',
     details: 'Anime, manga & light novels',
@@ -263,7 +248,7 @@ export const homeCards: HomeCard[] = [
     section: 'Non-English'
   },
   {
-    id: 'nonen-ukrainian',
+    id: 'ukrainian',
     icon: ':lucide-map:',
     title: 'Ukrainian',
     details: 'Anime & manga',
@@ -301,6 +286,14 @@ export const homeCards: HomeCard[] = [
     featured: true
   },
   {
+    id: 'nonen',
+    icon: ':lucide-map:',
+    title: 'Non-English',
+    details: 'Otaku resources for other regions',
+    link: '/nonen',
+    featured: true
+  },
+  {
     id: 'guides',
     icon: ':lucide-book-key:',
     title: 'Guides',
@@ -321,8 +314,7 @@ export const homeCards: HomeCard[] = [
     icon: ':lucide-magnet:',
     title: 'Torrenting',
     details: 'All the basic how-tos about torrenting',
-    link: '/torrenting',
-    featured: true
+    link: '/torrenting'
   },
   {
     id: 'japan',
@@ -774,7 +766,6 @@ export const sidebar: DefaultTheme.Sidebar = [
         items: [
           { text: 'Arabic', link: '/nonen/arabic' },
           { text: 'Chinese', link: '/nonen/chinese' },
-          { text: 'Hebrew', link: '/nonen/hebrew' },
           { text: 'Indian', link: '/nonen/indian' },
           { text: 'Indonesian', link: '/nonen/indonesian' },
           { text: 'Japanese', link: '/nonen/japanese' },
@@ -787,7 +778,6 @@ export const sidebar: DefaultTheme.Sidebar = [
         text: 'Europe',
         collapsed: true,
         items: [
-          { text: 'Balkan', link: '/nonen/balkan' },
           { text: 'Catalan', link: '/nonen/catalan' },
           { text: 'French', link: '/nonen/french' },
           { text: 'German', link: '/nonen/german' },
@@ -799,6 +789,7 @@ export const sidebar: DefaultTheme.Sidebar = [
           { text: 'Portuguese', link: '/nonen/portuguese' },
           { text: 'Romanian', link: '/nonen/romanian' },
           { text: 'Russian', link: '/nonen/russian' },
+          { text: 'Serbian', link: '/nonen/serbian' },
           { text: 'Spanish', link: '/nonen/spanish' },
           { text: 'Ukrainian', link: '/nonen/ukrainian' }
         ]

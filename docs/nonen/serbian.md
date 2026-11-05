@@ -1,6 +1,6 @@
 ---
-title: Balkan
-description: Anime, manga & light novel resources for Balkan
+title: Serbian
+description: Anime, manga & light novel resources for Serbian
 outline: 2
 og:
     image: /embed/nonen.png
@@ -12,7 +12,6 @@ og:
 - [AnimeOverdose](https://www.anime-overdose.com/)
 - [Anime Srbija](https://www.animesrbija.com/)
 - [AniPiece](https://anipiece.net/pocetna)
-- [Ranime](https://ranime.net/)
 
 ## Cartoon
 

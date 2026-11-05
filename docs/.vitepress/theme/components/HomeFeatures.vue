@@ -1,11 +1,12 @@
 <script setup lang="ts">
 import { ArrowLeft } from 'lucide-vue-next'
+import { renderCardIcon } from './link-card/iconMarkup'
 import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import type { HomeCard } from '../../configs/constants'
 
 const props = defineProps<{ cards: HomeCard[] }>()
 
-const STORAGE_KEY = 'wotaku-home-cards-v2'
+const STORAGE_KEY = 'wotaku-home-cards-v3'
 const PREFS_KEY = 'wotaku-home-prefs-v1'
 
 interface CardState {
@@ -72,15 +73,6 @@ const panelGrid = computed(() => {
   if (n > 3) return 'grid-4'
   return undefined
 })
-
-const KNOWN_PREFIXES = /^(lucide|mdi|ic|mingcute|material-symbols|simple-icons|uil|octicon|logos|akar-icons|map|bi|streamline-logos|streamline-ultimate|streamline-sharp|iconoir)-/
-
-function cardIcon(card: HomeCard) {
-  return card.icon.replace(/:([A-Za-z0-9_+-]+):/g, (_, markup) => {
-    const cls = KNOWN_PREFIXES.test(markup) ? markup : `twemoji-${markup}`
-    return `<span class="i-${cls}"></span>`
-  })
-}
 
 /* ── Manager panel ── */
 const panelOpen = ref(false)
@@ -318,7 +310,7 @@ function onHandlePointerUp() {
         >
           <a class="card" :href="card.link">
             <article class="box">
-              <div class="icon" v-html="cardIcon(card)" />
+              <div class="icon" v-html="renderCardIcon(card.icon)" />
               <h2 class="title">{{ card.title }}</h2>
               <p class="details">{{ card.details }}</p>
             </article>
@@ -372,7 +364,7 @@ function onHandlePointerUp() {
                   >
                     <span class="i-lucide-grip-vertical" />
                   </span>
-                  <span class="row-icon" v-html="cardIcon(card)" />
+                  <span class="row-icon" v-html="renderCardIcon(card.icon)" />
                   <span class="row-name">{{ card.title }}</span>
                   <button
                     class="row-toggle active"
@@ -399,7 +391,7 @@ function onHandlePointerUp() {
                     @mouseleave="hideCardTooltip"
                   >
                     <span class="row-handle-spacer" aria-hidden="true" />
-                    <span class="row-icon" v-html="cardIcon(card)" />
+                    <span class="row-icon" v-html="renderCardIcon(card.icon)" />
                     <span class="row-name">{{ card.title }}</span>
                     <button
                       class="row-toggle"
@@ -544,7 +536,7 @@ function onHandlePointerUp() {
         class="drag-ghost"
         :style="{ left: ghostPos.x + 'px', top: ghostPos.y + 'px' }"
       >
-        <span class="row-icon" v-html="cardIcon(cardMap.get(dragging)!)" />
+        <span class="row-icon" v-html="renderCardIcon(cardMap.get(dragging)!.icon)" />
         <span class="drag-ghost-name">{{ cardMap.get(dragging)?.title }}</span>
       </div>
     </Transition>
