@@ -66,6 +66,7 @@ og:
 | **Twitter** | [Twicomi](https://twicomi.com/) :ljp: |
 | ^^ | [Twiman](https://twiman.net/) :ljp: |
 | ^^ | [Buhitter](https://buhitter.com/) :ljp: |
+| ^^ | [Irodori Art Archive](https://irodori-art-archive.com/) :ljp: |
 | **Others** | [bloat.cat](https://bloat.cat/) |
 | ^^ | :prev: [rimgo](https://rimgo.bloat.cat/trending) ||Imgur|| |
 | ^^ | :prev: [Priviblur](https://pb.bloat.cat/explore/trending) ||Tumblr|| |
@@ -74,8 +75,7 @@ og:
 == Others
 | Type | Website |
 | :--- | :--- |
-| **Archive** | [Irodori Art Archive](https://irodori-art-archive.com/) :ljp: |
-| ^^ | [Pawchive](https://pawchive.pw/) |
+| **Archive** | [Pawchive](https://pawchive.pw/) |
 | **Games** | [skowt.cc](https://skowt.cc/) |
 | ^^ | [The Sprite Resources](https://www.spriters-resource.com/) |
 | ^^ | [VGMaps](https://www.vgmaps.com/) [:x:](https://x.com/VGMaps) ||SFW|| |
