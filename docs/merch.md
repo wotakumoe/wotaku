@@ -60,7 +60,6 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 ::: tabs
 
 == Database
-- [Catsuka Shopping](https://www.catsuka.com/shopping/)
 - [Figurapedia](https://figurapedia.com/)
 - [Figure Community](https://figure.community/)
 - [Figure Memo](https://figurememo.com/)
