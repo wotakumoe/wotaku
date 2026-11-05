@@ -1,7 +1,10 @@
 <script setup lang="ts">
+import { renderCardIcon } from './iconMarkup'
+
 const props = defineProps<{
   href: string
   title: string
+  icon?: string
   download?: boolean
 }>()
 </script>
@@ -13,9 +16,17 @@ const props = defineProps<{
     :download="props.download ? '' : undefined"
     class="vp-card"
   >
-    <article class="vp-card-container">
+    <article
+      class="vp-card-container"
+      :class="{ 'vp-card-container--no-details': !$slots.default }"
+    >
+      <div
+        v-if="props.icon"
+        class="vp-card-icon"
+        v-html="renderCardIcon(props.icon)"
+      />
       <h3 class="vp-card-title">{{ props.title }}</h3>
-      <p class="vp-card-details"><slot /></p>
+      <p v-if="$slots.default" class="vp-card-details"><slot /></p>
     </article>
   </a>
 </template>
@@ -44,6 +55,27 @@ const props = defineProps<{
   flex-direction: column;
   padding: 24px;
   height: 100%;
+}
+
+.vp-card-container--no-details {
+  justify-content: center;
+}
+
+.vp-card-container--no-details .vp-card-title {
+  margin-bottom: 0;
+}
+
+.vp-card-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 12px;
+  border-radius: 6px;
+  background-color: var(--vp-c-default-soft);
+  width: 40px;
+  height: 40px;
+  font-size: 22px;
+  transition: background-color 0.25s;
 }
 
 .vp-card-title {

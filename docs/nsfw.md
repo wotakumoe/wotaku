@@ -84,7 +84,7 @@ og:
 | [Toonily](https://toonily.com/) | :yes: | :no: |
 | [ToonTop](https://toontop.io/home) | :no: | :yes: |
 
-<Block link="/nonen#korean" icon="i-bi-box-arrow-up-right">Raw only websites are listed here</Block>
+<Block link="/nonen/korean" icon="i-bi-box-arrow-up-right">Raw only websites are listed here</Block>
 
 == Illustrations
 
@@ -228,7 +228,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | ^^ | [Gravure Princess](https://idol.gravureprincess.date/) |
 | ^^ | [Mabui Onna](https://mabui-onna.com/) |
 | ^^ | [X-IDOL](https://x-idol.net/) ==m:x-idol== |
-| ^^ | :rd: [Japanese DDL](/nonen#direct) |
+| ^^ | :rd: [Japanese DDL](/nonen/japanese#direct) |
 
 == Scripts
 

@@ -120,6 +120,7 @@ const safelist = [
   'i-twemoji-growing-heart',
   'i-twemoji-folded-hands',
   'i-twemoji-glowing-star',
+  'i-twemoji-flag-united-arab-emirates',
   ...Array.from(
     new Set([...Object.values(LANG_FLAG_ICONS), LANG_FLAG_FALLBACK])
   ).map(
