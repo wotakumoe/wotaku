@@ -26,7 +26,6 @@ og:
 
 ## Info
 
-- [AnimeClick](https://www.animeclick.it/)
 - [FansubDB.it](https://fansubdb.it/) [:rss:](https://fansubdb.it/feed)
 
 ## Downloaders
