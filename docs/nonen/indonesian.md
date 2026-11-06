@@ -12,7 +12,8 @@ og:
 
 == Stream
 
-- [Anichin](https://z1.anichin.blog/) ==m:https://anichin.bio==
+- [Anichin](https://anichin.blog/) ==m:https://anichin.bio==
+- [AnimeAct](https://animeact.net/) :acc:
 - [Kuramanime](https://v20.kuramanime.ing/)
 - [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime)
 - [Mynimeku](https://www.mynimeku.com/)
@@ -36,6 +37,7 @@ og:
 
 ## Manga
 
+- [AnimeAct](https://animeact.net/) :acc:
 - [Komik Indo](https://komikindo.ch/)
 - [Komiku](https://komiku.org/)
 - [Mynimeku](https://www.mynimeku.com/)
