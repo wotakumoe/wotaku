@@ -14,7 +14,7 @@ og:
 
 - [AnimeAV1](https://animeav1.com/)
 - [MonosChinos](https://monoschinos.st/)
-- [Ver Anime](https://ww3.animeonline.ninja/inicio/)
+- [Ver Anime](https://ww4.animeonline.ninja/inicio/)
 - [Latanime](https://latanime.org/) ||Dub||
 - [Estrenos Anime](https://estrenosanime.net/home)
 - [JKAnime](https://jkanime.net/)
