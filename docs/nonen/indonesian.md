@@ -15,7 +15,6 @@ og:
 - [Anichin](https://z1.anichin.blog/) ==m:https://anichin.bio==
 - [Kuramanime](https://v20.kuramanime.ing/)
 - [Kiyocomics](https://kiyocomics.netlify.app/) [:src:](https://github.com/Bilhaq12/kiyoanime)
-- [Megaheya](https://mangaheya.net/) :acc:
 - [Mynimeku](https://www.mynimeku.com/)
 - [NekoPoi](https://nekopoi.care/) :ero:
 - [SankanimeID](https://sankanime.web.id/id)
