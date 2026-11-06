@@ -22,7 +22,7 @@ og:
 
 ## Hentai
 
-- [DuaLeoTruyen](https://dualeotruyenqo.com/)
+- [DuaLeoTruyen](https://dualeotruyenjv.com/)
 - [HentaiCube](https://hentaicube.xyz/)
 
 ## Novels
