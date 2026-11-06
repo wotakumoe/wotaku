@@ -201,7 +201,7 @@ og:
 | **Clients** | [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/) :s: | :win::app::lin: |
 | ^^ | [pixes](https://github.com/pixes-app/pixes) | :win::app::lin: |
 | ^^ | [Pixeval](https://pixeval.github.io/) [:src:](https://github.com/Pixeval/Pixeval) | :win: |
-| ^^ | [Pixiv Powerful Viewer](https://github.com/fekoneko/pixiv-powerful-viewer) | :win: |
+| ^^ | [piximan](https://github.com/fekoneko/piximan) | :win: |
 | **Downloaders** | [Cultured Downloader](https://github.com/KJHJason/Cultured-Downloader) | :win::app::lin: |
 | ^^ | [gallery-dl](https://codeberg.org/mikf/gallery-dl) :s: | :win::lin: |
 | ^^ | [Hydrus network](https://hydrusnetwork.github.io/hydrus/) [:src:](https://github.com/hydrusnetwork/hydrus) | :win::app::lin: |

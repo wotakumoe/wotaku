@@ -53,10 +53,6 @@ og:
 - url: https://github.com/saimuelbr/saimuel-nuvio-repo
 - raw: https://raw.githubusercontent.com/saimuelbr/saimuel-nuvio-repo/refs/heads/main/manifest.json
 
-== Spidey
-- url: https://github.com/Abinanthankv/NuvioRepo
-- raw: https://raw.githubusercontent.com/Abinanthankv/NuvioRepo/refs/heads/master/manifest.json
-
 == Turkish Nuvio
 - url: https://github.com/fmustafayaman/turkish-nuvio
 - raw: https://raw.githubusercontent.com/fmustafayaman/turkish-nuvio/main/manifest.json

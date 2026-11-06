@@ -92,7 +92,7 @@ og:
 | ^^           | [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi) :cs: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
 | **MyAnimeList** | [DailyAL](https://github.com/JICA98/DailyAL) |
-| ^^           | [MoeList](https://moelist.net/) [:src:](https://github.com/axiel7/MoeList) |
+| ^^           | [MoeList](https://moelist.net/) [:src:](https://github.com/axiel7/MoeListKMP) |
 | **Others**   | [Kitsune](https://github.com/Drumber/Kitsune) :k: |
 | ^^           | [Nekome](https://github.com/Chesire/Nekome) :k: |
 | ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) |
@@ -316,7 +316,6 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | [Anicon for AniList](https://github.com/EnArvy/AniconforAnilist) | :win: |
 | [AnimeJaNai](https://github.com/the-database/mpv-AnimeJaNai) | :win: |
 | [nativeres](https://github.com/Jaded-Encoding-Thaumaturgy/nativeres) | :py: |
-| [Manami](https://github.com/manami-project/manami) | :win::app::lin: |
 | [Shoko Anime](https://shokoanime.com/) [:src:](https://github.com/ShokoAnime/) | :win::app::lin: |
 
 == Manga
@@ -329,7 +328,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | ^^          | [ComicbookArchiveToolbox](https://degoedel.github.io/ComicbookArchiveToolbox/) [:src:](https://degoedel.github.io/ComicbookArchiveToolbox/) | :win: |
 | **Metadata**  | [ComicTagger](https://github.com/comictagger/comictagger) | :win::app::lin: |
 | ^^          | [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager) | :win::app::lin: |
-| **Cover**     | [DarkThumbs](https://github.com/fire-eggs/DarkThumbs) | :win: |
+| **Cover**     | [SageThumbs 2K](https://github.com/LunarWerxs/SageThumbs-2k) | :win: |
 | ^^          | [Icaros](https://github.com/Xanashi/Icaros) :cs: | :win: |
 | **Others**    | [MangaJaNai](https://github.com/the-database/MangaJaNai) | :win: |
 | ^^            | [MangaJaNai Converter GUI](https://github.com/the-database/MangaJaNaiConverterGui) | :win: |
@@ -422,8 +421,7 @@ You can use [qBittorrent](https://www.qbittorrent.org/) to stream a video you're
 | Category   | Tools |
 |----------- |--------------|
 | **General**    | [MAL-Sync](https://github.com/MALSync/MALSync) |
-| **Jellyfin** | [Jellyfin-RPC](https://github.com/JustRadical/jellyfin-rpc) |
-| ^^         | [Jellyfin MAL Metadata Plugin](https://github.com/ryandash/jellyfin-plugin-myanimelist) |
+| **Jellyfin** | [Jellyfin MAL Metadata Plugin](https://github.com/ryandash/jellyfin-plugin-myanimelist) |
 | ^^         | [Jellyfin shikimori plugin](https://github.com/te9c/jellyfin-plugin-shikimori) |
 | **Kavita** | [komf](https://github.com/Snd-R/komf) [:js:](https://github.com/Snd-R/komf-userscript) |
 | **Komga**| [komf](https://github.com/Snd-R/komf) [:js:](https://github.com/Snd-R/komf-userscript)  |

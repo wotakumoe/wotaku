@@ -151,7 +151,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 - [JHenTai](https://github.com/jiangtian616/JHenTai) :win::app::lin:
 - [Jasmine](https://github.com/ComicSparks/jasmine) :win::app::lin:
 - [Konomi Viewer](https://konomiviewer.com/) :win::app::lin:
-- [Javinizer](https://github.com/javinizer/Javinizer) :win::app::lin:
+- [Javinizer Go](https://github.com/javinizer/javinizer-go) :win::app::lin:
 
 == Downloader
 | Website  | Downloader | Platform |
@@ -162,7 +162,6 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 |    ^^    | [doujinshi-dl](https://github.com/RicterZ/doujinshi-dl) | :py::dock: |
 | **E-Hentai**    | [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader) | :js: |
 | **nHentai** | [nHentai Archivist](https://github.com/9-FS/nhentai_archivist) | :win::lin::dock: |
-|     ^^   | [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader) | :cr::ff: |
 
 
 == Games
@@ -203,7 +202,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | Category | Websites |
 |-|-|
 | **Database** | [DOJINDB](https://dojindb.net/) :ljp: |
-| ^^ | [Doujinshi.info](https://www.doujinshi.info/) [:src:](https://github.com/doujinshi-info/frontend-nuxt) |
+| ^^ | [Doujinshi.info](https://www.doujinshi.info/) |
 | ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :s::ljp: |
 | **Info** | [Fapservice](https://fapservice.com/) |
 | ^^   | [PornhwaDB](https://pornhwadb.com/) |

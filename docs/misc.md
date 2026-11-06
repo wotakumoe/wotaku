@@ -395,8 +395,7 @@ outline: 2
 | ^^        | [MAL Badges](https://www.mal-badges.com/) | :mal: |  
 | **Tools** | [AniCheck](https://anicheck.moe/) [:src:](https://github.com/gubo97000/aniCheck) | :al: |
 | ^^        | [AniListDiff](https://animelistdiff.zerolabs.fyi/) | :mal::al: |
-| ^^        | [AniTools](https://anitools.koopz.rocks/) | :al: |  
-| ^^        | [aniTrakt](https://anitrakt.huere.net/) [:src:](https://github.com/rensetsu/db.trakt.anitrakt) | :mal: |  
+| ^^        | [AniTools](https://anitools.koopz.rocks/) | :al: |
 | ^^        | [MAL Exporter](https://malscraper.azurewebsites.net/) | :mal::al::k: |  
 
 

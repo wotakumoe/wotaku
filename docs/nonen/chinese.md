@@ -77,7 +77,6 @@ og:
 
 == Anime
 
-- [AGETV](https://github.com/muedsa/AGETV)
 - [Ani](https://github.com/open-ani/animeko)
 - [Anime](https://github.com/lanlinju/Animius)
 - [Animeko](https://myani.org/) [:src:](https://github.com/open-ani/animeko/)
@@ -87,6 +86,7 @@ og:
 - [Miru App](https://miru.js.org/) ||Manga||
 - [Neko Anime](https://github.com/xioneko/neko-anime)
 - [oneAnime](https://github.com/Predidit/oneAnime)
+- [TvBox](https://github.com/muedsa/TvBox)
 
 == Manga
 
@@ -94,11 +94,9 @@ og:
 - [Copymanga](https://github.com/fumiama/copymanga/)
 - [kobi](https://github.com/niuhuan/kobi)
 - [MangaReader](https://github.com/youniaogu/MangaReader)
-- [Venra](https://github.com/venera-app/venera)
 
 == Novels
 
-- [Hikari Novel](https://github.com/15dd/wenku8reader)
 - [Legado MD3](https://github.com/HapeLee/legado-with-MD3)
 - [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader)
 
@@ -124,7 +122,6 @@ og:
 == Manga
 
 - [Miru App](https://miru.js.org/) [:src:](https://github.com/miru-project/miru-app)
-- [Venra](https://github.com/venera-app/venera)
 - [Bilibili Manga Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader)
 - [Bilibili Manga Watermark Remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover)
 

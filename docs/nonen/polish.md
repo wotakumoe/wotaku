@@ -11,14 +11,13 @@ og:
 - [Animesub](http://animesub.info/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) [:src:](https://github.com/docchipl/shinden-description)
+- [Docchi](https://docchi.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Grupa Mirai](https://www.grupa-mirai.pl/)
 - [Lycoris](https://www.lycoris.cafe/)
 - [NanaSubs](https://nanasubs.com.pl/)
 - [Oglądaj Anime](https://ogladajanime.pl/)
 - [Shinden](https://shinden.pl/main)
-- :prev: [Shinden client](https://github.com/Tsugumik/shinden-client)
 
 ## Software
 

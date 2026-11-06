@@ -251,8 +251,8 @@ og:
 | **Request** | [Ombi](https://ombi.io/) [:src:](https://github.com/Ombi-app/Ombi) |
 | ^^ | [Serr](https://seerr.dev/) [:src:](https://github.com/seerr-team/seerr) |
 | **Others** | [Bazarr](https://www.bazarr.media/) ||Subtitle|| [:src:](https://github.com/morpheus65535/bazarr) |
-| ^^ | [Doplarr](https://github.com/activexray/Doplarr) ||Discord|| |
-| ^^ | [homarr](https://homarr.dev/) ||Dashboard|| [:src:](https://github.com/ajnart/homarr) |
+| ^^ | [Doplarr](https://github.com/activexray/doplarr_rs) ||Discord|| |
+| ^^ | [homarr](https://homarr.dev/) ||Dashboard|| [:src:](https://github.com/homarr-labs/homarr) |
 | ^^ | [Maintainerr](https://maintainerr.info/) ||Storage|| [:src:](https://github.com/Maintainerr/Maintainerr) |
 | ^^ | [requestrr](https://github.com/thomst08/requestrr) ||Discord|| |
 | ^^ | [Tdarr](https://home.tdarr.io/) ||Transcoding|| [:src:](https://github.com/morpheus65535/bazarr) |

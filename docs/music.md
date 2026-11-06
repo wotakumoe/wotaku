@@ -605,7 +605,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 - [bonob](https://github.com/simojenki/bonob) ||Sonos||
 - [AskSonic](https://github.com/srichter/asksonic) ||Alexa||
 - [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic)
-- [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome)
 - [HTTPDirFS](https://github.com/fangfufu/httpdirfs)
 - [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html) <tooltip>Expose Navidrome as a UPnP/DLNA media library. Read the [discussion](https://github.com/navidrome/navidrome/discussions/2324)</tooltip>
 
