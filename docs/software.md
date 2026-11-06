@@ -143,7 +143,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
-| ^^ | [Mana]((https://discord.com/invite/UPDd53D8un)) :cs: [:tf:](https://testflight.apple.com/join/x2nujKx9) [:e:](/ext/mana) |
+| ^^ | [Mana](https://discord.com/invite/UPDd53D8un) :cs: [:tf:](https://testflight.apple.com/join/x2nujKx9) [:e:](/ext/mana) |
 | ^^ | [Paperback](https://paperback.moe/) :cs::sub: [:e:](/ext/paperback) |
 | ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) |
@@ -159,7 +159,7 @@ Check out [**CFW**](https://ios.cfw.guide/), [**JCoinx**](https://jcionx.dev/ios
 | Category | Apps |
 | :--- | :--- |
 | **Online** | [Aidoku](https://aidoku.app/) [:src:](https://github.com/Aidoku/Aidoku) [:e:](/ext/aidoku) |
-| ^^ | [Mana]((https://discord.com/invite/UPDd53D8un)) :cs: [:tf:](https://testflight.apple.com/join/x2nujKx9) [:e:](/ext/mana) |
+| ^^ | [Mana](https://discord.com/invite/UPDd53D8un) :cs: [:tf:](https://testflight.apple.com/join/x2nujKx9) [:e:](/ext/mana) |
 | ^^ | [Paperback](https://paperback.moe/) :cs::sub: [:e:](/ext/paperback) <tooltip>Only v0.9 supports novels</tooltip>  |
 | ^^ | [Suwatte](https://suwatte.app/) :cs: [:e:](/ext/suwatte) |
 | ^^ | [AnymeX](https://anymex.vercel.app/) [:src:](https://github.com/RyanYuuki/AnymeX) [:e:](/ext/) |
