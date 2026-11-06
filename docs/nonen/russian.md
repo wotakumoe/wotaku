@@ -45,29 +45,27 @@ og:
 
 ## Software
 
-### Android
+::: tabs
 
-| Category | Resources |
-|----------|-----------|
-| **Anime** | [ShiraBox](https://github.com/urFate/shirabox-app) |
-| ^^       | [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch) |
-| ^^       | [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) |
-| **Manga** | [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber) |
+== Android
 
-### PC
+- [ShiraBox](https://github.com/urFate/shirabox-app)
+- [ShikiWatch](https://github.com/wheremyfiji/ShikiWatch)
+- [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt)
+- [Manga Grabber](https://github.com/lirix360/ReadmangaGrabber)
 
-| Category | Resources |
-|----------|-----------|
-| **General** | [Nlight](https://github.com/brandonzorn/Nlight) |
-| **Anime** | [Aniship](https://github.com/progzone122/AniShip) :strm: |
-| ^^       | [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) :strm: |
-| **Script** | [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) |
-| ^^       | [Shiki Rating](https://github.com/ImoutoChan/shiki-rating-userscript) |
-| **Extension** | [Shikimorist](https://github.com/Hokid/shikimorist) :cr: |
+== PC
 
-## Others
+- [Nlight](https://github.com/brandonzorn/Nlight)
+- [AndLibria.Qt](https://github.com/anilibria/anilibria-winmaclinux) :strm:
+- [Shiki Rating](https://github.com/ImoutoChan/shiki-rating-userscript)
 
-| Category | Resources |
-|-|-|
-| **Tracker** | [Shikimori](https://shikimori.io/) :acc: |
-| ^^ | [Shiki RIP](https://shikimori.rip/) :acc: |
+
+== Others
+
+- [Shikimori](https://shikimori.io/) :acc:
+- [Shikimorist](https://github.com/Hokid/shikimorist) :cr:
+- [Shiki RIP](https://shikimori.rip/) :acc:
+- [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori)
+
+:::

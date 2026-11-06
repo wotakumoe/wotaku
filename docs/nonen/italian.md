@@ -30,8 +30,6 @@ og:
 
 ## Downloaders
 
-| Category | Resources |
-|----------|-----------|
-| **Anime** | [Anime-dl](https://github.com/gabelluardo/anime-dl) |
-| ^^        | [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) |
-| ^^        | [zDownloader-chan](https://github.com/zGenny/zDownloader-chan) |
+- [Anime-dl](https://github.com/gabelluardo/anime-dl)
+- [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+- [zDownloader-chan](https://github.com/zGenny/zDownloader-chan)
