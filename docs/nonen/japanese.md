@@ -27,7 +27,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | [Manga Raw (.sc)](https://mangaraw.sc/) ==m:mangarawspoil== | ==l:mangarawlc== |
 | [RAW 1001](https://raw1001.net/home) ==m:raw1001== | ==l:raw1001== |
 | [Rawkuma](https://rawkuma.net/) | ==l:rawkuma== |
-| [Raw FREE](https://rawfree.gives/) | ==l:rawfree== |
+| [Raw FREE](https://rawfree.loan/) | ==l:rawfree== |
 | [RAW LAZY](https://rawlazy.io/) | ==l:rawlazy== |
 | [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.golf/home/) | ==l:rawotaku== |
 | [RawUwU](https://rawuwu.net/) ==m:rawuwu== | ==l:rawuwu== |
