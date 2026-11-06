@@ -28,9 +28,10 @@ og:
 - [Manga Passion](https://www.manga-passion.de/)
 - [The Incomplete Manga-Guide](https://mangaguide.de/)
 
-## Software
+## Trackers
 
-- [Anime/Series Scraper](https://github.com/wolfswolke/aniworld_scraper)
+- [AnimeWorld](https://animeworld.cx/) ||Private||
+- [RocketHD](https://rocket-hd.cc/) ||Private||
 
 ## Communities
 
