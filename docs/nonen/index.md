@@ -17,13 +17,13 @@ og:
 
 ## Global
 
-<Deck>
+<Deck mini>
   <Card title="Multilingual" href="/nonen/multilingual" icon=":twemoji-globe-showing-asia-australia:" />
 </Deck>
 
 ## Asia
 
-<Deck>
+<Deck mini>
   <Card title="Arabic" href="/nonen/arabic" icon=":twemoji-flag-united-arab-emirates:" />
   <Card title="Chinese" href="/nonen/chinese" icon=":twemoji-flag-china:" />
   <Card title="Indian" href="/nonen/indian" icon=":twemoji-flag-india:" />
@@ -36,7 +36,7 @@ og:
 
 ## Europe
 
-<Deck>
+<Deck mini>
   <Card title="Catalan" href="/nonen/catalan" icon=":twemoji-flag-spain:" />
   <Card title="French" href="/nonen/french" icon=":twemoji-flag-france:" />
   <Card title="German" href="/nonen/german" icon=":twemoji-flag-germany:" />

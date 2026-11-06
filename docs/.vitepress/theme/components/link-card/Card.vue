@@ -1,12 +1,23 @@
 <script setup lang="ts">
+import { computed, inject, ref } from 'vue'
+import { DECK_MINI_KEY } from './deck'
 import { renderCardIcon } from './iconMarkup'
 
-const props = defineProps<{
-  href: string
-  title: string
-  icon?: string
-  download?: boolean
-}>()
+const props = withDefaults(
+  defineProps<{
+    href: string
+    title: string
+    icon?: string
+    download?: boolean
+    mini?: boolean
+  }>(),
+  {
+    mini: undefined
+  }
+)
+
+const deckMini = inject(DECK_MINI_KEY, ref(false))
+const isMini = computed(() => props.mini ?? deckMini.value)
 </script>
 
 <template>
@@ -15,10 +26,14 @@ const props = defineProps<{
     :href="props.href"
     :download="props.download ? '' : undefined"
     class="vp-card"
+    :class="{ 'vp-card--mini': isMini }"
   >
     <article
       class="vp-card-container"
-      :class="{ 'vp-card-container--no-details': !$slots.default }"
+      :class="{
+        'vp-card-container--no-details': !$slots.default,
+        'vp-card-container--mini': isMini
+      }"
     >
       <div
         v-if="props.icon"
@@ -95,5 +110,34 @@ const props = defineProps<{
   font-size: 14px;
   font-weight: 500;
   color: var(--vp-c-text-2);
+}
+
+.vp-card-container--mini {
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+}
+
+.vp-card-container--mini.vp-card-container--no-details {
+  justify-content: flex-start;
+}
+
+.vp-card--mini .vp-card-icon {
+  width: 32px;
+  height: 32px;
+  margin-bottom: 0;
+  font-size: 18px;
+  flex-shrink: 0;
+}
+
+.vp-card--mini .vp-card-title {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+.vp-card--mini .vp-card-details {
+  display: none;
 }
 </style>
