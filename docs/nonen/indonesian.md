@@ -38,7 +38,6 @@ og:
 
 - [Komik Indo](https://komikindo.ch/)
 - [Komiku](https://komiku.org/)
-- [Megaheya](https://mangaheya.net/) :acc:
 - [Mynimeku](https://www.mynimeku.com/)
 - [Softkomik](https://softkomik.app/)
 - [YuuManga](https://yuumanga.blogspot.com/)
