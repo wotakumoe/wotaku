@@ -37,7 +37,7 @@ og:
 
 ## Manga
 
-- [AnimeAct](https://animeact.net/) :acc:
+- [AnimeAct](https://animeact.net/manga) :acc:
 - [Komik Indo](https://komikindo.ch/)
 - [Komiku](https://komiku.org/)
 - [Mynimeku](https://www.mynimeku.com/)
