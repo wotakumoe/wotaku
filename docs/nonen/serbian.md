@@ -13,9 +13,10 @@ og:
 - [Anime Srbija](https://www.animesrbija.com/)
 - [AniPiece](https://anipiece.net/pocetna)
 
-## Cartoon
+## Cartoons
 
-- [Gledaj Crtaće](https://www.gledajcrtace.rs/)
+- [Gledaj Crtaće (.org)](https://gledajcrtace.org/)
+- [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/)
 
 ## Manga
 
