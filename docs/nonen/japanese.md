@@ -14,7 +14,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Websites | Library ==Library== |
 |----------|---------------------|
-| [Dokiraw](https://dokiraw.pink/) | ==l:dokiraw== |
+| [Dokiraw](https://dokiraw.quest/) | ==l:dokiraw== |
 | [Free PDF Library](https://pdftoshokan.com/) | ==l:pdftoshokan== |
 | [Hachiraw](https://hachiraw.net/) | ==l:hachiraw== |
 | [KL Manga](https://old.klz9.com/) ==m:kl-manga== | ==l:klmanga== |
@@ -22,7 +22,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 <more>
 
-| [Manga Raw (.ad)](https://mangarawad.click/) | ==l:mangarawad== |
+| [Manga Raw (.ad)](https://mangarawad.site/) | ==l:mangarawad== |
 | [Manga Raw (.best)](https://mangaraw.best/) | ==l:mangarawbest== |
 | [Manga Raw (.sc)](https://mangaraw.sc/) ==m:mangarawspoil== | ==l:mangarawlc== |
 | [RAW 1001](https://raw1001.net/home) ==m:raw1001== | ==l:raw1001== |
