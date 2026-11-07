@@ -62,11 +62,11 @@ og:
   <Card title="Paperback" href="/ext/paperback" icon="/ext/icons/paperback.avif">
     Manga & Novels
   </Card>
-  <Card title="Suwatte" href="/ext/suwatte" icon="/ext/icons/suwatte.avif">
-    Manga & Novels
-  </Card>
   <Card title="Sora" href="/ext/sora" icon="/ext/icons/sora.avif">
     Anime, Manga, Novels & Live Action
+  </Card>
+  <Card title="Suwatte" href="/ext/suwatte" icon="/ext/icons/suwatte.avif">
+    Manga & Novels
   </Card>
 </Deck>
 
