@@ -110,7 +110,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [cyan-dl](https://cyan-dl.pages.dev/) | **Amazon** |
 | [am-dl](https://am-dl.pages.dev/) ==am-dl== | **Apple** |
 | [Rhythmax](https://saavn.odskyler.com/) [:src:](https://github.com/ODSkyler/saavn-dl) | **JioSaavn** |
-| [Arcod](https://www.arcod.xyz/) :acc: | **Qobuz** |
+| [Arcod](https://www.arcod.xyz/) :acc: [:src:](https://github.com/fufu-noir/arcod) | **Qobuz** |
 | [Rhythmax](https://tidal.odskyler.com/) [:src:](https://github.com/ODSkyler/tidal-proxy) | **Tidal** |
 
 == Doujin
