@@ -14,6 +14,11 @@ og:
 - src: https://github.com/inkdex/extensions
 - raw: https://inkdex.github.io/extensions/0.9/stable/versioning.json
 
+== Corruptbytes
+- url: https://michaelasper.github.io/paperback-corruptbytes/
+- src: https://github.com/michaelasper/paperback-corruptbytes
+- raw: https://michaelasper.github.io/paperback-corruptbytes/versioning.json
+
 == Hammy
 - url: https://pisshammy.github.io/HammyExtensions/
 - src: https://github.com/pisshammy/HammyExtensions
@@ -28,6 +33,11 @@ og:
 - url: https://kittycatgit.github.io/kitty-extensions-0.9/
 - src: https://github.com/kittycatgit/kitty-extensions-0.9
 - raw: https://kittycatgit.github.io/kitty-extensions-0.9/versioning.json
+
+== Kodama
+- url: https://itskodama.github.io/paperback-extensions/0.9/stable/
+- src: https://github.com/itskodama/paperback-extensions
+- raw: https://itskodama.github.io/paperback-extensions/0.9/stable/versioning.json
 
 == Lucifer
 - url: https://read.pirate.vodka/
@@ -98,6 +108,16 @@ og:
 - url: https://shadorig.github.io/real-extensions/sources/
 - src: https://github.com/shadorig/real-extensions
 - raw: https://shadorig.github.io/real-extensions/sources/versioning.json
+
+== Netsky
+- url: https://thenetsky.github.io/community-extensions/0.8/
+- src: https://github.com/TheNetsky/community-extensions
+- raw: https://thenetsky.github.io/community-extensions/0.8/versioning.json
+
+== Ryukajinokami
+- url: https://ryukajinokami.github.io/paperback-extensions/
+- src: https://github.com/ryukajinokami/paperback-extensions
+- raw: https://ryukajinokami.github.io/paperback-extensions/versioning.json
 :::
 
 ::: warning Compatibility
