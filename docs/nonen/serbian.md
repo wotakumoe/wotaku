@@ -15,8 +15,7 @@ og:
 
 ## Cartoons
 
-- [Gledaj Crtaće (.org)](https://gledajcrtace.org/)
-- [Gledaj Crtaće (.rs)](https://www.gledajcrtace.rs/)
+- [Gledaj Crtaće](https://www.gledajcrtace.rs/)
 
 ## Manga
 
