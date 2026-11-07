@@ -107,6 +107,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [Antra](https://antra.hoshi.cfd/) :acc: [:src:](https://github.com/anandprtp/Antra) | **Multiple** |
 | [DoubleDouble](https://doubledouble.top/) | ^^ |
 | [Lucida](https://lucida.to/) | ^^ |
+| [cyan-dl](https://cyan-dl.pages.dev/) | **Amazon** |
 | [am-dl](https://am-dl.pages.dev/) ==am-dl== | **Apple** |
 | [Rhythmax](https://saavn.odskyler.com/) [:src:](https://github.com/ODSkyler/saavn-dl) | **JioSaavn** |
 | [Arcod](https://www.arcod.xyz/) :acc: | **Qobuz** |
