@@ -18,6 +18,13 @@ const props = withDefaults(
 
 const deckMini = inject(DECK_MINI_KEY, ref(false))
 const isMini = computed(() => props.mini ?? deckMini.value)
+
+const isImageIcon = computed(() => {
+  const icon = props.icon
+  if (!icon) return false
+  return icon.startsWith('/') || icon.startsWith('http') ||
+    icon.startsWith('data:')
+})
 </script>
 
 <template>
@@ -38,8 +45,17 @@ const isMini = computed(() => props.mini ?? deckMini.value)
       <div
         v-if="props.icon"
         class="vp-card-icon"
-        v-html="renderCardIcon(props.icon)"
-      />
+      >
+        <img
+          v-if="isImageIcon"
+          class="vp-card-icon-img no-zoom"
+          :src="props.icon"
+          alt=""
+          loading="lazy"
+          decoding="async"
+        />
+        <span v-else v-html="renderCardIcon(props.icon)" />
+      </div>
       <h3 class="vp-card-title">{{ props.title }}</h3>
       <p v-if="$slots.default" class="vp-card-details"><slot /></p>
     </article>
@@ -86,11 +102,19 @@ const isMini = computed(() => props.mini ?? deckMini.value)
   align-items: center;
   margin-bottom: 12px;
   border-radius: 6px;
+  overflow: hidden;
   background-color: var(--vp-c-default-soft);
   width: 40px;
   height: 40px;
   font-size: 22px;
   transition: background-color 0.25s;
+}
+
+.vp-card-icon-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .vp-card-title {
