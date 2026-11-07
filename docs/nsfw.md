@@ -244,7 +244,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | **ExHentai** | [E(x)-Hentai Tags Preview](https://github.com/fp555/exh-tags-preview) |
 | ^^ | [ExResurrect](https://sleazyfork.org/en/scripts/411277-exresurrect) |
 | ^^ | [Let's panda!](https://sleazyfork.org/en/scripts/33979-let-s-panda) |
-| **nHentai** | [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) [:src:](https://github.com/Tsuk1ko/nhentai-helper) |
+| **nHentai** | [nhentai helper](https://sleazyfork.org/en/scripts/375992-nhentai-helper) |
 | ^^ | [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa) |
 | ^^ | [Nhentai Manga Loader](https://github.com/longkidkoolstar/Nhentai-Manga-Loader) |
 
