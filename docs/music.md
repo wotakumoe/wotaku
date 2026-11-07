@@ -111,7 +111,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [am-dl](https://am-dl.pages.dev/) ==am-dl== | **Apple** |
 | [Rhythmax](https://saavn.odskyler.com/) [:src:](https://github.com/ODSkyler/saavn-dl) | **JioSaavn** |
 | [Arcod](https://www.arcod.xyz/) :acc: | **Qobuz** |
-| [Jumo-DL](https://jumo-dl.pages.dev/) | ^^ |
 | [Rhythmax](https://tidal.odskyler.com/) [:src:](https://github.com/ODSkyler/tidal-proxy) | **Tidal** |
 
 == Doujin
