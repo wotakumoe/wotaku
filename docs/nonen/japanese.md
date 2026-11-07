@@ -29,7 +29,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 | [Rawkuma](https://rawkuma.net/) | ==l:rawkuma== |
 | [Raw FREE](https://rawfree.loan/) | ==l:rawfree== |
 | [RAW LAZY](https://rawlazy.io/) | ==l:rawlazy== |
-| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.golf/home/) | ==l:rawotaku== |
+| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.cloud/home/) | ==l:rawotaku== |
 | [RawUwU](https://rawuwu.net/) ==m:rawuwu== | ==l:rawuwu== |
 | [Soraraw](https://soraraw.com/) | ==l:soraraw== |
 
