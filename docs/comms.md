@@ -109,6 +109,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [DoujinStyle](https://discord.gg/z2QDFdA)
 - [Lucida](https://discord.gg/dXEGRWqEbS)
 - [MikuDB](https://discord.gg/w9Dq25n)
+- [Qobuz-DL](https://discord.gg/rhUUKQagjA)
 - [Rhythmax](https://discord.gg/PAKgD6Jhfm)
 - [Sitting on Clouds](https://discord.gg/x23SFbE)
 - [UtaTime](https://discord.gg/8dspgw2pBX)
