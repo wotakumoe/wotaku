@@ -996,6 +996,16 @@ table tbody th[rowspan] {
     /* Doc layout */
     & > .wrapper > .container > .content > .content-body {
       @apply bg-transparent gap-0;
+
+      pointer-events: none;
+
+      & > *:not(.VPNavBarSearch) {
+        pointer-events: auto;
+      }
+    }
+
+    & > .wrapper > .container > .content > .content-body > .VPNavBarSearch {
+      pointer-events: none;
     }
 
     & > .divider {
