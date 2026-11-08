@@ -89,7 +89,6 @@ og:
 | [Internet Download Manager](https://www.internetdownloadmanager.com/) | :win: | :yes: | :no: | :no: |
 | [JDownloader](https://jdownloader.org/) | :win::app::lin: | :yes: | :no: | :no: |
 | [qBittorrent](https://www.qbittorrent.org/) [:alt:](https://qbittorrent.github.io/qBittorrent-website/) [:src:](https://github.com/qbittorrent/qBittorrent/) | :win::app::lin: | :no: | :yes: | :yes: |
-| [Rayburst](https://rayburst.pages.dev/) [:src:](https://github.com/AnInsomniacy/rayburst) | :win::app::lin: | :yes: | :yes: | :yes: |
 | [Transmission](https://transmissionbt.com/) [:src:](https://github.com/transmission/transmission) | :win::app::lin: | :no: | :yes: | :yes: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | :win::app::lin::cmd: | :yes: | :no: | :yes: |
 
