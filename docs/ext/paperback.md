@@ -30,9 +30,9 @@ og:
 - raw: https://karrot0.github.io/KakarotExtension/0.9/stable/versioning.json
 
 == Kitty
-- url: https://kittycatgit.github.io/kitty-extensions-0.9/
+- url: https://paperback.samipmainali.dev/kitty/
 - src: https://github.com/kittycatgit/kitty-extensions-0.9
-- raw: https://kittycatgit.github.io/kitty-extensions-0.9/versioning.json
+- raw: https://paperback.samipmainali.dev/kitty/versioning.json
 
 == Kodama
 - url: https://itskodama.github.io/paperback-extensions/0.9/stable/
