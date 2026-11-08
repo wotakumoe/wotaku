@@ -23,7 +23,6 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [Moriya Shrine](https://moriyashrine.org/) ||Touhou||
 
 == Manga & Novels
-- [Fuwanovel](https://forums.fuwanovel.moe/)
 - [J-Novel Club](https://forums.j-novel.club/)
 - [MangaHelpers](https://mangahelpers.com/forum/)
 
@@ -35,6 +34,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Games
 - [Bulbagarden](https://bulbagarden.net/forums/)
+- [Fuwanovel](https://forums.fuwanovel.moe/)
 - [RetroGameTalk](https://retrogametalk.com/forums/)
 - [The VG Resource](https://www.vg-resource.com/)
 - [YGOPro Deck](https://ygoprodeck.com/forum/)
@@ -116,6 +116,7 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 
 == Games
 - [DigimonBasic](https://discord.gg/B3RXtnXRSG)
+- [Fuwanovel](https://discord.gg/F79q4dp)
 - [Nikke](https://discord.gg/nikke-en)
 - [Privateersclub](https://discord.gg/jz8dUnnD6Q)
 - [r/Pokémon](https://discord.gg/pokemon)
