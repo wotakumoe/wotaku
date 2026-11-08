@@ -42,6 +42,7 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 == News
 - [4Gamer](https://www.4gamer.net/) :ljp:
 - [Famitsu](https://www.famitsu.com/) :ljp:
+- [Fuwanovel](https://fuwanovel.moe/)
 - [Frontline](https://www.frontlinejp.net/)
 - [GachaRevenue](https://revenue.ennead.cc/)
 - [Gematsu](https://www.gematsu.com/)
