@@ -896,13 +896,19 @@ table tbody th[rowspan] {
 .VPLocalNav {
   @apply bg-transparent! border-0!;
 
+  pointer-events: none;
+
   & > .container {
     @apply relative flex bg-transparent mx-auto px-4 sm:px-6 md:px-0 lg:px-0
       py-0 mt-2;
     max-width: 688px;
 
+    pointer-events: none;
+
     & > .menu {
       @apply p-0;
+
+      pointer-events: auto;
     }
 
     & > .menu,
@@ -913,6 +919,8 @@ table tbody th[rowspan] {
 
     & > .VPLocalNavOutlineDropdown {
       @apply p-0 ml-auto;
+
+      pointer-events: auto;
 
       & > .items {
         @apply top-10 right-4 md:right-0 max-w-[calc(100%-32px)] sm:max-w-sm
@@ -1002,10 +1010,10 @@ table tbody th[rowspan] {
       & > *:not(.VPNavBarSearch) {
         pointer-events: auto;
       }
-    }
 
-    & > .wrapper > .container > .content > .content-body > .VPNavBarSearch {
-      pointer-events: none;
+      & > .VPNavBarSearch {
+        pointer-events: none;
+      }
     }
 
     & > .divider {
@@ -1455,6 +1463,8 @@ table tbody th[rowspan] {
 // Search lives in the nav pill, which now shows on phones too.
 #local-search {
   @apply hidden!;
+
+  pointer-events: auto;
 }
 
 // Nav list is empty and settings live in the pill's gear (which opens its own
