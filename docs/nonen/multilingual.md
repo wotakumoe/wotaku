@@ -8,16 +8,16 @@ og:
 
 ## Anime
 
-| Websites | Library ==Library== | Login | Tracking |
-|----------|---------------------|-------|----------|
-| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :yes: | :sync::ie: |
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :yes: | :sync::ie::msync: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: |
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: |
-| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: |
-| [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: |
-| [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: |
-| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: |
+| Websites | Library ==Library== | Tracking | Login | Sub/Dub | Social |
+|----------|---------------------|----------|-------|---------|--------|
+| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :sync::ie: | :yes: | :cc::oc::mdub: | :cmnt::frm: |
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :sync::ie::msync: | :yes: | :cc: | :cmnt::frm: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :msync: | :yes: | :cc::mdub: | :no: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :sync::ie::msync: | :yes: | :cc::mdub: | :cmnt: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :no: | :yes: | :cc::oc: | :cmnt::frm: |
+| [AniZone](https://anizone.to/) | ==l:anizone== | :msync: | :no: | :cc::mdub: | :no: |
+| [anv](https://anv.to/) | ==l:anv== | :sync: | :yes: | :cc: | :cmnt::frm: |
+| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :msync: | :yes: | :cc::mdub: | :cmnt: |
 
 ::: tip Torrents
 Multi-sub/dub release groups include [**Erai-raws**](https://nyaa.si/user/Erai-raws), [**ToonsHub**](https://www.toonshub.my.id/) & [**Varyg**](https://nyaa.si/user/varyg1001).
