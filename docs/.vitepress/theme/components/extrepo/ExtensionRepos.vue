@@ -222,6 +222,16 @@ const searchPlaceholder = computed(() => {
       <div class="ext-search">
         <span class="i-lucide:search" />
         <input v-model="query" type="text" :placeholder="searchPlaceholder" />
+        <button
+          type="button"
+          class="ext-search-clear"
+          :disabled="!query"
+          title="Clear search"
+          aria-label="Clear search"
+          @click="query = ''"
+        >
+          <span class="i-lucide:x" />
+        </button>
       </div>
       <button
         type="button"
@@ -323,6 +333,39 @@ const searchPlaceholder = computed(() => {
 }
 .ext-search > span {
   flex-shrink: 0;
+}
+.ext-search-clear {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  color: var(--vp-c-text-1);
+  opacity: 0.55;
+  cursor: pointer;
+  transition: opacity 0.25s, transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.ext-search-clear:hover:not(:disabled) {
+  opacity: 1;
+}
+.ext-search-clear:disabled {
+  opacity: 0.37;
+  cursor: default;
+}
+.ext-search-clear:not(:disabled):active {
+  transform: scale(0.94);
+}
+.ext-search-clear span {
+  font-size: 18px;
+}
+html.effects-disabled .ext-search-clear {
+  transition: none;
+}
+html.effects-disabled .ext-search-clear:active {
+  transform: none;
 }
 .ext-status-btn {
   display: flex;
