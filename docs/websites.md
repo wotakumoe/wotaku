@@ -26,14 +26,13 @@ outline: 2
 | [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :yes: | :sync::ie: | :cc::oc: |
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :yes: | :sync::ie::msync: | :cc: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: |  :cc: |
-| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: | :cc::oc: |
 | [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :yes: | :msync: | :oc: |
 
 <more>
 
-| [AniHQ](https://anihq.cc/home/) | ==l:anihq== | :yes: | :no: | :oc: |
-| [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :no: | :msync: | :oc: |
 | [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: | :cc: |
+| [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :no: | :msync: | :oc: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: | :cc::oc: |
 | [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: | :cc: |
 | [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: | :cc: |
 | [Gotaku](https://gotaku.to/) | ==l:gotaku== | :yes: | :sync::ie: | :oc: |
