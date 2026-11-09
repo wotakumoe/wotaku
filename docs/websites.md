@@ -21,22 +21,22 @@ outline: 2
 
 == Online
 
-| Websites | Library ==Library== | Login | Tracking | Sub/Dub | Social |
-|----------|---------------------|-------|----------|---------|--------|
-| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :yes: | :sync::ie: | :cc::oc::mdub: | :cmnt::frm: |
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :yes: | :sync::ie::msync: | :cc: | :cmnt::frm: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: | :cc::mdub: | :no: |
-| [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :yes: | :msync: | :oc: | :cmnt::frm: |
+| Websites | Library ==Library== | Tracking | Login | Sub/Dub | Social |
+|----------|---------------------|----------|-------|---------|--------|
+| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :sync::ie: | :yes: | :cc::oc::mdub: | :cmnt::frm: |
+| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :sync::ie::msync: | :yes: | :cc: | :cmnt::frm: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :msync: | :yes: | :cc::mdub: | :no: |
+| [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :msync: | :yes: | :oc: | :cmnt::frm: |
 
 <more>
 
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: | :cc::mdub: | :cmnt: |
-| [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :no: | :msync: | :oc: | :no: |
-| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: | :cc::oc: | :cmnt::frm: |
-| [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: | :cc::mdub: | :no: |
-| [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: | :cc: | :cmnt::frm: |
-| [Gotaku](https://gotaku.to/) | ==l:gotaku== | :yes: | :sync::ie: | :oc: | :cmnt: |
-| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: | :cc::mdub: | :cmnt: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :sync::ie::msync: | :yes: | :cc::mdub: | :cmnt: |
+| [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :msync: | :no: | :oc: | :no: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :no: | :yes: | :cc::oc: | :cmnt::frm: |
+| [AniZone](https://anizone.to/) | ==l:anizone== | :msync: | :no: | :cc::mdub: | :no: |
+| [anv](https://anv.to/) | ==l:anv== | :sync: | :yes: | :cc: | :cmnt::frm: |
+| [Gotaku](https://gotaku.to/) | ==l:gotaku== | :sync::ie: | :yes: | :oc: | :cmnt: |
+| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :msync: | :yes: | :cc::mdub: | :cmnt: |
 
 == Donghua
 
