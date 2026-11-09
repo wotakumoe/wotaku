@@ -21,22 +21,22 @@ outline: 2
 
 == Online
 
-| Websites | Library ==Library== | Login | Tracking | Sub |
-|----------|---------------------|-------|----------|-----|
-| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :yes: | :sync::ie: | :cc::oc: |
+| Websites | Library ==Library== | Login | Tracking | Sub/Dub |
+|----------|---------------------|-------|----------|---------|
+| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :yes: | :sync::ie: | :cc::oc::mdub: |
 | [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :yes: | :sync::ie::msync: | :cc: |
-| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: |  :cc: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :yes: | :msync: | :cc::mdub: |
 | [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :yes: | :msync: | :oc: |
 
 <more>
 
-| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: | :cc: |
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :yes: | :sync::ie::msync: | :cc::mdub: |
 | [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :no: | :msync: | :oc: |
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :yes: | :no: | :cc::oc: |
-| [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: | :cc: |
+| [AniZone](https://anizone.to/) | ==l:anizone== | :no: | :msync: | :cc::mdub: |
 | [anv](https://anv.to/) | ==l:anv== | :yes: | :sync: | :cc: |
 | [Gotaku](https://gotaku.to/) | ==l:gotaku== | :yes: | :sync::ie: | :oc: |
-| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: | :cc: |
+| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :yes: | :msync: | :cc::mdub: |
 
 == Donghua
 
