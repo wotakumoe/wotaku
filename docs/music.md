@@ -179,7 +179,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | [R/a/dio](https://r-a-d.io/) | [MP3 192](https://r-a-d.io/assets/main.mp3.m3u) | :len: |
 | [Yggdrasil Radio](https://yggdrasilradio.com/) | [MP3 128](https://yggdrasilradio.com/yggdrasil_ca.pls) | :len: |
 | [AnimeRadio.de](https://www.animeradio.de/) | [MP3 192](https://www.animeradio.de/streams/hd.m3u) | :lge: |
-| [Japanradio.de](https://japanradio.de/) | [MP3 192](https://japanradio.de/player/japanradio.m3u) | :lge: |
+| [Japanradio.de](https://japanradio.de/) | [MP3 192](https://japanradio.de/player/index.html) | :lge: |
 | [Kibo.FM](https://kibo.fm/) | [MP3 192](https://kibo.fm/kibo.m3u) | :lge: |
 | [Radio Anime24](https://www.radioanime24.pl/) | [MP3 320](https://www.radioanime24.pl/Radio-Anime24.pls) | :lpo: |
 | [Radio Anime Nexus](https://www.animenexus.net/) | [MP3 320](https://radio.animenexus.net:8000/animenexus-mp3.m3u) | :lsp: |
