@@ -43,7 +43,10 @@ You can submit websites / feedback in our [discord server](https://discord.gg/vS
 
 <p align="center">
   <a href="https://discord.gg/vShRGx8ZBC">
-    <img src="https://invidget.switchblade.xyz/vShRGx8ZBC" alt="Image Description" style="width: 400px; display: block; margin: 0 auto;">
+    <picture>
+      <source srcset="https://star.wotaku.wiki/discord-invite.avif" type="image/avif">
+      <img src="https://star.wotaku.wiki/discord-invite.webp" alt="Wotaku Discord invite" style="width: 400px; display: block; margin: 0 auto;">
+    </picture>
   </a>
 </p>
 
