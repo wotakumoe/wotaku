@@ -173,7 +173,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | Website | Quality | Language |
 |---------|---------|----------|
 | [Anison.fm](https://en.anison.fm/) | [MP3 320](https://anison.fm/anison.m3u) | :len::lru: |
-| [Greek Otaku Radio](https://goradio.gr/) | [MP3 320](http://192.99.4.210:2199/tunein/greekota.pls) | :len::lgr: |
 | [JPopSuki](http://jpopsuki.fm/) | [MP3 192](http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls) | :len: |
 | [Listen.moe](https://listen.moe/) | [Vorbis 128](https://listen.moe/) | :len: |
 | [R/a/dio](https://r-a-d.io/) | [MP3 192](https://r-a-d.io/assets/main.mp3.m3u) | :len: |
@@ -447,7 +446,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | **Spotify** | [Spicetify](https://spicetify.app/) | :win::app::lin: |
 | ^^ | [SPOTX](https://github.com/SpotX-Official/SpotX) | :win: |
 | ^^ | [Official Spotify full installers](https://loadspot.pages.dev/versions) | :win::app::lin: |
-| **Youtube** | [Limusic](https://simohypers.github.io/limusic/) [:src:](https://github.com/SimoHypers/limusic) | :win::app::lin: |
+| **Youtube** | [Limusic](https://limusic.app/) [:src:](https://github.com/SimoHypers/limusic) | :win::app::lin: |
 | ^^ | [Pear Desktop](https://github.com/pear-devs/pear-desktop) | :win::app::lin: |
 | ^^ | [ytmdesktop2](https://youtube-music.app/) [:src:](https://github.com/Venipa/ytmdesktop2) | :win::app::lin: |
 
@@ -539,8 +538,7 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
 | ^^ | [FL Studio](https://www.image-line.com/) :cs: | :win::app: |
 | ^^ | [Studio One](https://www.fender.com/products/fender-studio-pro) :cs: | :win: |
-| **Related Links** | [SynthV Resources & Guides](https://synthv.info/) | :no: |
-| ^^ | [CeVIO Voice Database Installer Archive](https://docs.google.com/spreadsheets/d/1blPdn7UuNNSUbTs3FRtBV5mdDUCf728NJC7yZhOae-M/edit) | :no: |
+| **Related Links** | [CeVIO Voice Database Installer Archive](https://docs.google.com/spreadsheets/d/1blPdn7UuNNSUbTs3FRtBV5mdDUCf728NJC7yZhOae-M/edit) | :no: |
 | ^^ | [RuTracker](https://rutracker.org/forum/index.php) | :no: |
 
 <collapsible title="Introduction / Guide">

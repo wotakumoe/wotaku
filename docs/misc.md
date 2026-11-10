@@ -330,7 +330,7 @@ outline: 2
 | ^^ | [Anime Magazine Archive](https://animagarchive.com/) [:x:](https://x.com/animemagarchive) |
 | ^^ | [Anime Magazine Covers](https://aninado.com/amc/) :ded: |
 | ^^ | [Anime Preservation Society](https://www.youtube.com/@AnimePreservationSociety) :yt: |
-| ^^ | [Animétudes](https://animetudes.com/) :ded: |   
+| ^^ | [Animétudes](https://animetudes.com/) |   
 | ^^ | [Anime World by Tim Eldred](https://timeldred.com/category/anime-world/) |
 | ^^ | [Let's Anime](https://letsanime.blogspot.com/) |
 | ^^ | :rd: [More in Arts](/art#official-art) |
