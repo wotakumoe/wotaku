@@ -21,7 +21,7 @@ og:
 - src: https://github.com/kittycatgit/mana-sources
 - raw: https://kittycatgit.github.io/mana-sources/main/sources.json
 
-== Lucifer
+== Pirate Vodka
 - url: https://mana.pirate.vodka/
 - src: https://github.com/LucifersCircle/mana-extensions
 - raw: https://mana.pirate.vodka/sources.json

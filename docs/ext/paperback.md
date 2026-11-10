@@ -39,7 +39,7 @@ og:
 - src: https://github.com/itskodama/paperback-extensions
 - raw: https://itskodama.github.io/paperback-extensions/0.9/stable/versioning.json
 
-== Lucifer
+== Pirate Vodka
 - url: https://read.pirate.vodka/
 - src: https://github.com/LucifersCircle/pirate.vodka-extensions
 - raw: https://read.pirate.vodka/versioning.json
