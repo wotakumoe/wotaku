@@ -14,10 +14,6 @@ og:
 
 # Extension Repos
 
-## Cross-app Support
-
-<CrossAppSupport />
-
 ## Android
 
 <Deck mini>
@@ -89,3 +85,7 @@ og:
     Anime, Live Action & others
   </Card>
 </Deck>
+
+## Cross-app
+
+<CrossAppSupport />
