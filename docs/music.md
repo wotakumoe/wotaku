@@ -537,7 +537,8 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | ^^ | [Cubase](https://www.steinberg.net/cubase/) :cs: | :win::app: |
 | ^^ | [FL Studio](https://www.image-line.com/) :cs: | :win::app: |
 | ^^ | [Studio One](https://www.fender.com/products/fender-studio-pro) :cs: | :win: |
-| **Related Links** | [CeVIO Voice Database Installer Archive](https://docs.google.com/spreadsheets/d/1blPdn7UuNNSUbTs3FRtBV5mdDUCf728NJC7yZhOae-M/edit) | :no: |
+| **Related Links** | [Synthesizer V Archive](https://synthv.me/) | :no: |
+| ^^ | [CeVIO Voice Database Installer Archive](https://docs.google.com/spreadsheets/d/1blPdn7UuNNSUbTs3FRtBV5mdDUCf728NJC7yZhOae-M/edit) | :no: |
 | ^^ | [RuTracker](https://rutracker.org/forum/index.php) | :no: |
 
 <collapsible title="Introduction / Guide">
