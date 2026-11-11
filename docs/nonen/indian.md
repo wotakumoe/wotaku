@@ -17,6 +17,7 @@ og:
 - [Anime Joker](https://animejoker.com/) + :len:
 - [AnimeLok](https://animelok.cc/home) + :len:
 - [Anime Salt](https://animesalt.cx/) + :len:
+- [Anime Sky](https://animesky.app/) + :len:
 - [Anime World India](https://watchanimeworld.one/) + :len:
 - [Desi Dub Anime](https://www.desidubanime.me/)
 - [Dora Bash](https://dorabash.in/) + :len:
