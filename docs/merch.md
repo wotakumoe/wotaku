@@ -146,6 +146,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 - [All the Anime](https://www.alltheanime.com/)
 - [Anime On Line](https://www.anime-on-line.com/)
+- [Criterion Collection](https://www.criterion.com/)
 - [DiabolikDVD](https://diabolikdvd.com/)
 - [Discotek Media](https://www.discotekmedia.com/)
 - [GKIDS Store](https://store.gkids.com/)
