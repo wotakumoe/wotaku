@@ -456,7 +456,6 @@ The sources mentioned here are all digital, with their max qualities listed. Qua
 | :--- | :--- |
 | [Nicotine+](https://nicotine-plus.org/) ==Nicotine== | :win::app::lin: |
 | [TIDDL](https://github.com/oskvr37/tiddl) | :py: |
-| [Votify](https://github.com/glomatico/votify) | :py: |
 | [Zotify](https://github.com/Googolplexed0/zotify) | :py: |
 
 
