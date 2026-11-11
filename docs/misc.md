@@ -316,15 +316,8 @@ outline: 2
 | **General** | [CosmoDNA](https://www.ourstarblazers.com/vault/) |
 | ^^ | [Digital World Archive](https://digitalworldarchive.wordpress.com/) [:yt:](https://www.youtube.com/@DigitalWorldArchive) [:x:](https://x.com/RavelMonte) ||Digimon|| |
 | ^^ |[MAD ANGLER PRESS](https://retroanimechris.blogspot.com/) [:iarch:](https://archive.org/details/@madanglerpress) [:x:](https://x.com/retroanimechris) |
-| ^^ | [Media Monster](https://archive.org/details/@media-monster_alt) :iarch: [:x:](https://x.com/nuwawawon) |
 | ^^ | [MercuryFalcon](https://www.youtube.com/@MercuryFalcon/) :yt: [:x:](https://x.com/MercuryFalcon) |
-| ^^ | [Otaku Archive](https://archive.org/details/otaku-archive) :iarch: <tooltip>By Gerald Rathkolb (Anime World Order)</tooltip> |
-| ^^ | [Otaku Print Archive](https://archive.org/details/@nicole_turkowski/uploads) :iarch: [:x:](https://x.com/OtakuPrintArchv) [||Docs||](https://docs.google.com/spreadsheets/d/1NFcv7gTI_oGYyNpg64O6YI0JBDh-i0h8NavWw0OA5Gk/edit) |
-| ^^ | [Rage Brat](https://archive.org/details/@rage_brat06) :iarch::ded: |
-| ^^ | :prev: [Xerulean Sands](https://archive.org/details/@xerulean-sands) :iarch: |
-| ^^ | [The Magazine Rack](https://archive.org/details/magazine_rack) :s::iarch: |
 | ^^ | [Tuxedo Unmasked](https://www.tuxedounmasked.com/) :ded: |
-| ^^ | [Wiz Kaleb](https://archive.org/details/@wiz_kaleb) :iarch::ded: [:x:](https://x.com/wiz_kaleb) |
 | ^^ | [Zimmerit](https://www.zimmerit.moe/) |  
 | **Anime** | [80s OVA](https://80s-ova.com/) :ljp: [:x:](https://x.com/KuraiSue) |
 | ^^ | [Anime Magazine Archive](https://animagarchive.com/) [:x:](https://x.com/animemagarchive) |
@@ -336,11 +329,23 @@ outline: 2
 | ^^ | :rd: [More in Arts](/art#official-art) |
 | **Manga** | [Comic Bibliographic and Cover Archives](http://www.eshita.jp/comics/index.html) :ljp: |
 | ^^ | [MANGA bookshelf](https://manga-bookshelf.com/) :ljp: [:x:](https://x.com/MANGA10412607) |
-| **Games** | [Old Game Mags](https://oldgamemags.tumblr.com/) [:x:](https://x.com/OldGameMags) |
-| ^^ | [Forgotten Worlds](https://www.forgottenworlds.net/) [:x:](https://x.com/american80s) |
+| **Games** | [Forgotten Worlds](https://www.forgottenworlds.net/) [:x:](https://x.com/american80s) |
 | ^^ | [Gaming Alexandria](https://www.gamingalexandria.com/wp/) [:x:](https://x.com/dushubz) |
+| ^^ | [Old Game Mags](https://oldgamemags.tumblr.com/) [:x:](https://x.com/OldGameMags) |
+| ^^ | [shmuplations](https://shmuplations.com/) :s: [:x:](https://x.com/shmuplations) |
+| ^^ | [VGDensetsu](https://vgdensetsu.net/) |
 | ^^ | [VGHF Archive](https://archive.gamehistory.org/) |
-| ^^ | [Yamazaki's Left Pocket Contents](https://archive.org/details/@yamaaki_s_left_pocket_contents) :iarch: |
+| **IArch** :iarch: | [Arcadia Magazine](https://archive.org/details/arcadia-magazine) |
+| ^^ | [Japanese Magazines Scans](https://archive.org/details/@japanesemagazinesscans) :ded: [:x:](https://x.com/JapaneseMagScan) |
+| ^^ | [Media Monster](https://archive.org/details/@media-monster_alt) [:x:](https://x.com/nuwawawon) |
+| ^^ | [Otaku Archive](https://archive.org/details/otaku-archive) <tooltip>By Gerald Rathkolb (Anime World Order)</tooltip> |
+| ^^ | [Otaku Print Archive](https://archive.org/details/@nicole_turkowski/uploads) [:x:](https://x.com/OtakuPrintArchv) [||Docs||](https://docs.google.com/spreadsheets/d/1NFcv7gTI_oGYyNpg64O6YI0JBDh-i0h8NavWw0OA5Gk/edit) |
+| ^^ | [Rage Brat](https://archive.org/details/@rage_brat06) :ded: |
+| ^^ | :prev: [Xerulean Sands](https://archive.org/details/@xerulean-sands) |
+| ^^ | [The Magazine Rack](https://archive.org/details/magazine_rack) :s: |
+| ^^ | [Videogame and Computer Game Magazines](https://archive.org/details/videogamemagazines) |
+| ^^ | [Wiz Kaleb](https://archive.org/details/@wiz_kaleb) :ded: [:x:](https://x.com/wiz_kaleb) |
+| ^^ | [Yamazaki's Left Pocket Contents](https://archive.org/details/@yamaaki_s_left_pocket_contents) |
 
 <collapsible title="Twitter">
 
