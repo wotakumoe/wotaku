@@ -12,8 +12,8 @@ og:
 - [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com==
 - [FreeToon](https://foc141.asia/) [:tg:](https://t.me/s/foclink)
 - [Funbe](https://005.funbe.org/) [:tg:](https://t.me/s/funbe_up)
-- [GoodToon](https://www.goodtoon010.com/?pg=1&mcat=all) [:tg:](https://t.me/s/goodtoon_url)
-- [MoneyToon](https://mtoon166.asia/)
+- [GoodToon](https://www.goodtoon011.com/?pg=1&mcat=all) [:tg:](https://t.me/s/goodtoon_url)
+- [MoneyToon](https://mtoon167.asia/)
 - [NameeToon](https://namee129.asia/) [:tg:](https://t.me/s/nameetoonlink)
 - [NewToki](https://n9.newtoki.top/) ==m:https://korsite.net==
 - [New XToon](https://newxtoon4.com/) [:tg:](https://t.me/s/newxtoon)
