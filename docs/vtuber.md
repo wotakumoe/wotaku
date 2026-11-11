@@ -302,4 +302,5 @@ og:
 ::: tip Other lists
 - [David Wu](https://softdevwu.dev/hologames/)
 - [Games With VTubers In Them](https://store.steampowered.com/curator/44929098)
+- [holo Indie](https://store.steampowered.com/publisher/holo_Indie/)
 :::
