@@ -13,10 +13,6 @@ og:
 - url: https://codeberg.org/CENSORED/Nuvio-Plugin
 - raw: https://codeberg.org/CENSORED/Nuvio-Plugin/raw/branch/main/manifest.json
 
-== D3adlyRocket
-- url: https://github.com/D3adlyRocket/All-in-One-Nuvio
-- raw: https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json
-
 == Eclipsia
 - url: https://codeberg.org/eclipsia/nuvio-plugin
 - raw: https://codeberg.org/eclipsia/nuvio-plugin/raw/branch/main/manifest.json
@@ -36,10 +32,6 @@ og:
 == MoonCrown
 - url: https://github.com/mooncrown04/nuviotr
 - raw: https://raw.githubusercontent.com/mooncrown04/nuviotr/refs/heads/main/manifest.json
-
-== Spidey
-- url: https://github.com/Abinanthankv/NuvioRepo
-- raw: https://raw.githubusercontent.com/Abinanthankv/NuvioRepo/refs/heads/master/manifest.json
 
 == Turkish Nuvio
 - url: https://github.com/fmustafayaman/turkish-nuvio
