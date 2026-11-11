@@ -17,7 +17,7 @@ og:
 - [Kawaii Anime](https://kawaiianime.cc/)
 - [Mirai Anime](https://miraianime.net/)
 - [Risto Anime](https://ristoanime.me/)
-- [WitAnime](https://witanime.you/)
+- [WitAnime](https://witanime.site/) ==m:https://www.witanime.net/==
 
 ## Manga
 
