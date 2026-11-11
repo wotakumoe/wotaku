@@ -1,1 +1,0 @@
-Has stricter criteria than Danbooru's own SFW instance.
