@@ -56,7 +56,7 @@ og:
 | :--- | :--- |
 | **Booru** | [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview) |
 | ^^ | [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy/danbooru-viewer) |
-| ^^ | [Gelbooru-Go](https://gel.bloat.cat/) [:src:](https://git.bloat.cat/vlnst/gelbooru-go) |
+| ^^ | [Gelbooru-Go](https://gel.nadeko.net/) [:src:](https://git.bloat.cat/vlnst/gelbooru-go) |
 | ^^ | [Moeview](https://moeview.app/) |
 | **Pixiv** | [LiteXiv](https://codeberg.org/LiteXiv/LiteXiv) |
 | ^^ | [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/PixivFE/PixivFE) |
