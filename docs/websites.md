@@ -208,7 +208,6 @@ Some of the series/services may not be available depending on your region.
 | :--- | :--- | :--- |
 | **General** | [MangaPlaza](https://mangaplaza.com/) | :free::coin::sub: |
 | ^^ | [Omoi](https://www.omoi.com/) | :free::paid::sub: |
-| ^^ | [Renta!](https://www.ebookrenta.com/) | :free::coin: |
 | ^^ | [Yen Press](https://yenpress.com/) | :paid: |
 | **Chapter** | [Comikey](https://comikey.com/) | :free::coin: |
 | ^^ | [Coolmic](https://coolmic.me/) | :free::coin::sub: |
