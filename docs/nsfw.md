@@ -104,6 +104,7 @@ og:
 
 - [Booruview](https://booruview.com/) [:src:](https://codeberg.org/jessienyan/booruview)
 - [Danbooru Viewer](https://danbooru.defaultkavy.com/) [:src:](https://github.com/defaultkavy/danbooru-viewer)
+- [Gelbooru-Go](https://gel.nadeko.net/) [:src:](https://git.bloat.cat/vlnst/gelbooru-go)
 - [Moeview](https://moeview.app/)
 - [PixivFE](https://pixiv.perennialte.ch/) :s: [:src:](https://codeberg.org/PixivFE/PixivFE)
 - [Pixiv Viewer](https://pixiv.pictures/) [:src:](https://github.com/asadahimeka/pixiv-viewer)
