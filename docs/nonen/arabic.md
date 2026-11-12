@@ -16,7 +16,7 @@ og:
 - [Arabic Toons](https://www.arabic-toons.com/)
 - [Kawaii Anime](https://kawaiianime.cc/)
 - [Mirai Anime](https://miraianime.net/)
-- [Risto Anime](https://ristoanime.me/)
+- [Risto Anime](https://ristoanime.cc/)
 - [WitAnime](https://witanime.site/) ==m:https://www.witanime.net/==
 
 ## Manga
