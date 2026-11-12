@@ -21,7 +21,7 @@ og:
 - [Wolf](https://wfwf536.com/) ==m:https://xn--ph1bph0az41x.com==
 - [Wolf 2](https://wftoon236.com/) ==m:https://xn--ph1bph0az41x.com==
 - [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com==
-- [YaToon](https://yatoon269.asia/)
+- [YaToon](https://yatoon270.asia/)
 
 ## Anime
 
