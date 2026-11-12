@@ -20,7 +20,7 @@ og:
 - [JKAnime](https://jkanime.net/)
 - [TioAnime](https://tioanime.com/)
 - [Mundo Donghua](https://www.mundodonghua.com/)
-- [Tio Donghua](https://tiodonghua.com/)
+- [Tio Donghua](https://tiodonghua.lat/)
 - [HentaiLA](https://hentaila.com/hub) :ero:
 - [Watch Anime Hentai](https://www.watchanimehentai.com/) :ero:
 
