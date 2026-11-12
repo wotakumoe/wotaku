@@ -214,7 +214,6 @@ outline: 2
 - [J-Novel Club](https://j-novel.club/calendar)
 - [Kodansha](https://kodansha.us/calendar/)
 - [Omoi](https://www.omoi.com/release-calendar) ||CaaS||
-- [Renta!](https://www.ebookrenta.com/renta/sc/frm/upcoming/)
 - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
 - [SuBLime](https://www.sublimemanga.com/calendar) :ero:
 - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
@@ -335,7 +334,7 @@ outline: 2
 | ^^ | [shmuplations](https://shmuplations.com/) :s: [:x:](https://x.com/shmuplations) |
 | ^^ | [VGDensetsu](https://vgdensetsu.net/) |
 | ^^ | [VGHF Archive](https://archive.gamehistory.org/) |
-| **IArch** :iarch: | [Arcadia Magazine](https://archive.org/details/arcadia-magazine) |
+| **IArchive** :iarch: | [Arcadia Magazine](https://archive.org/details/arcadia-magazine) |
 | ^^ | [Japanese Magazines Scans](https://archive.org/details/@japanesemagazinesscans) :ded: [:x:](https://x.com/JapaneseMagScan) |
 | ^^ | [Media Monster](https://archive.org/details/@media-monster_alt) [:x:](https://x.com/nuwawawon) |
 | ^^ | [Otaku Archive](https://archive.org/details/otaku-archive) <tooltip>By Gerald Rathkolb (Anime World Order)</tooltip> |
