@@ -14,7 +14,7 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 | Websites | Library ==Library== |
 |----------|---------------------|
-| [Dokiraw](https://dokiraw.quest/) | ==l:dokiraw== |
+| [Dokiraw](https://dokiraw.men/) | ==l:dokiraw== |
 | [Free PDF Library](https://pdftoshokan.com/) | ==l:pdftoshokan== |
 | [Hachiraw](https://hachiraw.net/) | ==l:hachiraw== |
 | [KL Manga](https://old.klz9.com/) ==m:kl-manga== | ==l:klmanga== |
@@ -22,14 +22,14 @@ Websites may contain adult content, partner with adult sites, or feature adult-t
 
 <more>
 
-| [Manga Raw (.ad)](https://mangarawad.site/) | ==l:mangarawad== |
+| [Manga Raw (.ad)](https://mangarawad.quest/) | ==l:mangarawad== |
+| [Manga Raw (.ai)](https://mangaraw.ai/) ==m:mangarawspoil== | ==l:mangarawlc== |
 | [Manga Raw (.best)](https://mangaraw.best/) | ==l:mangarawbest== |
-| [Manga Raw (.sc)](https://mangaraw.sc/) ==m:mangarawspoil== | ==l:mangarawlc== |
 | [RAW 1001](https://raw1001.net/home) ==m:raw1001== | ==l:raw1001== |
 | [Rawkuma](https://rawkuma.net/) | ==l:rawkuma== |
-| [Raw FREE](https://rawfree.loan/) | ==l:rawfree== |
+| [Raw FREE](https://rawfree.date/) | ==l:rawfree== |
 | [RAW LAZY](https://rawlazy.io/) | ==l:rawlazy== |
-| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://jmanga.cloud/home/) | ==l:rawotaku== |
+| [Raw Otaku](https://rawotaku.com/home/) [:alt:](https://ww1.jmanga.cloud/home/) | ==l:rawotaku== |
 | [RawUwU](https://rawuwu.net/) ==m:rawuwu== | ==l:rawuwu== |
 | [Soraraw](https://soraraw.com/) | ==l:soraraw== |
 
@@ -58,7 +58,7 @@ All websites listed here use slow host sites to store files, unless noted otherw
 | [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) | :yes: | :yes: | :yes: |
 | [Book Share ZIP](https://bszip.com/) | :yes: | :yes: | :yes: |
 | [Comic77](https://comic77.com/) | :yes: | :no: | :no: |
-| [DLRaw](https://dlraw.tv/home/) ==m:dlraw== | :yes: | :yes: | :yes: |
+| [DLRaw](https://ww1.dlraw.tv/home/) ==m:dlraw== | :yes: | :yes: | :yes: |
 | [DL-Raw](https://dl-raw.si/) | :yes: | :yes: | :yes: |
 | [DL-Zip](https://dl-zip.com/) | :yes: | :yes: | :yes: |
 

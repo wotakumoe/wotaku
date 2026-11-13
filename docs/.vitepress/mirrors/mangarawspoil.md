@@ -1,8 +1,8 @@
 ---
-src: https://mangaraw.sc/
+src: https://mangaraw.ai/
 title: Manga Raw
 ---
 
 - https://mangaraw.ma/
 - https://spoilerplus.ac/
-- https://spoilerplus.tv/
+- https://spoilerplus.sc/

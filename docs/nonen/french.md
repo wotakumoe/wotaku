@@ -18,7 +18,7 @@ og:
 - [JetAnime](https://on.jetanimes.com/)
 - [Sekai](https://sekai.one/)
 - [Streaming-integrale](https://streaming-integrale.com/)
-- [Voiranime](https://voir-anime.to/) [:d:](https://discord.gg/js2P2HT)
+- [Voiranime](https://voiranime.cx/) [:d:](https://discord.gg/js2P2HT)
 - [Vostfree](https://ipv4.vostfree.ws/)
 
 ## Manga

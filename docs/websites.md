@@ -24,7 +24,7 @@ outline: 2
 | Websites | Library ==Library== | Tracking | Login | Sub/Dub | Social |
 |----------|---------------------|----------|-------|---------|--------|
 | [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :sync::ie: | :yes: | :cc::oc::mdub: | :cmnt::frm: |
-| [Re:ANIME](https://reanime.to/home) ==m:https://reindex.to== | ==l:reanime== | :sync::ie::msync: | :yes: | :cc: | :cmnt::frm: |
+| [Re:ANIME](https://reanime.cz/home) ==m:https://reindex.to== | ==l:reanime== | :sync::ie::msync: | :yes: | :cc: | :cmnt::frm: |
 | [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :msync: | :yes: | :cc::mdub: | :no: |
 | [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :msync: | :yes: | :oc: | :cmnt::frm: |
 
