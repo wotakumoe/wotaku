@@ -8,20 +8,20 @@ og:
 
 ## Comics
 
-- [BlackToon](https://b9.blacktoon.black/) ==m:https://korsite.net==
+- [BlackToon](https://b10.blacktoon.black/) ==m:https://korsite.net==
 - [Fox Comics](https://fxfx332.com/) ==m:https://xn--ph1bph0az41x.com==
 - [FreeToon](https://foc142.asia/) [:tg:](https://t.me/s/foclink)
-- [Funbe](https://005.funbe.org/) [:tg:](https://t.me/s/funbe_up)
+- [Funbe](https://006.funbe.org/) [:tg:](https://t.me/s/funbe_up)
 - [GoodToon](https://www.goodtoon011.com/?pg=1&mcat=all) [:tg:](https://t.me/s/goodtoon_url)
 - [MoneyToon](https://mtoon168.asia/)
 - [NameeToon](https://namee130.asia/) [:tg:](https://t.me/s/nameetoonlink)
-- [NewToki](https://n9.newtoki.top/) ==m:https://korsite.net==
+- [NewToki](https://n10.newtoki.top/) ==m:https://korsite.net==
 - [New XToon](https://newxtoon4.com/) [:tg:](https://t.me/s/newxtoon)
-- [TOONKOR](https://005.toonkor.net/) [:tg:](https://t.me/s/toonkor_net)
+- [TOONKOR](https://006.toonkor.net/) [:tg:](https://t.me/s/toonkor_net)
 - [Wolf](https://wfwf536.com/) ==m:https://xn--ph1bph0az41x.com==
 - [Wolf 2](https://wftoon236.com/) ==m:https://xn--ph1bph0az41x.com==
 - [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com==
-- [YaToon](https://yatoon271.asia/)
+- [YaToon](https://yatoon272.asia/)
 
 ## Anime
 
