@@ -9,7 +9,7 @@ og:
 ## Anime
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Animesub](http://animesub.info/)
-- [Anime Zone](https://www.animezone.pl/)
+- [Anime Zone](https://animezone.pl/pl/)
 - [Desu Online](https://desu-online.pl/)
 - [Docchi](https://docchi.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
