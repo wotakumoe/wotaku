@@ -235,6 +235,7 @@ og:
 
 | Game                                                   | Price  | MC                 | Dev                  | Publisher |
 |--------------------------------------------------------|--------|--------------------|----------------------|-----|
+| [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame) | Free   | IRyS              | David Wu   | David Wu |
 | [Holo on Suika](https://tkgames.jp/holo_watermelon.html)       | Free   | Hololive          | TKGames    | TKGames |
 | [Pebble Jame](https://gioba-games.itch.io/pebble-jame)         | Free   | Koseki Bijou      | Goiba      | Goiba |
 
@@ -292,12 +293,6 @@ og:
 | [Days With Ollie](https://store.steampowered.com/app/2776750/) | Paid   | Kureiji Ollie   | PT. Global | Hololive ID |
 | [Okayunyumu](https://www.entergram.co.jp/okayunyumu/) :ljp:    | Paid  | Nekomata Okayu  | ENTERGRAM  | ENTERGRAM |
 | [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella) | Free    | Shiori Novella  | Pending | Shiori Novella |
-
-### Misc
-
-| Game                                                         | Price  | MC                | Dev        | Publisher |
-|--------------------------------------------------------------|--------|-------------------|------------|-----|
-| [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame) | Free   | IRyS              | David Wu   | David Wu |
 
 ::: tip Other lists
 - [David Wu](https://softdevwu.dev/hologames/)
