@@ -166,7 +166,7 @@ Some content may not be available depending on your region.
 | [MangaFire](https://mangafire.to/) ==MangaFire== | ==l:mangafire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
 | [OniSaga](https://onisaga.com/) ==OniSaga== | ==l:onisaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |
 | [MangaK](https://mangak.io/home) | ==l:mangak== | :no: | :ss: | :sp::ls: | :cmnt: |
-| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | ==l:xcomic== | :no: | :ps: | :ls::lsg: | :no: |
+| [XComic](https://xcomic.me/) [:alt:](https://comik.to/) ==XComic== | ==l:xcomic== | :no: | :ps: | :ls::lsg: | :no: |
 | [MKissa](https://mkissa.to/manga) | ==l:mkissa manga== | :msync: | :ss: | :sp::dp::ls: | :cmnt::frm: |
 | [MangaKatana](https://mangakatana.com/) | ==l:mangakatana== | :ie::msync: | :ss: | :ls: | :cmnt: |
 | [Mangahub](https://mangahub.io/) | ==l:mangahub== | :msync: | :ss: | :ls: | :cmnt: |
