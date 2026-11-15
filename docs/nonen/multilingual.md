@@ -32,7 +32,7 @@ Multi-sub/dub release groups include [**Erai-raws**](https://nyaa.si/user/Erai-r
 | [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
 | [MangaBall](https://mangaball.com/) | :msync: | :ps::up: | :ls: | :cmnt: |
 | [MangaFire](https://mangafire.to/) ==MangaFire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
-| [XComic](https://xcomic.me/) ==m:xcomic== ==XComic== | :no: | :ps: | :ls::lsg: | :no: |
+| [XComic](https://xcomic.me/) [:alt:](https://comik.to/) ==XComic== | :no: | :ps: | :ls::lsg: | :no: |
 
 ::: tip Apps
 Most apps in [**software**](/software) support multilingual sources.
