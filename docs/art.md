@@ -181,10 +181,10 @@ og:
 | ^^        | [PixShaft](https://github.com/CeuiLiSA/Pixiv-Shaft) |
 | ^^        | [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android) :cs: |
 | ^^        | [PixiView](https://github.com/matsumo0922/PixiView-KMP) ||Fanbox|| |
-| **Others** | [Wallflow](https://github.com/ammargitham/WallFlow) |
-| ^^        | [Piko Twitter](https://github.com/crimera/piko) |
-| ^^        | [RWalls](https://github.com/mehulpillai30/RWalls) |
+| **Others** | [Piko Twitter](https://github.com/crimera/piko) |
 | ^^        | [Pixiv for Muzei 3](https://github.com/yellowbluesky/PixivforMuzei3) |
+| ^^        | [RWalls](https://github.com/mehulpillai30/RWalls) |
+| ^^        | [Wallflow](https://github.com/ammargitham/WallFlow) |
 
 == iOS
 
