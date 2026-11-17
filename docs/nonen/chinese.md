@@ -16,7 +16,7 @@ og:
 - [Bimibimi](https://www.bimiacg14.net/)
 - [MoMoVod](https://momovod.app/show/30.html)
 - [XG Cartoon](https://www.xgcartoon.com/)
-- [Yinghuacd](https://www.yinhuadm.cc/) ==m:http://yinhuadm.one==
+- [Yinghuacd](https://www.yinhuadm.xyz/) ==m:http://yinhuadm.one==
 
 == Torrent
 
