@@ -28,7 +28,7 @@ og:
 ## Novels
 
 - [Hako](https://docln.net/)
-- [Metruyenhot](https://metruyenhotvn.com/)
+- [Metruyenhot](https://metruyenhotz.com/)
 - [Sonako Light Novel Wiki](https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel)
 - [TruyenFull](https://truyenfull.live/) :ero:
 - [Xalosach](https://xalosach.com/)
