@@ -219,7 +219,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | ^^ | [JavGuru](https://jav.guru/) |
 | ^^ | [JAVSeen](https://javseen.tv/) |
 | ^^ | [SexTB](https://sextb.net/) [:alt:](https://sextb.date/) |
-| **Torrent** | [141JAV](https://www.141jav.com/) [:alt:](https://www.141ppv.com/) |
+| **Torrent** | [141JAV](https://www.141jav.com/) |
 | ^^ | [OneJAV](https://onejav.com/) |
 | ^^ | [ProjectJav](https://projectjav.com/) |
 | ^^ | [Sukebei](https://sukebei.nyaa.si/?c=2_2) |
@@ -253,7 +253,7 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 
 - [ASMR Online](https://asmr.one/) ==ASMROnline==
 - [Hentai ASMR](https://www.hentaiasmr.moe/)
-- [HMV Mania](https://hmvmania.com/) [:f:](https://archiveofsins.com/h/thread/8735646)
+- [HMV Mania](https://hmvmania.com/) [:f:](https://archiveofsins.com/h/search/text/post%20discuss%20hmvs/)
 - [Japanese ASMR](https://japaneseasmr.com/)
 - [Kasumi](http://xdcc.kasumi.moe/) [:help:](http://kasumi.moe/guide/)
 
