@@ -92,7 +92,7 @@ og:
 | ^^           | [Kurumi](https://play.google.com/store/apps/details?id=com.subrotokumar.kurumi) :cs: |
 | ^^           | [Otraku](https://github.com/lotusprey/otraku) |
 | **MyAnimeList** | [DailyAL](https://github.com/JICA98/DailyAL) |
-| ^^           | [MoeList](https://moelist.net/) [:src:](https://github.com/axiel7/MoeListKMP) |
+| ^^           | [MoeList](https://axiel7.github.io/moelist/) [:src:](https://github.com/axiel7/MoeListKMP) |
 | **Others**   | [Kitsune](https://github.com/Drumber/Kitsune) :k: |
 | ^^           | [Nekome](https://github.com/Chesire/Nekome) :k: |
 | ^^           | [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) |
