@@ -30,6 +30,7 @@ og:
 | [Dartotsu](https://github.com/aayush2622/Dartotsu) [:e:](/ext/) | :ddl::mag: | :mal::al::k::simkl: | :tv: |
 | [Nuvio](https://nuvio.tv/) [:src:](https://github.com/NuvioMedia) [:e:](#tab-stremio) | :ddl::mag: | :mal::al::k::simkl: | :tv::cast: |
 | [NyanTV](https://nyantv.vercel.app/) [:src:](https://gitlab.com/NyanTV/NyanTV) [:e:](/ext/mihon) | :ddl: | :mal::al::simkl: | :tv: |
+| [SmurfTV](https://movies.smurfiez.com/) [:d:](https://discord.gg/ma8nJxRXQm) | :ddl: | :al: | :tv: |
 
 == Manga 
 
