@@ -35,7 +35,7 @@ outline: 2
 | [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :no: | :yes: | :cc::oc: | :cmnt::frm: |
 | [AniZone](https://anizone.to/) | ==l:anizone== | :msync: | :no: | :cc::mdub: | :no: |
 | [anv](https://anv.to/) | ==l:anv== | :sync: | :yes: | :cc: | :cmnt::frm: |
-| [Gotaku](https://gotaku.to/) | ==l:gotaku== | :sync::ie: | :yes: | :oc: | :cmnt: |
+| [Gotaku](https://gotaku.to/) ==m:https://igotaku.to/== | ==l:gotaku== | :sync::ie: | :yes: | :oc: | :cmnt::frm: |
 | [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :msync: | :yes: | :cc::mdub: | :cmnt: |
 
 == Donghua
@@ -309,7 +309,7 @@ You can go through [**digital comic info**](/guides/manga/comicinfo) to get more
 - [OneTouch TV](https://onetouchtv.xyz/) :hd:
 - [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
 - [Cinecat](https://cinecat.eu/) :scrpr:
-- [Aether](https://aether.ist/) :scrpr: ==m:https://rentry.co/aetherdomains==
+- [Aether](https://aether.st/) :scrpr: ==m:https://rentry.co/aetherdomains==
 - :rd: [JP learning focused](/japan/immersion#watching)
 
 == Download
