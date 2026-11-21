@@ -15,14 +15,14 @@ og:
 
 ## Manga
 
-- [MangaWorld](https://www.mangaworld.mx/)
+- [MangaWorld](https://www.mangaworld.me/)
 - [One Piece Power](https://onepiecepower.com/manga8/lista-manga3)
 
 ## NSFW
 
 - [HentaiSaturn](https://www.hentaisaturn.tv/)
 - [HentaiWorld](https://www.hentaiworld.me/)
-- [MangaWorldAdult](https://www.mangaworldadult.net/)
+- [MangaWorldAdult](https://www.mangaworldadult.org/)
 
 ## Info
 
