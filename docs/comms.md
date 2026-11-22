@@ -33,11 +33,16 @@ customDescription: Explore a wide array of otaku communities! From forums and Di
 - [VocaVerse Network](https://vocaverse.network/)
 
 == Games
-- [Bulbagarden](https://bulbagarden.net/forums/)
 - [Fuwanovel](https://forums.fuwanovel.moe/)
 - [RetroGameTalk](https://retrogametalk.com/forums/)
 - [The VG Resource](https://www.vg-resource.com/)
 - [YGOPro Deck](https://ygoprodeck.com/forum/)
+
+== Pokémon
+- [Bulbagarden](https://bulbagarden.net/forums/)
+- [Serebii.net](https://forums.serebii.net/)
+- [Smogon Forums](https://www.smogon.com/forums/)
+- [The Cave of Dragonflies](https://forums.dragonflycave.com/)
 
 == Japan
 - [Conversation Exchange](https://www.conversationexchange.com/)
