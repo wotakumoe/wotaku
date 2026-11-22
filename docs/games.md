@@ -135,12 +135,13 @@ For game [**downloads**](https://privateers.wiki/download) and [**emulation**](h
 
 - [Pokémon](https://www.pokemon.com/us) ||Official|| [:poke:](https://www.pokemon.com/us/pokedex)
 - [Bulbagarden](https://bulbagarden.net/) [:poke:](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number)
-- [Serebii.net](https://www.serebii.net/) [:poke:](https://www.serebii.net/pokemon/)
-- [Pokémon Database](https://pokemondb.net/) [:poke:](https://pokemondb.net/pokedex)
-- [The Cave of Dragonflies](https://www.dragonflycave.com/)
-- [Smogon University](https://www.smogon.com/) [:poke:](https://www.smogon.com/dex/)
-- [Pokéos](https://www.pokeos.com/) [:poke:](https://www.pokeos.com/pokedex/)
 - [PokéJungle](https://pokejungle.net/) ||News||
+- [Pokélingo](https://pokelingo.io/en/) [:poke:](https://pokelingo.io/en/dex/)
+- [Pokémon Database](https://pokemondb.net/) [:poke:](https://pokemondb.net/pokedex)
+- [Pokéos](https://www.pokeos.com/) [:poke:](https://www.pokeos.com/pokedex/)
+- [Serebii.net](https://www.serebii.net/) [:poke:](https://www.serebii.net/pokemon/)
+- [Smogon University](https://www.smogon.com/) [:poke:](https://www.smogon.com/dex/)
+- [The Cave of Dragonflies](https://www.dragonflycave.com/)
 
 == Fan Games
 
