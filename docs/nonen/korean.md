@@ -18,8 +18,8 @@ og:
 - [NewToki](https://n12.newtoki.top/) ==m:https://korsite.net==
 - [New XToon](https://newxtoon4.com/) [:tg:](https://t.me/s/newxtoon)
 - [TOONKOR](https://008.toonkor.net/) [:tg:](https://t.me/s/toonkor_net)
-- [Wolf](https://wfwf538.com/) ==m:https://xn--ph1bph0az41x.com==
-- [Wolf 2](https://wftoon237.com/) ==m:https://xn--ph1bph0az41x.com==
+- [Wolf](https://wfwf543.com/) ==m:https://xn--ph1bph0az41x.com==
+- [Wolf 2](https://wftoon238.com/) ==m:https://xn--ph1bph0az41x.com==
 - [WToon](https://wtwt335.com/) ==m:https://xn--ph1bph0az41x.com==
 - [YaToon](https://yatoon277.asia/)
 
