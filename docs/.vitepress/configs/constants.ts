@@ -265,7 +265,7 @@ export const homeCards: HomeCard[] = [
   },
   {
     id: 'merch',
-    icon: ':lucide-package-2:',
+    icon: ':lucide-shopping-basket:',
     title: 'Merch',
     details: 'Everything merch related!',
     link: '/merch'
@@ -746,7 +746,7 @@ export const sidebar: DefaultTheme.Sidebar = [
     link: '/nsfw'
   },
   {
-    text: '<span class="i-lucide:package-2"></span> Merch',
+    text: '<span class="i-lucide:shopping-basket"></span> Merch',
     link: '/merch'
   },
   {
