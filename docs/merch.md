@@ -79,6 +79,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Allcinema](https://www.allcinema.net/) :ljp:
 - [Anime-DB](https://anime.dbsearch.net/) :ljp:
 - [Blu-ray.com](https://www.blu-ray.com/)
+- [DVD Compare](https://dvdcompare.net/)
 - [Sumikko Anime](https://anime.sumikko.info/) :ljp: [:rss:](https://anime.sumikko.info/rss.xml)
 - [The eBook Librarian](https://k.xpg.jp/) :ljp: [:rss:](https://k.xpg.jp/feed.xml)
 
