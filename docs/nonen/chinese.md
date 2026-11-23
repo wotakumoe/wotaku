@@ -79,7 +79,7 @@ og:
 
 - [Ani](https://github.com/open-ani/animeko)
 - [Anime](https://github.com/lanlinju/Animius)
-- [Animeko](https://myani.org/) [:src:](https://github.com/open-ani/animeko/)
+- [Animeko](https://animeko.org/) [:src:](https://github.com/open-ani/animeko/)
 - [DMZJ](https://github.com/xiaoyaocz/flutter_dmzj)
 - [Kazumi](https://github.com/Predidit/Kazumi)
 - [Mediabox](https://github.com/RyensX/MediaBox)
