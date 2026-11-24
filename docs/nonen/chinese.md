@@ -48,12 +48,11 @@ og:
 - [Baozimh.org](https://baozimh.org/)
 - [Copymanga](https://www.copy20.com/) :ero: [:alt:](https://www.copy4000.com/)
 - [Dumanwu](https://dumanwu.com/)
-- [Komiic](https://komiic.com/) :ero:
+- [Komiic](https://komiic.com/) :ero::acc:
 - [Manga Reader](https://1zumii.github.io/manga-reader/#/) [:src:](https://github.com/1zumii/manga-reader)
 - [Manhua Gui](https://www.manhuagui.com/)
 - [Rouman](https://rouman5.com/home) :ero:
 - [XManhua](https://xmanhua.com/)
-- [Yoyomanga](https://www.yoyomanga.com/)
 
 ## Novels
 
