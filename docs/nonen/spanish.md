@@ -42,11 +42,13 @@ og:
 - [Absorbiendo Mangas](https://absorbiendomangas2.blogspot.com/)
 - [AnimeBbg](https://animebbg.net/) :ero:
 - [AnzManga](https://www.anzmanga25.com/)
+- [CapibaraTraductor](https://capibaratraductor.com/)
 - [HeavenManga](https://heavenmanga.com/)
 - [InManga](https://inmanga.com/)
 - [KuManga](https://www.kumanga.com/index.php)
 - [Leemiau](https://leer.lectovela.com/)
 - [LexMangas](https://www.lexmangas.com/)
+- [M440.in](https://m440.in/)
 - [MangaCrab](https://es.mangacrab.org/) :ero:
 - [MangaOni](https://manga-oni.com/)
 - [NOVA](https://novelasligeras.net/)
