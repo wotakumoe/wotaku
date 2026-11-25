@@ -9,7 +9,7 @@ og:
 ## Anime
 
 - [Anizm](https://anizm.net/)
-- [TRanimeizle](https://www.tranimeizle.co/)
+- [TRanimeizle](https://www.tranimeizle.io/)
 - [Türk Anime TV](https://www.turkanime.tv/)
 
 ## Manga
