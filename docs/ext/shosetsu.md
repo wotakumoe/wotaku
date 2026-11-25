@@ -21,11 +21,6 @@ og:
 - raw: https://repo.shosetsu.app/universe/index.json
 - data: https://kotatsu-83g.pages.dev/shosetsu/shosetsuorg-mirror.json
 
-== Noaione
-- url: https://github.com/noaione/shosetsu-extensions
-- raw: https://raw.githubusercontent.com/noaione/shosetsu-extensions/master/index.json
-- data: https://kotatsu-83g.pages.dev/shosetsu/noaione.json
-
 == jobobby04
 - url: https://github.com/jobobby04/ShosetsuExtensions
 - raw: https://jobobby04.github.io/ShosetsuExtensions/master/index.json
