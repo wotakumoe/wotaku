@@ -37,13 +37,6 @@ og:
 - anime: https://raw.githubusercontent.com/tympanicblock61/mangayomi-extensions/main/anime_index.json
 - novel: https://raw.githubusercontent.com/tympanicblock61/mangayomi-extensions/main/novel_index.json
 
-
-== 9vsv6
-- url: https://github.com/9vsv6/mangayomi-ar-extensions
-- manga: https://raw.githubusercontent.com/9vsv6/mangayomi-ar-extensions/refs/heads/main/manga_index.json
-- anime: https://raw.githubusercontent.com/9vsv6/mangayomi-ar-extensions/refs/heads/main/anime_index.json
-- novel: https://raw.githubusercontent.com/9vsv6/mangayomi-ar-extensions/refs/heads/main/novel_index.json
-
 == Gato404
 - url: https://github.com/gato404/kegareta-sauces
 - manga: https://raw.githubusercontent.com/gato404/kegareta-sauces/refs/heads/main/index.json
