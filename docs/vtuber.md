@@ -154,7 +154,7 @@ og:
 - [Malu's Carrd](https://malummii.carrd.co/)
 - [Phlox's Carrd](https://phlox-ness.carrd.co/)
 - [VTResources](https://vtresources.carrd.co/)
-- [VTuber Assets](https://discord.gg/acU3dFRtvC)
+- [VTuber Assets](https://discord.gg/acU3dFRtvC) :d:
 
 :::
 
@@ -291,7 +291,7 @@ og:
   
 | Game                                                     | Price   | MC               | Dev        | Publisher |
 |----------------------------------------------------------|---------|-----------------|------------|-----|
-| [AQUARIUM](https://www.entergram.co.jp/aquarium/)        | Paid  | Minato Aqua     | ENTERGRAM  | ENTERGRAM |
+| [AQUARIUM](https://www.entergram.co.jp/aquarium/en/)        | Paid  | Minato Aqua     | ENTERGRAM  | ENTERGRAM |
 | [Days With Ollie](https://store.steampowered.com/app/2776750/) | Paid   | Kureiji Ollie   | PT. Global | Hololive ID |
 | [Okayunyumu](https://www.entergram.co.jp/okayunyumu/) :ljp:    | Paid  | Nekomata Okayu  | ENTERGRAM  | ENTERGRAM |
 | [Snowed In](https://shiorinovella.itch.io/shiorivisualnovella) | Free    | Shiori Novella  | Pending | Shiori Novella |
