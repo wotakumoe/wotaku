@@ -80,7 +80,6 @@ og:
 | ^^ | [Anime decks (Sub2Srs)](https://i.wotaku.wiki/p/redirect) |
 | ^^ | [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) |
 | ^^ | [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) |
-| ^^ | [Japanese Proper Nouns Deck](https://github.com/friedrich-de/jpn-proper-nouns-deck) |
 | ^^ | [Tango N5 omega deck](https://i.wotaku.wiki/p/redirect) ||Beginner|| |
 
 :::
@@ -208,7 +207,6 @@ og:
 | ^^ | [Subtitle Downloader](https://github.com/wayneclub/Subtitle-Downloader) | :win::app::lin: |
 | **Tools** | [autosubsync mpv](https://github.com/Ajatt-Tools/autosubsync-mpv) | |
 | ^^ | [auto sub retimer easy](https://github.com/shoui520/auto-sub-retimer-easy) | :win: |
-| ^^ | [bazarr-subsync](https://github.com/friedrich-de/bazarr-sync-my-subs) | |
 | ^^ | [Nekomoe JP Formatter](https://jp-formatter.pages.dev/) [:src:](https://github.com/Nekomoekissaten-SUB/nekomoe-jp-formatter) | :web: |
 | ^^ | [mpv retiming scripts](https://github.com/Ulidtsoa01/mpv-retiming-scripts) | |
 | ^^ | [mpv sub scripts](https://github.com/peldas/mpv-sub-scripts) | |
@@ -260,7 +258,6 @@ og:
 | [Jellyfin Miner](https://github.com/friedrich-de/jellyfin-subtitleminer) | - |
 | [memento](https://github.com/ripose-jp/Memento) | :win::app::lin: |
 | [mpvacious](https://github.com/Ajatt-Tools/mpvacious) | :win::lin: |
-| [mpv subtitleminer](https://github.com/friedrich-de/mpv-subtitleminer) | mpv |
 | [Nagare](https://github.com/bpwhelan/Nagare) | - |
 | [SubMiner](https://github.com/ksyasuda/SubMiner) [:help:](https://docs.subminer.moe/) | mpv |
 | [Yomipv](https://github.com/BrenoAqua/Yomipv) | mpv |
