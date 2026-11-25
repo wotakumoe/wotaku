@@ -149,8 +149,10 @@ og:
 
 <Block link="/guides/tech/adblock">General adblock solution is added here</Block>
 
-== VTuber tools
+== VTuber Resources
 - [Best VTuber software](https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794)
+- [Malu's Carrd](https://malummii.carrd.co/)
+- [Phlox's Carrd](https://phlox-ness.carrd.co/)
 - [VTResources](https://vtresources.carrd.co/)
 - [VTuber Assets](https://discord.gg/acU3dFRtvC)
 
