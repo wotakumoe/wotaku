@@ -51,6 +51,7 @@ og:
 - [M440.in](https://m440.in/)
 - [MangaCrab](https://es.mangacrab.org/) :ero:
 - [MangaOni](https://manga-oni.com/)
+- [MangaVault](https://mangavault.lat/)
 - [NOVA](https://novelasligeras.net/)
 
 ## Light Novels
