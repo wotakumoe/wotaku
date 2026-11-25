@@ -29,7 +29,7 @@ og:
 
 - [AnimeVilla](https://animevilla.org/) :ero:
 - [ATOZ CARTOONIST](https://www.atozcartoonist.com/)
-- [GokuHD](https://gokuhd.nl/) + :len:
+- [GokuHD](https://gokuhd.my/) + :len:
 - [Puretoons](https://puretoons.in/) + :len:
 - [SDToons](https://sdtoons.com/) :ero: + :len:
 - [Toonhub4u](https://toonhub4u.live/home/) + :len:
