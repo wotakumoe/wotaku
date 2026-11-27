@@ -11,7 +11,7 @@ og:
 - [Anime3rb](https://anime3rb.com/)
 - [Anime4up](https://w1.anime4up.rest/home8/)
 - [Animeblkom](https://blkom.com/)
-- [Animerco](https://eta.animerco.org/)
+- [Animerco](https://jet.animerco.org/)
 - [Animezid](https://animezid.org/)
 - [Arabic Toons](https://www.arabic-toons.com/)
 - [Kawaii Anime](https://kawaiianime.cc/)
