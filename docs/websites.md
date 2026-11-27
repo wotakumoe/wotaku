@@ -468,6 +468,8 @@ Some content may not be available depending on your region.
 - [Grand Comics Database](https://www.comics.org/)
 - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
 - [Metron](https://metron.cloud/)
+- [Mighty Avengers](https://mightyavengers.net/)
+- [Uncanny X-Men](https://uncannyxmen.net/)
 
 == Reading Guide
 - [Comic Book Herald](https://www.comicbookherald.com/)
