@@ -19,7 +19,7 @@ og:
 
 - [ArtStation](https://www.artstation.com/)
 - [DeviantArt](https://www.deviantart.com/)
-- [Misskey Art Servers](https://i.wotaku.wiki/p/misskey)
+- Misskey Art Servers ==m:misskey==
 - [Pixiv](https://www.pixiv.net/) :s:
 - :prev: [Pixivision](https://www.pixivision.net/en/)
 - [Twitter](https://x.com/) :s:
@@ -96,7 +96,7 @@ og:
 | Category | Website |
 | :--- | :--- |
 | **Production** | [Character Design References](https://characterdesignreferences.com/) [:x:](https://x.com/CDReferences) |
-| ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: ==SettaiDreams==
+| ^^ | [Settai Dreams](https://setteidreams.net/) :s::fm: ==SettaiDreams== |
 | ^^ | [Sakuga Booru](https://www.sakugabooru.com/) |
 | ^^ | :prev: [Sakuga.video](https://sakuga.video/) [:src:](https://github.com/sakuga-video/sakuga-video.github.io) |
 | **Promo** | [Apple TV Artwork Finder](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) |
