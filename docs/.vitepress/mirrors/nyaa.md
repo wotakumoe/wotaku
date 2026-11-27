@@ -1,7 +1,7 @@
 ---
 src: https://nyaa.si/
 title: Nyaa
-danger: "These aren't official mirrors and may serve badware ads. Use an adblocker, or access [Nyaa.si](https://nyaa.si/) with a [vpn](/guides/tech/adblock#vpn)."
+danger: "Unofficial mirrors that may serve badware ads. Use adblockers or access [Nyaa.si](https://nyaa.si/) via [VPN](/guides/tech/adblock#vpn)."
 ---
 
 - https://nyaa.land/
