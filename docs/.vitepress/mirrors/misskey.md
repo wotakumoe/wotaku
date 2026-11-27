@@ -1,6 +1,5 @@
 ---
-src: https://misskey.art/
-title: Misskey
+title: Misskey Art Servers
 ---
 
 - https://misskey.art/
