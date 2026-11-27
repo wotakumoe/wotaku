@@ -408,12 +408,12 @@ Some content may not be available depending on your region.
 
 == Portals
 
+- [The Tokusatsu Network](https://tokusatsunetwork.com/)
 - [Henshin Grid](https://henshingrid.blogspot.com/)
 - [JEFusion](https://jefusion.blogspot.com/) x||Spoilers||
 - [Kaiju & Tokusatsu Home Theatre](https://kaijuhometheatre.substack.com/)
 - [Morphin' Legacy](https://morphinlegacy.com/)
 - [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
-- [The Tokusatsu Network](https://tokusatsunetwork.com/)
 - [Tokunation](https://news.tokunation.com/)
 - [Tsuburaya Productions](https://tsuburaya-prod.com/)
 
