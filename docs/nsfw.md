@@ -78,7 +78,6 @@ og:
 | [ManhwaH](https://manhwah.com/) | :no: | :yes: |
 | [ManhwaRead](https://manhwaread.com/) | :yes: | :no: |
 | [Omega Scans](https://omegascans.org/) :sub: ||Scan|| | :no: | :no: |
-| [PornhwaDB Reader](https://pornhwareader.com/) | :no: | :no: |
 | [RawDEX](https://rawdex.net/) :lkr: | :no: | :yes: |
 | [The Blank](https://theblank.net/) :sub: ||Scan|| | :no: | :no: |
 | [Toonily](https://toonily.com/) | :yes: | :no: |
@@ -206,8 +205,6 @@ Try searching with Japanese titles or [**DLSite**](https://www.dlsite.com/index.
 | ^^ | [Doujinshi.info](https://www.doujinshi.info/) |
 | ^^ | [Manga-DB](https://adultcomic.dbsearch.net/) :s::ljp: |
 | **Info** | [Fapservice](https://fapservice.com/) |
-| ^^   | [PornhwaDB](https://pornhwadb.com/) |
-| ^^   | [Yuri Scenes](https://yuriscenes.com/) |
 
  
 == AV
