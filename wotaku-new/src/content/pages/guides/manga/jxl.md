@@ -1,0 +1,56 @@
+---
+title: JXL Manga Readers
+description: Manga readers with JPEG XL / JXL support for Android, iOS & PC
+customDescription: Manga readers with JPEG XL / JXL support for Android, iOS & PC
+outline: [2,3]
+og:
+    image: /embed/guide.png
+---
+
+## Readers
+
+::: tabs
+
+== Android
+- [Mihon](https://mihon.app/) :s: [:src:](https://github.com/mihonapp/mihon)
+- :prev: [Komikku](https://komikku-app.github.io/) [:src:](https://github.com/komikku-app/komikku)
+- [Komelia](https://github.com/Snd-R/Komelia) ||Komga||
+- [Kuro Reader +](https://kurotoshiro.dev/) :fm::cs:
+
+== iOS
+- [YACReader](https://apps.apple.com/app/id635717885) :s::paid::cs: [:tf:](https://testflight.apple.com/join/5zhB7sRP)
+- [Panels](https://apps.apple.com/app/id1236567663) :fm::sub::cs:
+
+== PC
+| Type | Reader | Platform |
+| :--- | :--- | :--- |
+| Dedicated | [OpenComic](https://opencomic.app/) :s: [:src:](https://github.com/ollm/OpenComic) | :win::app::lin: |
+| ^^ | [NeeView](https://neelabo.github.io/NeeView/en-us/) [:src:](https://github.com/neelabo/NeeView) | :win: |
+| ^^ | [YACReader](https://www.yacreader.com/) :warning: [:src:](https://github.com/YACReader/yacreader) <tooltip>For some lossy original images it won't work. Kinda random.</tooltip> | :win::app::lin: |
+| ^^ | [Komelia](https://github.com/Snd-R/Komelia) | :win::lin: |
+| Photo Viewer | [XnView MP](https://www.xnview.com/en/xnview/) :cs: | :win::app::lin:|
+| ^^ | [Picview](https://picview.org/) [:src:](https://github.com/Ruben2776/PicView/) | :win: |
+| ^^ | [Bandiview](https://en.bandisoft.com/bandiview/) :cs::paid: | :win: |
+
+:::
+
+## Guide
+
+::: tabs
+
+== Neeview
+
+:::steps
+1. Install [**jxl-winthumb**](https://github.com/saschanaz/jxl-winthumb).
+2. Open Neeview -> Option -> Settings -> File Types.
+3. Click **Add** in Image file extensions and add `.jxl`. Done.
+:::
+
+== YACReader
+
+:::steps
+1. Download `qjpegxl6.dll` from the latest release [**here**](https://github.com/novomesk/qt-jpegxl-image-plugin).
+2. Put the file in `C:\Program Files\YACReader\imageformats\`. Done.
+:::
+
+:::

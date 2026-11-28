@@ -1,0 +1,2 @@
+- Generally good video quality.
+- Has optimization issues and long buffer times, won't load at all on some devices.

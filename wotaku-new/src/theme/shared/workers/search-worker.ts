@@ -1,0 +1,440 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+import MiniSearch, {
+  type Options,
+  type SearchOptions,
+  type SearchResult
+} from 'minisearch'
+
+import type { PageLink, TabTarget } from '../../../build/vite/url-search-plugin'
+
+interface Result {
+  tabs?: string[]
+  title: string
+  titles: string[]
+  text?: string
+}
+
+type SearchMode = 'exact' | 'fuzzy' | 'url'
+
+type PlainRecord = Record<string, unknown>
+
+interface SearchConfig {
+  options?: PlainRecord
+  searchOptions?: PlainRecord
+  useDefaultBoostDocument?: boolean
+}
+
+interface PageGroupCount {
+  key: string
+  count: number
+}
+
+interface LoadIndexRequest {
+  type: 'load-index'
+  id: number
+  localeIndex: string
+  indexJson: unknown
+  indexVersion: number
+  config: SearchConfig
+}
+
+interface TextSearchRequest {
+  type: 'text-search'
+  id: number
+  query: string
+  mode: SearchMode
+  pageOrderEntries: [string, number][]
+}
+
+interface UrlSearchRequest {
+  type: 'url-search'
+  id: number
+  query: string
+  pageOrderEntries: [string, number][]
+}
+
+interface PreloadMetadataRequest {
+  type: 'preload-metadata'
+  id: number
+  pageOrderEntries: [string, number][]
+}
+
+type SearchWorkerRequest =
+  | LoadIndexRequest
+  | TextSearchRequest
+  | UrlSearchRequest
+  | PreloadMetadataRequest
+
+type WorkerSearchResult = SearchResult & Result
+
+let searchIndex: MiniSearch<Result> | null = null
+let searchIndexKey = ''
+let urlLinks: PageLink[] = []
+let urlLinkHrefsLower: string[] = []
+let urlLinksPromise: Promise<void> | null = null
+let tabTargetMap = new Map<string, string[]>()
+let tabTargetsPromise: Promise<void> | null = null
+let pageOrder = new Map<string, number>()
+let docOrder = new Map<string, number>()
+
+function defaultBoostDocument(
+  _: string,
+  term: string,
+  storedFields: Record<string, string | string[]>
+) {
+  const titles = ((storedFields?.titles as string[] | undefined) ?? [])
+    .filter((t) => Boolean(t))
+    .map((t) => t.toLowerCase())
+  const titleIndex =
+    titles.map((t, i) => (t?.includes(term) ? i : -1)).find((i) => i >= 0) ?? -1
+
+  if (titleIndex >= 0) return 10000 - titleIndex
+
+  return 1
+}
+
+function stableStringify(value: unknown): string {
+  if (value === null || typeof value !== 'object') return JSON.stringify(value)
+
+  if (Array.isArray(value)) return `[${value.map(stableStringify).join(',')}]`
+
+  const object = value as Record<string, unknown>
+  return `{${Object.keys(object)
+    .sort()
+    .map((key) => `${JSON.stringify(key)}:${stableStringify(object[key])}`)
+    .join(',')}}`
+}
+
+function setPageOrder(entries: [string, number][]) {
+  pageOrder = new Map(entries)
+}
+
+function getPageKey(id: string) {
+  return id.split('#')[0].replace(/\/$/, '')
+}
+
+function getAnchorKey(pageId: string, anchor: string) {
+  return `${pageId.replace(/\/$/, '')}\x00${anchor}`
+}
+
+function getResultLocation(id: unknown) {
+  const value = String(id)
+  const hashIndex = value.indexOf('#')
+
+  return {
+    anchor: hashIndex >= 0 ? value.slice(hashIndex + 1) : '',
+    pageId: getPageKey(value)
+  }
+}
+
+function getPageOrder(key: string) {
+  return pageOrder.get(key) ?? Number.MAX_SAFE_INTEGER
+}
+
+function getDocOrder(id: string) {
+  return docOrder.get(id) ?? Number.MAX_SAFE_INTEGER
+}
+
+function compareByPageAndDoc(a: { id: unknown }, b: { id: unknown }) {
+  const aId = String(a.id)
+  const bId = String(b.id)
+  const pageDiff = getPageOrder(getPageKey(aId)) - getPageOrder(getPageKey(bId))
+
+  if (pageDiff !== 0) return pageDiff
+
+  return getDocOrder(aId) - getDocOrder(bId)
+}
+
+function stripMarkdown(value: string) {
+  return value
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .replace(/[*_~]/g, '')
+    .trim()
+}
+
+function getQueryTerms(query: string) {
+  return query
+    .toLowerCase()
+    .split(/\s+/)
+    .map((term) => term.trim())
+    .filter(Boolean)
+}
+
+function findMatchingLinksForResult(result: WorkerSearchResult, query: string) {
+  const pageId = getPageKey(String(result.id))
+  const anchor = String(result.id).split('#')[1] ?? ''
+  const terms = getQueryTerms(query)
+
+  if (!terms.length) return []
+
+  return urlLinks.filter((link) => {
+    if (link.pageId.replace(/\/$/, '') !== pageId || link.anchor !== anchor) {
+      return false
+    }
+
+    const linkText = stripMarkdown(link.linkText).toLowerCase()
+    return terms.every((term) => linkText.includes(term))
+  })
+}
+
+function withLinkPathTitles(results: WorkerSearchResult[], query: string) {
+  if (!urlLinks.length) return results
+
+  const expanded: WorkerSearchResult[] = []
+
+  for (const result of results) {
+    const links = findMatchingLinksForResult(result, query)
+
+    if (!links.length) {
+      expanded.push(result)
+    } else {
+      for (let i = 0; i < links.length; i++) {
+        const link = links[i]
+        expanded.push({
+          ...result,
+          title: stripMarkdown(link.linkText),
+          titles: link.titles,
+          _linkIndex: i,
+          ...(link.tabs?.length ? { tabs: link.tabs } : {})
+        })
+      }
+    }
+  }
+
+  return expanded
+}
+
+function getTabsForResult(result: WorkerSearchResult) {
+  if (result.tabs?.length) return result.tabs
+
+  const { pageId, anchor } = getResultLocation(result.id)
+  return tabTargetMap.get(getAnchorKey(pageId, anchor))
+}
+
+function withTabMetadata(results: WorkerSearchResult[]) {
+  if (!tabTargetMap.size) return results
+
+  return results.map((result) => {
+    const tabs = getTabsForResult(result)
+    return tabs?.length ? { ...result, tabs } : result
+  })
+}
+
+function rebuildDocOrder(index: MiniSearch<Result>) {
+  const map = new Map<string, number>()
+  const ids = (index as any)._documentIds
+
+  if (ids instanceof Map) {
+    let i = 0
+
+    for (const originalId of ids.values()) {
+      map.set(String(originalId), i++)
+    }
+  } else if (ids && typeof ids === 'object') {
+    const keys = Object.keys(ids)
+      .map(Number)
+      .sort((a, b) => a - b)
+    let i = 0
+
+    for (const key of keys) {
+      map.set(String(ids[key]), i++)
+    }
+  }
+
+  docOrder = map
+}
+
+async function loadSearchIndex(
+  localeIndex: string,
+  indexVersion: number,
+  indexJson: unknown,
+  config: SearchConfig
+) {
+  const key = `${localeIndex}\n${indexVersion}\n${stableStringify(config)}`
+
+  if (searchIndex && searchIndexKey === key) return
+
+  const searchOptions = {
+    boost: { title: 10, titles: 4, text: 1 },
+    ...config.searchOptions,
+    ...(config.useDefaultBoostDocument ? { boostDocument: defaultBoostDocument } : {})
+  } as SearchOptions
+
+  searchIndex = MiniSearch.loadJSON<Result>(
+    indexJson as any,
+    {
+      fields: ['title', 'titles', 'text'],
+      storeFields: ['title', 'titles'],
+      searchOptions,
+      ...config.options
+    } as Options<Result>
+  )
+  searchIndexKey = key
+  rebuildDocOrder(searchIndex)
+}
+
+async function textSearch(message: TextSearchRequest) {
+  setPageOrder(message.pageOrderEntries)
+
+  if (!searchIndex) throw new Error('Search index has not been loaded')
+
+  const dynamicSearchOptions = {
+    fuzzy: message.mode === 'fuzzy' ? (0.3 as number | false) : false,
+    prefix: message.mode === 'fuzzy' ? (term: string) => term.length > 3 : false,
+    maxFuzzy: message.mode === 'fuzzy' ? 1 : 0,
+    boost: { title: 10, titles: 4, text: 1 }
+  } as SearchOptions
+
+  const ranked = searchIndex.search(
+    message.query,
+    dynamicSearchOptions
+  ) as WorkerSearchResult[]
+
+  const top = ranked.slice(0, 50)
+  const seen = new Set(top.map((r) => r.id))
+  const titleHits = ranked.filter(
+    (r) => !seen.has(r.id) && r.match && Object.keys(r.match).length > 0
+  )
+  const results = [...top, ...titleHits].sort(compareByPageAndDoc)
+  await ensureSearchMetadata()
+  const displayResults = withTabMetadata(withLinkPathTitles(results, message.query))
+  const terms = new Set<string>()
+
+  for (const result of displayResults) {
+    for (const term in result.match) terms.add(term)
+  }
+
+  return {
+    results: displayResults,
+    terms: [...terms]
+  }
+}
+
+async function ensureUrlLinks() {
+  if (urlLinks.length > 0) return
+
+  if (urlLinksPromise) {
+    await urlLinksPromise
+    return
+  }
+
+  urlLinksPromise = fetch('/url-search-index.json')
+    .then((r) => r.json())
+    .then((data: PageLink[]) => {
+      data.sort((a, b) => getPageOrder(a.pageId) - getPageOrder(b.pageId))
+      urlLinks = data
+      urlLinkHrefsLower = data.map((link) => link.href.toLowerCase())
+    })
+    .catch(() => {
+      urlLinks = []
+      urlLinkHrefsLower = []
+    })
+    .finally(() => {
+      urlLinksPromise = null
+    })
+  await urlLinksPromise
+}
+
+async function ensureTabTargets() {
+  if (tabTargetMap.size > 0) return
+
+  if (tabTargetsPromise) {
+    await tabTargetsPromise
+    return
+  }
+
+  tabTargetsPromise = fetch('/tab-search-index.json')
+    .then((r) => r.json())
+    .then((data: TabTarget[]) => {
+      tabTargetMap = new Map(
+        data.map((target) => [getAnchorKey(target.pageId, target.anchor), target.tabs])
+      )
+    })
+    .catch(() => {
+      tabTargetMap = new Map()
+    })
+    .finally(() => {
+      tabTargetsPromise = null
+    })
+  await tabTargetsPromise
+}
+
+async function ensureSearchMetadata() {
+  await Promise.all([ensureUrlLinks(), ensureTabTargets()])
+}
+
+async function urlSearch(message: UrlSearchRequest) {
+  setPageOrder(message.pageOrderEntries)
+  await ensureSearchMetadata()
+
+  const query = message.query.trim().toLowerCase()
+
+  if (!query) return { matches: [], pageGroups: [] }
+
+  const matches: PageLink[] = []
+  const pageGroups = new Map<string, PageGroupCount>()
+
+  for (let i = 0; i < urlLinks.length; i++) {
+    if (!urlLinkHrefsLower[i].includes(query)) continue
+
+    const link = urlLinks[i]
+
+    if (link.tabs?.length) {
+      matches.push(link)
+    } else {
+      const tabs = tabTargetMap.get(getAnchorKey(link.pageId, link.anchor))
+      matches.push(tabs?.length ? { ...link, tabs } : link)
+    }
+
+    const existing = pageGroups.get(link.pageId)
+
+    if (existing) existing.count++
+    else pageGroups.set(link.pageId, { key: link.pageId, count: 1 })
+  }
+
+  return {
+    matches,
+    pageGroups: [...pageGroups.values()].sort(
+      (a, b) => getPageOrder(a.key) - getPageOrder(b.key)
+    )
+  }
+}
+
+self.onmessage = async (event: MessageEvent<SearchWorkerRequest>) => {
+  const message = event.data
+
+  try {
+    const payload =
+      message.type === 'load-index'
+        ? await loadSearchIndex(
+            message.localeIndex,
+            message.indexVersion,
+            message.indexJson,
+            message.config
+          )
+        : message.type === 'text-search'
+          ? await textSearch(message)
+          : message.type === 'preload-metadata'
+            ? (setPageOrder(message.pageOrderEntries), await ensureSearchMetadata())
+            : await urlSearch(message)
+    self.postMessage({
+      type: `${message.type}:success`,
+      id: message.id,
+      payload
+    })
+  } catch (error) {
+    self.postMessage({
+      type: `${message.type}:error`,
+      id: message.id,
+      error: error instanceof Error ? error.message : String(error)
+    })
+  }
+}

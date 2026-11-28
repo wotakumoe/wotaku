@@ -1,0 +1,1580 @@
+<!--
+  All Rights Reserved
+
+  Copyright (c) 2026 taskylizard
+
+  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+-->
+
+<script setup lang="ts">
+import { ArrowLeft, CircleHelp } from 'lucide-vue-next'
+import { renderCardIcon } from '../../shared/link-card/icon-markup'
+import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
+import type { HomeCard } from '../../../shared/constants'
+
+const props = defineProps<{ cards: HomeCard[] }>()
+
+const STORAGE_KEY = 'wotaku-home-cards-v3'
+const PREFS_KEY = 'wotaku-home-prefs-v1'
+
+interface CardState {
+  homepage: string[]
+}
+
+function defaultState(): CardState {
+  return {
+    homepage: props.cards.filter((c) => c.featured).map((c) => c.id)
+  }
+}
+
+function loadState(): CardState {
+  if (typeof window === 'undefined') return defaultState()
+
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY)
+
+    if (!raw) return defaultState()
+
+    const parsed: CardState = JSON.parse(raw)
+    const allIds = new Set(props.cards.map((c) => c.id))
+    return { homepage: (parsed.homepage ?? []).filter((id) => allIds.has(id)) }
+  } catch {
+    return defaultState()
+  }
+}
+
+const mounted = ref(false)
+const state = ref<CardState>(defaultState())
+
+onMounted(() => {
+  state.value = loadState()
+  const prefs = loadPrefs()
+  columnMode.value = prefs.columnMode
+  viewMode.value = prefs.viewMode
+  mounted.value = true
+})
+
+function save() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state.value))
+}
+
+const cardMap = computed(() => new Map(props.cards.map((c) => [c.id, c])))
+
+const homepageSet = computed(() => new Set(state.value.homepage))
+
+const visibleCards = computed(() =>
+  state.value.homepage.map((id) => cardMap.value.get(id)!).filter(Boolean)
+)
+
+const grid = computed(() => {
+  const n = visibleCards.value.length
+
+  if (n === 0) return undefined
+
+  if (columnMode.value === 'max') return 'grid-max'
+
+  if (n === 2) return 'grid-2'
+
+  if (n === 3) return 'grid-3'
+
+  if (n % 3 === 0) return 'grid-6'
+
+  if (n > 3) return 'grid-4'
+
+  return undefined
+})
+
+const panelGrid = computed(() => {
+  if (columnMode.value === 'max') return 'grid-max'
+
+  const n = props.cards.length
+
+  if (n === 2) return 'grid-2'
+
+  if (n === 3) return 'grid-3'
+
+  if (n % 3 === 0) return 'grid-6'
+
+  if (n > 3) return 'grid-4'
+
+  return undefined
+})
+
+const panelOpen = ref(false)
+const dropdownOpen = ref(false)
+
+type HelpSection = 'view' | 'columns'
+const activeHelpSection = ref<HelpSection | null>(null)
+const helpPopupEl = ref<HTMLDivElement | null>(null)
+const settingsDropdownEl = ref<HTMLDivElement | null>(null)
+const helpPopupPos = ref({ top: -9999, left: -9999 })
+
+watch(dropdownOpen, (val) => {
+  if (!val) {
+    activeHelpSection.value = null
+    helpPopupPos.value = { top: -9999, left: -9999 }
+  }
+})
+
+const canHoverHelp = () =>
+  typeof window !== 'undefined' && window.matchMedia('(hover: hover)').matches
+
+function positionHelpPopup(btn: HTMLElement) {
+  helpPopupPos.value = { top: -9999, left: -9999 }
+  const rect = btn.getBoundingClientRect()
+  // Anchor to the dropdown's left edge so the popup sits beside it, not over it.
+  const menuRect = settingsDropdownEl.value?.getBoundingClientRect()
+  nextTick(() => {
+    const popupW = helpPopupEl.value?.offsetWidth || 260
+    const popupH = helpPopupEl.value?.offsetHeight || 200
+    const vw = window.innerWidth
+    const margin = 8
+    const isMobile = vw < 768
+
+    if (isMobile) {
+      const aboveTop = rect.top - popupH - margin
+      const belowTop = rect.bottom + margin
+      const top = aboveTop >= margin ? aboveTop : belowTop
+      const left = Math.max(margin, Math.min((vw - popupW) / 2, vw - popupW - margin))
+      helpPopupPos.value = { top, left }
+    } else {
+      const anchorLeft = menuRect ? menuRect.left : rect.left
+      helpPopupPos.value = {
+        left: Math.max(margin, anchorLeft - popupW - 16),
+        top: Math.max(margin, Math.min(rect.top, window.innerHeight - popupH - margin))
+      }
+    }
+  })
+}
+
+function closeHelpSection() {
+  activeHelpSection.value = null
+  helpPopupPos.value = { top: -9999, left: -9999 }
+}
+
+function toggleHelpSection(section: HelpSection, e: MouseEvent) {
+  // Hover devices open/close via mouseenter/leave; touch devices toggle on tap.
+  if (canHoverHelp()) {
+    activeHelpSection.value = section
+    positionHelpPopup(e.currentTarget as HTMLElement)
+    return
+  }
+
+  if (activeHelpSection.value === section) {
+    closeHelpSection()
+    return
+  }
+
+  activeHelpSection.value = section
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpEnter(section: HelpSection, e: MouseEvent) {
+  if (!canHoverHelp()) return
+
+  activeHelpSection.value = section
+  positionHelpPopup(e.currentTarget as HTMLElement)
+}
+
+function onHelpLeave() {
+  if (!canHoverHelp()) return
+
+  closeHelpSection()
+}
+
+watch(panelOpen, (open) => {
+  if (typeof document !== 'undefined') document.body.style.overflow = open ? 'hidden' : ''
+})
+
+function onKeydown(e: KeyboardEvent) {
+  if (e.key === 'Escape') {
+    panelOpen.value = false
+    cardTooltip.value = null
+  }
+}
+
+onMounted(() => document.addEventListener('keydown', onKeydown))
+onUnmounted(() => document.removeEventListener('keydown', onKeydown))
+
+function loadPrefs() {
+  if (typeof window === 'undefined')
+    return { columnMode: 'default' as const, viewMode: 'default' as const }
+
+  try {
+    const p = JSON.parse(localStorage.getItem(PREFS_KEY) ?? '{}')
+    return {
+      columnMode: p.columnMode === 'max' ? ('max' as const) : ('default' as const),
+      viewMode: p.viewMode === 'mini' ? ('mini' as const) : ('default' as const)
+    }
+  } catch {
+    return { columnMode: 'default' as const, viewMode: 'default' as const }
+  }
+}
+
+const columnMode = ref<'default' | 'max'>('default')
+const viewMode = ref<'default' | 'mini'>('default')
+
+watch([columnMode, viewMode], () => {
+  localStorage.setItem(
+    PREFS_KEY,
+    JSON.stringify({
+      columnMode: columnMode.value,
+      viewMode: viewMode.value
+    })
+  )
+})
+
+const homepageSectionCards = computed(() =>
+  state.value.homepage.map((id) => cardMap.value.get(id)!).filter(Boolean)
+)
+
+const otherSections = computed(() => {
+  const sectionMap = new Map<string, HomeCard[]>()
+
+  for (const card of props.cards) {
+    const s = card.section ?? 'Pages'
+
+    if (!sectionMap.has(s)) sectionMap.set(s, [])
+
+    if (!homepageSet.value.has(card.id)) sectionMap.get(s)!.push(card)
+  }
+
+  return Array.from(sectionMap.entries()).map(([label, cards]) => ({ label, cards }))
+})
+
+function toggleCard(id: string) {
+  if (homepageSet.value.has(id)) {
+    state.value.homepage = state.value.homepage.filter((hid) => hid !== id)
+  } else {
+    state.value.homepage.push(id)
+  }
+
+  save()
+}
+
+function showAll() {
+  const current = new Set(state.value.homepage)
+  const toAdd = props.cards.filter((c) => !current.has(c.id)).map((c) => c.id)
+  state.value.homepage = [...state.value.homepage, ...toAdd]
+  save()
+}
+
+function hideAll() {
+  state.value.homepage = []
+  save()
+}
+
+function resetDefaults() {
+  state.value = defaultState()
+  columnMode.value = 'default'
+  viewMode.value = 'default'
+  save()
+}
+
+const cardTooltip = ref<{ text: string; x: number; y: number } | null>(null)
+
+function showCardTooltip(e: MouseEvent, title: string) {
+  if (!window.matchMedia('(hover: hover)').matches) return
+
+  const rect = (e.currentTarget as HTMLElement).getBoundingClientRect()
+  cardTooltip.value = { text: title, x: rect.left + rect.width / 2, y: rect.top }
+}
+
+function hideCardTooltip() {
+  cardTooltip.value = null
+}
+
+const dragging = ref<string | null>(null)
+const dragTarget = ref<string | null>(null)
+const cardListEl = ref<HTMLElement | null>(null)
+const ghostPos = ref<{ x: number; y: number } | null>(null)
+
+function onHandlePointerDown(e: PointerEvent, id: string) {
+  e.preventDefault()
+  dragging.value = id
+  dragTarget.value = null
+  ghostPos.value = { x: e.clientX, y: e.clientY }
+  ;(e.currentTarget as HTMLElement).setPointerCapture(e.pointerId)
+}
+
+function onHandlePointerMove(e: PointerEvent) {
+  if (!dragging.value) return
+
+  ghostPos.value = { x: e.clientX, y: e.clientY }
+  const items = cardListEl.value?.querySelectorAll<HTMLElement>('[data-card-id]')
+
+  if (!items) return
+
+  for (const item of items) {
+    const rect = item.getBoundingClientRect()
+
+    if (
+      e.clientX >= rect.left &&
+      e.clientX <= rect.right &&
+      e.clientY >= rect.top &&
+      e.clientY <= rect.bottom
+    ) {
+      const id = item.dataset.cardId!
+
+      if (id !== dragging.value) dragTarget.value = id
+
+      break
+    }
+  }
+}
+
+function onHandlePointerUp() {
+  if (dragging.value && dragTarget.value) {
+    const order = [...state.value.homepage]
+    const from = order.indexOf(dragging.value)
+    const to = order.indexOf(dragTarget.value)
+
+    if (from !== -1 && to !== -1) {
+      order.splice(from, 1)
+      order.splice(to, 0, dragging.value)
+      state.value.homepage = order
+      save()
+    }
+  }
+
+  dragging.value = null
+  dragTarget.value = null
+  ghostPos.value = null
+}
+</script>
+
+<template>
+  <div class="home-features" :class="{ 'is-mounted': mounted }">
+    <div class="container">
+      <div class="card-toolbar">
+        <button class="gear-btn" aria-label="Customize cards" @click="panelOpen = true">
+          <span class="i-lucide-ellipsis" />
+        </button>
+      </div>
+      <div class="items" :class="{ 'view-mini': viewMode === 'mini' }">
+        <div v-for="card in visibleCards" :key="card.id" class="item" :class="grid">
+          <a class="card" :href="card.link">
+            <article class="box">
+              <div class="icon" v-html="renderCardIcon(card.icon)" />
+              <h2 class="title">{{ card.title }}</h2>
+              <p class="details">{{ card.details }}</p>
+            </article>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <Teleport to="body">
+    <Transition name="fade">
+      <div v-if="panelOpen" class="backdrop" @click.self="panelOpen = false">
+        <Transition name="slide-up" appear>
+          <div
+            v-if="panelOpen"
+            class="panel"
+            role="dialog"
+            aria-modal="true"
+            aria-label="Customize cards"
+          >
+            <div class="panel-head">
+              <button class="panel-back" aria-label="Back" @click="panelOpen = false">
+                <ArrowLeft :size="18" :stroke-width="2" />
+              </button>
+              <span class="panel-title">Customize Cards</span>
+              <button class="close-btn" aria-label="Close" @click="panelOpen = false">
+                <span class="i-lucide-x" />
+              </button>
+            </div>
+
+            <div class="card-sections">
+              <!-- Homepage section (draggable) -->
+              <div class="section-label">Homepage</div>
+              <ul ref="cardListEl" class="card-list" :class="panelGrid">
+                <li v-if="homepageSectionCards.length === 0" class="empty-box">
+                  <span class="empty-hint">No cards have been selected</span>
+                </li>
+                <li
+                  v-for="card in homepageSectionCards"
+                  :key="card.id"
+                  :data-card-id="card.id"
+                  class="card-row"
+                  @mouseenter="showCardTooltip($event, card.title)"
+                  @mouseleave="hideCardTooltip"
+                  :class="{
+                    'is-dragging': dragging === card.id,
+                    'is-over': dragTarget === card.id && dragging !== card.id
+                  }"
+                >
+                  <span
+                    class="row-handle"
+                    aria-hidden="true"
+                    @pointerdown="onHandlePointerDown($event, card.id)"
+                    @pointermove="onHandlePointerMove"
+                    @pointerup="onHandlePointerUp"
+                  >
+                    <span class="i-lucide-grip-vertical" />
+                  </span>
+                  <span class="row-icon" v-html="renderCardIcon(card.icon)" />
+                  <span class="row-name">{{ card.title }}</span>
+                  <button
+                    class="row-toggle active"
+                    aria-label="Remove from homepage"
+                    @click="toggleCard(card.id)"
+                  >
+                    <span class="i-lucide-eye" />
+                  </button>
+                </li>
+              </ul>
+
+              <!-- Other sections (Pages, Extensions, Other…) -->
+              <template v-for="section in otherSections" :key="section.label">
+                <div class="section-label">{{ section.label }}</div>
+                <ul class="card-list" :class="panelGrid">
+                  <li v-if="section.cards.length === 0" class="empty-box">
+                    <span class="empty-hint"
+                      >All cards from this section have been selected</span
+                    >
+                  </li>
+                  <li
+                    v-for="card in section.cards"
+                    :key="card.id"
+                    class="card-row card-row-unselected"
+                    @mouseenter="showCardTooltip($event, card.title)"
+                    @mouseleave="hideCardTooltip"
+                  >
+                    <span class="row-handle-spacer" aria-hidden="true" />
+                    <span class="row-icon" v-html="renderCardIcon(card.icon)" />
+                    <span class="row-name">{{ card.title }}</span>
+                    <button
+                      class="row-toggle"
+                      aria-label="Add to homepage"
+                      @click="toggleCard(card.id)"
+                    >
+                      <span class="i-lucide-eye-off" />
+                    </button>
+                  </li>
+                </ul>
+              </template>
+            </div>
+
+            <div class="panel-foot">
+              <div class="foot-group">
+                <button class="tool-btn" aria-label="Show all" @click="showAll">
+                  <span class="i-lucide-eye" />
+                </button>
+                <button class="tool-btn" aria-label="Hide all" @click="hideAll">
+                  <span class="i-lucide-eye-off" />
+                </button>
+                <button
+                  class="tool-btn"
+                  aria-label="Reset to default"
+                  @click="resetDefaults"
+                >
+                  <span class="i-lucide-refresh-ccw" />
+                </button>
+              </div>
+              <div class="foot-group">
+                <div class="settings-wrap">
+                  <div
+                    v-if="dropdownOpen"
+                    class="dropdown-overlay"
+                    @click="dropdownOpen = false"
+                  />
+                  <div
+                    v-if="dropdownOpen"
+                    ref="settingsDropdownEl"
+                    class="settings-dropdown"
+                  >
+                    <div class="dropdown-section">
+                      <div class="dropdown-section-header">
+                        <span class="dropdown-label">
+                          <span class="i-lucide-layout-list dropdown-label-icon" />
+                          View
+                        </span>
+                        <button
+                          type="button"
+                          class="settings-help-btn"
+                          :class="{ active: activeHelpSection === 'view' }"
+                          aria-label="View help"
+                          @click.stop="toggleHelpSection('view', $event)"
+                          @mouseenter="onHelpEnter('view', $event)"
+                          @mouseleave="onHelpLeave"
+                        >
+                          <CircleHelp class="settings-help-icon" aria-hidden="true" />
+                        </button>
+                      </div>
+                      <div
+                        class="dropdown-group"
+                        :class="{ 'is-highlighted': activeHelpSection === 'view' }"
+                      >
+                        <button
+                          class="tool-btn"
+                          :class="{ 'is-active': viewMode === 'default' }"
+                          @click="viewMode = 'default'"
+                        >
+                          Default
+                        </button>
+                        <button
+                          class="tool-btn"
+                          :class="{ 'is-active': viewMode === 'mini' }"
+                          @click="viewMode = 'mini'"
+                        >
+                          Mini
+                        </button>
+                      </div>
+                    </div>
+                    <div class="dropdown-section">
+                      <div class="dropdown-section-header">
+                        <span class="dropdown-label">
+                          <span class="i-lucide-columns-3-cog dropdown-label-icon" />
+                          Columns
+                        </span>
+                        <button
+                          type="button"
+                          class="settings-help-btn"
+                          :class="{ active: activeHelpSection === 'columns' }"
+                          aria-label="Columns help"
+                          @click.stop="toggleHelpSection('columns', $event)"
+                          @mouseenter="onHelpEnter('columns', $event)"
+                          @mouseleave="onHelpLeave"
+                        >
+                          <CircleHelp class="settings-help-icon" aria-hidden="true" />
+                        </button>
+                      </div>
+                      <div
+                        class="dropdown-group"
+                        :class="{ 'is-highlighted': activeHelpSection === 'columns' }"
+                      >
+                        <button
+                          class="tool-btn"
+                          :class="{ 'is-active': columnMode === 'default' }"
+                          @click="columnMode = 'default'"
+                        >
+                          Default
+                        </button>
+                        <button
+                          class="tool-btn"
+                          :class="{ 'is-active': columnMode === 'max' }"
+                          @click="columnMode = 'max'"
+                        >
+                          Max
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                  <button
+                    class="tool-btn"
+                    :class="{ 'is-active': dropdownOpen }"
+                    aria-label="Display settings"
+                    @click.stop="dropdownOpen = !dropdownOpen"
+                  >
+                    <span class="i-lucide-settings" />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </Transition>
+      </div>
+    </Transition>
+
+    <div
+      v-if="cardTooltip"
+      class="card-tooltip"
+      :style="{ left: cardTooltip.x + 'px', top: cardTooltip.y + 'px' }"
+    >
+      {{ cardTooltip.text }}
+    </div>
+
+    <Transition name="help-popup-fade">
+      <div
+        v-if="activeHelpSection && dropdownOpen"
+        ref="helpPopupEl"
+        class="home-help-popup"
+        :style="{ top: helpPopupPos.top + 'px', left: helpPopupPos.left + 'px' }"
+      >
+        <template v-if="activeHelpSection === 'view'">
+          <h4 class="sh-title">
+            <span class="i-lucide-layout-list sh-title-icon" />
+            View
+          </h4>
+          <p class="sh-desc">Controls how cards are displayed on the homepage.</p>
+          <div class="sh-options">
+            <div class="sh-option">
+              <strong>
+                <span class="i-lucide-layout-grid sh-option-icon" />
+                Default
+              </strong>
+              <span>Full card with icon, title, and description.</span>
+            </div>
+            <div class="sh-option">
+              <strong>
+                <span class="i-lucide-rows-3 sh-option-icon" />
+                Mini
+              </strong>
+              <span>Compact row with icon and title only.</span>
+            </div>
+          </div>
+        </template>
+        <template v-else-if="activeHelpSection === 'columns'">
+          <h4 class="sh-title">
+            <span class="i-lucide-columns-3-cog sh-title-icon" />
+            Columns
+          </h4>
+          <p class="sh-desc">Controls how many columns the card grid uses.</p>
+          <div class="sh-options">
+            <div class="sh-option">
+              <strong>
+                <span class="i-lucide-columns-2 sh-option-icon" />
+                Default
+              </strong>
+              <span>Adapts automatically based on the number of cards.</span>
+            </div>
+            <div class="sh-option">
+              <strong>
+                <span class="i-lucide-columns-3 sh-option-icon" />
+                Max
+              </strong>
+              <span
+                >Always uses the maximum number of columns based on screen
+                resolution.</span
+              >
+            </div>
+          </div>
+        </template>
+      </div>
+    </Transition>
+
+    <Transition name="ghost-fade">
+      <div
+        v-if="dragging && ghostPos"
+        class="drag-ghost"
+        :style="{ left: ghostPos.x + 'px', top: ghostPos.y + 'px' }"
+      >
+        <span class="row-icon" v-html="renderCardIcon(cardMap.get(dragging)!.icon)" />
+        <span class="drag-ghost-name">{{ cardMap.get(dragging)?.title }}</span>
+      </div>
+    </Transition>
+  </Teleport>
+</template>
+
+<style scoped>
+.home-features {
+  position: relative;
+  padding: 0 24px;
+}
+
+.home-features .container {
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.home-features.is-mounted .container {
+  opacity: 1;
+}
+
+@media (min-width: 640px) {
+  .home-features {
+    padding: 0 48px;
+  }
+}
+
+@media (min-width: 960px) {
+  .home-features {
+    padding: 0 64px;
+  }
+}
+
+.container {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1152px;
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -8px;
+}
+
+.item {
+  padding: 8px;
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .item.grid-2,
+  .item.grid-4,
+  .item.grid-6 {
+    width: calc(100% / 2);
+  }
+}
+
+@media (min-width: 768px) {
+  .item.grid-2,
+  .item.grid-4 {
+    width: calc(100% / 2);
+  }
+  .item.grid-3,
+  .item.grid-6 {
+    width: calc(100% / 3);
+  }
+}
+
+@media (min-width: 960px) {
+  .item.grid-4 {
+    width: calc(100% / 4);
+  }
+}
+
+@media (min-width: 640px) {
+  .item.grid-max {
+    width: calc(100% / 2);
+  }
+}
+
+@media (min-width: 768px) {
+  .item.grid-max {
+    width: calc(100% / 3);
+  }
+}
+
+@media (min-width: 960px) {
+  .item.grid-max {
+    width: calc(100% / 4);
+  }
+}
+
+.card {
+  display: block;
+  border: 2px solid #3d3d3d;
+  border-radius: 12px;
+  height: 100%;
+  background-color: var(--wotaku-c-bg-soft);
+  transition:
+    border-color 0.25s,
+    background-color 0.25s;
+  text-decoration: none;
+  color: inherit;
+}
+
+.card:hover {
+  border-color: var(--wotaku-c-brand-1);
+}
+
+.card:active {
+  transform: none;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  height: 100%;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  background-color: var(--wotaku-c-default-soft);
+  width: 48px;
+  height: 48px;
+  font-size: 27px;
+  transition: background-color 0.25s;
+}
+
+.title {
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.details {
+  flex-grow: 1;
+  padding-top: 8px;
+  line-height: 24px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--wotaku-c-text-2);
+}
+
+.view-mini .box {
+  flex-direction: row;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 12px;
+}
+
+.view-mini .icon {
+  width: 32px;
+  height: 32px;
+  font-size: 18px;
+  margin-bottom: 0;
+  flex-shrink: 0;
+}
+
+.view-mini .title {
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+.view-mini .details {
+  display: none;
+}
+
+.card-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 4px;
+}
+
+.gear-btn {
+  background: none;
+  border: none;
+  padding: 4px;
+  color: var(--wotaku-c-text-2);
+  font-size: 18px;
+  cursor: pointer;
+  transition:
+    color 0.2s,
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  align-items: center;
+}
+
+.gear-btn:hover {
+  color: var(--wotaku-c-text-1);
+}
+
+.gear-btn:active {
+  transform: scale(0.94);
+}
+
+.backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+  overscroll-behavior: none;
+  touch-action: none;
+}
+
+@media (max-width: 767px) {
+  .backdrop {
+    align-items: stretch;
+  }
+}
+
+.panel {
+  width: min(520px, calc(100vw - 32px));
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  border: 2px solid #3d3d3d;
+  background: var(--wotaku-c-bg);
+}
+
+@media (max-width: 767px) {
+  .panel {
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
+    max-height: none;
+    border-radius: 0;
+    border: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .panel {
+    width: min(720px, calc(100vw - 32px));
+  }
+}
+
+@media (min-width: 960px) {
+  .panel {
+    width: min(940px, calc(100vw - 32px));
+  }
+}
+
+.panel-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--wotaku-c-divider);
+  flex-shrink: 0;
+}
+
+.panel-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--wotaku-c-text-1);
+}
+
+/* Phone-only back button. */
+.panel-back {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border: none;
+  background: transparent;
+  color: var(--wotaku-c-text-1);
+  font-size: 18px;
+  cursor: pointer;
+  transition: color 0.15s;
+}
+
+.panel-back:hover {
+  color: var(--wotaku-c-brand-1);
+}
+
+.close-btn {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  color: var(--wotaku-c-text-2);
+  font-size: 16px;
+  cursor: pointer;
+  transition:
+    color 0.15s,
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.close-btn:hover {
+  color: var(--wotaku-c-text-1);
+}
+
+.close-btn:active {
+  transform: scale(0.94);
+}
+
+.close-btn::after {
+  content: attr(aria-label);
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: var(--wotaku-c-bg-soft);
+  color: var(--wotaku-c-text-1);
+  border: 1px solid var(--wotaku-c-divider);
+  border-radius: 5px;
+  padding: 3px 8px;
+  font-size: 11px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+  z-index: 10;
+}
+
+@media (hover: hover) {
+  .close-btn:hover::after {
+    opacity: 1;
+  }
+}
+
+/* Phone: full-screen header (back arrow, no X). */
+@media (max-width: 767px) {
+  .panel-head {
+    height: 49px;
+    padding: 6px 8px;
+    justify-content: flex-start;
+    border-bottom-color: var(--wk-fs-header-divider);
+  }
+
+  .panel-back {
+    display: flex;
+  }
+
+  .close-btn {
+    display: none;
+  }
+}
+
+.card-sections {
+  overflow-y: auto;
+  min-height: 0;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  touch-action: pan-y;
+  overscroll-behavior: contain;
+}
+
+.section-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--wotaku-c-text-3, var(--wotaku-c-text-2));
+  padding: 8px 10px 2px;
+}
+
+.section-label:first-child {
+  padding-top: 2px;
+}
+
+.card-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2px;
+}
+
+@media (min-width: 640px) {
+  .card-list.grid-2,
+  .card-list.grid-4,
+  .card-list.grid-6,
+  .card-list.grid-max {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 768px) {
+  .card-list.grid-3,
+  .card-list.grid-6,
+  .card-list.grid-max {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 960px) {
+  .card-list.grid-4,
+  .card-list.grid-max {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+.card-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  border-radius: 8px;
+  transition:
+    background 0.15s,
+    opacity 0.15s;
+  user-select: none;
+  min-width: 0;
+}
+
+.card-row:hover {
+  background: var(--wotaku-c-bg-soft);
+}
+
+.card-row-unselected {
+  opacity: 0.45;
+}
+
+.card-row-unselected:hover {
+  opacity: 1;
+}
+
+.empty-box {
+  grid-column: 1 / -1;
+  list-style: none;
+  border-radius: 8px;
+  padding: 14px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image:
+    linear-gradient(90deg, var(--wotaku-c-divider) 6px, transparent 6px),
+    linear-gradient(90deg, var(--wotaku-c-divider) 6px, transparent 6px),
+    linear-gradient(0deg, var(--wotaku-c-divider) 6px, transparent 6px),
+    linear-gradient(0deg, var(--wotaku-c-divider) 6px, transparent 6px);
+  background-size:
+    10px 1px,
+    10px 1px,
+    1px 10px,
+    1px 10px;
+  background-position:
+    top left,
+    bottom left,
+    top left,
+    top right;
+  background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
+}
+
+.empty-hint {
+  font-size: 13px;
+  color: var(--wotaku-c-text-3, var(--wotaku-c-text-2));
+  font-style: italic;
+}
+
+.card-tooltip {
+  position: fixed;
+  z-index: 9999;
+  transform: translate(-50%, calc(-100% - 6px));
+  background: var(--wotaku-c-bg-soft);
+  color: var(--wotaku-c-text-1);
+  border: 1px solid var(--wotaku-c-divider);
+  border-radius: 5px;
+  padding: 3px 8px;
+  font-size: 11px;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.card-row.is-dragging {
+  opacity: 0.25;
+  cursor: grabbing;
+}
+
+.card-row.is-over {
+  background: var(--wotaku-c-brand-soft);
+  outline: 2px solid var(--wotaku-c-brand-1);
+  outline-offset: -2px;
+}
+
+.row-handle {
+  color: var(--wotaku-c-text-3, var(--wotaku-c-text-2));
+  font-size: 16px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  cursor: grab;
+  touch-action: none;
+}
+
+.row-handle:active {
+  cursor: grabbing;
+}
+
+.row-handle-spacer {
+  width: 16px;
+  flex-shrink: 0;
+}
+
+.row-icon {
+  font-size: 18px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  width: 20px;
+}
+
+.row-name {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--wotaku-c-text-1);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+
+.row-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  color: var(--wotaku-c-text-2);
+  font-size: 16px;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition:
+    color 0.15s,
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.row-toggle:hover,
+.row-toggle.active {
+  color: var(--wotaku-c-text-1);
+}
+
+.row-toggle:active {
+  transform: scale(0.94);
+}
+
+.panel-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 8px;
+  border-top: 1px solid var(--wotaku-c-divider);
+  flex-shrink: 0;
+  gap: 8px;
+}
+
+.foot-group {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.tool-btn {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--wotaku-c-text-2);
+  background: transparent;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 6px;
+  cursor: pointer;
+  transition:
+    color 0.15s,
+    background 0.15s,
+    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.tool-btn[aria-label]::after {
+  content: attr(aria-label);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--wotaku-c-bg-soft);
+  color: var(--wotaku-c-text-1);
+  border: 1px solid var(--wotaku-c-divider);
+  border-radius: 5px;
+  padding: 3px 8px;
+  font-size: 11px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+  z-index: 10;
+}
+
+@media (hover: hover) {
+  .tool-btn[aria-label]:hover::after {
+    opacity: 1;
+  }
+}
+
+.tool-btn:hover,
+.tool-btn.is-active {
+  color: var(--wotaku-c-text-1);
+  background: transparent;
+}
+
+.tool-btn:active {
+  transform: scale(0.94);
+}
+
+/* Respect the "effects off" preference */
+html.effects-disabled .gear-btn,
+html.effects-disabled .close-btn,
+html.effects-disabled .tool-btn,
+html.effects-disabled .row-toggle {
+  transition: none;
+}
+
+html.effects-disabled .gear-btn:active,
+html.effects-disabled .close-btn:active,
+html.effects-disabled .tool-btn:active,
+html.effects-disabled .row-toggle:active {
+  transform: none;
+}
+
+.dropdown-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.dropdown-section-header .dropdown-label {
+  margin-bottom: 0;
+}
+
+.settings-help-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: var(--wotaku-c-text-3);
+  opacity: 0.5;
+  transition:
+    opacity 0.15s,
+    color 0.15s;
+  border-radius: 3px;
+  line-height: 1;
+}
+
+.settings-help-btn:hover,
+.settings-help-btn.active {
+  opacity: 1;
+  color: var(--wotaku-c-text-1);
+}
+
+.settings-help-icon {
+  display: block;
+  width: 16px;
+  height: 16px;
+}
+
+.home-help-popup {
+  position: fixed;
+  z-index: 9999;
+  width: 280px;
+  background: var(--wotaku-c-bg-elv);
+  border: 1px solid var(--wotaku-c-divider);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  pointer-events: none;
+}
+
+.help-popup-fade-enter-active,
+.help-popup-fade-leave-active {
+  transition: opacity 0.15s ease;
+}
+
+.help-popup-fade-enter-from,
+.help-popup-fade-leave-to {
+  opacity: 0;
+}
+
+.sh-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--wotaku-c-text-1);
+  margin: 0 0 4px;
+}
+
+.sh-title-icon {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  display: block;
+}
+
+.sh-desc {
+  font-size: 0.875rem;
+  color: var(--wotaku-c-text-2);
+  margin: 0 0 6px;
+  line-height: 1.5;
+}
+
+.sh-options {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.sh-option {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: var(--wk-c-menu-bg);
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+
+.dark .sh-option {
+  background: var(--wk-c-menu-bg);
+}
+
+.sh-option strong {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--wotaku-c-text-1);
+}
+
+.sh-option-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
+.sh-option span {
+  font-size: 0.875rem;
+  color: var(--wotaku-c-text-2);
+  line-height: 1.4;
+}
+
+.settings-wrap {
+  position: relative;
+}
+
+.dropdown-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+}
+
+.settings-dropdown {
+  --seg-track: var(--wk-c-menu-bg);
+  --seg-pill-bg: var(--wotaku-c-bg);
+  --seg-pill-text: var(--wotaku-c-text-1);
+  --seg-pill-shadow: 0 2px 4px 0 #bababa8c;
+  position: absolute;
+  bottom: calc(100% + 8px);
+  right: 0;
+  z-index: 2;
+  min-width: 196px;
+  background: var(--wotaku-c-bg-elv);
+  border: 1px solid var(--wotaku-c-divider);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: var(--wotaku-shadow-3);
+}
+
+.dark .settings-dropdown {
+  --seg-track: var(--wk-c-menu-bg);
+  --seg-pill-bg: var(--wotaku-c-text-1);
+  --seg-pill-text: var(--wotaku-c-bg-elv);
+  --seg-pill-shadow: 0 2px 4px 0 #535353db;
+}
+
+.dropdown-section + .dropdown-section {
+  border-top: 1px solid var(--wotaku-c-divider);
+  margin-top: 8px;
+  padding-top: 8px;
+}
+
+.dropdown-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--wotaku-c-text-1);
+  margin-bottom: 0;
+}
+
+.dropdown-label-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
+.dropdown-group {
+  display: flex;
+  gap: 4px;
+  background: var(--seg-track);
+  border-radius: 8px;
+  padding: 4px;
+  outline: 2px dashed transparent;
+  outline-offset: 4px;
+  transition: outline-color 0.2s ease;
+}
+
+.dropdown-group.is-highlighted {
+  outline-color: var(--wotaku-c-brand-1);
+}
+
+.dropdown-group .tool-btn {
+  flex: 1;
+  justify-content: center;
+  border-radius: 6px;
+  color: var(--wotaku-c-text-1);
+  transition:
+    color 0.15s,
+    background 0.15s,
+    box-shadow 0.15s;
+}
+
+.dropdown-group .tool-btn:hover,
+.dropdown-group .tool-btn.is-active {
+  color: var(--seg-pill-text);
+  background: var(--seg-pill-bg);
+  box-shadow: var(--seg-pill-shadow);
+}
+
+.dropdown-group .tool-btn.is-active {
+  font-weight: 700;
+}
+
+.drag-ghost {
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px 6px 10px;
+  background: var(--wotaku-c-bg);
+  border: 1px solid var(--wotaku-c-brand-1);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  opacity: 0.88;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--wotaku-c-text-1);
+  white-space: nowrap;
+  user-select: none;
+  transform: translate(12px, -50%);
+}
+
+.drag-ghost-name {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--wotaku-c-text-1);
+}
+
+.ghost-fade-enter-active,
+.ghost-fade-leave-active {
+  transition: opacity 0.1s ease;
+}
+.ghost-fade-enter-from,
+.ghost-fade-leave-to {
+  opacity: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease;
+}
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.slide-up-enter-active {
+  transition:
+    transform 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+    opacity 0.2s ease;
+}
+.slide-up-leave-active {
+  transition:
+    transform 0.2s ease,
+    opacity 0.15s ease;
+}
+.slide-up-enter-from {
+  transform: translateY(20px);
+  opacity: 0;
+}
+.slide-up-leave-to {
+  transform: translateY(10px);
+  opacity: 0;
+}
+</style>

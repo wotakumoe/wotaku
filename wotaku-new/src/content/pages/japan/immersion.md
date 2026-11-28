@@ -1,0 +1,177 @@
+---
+title: Immersion
+description: Media to help you learn japanese
+customDescription: Media to help you learn japanese
+outline: [2,3]
+og:
+    image: /embed/jp.png
+---
+
+## Recommendation
+| Category | Resources |
+| :--- | :--- |
+| General | [Jiten](https://jiten.moe/decks/media?sortBy=difficulty) |
+| ^^ | [jpdb](https://jpdb.io/) |
+| ^^ | [Kuri](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/edit) |
+| ^^ | [Jo-Mako](https://docs.google.com/spreadsheets/d/1IytlD4JjYO5-38wP6VbFNjHQDaDEsx4WWi2Rs-gaamk/htmlview) |
+| ^^ | [Natively](https://learnnatively.com/) |
+| ^^ | [Acquiring Japanese Efficiently](https://docs.google.com/document/d/1LH82FjsCqCgp6-TFqUcS_EB15V7sx7O1VCjREp6Lexw/edit#heading=h.ct5zhbvvh3b8) |
+| Visual Novels | [Alanae](https://docs.google.com/document/u/1/d/1KnyyDt7jimEz-dgeMSKymRaT2r3QKBPm9AzqZ6oUWAs/pub) |
+| ^^ | [Jamal](https://anacreondjt.gitlab.io/vn-chart/) |
+| ^^ | [Chronopolize](https://docs.google.com/spreadsheets/d/18vCgQHhBNBeRJdcTcyUi2Atq-nAapQW--33qrwl5Yfw/edit) |
+| Light Novels | [Moeclub](https://bookmeter.com/users/1313898/) |
+| Video Games | [Game Gengo](https://docs.google.com/spreadsheets/u/0/d/14TKRFvnDmBsgfxCJzkaNKTKmx4qDcsv7QSmfyzIKxQ4/htmlview) |
+
+::: scrapetable {Topics}
+- Jiten : (Anime), (Audio), (Live Action), (Manga), (Non-Fiction), (Novels), (Light Novels), (Video Games), (Visual Novels), (Web Novels), (YouTube);
+- JPDB : (Anime), (Novels), (Light Novels), (Visual Novels), (Web Novels), (Live Action);
+- Kuri : (Anime), (Manga), (Novels), (Light Novels), (Visual Novels), (Video Games), (Live Action), (YouTube), (VTubers), (Podcasts);
+- Jo-Mako : (Course), (Anime), (Video Games), (Visual Novels), (Manga), (Live Action);
+- Natively : (Anime), (Live Action), (Manga), (Light Novels), (Non-Fiction), (Novels), (Reading);
+- JP Efficiently : (YouTube), (Novels), (Visual Novels), (Audio), (Reading), (Podcasts);
+:::
+
+::: info README
+- TV, Dramas and Movies have been merged as Live Action.
+- Easy reading, Graded books and other fictions are merged as Reading.
+:::
+
+## Watching
+
+::: tabs
+
+== Online
+
+| Category | Websites |
+| :--- | :--- |
+| **General** | [Anisub](https://anisub.tv/) |
+| ^^ | [Kisskh](https://kisskh.co/) :hd: ==m:kisskh== |
+| **Anime** | [Bettermelon](https://bettermelon.ru/) |
+| ^^ | [JP Classics](https://animation.filmarchives.jp/index.html) :hd: |
+| **Live Action** | [Asiaflix](https://asiaflix.net/shows?country=Japan) :hd: ==m:https://asiaflix.xyz== |
+| ^^ | [OneTouch TV](https://onetouchtv.xyz/) :hd: |
+| ^^ | [Kodasusaka](https://kodasusaka.com/) |
+| ^^ | [Viki](https://www.viki.com/categories/country/japan/genre/all) :fm::sub: ||JP Sub|| |
+
+== Download
+
+| Category | Websites |
+| :--- | :--- |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== <tooltip>Searching for anime with the 日 symbol will give results for uploads containing both chinese and japanese subs (usually statcked on top of each other). This trick works on both japanese and chinese trackers (found in the non-en section). The full nyaa link is: https://nyaa.si/?c=1_0&q=%E6%97%A5</tooltip> |
+| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
+| **Direct** :ddl: | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
+| ^^ | [Rare Doramas](https://www.raredoramas.com/) |
+| ^^ | [JPFiles](https://jpfiles.net/) :host: |
+
+== Subtitles
+- [Kitsunekko](https://kitsunekko.net/)
+- :prev: [Jimaku](https://jimaku.cc/) :s:
+- [AJATT's Japanese Subtitles](https://subtitles.ajatt.top/) [:src:](https://github.com/Ajatt-Tools/kitsunekko-mirror)
+- [Japanese Movies Subtitles](https://github.com/eurusdagr/Japanese-Movies-Subtitles) :ded:
+- [JPTV.club Subtitle Archive](https://i.wotaku.wiki/p/redirect) :ded:
+- [itazuraneko](https://djtguide.github.io/library/sub)
+- [Xavier's Retimed JP Sub Pack](https://nyaa.si/user/XavierSylfaen) :mag::ddl::ded:
+- [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) :ded:
+- [JP Audiobook Subtitles](https://github.com/ym1234/JPAudiobookSubtitles)
+- [Fully Automatic Retiming of Subtitles](https://youtu.be/x0h3ooBHrpk)
+
+== Live TV
+
+| Category | Websites |
+| :--- | :--- |
+| **General** | [Famelack](https://famelack.com/jp) |
+| ^^ | [Globe TV](https://globetv.app/) |
+| ^^ | [IPTV-Org](https://iptv-org.github.io/) :s: [:src:](https://github.com/iptv-org/iptv) [||JP||](https://iptv-org.github.io/iptv/countries/jp.m3u) [||JPN||](https://iptv-org.github.io/iptv/languages/jpn.m3u) |
+| **Japan** | [AQ Stream](https://aqstream.com/jp) |
+| ^^ | [FAST ch](https://fastv.jp/) :hd: |
+| ^^ | [Japanese TV](https://mov3.co/) :hd: |
+| ^^ | [Japanese IPTV Playlist](https://gitflic.ru/project/reaperc/jp-iptv) |
+| ^^ | [takelab](https://github.com/take2560/takelab) |
+| ^^ | [TVer](https://tver.jp/) ==TVer== |
+| **VODs** | [NHK Easy Japanese](https://www3.nhk.or.jp/nhkworld/lesson/) |
+| ^^ | [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/shows/category/28/) |
+
+:::
+
+## Reading
+
+::: tabs
+
+== General
+- [Nyaa](https://nyaa.si/) :mag: ==m:nyaa==
+
+== Manga
+- [Bilingual Manga](https://bilingualmanga.org/) :s: [||Backup||](https://github.com/B-M-dev/Bilingual_Manga-home-)
+- [Mokuro Catalog](https://mokuro.moe/catalog/) [||Nyaa||](https://nyaa.si/?q=Mokuro.moe)
+
+== Novels
+- [Elscione's Library](https://server.elscione.com/) :s: [:alt:](https://server.elsci.one/)
+- [All EPUBs](https://boroboro.neocities.org/listfullepub)
+- [Aozora Bunko](https://www.aozora.gr.jp/)
+- [boroboro](https://boroboro.neocities.org/)
+- [EPUB.moe](https://epub.moe/)
+- [Japanese Learner's Anthology](https://nyaa.si/?q=PeepoHappyBooks) :mag:
+- [lolibrary index](https://lolibrary.moe/)
+- [TMW eBook Collection](https://nyaa.si/?q=TMW+EPUB) :mag:
+
+== Easy Reading
+- [NHK News Web Easy](https://news.web.nhk/news/easy/)
+- [Easy Japanese](https://japanese.todaiinews.com/)
+- [e-douwa](https://www.e-douwa.com/)
+- [Free Tadoku Books](https://tadoku.org/japanese/en/free-books-en/)
+- [Satori Reader](https://www.satorireader.com/)
+- [Watanoc](https://watanoc.com/)
+- [Yomujp](https://yomujp.com/)
+
+== Webnovels
+- [Kakuyomu](https://kakuyomu.jp/)
+- [Syosetu](https://syosetu.com/)
+
+:::
+
+<Block icon="i-mdi-lightbulb-outline" link="/nonen/japanese#direct" >More in raw direct download</Block>
+
+## Listening
+
+::: tabs
+
+== Audiobooks
+- [Nyaa](https://nyaa.si/) :s::mag: ==m:nyaa==
+- [TMW Audiobook Collection](https://nyaa.si/?q=TMW+Audiobook) :mag: [||Index||](https://coreaudio.netlify.app/)
+- [Librivox](https://librivox.org/)
+- [Aozora Roudoku](https://aozoraroudoku.jp/index.html)
+
+== Podcasts
+- [Japanese Podcast Spreadsheet](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit)
+- [Japanese with Noriko](https://www.japanesewithnoriko.com/)
+- [Learn Japanese Podcast](https://learnjapanesepod.com/)
+- [The Konnichiwa Podcast](https://konnichiwapodcast.podbean.com/)
+
+== Others
+- [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
+- [Japanese Condensed Audio](https://i.wotaku.wiki/p/redirect)
+- [Japanese Radio](https://radio.nogi46.me/)
+
+:::
+
+## YouTube
+- [Natural Japanese](https://nijapanese.com/resources)
+- [Japanese Seeder Playlist](https://zenith-raincoat-5cf.notion.site/Japanese-Seeder-Playlist-15fc740a87d843a2a2a5f36a913af551)
+- [Volt's Japanese Subtitled Playlist](https://www.youtube.com/playlist?list=PLiPR3922q7iAsSm2EsQVMou0kCVavNR2c)
+- [AJATT: Fan Narrated](https://www.youtube.com/playlist?list=PLmPxwS02_wYP0Y7kprP9ZzLhlZjRSAHWv)
+- [Akane's JapaneseClass](https://www.youtube.com/@Akane-JapaneseClass)
+- [Ferumi](https://www.youtube.com/@ferumi/) 
+- [Japanese Immersion with Asami](https://www.youtube.com/@japaneseimmersionwithasami4249)
+- [Kaname Naito](https://www.youtube.com/@kanamenaito)
+- [Learn Japanese with Tanaka san](https://www.youtube.com/@japanese_tanakasan)
+- [Nihongo Con Teppei](https://www.youtube.com/@nihongoconteppei)
+- [Onomappu](https://www.youtube.com/@Onomappu)
+- [Sakura Tips](https://www.youtube.com/@SAKURATIPS)
+- [Seichan Bungaku](https://www.youtube.com/@seichan_bungaku)
+- [Speak Japanese Naturally](https://www.youtube.com/@SpeakJapaneseNaturally)
+- [YUYUの日本語Podcast](https://www.youtube.com/@yuyunihongopodcast)
+- [Fake Documentary "Q"](https://www.youtube.com/playlist?list=PLnjharIzqbhC6smXfbydrt8ha3z-XVod7)
+
+
+## Others
+- [NihongoTracker](https://nihongotracker.app/) [:src:](https://github.com/HitogiDev/NihongoTracker)

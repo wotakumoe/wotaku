@@ -1,0 +1,2 @@
+- A large portion of the library comes from Weeb Central.
+- Transcodes images to WebP.

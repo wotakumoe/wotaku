@@ -1,0 +1,56 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+import matter from 'gray-matter'
+import { readdirSync, readFileSync } from 'node:fs'
+import { basename, join, resolve } from 'pathe'
+import { contentRoot } from '../paths.ts'
+
+export interface TooltipData {
+  id: string
+  frontmatter: Record<string, string>
+  content: string
+}
+
+let tooltipsCache: TooltipData[] | null = null
+
+export function loadTooltips(): TooltipData[] {
+  if (tooltipsCache) return tooltipsCache
+
+  const tooltipsDir = resolve(contentRoot, 'tooltips')
+  const tooltips: TooltipData[] = []
+
+  try {
+    const files = readdirSync(tooltipsDir).filter((file) => file.endsWith('.md'))
+
+    for (const file of files) {
+      const filePath = join(tooltipsDir, file)
+      const fileContent = readFileSync(filePath, 'utf-8')
+      const { data, content } = matter(fileContent)
+
+      const id = basename(file, '.md')
+      const cleanContent = content.trim()
+
+      tooltips.push({
+        id,
+        frontmatter: data,
+        content: cleanContent
+      })
+    }
+  } catch (error) {
+    console.warn('Failed to load tooltips:', error)
+  }
+
+  tooltipsCache = tooltips
+  return tooltips
+}
+
+export function getTooltip(id: string): TooltipData | undefined {
+  const tooltips = loadTooltips()
+  return tooltips.find((tooltip) => tooltip.id === id)
+}

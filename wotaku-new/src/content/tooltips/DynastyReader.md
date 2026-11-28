@@ -1,0 +1,1 @@
+Collects scanlations by various groups, mainly focused on yuri.

@@ -1,0 +1,1 @@
+Archive of stuff removed from E-Hentai due to DMCA complaints. Has some obscure stuff deleted on most sites.

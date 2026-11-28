@@ -1,0 +1,1 @@
+Use "extension" as code to load all the extensions.

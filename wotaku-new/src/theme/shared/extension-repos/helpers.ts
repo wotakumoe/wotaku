@@ -1,0 +1,120 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+import { LANG_FLAG_FALLBACK, LANG_FLAG_ICONS } from '../../../build/markdown/lang-flags'
+import type { Rating } from '../../../shared/extension-repos/types'
+
+const flagCache = new Map<string, string>()
+const labelCache = new Map<string, string>()
+const stripCache = new Map<string, string>()
+const contentTypeCache = new Map<string, string>()
+
+const langDisplayNames = new Intl.DisplayNames(['en'], { type: 'language' })
+
+export function langFlagClass(lang: string = 'all'): string {
+  const key = lang.toLowerCase()
+  let hit = flagCache.get(key)
+
+  if (hit === undefined) {
+    hit = `i-twemoji-${
+      LANG_FLAG_ICONS[key] ?? LANG_FLAG_ICONS[key.split('-')[0]] ?? LANG_FLAG_FALLBACK
+    }`
+    flagCache.set(key, hit)
+  }
+
+  return hit
+}
+
+export function langLabel(lang: string = 'all'): string {
+  const key = lang.toLowerCase()
+  let hit = labelCache.get(key)
+
+  if (hit === undefined) {
+    if (key === 'all') hit = 'Multi-language'
+    else {
+      try {
+        hit = langDisplayNames.of(lang) ?? lang
+      } catch {
+        hit = lang
+      }
+    }
+
+    labelCache.set(key, hit)
+  }
+
+  return hit
+}
+
+export function stripHtml(html: string): string {
+  let hit = stripCache.get(html)
+
+  if (hit === undefined) {
+    hit = html.replace(/<[^>]*>/g, '').trim()
+
+    if (stripCache.size > 2000) stripCache.clear()
+
+    stripCache.set(html, hit)
+  }
+
+  return hit
+}
+
+const ESCAPE_MAP: Record<string, string> = {
+  '&': '&amp;',
+  '<': '&lt;',
+  '>': '&gt;',
+  '"': '&quot;'
+}
+
+export function escapeHtml(text: string): string {
+  return text.replace(/[&<>"]/g, (c) => ESCAPE_MAP[c])
+}
+
+export function ratingIcon(rating: Rating): string {
+  return rating === 'nsfw' ? 'i-twemoji-no-one-under-eighteen' : 'i-twemoji-warning'
+}
+
+export function ratingTitle(rating: Rating): string {
+  if (rating === 'nsfw') return 'NSFW'
+
+  if (rating === 'suggestive') return 'Mature'
+
+  return 'Mixed'
+}
+
+const CONTENT_TYPE_LABELS: Record<string, string> = {
+  plugin: 'Plugin',
+  'custom-source': 'Custom Source',
+  'onlinestream-provider': 'Online Streaming',
+  'manga-provider': 'Manga Provider',
+  'anime-torrent-provider': 'Anime Torrent',
+  movie: 'Movie',
+  series: 'Series',
+  anime: 'Anime',
+  tv: 'TV',
+  channel: 'Channel',
+  other: 'Other'
+}
+
+export function contentTypeLabel(type: string): string {
+  let hit = contentTypeCache.get(type)
+
+  if (hit === undefined) {
+    const mapped = CONTENT_TYPE_LABELS[type.toLowerCase()]
+    hit =
+      mapped ??
+      type
+        .toLowerCase()
+        .split('_')
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ')
+    contentTypeCache.set(type, hit)
+  }
+
+  return hit
+}

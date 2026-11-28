@@ -1,0 +1,311 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+import { align } from '@mdit/plugin-align'
+import { attrs } from '@mdit/plugin-attrs'
+import { figure } from '@mdit/plugin-figure'
+import { imgLazyload } from '@mdit/plugin-img-lazyload'
+import { imgSize } from '@mdit/plugin-img-size'
+import type { MarkdownRenderer } from '@/theme/shared/client'
+import MdMTables from 'markdown-it-multimd-table'
+import MdReg from 'markdown-it-regexp'
+import {
+  getCollapsibleHeadingAnchor,
+  getTabAnchor,
+  getTabHeadingAnchor,
+  getUniqueAnchor,
+  parseTabLabel
+} from '../../shared/tab-anchors.ts'
+import { getMirror } from '../data/mirrors.ts'
+import { getTooltip } from '../data/tooltips.ts'
+import { emojiRender } from './emoji.ts'
+import { extRepoPlugin } from './ext-repo-plugin.ts'
+import { headersPlugin } from './headers.ts'
+import { nestedContainersPlugin } from './nested-containers.ts'
+import { compatiblePlugin } from './plugins/compatibility.ts'
+import { scrapeTablePlugin } from './scrape-table-plugin.ts'
+import markdownSteps from './steps.ts'
+import { tableMorePlugin } from './table-more.ts'
+import { tabsMarkdownPlugin } from './tabs.ts'
+import { themeRepoPlugin } from './theme-repo-plugin.ts'
+
+export function configureMarkdown(md: MarkdownRenderer) {
+  md.use(emojiRender)
+  md.use(compatiblePlugin(imgLazyload))
+  md.use(compatiblePlugin(align))
+  md.use(compatiblePlugin(figure))
+  md.use(tabsMarkdownPlugin)
+  md.use(nestedContainersPlugin)
+  md.use(compatiblePlugin(imgSize))
+  md.use(headersPlugin)
+  md.use(compatiblePlugin(MdMTables), {
+    multiline: true,
+    rowspan: true,
+    headerless: true,
+    multibody: true,
+    aotolabel: true
+  })
+  md.use(compatiblePlugin(attrs))
+  renderMirrorTooltip(md)
+  renderLibrarySize(md)
+  renderTooltip(md)
+  renderInlineTooltip(md)
+  md.use(markdownSteps)
+  md.use(tableMorePlugin)
+  md.use(scrapeTablePlugin)
+  md.use(extRepoPlugin)
+  md.use(themeRepoPlugin)
+  renderHighlight(md)
+}
+
+function renderLibrarySize(md: MarkdownRenderer) {
+  md.use(
+    MdReg(/==l:(.+?)==/, ([, name]: string[]) => {
+      const site = name.trim().replace(/"/g, '&quot;')
+      return `<LibrarySize name="${site}" />`
+    })
+  )
+}
+
+function renderInlineTooltip(md: MarkdownRenderer) {
+  md.use(
+    MdReg(
+      /\^\[(.*?)\]\((.+?)\)/,
+      ([, cont, hint]: string[]) =>
+        '<VTooltip theme="hint">' +
+        span(md.renderInline(cont)) +
+        '<template v-slot:popper>' +
+        md.renderInline(hint) +
+        '</template></VTooltip>'
+    )
+  )
+}
+
+function renderMirrorTooltip(md: MarkdownRenderer) {
+  md.use(
+    MdReg(/==m:(.+?)==/, ([, cont]: string[]) => {
+      const id = cont.trim()
+
+      if (/^https?:\/\/\S+$/i.test(id)) {
+        const safeUrl = id.replace(/"/g, '&quot;')
+        return `<a href="${safeUrl}" target="_blank" rel="noopener noreferrer"><span class="icon-tip" data-tip="Mirrors" role="img" aria-label="Mirrors" tabindex="-1"><span class="i-material-symbols-directions-alt"></span></span></a>`
+      }
+
+      const item = getMirror(id)
+
+      if (!item) return `No mirror found for ${id}`
+
+      const title = (item.title || item.id).replace(/"/g, '&quot;')
+      const src = (item.src || '').replace(/"/g, '&quot;')
+      const note = (item.note || '').replace(/"/g, '&quot;')
+      const mirrorsAttr = JSON.stringify(item.mirrors).replace(/'/g, '&#39;')
+
+      return `<MirrorTooltip id="${id}" title="${title}" src="${src}" note="${note}" note-type="${item.noteType}" mirrors='${mirrorsAttr}' />`
+    })
+  )
+}
+
+function renderTooltip(md: MarkdownRenderer) {
+  md.use(
+    MdReg(/==(.+?)==/, ([, cont]: string[]) => {
+      const item = getTooltip(cont)
+
+      if (!item) return `No tooltip found for ${cont}`
+
+      const icon = item.frontmatter.icon ? `icon="${item.frontmatter.icon}"` : ''
+
+      const title = item.frontmatter.title
+        ? `title="${item.frontmatter.title}"`
+        : item.id
+          ? `title="${item.id}"`
+          : '' /** Impossible */
+      const props = icon + title
+      const renderedContent = md.render(item.content)
+
+      return `<Tooltip ${props}>` + renderedContent + '</Tooltip>'
+    })
+  )
+}
+
+function span(content: string, attrs?: Record<string, string>) {
+  let html = '<span'
+
+  if (attrs) {
+    for (const [key, value] of Object.entries(attrs)) {
+      html += ` ${key}="${value}"`
+    }
+  }
+
+  html += `>${content}</span>`
+  return html
+}
+
+function renderHighlight(md: MarkdownRenderer) {
+  const original = md.render.bind(md)
+  md.render = (src, env) => {
+    const withSearchHeadings = injectSearchHeadings(src)
+
+    // Replace [||text||](url) — linked pill
+    let replaced = withSearchHeadings.replace(
+      /\[([!x]?)\|\|(.+?)\|\|\]\((.+?)\)/g,
+      (_, prefix, cont, url) => {
+        const variant = prefix === '!' ? 'warning' : prefix === 'x' ? 'danger' : 'default'
+        const inner = md.renderInline(cont, env)
+        return `<a href="${url}" target="_blank" rel="noopener noreferrer"><hl variant="${variant}" linked="true">${inner}</hl></a>`
+      }
+    )
+    // Replace standalone ||text||
+    replaced = replaced.replace(/([!x]?)\|\|(.+?)\|\|/g, (_, prefix, cont) => {
+      const variant = prefix === '!' ? 'warning' : prefix === 'x' ? 'danger' : 'default'
+      return `<hl variant="${variant}">${md.renderInline(cont, env)}</hl>`
+    })
+    return original(replaced, env)
+  }
+}
+
+interface SearchHeading {
+  level: number
+  title: string
+}
+
+function getHeadingTitle(value: string) {
+  return value.replace(/\s+\{[^}]*\}\s*$/, '').trim()
+}
+
+function injectSearchHeadings(src: string) {
+  const lines = src.split('\n')
+  const containerStack: string[] = []
+  const headingStack: (SearchHeading | undefined)[] = []
+  const tabResetStack: (SearchHeading | undefined)[] = []
+  const tabAnchorCounts = new Map<string, number>()
+  const collapsibleAnchorCounts = new Map<string, number>()
+  const getCurrentHeading = () => {
+    for (let i = headingStack.length - 1; i >= 0; i--) {
+      if (headingStack[i]) return headingStack[i]
+    }
+  }
+  const isHeadingLine = (line: string | undefined) =>
+    /^#{1,6}\s+/.test(line?.trim() ?? '')
+
+  for (let i = 0; i < lines.length; i++) {
+    const headingMatch = lines[i].match(/^(#{1,6})\s+(.+)/)
+
+    if (headingMatch && !containerStack.includes('tabs')) {
+      const level = headingMatch[1].length
+      const title = getHeadingTitle(headingMatch[2])
+
+      if (title) {
+        headingStack[level - 1] = { level, title }
+        headingStack.length = level
+      }
+    }
+
+    const containerOpenMatch = lines[i].match(/^\s*:{3,}\s*([A-Za-z][\w-]*)\b/)
+
+    if (containerOpenMatch) {
+      const containerName = containerOpenMatch[1].toLowerCase()
+      containerStack.push(containerName)
+
+      if (containerName === 'tabs') tabResetStack.push(getCurrentHeading())
+    } else if (/^\s*:{3,}\s*$/.test(lines[i])) {
+      const closed = containerStack.pop()
+
+      if (closed === 'tabs') {
+        const resetHeading = tabResetStack.pop()
+        let nextLine = i + 1
+
+        while (nextLine < lines.length && lines[nextLine].trim() === '') {
+          nextLine++
+        }
+
+        if (resetHeading && nextLine < lines.length && !isHeadingLine(lines[nextLine])) {
+          const indent = lines[i].match(/^(\s*):{3,}\s*$/)?.[1] ?? ''
+          lines.splice(
+            i + 1,
+            0,
+            '',
+            `${indent}${'#'.repeat(
+              resetHeading.level
+            )} ${resetHeading.title} {.tab-search-heading .ignore-header}`,
+            ''
+          )
+          i += 3
+        }
+      }
+
+      continue
+    }
+
+    const tabMatch = lines[i].match(/^(\s*)==\s+(.+)$/)
+
+    if (tabMatch && containerStack.includes('tabs')) {
+      const [, indent, title] = tabMatch
+      const parsed = parseTabLabel(title)
+      const headingTitle = parsed.label
+
+      if (!headingTitle) continue
+
+      const anchor = getTabAnchor(title, tabAnchorCounts)
+      const headingAnchor = getTabHeadingAnchor(anchor)
+
+      lines.splice(
+        i + 1,
+        0,
+        '',
+        `${indent}### ${headingTitle} {#${headingAnchor} .tab-search-heading .ignore-header}`,
+        ''
+      )
+      i += 3
+      continue
+    }
+
+    const match = lines[i].match(
+      /^(\s*)<Collapsible\b(?=[^>]*\btitle=(['"])(.*?)\2)[^>]*>\s*$/i
+    )
+
+    if (!match) continue
+
+    const [, indent, , rawTitle] = match
+    const parsedTitle = parseTabLabel(rawTitle)
+    const headingTitle = parsedTitle.label
+
+    if (!headingTitle) continue
+
+    const collapsibleAnchor =
+      parsedTitle.anchor || getUniqueAnchor(headingTitle, collapsibleAnchorCounts)
+
+    lines[i] = lines[i].replace(
+      /(<Collapsible\b[^>]*?\btitle=)(['"]).*?\2/i,
+      (_full, pre: string, quote: string) =>
+        `${pre}${quote}${headingTitle}${quote} anchor=${quote}${collapsibleAnchor}${quote}`
+    )
+
+    let nextLine = i + 1
+
+    while (nextLine < lines.length && lines[nextLine].trim() === '') {
+      nextLine++
+    }
+
+    if (/^#{1,6}\s+/.test(lines[nextLine]?.trim() ?? '')) continue
+
+    const headingLevel = containerStack.includes('tabs') ? 4 : 3
+
+    lines.splice(
+      i + 1,
+      0,
+      '',
+      `${indent}${'#'.repeat(headingLevel)} ${headingTitle} {#${getCollapsibleHeadingAnchor(
+        collapsibleAnchor
+      )} .collapsible-search-heading}`,
+      ''
+    )
+    i += 3
+  }
+
+  return lines.join('\n')
+}

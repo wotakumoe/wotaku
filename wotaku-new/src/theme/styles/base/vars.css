@@ -1,0 +1,582 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+/**
+ * Colors: Solid
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-c-white: #ffffff;
+  --wotaku-c-black: #000000;
+
+  --wotaku-c-neutral: var(--wotaku-c-black);
+  --wotaku-c-neutral-inverse: var(--wotaku-c-white);
+}
+
+.dark {
+  --wotaku-c-neutral: var(--wotaku-c-white);
+  --wotaku-c-neutral-inverse: var(--wotaku-c-black);
+}
+
+/**
+ * Colors: Palette
+ *
+ * The primitive colors used for accent colors. These colors are referenced
+ * by functional colors such as "Text", "Background", or "Brand".
+ *
+ * Each colors have exact same color scale system with 3 levels of solid
+ * colors with different brightness, and 1 soft color.
+ *
+ * - `XXX-1`: The most solid color used mainly for colored text. It must
+ *   satisfy the contrast ratio against when used on top of `XXX-soft`.
+ *
+ * - `XXX-2`: The color used mainly for hover state of the button.
+ *
+ * - `XXX-3`: The color for solid background, such as bg color of the button.
+ *    It must satisfy the contrast ratio with pure white (#ffffff) text on
+ *    top of it.
+ *
+ * - `XXX-soft`: The color used for subtle background such as custom container
+ *    or badges. It must satisfy the contrast ratio when putting `XXX-1` colors
+ *    on top of it.
+ *
+ *    The soft color must be semi transparent alpha channel. This is crucial
+ *    because it allows adding multiple "soft" colors on top of each other
+ *    to create a accent, such as when having inline code block inside
+ *    custom containers.
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-c-gray-1: #dddde3;
+  --wotaku-c-gray-2: #e4e4e9;
+  --wotaku-c-gray-3: #ebebef;
+  --wotaku-c-gray-soft: rgba(142, 150, 170, 0.14);
+
+  --wotaku-c-indigo-1: #3451b2;
+  --wotaku-c-indigo-2: #3a5ccc;
+  --wotaku-c-indigo-3: #5672cd;
+  --wotaku-c-indigo-soft: rgba(100, 108, 255, 0.14);
+
+  --wotaku-c-purple-1: #6f42c1;
+  --wotaku-c-purple-2: #7e4cc9;
+  --wotaku-c-purple-3: #8e5cd9;
+  --wotaku-c-purple-soft: rgba(159, 122, 234, 0.14);
+
+  --wotaku-c-green-1: #18794e;
+  --wotaku-c-green-2: #299764;
+  --wotaku-c-green-3: #30a46c;
+  --wotaku-c-green-soft: rgba(16, 185, 129, 0.14);
+
+  --wotaku-c-yellow-1: #915930;
+  --wotaku-c-yellow-2: #946300;
+  --wotaku-c-yellow-3: #9f6a00;
+  --wotaku-c-yellow-soft: rgba(234, 179, 8, 0.14);
+
+  --wotaku-c-red-1: #b8272c;
+  --wotaku-c-red-2: #d5393e;
+  --wotaku-c-red-3: #e0575b;
+  --wotaku-c-red-soft: rgba(244, 63, 94, 0.14);
+
+  --wotaku-c-sponsor: #db2777;
+}
+
+.dark {
+  --wotaku-c-gray-1: #515c67;
+  --wotaku-c-gray-2: #414853;
+  --wotaku-c-gray-3: #32363f;
+  --wotaku-c-gray-soft: rgba(101, 117, 133, 0.16);
+
+  --wotaku-c-indigo-1: #a8b1ff;
+  --wotaku-c-indigo-2: #5c73e7;
+  --wotaku-c-indigo-3: #3e63dd;
+  --wotaku-c-indigo-soft: rgba(100, 108, 255, 0.16);
+
+  --wotaku-c-purple-1: #c8abfa;
+  --wotaku-c-purple-2: #a879e6;
+  --wotaku-c-purple-3: #8e5cd9;
+  --wotaku-c-purple-soft: rgba(159, 122, 234, 0.16);
+
+  --wotaku-c-green-1: #3dd68c;
+  --wotaku-c-green-2: #30a46c;
+  --wotaku-c-green-3: #298459;
+  --wotaku-c-green-soft: rgba(16, 185, 129, 0.16);
+
+  --wotaku-c-yellow-1: #f9b44e;
+  --wotaku-c-yellow-2: #da8b17;
+  --wotaku-c-yellow-3: #a46a0a;
+  --wotaku-c-yellow-soft: rgba(234, 179, 8, 0.16);
+
+  --wotaku-c-red-1: #f66f81;
+  --wotaku-c-red-2: #f14158;
+  --wotaku-c-red-3: #b62a3c;
+  --wotaku-c-red-soft: rgba(244, 63, 94, 0.16);
+}
+
+/**
+ * Colors: Background
+ *
+ * - `bg`: The bg color used for main screen.
+ *
+ * - `bg-alt`: The alternative bg color used in places such as "sidebar",
+ *   or "code block".
+ *
+ * - `bg-elv`: The elevated bg color. This is used at parts where it "floats",
+ *   such as "dialog".
+ *
+ * - `bg-soft`: The bg color to slightly distinguish some components from
+ *   the page, such as tables.
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-c-bg: #ffffff;
+  --wotaku-c-bg-alt: #f6f6f7;
+  --wotaku-c-bg-elv: #ffffff;
+  --wotaku-c-bg-soft: #f6f6f7;
+}
+
+.dark {
+  --wotaku-c-bg: #1b1b1f;
+  --wotaku-c-bg-alt: #161618;
+  --wotaku-c-bg-elv: #202127;
+  --wotaku-c-bg-soft: #202127;
+}
+
+/**
+ * Colors: Borders
+ *
+ * - `divider`: This is used for separators. This is used to divide sections
+ *   within the same components, such as having separator on "h2" heading.
+ *
+ * - `border`: This is designed for borders on interactive components.
+ *   For example this should be used for a button outline.
+ *
+ * - `gutter`: This is used to divide components in the page. For example
+ *   the header and the lest of the page.
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-c-border: #c2c2c4;
+  --wotaku-c-divider: #e2e2e3;
+  --wotaku-c-gutter: #e2e2e3;
+}
+
+.dark {
+  --wotaku-c-border: #3c3f44;
+  --wotaku-c-divider: #2e2e32;
+  --wotaku-c-gutter: #000000;
+}
+
+/**
+ * Colors: Text
+ *
+ * - `text-1`: Used for primary text.
+ *
+ * - `text-2`: Used for muted texts, such as "inactive menu" or "info texts".
+ *
+ * - `text-3`: Used for subtle texts, such as "placeholders" or "caret icon".
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-c-text-1: #3c3c43;
+  --wotaku-c-text-2: #67676c;
+  --wotaku-c-text-3: #929295;
+}
+
+.dark {
+  --wotaku-c-text-1: #dfdfd6;
+  --wotaku-c-text-2: #98989f;
+  --wotaku-c-text-3: #6a6a71;
+}
+
+/**
+ * Colors: Function
+ *
+ * - `default`: The color used purely for subtle indication without any
+ *   special meanings attached to it such as bg color for menu hover state.
+ *
+ * - `brand`: Used for primary brand colors, such as link text, button with
+ *   brand theme, etc.
+ *
+ * - `tip`: Used to indicate useful information. The default theme uses the
+ *   brand color for this by default.
+ *
+ * - `warning`: Used to indicate warning to the users. Used in custom
+ *   container, badges, etc.
+ *
+ * - `danger`: Used to show error, or dangerous message to the users. Used
+ *   in custom container, badges, etc.
+ *
+ * To understand the scaling system, refer to "Colors: Palette" section.
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-c-default-1: var(--wotaku-c-gray-1);
+  --wotaku-c-default-2: var(--wotaku-c-gray-2);
+  --wotaku-c-default-3: var(--wotaku-c-gray-3);
+  --wotaku-c-default-soft: var(--wotaku-c-gray-soft);
+
+  --wotaku-c-brand-1: var(--wotaku-c-indigo-1);
+  --wotaku-c-brand-2: var(--wotaku-c-indigo-2);
+  --wotaku-c-brand-3: var(--wotaku-c-indigo-3);
+  --wotaku-c-brand-soft: var(--wotaku-c-indigo-soft);
+
+  /* DEPRECATED: Use `--wotaku-c-brand-1` instead. */
+  --wotaku-c-brand: var(--wotaku-c-brand-1);
+
+  --wotaku-c-tip-1: var(--wotaku-c-brand-1);
+  --wotaku-c-tip-2: var(--wotaku-c-brand-2);
+  --wotaku-c-tip-3: var(--wotaku-c-brand-3);
+  --wotaku-c-tip-soft: var(--wotaku-c-brand-soft);
+
+  --wotaku-c-note-1: var(--wotaku-c-brand-1);
+  --wotaku-c-note-2: var(--wotaku-c-brand-2);
+  --wotaku-c-note-3: var(--wotaku-c-brand-3);
+  --wotaku-c-note-soft: var(--wotaku-c-brand-soft);
+
+  --wotaku-c-success-1: var(--wotaku-c-green-1);
+  --wotaku-c-success-2: var(--wotaku-c-green-2);
+  --wotaku-c-success-3: var(--wotaku-c-green-3);
+  --wotaku-c-success-soft: var(--wotaku-c-green-soft);
+
+  --wotaku-c-important-1: var(--wotaku-c-purple-1);
+  --wotaku-c-important-2: var(--wotaku-c-purple-2);
+  --wotaku-c-important-3: var(--wotaku-c-purple-3);
+  --wotaku-c-important-soft: var(--wotaku-c-purple-soft);
+
+  --wotaku-c-warning-1: var(--wotaku-c-yellow-1);
+  --wotaku-c-warning-2: var(--wotaku-c-yellow-2);
+  --wotaku-c-warning-3: var(--wotaku-c-yellow-3);
+  --wotaku-c-warning-soft: var(--wotaku-c-yellow-soft);
+
+  --wotaku-c-danger-1: var(--wotaku-c-red-1);
+  --wotaku-c-danger-2: var(--wotaku-c-red-2);
+  --wotaku-c-danger-3: var(--wotaku-c-red-3);
+  --wotaku-c-danger-soft: var(--wotaku-c-red-soft);
+
+  --wotaku-c-caution-1: var(--wotaku-c-red-1);
+  --wotaku-c-caution-2: var(--wotaku-c-red-2);
+  --wotaku-c-caution-3: var(--wotaku-c-red-3);
+  --wotaku-c-caution-soft: var(--wotaku-c-red-soft);
+}
+
+/**
+ * Typography
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-font-family-base:
+    'Inter', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol', 'Noto Color Emoji';
+  --wotaku-font-family-mono:
+    ui-monospace, 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New',
+    monospace;
+  font-optical-sizing: auto;
+}
+
+:root:where(:lang(zh)) {
+  --wotaku-font-family-base:
+    'Punctuation SC', 'Inter', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+/**
+ * Shadows
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-shadow-1: 0 1px 2px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.06);
+  --wotaku-shadow-2: 0 3px 12px rgba(0, 0, 0, 0.07), 0 1px 4px rgba(0, 0, 0, 0.07);
+  --wotaku-shadow-3: 0 12px 32px rgba(0, 0, 0, 0.1), 0 2px 6px rgba(0, 0, 0, 0.08);
+  --wotaku-shadow-4: 0 14px 44px rgba(0, 0, 0, 0.12), 0 3px 9px rgba(0, 0, 0, 0.12);
+  --wotaku-shadow-5: 0 18px 56px rgba(0, 0, 0, 0.16), 0 4px 12px rgba(0, 0, 0, 0.16);
+}
+
+/**
+ * Z-indexes
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-z-index-footer: 10;
+  --wotaku-z-index-local-nav: 20;
+  --wotaku-z-index-nav: 30;
+  --wotaku-z-index-layout-top: 40;
+  --wotaku-z-index-backdrop: 50;
+  --wotaku-z-index-sidebar: 60;
+}
+
+@media (min-width: 960px) {
+  :root {
+    --wotaku-z-index-sidebar: 25;
+  }
+}
+
+/**
+ * Layouts
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-layout-max-width: 1440px;
+}
+
+/**
+ * Component: Header Anchor
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-header-anchor-symbol: '#';
+}
+
+/**
+ * Component: Code
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-code-line-height: 1.7;
+  --wotaku-code-font-size: 0.875em;
+  --wotaku-code-color: var(--wotaku-c-brand-1);
+  --wotaku-code-link-color: var(--wotaku-c-brand-1);
+  --wotaku-code-link-hover-color: var(--wotaku-c-brand-2);
+  --wotaku-code-bg: var(--wotaku-c-default-soft);
+
+  --wotaku-code-block-color: var(--wotaku-c-text-2);
+  --wotaku-code-block-bg: var(--wotaku-c-bg-alt);
+  --wotaku-code-block-divider-color: var(--wotaku-c-gutter);
+
+  --wotaku-code-lang-color: var(--wotaku-c-text-2);
+
+  --wotaku-code-line-highlight-color: var(--wotaku-c-default-soft);
+  --wotaku-code-line-number-color: var(--wotaku-c-text-2);
+
+  --wotaku-code-line-diff-add-color: var(--wotaku-c-success-soft);
+  --wotaku-code-line-diff-add-symbol-color: var(--wotaku-c-success-1);
+
+  --wotaku-code-line-diff-remove-color: var(--wotaku-c-danger-soft);
+  --wotaku-code-line-diff-remove-symbol-color: var(--wotaku-c-danger-1);
+
+  --wotaku-code-line-warning-color: var(--wotaku-c-warning-soft);
+  --wotaku-code-line-error-color: var(--wotaku-c-danger-soft);
+
+  --wotaku-code-copy-code-border-color: var(--wotaku-c-divider);
+  --wotaku-code-copy-code-bg: var(--wotaku-c-bg-soft);
+  --wotaku-code-copy-code-hover-border-color: var(--wotaku-c-divider);
+  --wotaku-code-copy-code-hover-bg: var(--wotaku-c-bg);
+  --wotaku-code-copy-code-active-text: var(--wotaku-c-text-2);
+  --wotaku-code-copy-copied-text-content: 'Copied';
+
+  --wotaku-code-tab-divider: var(--wotaku-code-block-divider-color);
+  --wotaku-code-tab-text-color: var(--wotaku-c-text-2);
+  --wotaku-code-tab-bg: var(--wotaku-code-block-bg);
+  --wotaku-code-tab-hover-text-color: var(--wotaku-c-text-1);
+  --wotaku-code-tab-active-text-color: var(--wotaku-c-text-1);
+  --wotaku-code-tab-active-bar-color: var(--wotaku-c-brand-1);
+}
+
+:lang(es),
+:lang(pt) {
+  --wotaku-code-copy-copied-text-content: 'Copiado';
+}
+:lang(fa) {
+  --wotaku-code-copy-copied-text-content: 'کپی شد';
+}
+:lang(ko) {
+  --wotaku-code-copy-copied-text-content: '복사됨';
+}
+:lang(ru) {
+  --wotaku-code-copy-copied-text-content: 'Скопировано';
+}
+:lang(zh) {
+  --wotaku-code-copy-copied-text-content: '已复制';
+}
+
+/**
+ * Component: Button
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-button-brand-border: transparent;
+  --wotaku-button-brand-text: var(--wotaku-c-white);
+  --wotaku-button-brand-bg: var(--wotaku-c-brand-3);
+  --wotaku-button-brand-hover-border: transparent;
+  --wotaku-button-brand-hover-text: var(--wotaku-c-white);
+  --wotaku-button-brand-hover-bg: var(--wotaku-c-brand-2);
+  --wotaku-button-brand-active-border: transparent;
+  --wotaku-button-brand-active-text: var(--wotaku-c-white);
+  --wotaku-button-brand-active-bg: var(--wotaku-c-brand-1);
+
+  --wotaku-button-alt-border: transparent;
+  --wotaku-button-alt-text: var(--wotaku-c-text-1);
+  --wotaku-button-alt-bg: var(--wotaku-c-default-3);
+  --wotaku-button-alt-hover-border: transparent;
+  --wotaku-button-alt-hover-text: var(--wotaku-c-text-1);
+  --wotaku-button-alt-hover-bg: var(--wotaku-c-default-2);
+  --wotaku-button-alt-active-border: transparent;
+  --wotaku-button-alt-active-text: var(--wotaku-c-text-1);
+  --wotaku-button-alt-active-bg: var(--wotaku-c-default-1);
+
+  --wotaku-button-sponsor-border: var(--wotaku-c-text-2);
+  --wotaku-button-sponsor-text: var(--wotaku-c-text-2);
+  --wotaku-button-sponsor-bg: transparent;
+  --wotaku-button-sponsor-hover-border: var(--wotaku-c-sponsor);
+  --wotaku-button-sponsor-hover-text: var(--wotaku-c-sponsor);
+  --wotaku-button-sponsor-hover-bg: transparent;
+  --wotaku-button-sponsor-active-border: var(--wotaku-c-sponsor);
+  --wotaku-button-sponsor-active-text: var(--wotaku-c-sponsor);
+  --wotaku-button-sponsor-active-bg: transparent;
+}
+
+/**
+ * Component: Custom Block
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-custom-block-font-size: 14px;
+  --wotaku-custom-block-code-font-size: 13px;
+
+  --wotaku-custom-block-info-border: transparent;
+  --wotaku-custom-block-info-text: var(--wotaku-c-text-1);
+  --wotaku-custom-block-info-bg: var(--wotaku-c-default-soft);
+  --wotaku-custom-block-info-code-bg: var(--wotaku-c-default-soft);
+
+  --wotaku-custom-block-note-border: transparent;
+  --wotaku-custom-block-note-text: var(--wotaku-c-text-1);
+  --wotaku-custom-block-note-bg: var(--wotaku-c-default-soft);
+  --wotaku-custom-block-note-code-bg: var(--wotaku-c-default-soft);
+
+  --wotaku-custom-block-tip-border: transparent;
+  --wotaku-custom-block-tip-text: var(--wotaku-c-text-1);
+  --wotaku-custom-block-tip-bg: var(--wotaku-c-tip-soft);
+  --wotaku-custom-block-tip-code-bg: var(--wotaku-c-tip-soft);
+
+  --wotaku-custom-block-important-border: transparent;
+  --wotaku-custom-block-important-text: var(--wotaku-c-text-1);
+  --wotaku-custom-block-important-bg: var(--wotaku-c-important-soft);
+  --wotaku-custom-block-important-code-bg: var(--wotaku-c-important-soft);
+
+  --wotaku-custom-block-warning-border: transparent;
+  --wotaku-custom-block-warning-text: var(--wotaku-c-text-1);
+  --wotaku-custom-block-warning-bg: var(--wotaku-c-warning-soft);
+  --wotaku-custom-block-warning-code-bg: var(--wotaku-c-warning-soft);
+
+  --wotaku-custom-block-danger-border: transparent;
+  --wotaku-custom-block-danger-text: var(--wotaku-c-text-1);
+  --wotaku-custom-block-danger-bg: var(--wotaku-c-danger-soft);
+  --wotaku-custom-block-danger-code-bg: var(--wotaku-c-danger-soft);
+
+  --wotaku-custom-block-caution-border: transparent;
+  --wotaku-custom-block-caution-text: var(--wotaku-c-text-1);
+  --wotaku-custom-block-caution-bg: var(--wotaku-c-caution-soft);
+  --wotaku-custom-block-caution-code-bg: var(--wotaku-c-caution-soft);
+
+  --wotaku-custom-block-details-border: var(--wotaku-custom-block-info-border);
+  --wotaku-custom-block-details-text: var(--wotaku-custom-block-info-text);
+  --wotaku-custom-block-details-bg: var(--wotaku-custom-block-info-bg);
+  --wotaku-custom-block-details-code-bg: var(--wotaku-custom-block-info-code-bg);
+}
+
+/**
+ * Component: Input
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-input-border-color: var(--wotaku-c-border);
+  --wotaku-input-bg-color: var(--wotaku-c-bg-alt);
+
+  --wotaku-input-switch-bg-color: var(--wotaku-c-default-soft);
+}
+
+/**
+ * Component: Nav
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-nav-height: 64px;
+  --wotaku-nav-bg-color: var(--wotaku-c-bg);
+  --wotaku-nav-screen-bg-color: var(--wotaku-c-bg);
+  --wotaku-nav-logo-height: 24px;
+}
+
+.hide-nav {
+  --wotaku-nav-height: 0px;
+}
+
+.hide-nav .WotakuSidebar {
+  --wotaku-nav-height: 22px;
+}
+
+/**
+ * Component: Local Nav
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-local-nav-bg-color: var(--wotaku-c-bg);
+}
+
+/**
+ * Component: Sidebar
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-sidebar-width: 272px;
+  --wotaku-sidebar-bg-color: var(--wotaku-c-bg-alt);
+}
+
+/**
+ * Colors Backdrop
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-backdrop-bg-color: rgba(0, 0, 0, 0.6);
+}
+
+/**
+ * Component: Home
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-home-hero-name-color: var(--wotaku-c-brand-1);
+  --wotaku-home-hero-name-background: transparent;
+
+  --wotaku-home-hero-image-background-image: none;
+  --wotaku-home-hero-image-filter: none;
+}
+
+/**
+ * Component: Badge
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-badge-info-border: transparent;
+  --wotaku-badge-info-text: var(--wotaku-c-text-2);
+  --wotaku-badge-info-bg: var(--wotaku-c-default-soft);
+
+  --wotaku-badge-tip-border: transparent;
+  --wotaku-badge-tip-text: var(--wotaku-c-tip-1);
+  --wotaku-badge-tip-bg: var(--wotaku-c-tip-soft);
+
+  --wotaku-badge-warning-border: transparent;
+  --wotaku-badge-warning-text: var(--wotaku-c-warning-1);
+  --wotaku-badge-warning-bg: var(--wotaku-c-warning-soft);
+
+  --wotaku-badge-danger-border: transparent;
+  --wotaku-badge-danger-text: var(--wotaku-c-danger-1);
+  --wotaku-badge-danger-bg: var(--wotaku-c-danger-soft);
+}
+
+/**
+  * Component: Local Search
+  * -------------------------------------------------------------------------- */
+
+:root {
+  --wotaku-local-search-bg: var(--wotaku-c-bg);
+  --wotaku-local-search-result-bg: var(--wotaku-c-bg);
+  --wotaku-local-search-result-border: var(--wotaku-c-divider);
+  --wotaku-local-search-result-selected-bg: var(--wotaku-c-bg);
+  --wotaku-local-search-result-selected-border: var(--wotaku-c-brand-1);
+  --wotaku-local-search-highlight-bg: var(--wotaku-c-brand-1);
+  --wotaku-local-search-highlight-text: var(--wotaku-c-neutral-inverse);
+}

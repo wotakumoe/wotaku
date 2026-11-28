@@ -1,0 +1,1 @@
+In 2019, they rebranded LINE WEBTOON as WEBTOON. In some regions, it is still branded as LINE WEBTOON.

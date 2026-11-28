@@ -1,0 +1,5 @@
+- Has a minimalist UI.
+- Fast and simple reader with good amount of configuration.
+- Has Nearest, Draft, linear and Lanczos (with various level) as scaling options.
+- Not FOSS and not maintained since the development team has marked it as complete.
+- No library view, only recent reads.

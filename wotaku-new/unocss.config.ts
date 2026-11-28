@@ -1,0 +1,194 @@
+/**
+ *  All Rights Reserved
+ *
+ *  Copyright (c) 2026 taskylizard
+ *
+ *  All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+import { FileSystemIconLoader } from '@iconify/utils/lib/loader/node-loaders'
+import { colors } from '@taskylizard/colors'
+import { resolve } from 'node:path'
+import {
+  defineConfig,
+  presetAttributify,
+  presetIcons,
+  presetWebFonts,
+  presetWind4,
+  transformerDirectives
+} from 'unocss'
+import { aliases } from './src/build/markdown/emoji.ts'
+import { LANG_FLAG_FALLBACK, LANG_FLAG_ICONS } from './src/build/markdown/lang-flags.ts'
+
+const iconPrefixes = [
+  'octicon-',
+  'logos-',
+  'ic-',
+  'mingcute-',
+  'mdi-',
+  'material-symbols-',
+  'simple-icons-',
+  'lucide-',
+  'uil-',
+  'akar-icons-',
+  'map-',
+  'bi-',
+  'streamline-logos-',
+  'streamline-ultimate-',
+  'streamline-sharp-',
+  'iconoir-'
+]
+
+const emojiShortcodeExtractor = {
+  name: 'emoji-shortcode',
+  extract({ code }: { code: string }) {
+    const tokens = new Set<string>()
+
+    for (const [, markup] of code.matchAll(/:([A-Za-z0-9_+-]+):/g)) {
+      if (aliases[markup]) {
+        tokens.add(`i-${aliases[markup]}`)
+      } else if (iconPrefixes.some((p) => markup.startsWith(p))) {
+        tokens.add(`i-${markup}`)
+      }
+    }
+
+    return tokens
+  }
+}
+
+// Custom icons collection
+const customIcons = {
+  circle: '<svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="50"></circle></svg>'
+  // Add more custom icons here as needed
+}
+
+const platformIcons = ['and', 'ios', 'win', 'app', 'lin', 'bsd', 'cmd', 'web']
+  .map((token) => aliases[token])
+  .filter(Boolean)
+  .map((icon) => `i-${icon}`)
+
+const safelist = [
+  ...platformIcons,
+  'i-lucide-monitor',
+  ...Object.entries(colors).flatMap(([group, shades]) =>
+    Object.keys(shades).flatMap((shade) => [
+      `text-${group}-${shade}`,
+      `bg-${group}-${shade}`
+    ])
+  ),
+  'i-lucide:circle-plus',
+  'i-lucide:circle-alert',
+  'i-lucide:circle-x',
+  'i-lucide:lightbulb',
+  'i-lucide:heart',
+  'i-lucide:message-circle',
+  'i-lucide:copy',
+  'i-lucide:check',
+  'i-lucide:x',
+  'i-lucide:loader-circle',
+  'i-lucide:refresh-cw',
+  'i-lucide:settings',
+  'i-lucide:download',
+  'i-lucide:chevron-down',
+  'i-mdi-chevron-down',
+  'i-lucide:search',
+  'i-lucide:languages',
+  'i-lucide:shield',
+  'i-twemoji-no-one-under-eighteen',
+  'i-twemoji-red-heart',
+  'i-twemoji-orange-heart',
+  'i-twemoji-yellow-heart',
+  'i-twemoji-green-heart',
+  'i-twemoji-blue-heart',
+  'i-twemoji-purple-heart',
+  'i-twemoji-brown-heart',
+  'i-twemoji-black-heart',
+  'i-twemoji-white-heart',
+  'i-twemoji-sparkling-heart',
+  'i-twemoji-beating-heart',
+  'i-twemoji-growing-heart',
+  'i-twemoji-folded-hands',
+  'i-twemoji-glowing-star',
+  'i-twemoji-flag-united-arab-emirates',
+  ...Array.from(new Set([...Object.values(LANG_FLAG_ICONS), LANG_FLAG_FALLBACK])).map(
+    (icon) => `i-twemoji-${icon}`
+  )
+]
+
+export default defineConfig({
+  content: {
+    filesystem: [
+      './src/shared/constants.ts',
+      './src/content/pages/**/*.md',
+      './src/theme/**/*.{vue,ts}'
+    ]
+  },
+  extractors: [emojiShortcodeExtractor],
+  safelist,
+  // Wind4's newer directive ordering lets border-0 erase border-b. Keep the
+  // original utility contract: only the bottom edge becomes one pixel wide.
+  rules: [['border-b', { 'border-bottom-width': '1px' }]],
+  theme: {
+    easing: {
+      'out-expo': 'cubic-bezier(0.16, 1, 0.3, 1)',
+      'in-expo': 'cubic-bezier(0.7, 0, 0.84, 0)'
+    },
+    colors: {
+      ...colors,
+      primary: 'var(--wotaku-c-brand-1)',
+      bg: 'var(--wotaku-c-bg)',
+      'bg-alt': 'var(--wotaku-c-bg-alt)',
+      'bg-elv': 'var(--wotaku-c-bg-elv)',
+      text: 'var(--wotaku-c-text-1)',
+      'text-2': 'var(--wotaku-c-text-2)',
+      div: 'var(--wotaku-c-divider)',
+      // Ayanami Blue
+      brand: {
+        '50': 'oklch(0.965 0.011 256.71)',
+        '100': 'oklch(0.93 0.024 256.1)',
+        '200': 'oklch(0.861 0.048 253.25)',
+        '300': 'oklch(0.791 0.076 251.19)',
+        '400': 'oklch(0.722 0.105 247.48)',
+        '500': 'oklch(0.626 0.098 247.46)',
+        '600': 'oklch(0.523 0.081 246.86)',
+        '700': 'oklch(0.43 0.066 246.75)',
+        '800': 'oklch(0.335 0.052 246.76)',
+        '900': 'oklch(0.233 0.035 246.39)',
+        '950': 'oklch(0.186 0.029 247.31)'
+      }
+    }
+  },
+  presets: [
+    presetWind4({
+      preflights: {
+        theme: true
+      }
+    }),
+    presetAttributify(),
+    presetWebFonts({
+      fonts: {
+        serif: 'Source Serif 4 Variable',
+        pacifico: {
+          name: 'Pacifico',
+          weights: [400],
+          italic: true
+        }
+      }
+    }),
+    presetIcons({
+      scale: 1.2,
+      extraProperties: {
+        display: 'inline-block',
+        'vertical-align': '-0.125em', // changed from 'middle'
+        'min-width': '1.2rem'
+      },
+      warn: false,
+      collections: {
+        custom: FileSystemIconLoader(
+          resolve(import.meta.dirname, './src/content/pages/public/custom')
+        ) as (name: string) => Promise<string | undefined>,
+        inline: customIcons
+      }
+    })
+  ],
+  transformers: [transformerDirectives()]
+})

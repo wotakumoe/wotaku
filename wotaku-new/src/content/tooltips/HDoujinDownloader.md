@@ -1,0 +1,1 @@
+Has a limit of 25 chapters per day.

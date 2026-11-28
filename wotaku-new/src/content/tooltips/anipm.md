@@ -1,0 +1,3 @@
+- Used to reupload content from other sites.
+- Started uploading their own decent encodes since September, including popular old series.
+- Recommended are encodes with the ani.pm watermark in the top left.

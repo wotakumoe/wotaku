@@ -1,0 +1,1 @@
+Upscales and denoises official releases instead of providing original version.

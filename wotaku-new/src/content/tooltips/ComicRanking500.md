@@ -1,0 +1,1 @@
+The rankings here are based on POS (point-of-sale) data from various bookstore chains in Japan's offline market. Books that primarily sell online or are heavily focused on online stores may rank lower on this list.

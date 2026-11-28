@@ -1,0 +1,1 @@
+The patreon-walled materials will eventually become free.

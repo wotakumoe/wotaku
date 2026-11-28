@@ -1,0 +1,1834 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+$ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+$ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
+
+:root {
+  --wotaku-c-bg: #fefbff;
+  --wotaku-c-bg-alt: #f2f0f4;
+  --wotaku-c-bg-elv: #f2f0f4;
+  --wotaku-c-bg-soft: #f2f0f4;
+  --wotaku-c-border: #c2c2c4;
+  --wotaku-c-divider: #c4c6d0;
+  --wotaku-c-gutter: #e2e2e3;
+  --wotaku-c-text-1: #1b1b1f;
+  --wotaku-c-text-2: #2f3033;
+  --wotaku-c-text-3: #46464a;
+  /* Divider under the mobile full-screen header bars. */
+  --wk-fs-header-divider: rgba(163, 163, 163, 0.25);
+  /* Flat menu/option surfaces (settings menu, search help cards). */
+  --wk-c-menu-bg: #e8e6ec;
+  /* Solid nav-pill segment background when effects (blur) are off. */
+  --wk-c-nav-solid-bg: var(--wotaku-c-bg);
+}
+
+.dark {
+  --wotaku-c-bg: #121316;
+  --wotaku-c-bg-alt: #0d0e11;
+  --wotaku-c-bg-elv: #1b1b1f;
+  --wotaku-c-bg-soft: #1b1b1f;
+  --wotaku-c-border: #77777a;
+  --wotaku-c-divider: #222429;
+  --wotaku-c-gutter: #000000;
+  --wotaku-c-text-1: #e3e2e6;
+  --wotaku-c-text-2: #ababaf;
+  --wotaku-c-text-3: #919094;
+  --wk-fs-header-divider: rgba(82, 82, 82, 0.65);
+  --wk-c-menu-bg: #2c2c31;
+  --wk-c-nav-solid-bg: #151617;
+}
+
+:root {
+  --wotaku-layout-max-width: 1490px;
+  --wotaku-sidebar-width: 280px;
+  --wotaku-nav-logo-height: 36px;
+
+  /* Colors: Brand */
+  --wotaku-c-brand-1: theme('colors.brand.500');
+  --wotaku-c-brand-2: theme('colors.brand.600');
+  --wotaku-c-brand-3: theme('colors.brand.800');
+  --wotaku-c-brand-soft: color-mix(in oklch, theme('colors.brand.400') 40%, transparent);
+  --wotaku-c-link: var(--wotaku-c-brand-3);
+  --wotaku-code-color: var(--wotaku-c-link);
+  --wotaku-code-link-color: var(--wotaku-c-link);
+  --wotaku-code-link-hover-color: var(--wotaku-c-link);
+
+  /* Colors: Button */
+  --wotaku-button-brand-bg: var(--wotaku-c-brand-3);
+  --wotaku-button-brand-border: var(--wotaku-c-brand-soft);
+  --wotaku-button-brand-text: var(--wotaku-c-bg);
+  --wotaku-button-brand-hover-border: var(--wotaku-c-brand-soft);
+  --wotaku-button-brand-hover-text: var(--wotaku-button-brand-text);
+  --wotaku-button-brand-hover-bg: var(--wotaku-button-brand-bg);
+  --wotaku-button-brand-active-border: var(--wotaku-c-brand-soft);
+  --wotaku-button-brand-active-text: var(--wotaku-button-brand-text);
+  --wotaku-button-brand-active-bg: var(--wotaku-button-brand-bg);
+  --wotaku-button-alt-bg: #484848;
+  --wotaku-button-alt-text: #f0eeee;
+  --wotaku-button-alt-hover-bg: #484848;
+  --wotaku-button-alt-hover-text: #f0eeee;
+
+  /* Colors: Custom Block */
+  /** Info */
+  --wotaku-custom-block-info-bg: theme('colors.swarm.200');
+  --wotaku-custom-block-info-border: theme('colors.swarm.800');
+  --wotaku-custom-block-info-text: theme('colors.swarm.800');
+  --wotaku-custom-block-info-text-deep: theme('colors.swarm.900');
+  /** Tip */
+  --wotaku-custom-block-tip-bg: theme('colors.meadow.200');
+  --wotaku-custom-block-tip-border: theme('colors.meadow.800');
+  --wotaku-custom-block-tip-text: theme('colors.meadow.800');
+  --wotaku-custom-block-tip-text-deep: theme('colors.meadow.900');
+  /** Warning */
+  --wotaku-custom-block-warning-bg: theme('colors.merlin.200');
+  --wotaku-custom-block-warning-border: theme('colors.merlin.800');
+  --wotaku-custom-block-warning-text: theme('colors.merlin.900');
+  --wotaku-custom-block-warning-text-deep: theme('colors.merlin.900');
+  /** Danger */
+  --wotaku-custom-block-danger-bg: theme('colors.carnation.200');
+  --wotaku-custom-block-danger-border: theme('colors.carnation.800');
+  --wotaku-custom-block-danger-text: theme('colors.carnation.800');
+  --wotaku-custom-block-danger-text-deep: theme('colors.carnation.900');
+  /** Collapsible */
+  --wotaku-collapsible-bg: color-mix(in srgb, var(--wotaku-c-brand-1) 15%, transparent);
+  --wotaku-collapsible-border: var(--wotaku-c-brand-3);
+  --wotaku-collapsible-text: var(--wotaku-c-brand-3);
+
+  --wotaku-badge-info-text: theme('colors.brand.200');
+  --wotaku-badge-info-bg: theme('colors.brand.800');
+  --wotaku-badge-tip-text: theme('colors.meadow.200');
+  --wotaku-badge-tip-bg: theme('colors.meadow.800');
+  --wotaku-badge-warning-text: theme('colors.merlin.200');
+  --wotaku-badge-warning-bg: theme('colors.merlin.800');
+  --wotaku-badge-danger-text: theme('colors.carnation.200');
+  --wotaku-badge-danger-bg: theme('colors.carnation.800');
+
+  --wotaku-c-brand-nav-active: color-mix(
+    in srgb,
+    var(--wotaku-c-brand-soft) 15%,
+    transparent 100%
+  );
+
+  --nav-pill-height: 2.5rem;
+  --nav-pill-radius: 1.5rem;
+  --nav-pill-item-size: 1.875rem;
+  --nav-pill-gap: 0.125rem;
+  --nav-pill-pad: 0.125rem;
+  --nav-pill-icon-size: 18px;
+  --nav-pill-blur: 12px;
+  --nav-pill-bg: rgb(255 255 255 / 0.8);
+  --nav-pill-border: rgb(64 64 64 / 0.08);
+}
+
+.dark {
+  --nav-pill-bg: rgb(23 23 23 / 0.7);
+  --nav-pill-border: rgb(212 212 212 / 0.1);
+}
+
+/* Wotaku sliders hardcode #fff / #e1e2da for the thumb and progress fill;
+   use theme tokens (like the radio pills) so they follow the theme. */
+.wotaku-ui-slider {
+  --wotaku-ui-slider-thumb-color: var(--wotaku-c-bg);
+  --wotaku-ui-slider-track-color: var(--wotaku-c-bg);
+  --wotaku-ui-slider-track-progress-color: var(--wotaku-c-bg);
+}
+
+.dark .wotaku-ui-slider {
+  --wotaku-ui-slider-thumb-color: var(--wotaku-c-text-1);
+  --wotaku-ui-slider-track-color: var(--wotaku-c-text-1);
+  --wotaku-ui-slider-track-progress-color: var(--wotaku-c-text-1);
+}
+
+.dark {
+  /* Colors: Brand */
+  --wotaku-c-brand-1: theme('colors.brand.400');
+  --wotaku-c-brand-2: theme('colors.brand.500');
+  --wotaku-c-brand-3: theme('colors.brand.700');
+  --wotaku-c-brand-soft: color-mix(in oklch, theme('colors.brand.500') 20%, transparent);
+  --wotaku-c-link: var(--wotaku-c-brand-1);
+  --wotaku-button-brand-bg: var(--wotaku-c-brand-1);
+
+  /* Colors: Custom Block */
+  /** Info */
+  --wotaku-custom-block-info-bg: theme('colors.swarm.950');
+  --wotaku-custom-block-info-border: theme('colors.swarm.800');
+  --wotaku-custom-block-info-text: theme('colors.swarm.200');
+  --wotaku-custom-block-info-text-deep: theme('colors.swarm.200');
+  /** Tip */
+  --wotaku-custom-block-tip-bg: theme('colors.meadow.950');
+  --wotaku-custom-block-tip-border: theme('colors.meadow.800');
+  --wotaku-custom-block-tip-text: theme('colors.meadow.200');
+  --wotaku-custom-block-tip-text-deep: theme('colors.meadow.200');
+  /** Warning */
+  --wotaku-custom-block-warning-bg: theme('colors.merlin.950');
+  --wotaku-custom-block-warning-border: theme('colors.merlin.800');
+  --wotaku-custom-block-warning-text: theme('colors.merlin.200');
+  --wotaku-custom-block-warning-text-deep: theme('colors.merlin.200');
+  /** Danger */
+  --wotaku-custom-block-danger-bg: theme('colors.carnation.950');
+  --wotaku-custom-block-danger-border: theme('colors.carnation.800');
+  --wotaku-custom-block-danger-text: theme('colors.carnation.200');
+  --wotaku-custom-block-danger-text-deep: theme('colors.carnation.200');
+  /** Collapsible */
+  --wotaku-collapsible-bg: color-mix(in srgb, var(--wotaku-c-brand-1) 10%, transparent);
+  --wotaku-collapsible-border: var(--wotaku-c-brand-3);
+  --wotaku-collapsible-text: var(--wotaku-c-brand-1);
+
+  --wotaku-badge-info-text: theme('colors.brand.200');
+  --wotaku-badge-info-bg: theme('colors.brand.950');
+  --wotaku-badge-tip-text: theme('colors.meadow.200');
+  --wotaku-badge-tip-bg: theme('colors.meadow.950');
+  --wotaku-badge-warning-text: theme('colors.merlin.200');
+  --wotaku-badge-warning-bg: theme('colors.merlin.950');
+  --wotaku-badge-danger-text: theme('colors.carnation.200');
+  --wotaku-badge-danger-bg: theme('colors.carnation.950');
+}
+
+.search-result-highlight {
+  display: inline;
+  position: relative;
+  padding: 0 0.25em;
+  border: 1px solid var(--wotaku-c-brand-1);
+  border-radius: 4px;
+  background-color: var(--wotaku-collapsible-bg);
+  color: var(--wotaku-c-link);
+  font-size: 0.9em;
+  font-weight: 600;
+  line-height: 1.5;
+  white-space: normal;
+  vertical-align: baseline;
+}
+
+.search-result-highlight--solid {
+  border: none;
+  background-color: var(--wotaku-button-brand-bg);
+  color: var(--wotaku-button-brand-text);
+}
+
+.wotaku-doc a {
+  color: var(--wotaku-c-link);
+  text-decoration: none;
+  text-underline-offset: 4px;
+  text-decoration-style: solid;
+  text-decoration-thickness: 1px;
+  text-decoration-color: currentColor;
+  transition: text-decoration-color 0.25s;
+
+  &:hover:where(:not(.header-anchor)),
+  &:focus-visible:where(:not(.header-anchor)) {
+    color: var(--wotaku-c-link);
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+  }
+}
+
+.wotaku-doc a.prose-link {
+  text-decoration-line: underline;
+}
+
+.wotaku-doc .custom-block a:not(.header-anchor),
+.wotaku-doc .custom-block a:not(.header-anchor):hover {
+  color: inherit;
+  opacity: 1;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-style: solid;
+  text-decoration-thickness: 1px;
+  text-decoration-color: currentColor;
+}
+
+.wotaku-doc .custom-block a > code {
+  color: inherit;
+}
+
+::selection {
+  background-color: theme('colors.brand.400');
+
+  .dark & {
+    background-color: theme('colors.brand.800');
+  }
+}
+
+:root {
+  --wotaku-home-hero-name-color: transparent;
+  --wotaku-home-hero-name-background: -webkit-linear-gradient(-30deg, #62cff4, #1473e6);
+  --wotaku-home-hero-image-background-image: none;
+  --wotaku-home-hero-image-filter: none;
+}
+
+.WotakuNavBarTitle .title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.breadcrumb ol,
+.breadcrumb li,
+.breadcrumb a,
+.breadcrumb li > span {
+  align-items: center;
+}
+
+.breadcrumb a,
+.breadcrumb li > span {
+  display: inline-flex;
+  min-height: 1.25rem;
+  gap: 0.375rem;
+  line-height: 1.25rem;
+  vertical-align: middle;
+}
+
+.breadcrumb [class*='i-'] {
+  display: inline-block;
+  flex: 0 0 auto;
+  width: 1rem;
+  height: 1rem;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.medium-zoom-overlay {
+  background-color: var(--wotaku-c-bg) !important;
+  z-index: 100;
+}
+
+.medium-zoom-overlay ~ img {
+  z-index: 101;
+}
+
+.medium-zoom--opened .medium-zoom-overlay {
+  opacity: 0.98 !important;
+}
+
+.video_wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+main figure {
+  margin: 2rem 0;
+  transition: transform var(--wotaku-tt);
+}
+
+.wotaku-doc > div > p > img {
+  @apply rounded-lg;
+}
+
+main figure img {
+  margin: 0 auto;
+  border-radius: 12px;
+}
+
+main figure figcaption {
+  text-align: center;
+  margin-top: 1.25rem;
+  font-size: 0.875rem;
+  color: var(--wotaku-c-text-2);
+}
+
+.WotakuHero .image-src {
+  width: unset !important;
+  height: unset !important;
+  object-fit: contain !important;
+}
+
+@media (min-width: 960px) {
+  .WotakuContent.has-sidebar:has(> .NotFoundPage) {
+    padding-left: 0;
+  }
+}
+
+@media (min-width: 1440px) {
+  .WotakuContent.has-sidebar:has(> .NotFoundPage) {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 1440px) {
+  :root {
+    --wotaku-layout-max-width: 100% !important;
+    --wotaku-sidebar-width: 300px !important;
+  }
+
+  .content-container {
+    max-width: 70% !important;
+  }
+}
+
+.custom-block {
+  --uno: 'rounded-xl border-2';
+}
+
+.info.custom-block {
+  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWluZm8iPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDE2di00Ii8+PHBhdGggZD0iTTEyIDhoLjAxIi8+PC9zdmc+');
+}
+
+.note.custom-block {
+  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWluZm8iPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDE2di00Ii8+PHBhdGggZD0iTTEyIDhoLjAxIi8+PC9zdmc+');
+}
+
+.tip.custom-block {
+  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWxpZ2h0YnVsYiI+PHBhdGggZD0iTTE1IDE0Yy4yLTEgLjctMS43IDEuNS0yLjUgMS0uOSAxLjUtMi4yIDEuNS0zLjVBNiA2IDAgMCAwIDYgOGMwIDEgLjIgMi4yIDEuNSAzLjUuNy43IDEuMyAxLjUgMS41IDIuNSIvPjxwYXRoIGQ9Ik05IDE4aDYiLz48cGF0aCBkPSJNMTAgMjJoNCIvPjwvc3ZnPg==');
+}
+
+.warning.custom-block {
+  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWFsZXJ0LXRyaWFuZ2xlIj48cGF0aCBkPSJtMjEuNzMgMTgtOC0xNGEyIDIgMCAwIDAtMy40OCAwbC04IDE0QTIgMiAwIDAgMCA0IDIxaDE2YTIgMiAwIDAgMCAxLjczLTNaIi8+PHBhdGggZD0iTTEyIDl2NCIvPjxwYXRoIGQ9Ik0xMiAxN2guMDEiLz48L3N2Zz4=');
+}
+
+.danger.custom-block {
+  --icon: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLXNrdWxsIj48Y2lyY2xlIGN4PSI5IiBjeT0iMTIiIHI9IjEiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEyIiByPSIxIi8+PHBhdGggZD0iTTggMjB2Mmg4di0yIi8+PHBhdGggZD0ibTEyLjUgMTctLjUtMS0uNSAxaDF6Ii8+PHBhdGggZD0iTTE2IDIwYTIgMiAwIDAgMCAxLjU2LTMuMjUgOCA4IDAgMSAwLTExLjEyIDBBMiAyIDAgMCAwIDggMjAiLz48L3N2Zz4=');
+}
+
+.custom-block-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.custom-block-title::before {
+  content: '';
+  width: 16px;
+  height: 16px;
+  -webkit-mask: var(--icon) no-repeat;
+  mask: var(--icon) no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  background-color: currentColor;
+  color: inherit;
+}
+
+.wotaku-doc h3 {
+  text-decoration: underline;
+}
+
+.wotaku-doc h1 {
+  font-size: 2.25rem;
+}
+
+.wotaku-doc h2 {
+  font-size: 1.75rem;
+}
+
+.wotaku-doc h3 {
+  font-size: 1.4rem;
+}
+
+.wotaku-doc h4 {
+  font-size: 1.2rem;
+}
+
+.wotaku-doc h1 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.wotaku-doc h2 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  border-top-color: #525252;
+}
+
+.wotaku-doc h4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Make the page half the width for class `sandbox` */
+.sandbox {
+  max-width: 50%;
+  width: 50%;
+  margin: 0 auto;
+}
+.v-popper__arrow-container {
+  display: none;
+}
+
+/** Two-tone rows, applied per-cell so rowspan cells keep the default color */
+.wotaku-doc table tbody tr:nth-child(even) td:not([rowspan]),
+table tbody tr:nth-child(even) td:not([rowspan]) {
+  background-color: var(--wotaku-c-bg-soft);
+}
+
+.wotaku-doc table tbody td[rowspan],
+.wotaku-doc table tbody th[rowspan],
+table tbody td[rowspan],
+table tbody th[rowspan] {
+  background-color: var(--wotaku-c-bg);
+}
+
+.wotaku-doc table tr,
+.wotaku-doc table td,
+.wotaku-doc table th {
+  border-color: #3d3d3d;
+}
+
+/* width: max-content forces exact column sizing so favicon toggling doesn't shrink the right-side gap. */
+@media (max-width: 767px) {
+  .wotaku-doc table:not(.scrape-table) {
+    width: max-content;
+  }
+
+  .wotaku-doc table:not(.scrape-table) th,
+  .wotaku-doc table:not(.scrape-table) td {
+    white-space: nowrap;
+  }
+
+  /* Scroll container injected by wrapTablesInRoot in Layout.vue, isolated from sibling content. */
+  .table-scroll {
+    overflow-x: auto;
+  }
+}
+
+.tip.custom-block table tr,
+.tip.custom-block table td,
+.tip.custom-block table th {
+  border-color: theme('colors.meadow.800') !important;
+}
+
+.info.custom-block table tr,
+.info.custom-block table td,
+.info.custom-block table th {
+  border-color: var(--wotaku-c-brand-3) !important;
+}
+
+.warning.custom-block table tr,
+.warning.custom-block table td,
+.warning.custom-block table th {
+  border-color: theme('colors.merlin.800') !important;
+}
+
+.danger.custom-block table tr,
+.danger.custom-block table td,
+.danger.custom-block table th {
+  border-color: theme('colors.carnation.800') !important;
+}
+
+.details.custom-block table:not(.scrape-table) tr,
+.details.custom-block table:not(.scrape-table) td,
+.details.custom-block table:not(.scrape-table) th {
+  border-color: var(--wotaku-c-brand-3) !important;
+}
+
+/** Changelog links */
+.wotaku-git-changelog a {
+  text-decoration: none !important;
+}
+
+/** New Styles */
+
+::view-transition-group(root) {
+  animation-timing-function: $ease-in-expo;
+  z-index: 100;
+}
+
+::view-transition-new(root) {
+  animation: var(--switch-name) var(--switch-duration);
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(0.7, 0, 0.84, 0);
+}
+
+::view-transition-old(root),
+.dark::view-transition-old(root) {
+  animation: var(--switch-name) var(--switch-duration);
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(0.7, 0, 0.84, 0);
+}
+
+@keyframes scale {
+  0% {
+    mask-size: 0;
+  }
+  10% {
+    mask-size: 25vmax;
+  }
+  90% {
+    mask-size: 25vmax;
+  }
+  100% {
+    mask-size: 750vmax;
+  }
+}
+
+@keyframes scale-fast {
+  0% {
+    mask-size: 0;
+  }
+  10% {
+    mask-size: 25vmax;
+  }
+  87.5% {
+    mask-size: 25vmax;
+  }
+  100% {
+    mask-size: 750vmax;
+  }
+}
+
+/* auto-height */
+.WotakuSidebarItem {
+  @apply relative;
+
+  .is-link:hover {
+    background-color: var(--wotaku-c-sidebar-active) !important;
+  }
+
+  .is-link.has-active {
+    background-color: var(--wotaku-c-sidebar-active) !important;
+  }
+
+  &.collapsible {
+    @apply relative grid w-full pl-0 border-0 motion-reduce:transition-none;
+    grid-template-rows: 1fr;
+    transition: grid-template-rows 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+
+    &.collapsed {
+      @apply motion-reduce:transition-none;
+
+      grid-template-rows: 0fr;
+      transition: grid-template-rows 0.35s cubic-bezier(0.76, 0, 0.24, 1);
+
+      & > .items {
+        @apply block;
+      }
+    }
+
+    & > .item {
+      @apply absolute;
+    }
+
+    & > .items {
+      @apply overflow-hidden pt-9;
+
+      & > .WotakuSidebarItem {
+        @apply cursor-pointer;
+      }
+    }
+  }
+
+  /* nested accordian */
+  .level-1.collapsible {
+    @apply min-h-8;
+    transition: grid-template-rows 0.5s cubic-bezier(0.16, 1, 0.3, 1) !important;
+
+    &.collapsed {
+      @apply motion-reduce:transition-none;
+
+      transition: grid-template-rows 0.325s cubic-bezier(0.5, 0, 0.75, 0) !important;
+    }
+
+    & > .item {
+      @apply pl-4;
+    }
+
+    & > .items {
+      @apply pt-8;
+
+      & > .WotakuSidebarItem {
+        @apply cursor-pointer;
+      }
+    }
+  }
+}
+
+#WotakuSidebarNav > .group,
+#WotakuSidebarNavMobile > .group {
+  @apply border-t-0 min-h-11 pt-2.25;
+
+  & > .WotakuSidebarItem {
+    @apply pb-1;
+
+    & > .item {
+      @apply hover:scale-[1.03] focus:scale-[1.03] active:scale-[0.98]
+        transition-all! opacity-85;
+
+      & > .text {
+        @apply flex items-center text-base font-medium py-1.5;
+
+        &::before {
+          @apply mr-2.5 opacity-70;
+
+          --uno-translate-y: calc(0.25rem * 0.175);
+          translate: var(--uno-translate-x) var(--uno-translate-y);
+        }
+      }
+
+      & > .caret {
+        @apply scale-90 translate-y-0.5;
+      }
+    }
+
+    & > .items {
+      & > .WotakuSidebarItem {
+        @apply pl-4 border-l dark:border-l-neutral-600 rounded-none
+          transition-all duration-100 ease-out;
+
+        /* Separation between nested table of content */
+        &:not(.collapsible),
+        &.collapsible > .items > .WotakuSidebarItem {
+          &:hover,
+          &:focus,
+          &.is-active.has-active {
+            @apply rounded-lg border-transparent;
+
+            background-color: var(--wotaku-c-brand-nav-active);
+
+            & > .item > .indicator {
+              background-color: var(--wotaku-c-brand-1);
+            }
+          }
+        }
+
+        &.collapsible {
+          &:not(.is-active) {
+            & > .item:has(.link):hover,
+            & > .item:has(.link):focus {
+              & > .caret {
+                @apply -translate-x-2;
+              }
+            }
+          }
+
+          & > .item {
+            @apply rounded-lg transition-all duration-100 ease-out;
+
+            &:hover,
+            &:focus {
+              background-color: var(--wotaku-c-brand-nav-active);
+
+              & > h3 {
+                color: var(--wotaku-c-brand) !important;
+              }
+
+              & > .indicator {
+                background-color: var(--wotaku-c-brand);
+              }
+            }
+
+            & > .indicator {
+              @apply translate-x-4;
+            }
+
+            & > h3 {
+              @apply font-normal;
+            }
+
+            &:has(.link):hover,
+            &:has(.link):focus {
+              background-color: var(--wotaku-c-brand-nav-active);
+
+              & > .indicator {
+                background-color: var(--wotaku-c-brand);
+              }
+
+              & > .link > h3 {
+                color: var(--wotaku-c-brand) !important;
+              }
+            }
+          }
+
+          &.is-active > .item {
+            @apply pr-2;
+            background-color: var(--wotaku-c-brand-nav-active);
+            border-color: var(--wotaku-c-brand-nav-active) !important;
+
+            & > .indicator {
+              @apply translate-x-4;
+              background-color: var(--wotaku-c-brand);
+            }
+
+            & > div > .caret-icon {
+              color: var(--wotaku-c-brand);
+            }
+          }
+
+          & > .items {
+            @apply grid border-0 pl-0;
+
+            & > .WotakuSidebarItem {
+              @apply border-l pl-4 dark:border-l-neutral-600;
+            }
+
+            & > .caret {
+              &:hover,
+              &:focus {
+                background-color: transparent;
+              }
+            }
+
+            & > .WotakuSidebarItem {
+              @apply min-h-8;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.WotakuLocalNav {
+  @apply bg-transparent! border-0!;
+
+  pointer-events: none;
+
+  & > .container {
+    @apply relative flex bg-transparent mx-auto px-4 sm:px-6 md:px-0 lg:px-0
+      py-0 mt-2;
+    max-width: 688px;
+
+    pointer-events: none;
+
+    & > .menu {
+      @apply p-0;
+
+      pointer-events: auto;
+    }
+
+    & > .menu {
+      @apply bg-white/80! dark:bg-neutral-800/80! px-2 py-0.75 rounded-xl border
+        border-neutral-700/10 dark:border-neutral-300/10 backdrop-blur-md;
+    }
+  }
+}
+
+.WotakuNav {
+  @media (max-width: 1280px) {
+    z-index: 40 !important;
+  }
+
+  & > .WotakuNavBar {
+    @apply bg-transparent!;
+
+    /* Doc layout */
+    & > .wrapper > .container > .content > .content-body {
+      @apply bg-transparent gap-0;
+
+      pointer-events: none;
+
+      & > *:not(.WotakuNavBarSearch) {
+        pointer-events: auto;
+      }
+
+      & > .WotakuNavBarSearch {
+        pointer-events: none;
+      }
+    }
+
+    & > .divider {
+      @apply hidden;
+    }
+  }
+}
+
+.WotakuNavBar {
+  @apply border-0 bg-white/60 dark:bg-neutral-900/60 transition-colors;
+
+  & > .container {
+    & > .content,
+    & > .title {
+      background: color-mix(in srgb, var(--wotaku-c-bg) 80%, transparent);
+    }
+  }
+}
+
+#contributors,
+#changelog,
+.wotaku-git-changelog,
+.wotaku-git-changelog-history {
+  @apply max-w-2xl w-full mx-auto my-4;
+}
+
+.wotaku-git-changelog-contributors-list {
+  @apply gap-2 mb-4;
+
+  & > a,
+  & > div {
+    font-size: 0;
+    gap: 0;
+
+    & > img {
+      @apply w-10 h-10;
+    }
+  }
+}
+
+#changelog {
+  @apply h-0 p-0 m-0 border-0;
+  font-size: 0;
+}
+
+.wotaku-git-changelog-history {
+  @apply mt-0;
+}
+
+.wotaku-git-changelog-history-list {
+  @apply bg-neutral-50 dark:bg-neutral-800;
+}
+
+.WotakuSidebar {
+  @apply pb-6! overflow-y-auto;
+  /* Custom scrollbar */
+  scrollbar-width: thin;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+  }
+
+  @media (max-width: 959.9px) {
+    @apply max-w-68 translate-x-2 translate-y-2 p-1! bg-white/85
+      dark:bg-neutral-800/85 border dark:border-neutral-700 border-neutral-200
+      rounded-3xl backdrop-blur shadow-lg overflow-x-hidden overflow-y-auto
+      max-h-dvh;
+    height: calc(100dvh - 1rem);
+
+    & > .nav {
+      @apply w-full p-4 pt-2;
+    }
+  }
+}
+
+.WotakuBackdrop.backdrop {
+  @media (max-width: 1024px) {
+    @apply bg-black/5!;
+  }
+}
+
+#WotakuSidebarNav {
+  @apply flex flex-col min-h-full;
+}
+
+.WotakuLocalSearchBox {
+  & > .backdrop {
+    @apply bg-black/7.5!;
+  }
+
+  & > .shell {
+    /* 688px is the max-width of the content (Wotaku default) */
+    --uno: 'gap-0! md:max-w-[688px] px-0! pt-0.5! md:translate-x-2 bg-white! md:bg-white/70! dark:bg-neutral-900! md:dark:bg-neutral-900/90! md:backdrop-blur-xl md:rounded-2xl! md:border dark:border-neutral-700 md:shadow-xl shadow-black/5';
+
+    & > .search-bar {
+      --uno: 'w-full py-1.5 px-2 border-0 border-b border-neutral-400/25! dark:border-neutral-600/65! rounded-none';
+
+      & > #localsearch-label {
+        @apply opacity-50!;
+      }
+
+      & > .search-input {
+        @apply pl-0;
+      }
+
+      & > .search-actions {
+        @apply gap-0;
+      }
+    }
+
+    & > .results {
+      @apply relative gap-1 pb-4 px-3 min-h-full md:min-h-60;
+
+      &:has(li)::before {
+        @apply hidden;
+      }
+
+      & > li {
+        @apply z-10 scroll-pt-2;
+
+        &:first-child {
+          @apply mt-2;
+        }
+
+        & > .result {
+          @apply rounded-xl! py-0.5 border-0;
+
+          &.selected {
+            @apply bg-brand-500/5! dark:bg-brand-300/5!;
+          }
+        }
+      }
+    }
+
+    & > .search-keyboard-shortcuts {
+      @apply z-30 pt-2.5 px-3;
+
+      & > span > kbd {
+        @apply rounded-lg dark:bg-neutral-700!;
+      }
+    }
+  }
+}
+
+.excerpt-wrapper {
+  & > .excerpt-gradient-bottom,
+  & > .excerpt-gradient-top {
+    @apply hidden;
+  }
+
+  & > .excerpt {
+    & > .wotaku-doc {
+      @apply bg-transparent!;
+    }
+  }
+}
+
+#local-search {
+  & > .nav-search-button {
+    @apply hover:scale-[1.03] focus:scale-[1.03] active:scale-[0.98]
+      h-10 rounded-xl backdrop-blur-sm lg:ml-2;
+    transition: scale 150ms ease !important;
+    color: var(--wotaku-c-text-2);
+
+    & > .nav-search-content {
+      & > .nav-search-label {
+        @apply hidden!;
+      }
+    }
+
+    & > .nav-search-shortcut {
+      @apply hidden!;
+    }
+  }
+}
+
+.WotakuSidebarItem.is-link:not(.collapsible),
+.WotakuSidebarItem.is-link.collapsible > .item {
+  @apply active:scale-[0.98] transition-all!;
+}
+
+.WotakuDocAside {
+  & > .WotakuDocAsideOutline > .content {
+    @apply pl-0 border-l-0;
+
+    & > .outline-marker {
+      @apply z-10 w-0.75;
+      background-color: var(--wotaku-c-brand-1);
+      transition-timing-function: $ease-out-expo;
+      transition-duration: 0.3s;
+    }
+
+    & > .outline-title {
+      @apply flex items-center font-medium text-neutral-700
+        dark:text-neutral-100;
+
+      &::before {
+        @apply inline-block size-3.5 bg-cover mr-1.5;
+        content: '';
+        background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-text-align-start-icon lucide-text-align-start"><path d="M21 5H3"/><path d="M15 12H3"/><path d="M17 19H3"/></svg>');
+      }
+
+      .dark &::before {
+        @apply invert-100;
+      }
+    }
+
+    .WotakuDocOutlineItem.root > li {
+      &:hover .toc-bookmark-btn,
+      & .toc-bookmark-btn.is-bookmarked {
+        opacity: 1;
+      }
+
+      & > .outline-link {
+        position: relative;
+        padding-right: 20px;
+        @apply text-neutral-600/80 dark:text-neutral-300/80 transition-all
+          dark:hover:text-neutral-300 dark:focus:text-neutral-300;
+
+        &:hover,
+        &:focus,
+        &.active {
+          @apply font-semibold;
+          color: var(--wotaku-c-brand-1) !important;
+          transition-timing-function: $ease-out-expo;
+          transition-duration: 0.35s;
+        }
+      }
+
+      & > ul {
+        & > li {
+          & > a {
+            @apply leading-7 opacity-60 dark:opacity-70 transition-all;
+            font-size: 0.825rem;
+
+            &:hover,
+            &:focus,
+            &.active {
+              @apply opacity-100 font-semibold;
+              color: var(--wotaku-c-brand-1) !important;
+              transition-timing-function: $ease-out-expo;
+              transition-duration: 0.35s;
+            }
+          }
+        }
+      }
+    }
+
+    .toc-bookmark-btn {
+      position: absolute;
+      right: 2px;
+      top: 0;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 16px;
+      padding: 0;
+      opacity: 0;
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      color: var(--wotaku-c-text-2);
+      line-height: 0;
+      transition:
+        opacity 0.2s,
+        color 0.15s;
+
+      &.is-bookmarked {
+        color: var(--wotaku-c-brand-1);
+
+        svg path {
+          fill: currentColor;
+        }
+      }
+
+      &:hover {
+        color: var(--wotaku-c-brand-1);
+      }
+    }
+
+    & > .WotakuDocOutlineItem {
+      --uno: 'border-l-2! border-neutral-100 dark:border-neutral-600 pl-4';
+    }
+  }
+}
+
+@media (hover: none) {
+  .WotakuDocAside .toc-bookmark-btn {
+    opacity: 1;
+  }
+}
+
+.aside-container {
+  padding-top: calc(
+    var(--wotaku-nav-height) + var(--wotaku-layout-top-height, 0px) +
+      var(--wotaku-doc-top-height, 0px) + 24px
+  ) !important;
+}
+
+.WotakuNavBarSearch.search {
+  @apply ml-2 pl-0!;
+}
+
+#local-search {
+  @apply hidden!;
+
+  pointer-events: auto;
+}
+
+.WotakuNavBarHamburger {
+  display: none !important;
+}
+
+@media (max-width: 767px) {
+  .WotakuNavBar .wrapper {
+    padding-right: 24px !important;
+  }
+}
+
+%thin-scrollbar {
+  scrollbar-width: thin;
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+  }
+}
+
+%thin-scrollbar-narrow {
+  scrollbar-width: thin;
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    background-color: var(--wotaku-c-divider);
+  }
+}
+
+/* Home sidebar menu button in navbar */
+.home-menu-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  margin-right: 16px;
+  color: var(--wotaku-c-text-2);
+  cursor: pointer;
+  transition: color 0.25s;
+
+  &:hover {
+    color: var(--wotaku-c-text-1);
+  }
+
+  @media (min-width: 960px) {
+    display: inline-flex;
+  }
+}
+
+.home-menu-icon {
+  font-size: 20px;
+}
+
+.home-sidebar-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: var(--wotaku-z-index-backdrop, 100);
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Home desktop sidebar (left slideout) */
+.home-sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: calc(var(--wotaku-z-index-backdrop, 100) + 1);
+  padding: 0 32px 32px;
+  width: var(--wotaku-sidebar-width);
+  max-width: calc(100vw - 64px);
+  background-color: var(--wotaku-sidebar-bg-color);
+  box-shadow: var(--wotaku-c-shadow-3);
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  @extend %thin-scrollbar;
+
+  .dark & {
+    box-shadow: var(--wotaku-shadow-1);
+  }
+}
+
+.home-sidebar-header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  height: var(--wotaku-nav-height);
+  display: flex;
+  align-items: center;
+  background-color: var(--wotaku-sidebar-bg-color);
+  border-bottom: 1px solid var(--wotaku-c-divider);
+}
+
+.home-sidebar-logo {
+  display: flex;
+  align-items: center;
+  height: var(--wotaku-nav-height);
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--wotaku-c-text-1);
+  text-decoration: none;
+}
+
+.home-sidebar-logo-img {
+  margin-right: 8px;
+  height: var(--wotaku-nav-logo-height);
+}
+
+.home-sidebar-nav {
+  padding-top: 10px;
+}
+
+/* Desktop sidebar transitions */
+.home-fade-enter-active,
+.home-fade-leave-active {
+  transition: opacity 0.25s;
+}
+
+.home-fade-enter-from,
+.home-fade-leave-to {
+  opacity: 0;
+}
+
+.home-slide-enter-active {
+  transition:
+    transform 0.5s cubic-bezier(0.19, 1, 0.22, 1),
+    opacity 0.25s;
+}
+
+.home-slide-leave-active {
+  transition:
+    transform 0.25s ease,
+    opacity 0.5s;
+}
+
+.home-slide-enter-from,
+.home-slide-leave-to {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+/* Hide navbar border when home NavScreen is open */
+.WotakuNavBar.home.screen-open {
+  border-bottom: none !important;
+}
+
+/* Home NavScreen: restyle as left-aligned floating panel matching WotakuSidebar */
+.WotakuNavScreen:has(.home-screen-nav) {
+  @apply bg-white/85 dark:bg-neutral-800/85 border dark:border-neutral-700
+    border-neutral-200 rounded-3xl backdrop-blur shadow-lg;
+  padding: 0 !important;
+  left: 0.5rem !important;
+  right: auto !important;
+  top: 0.5rem !important;
+  bottom: 0.5rem !important;
+  width: calc(100vw - 64px) !important;
+  max-width: 320px !important;
+  overflow-x: hidden !important;
+  @extend %thin-scrollbar-narrow;
+
+  & > * {
+    max-width: 100% !important;
+    padding: 16px 16px 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-height: 100%;
+  }
+
+  .WotakuNavScreenAppearance {
+    margin-top: 24px !important;
+  }
+
+  .WotakuNavScreenSocialLinks {
+    margin-top: auto !important;
+    padding: 16px 0 !important;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.home-screen-nav {
+  padding-top: 8px;
+}
+
+/* Override NavScreen fade transition to slide-from-left on home */
+.WotakuNavScreen:has(.home-screen-nav) {
+  &.fade-enter-active,
+  &.fade-leave-active {
+    transition:
+      transform 0.3s cubic-bezier(0.19, 1, 0.22, 1),
+      opacity 0.25s !important;
+
+    .container {
+      transform: none !important;
+    }
+  }
+
+  &.fade-enter-from,
+  &.fade-leave-to {
+    transform: translateX(-100%) !important;
+    opacity: 0 !important;
+  }
+}
+
+.settings-menu {
+  --wotaku-menu-background-color: var(--wk-c-menu-bg);
+  --wotaku-menu-text-color: var(--wotaku-c-text-1);
+}
+
+// Applied to <html> when the "Effects" preference is off (the default).
+// Strips backdrop blur, view/page transitions and scaling bounces.
+html.effects-disabled {
+  &::view-transition-group(root),
+  &::view-transition-new(root),
+  &::view-transition-old(root) {
+    animation: none !important;
+  }
+
+  .WotakuLocalSearchBox,
+  .WotakuLocalSearchBox * {
+    animation: none !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0s !important;
+  }
+
+  .WotakuLocalNav > .container > .menu,
+  .WotakuSidebar,
+  .WotakuLocalSearchBox > .shell,
+  #local-search > .nav-search-button,
+  .settings-menu-flyout,
+  .nav-actions,
+  .WotakuNavScreen:has(.home-screen-nav) {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+
+  .WotakuLocalNav > .container > .menu,
+  .WotakuLocalSearchBox > .shell,
+  .settings-menu-flyout,
+  .nav-actions:not(.mobile-island .nav-actions),
+  .WotakuNavScreen:has(.home-screen-nav) {
+    background-color: var(--wotaku-c-bg) !important;
+  }
+
+  &.dark {
+    .nav-actions:not(.mobile-island .nav-actions),
+    .settings-menu-flyout {
+      background-color: var(--wk-c-nav-solid-bg) !important;
+    }
+  }
+
+  @media (max-width: 959.9px) {
+    .WotakuSidebar {
+      background-color: var(--wotaku-sidebar-bg-color) !important;
+    }
+  }
+
+  // Sidebar group header hover/active scale bounce
+  #WotakuSidebarNav > .group > .WotakuSidebarItem > .item,
+  #WotakuSidebarNavMobile > .group > .WotakuSidebarItem > .item,
+  // Sidebar link item active scale bounce
+  .WotakuSidebarItem.is-link:not(.collapsible),
+  .WotakuSidebarItem.is-link.collapsible > .item,
+  // Search button hover/active scale bounce
+  #local-search > .nav-search-button {
+    scale: none !important;
+    transition: none !important;
+  }
+
+  // ToC semi-bold during being selected
+  .WotakuDocAsideOutline a.outline-link {
+    font-weight: normal !important;
+    transition: none !important;
+  }
+
+  // Nav-pill button + dropdown panel active/open scale bounces
+  .nav-action-btn:active,
+  .nav-actions .WotakuSocialLink:active,
+  .settings-menu-flyout .button:active,
+  .bookmarks-btn:active,
+  .bookmarks-panel-enter-from,
+  .bookmarks-panel-leave-to,
+  .settings-popup-enter-from,
+  .settings-popup-leave-to {
+    transform: none !important;
+  }
+}
+
+// favicons beside external links
+.wk-favicon {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin: 0 0.3em 0 0.1em;
+  vertical-align: -2px;
+  border-radius: 3px;
+  background: var(--wotaku-c-default-soft);
+}
+
+.wk-favicon-fallback {
+  background: none;
+  color: var(--wotaku-c-text-3);
+  position: relative;
+  top: 2px;
+}
+
+/* Informational icons; linked icons also show tooltips on keyboard focus. */
+.icon-tip {
+  position: relative;
+  display: inline-block;
+  vertical-align: -0.125em;
+  cursor: help;
+}
+
+/* Base icon wrapper for consistent alignment */
+.icon {
+  display: inline-block;
+  vertical-align: -0.125em;
+}
+
+/* adds space betn mirror and tooltip button */
+
+.mirror-wrapper + .v-popper.v-popper--theme-wotaku-tooltip,
+.v-popper.v-popper--theme-wotaku-tooltip + .mirror-wrapper {
+  margin-left: 0.25em;
+}
+
+/* Fixed-position tooltip rendered into <body> by JS to escape table overflow clipping */
+.icon-tip-popup {
+  position: fixed;
+  padding: 4px 8px;
+  border-radius: 6px;
+  background: var(--wotaku-c-bg-elv);
+  color: var(--wotaku-c-text-1);
+  font-size: 12px;
+  line-height: 1.4;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0;
+  transition: opacity 0.15s;
+
+  &.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
+/* Manual column copy button */
+.wotaku-doc table td.has-manual-copy {
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.manual-copy-btn {
+  vertical-align: -0.2em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 4px;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--wotaku-c-text-3);
+  cursor: pointer;
+  line-height: 1;
+  transition: color 0.15s;
+
+  &:hover {
+    color: var(--wotaku-c-text-1);
+  }
+
+  &.copied {
+    color: var(--wotaku-c-green-1);
+  }
+}
+
+/* ScrapeTable */
+:root {
+  --scrape-cell-bg: #ebedf0;
+  --scrape-cell-active: #56d364;
+  --scrape-cell-active-sd: #ff4d4f;
+}
+
+.dark {
+  --scrape-cell-bg: #151b23;
+}
+
+/* Override Wotaku .wotaku-doc table/tr/th/td defaults */
+.scrape-table {
+  display: table !important;
+  table-layout: fixed;
+  border-collapse: separate !important;
+  border-spacing: 0;
+  white-space: nowrap;
+  width: max-content;
+  overflow: visible !important;
+  margin: 0 !important;
+  margin-right: 1px !important;
+
+  .col-cell {
+    width: 34px;
+  }
+
+  tr {
+    background: transparent !important;
+    border: none !important;
+  }
+
+  th,
+  td {
+    background: var(--wotaku-c-bg) !important;
+    padding: 0 !important;
+    border: none !important;
+  }
+
+  .corner,
+  .source-header {
+    border: 1px solid var(--wotaku-c-divider) !important;
+    border-left: none !important;
+  }
+
+  .corner {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+    padding: 0 12px !important;
+    height: var(--scrape-header-height, 140px);
+    background-color: var(--wotaku-c-bg-soft) !important;
+    border-left: 1px solid var(--wotaku-c-divider) !important;
+    color: var(--wotaku-c-text-1) !important;
+    font-weight: 600;
+    font-size: 13px;
+    vertical-align: middle;
+    text-align: center;
+  }
+
+  .source-header {
+    vertical-align: bottom;
+    height: var(--scrape-header-height, 140px);
+    text-align: center;
+    background: var(--wotaku-c-bg) !important;
+
+    span {
+      writing-mode: vertical-lr;
+      transform: rotate(180deg);
+      display: inline-block;
+      font-weight: 600;
+      color: var(--wotaku-c-text-1);
+      font-size: 12px;
+    }
+  }
+
+  .site-name {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    padding: 4px 12px !important;
+    background: var(--wotaku-c-bg) !important;
+    border: 1px solid var(--wotaku-c-divider) !important;
+    border-top: none !important;
+    color: var(--wotaku-c-text-1);
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1;
+  }
+
+  .cell {
+    border: 2px solid transparent !important;
+    height: 34px;
+    position: relative;
+
+    &::before {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-radius: 6px;
+      background: var(--scrape-cell-bg);
+    }
+
+    &.active::before {
+      background: var(--scrape-cell-active);
+    }
+
+    &.active-sd::before {
+      background: var(--scrape-cell-active-sd);
+    }
+
+    &.active[title]:hover::after {
+      content: attr(title);
+      position: absolute;
+      bottom: calc(100% + 4px);
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 3px 8px;
+      border-radius: 6px;
+      background: var(--wotaku-c-bg-elv);
+      color: var(--wotaku-c-text-1);
+      font-size: 11px;
+      white-space: nowrap;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+      z-index: 10;
+      pointer-events: none;
+    }
+  }
+}
+
+.wotaku-doc .wotaku-card,
+.wotaku-doc .wotaku-card:hover,
+.wotaku-doc .wotaku-card:focus,
+.wotaku-doc .wotaku-card:visited {
+  text-decoration: none !important;
+}
+
+.WotakuFeature {
+  border: 2px solid #3d3d3d !important;
+  transition: border-color 0.25s !important;
+
+  &:hover {
+    border-color: var(--wotaku-c-brand-1) !important;
+  }
+}
+
+.wotaku-doc .wotaku-card .wotaku-card-title {
+  text-decoration: none !important;
+  border-top: none !important;
+}
+
+:root {
+  --wotaku-plugin-tabs-tab-text-color: var(--wotaku-c-text-2);
+  --wotaku-plugin-tabs-tab-active-text-color: var(--wotaku-c-text-1);
+  --wotaku-plugin-tabs-tab-hover-text-color: var(--wotaku-c-text-1);
+  --wotaku-plugin-tabs-tab-bg: var(--wotaku-c-bg-soft);
+  --wotaku-plugin-tabs-tab-divider: var(--wotaku-c-divider);
+  --wotaku-plugin-tabs-tab-active-bar-color: var(--wotaku-c-brand-1);
+}
+
+.plugin-tabs {
+  margin: 16px 0;
+  background-color: var(--wotaku-plugin-tabs-tab-bg);
+  border: 2px solid #3d3d3d;
+  border-radius: var(--radius-xl);
+}
+
+.plugin-tabs--tab-list {
+  position: relative;
+  padding: 0 12px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.plugin-tabs--tab-list::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background-color: var(--wotaku-plugin-tabs-tab-divider);
+}
+
+.plugin-tabs--tab {
+  position: relative;
+  padding: 0 12px;
+  border-bottom: 2px solid transparent;
+  color: var(--wotaku-plugin-tabs-tab-text-color);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 48px;
+  white-space: nowrap;
+  transition: color 0.25s;
+}
+
+.plugin-tabs--tab[aria-selected='true'] {
+  color: var(--wotaku-plugin-tabs-tab-active-text-color);
+}
+
+.plugin-tabs--tab:hover {
+  color: var(--wotaku-plugin-tabs-tab-hover-text-color);
+}
+
+.plugin-tabs--tab::after {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  right: 8px;
+  bottom: -2px;
+  left: 8px;
+  height: 2px;
+  background-color: transparent;
+  transition: background-color 0.25s;
+}
+
+.plugin-tabs--tab[aria-selected='true']::after {
+  background-color: var(--wotaku-plugin-tabs-tab-active-bar-color);
+}
+
+.plugin-tabs--content {
+  padding: 16px;
+}
+
+.plugin-tabs--content[data-is-print='true']:not(:last-child) {
+  border-bottom: 2px solid var(--wotaku-plugin-tabs-tab-divider);
+}
+
+.plugin-tabs--content > :first-child:first-child {
+  margin-top: 0;
+}
+
+.plugin-tabs--content > :last-child:last-child {
+  margin-bottom: 0;
+}
+
+.plugin-tabs--content > div[class*='language-'] {
+  margin: 16px 0;
+  border-radius: 8px;
+}
+
+:root:not(.dark) .plugin-tabs--content div[class*='language-'] {
+  background-color: var(--wotaku-c-bg);
+}
+
+.wotaku-doc .collapsible-search-heading,
+.wotaku-doc .tab-search-heading {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* noteblock icon shrinking and top-bottom padding fix */
+.wotaku-doc .custom-block-title {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.wotaku-doc .custom-block-title::before {
+  flex-shrink: 0;
+  margin-top: 3px;
+}
+
+/* so that the gap only applies to title only blocks. check Layout.vue for initTitleOnly() */
+
+.wotaku-doc .custom-block.title-only {
+  padding-bottom: 16px;
+}
+
+html:not(.dark) .wotaku-ui-input-horizontal-option {
+  --wotaku-ui-input-horizontal-option-active-bg: var(--wotaku-c-bg);
+  --wotaku-ui-input-horizontal-option-active-text: var(--wotaku-c-text-1);
+}
+
+/* Hide the default Wotaku mobile appearance toggle and social links — we render them ourselves in ScreenMenu */
+#WotakuNavScreen .WotakuNavScreenAppearance,
+#WotakuNavScreen .WotakuNavScreenSocialLinks {
+  display: none;
+}
+
+.screen-menu-social-links {
+  padding-top: 8px;
+  border-top: 1px solid var(--wotaku-c-divider);
+}
+
+@media (max-width: 767px) {
+  // Keep the search owner mounted; only its teleported dialog is visible on phones.
+  .mobile-island-enabled .WotakuNav,
+  .mobile-island-enabled .WotakuLocalNav,
+  .mobile-island-enabled .WotakuSidebar {
+    display: none !important;
+  }
+
+  .Layout.mobile-island-enabled {
+    padding-bottom: calc(80px + env(safe-area-inset-bottom));
+  }
+}

@@ -1,0 +1,3 @@
+- Very simple program with all the standard features.
+- Doesn't have a library, but keeps track of recently opened files.
+- Can open a variety of ebook formats (PDF, epub, mobi, cbz/cbr, DjVu, XPS, CHM).

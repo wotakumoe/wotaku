@@ -1,0 +1,1 @@
+Needs a JP, KR or US VPN for access.

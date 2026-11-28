@@ -1,0 +1,36 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+import mediumZoom from 'medium-zoom'
+import type { Zoom } from 'medium-zoom'
+import type { Router } from '@/theme/shared/client'
+import { nextTick, watch } from 'vue'
+import type { App, InjectionKey } from 'vue'
+
+declare module 'medium-zoom' {
+  interface Zoom {
+    refresh: (selector?: string) => void
+  }
+}
+
+export const mediumZoomSymbol: InjectionKey<Zoom> = Symbol('mediumZoom')
+
+export function createMediumZoomProvider(app: App, router: Router) {
+  if (import.meta.env.SSR) return
+
+  const zoom = mediumZoom()
+  zoom.refresh = () => {
+    zoom.detach()
+    zoom.attach(':not(a) > img:not(.image-src):not(.no-zoom)')
+  }
+  app.provide(mediumZoomSymbol, zoom)
+  watch(
+    () => router.route.path,
+    () => nextTick(() => zoom.refresh())
+  )
+}

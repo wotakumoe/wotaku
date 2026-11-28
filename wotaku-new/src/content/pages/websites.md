@@ -1,0 +1,495 @@
+---
+title: Websites
+description: Websites for anime, manga, novels & more
+customDescription: Discover the best websites for anime, manga, novels & more.
+outline: 2
+---
+
+<collapsible type="warning" title="Before we start">
+
+- Almost all the sites feature erotic/mature content, so proceed with caution.
+- A lot of the websites have their own app. We don't recommend these apps even though the websites are listed here.
+- If a section is not worth ranking, then the websites will be sorted alphabetically. 
+- Just use [Nyaa](https://nyaa.si/).
+
+</collapsible>
+
+
+## Anime
+
+::: tabs
+
+== Online
+
+| Websites | Library ==Library== | Tracking | Login | Sub/Dub | Social |
+|----------|---------------------|----------|-------|---------|--------|
+| [ani.pm](https://ani.pm/) [:alt:](https://ani.nz/) ==anipm== | ==l:anipm== | :sync::ie: | :yes: | :cc::oc::mdub: | :cmnt::frm: |
+| [Re:ANIME](https://reanime.cz/home) ==m:https://reindex.to== | ==l:reanime== | :sync::ie::msync: | :yes: | :cc: | :cmnt::frm: |
+| [AnimeStream](https://anime.uniquestream.net/) ==AnimeStream== | ==l:uniquestream== | :msync: | :yes: | :cc::mdub: | :no: |
+| [MKissa](https://mkissa.to/anime) ==MKissa== | ==l:mkissa== | :msync: | :yes: | :oc: | :cmnt::frm: |
+
+<more>
+
+| [Anime Nexus](https://anime.nexus/) ==AnimeNexus== | ==l:animenexus== | :sync::ie::msync: | :yes: | :cc::mdub: | :cmnt: |
+| [AnimePahe](https://animepahe.pw/) ==Animepahe== | ==l:animepahe== | :msync: | :no: | :oc: | :no: |
+| [Animotvslash](https://www.animotvslash.org/) ==m:https://animotv.ru== ==Animotvslash== | ==l:animotvslash== | :no: | :yes: | :cc::oc: | :cmnt::frm: |
+| [AniZone](https://anizone.to/) | ==l:anizone== | :msync: | :no: | :cc::mdub: | :no: |
+| [anv](https://anv.to/) | ==l:anv== | :sync: | :yes: | :cc: | :cmnt::frm: |
+| [Gotaku](https://gotaku.to/) ==m:https://igotaku.to/== | ==l:gotaku== | :sync::ie: | :yes: | :oc: | :cmnt::frm: |
+| [KickAssAnime](https://kaa.lt/) | ==l:kaa== | :msync: | :yes: | :cc::mdub: | :cmnt: |
+
+== Donghua
+
+| Websites | Library ==Library== | Social |
+|----------|---------------------|--------|
+| [Anime4i](https://anime4i.com/) | ==l:anime4i== | [:tg:](https://t.me/s/anime4iz) |
+| [Anime Cube](https://animecube.live/) | ==l:animecube== | [:tg:](https://t.me/s/animecubehub) |
+| [AnimeKhor](https://animekhor.org/) | ==l:animekhor== | [:tg:](https://t.me/s/AnimeKhorOfficial) |
+| [AnimeXin](https://animexin.dev/) | ==l:animexin== | :no: |
+| [Chiki Animation 2D](https://chikianimation.com/) | ==l:chiki2d== | [:tg:](https://t.me/s/Donghuanewofficial) |
+| [Chiki Animation 3D](https://chikianimation.online/) | ==l:chiki3d== | [:tg:](https://t.me/s/Dimensional_Animation) |
+
+<more>
+
+| [Donghua Stream](https://donghuastream.org/) | ==l:donghuastream== | [:d:](https://discord.gg/4zrUguAakG) [:tg:](https://t.me/DonghuaStream_com) |
+| [Dongsub](https://www.dongsub.net/) | ==l:dongsub== | [:tg:](https://t.me/dongsub) |
+| [LM Anime](https://lmanime.com/) | ==l:lmanime== | :no: |
+| [Lucifer Donghua](https://luciferdonghua.in/) | ==l:luciferdonghua== | [:tg:](https://t.me/luciferdonghuaz) |
+| [Narul Donghua](https://naruldonghua.com/) | ==l:naruldonghua== | [:tg:](https://t.me/Narudonghuachat) |
+| [WowTopix](https://wowtopix.com/) | ==l:wowtopix== | :no: |
+
+
+== Download
+
+| Category | Websites |
+| :--- | :--- |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== |
+| ^^ | [AniRena](https://www.anirena.com/) |
+| ^^ | [nekoBT](https://nekobt.to/) |
+| ^^ | [Shana Project](https://www.shanaproject.com/) |
+| ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
+| ^^ | [TsukiHime](https://tsukihime.org/) :ddl::usnt::cc: |
+| **Reuploads** :ddl: | [Tokyo Insider](https://www.tokyoinsider.com/) [:alt:](https://www.tokyoinsider.net/) |
+| ^^ | [ChauThanh](https://chauthanh.info/) :acc: |
+| **BDMV** :ljp::host: | [JPFiles](https://jpfiles.net/) |
+| ^^ | [AnimeRSS](https://animerss.com/) |
+| ^^ | [Asia Media Blog](https://asiamediablog.com/media/anime/) ==m:asia-media-blog== |
+| ^^ | [urajp](https://urajp.se/) |
+| **Dubtitles** | [Closed Caption Browser](https://cc.edatribe.com/#/) :ded: |
+
+<collapsible title="Related resources">
+
+- [aniDB](https://anidb.net/) :acc:
+- [SeaDex](https://seadex.moe/) [:src:](https://github.com/seadex-moe/seadex)
+- :prev: [SeaDex Mirror](https://seadex.pages.dev/) [:src:](https://github.com/EithonX/seadex-mirror)
+- :prev: [StaticDex](https://dattebayo13.github.io/staticdex/) [:src:](https://github.com/dattebayo13/staticdex)
+- [Sneedex](https://static.sneedex.moe/) :ded:
+- [A Certain Fansubber's Index](https://index.fansubcar.tel/)
+
+</collapsible>
+
+
+== Legal
+
+::: warning Content availability
+Some content may not be available depending on your region.
+:::
+
+| Category | Websites |
+| :--- | :--- |
+| **OTT** | [Crunchyroll](https://www.crunchyroll.com/) |
+| ^^ | [HIDIVE](https://www.hidive.com/) |
+| ^^ | [OceanVeil](https://oceanveil.net/) :ero: |
+| ^^ | [RetroCrush](https://www.retrocrush.tv/home) |
+| ^^ | :rd: [General OTT](#tab-legal-3) |
+| **General** :yt: | [Anime Bancho](https://www.youtube.com/@AnimeBancho) |
+| ^^ | [Anime Manga Official by Kodansha](https://www.youtube.com/@AnimeMangaOfficial) |
+| ^^ | [Ani-One Asia](https://www.youtube.com/AniOneAsia) |
+| ^^ | [Cartoon Power Up](https://www.youtube.com/@CartoonPowerUp) |
+| ^^ | [CONtv](https://www.youtube.com/@CONtv) |
+| ^^ | [It's Anime by REMOW](https://www.youtube.com/@ItsAnimeJP) |
+| ^^ | [Muse Asia](https://www.youtube.com/@MuseAsia) |
+| ^^ | [TMS Official](https://www.youtube.com/@AnimeonTMSOfficialChannel) |
+| ^^ | [Tropics Anime Asia](https://www.youtube.com/@TropicsAnimeAsia) |
+| **Series** :yt: | [Akane-banashi Global](https://www.youtube.com/@akane-banashi_global) |
+| ^^ | [Arait Play English](https://www.youtube.com/@AraitPlayEnglish) ||Inazuma Eleven|| |
+| ^^ | [Beyblade English](https://www.youtube.com/beybladeofficial) |
+| ^^ | [Beyblade Official](https://www.youtube.com/@beyblade-official) |
+| ^^ | [Cardfight!! Vanguard](https://www.youtube.com/@CARDFIGHTVanguard) |
+| ^^ | [Chibi Maruko Channel](https://www.youtube.com/@chibimarukochannelofficial) |
+| ^^ | [Chiikawa Official](https://www.youtube.com/@chiikawa.international) |
+| ^^ | [Gundam Channel INTL](https://www.youtube.com/@GundamInfo) |
+| ^^ | [Official Yu-Gi-Oh!](https://www.youtube.com/@yugioh) |
+| ^^ | [Pokémon TV](https://www.youtube.com/@OfficialPoke%CC%81monTV) |
+| ^^ | [Suikoden: The Anime](https://www.youtube.com/@SuikodenTheAnime-EN) |
+
+== Others
+
+| Category | Websites |
+| :--- | :--- |
+| [**One Pace Project**](https://linktr.ee/onepaceproject) | [Official Site](https://onepace.net/en) |
+| ^^ | [Unofficial Site](https://onepace.co/) |
+| ^^ | [Stremio Addon](https://stremio-addons.net/addons/one-pace-addon) |
+| ^^ | [Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) |
+| **Rerun Sites** :hd: | [BumpWorthy](https://www.bumpworthy.com/) |
+| ^^ | [Cartoons Network](https://cartooncartoons.thatsoretro.com/) |
+| ^^ | [RetroBlast](https://retroblast.tv/) |
+| ^^ | [Spelunkr](https://spelunkr.tv/) |
+| ^^ | [Toonami Aftermath](https://www.toonamiaftermath.com/) |
+| ^^ | [Toonami Remastered](https://www.toonamiremastered.com/) |
+| **Others** | [Gabby's Anime Edits](https://linktr.ee/gabby5202) |
+| ^^ | [SBY Stream](https://sbystream.com/) |
+| ^^ | [Sonic Zone TV](https://soniczone.net/tv/home.html) |
+| ^^ | [JP Animated Classics](https://animation.filmarchives.jp/en/index.html) :hd: |
+
+:::
+
+
+## Manga
+
+::: tabs
+
+== Online
+
+| Websites | Library ==Library== | Tracking | Sources | Layout | Social |
+|----------|---------------------|----------|---------|--------|--------|
+| [Kagane](https://kagane.moe/) ==m:https://kagane.org/== ==Kagane== | ==l:kagane== | :msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaDot](https://mangadot.net/) ==MangaDot== | ==l:mangadotnet== | :sync::ie: | :ms::up: | :sp::dp::ls: | :cmnt::frm: |
+| [Toonkotsu](https://toonkotsu.com/) | ==l:toonkotsu== | :sync::ie: | :ms: |  :sp::dp::ls: | :cmnt: |
+| [Weeb Central](https://weebcentral.com/) ==WeebCentral== | ==l:weebcentral== | :msync: | :ss: | :lsg: | :cmnt::frm: |
+| [Atsumaru](https://atsu.moe/) ==Atsumaru== | ==l:atsumaru== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :cmnt::frm: |
+
+<more>
+
+| [Comix](https://comix.to/) [:alt:](https://comix.ws/) ==Comix== | ==l:comix== | :sync::ie::msync: | :ms::up: | :sp::dp::ls: | :cmnt: |
+| [MangaBall](https://mangaball.com/) ==m:mangaball== | ==l:mangaball== | :msync: | :ps::up: | :ls: | :cmnt: |
+| [MangaFire](https://mangafire.to/) ==MangaFire== | ==l:mangafire== | :sync::ie::msync: | :ps: | :sp::dp::ls: | :no: |
+| [OniSaga](https://onisaga.com/) ==OniSaga== | ==l:onisaga== | :ie: | :ss::up: | :sp::dp::ls: | :no: |
+| [MangaK](https://mangak.io/home) | ==l:mangak== | :no: | :ss: | :sp::ls: | :cmnt: |
+| [XComic](https://xcomic.me/) [:alt:](https://comik.to/) ==XComic== | ==l:xcomic== | :no: | :ps: | :ls::lsg: | :no: |
+| [MKissa](https://mkissa.to/manga) | ==l:mkissa manga== | :msync: | :ss: | :sp::dp::ls: | :cmnt::frm: |
+| [MangaKatana](https://mangakatana.com/) | ==l:mangakatana== | :ie::msync: | :ss: | :ls: | :cmnt: |
+| [Mangahub](https://mangahub.io/) | ==l:mangahub== | :msync: | :ss: | :ls: | :cmnt: |
+
+<more>
+
+| [Dynasty Reader](https://dynasty-scans.com/) ==DynastyReader== | ==l:dynastyscans== | :msync: | :ss::up: | :sp: | :frm: |
+| [MangaGo](https://www.mangago.me/) | ==l:mangago== | :no: | :ss::up: | :sp::ls: | :frm: |
+| [MangaVyVy](https://mangavyvy.com/) [:alt:](https://mangavyvy.net/) | ==l:vyvymanga== | :no: | :ss: | :sp::ls: | :cmnt::frm: |
+| [Yaoi.me](https://yaoi.me/) | ==l:yaoi== | :ie: | :ms: | :sp::dp::ls: | :cmnt::frm: |
+| [ZinManga](https://www.zinmanga.net/) [:alt:](https://www.zazamanga.com/) | ==l:zinmanga== | :no: | :ss: | :ls: | :cmnt: |
+
+== Download
+
+- [Nyaa](https://nyaa.si/) :s::mag: ==m:nyaa==
+- [Madokami](https://manga.madokami.al) :s::acc: [:help:](/guides/manga/madokami)
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org==
+- [Desuarchive](https://desuarchive.org/) :f:
+- :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
+- [Internet Archive](https://archive.org/)
+- :prev: [The Manga Library](https://archive.org/details/manga_library)
+
+<collapsible title="DDL from rippers">
+
+- Nyaa descriptions: [**LuCaZ**](https://nyaa.si/user/LuCaZ), [**Shizu**](https://nyaa.si/?c=3_1&q=%22%28Shizu%29%22), [**Stick**](https://nyaa.si/user/dumbboy58)
+- 4chan archives: [**Danke**](https://desuarchive.org/_/search/text/(digital)%20(danke-empire)/), [**XRA**](https://desuarchive.org/_/search/text/(digital)%20(xra-empire)/)
+- Personal sheet: [**4str0**](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13)
+
+</collapsible>
+
+== Legal
+
+::: warning Content availability
+Some of the series/services may not be available depending on your region.
+:::
+
+| Category | Websites | Payment |
+| :--- | :--- | :--- |
+| **General** | [MangaPlaza](https://mangaplaza.com/) | :free::coin::sub: |
+| ^^ | [Omoi](https://www.omoi.com/) | :free::paid::sub: |
+| ^^ | [Yen Press](https://yenpress.com/) | :paid: |
+| **Chapter** | [Comikey](https://comikey.com/) | :free::coin: |
+| ^^ | [Coolmic](https://coolmic.me/) | :free::coin::sub: |
+| ^^ | [INKR](https://comics.inkr.com/) | :free::coin: |
+| ^^ | [KManga](https://kmanga.kodansha.com/) | :free::coin::sub: |
+| ^^ | [Manga Plus](https://mangaplus.shueisha.co.jp/) | :free::sub: |
+| ^^ | [Manga UP!](https://global.manga-up.com/) | :free::coin::sub: |
+| ^^ | [Mangamo](https://www.mangamo.com/) | :free::coin::sub: |
+| ^^ | [Shonen Jump](https://www.viz.com/sj-offer) | :free::sub: |
+| **Volume** | [Kodansha USA](https://kodansha.us/) | :paid: |
+| ^^ | [Manga Mavericks](https://store.mangamavericks.com/) | :paid: |
+| ^^ | [Seven Seas](https://sevenseasentertainment.com/) | :paid: |
+| ^^ | [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us) | :paid: |
+| ^^ | [TOKYOPOP](https://tokyopop.com/) | :paid: |
+| ^^ | [VIZ](https://www.viz.com/) | :paid: |
+
+<collapsible title="Manhwa/hua">
+
+| Websites | Payment |
+| :--- | :--- |
+| [Lezhin](https://www.lezhinus.com/en) | :free::coin::sub: |
+| [Manta](https://manta.net/en) | :free::coin::sub: |
+| [Tappytoon](https://www.tappytoon.com/en/comics/discover) | :free::coin::sub: |
+| [Toomics](https://toomics.com/en/) | :free::coin::sub: |
+| [TopToon](https://global.toptoon.com/) | :free::coin::sub: |
+| [WebComics](https://webcomicsapp.com/en/) | :free::coin: |
+| [Webtoon](https://www.webtoons.com/en/) | :free::coin::sub: |
+
+</collapsible>
+
+::: tip More sites
+You can go through [**digital comic info**](/guides/manga/comicinfo) to get more sites including sites for volume releases.
+:::
+
+
+:::
+
+
+## Novels
+
+::: tabs
+
+== Online
+
+| Category | Websites |
+| :--- | :--- |
+| **Official** | [cyrisia](https://cyrisia.com/?type=ln) |
+| ^^ | [Ranobe](https://staging.ranobe.app/) :acc: ||AlpinDale|| |
+| **FanTL** | [Novel Updates](https://www.novelupdates.com/) |
+| ^^ | [Baka-tsuki](https://www.baka-tsuki.org/project/index.php?title=Main_Page) |
+| ^^ | [Ranobes](https://ranobes.top/) |
+| ^^ | [Witch Cult Translations](https://witchculttranslation.com/) |
+| **General** | [Elscione's Library](https://server.elscione.com/) :ddl: [:alt:](https://server.elsci.one/) |
+
+== Nyaa
+- [AlpinDale](https://nyaa.si/user/AlpinDale)
+- [Antithetical](https://nyaa.si/?q=Antithetical)
+- [CleanBookGuy](https://nyaa.si/?q=CleanBookGuy)
+- [Ganba](https://nyaa.si/user/Ganba?c=3_1) :ded:
+- [HowUnfortunate](https://nyaa.si/user/HowUnfortunate) :ded:
+- [LuCaZ](https://nyaa.si/?c=3_1&q=%22%5BLuCaZ%5D%22)
+- [Oak](https://nyaa.si/user/Oakminati?q=Hanashi%7CRegin)
+- [Stick](https://nyaa.si/?c=3_1&q=%22%5BStick%5D%22)
+- [Audiobooks](https://nyaa.si/?q=Audiobook)
+
+== DDL
+- [Elscione's Library](https://server.elscione.com/) [:alt:](https://server.elsci.one/)
+- [Ganba's DDL sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvd0SjjPYZKzhUwTYK2n2peZD_n6_wDmEKV3I37nuM-FnOtAU5xZkec35GabjrZ6olJTbr_CMXS6AH/pubhtml) :ded:
+- [JNovel Codex](https://jnovelcodex.web.app/index.html)
+- [Kureha One](http://www.vn-meido.com/k1/index.php?board=17.0) ==kureha==
+- [Madokami](https://manga.madokami.al) :acc: [:help:](/guides/manga/madokami)
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org==
+- [Z-Library](https://z-lib.sk/) ==m:https://open-slum.org==
+
+== Legal
+
+- [BookWalker](https://bookwalker.com/)
+- [Cross Infinite World](https://www.crossinfworld.com/index.html)
+- [J-Novel Club](https://j-novel.club/)
+- [Kodansha USA](https://kodansha.us/)
+- [Square Enix](https://squareenixmangaandbooks.square-enix-games.com/en-us)
+- [VIZ](https://www.viz.com/)
+- [WebNovel](https://www.webnovel.com/)
+- [Wuxia World](https://www.wuxiaworld.com/)
+- [Yen Press](https://yenpress.com/)
+
+:::
+
+
+## Live Action
+
+::: tabs
+
+== Online
+
+- [Asiaflix](https://asiaflix.net/) :hd: ==m:https://asiaflix.xyz==
+- [Kisskh](https://kisskh.co/) :hd: ==m:kisskh==
+- [OneTouch TV](https://onetouchtv.xyz/) :hd:
+- [GoPlay](https://goplay.su/) :ckr::ccn: [:alt:](https://goplay.ml/) [:d:](https://discord.gg/yY2P3DQR8S)
+- [Cinecat](https://cinecat.eu/) :scrpr:
+- [Aether](https://aether.st/) :scrpr: ==m:https://rentry.co/aetherdomains==
+- :rd: [JP learning focused](/japan/immersion#watching)
+
+== Download
+
+| Category | Websites |
+| :--- | :--- |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== |
+| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
+| ^^ | [EXT Torrents](https://ext.to/) [:alt:](https://extto.com/) |
+| **Direct** :ddl: | [111477](https://i.wotaku.wiki/p/redirect) [:js:](https://greasyfork.org/en/scripts/585901) |
+| ^^ | [ChauThanh](https://chauthanh.info/) :acc: |
+| ^^ | [Dramaday](https://dramaday.me/) :ckr: |
+| ^^ | [DramaSuki](https://i.wotaku.wiki/p/redirect) :ded: |
+| ^^ | [Rare Doramas](https://www.raredoramas.com/) :cjp: |
+| **JP Sites** :host: | [JPFiles](https://jpfiles.net/) |
+| ^^ | [AnimeRSS](https://animerss.com/) |
+| ^^ | [Asia Media Blog](https://asiamediablog.com/) ==m:asia-media-blog== |
+| ^^ | [urajp](https://urajp.se/) |
+
+== Info / DB
+
+| Category | Websites |
+| :--- | :--- |
+| **Dedicated** | [Allcinema](https://www.allcinema.net/) :ljp: |
+| ^^ | [Cinema Ranking News](https://www.kogyotsushin.com/) :ljp: |
+| ^^ | [LAMA](https://lama.watch/) |
+| ^^ | [MPAJ](https://www.eiren.org/) :ljp: |
+| ^^ | [MyDramaList](https://mydramalist.com/) |
+| ^^ | [TV Drama Database](http://www.tvdrama-db.com/) :ljp: |
+| **General** | [aniSearch](https://www.anisearch.com/movie) |
+| ^^ | [IMDb](https://www.imdb.com/) |
+| ^^ | [Kinorium](https://en.kinorium.com/) |
+| ^^ | [Letterboxd](https://letterboxd.com/) |
+| ^^ | [SIMKL](https://simkl.com/) |
+| ^^ | [The Movie Database](https://www.themoviedb.org/) |
+| ^^ | [TheTVDB.com](https://www.thetvdb.com/) |
+
+== Legal
+
+::: warning Content availability
+Some content may not be available depending on your region.
+:::
+
+- [Bilibili](https://www.bilibili.tv/en/anime)
+- [Disney+](https://www.disneyplus.com/)
+- [HBO Max](https://www.hbomax.com/)
+- [Netflix](https://www.netflix.com/)
+- [Pluto TV](https://pluto.tv/)
+- [Prime Video](https://www.primevideo.com/)
+- [Shout! TV](https://watch.shout-tv.com/home)
+- [Tubi](https://tubitv.com/)
+- [Viki](https://www.viki.com/)
+
+<collapsible title="Utility sites">
+
+- [JustWatch](https://www.justwatch.com/us) :s: [||JP||](https://www.justwatch.com/jp)
+- [FlixHop](https://flixhop.com/)
+- [uNoGS](https://unogs.com/)
+
+</collapsible>
+
+:::
+
+
+## Tokusatsu
+
+::: tabs
+
+== Online
+
+- [Asiaflix](https://asiaflix.net/) :hd: ==m:https://asiaflix.xyz==
+- [Kisskh](https://kisskh.co/) :hd: ==m:kisskh==
+- [OneTouch TV](https://onetouchtv.xyz/) :hd:
+
+== Download
+
+| Category | Websites |
+| :--- | :--- |
+| **Direct** :ddl: | [Toku DDL](https://i.wotaku.wiki/p/redirect) |
+| ^^ | [KRDL.moe](https://krdl.moe/) :ded::acc: |
+| **Torrent** :mag: | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== |
+| ^^ | [AvistaZ](https://avistaz.to/) :acc: [:d:](https://discord.gg/r46CFUEBNu) |
+| ^^ | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
+
+== Wikis
+
+- [Tokupedia](https://tokusatsu.fandom.com/wiki/Main_Page) ||Hub||
+- [GARO](https://garo.fandom.com/wiki/GARO_Wiki)
+- [Kamen Rider](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)
+- [King Kong](https://kingkong.fandom.com/wiki/King_Kong_Wiki)
+- [Metal Heroes](https://metalheroes.fandom.com/wiki/Metal_Heroes_Wiki)
+- [Power Rangers](https://powerrangers.fandom.com/wiki/RangerWiki)
+- [Tokusubs](https://tokusubs.fandom.com/wiki/Tokusubs_Wiki)
+- [Ultraman](https://ultra.fandom.com/wiki/Ultraman_Wiki)
+- [Wikizilla](https://wikizilla.org/wiki/Main_Page)
+
+== Portals
+
+- [Henshin Grid](https://henshingrid.blogspot.com/)
+- [JEFusion](https://jefusion.blogspot.com/) x||Spoilers||
+- [Kaiju & Tokusatsu Home Theatre](https://kaijuhometheatre.substack.com/)
+- [Morphin' Legacy](https://morphinlegacy.com/)
+- [My Shiny Toy Robots](https://www.myshinytoyrobots.com/)
+- [Tokunation](https://news.tokunation.com/)
+- [Tsuburaya Productions](https://tsuburaya-prod.com/)
+
+== Legal
+
+::: warning Content availability
+Some content may not be available depending on your region.
+:::
+
+| Category | Websites |
+| :--- | :--- |
+| **OTT** | [Toei Tokusatsu Fan Club](https://tokusatsu-fc.jp/) :ljp: |
+| ^^ | :rd: [General OTT](#tab-legal-3) |
+| **YouTube** | [Kamen Rider](https://www.youtube.com/@KAMENRIDER_Official_Toei) :ljp: |
+| ^^ | [Power Rangers](https://www.youtube.com/@PowerRangersOfficial) |
+| ^^ | [Toei Tokusatsu World](https://www.youtube.com/@toeitokusatsuworldofficial2399) <tooltip>Limited run until April 2027.</tooltip> |
+| ^^ | [Toei Tokusatsu YouTube](https://www.youtube.com/@TTYO) :ljp: |
+| ^^ | [TokuSHOUTsu](https://www.youtube.com/@TokuSHOUTsu) |
+| ^^ | [Ultraman](https://www.youtube.com/@ULTRAMAN_OFFICIAL) |
+| ^^ | [Ultraman EN](https://www.youtube.com/@ultraman_english_official) |
+
+:::
+
+
+
+## Comics
+
+::: tabs
+
+== Online
+- [BatCave.biz](https://batcave.biz/)
+- [Comic Book Plus](http://comicbookplus.com/) ||Vintage||
+- [Digital Comic Museum](https://digitalcomicmuseum.com/) ||Vintage||
+- [Read Comics Online](https://readcomicsonline.ru/) ||GetComics||
+- [XOXO Comics](https://xoxocomic.com/) [:alt:](https://comichubfree.com/)
+
+== Download
+- [Anna's Archive](https://annas-archive.gl/) ==m:https://open-slum.org== [:js:](https://greasyfork.org/en/scripts/494262) ==AnnasArchive==
+- [ComicsCodes](https://comics.codes/)
+- [Desuarchive](https://desuarchive.org/) :f:
+- :prev: [Win-O'-Thread](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/) :f:
+- [GetComics](https://getcomics.org/) :s:
+- [Library Genesis+](https://libgen.li/) ==m:https://open-slum.org==
+- [Old Comics World](https://oldcomicsworld.blogspot.com/) ||Vintage||
+- [TheLongbox](https://thelongbox.net/) :host::acc:
+
+== Info / DB
+
+- [Comichron](https://www.comichron.com/index.php) :ded:
+- [Comic Vine](https://comicvine.gamespot.com/) :s:
+- [Comic Book Treasury](https://www.comicbooktreasury.com/)
+- [Grand Comics Database](https://www.comics.org/)
+- [League of Comic Geeks](https://leagueofcomicgeeks.com/)
+- [Metron](https://metron.cloud/)
+
+== Reading Guide
+- [Comic Book Herald](https://www.comicbookherald.com/)
+- [Comic Book Reading Orders](https://comicbookreadingorders.com/)
+- [Complete Marvel Reading Order](https://marvelreading.com/)
+- [Continuity Guide](https://www.continuityguide.net/)
+- [How To Love Comics](https://www.howtolovecomics.com/)
+- [Marvel Guides](https://marvelguides.com/)
+- [Official Marvel Guides](https://www.marvel.com/comics/guides)
+
+== Portal
+- [13th Dimension](https://13thdimension.com/)
+- [Comic Book Roundup](https://comicbookroundup.com/)
+- [Comic Watch](https://comic-watch.com/)
+- [The Beat](https://www.comicsbeat.com/)
+- [The Comics Journal](https://www.tcj.com/)
+
+== Legal
+
+- [Comics Kingdom](https://comicskingdom.com/)
+- [DC Universe Infinite](https://www.dcuniverseinfinite.com/) ==DCUniverse==
+- [GlobalComix](https://globalcomix.com/)
+- [GoComics](https://www.gocomics.com/)
+- [Marvel Unlimited](https://www.marvel.com/unlimited)
+
+:::

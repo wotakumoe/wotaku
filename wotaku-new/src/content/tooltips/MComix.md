@@ -1,0 +1,3 @@
+- Minimal & responsive UI with good amount of customization.
+- Has a nice library option and remembers last reading options.
+- Has 3 scaling options: Normal, Bilinear (default) and Hyperbolic.

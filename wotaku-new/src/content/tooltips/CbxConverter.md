@@ -1,0 +1,1 @@
+The version of Magick inside is really outdated. If you use it, download ImageMagick-[Latest_Version]-portable-Q8-x64.zip from the Imagemagick site, take the magick.exe from there and replace it in CbxConverter folder.

@@ -1,0 +1,1 @@
+A client for the Soulseek peer-to-peer file sharing network, primarily used for music.

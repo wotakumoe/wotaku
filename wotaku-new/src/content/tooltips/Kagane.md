@@ -1,0 +1,4 @@
+- Scrapes official sources and Nyaa uploads.
+- Imported the majority of MangaDex's library.
+- Offers high-quality uploads without watermarks.
+- May block popular VPNs.

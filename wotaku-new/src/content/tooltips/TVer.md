@@ -1,0 +1,1 @@
+Needs JP VPN by default, but you can stream without it if you copy-paste the video URL into a video player (like MPV).

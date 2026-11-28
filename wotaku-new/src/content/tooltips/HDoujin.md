@@ -1,0 +1,1 @@
+Side project of Schale Network. ExHentai mirror for manga and doujinshi, keeping the original resolution.

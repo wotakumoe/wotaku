@@ -1,0 +1,5 @@
+- Has official translations
+- Compresses chapter images
+- Chapter updates are relatively slow
+- Max height on old uploads is x1600
+- Max width on new uploads is 1200x

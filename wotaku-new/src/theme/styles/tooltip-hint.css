@@ -1,0 +1,33 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+div.v-popper--theme-hint {
+  display: inline-block;
+
+  > span:first-child {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: var(--wotaku-c-text-3);
+    text-underline-offset: 0.5em;
+    text-decoration-thickness: 1px;
+  }
+}
+
+.v-popper--theme-hint {
+  .v-popper__inner {
+    font-size: small;
+    color: var(--wotaku-c-text-1) !important;
+    background-color: var(--wotaku-c-bg-elv) !important;
+    border: var(--wotaku-c-divider) 1px solid;
+    box-shadow: var(--wotaku-shadow-3);
+  }
+
+  .v-popper__arrow-container {
+    display: none;
+  }
+}

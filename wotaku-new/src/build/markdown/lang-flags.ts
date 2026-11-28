@@ -1,0 +1,95 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+/**
+ * ISO 639-1 language code -> Twemoji flag icon name (from @iconify-json/twemoji).
+ * Shared by repository components and the UnoCSS safelist: the static scanner
+ * cannot see class names constructed with template literals at runtime.
+ */
+export const LANG_FLAG_ICONS: Record<string, string> = {
+  all: 'globe-showing-asia-australia',
+  en: 'flag-united-kingdom',
+  us: 'flag-for-flag-united-states',
+  ja: 'flag-japan',
+  zh: 'flag-china',
+  'zh-hans': 'flag-china',
+  'zh-hant': 'flag-taiwan',
+  'zh-tw': 'flag-taiwan',
+  'zh-hk': 'flag-hong-kong-sar-china',
+  ko: 'flag-south-korea',
+  es: 'flag-spain',
+  'es-419': 'flag-mexico',
+  fr: 'flag-france',
+  de: 'flag-germany',
+  it: 'flag-italy',
+  pt: 'flag-portugal',
+  'pt-br': 'flag-brazil',
+  ru: 'flag-russia',
+  ar: 'flag-saudi-arabia',
+  vi: 'flag-vietnam',
+  id: 'flag-indonesia',
+  in: 'flag-indonesia',
+  jv: 'flag-indonesia',
+  ms: 'flag-malaysia',
+  tr: 'flag-turkiye',
+  tu: 'flag-turkiye',
+  pl: 'flag-poland',
+  nl: 'flag-netherlands',
+  cs: 'flag-czechia',
+  da: 'flag-denmark',
+  sv: 'flag-sweden',
+  uk: 'flag-ukraine',
+  hi: 'flag-india',
+  pa: 'flag-india',
+  ta: 'flag-india',
+  te: 'flag-india',
+  kn: 'flag-india',
+  ml: 'flag-india',
+  mr: 'flag-india',
+  th: 'flag-thailand',
+  fa: 'flag-iran',
+  hu: 'flag-hungary',
+  ro: 'flag-romania',
+  mo: 'flag-moldova',
+  el: 'flag-greece',
+  fi: 'flag-finland',
+  bg: 'flag-bulgaria',
+  no: 'flag-norway',
+  he: 'flag-israel',
+  bn: 'flag-bangladesh',
+  ceb: 'flag-philippines',
+  fil: 'flag-philippines',
+  tl: 'flag-philippines',
+  et: 'flag-estonia',
+  lv: 'flag-latvia',
+  lt: 'flag-lithuania',
+  sk: 'flag-slovakia',
+  sl: 'flag-slovenia',
+  sr: 'flag-serbia',
+  hr: 'flag-croatia',
+  sq: 'flag-albania',
+  az: 'flag-azerbaijan',
+  be: 'flag-belarus',
+  ka: 'flag-georgia',
+  kk: 'flag-kazakhstan',
+  uz: 'flag-uzbekistan',
+  mn: 'flag-mongolia',
+  my: 'flag-myanmar-burma',
+  ne: 'flag-nepal',
+  ur: 'flag-pakistan',
+  af: 'flag-south-africa',
+  ga: 'flag-ireland',
+  is: 'flag-iceland',
+  eu: 'flag-spain',
+  ca: 'flag-spain',
+  co: 'flag-france',
+  vec: 'flag-italy',
+  lmo: 'flag-italy'
+}
+
+export const LANG_FLAG_FALLBACK = 'globe-showing-asia-australia'

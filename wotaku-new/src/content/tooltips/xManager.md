@@ -1,0 +1,1 @@
+Due to Spotify changes, it doesn't work well in a lot of regions. Switch to echo.

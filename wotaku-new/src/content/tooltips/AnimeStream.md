@@ -1,0 +1,4 @@
+- Sources from Crunchyroll.
+- Provides all their subs and dubs.
+- Badly vibecoded website.
+- Only kept for the quality and dubs.

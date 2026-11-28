@@ -1,0 +1,139 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+import { computed, type ComputedRef, type Ref } from 'vue'
+import { langLabel } from '../../shared/extension-repos/helpers'
+import type { MatchedSite, RatingFilter } from '../../../shared/extension-repos/types'
+
+export interface RepoFilterState {
+  query: Ref<string>
+  langFilter: Ref<string>
+  ratingFilter: Ref<RatingFilter>
+  contentTypeFilter: Ref<string>
+  showBroken: Ref<boolean>
+}
+
+export interface IndexedSite extends MatchedSite {
+  hay: string
+}
+
+export function indexSites(sites: MatchedSite[]): IndexedSite[] {
+  return sites.map((site) => ({
+    ...site,
+    hay: `${site.name ?? ''} ${site.url ?? ''}`.toLowerCase()
+  }))
+}
+
+// dedupes seanime marketplace
+export function dedupeSites<T extends MatchedSite>(sites: T[]): T[] {
+  const seen = new Set<string>()
+  const out: T[] = []
+
+  for (const site of sites) {
+    if (site.copyUrl) {
+      if (seen.has(site.copyUrl)) continue
+
+      seen.add(site.copyUrl)
+    }
+
+    out.push(site)
+  }
+
+  return out
+}
+
+export function useRepoFilter(
+  allSites: ComputedRef<IndexedSite[]>,
+  state: RepoFilterState
+) {
+  // Single pass over allSites for every facet + flag.
+  const facets = computed(() => {
+    const contentTypes = new Set<string>()
+    const langs = new Set<string>()
+    let hasRatings = false
+    let hasMixed = false
+    let hasSuggestive = false
+    let hasMultiLanguage = false
+    let hasBroken = false
+
+    for (const site of allSites.value) {
+      if (site.contentType) contentTypes.add(site.contentType)
+
+      if (site.contentTypes) {
+        for (const type of site.contentTypes) {
+          if (type) contentTypes.add(type)
+        }
+      }
+
+      if (site.rating !== 'safe') hasRatings = true
+
+      if (site.rating === 'mixed') hasMixed = true
+
+      if (site.rating === 'suggestive') hasSuggestive = true
+
+      if (site.isBroken) hasBroken = true
+
+      if (typeof site.lang !== 'string') continue
+
+      if (site.lang.toLowerCase() === 'all') hasMultiLanguage = true
+
+      if (site.lang !== 'all') langs.add(site.lang)
+
+      for (const lang of site.languages ?? []) {
+        if (lang && lang !== 'all') langs.add(lang)
+      }
+    }
+
+    return {
+      availableContentTypes: [...contentTypes].sort(),
+      availableLangs: [...langs].sort((a, b) => langLabel(a).localeCompare(langLabel(b))),
+      hasRatings,
+      hasMixed,
+      hasSuggestive,
+      hasMultiLanguage,
+      hasBroken
+    }
+  })
+
+  const isFiltering = computed(() => {
+    return (
+      state.query.value.trim() !== '' ||
+      state.langFilter.value !== '' ||
+      state.ratingFilter.value !== 'all' ||
+      state.contentTypeFilter.value !== ''
+    )
+  })
+
+  const filteredSites = computed(() => {
+    const q = state.query.value.trim().toLowerCase()
+    const lang = state.langFilter.value
+    const rating = state.ratingFilter.value
+    const ctype = state.contentTypeFilter.value
+    const showBroken = state.showBroken.value
+    const filtered = allSites.value.filter((site) => {
+      if (site.isBroken && !showBroken) return false
+
+      if (q && !site.hay.includes(q)) return false
+
+      if (lang && site.lang !== lang && !site.languages?.includes(lang)) {
+        return false
+      }
+
+      if (rating !== 'all' && site.rating !== rating) return false
+
+      if (ctype && site.contentType !== ctype) {
+        if (!site.contentTypes?.includes(ctype)) return false
+      }
+
+      return true
+    })
+    return dedupeSites(filtered)
+  })
+
+  return { facets, isFiltering, filteredSites }
+}

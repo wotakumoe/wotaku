@@ -1,0 +1,2 @@
+- Uploads mini-encodes, best if you want smaller files or have low bandwidth.
+- Has a good amount of missing titles.

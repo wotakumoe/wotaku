@@ -1,0 +1,14 @@
+# Cache headers for media files for the Google recommended of 6 months minimum.
+*.webp
+*.webm
+*.png
+*.jpg
+*.svg
+*.ico
+    Cache-Control: public, max-age=15552000
+    cache-control: immutable
+/*
+    X-Robots-Tag: noarchive
+
+/manifest.webmanifest
+    Content-Type: application/manifest+json

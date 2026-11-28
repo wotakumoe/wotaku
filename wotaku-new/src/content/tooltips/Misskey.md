@@ -1,0 +1,1 @@
+Registrations are currently limited to Japan only.

@@ -1,0 +1,1 @@
+Cupscale is not good for color and pages with no screentone.

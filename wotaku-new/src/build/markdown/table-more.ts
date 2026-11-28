@@ -1,0 +1,674 @@
+/**
+ * All Rights Reserved
+ *
+ * Copyright (c) 2026 taskylizard
+ *
+ * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
+ */
+
+import type { MarkdownExit as MarkdownRenderer } from 'markdown-exit'
+
+const MARKER_RE = /^<more\s*\/?>$/i
+
+const ROW_TOKEN_TYPES = new Set([
+  'tr_open',
+  'tr_close',
+  'td_open',
+  'td_close',
+  'th_open',
+  'th_close',
+  'inline'
+])
+
+function buildToggleHtml(cols: number, anchor: string): string {
+  return (
+    `<tbody class="table-more-toggle" data-table-more="${anchor}">\n` +
+    `<tr class="table-more-toggle-row">\n` +
+    `<td colspan="${cols}">\n` +
+    `<label class="table-more-label">\n` +
+    `<input type="checkbox" class="table-more-checkbox" aria-label="Toggle more rows">\n` +
+    `<span class="table-more-text table-more-text--more">Show more</span>\n` +
+    `<span class="table-more-text table-more-text--less">Show less</span>\n` +
+    `<span class="table-more-icon i-mdi-chevron-down" aria-hidden="true"></span>\n` +
+    `</label>\n</td>\n</tr>\n</tbody>\n`
+  )
+}
+
+function getLine(state: any, n: number): string {
+  return state.src.slice(state.bMarks[n] + state.tShift[n], state.eMarks[n])
+}
+
+function isPipeLine(line: string): boolean {
+  return line.trim().startsWith('|')
+}
+
+function splitCells(line: string): string[] {
+  let s = line.trim()
+
+  if (s.startsWith('|')) s = s.slice(1)
+
+  if (s.endsWith('|') && !s.endsWith('\\|')) s = s.slice(0, -1)
+
+  return s.split(/(?<!\\)\|/).map((c) => c.replace(/\\\|/g, '|').replace(/\\\\/g, '\\'))
+}
+
+function isDelimiterRow(line: string): boolean {
+  const cells = splitCells(line)
+  return cells.length > 0 && cells.every((c) => /^:?-+:?$/.test(c.trim()))
+}
+
+function colspanOf(td: any): number {
+  const cols = td ? Number(td.attrGet('colspan')) : NaN
+  return Number.isFinite(cols) && cols > 0 ? Math.floor(cols) : 1
+}
+
+function rowspanOf(td: any): number {
+  const rs = td ? Number(td.attrGet('rowspan')) : NaN
+  return Number.isFinite(rs) && rs > 0 ? Math.floor(rs) : 1
+}
+
+function prevRowCells(tokens: any[]): any[] {
+  let end = tokens.length - 1
+
+  while (end >= 0 && tokens[end].type === 'table_close') end--
+
+  if (end < 0 || tokens[end].type !== 'tbody_close') return []
+
+  let open = end
+  let depth = 0
+
+  while (open >= 0) {
+    if (tokens[open].type === 'tbody_close') depth++
+    else if (tokens[open].type === 'tbody_open') {
+      depth--
+
+      if (depth === 0) break
+    }
+
+    open--
+  }
+
+  if (open < 0) return []
+
+  const rows: any[][] = []
+  let cur: any[] | null = null
+
+  for (let k = open + 1; k < end; k++) {
+    const t = tokens[k]
+
+    if (t.type === 'tr_open') cur = []
+    else if (t.type === 'tr_close') {
+      if (cur) rows.push(cur)
+
+      cur = null
+    } else if (cur && (t.type === 'td_open' || t.type === 'th_open')) {
+      cur.push(t)
+    }
+  }
+
+  const remaining: number[] = []
+  const holder: any[] = []
+  let owners: any[] = []
+
+  for (const row of rows) {
+    const next: any[] = []
+    let c = 0
+
+    for (const td of row) {
+      while ((remaining[c] ?? 0) > 0) {
+        next[c] = holder[c]
+        c++
+      }
+
+      const w = colspanOf(td)
+
+      for (let k = 0; k < w; k++) next[c + k] = td
+
+      const rs = rowspanOf(td)
+
+      if (rs > 1) {
+        for (let k = 0; k < w; k++) {
+          remaining[c + k] = rs
+          holder[c + k] = td
+        }
+      }
+
+      c += w
+    }
+
+    while ((remaining[c] ?? 0) > 0) {
+      next[c] = holder[c]
+      c++
+    }
+
+    for (let k = 0; k < remaining.length; k++) {
+      if (remaining[k] > 0) remaining[k]--
+    }
+
+    owners = next
+  }
+
+  return owners
+}
+
+function isTableMoreCloser(t: any): boolean {
+  return (
+    t?.type === 'html_block' &&
+    typeof t.content === 'string' &&
+    t.content.includes('</tbody>')
+  )
+}
+
+// Owners for chained <more>; cross-tbody ^^ clones via emitted check.
+function chainedRowOwners(tokens: any[]): any[] {
+  let closeIdx = -1
+
+  for (let k = tokens.length - 1; k >= 0; k--) {
+    if (tokens[k].type === 'table_close') {
+      closeIdx = k
+      break
+    }
+  }
+
+  if (closeIdx === -1) return []
+
+  const openIdx = findTableOpen(tokens, closeIdx)
+
+  if (openIdx === -1) return []
+
+  const rows: any[][] = []
+  let cur: any[] | null = null
+
+  for (let k = openIdx; k < tokens.length; k++) {
+    const t = tokens[k]
+
+    if (t.type === 'tr_open') cur = []
+    else if (t.type === 'tr_close') {
+      if (cur) rows.push(cur)
+
+      cur = null
+    } else if (cur && (t.type === 'td_open' || t.type === 'th_open')) {
+      cur.push(t)
+    }
+  }
+
+  const remaining: number[] = []
+  const holder: any[] = []
+  let owners: any[] = []
+
+  for (const row of rows) {
+    const next: any[] = []
+    let c = 0
+
+    for (const td of row) {
+      while ((remaining[c] ?? 0) > 0) {
+        next[c] = holder[c]
+        c++
+      }
+
+      const w = colspanOf(td)
+
+      for (let k = 0; k < w; k++) next[c + k] = td
+
+      const rs = rowspanOf(td)
+
+      if (rs > 1) {
+        for (let k = 0; k < w; k++) {
+          remaining[c + k] = rs
+          holder[c + k] = td
+        }
+      }
+
+      c += w
+    }
+
+    while ((remaining[c] ?? 0) > 0) {
+      next[c] = holder[c]
+      c++
+    }
+
+    for (let k = 0; k < remaining.length; k++) {
+      if (remaining[k] > 0) remaining[k]--
+    }
+
+    owners = next
+  }
+
+  return owners
+}
+
+function cloneCellContent(state: any, owner: any) {
+  const tokens = state.tokens
+  const idx = tokens.indexOf(owner)
+
+  if (idx === -1) return
+
+  const end = tokens.length
+  let depth = 1
+
+  for (let k = idx + 1; k < end && depth > 0; k++) {
+    const t = tokens[k]
+    const isOpen = (t.type === 'td_open' || t.type === 'th_open') && t.nesting === 1
+    const isClose = (t.type === 'td_close' || t.type === 'th_close') && t.nesting === -1
+
+    if (isOpen) {
+      depth++
+    } else if (isClose) {
+      depth--
+
+      if (depth === 0) break
+    } else {
+      const cp = state.push(t.type, t.tag, t.nesting)
+      cp.attrs = t.attrs ? t.attrs.map((a: any) => [a[0], a[1]]) : t.attrs
+      cp.content = t.content
+      cp.map = t.map ? t.map.slice() : t.map
+      cp.children = []
+      cp.block = t.block
+      cp.info = t.info
+      cp.markup = t.markup
+      cp.meta = t.meta ? { ...t.meta } : t.meta
+    }
+  }
+}
+
+function findTableClose(tokens: any[], from: number): number {
+  let depth = 0
+
+  for (let j = from; j < tokens.length; j++) {
+    if (tokens[j].type === 'table_open') depth++
+    else if (tokens[j].type === 'table_close') {
+      depth--
+
+      if (depth === 0) return j
+    }
+  }
+
+  return -1
+}
+
+function countCells(tokens: any[], from: number, to: number, type: string): number {
+  let count = 0
+
+  for (let k = from; k < to; k++) {
+    if (tokens[k].type === type) count++
+  }
+
+  return count
+}
+
+function findTableOpen(tokens: any[], tableCloseIdx: number): number {
+  let depth = 0
+
+  for (let k = tableCloseIdx; k >= 0; k--) {
+    if (tokens[k].type === 'table_close') depth++
+    else if (tokens[k].type === 'table_open') {
+      if (depth <= 1) return k
+
+      depth--
+    }
+  }
+
+  return -1
+}
+
+function countTableCols(tokens: any[], tableCloseIdx: number): number {
+  const openIdx = findTableOpen(tokens, tableCloseIdx)
+
+  if (openIdx === -1) return 0
+
+  let theadOpen = -1
+  let theadClose = -1
+
+  for (let k = openIdx; k < tableCloseIdx; k++) {
+    if (tokens[k].type === 'thead_open' && theadOpen === -1) {
+      theadOpen = k
+    }
+
+    if (tokens[k].type === 'thead_close') {
+      theadClose = k
+      break
+    }
+  }
+
+  if (theadOpen !== -1 && theadClose !== -1) {
+    return countCells(tokens, theadOpen, theadClose, 'th_open')
+  }
+
+  return 0
+}
+
+// One global serial anchor per <more> section, in document order.
+function nextSectionAnchor(state: any): string {
+  const n = state.env.__tableMoreCount ?? 0
+  state.env.__tableMoreCount = n + 1
+  return String(n)
+}
+
+export function tableMorePlugin(md: MarkdownRenderer): void {
+  md.block.ruler.before(
+    'html_block',
+    'table_more_marker',
+    (state, startLine, endLine, silent) => {
+      const pos = state.bMarks[startLine] + state.tShift[startLine]
+      const max = state.eMarks[startLine]
+
+      if (!MARKER_RE.test(state.src.slice(pos, max).trim())) {
+        return false
+      }
+      // Marker after table or previous <more> section; else literal text.
+      const prev = state.tokens[state.tokens.length - 1]
+      const afterTable = !!prev && prev.type === 'table_close'
+      let afterChained = !!prev && isTableMoreCloser(prev)
+
+      if (afterChained) {
+        // Guard against arbitrary </tbody> html.
+        let lastClose = -1
+
+        for (let k = state.tokens.length - 1; k >= 0; k--) {
+          if (state.tokens[k].type === 'table_close') {
+            lastClose = k
+            break
+          }
+        }
+
+        let hasMarker = false
+
+        if (lastClose !== -1) {
+          for (let k = lastClose + 1; k < state.tokens.length; k++) {
+            if (state.tokens[k].type === 'table_more') {
+              hasMarker = true
+              break
+            }
+          }
+        }
+
+        if (!hasMarker) afterChained = false
+      }
+
+      if (!afterTable && !afterChained) return false
+
+      if (silent) return true
+
+      // Full table follows: let the table parser handle it, merge later.
+      // Chained sections support bare rows only.
+      let line = startLine + 1
+
+      while (line < endLine && getLine(state, line).trim() === '') line++
+
+      const next1 = line < endLine ? getLine(state, line) : ''
+      const next2 = line + 1 < endLine ? getLine(state, line + 1) : ''
+      const fullTableFollows = isPipeLine(next1) && isDelimiterRow(next2)
+
+      if (afterChained && fullTableFollows) return false
+
+      let up: any[] = afterTable
+        ? prevRowCells(state.tokens)
+        : chainedRowOwners(state.tokens)
+      const emitted = new Set(state.tokens)
+      const marker = state.push('table_more', '', 0)
+      marker.map = [startLine, startLine + 1]
+      marker.content = ''
+
+      if (fullTableFollows) {
+        state.line = startLine + 1
+        return true
+      }
+
+      let rows = 0
+
+      while (line < endLine && isPipeLine(getLine(state, line))) {
+        const cells = splitCells(getLine(state, line))
+        const trOpen = state.push('tr_open', 'tr', 1)
+        trOpen.map = [line, line + 1]
+        const cur: any[] = []
+        let c = 0
+        let openTd: any = null
+        let openStart = 0
+        let span = 1
+        const flush = () => {
+          if (openTd) {
+            if (span > 1) openTd.attrSet('colspan', span)
+
+            for (let k = 0; k < span; k++) cur[openStart + k] = openTd
+
+            openTd = null
+            span = 1
+          }
+        }
+
+        for (const raw of cells) {
+          if (raw.trim() === '^^' && c < up.length && up[c]) {
+            flush()
+            const above = up[c]
+            const w = colspanOf(above)
+
+            if (emitted.has(above)) {
+              const td = state.push(
+                above.tag === 'th' ? 'th_open' : 'td_open',
+                above.tag,
+                1
+              )
+              td.attrs = above.attrs
+                ? above.attrs
+                    .filter((a: any) => a[0] !== 'rowspan')
+                    .map((a: any) => [a[0], a[1]])
+                : []
+
+              if (w > 1) td.attrSet('colspan', String(w))
+
+              cloneCellContent(state, above)
+              state.push(above.tag === 'th' ? 'th_close' : 'td_close', above.tag, -1)
+
+              for (let k = 0; k < w; k++) cur[c + k] = td
+            } else {
+              const rs = rowspanOf(above)
+              above.attrSet('rowspan', rs + 1)
+
+              for (let k = 0; k < w; k++) cur[c + k] = above
+            }
+
+            c += w
+            continue
+          }
+
+          if (raw === '' && openTd) {
+            span++
+            c++
+            continue
+          }
+
+          flush()
+          const td = state.push('td_open', 'td', 1)
+          td.attrs = []
+          const inline = state.push('inline', '', 0)
+          inline.content = raw.trim()
+          inline.map = [line, line + 1]
+          inline.children = []
+          state.push('td_close', 'td', -1)
+          openTd = td
+          openStart = c
+          c++
+        }
+
+        flush()
+        state.push('tr_close', 'tr', -1)
+        up = cur
+        rows++
+        line++
+      }
+
+      if (rows > 0) {
+        const closer = state.push('html_block', '', 0)
+        closer.map = [line, line]
+        closer.content = '</tbody>\n'
+      }
+
+      state.line = line
+      return true
+    }
+  )
+
+  // Unmatched markers (no second table) render as nothing.
+  md.renderer.rules.table_more = () => ''
+
+  md.core.ruler.after('block', 'table_more_merge', (state: any) => {
+    const tokens = state.tokens as any[]
+    let i = 0
+
+    while (i < tokens.length) {
+      if (tokens[i].type !== 'table_close' || tokens[i + 1]?.type !== 'table_more') {
+        i++
+        continue
+      }
+
+      // full second table follows the marker.
+      if (tokens[i + 2]?.type === 'table_open') {
+        const openIdx = i + 2
+        const closeIdx = findTableClose(tokens, openIdx)
+
+        if (closeIdx === -1) {
+          i++
+          continue
+        }
+
+        let theadOpen = -1
+        let theadClose = -1
+
+        for (let k = openIdx; k < closeIdx; k++) {
+          if (tokens[k].type === 'thead_open' && theadOpen === -1) {
+            theadOpen = k
+          }
+
+          if (tokens[k].type === 'thead_close') {
+            theadClose = k
+            break
+          }
+        }
+
+        const bodyStart = theadClose !== -1 ? theadClose + 1 : openIdx + 1
+        const kept = tokens.slice(bodyStart, closeIdx)
+
+        let cols =
+          theadOpen !== -1 && theadClose !== -1
+            ? countCells(tokens, theadOpen, theadClose, 'th_open')
+            : 0
+
+        if (cols <= 0) cols = countTableCols(tokens, i)
+
+        if (cols <= 0) cols = 1
+
+        const hidden = kept.filter((t) => t.type === 'tr_open').length
+
+        if (hidden === 0) {
+          i = closeIdx + 1
+          continue
+        }
+
+        for (const t of kept) {
+          if (t.type === 'tbody_open') t.attrJoin('class', 'table-more-hidden')
+        }
+
+        // Toggle + hidden rows go inside the first table, before its close.
+        const marker = tokens[i + 1]
+        marker.type = 'html_block'
+        marker.tag = ''
+        marker.nesting = 0
+        marker.attrs = null
+        marker.children = null
+        marker.info = ''
+        marker.markup = ''
+        marker.content = buildToggleHtml(cols, nextSectionAnchor(state))
+
+        const merged = tokens.slice(0, i)
+        merged.push(marker)
+        merged.push(...kept)
+        merged.push(tokens[i])
+        merged.push(...tokens.slice(closeIdx + 1))
+        tokens.splice(0, tokens.length, ...merged)
+        i += 2 + kept.length
+        continue
+      }
+
+      // Chained bare rows: one toggle per <more> section.
+      if (tokens[i + 2]?.type === 'tr_open') {
+        let j = i + 1
+        const sections: { marker: any; kept: any[]; closer: any }[] = []
+
+        while (tokens[j]?.type === 'table_more') {
+          const rStart = j + 1
+
+          if (tokens[rStart]?.type !== 'tr_open') break
+
+          let k = rStart
+
+          while (k < tokens.length && ROW_TOKEN_TYPES.has(tokens[k].type)) k++
+
+          const closer = tokens[k]
+
+          if (!isTableMoreCloser(closer)) break
+
+          const kept = tokens.slice(rStart, k)
+          const hidden = kept.filter((t) => t.type === 'tr_open').length
+
+          if (hidden === 0) {
+            j = k + 1
+            continue
+          }
+
+          sections.push({ marker: tokens[j], kept, closer })
+          j = k + 1
+        }
+
+        if (sections.length === 0) {
+          i++
+          continue
+        }
+
+        let cols = countTableCols(tokens, i)
+
+        if (cols <= 0) {
+          const firstKept = sections[0].kept
+          const firstTr = firstKept.findIndex((t) => t.type === 'tr_open')
+          const end = firstKept.findIndex(
+            (t, idx) => idx > firstTr && t.type === 'tr_close'
+          )
+          cols = countCells(
+            firstKept,
+            firstTr,
+            end === -1 ? firstKept.length : end,
+            'td_open'
+          )
+        }
+
+        if (cols <= 0) cols = 1
+
+        const segment: any[] = []
+
+        for (const s of sections) {
+          const m = s.marker
+          m.type = 'html_block'
+          m.tag = ''
+          m.nesting = 0
+          m.attrs = null
+          m.children = null
+          m.info = ''
+          m.markup = ''
+          m.content =
+            buildToggleHtml(cols, nextSectionAnchor(state)) +
+            '<tbody class="table-more-hidden">\n'
+          segment.push(m, ...s.kept, s.closer)
+        }
+
+        const merged = tokens.slice(0, i)
+        merged.push(...segment)
+        merged.push(tokens[i])
+        merged.push(...tokens.slice(j))
+        tokens.splice(0, tokens.length, ...merged)
+        i += segment.length + 1
+        continue
+      }
+
+      i++
+    }
+  })
+}

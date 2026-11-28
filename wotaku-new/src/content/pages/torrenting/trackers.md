@@ -1,0 +1,85 @@
+---
+title: Trackers
+customDescription: List of public and private trackers
+outline: [2, 3]
+og:
+  image: /embed/tor.png
+---
+
+## English
+
+::: tabs
+
+== Public Trackers
+
+| Category    | Websites |
+|-------------|----------|
+| **General** | [Nyaa](https://nyaa.si/) :s: ==m:nyaa== |
+| ^^          | [Tokyo Toshokan](https://www.tokyotosho.info/) [:alt:](https://tokyo-tosho.net/) |
+| **Anime**   | [AniRena](https://www.anirena.com/) |
+| ^^          | [nekoBT](https://nekobt.to/) |
+| ^^          | [Shana Project](https://www.shanaproject.com/) |
+| ^^          | [TsukiHime](https://tsukihime.org/) :ddl::usnt: |
+| **NSFW**    | [Sukebei](https://sukebei.nyaa.si/) |
+
+== Private Trackers
+
+| Category        | Websites |
+|-----------------|----------|
+| **General**     | [AnimeBytes](https://animebytes.tv/) |
+| ^^              | [BakaBT](https://bakabt.me/) [:help:](https://wiki.bakabt.me/index.php/Sign_up) |
+| **Anime**       | [AnimeZ](https://animez.to/) [:d:](https://discord.gg/r46CFUEBNu) |
+| ^^              | [U2](https://u2.dmhy.org/portal.php) |
+| **Books**       | [MyAnonamouse](https://myanonamouse.net/) [:help:](https://www.myanonamouse.net/inviteapp.php) |
+| **Games**       | [Gazelle Games](https://gazellegames.net/) |
+| **Live Action** | [AvistaZ](https://avistaz.to/) [:d:](https://discord.gg/r46CFUEBNu) |
+| ^^              | [AsianCinema](https://eiga.moi/) |
+| ^^              | [JPTVTS](https://jptvts.us/) |
+| **Music**       | [Redacted](https://redacted.sh/) [:help:](https://interviewfor.red/en/index.html) |
+| ^^              | [JPopsuki](https://jpopsuki.eu/) |
+| ^^              | [Orpheus](https://orpheus.network/) |
+| ^^              | [Bemaniso](https://bemaniso.ws/) |
+| ^^              | [Aidoru](https://aidoru-online.me/) |
+| **NSFW**        | [ExoticaZ](https://exoticaz.to/) [:d:](https://discord.gg/r46CFUEBNu) |
+| ^^              | [Empornium](https://www.empornium.sx/) |
+| ^^              | [ClearJAV](https://clearjav.com/) |
+
+::: tip Related resources
+- [InstallGentoo Wiki](https://igwiki.lyci.de//wiki/Private_trackers) :s:
+- [Invite Route Graph](https://inviteroute.github.io/graph/) :ded: [:src:](https://github.com/inviteroute/graph)
+:::
+
+:::
+
+## Non-English
+
+::: tabs
+
+== Chinese
+
+| Category    | Websites |
+|-------------|----------|
+| **General** | [DMHY](https://dmhy.org/) |
+| ^^          | [MioBT](http://www.miobt.com/) |
+| **Anime**   | [ACG.RIP](https://acg.rip/) |
+| ^^          | [ACGNX](https://share.acgnx.se/) |
+| ^^          | [AniBT](https://anibt.net/) |
+| ^^          | [Anime Garden](https://animes.garden/) |
+| ^^          | [Bangumi.moe](https://bangumi.moe/) |
+| ^^          | [Mikan Project](https://mikanani.me/) [:src:](https://github.com/iota9star/mikan_flutter) |
+| ^^          | [Nyaa Pantsu](https://ouo.si/) |
+
+== Others
+
+| Language    | Websites |
+|-------------|----------|
+| **Catalan** | [TotsRucs](http://forum.totsrucs.cat/) |
+| **German** | [AnimeWorld](https://animeworld.cx/) ||Private|| |
+| ^^ | [RocketHD](https://rocket-hd.cc/) ||Private|| |
+| **Greek** | [AnimeClipse](http://www.animeclipse.com/index.php) |
+| ^^ | [Sick-Fansubs](https://sickfansubs.com/) |
+| **Portuguese** | [DarkMahou](https://darkmahou.io/) |
+| **Russian** | [Animelayer](http://animelayer.ru/) :acc: |
+| **Spanish** | [Union Fansub](https://foro.unionfansub.com/) :acc: |
+
+:::

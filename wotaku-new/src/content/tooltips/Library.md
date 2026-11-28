@@ -1,0 +1,6 @@
+- Estimated and rounded up.
+- Includes all types/origins.
+- Duped and empty entries have been excluded.
+- Some numbers may still be inflated despite our efforts.
+- These stats are not monitored in real time.
+- Will be updated periodically.
