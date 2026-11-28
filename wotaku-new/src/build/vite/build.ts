@@ -68,10 +68,7 @@ const renderHead = (tags: HeadConfig[]) =>
     })
     .join('')
 const font = Object.values(manifest).find(
-  (entry) =>
-    entry.file.includes('inter-roman-latin-') &&
-    entry.file.endsWith('.woff2') &&
-    !entry.file.includes('latin-ext')
+  (entry) => entry.file.includes('AlloVariableFriendly-') && entry.file.endsWith('.woff2')
 )
 const preload = (file: string | undefined, imports: string[] = []) => {
   const files = new Set<string>()

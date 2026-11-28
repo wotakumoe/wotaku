@@ -59,6 +59,9 @@ importers:
       '@vueuse/integrations':
         specifier: 14.0.0
         version: 14.0.0(focus-trap@7.6.6)(vue@3.5.24(typescript@5.6.3))
+      allo-font:
+        specifier: 1.1.1
+        version: 1.1.1
       floating-vue:
         specifier: 5.2.2
         version: 5.2.2(vue@3.5.24(typescript@5.6.3))
@@ -1770,6 +1773,9 @@ packages:
     resolution: {integrity: sha512-oJlA3XiRm7Cyk6qFD2Jn8ak9B7jSy0qy00ADO3+8dpT0LSjFihQYv4C02LFCSYJV3Q37xYwwRy5m+IpIiUzqWw==}
     engines: {node: '>=0.4.0'}
     hasBin: true
+
+  allo-font@1.1.1:
+    resolution: {integrity: sha512-DLDG6KM2GWzaPm8MHY0hSHsTUJqElLQUhtyhMb+QmDZaGxK1H5ceM3uOsYd1YeyWj8w5h6t+xosNiPOHfhewhQ==}
 
   argparse@1.0.10:
     resolution: {integrity: sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg==}
@@ -3946,6 +3952,8 @@ snapshots:
       vue: 3.5.24(typescript@5.6.3)
 
   acorn@8.19.0: {}
+
+  allo-font@1.1.1: {}
 
   argparse@1.0.10:
     dependencies:

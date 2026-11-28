@@ -12,7 +12,6 @@ import { resolve } from 'node:path'
 import { type Font, render } from 'takumi-js'
 import { Renderer } from 'takumi-js/node'
 import { OgImageTemplate } from './image-template'
-import { repositoryRoot } from '../paths.ts'
 
 interface ContentData {
   url: string
@@ -24,11 +23,12 @@ interface SiteConfig {
   outDir: string
 }
 
-const __fonts = resolve(repositoryRoot, 'src/build/opengraph/fonts')
 const fonts: Font[] = [
   {
-    name: 'Inter',
-    data: await readFile(resolve(__fonts, 'Inter-Variable.ttf')),
+    name: 'Allo',
+    data: await readFile(
+      new URL(import.meta.resolve('allo-font/fonts/webfonts/AlloVariableFriendly.woff2'))
+    ),
     weight: 400,
     style: 'normal'
   }

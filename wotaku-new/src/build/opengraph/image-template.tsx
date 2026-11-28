@@ -15,7 +15,7 @@ type OgImageTemplateProps = {
 
 export function OgImageTemplate({ title, image }: OgImageTemplateProps) {
   return (
-    <div tw="w-full h-full bg-black flex flex-col relative overflow-hidden font-[Inter]">
+    <div tw="w-full h-full bg-black flex flex-col relative overflow-hidden font-[Allo]">
       <img tw="absolute inset-0 w-full h-full object-cover" src={image} />
       <div tw="relative z-1 p-10 w-full min-h-0 grow flex flex-col items-center justify-between">
         <div tw="w-full flex justify-between items-center text-5xl font-medium">

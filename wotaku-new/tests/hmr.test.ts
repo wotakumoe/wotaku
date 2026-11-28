@@ -792,6 +792,38 @@ test('sentence and callout links stay underlined while link-only entries stay qu
   }
 })
 
+test('reading typography loads Allo locally and keeps code monospace', async () => {
+  const context = await browser.newContext()
+
+  try {
+    await context.route('https://**', (route) => route.abort())
+    const reader = await context.newPage()
+    await reader.goto(new URL('/guides/manga/cubari', page.url()).href)
+    await reader.getByText('# Comic metadata', { exact: true }).waitFor()
+    const typography = await reader.evaluate(async () => {
+      await document.fonts.ready
+      const italic = await document.fonts.load('italic 400 16px Allo')
+
+      return {
+        body: getComputedStyle(document.body).fontFamily,
+        code: getComputedStyle(document.querySelector('pre code')!).fontFamily,
+        regularLoaded: [...document.fonts].some(
+          (font) =>
+            font.family === 'Allo' && font.style === 'normal' && font.status === 'loaded'
+        ),
+        italicLoaded: italic.some((font) => font.status === 'loaded')
+      }
+    })
+    expect(typography.body.split(',')[0]).toBe('Allo')
+    expect(typography.code).toContain('monospace')
+    expect(typography.code).not.toContain('Allo')
+    expect(typography.regularLoaded).toBe(true)
+    expect(typography.italicLoaded).toBe(true)
+  } finally {
+    await context.close()
+  }
+})
+
 test('reading links and Install actions remain legible with appearance preferences', async () => {
   const origin = new URL(page.url()).origin
 

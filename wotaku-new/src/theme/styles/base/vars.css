@@ -270,8 +270,8 @@
 
 :root {
   --wotaku-font-family-base:
-    'Inter', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-    'Segoe UI Symbol', 'Noto Color Emoji';
+    'Allo', 'Inter', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   --wotaku-font-family-mono:
     ui-monospace, 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New',
     monospace;
@@ -280,8 +280,8 @@
 
 :root:where(:lang(zh)) {
   --wotaku-font-family-base:
-    'Punctuation SC', 'Inter', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
-    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    'Punctuation SC', 'Allo', 'Inter', ui-sans-serif, system-ui, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 /**

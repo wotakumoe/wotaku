@@ -6,10 +6,10 @@
  * All rights reserved. This code and its associated files may not be copied, modified, distributed, sublicensed, or used in any form, in whole or in part, without prior written permission from the copyright holder.
  */
 
-/* webfont-marker-begin */
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-/* webfont-marker-end */
+@import 'allo-font/friendly';
 
+/* Allo lacks Cyrillic, Greek, and some extended Latin glyphs. Keep these
+   local faces as a character fallback rather than downloading another font. */
 @font-face {
   font-family: Inter;
   font-style: normal;

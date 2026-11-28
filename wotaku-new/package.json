@@ -40,6 +40,7 @@
     "@vue/devtools-api": "8.0.3",
     "@vueuse/core": "14.0.0",
     "@vueuse/integrations": "14.0.0",
+    "allo-font": "1.1.1",
     "floating-vue": "5.2.2",
     "focus-trap": "7.6.6",
     "fs-extra": "11.3.2",
